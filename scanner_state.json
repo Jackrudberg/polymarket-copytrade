@@ -1,14 +1,45 @@
 {
   "seen_ids": [
-    "fifwc-eng-arg-2026-07-15-btts::No",
-    "lol-milo-ly-2026-07-15-game2::MIBR.LOS",
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "fifwc-eng-arg-2026-07-15-team-to-advance::England",
-    "lol-fur-dk-2026-07-15-game2::Dplus KIA",
-    "fifwc-eng-arg-2026-07-15-draw::No",
-    "lol-ts-kc-2026-07-15::Karmine Corp"
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 2573698.4,
+      "holders": [
+        {
+          "trader": "asparagus2012",
+          "roi": 0.4431,
+          "value": 1946699.65,
+          "avg_price": 0.1332,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "stubblyballs",
+          "roi": 0.2017,
+          "value": 564878.95,
+          "avg_price": 0.5688,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.2006,
+          "value": 32750.14,
+          "avg_price": 0.1489,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "norrisfan",
+          "roi": 0.1781,
+          "value": 29369.66,
+          "avg_price": 0.0166,
+          "cur_price": 0.5815
+        }
+      ]
+    },
     {
       "market": "England vs. Argentina: Both Teams to Score",
       "slug": "fifwc-eng-arg-2026-07-15-btts",
@@ -122,43 +153,6 @@
           "value": 6353.82,
           "avg_price": 0.34,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 2573698.4,
-      "holders": [
-        {
-          "trader": "asparagus2012",
-          "roi": 0.4431,
-          "value": 1946699.65,
-          "avg_price": 0.1332,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "stubblyballs",
-          "roi": 0.2017,
-          "value": 564878.95,
-          "avg_price": 0.5688,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2006,
-          "value": 32750.14,
-          "avg_price": 0.1489,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "norrisfan",
-          "roi": 0.1781,
-          "value": 29369.66,
-          "avg_price": 0.0166,
-          "cur_price": 0.5815
         }
       ]
     },
@@ -471,307 +465,6 @@
           "cur_price": 0.3437
         }
       ]
-    },
-    {
-      "market": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
-      "slug": "dota2-bb4-lgd-2026-07-15-game1",
-      "outcome": "BetBoom Team",
-      "num_traders": 8,
-      "total_value": 89759.03,
-      "holders": [
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2111,
-          "value": 26949.97,
-          "avg_price": 0.7163,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "itachi-uchiha",
-          "roi": 0.2052,
-          "value": 16267.48,
-          "avg_price": 0.708,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.2355,
-          "value": 12890.05,
-          "avg_price": 0.724,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "epend",
-          "roi": 0.218,
-          "value": 12846.22,
-          "avg_price": 0.629,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Dota2winner",
-          "roi": 0.1541,
-          "value": 9995,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI",
-          "roi": 0.2966,
-          "value": 4747.62,
-          "avg_price": 0.7184,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Happyaq",
-          "roi": 0.265,
-          "value": 3325.06,
-          "avg_price": 0.6199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2446,
-          "value": 2737.63,
-          "avg_price": 0.73,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: 1win vs Vici Gaming - Game 2 Winner",
-      "slug": "dota2-1win-vg-2026-07-15-game2",
-      "outcome": "Vici Gaming",
-      "num_traders": 8,
-      "total_value": 62670.86,
-      "holders": [
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2111,
-          "value": 17956.92,
-          "avg_price": 0.2512,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Dota2winner",
-          "roi": 0.1541,
-          "value": 17713.12,
-          "avg_price": 0.2047,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.2355,
-          "value": 8603.7,
-          "avg_price": 0.25,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "itachi-uchiha",
-          "roi": 0.2052,
-          "value": 7361.36,
-          "avg_price": 0.2544,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI",
-          "roi": 0.2966,
-          "value": 6522.74,
-          "avg_price": 0.24,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Happyaq",
-          "roi": 0.265,
-          "value": 2091.25,
-          "avg_price": 0.42,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2446,
-          "value": 1422.28,
-          "avg_price": 0.26,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.1566,
-          "value": 999.49,
-          "avg_price": 0.26,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Movistar KOI vs GAM Esports (BO3) - Esports World Cup Group C",
-      "slug": "lol-mkoi-gam-2026-07-15",
-      "outcome": "GAM Esports",
-      "num_traders": 6,
-      "total_value": 77325.15,
-      "holders": [
-        {
-          "trader": "itachi-uchiha",
-          "roi": 0.2052,
-          "value": 21481.45,
-          "avg_price": 0.3972,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.4167,
-          "value": 14305.56,
-          "avg_price": 0.2898,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2111,
-          "value": 13685.27,
-          "avg_price": 0.3945,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.1566,
-          "value": 10188.71,
-          "avg_price": 0.39,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2446,
-          "value": 9995,
-          "avg_price": 0.4,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "llllllIIIIIIlIllllllIIIIIIlIllllllIIIIIIlI",
-          "roi": 0.2966,
-          "value": 7669.16,
-          "avg_price": 0.3754,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 656605.8,
-      "holders": [
-        {
-          "trader": "pako",
-          "roi": 0.7223,
-          "value": 463154.61,
-          "avg_price": 0.9179,
-          "cur_price": 0.9525
-        },
-        {
-          "trader": "gaven-willwin",
-          "roi": 0.2728,
-          "value": 192803.67,
-          "avg_price": 0.7872,
-          "cur_price": 0.9525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.211,
-          "value": 647.52,
-          "avg_price": 0.2,
-          "cur_price": 0.9525
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team Secret  vs Karmine Corp - Game 1 Winner",
-      "slug": "lol-ts-kc-2026-07-15-game1",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 8882.93,
-      "holders": [
-        {
-          "trader": "Happyaq",
-          "roi": 0.265,
-          "value": 6491.45,
-          "avg_price": 0.639,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2446,
-          "value": 1856.06,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2111,
-          "value": 535.42,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Elizabeth Dickerson be the Maine Senate Democratic nominee on July 27?",
-      "slug": "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1307.76,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.211,
-          "value": 596.97,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.1666,
-          "value": 473.89,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "rustyc.law-",
-          "roi": 0.1946,
-          "value": 236.9,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Will David Costello be the Maine Senate Democratic nominee on July 27?",
-      "slug": "will-candidate-f-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929404",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1307.76,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.211,
-          "value": 596.97,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.1666,
-          "value": 473.89,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "rustyc.law-",
-          "roi": 0.1946,
-          "value": 236.9,
-          "avg_price": 0.0555,
-          "cur_price": 0.425
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -792,17 +485,23 @@
     "will-argentina-win-the-2026-fifa-world-cup-245::No": 3,
     "lol-mkoi-gam-2026-07-15-game2::GAM Esports": 3,
     "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
-    "dota2-bb4-lgd-2026-07-15-game1::BetBoom Team": 2,
-    "dota2-1win-vg-2026-07-15-game2::Vici Gaming": 2,
-    "lol-mkoi-gam-2026-07-15::GAM Esports": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2,
-    "lol-ts-kc-2026-07-15-game1::Karmine Corp": 2,
-    "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405::Yes": 2,
-    "will-candidate-f-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929404::Yes": 2,
-    "dota2-1win-vg-2026-07-15::Vici Gaming": 1,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1,
-    "lol-milo-ly-2026-07-15-game1::MIBR.LOS": 1,
-    "fifwc-eng-arg-2026-07-15-eng::Yes": 1
+    "dota2-bb4-lgd-2026-07-15-game1::BetBoom Team": 3,
+    "dota2-1win-vg-2026-07-15-game2::Vici Gaming": 3,
+    "lol-mkoi-gam-2026-07-15::GAM Esports": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
+    "lol-ts-kc-2026-07-15-game1::Karmine Corp": 3,
+    "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405::Yes": 3,
+    "will-candidate-f-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929404::Yes": 3,
+    "dota2-1win-vg-2026-07-15::Vici Gaming": 2,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
+    "lol-milo-ly-2026-07-15-game1::MIBR.LOS": 2,
+    "fifwc-eng-arg-2026-07-15-eng::Yes": 2,
+    "fifwc-eng-arg-2026-07-15-btts::No": 1,
+    "lol-milo-ly-2026-07-15-game2::MIBR.LOS": 1,
+    "fifwc-eng-arg-2026-07-15-team-to-advance::England": 1,
+    "lol-fur-dk-2026-07-15-game2::Dplus KIA": 1,
+    "fifwc-eng-arg-2026-07-15-draw::No": 1,
+    "lol-ts-kc-2026-07-15::Karmine Corp": 1
   },
-  "updated_at": "2026-07-15T20:42:44.496699+00:00"
+  "updated_at": "2026-07-15T21:41:44.142007+00:00"
 }
