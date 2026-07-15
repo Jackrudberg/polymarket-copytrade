@@ -181,25 +181,85 @@ def load_previous_state():
     return {"seen_ids": []}
 
 
-def save_state(signals):
+def save_state(signals, missing_counts=None, tracked_signals=None):
+    payload = {
+        "seen_ids": [signal_id(s) for s in signals],
+        "signals": tracked_signals if tracked_signals is not None else signals,
+        "missing_counts": missing_counts or {},
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+    }
     with open(STATE_FILE, "w") as f:
-        json.dump({"seen_ids": [signal_id(s) for s in signals],
-                    "updated_at": datetime.now(timezone.utc).isoformat()}, f)
+        json.dump(payload, f, indent=2)
+
+
+def _average_holder_price(signal, field):
+    prices = [h.get(field) for h in signal.get("holders", [])]
+    prices = [float(price) for price in prices if price not in (None, "")]
+    return sum(prices) / len(prices) if prices else None
+
+
+def _signal_embed(signal, title_prefix, color):
+    entry = _average_holder_price(signal, "avg_price")
+    current = _average_holder_price(signal, "cur_price")
+    chase = current - entry if entry is not None and current is not None else None
+    holders = signal.get("holders", [])
+    trader_lines = [
+        f"• {h['trader']}: ${h['value']:,.0f} | ROI {h['roi']:.0%}"
+        for h in holders[:5]
+    ]
+    fields = [
+        {"name": "Side", "value": str(signal.get("outcome", "?")), "inline": True},
+        {"name": "Traders", "value": str(signal.get("num_traders", 0)), "inline": True},
+        {"name": "Combined", "value": f"${signal.get('total_value', 0):,.0f}", "inline": True},
+        {"name": "Avg entry", "value": f"{entry:.3f}" if entry is not None else "N/A", "inline": True},
+        {"name": "Current", "value": f"{current:.3f}" if current is not None else "N/A", "inline": True},
+        {"name": "Move since entry", "value": f"{chase:+.3f}" if chase is not None else "N/A", "inline": True},
+    ]
+    if trader_lines:
+        fields.append({"name": "Top holders", "value": "\n".join(trader_lines), "inline": False})
+    return {
+        "title": f"{title_prefix}: {signal.get('market', 'Unknown market')}"[:256],
+        "url": "https://polymarket.com/event/" + str(signal.get("slug", "")),
+        "color": color,
+        "fields": fields,
+        "footer": {"text": "Research alert only — verify price and liquidity before trading."},
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+
+
+def _post_discord(webhook_url, content, signals, title_prefix, color):
+    payload = {
+        "content": content,
+        "embeds": [_signal_embed(s, title_prefix, color) for s in signals[:10]],
+    }
+    response = requests.post(webhook_url, json=payload, timeout=15)
+    response.raise_for_status()
 
 
 def send_webhook(webhook_url, new_signals):
-    lines = [f"*New Polymarket consensus trade(s) found:*"]
-    for s in new_signals:
-        lines.append(
-            f"• *{s['market']}* -> *{s['outcome']}* "
-            f"({s['num_traders']} traders, ~${s['total_value']:,}) "
-            f"https://polymarket.com/event/{s['slug']}"
-        )
-    payload = {"text": "\n".join(lines)}
     try:
-        requests.post(webhook_url, json=payload, timeout=10)
+        _post_discord(
+            webhook_url,
+            "🚨 **New Polymarket consensus trade detected**",
+            new_signals,
+            "NEW CONSENSUS",
+            0x2ECC71,
+        )
     except requests.RequestException as e:
-        print(f"  ! webhook delivery failed: {e}")
+        print(f"  ! Discord alert delivery failed: {e}")
+
+
+def send_exit_webhook(webhook_url, lost_signals):
+    try:
+        _post_discord(
+            webhook_url,
+            "⚠️ **Consensus lost for a tracked Polymarket signal**",
+            lost_signals,
+            "CONSENSUS LOST",
+            0xE74C3C,
+        )
+    except requests.RequestException as e:
+        print(f"  ! Discord exit alert delivery failed: {e}")
 
 
 def run_once(args):

@@ -57,13 +57,14 @@ def save_paper_trades(ledger):
     os.replace(temporary, PAPER_FILE)
 
 
-def update_paper_trades(signals, new_signals, stake=DEFAULT_STAKE):
+def update_paper_trades(signals, new_signals, lost_signals=None, stake=DEFAULT_STAKE):
     """Add new alerts and mark existing paper trades to current signal prices."""
     ledger = load_paper_trades()
     ledger["stake_per_trade"] = float(stake)
     trades = ledger["trades"]
     by_id = {trade.get("signal_id"): trade for trade in trades}
     now = datetime.now(timezone.utc).isoformat()
+    lost_ids = {signal_id(signal) for signal in (lost_signals or [])}
 
     # Mark existing trades to the latest price while their signal is visible.
     for signal in signals:
@@ -77,6 +78,13 @@ def update_paper_trades(signals, new_signals, stake=DEFAULT_STAKE):
         trade["paper_pnl"] = round(trade["current_value"] - trade["stake"], 2)
         trade["return_percent"] = round(100 * trade["paper_pnl"] / trade["stake"], 2)
         trade["last_seen"] = now
+        trade["status"] = "OPEN"
+
+    for key in lost_ids:
+        trade = by_id.get(key)
+        if trade:
+            trade["status"] = "CONSENSUS_LOST"
+            trade["consensus_lost_at"] = now
 
     added = []
     for signal in new_signals:
@@ -101,6 +109,7 @@ def update_paper_trades(signals, new_signals, stake=DEFAULT_STAKE):
             "current_value": float(stake),
             "paper_pnl": 0.0,
             "return_percent": 0.0,
+            "status": "OPEN",
             "num_traders": signal.get("num_traders"),
             "combined_value": signal.get("total_value"),
             "traders": [holder.get("trader") for holder in signal.get("holders", [])],
