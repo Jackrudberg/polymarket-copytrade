@@ -1,8 +1,215 @@
 {
-  "seen_ids": [],
-  "signals": [],
-  "missing_counts": {
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 3
-  },
-  "updated_at": "2026-07-15T10:26:18.300784+00:00"
+  "seen_ids": [
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "lol-ts-sen-2026-07-15::Sentinels",
+    "dota2-ts8-liquid-2026-07-15-game1::Team Liquid",
+    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523::No",
+    "iran-full-airspace-closure-by-july-31-20260625195254150::Yes",
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes"
+  ],
+  "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 87101.95,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1766,
+          "value": 39805.56,
+          "avg_price": 0.0871,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.3166,
+          "value": 32750.14,
+          "avg_price": 0.1489,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "restart77",
+          "roi": 0.3553,
+          "value": 10185.0,
+          "avg_price": 0.4999,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "Rex416",
+          "roi": 0.2897,
+          "value": 4361.25,
+          "avg_price": 0.2024,
+          "cur_price": 0.5815
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team Secret  vs Sentinels (BO1) - Esports World Cup Group B",
+      "slug": "lol-ts-sen-2026-07-15",
+      "outcome": "Sentinels",
+      "num_traders": 4,
+      "total_value": 73160.09,
+      "holders": [
+        {
+          "trader": "Anjun",
+          "roi": 0.2534,
+          "value": 22302.09,
+          "avg_price": 0.39,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.4038,
+          "value": 19989.82,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.2692,
+          "value": 16215.09,
+          "avg_price": 0.4612,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.3166,
+          "value": 14653.09,
+          "avg_price": 0.4616,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-ts8-liquid-2026-07-15-game1",
+      "outcome": "Team Liquid",
+      "num_traders": 4,
+      "total_value": 2955.11,
+      "holders": [
+        {
+          "trader": "facaigege",
+          "roi": 0.2669,
+          "value": 1550.0,
+          "avg_price": 0.33,
+          "cur_price": 0.155
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.3166,
+          "value": 1113.24,
+          "avg_price": 0.4372,
+          "cur_price": 0.135
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.4038,
+          "value": 156.87,
+          "avg_price": 0.43,
+          "cur_price": 0.135
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.2692,
+          "value": 135,
+          "avg_price": 0.44,
+          "cur_price": 0.135
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 164262.78,
+      "holders": [
+        {
+          "trader": "JnStTrdrBnusFnd",
+          "roi": 0.2064,
+          "value": 156608.4,
+          "avg_price": 0.5739,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.2534,
+          "value": 6917.7,
+          "avg_price": 0.5162,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
+          "roi": 0.1502,
+          "value": 736.68,
+          "avg_price": 0.3184,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Iran full airspace closure by July 31?",
+      "slug": "iran-full-airspace-closure-by-july-31-20260625195254150",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4786.07,
+      "holders": [
+        {
+          "trader": "junifund1",
+          "roi": 0.2445,
+          "value": 3000.48,
+          "avg_price": 0.3108,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "Rex416",
+          "roi": 0.2897,
+          "value": 1180.0,
+          "avg_price": 0.2698,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1766,
+          "value": 605.59,
+          "avg_price": 0.471,
+          "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 721.38,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1766,
+          "value": 369.03,
+          "avg_price": 0.0312,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "winnerSpecter",
+          "roi": 0.4886,
+          "value": 208.49,
+          "avg_price": 0.0312,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Rex416",
+          "roi": 0.2897,
+          "value": 143.86,
+          "avg_price": 0.51,
+          "cur_price": 0.615
+        }
+      ]
+    }
+  ],
+  "missing_counts": {},
+  "updated_at": "2026-07-15T12:01:49.064485+00:00"
 }
