@@ -1,4 +1,4 @@
-"""One cloud-safe scan used by the scheduled GitHub Actions workflow."""
+"""One cloud-safe scan with a $100-per-alert paper-trading ledger."""
 
 import os
 
@@ -10,6 +10,7 @@ from copytrade_scanner_v2 import (
     send_webhook,
     signal_id,
 )
+from paper_tracker import paper_summary, update_paper_trades
 
 
 def main():
@@ -29,8 +30,7 @@ def main():
         verbose=True,
     )
 
-    # The first cloud run establishes a baseline so it does not send a large
-    # batch of alerts for positions that were already present before launch.
+    new_signals = []
     if previous_ids:
         new_signals = [s for s in signals if signal_id(s) not in previous_ids]
         if new_signals:
@@ -40,6 +40,16 @@ def main():
             print("No new consensus trades since the previous cloud scan.")
     else:
         print(f"Cloud baseline created with {len(signals)} current signals.")
+
+    ledger, added = update_paper_trades(signals, new_signals, stake=100.0)
+    summary = paper_summary(ledger)
+    print(
+        "Paper tracker: "
+        f"{summary['trades']} trades, ${summary['total_staked']:.2f} staked, "
+        f"${summary['paper_pnl']:+.2f} P&L ({summary['return_percent']:+.2f}%)."
+    )
+    if added:
+        print(f"Added {len(added)} new $100 paper trade(s).")
 
     save_state(signals)
 
