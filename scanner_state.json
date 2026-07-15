@@ -1,75 +1,563 @@
 {
   "seen_ids": [
-    "lol-ly-jdg-2026-07-15::JD Gaming",
-    "lol-ts-kc-2026-07-15-game2::Karmine Corp",
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "lol-mkoi-gam-2026-07-15-game1::Movistar KOI",
-    "lol-ts-kc-2026-07-15-game1::Karmine Corp",
-    "lol-mkoi-gam-2026-07-15-game2::GAM Esports",
-    "dota2-ts8-liquid-2026-07-15-game-handicap-away-1pt5::Team Liquid",
     "lol-ts-kc-2026-07-15::Karmine Corp",
-    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523::No",
+    "lol-ly-jdg-2026-07-15::JD Gaming",
+    "dota2-ts8-liquid-2026-07-15-game-handicap-away-1pt5::Team Liquid",
+    "lol-mkoi-gam-2026-07-15-game1::Movistar KOI",
+    "lol-mkoi-gam-2026-07-15::GAM Esports",
     "will-argentina-win-the-2026-fifa-world-cup-245::No",
-    "will-wti-reach-90-in-july-2026-334::No",
+    "fifwc-eng-arg-2026-07-15-team-to-advance::England",
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes"
+    "dota2-bb4-lgd-2026-07-15-game1::BetBoom Team",
+    "lol-mkoi-gam-2026-07-15-game2::GAM Esports",
+    "dota2-1win-vg-2026-07-15::Vici Gaming",
+    "lol-ts-kc-2026-07-15-game1::Karmine Corp",
+    "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes",
+    "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405::Yes",
+    "will-candidate-f-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929404::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 6,
+      "total_value": 102322.8,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1939,
+          "value": 39805.56,
+          "avg_price": 0.0871,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 32750.14,
+          "avg_price": 0.1489,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.1752,
+          "value": 18489.66,
+          "avg_price": 0.5553,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "restart77",
+          "roi": 0.2767,
+          "value": 10185.0,
+          "avg_price": 0.4999,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "Prediqa",
+          "roi": 0.1794,
+          "value": 581.49,
+          "avg_price": 0.549,
+          "cur_price": 0.5815
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2112,
+          "value": 510.95,
+          "avg_price": 0.0166,
+          "cur_price": 0.5815
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team Secret  vs Karmine Corp (BO3) - Esports World Cup Group B",
+      "slug": "lol-ts-kc-2026-07-15",
+      "outcome": "Karmine Corp",
+      "num_traders": 5,
+      "total_value": 16604.85,
+      "holders": [
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.1752,
+          "value": 8448.87,
+          "avg_price": 0.62,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.2138,
+          "value": 4997.5,
+          "avg_price": 0.9,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 2296.6,
+          "avg_price": 0.67,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 646.68,
+          "avg_price": 0.68,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "needheal",
+          "roi": 0.1646,
+          "value": 215.2,
+          "avg_price": 0.67,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: LYON vs JD Gaming (BO1) - Esports World Cup Group D",
       "slug": "lol-ly-jdg-2026-07-15",
       "outcome": "JD Gaming",
-      "num_traders": 7,
-      "total_value": 104930.84,
+      "num_traders": 4,
+      "total_value": 80715.91,
       "holders": [
         {
           "trader": "needheal",
-          "roi": 0.1521,
+          "roi": 0.1646,
           "value": 62068.66,
           "avg_price": 0.54,
           "cur_price": 0.9995
         },
         {
           "trader": "DuckDuckDuckling",
-          "roi": 0.2321,
+          "roi": 0.1752,
           "value": 10424.44,
           "avg_price": 0.58,
           "cur_price": 0.9995
         },
         {
-          "trader": "MissingJoy",
-          "roi": 0.2443,
-          "value": 10017.05,
-          "avg_price": 0.5563,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
+          "roi": 0.1625,
           "value": 7496.23,
           "avg_price": 0.58,
           "cur_price": 0.9995
         },
         {
-          "trader": "retordedgremlin125",
-          "roi": 0.2064,
-          "value": 7108.43,
-          "avg_price": 0.5624,
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 726.58,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Game Handicap: TS (-1.5) vs Team Liquid (+1.5)",
+      "slug": "dota2-ts8-liquid-2026-07-15-game-handicap-away-1pt5",
+      "outcome": "Team Liquid",
+      "num_traders": 4,
+      "total_value": 53480.83,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.1646,
+          "value": 21711.73,
+          "avg_price": 0.5452,
           "cur_price": 0.9995
         },
         {
-          "trader": "Happyaq",
-          "roi": 0.2209,
-          "value": 7089.45,
-          "avg_price": 0.58,
+          "trader": "facaigege",
+          "roi": 0.2138,
+          "value": 19990,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.187,
+          "value": 11429.29,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Prediqa",
+          "roi": 0.1794,
+          "value": 349.81,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Movistar KOI vs GAM Esports - Game 1 Winner",
+      "slug": "lol-mkoi-gam-2026-07-15-game1",
+      "outcome": "Movistar KOI",
+      "num_traders": 4,
+      "total_value": 45405.49,
+      "holders": [
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 20347.26,
+          "avg_price": 0.7036,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.1752,
+          "value": 13838.86,
+          "avg_price": 0.564,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Prediqa",
+          "roi": 0.1794,
+          "value": 6996.48,
+          "avg_price": 0.5257,
           "cur_price": 0.9995
         },
         {
           "trader": "vrcat",
-          "roi": 0.2576,
-          "value": 726.58,
-          "avg_price": 0.55,
+          "roi": 0.1846,
+          "value": 4222.89,
+          "avg_price": 0.71,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Movistar KOI vs GAM Esports (BO3) - Esports World Cup Group C",
+      "slug": "lol-mkoi-gam-2026-07-15",
+      "outcome": "GAM Esports",
+      "num_traders": 4,
+      "total_value": 39985.81,
+      "holders": [
+        {
+          "trader": "meoooow",
+          "roi": 0.3122,
+          "value": 14305.56,
+          "avg_price": 0.2898,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 13685.27,
+          "avg_price": 0.3945,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 9995,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Prediqa",
+          "roi": 0.1794,
+          "value": 1999.98,
+          "avg_price": 0.17,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 114368.57,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.1646,
+          "value": 60989.79,
+          "avg_price": 0.806,
+          "cur_price": 0.8025
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 38118.51,
+          "avg_price": 0.7891,
+          "cur_price": 0.8025
+        },
+        {
+          "trader": "luck00004",
+          "roi": 1.2929,
+          "value": 15260.27,
+          "avg_price": 0.8063,
+          "cur_price": 0.8025
+        }
+      ]
+    },
+    {
+      "market": "England vs. Argentina: Team to Advance",
+      "slug": "fifwc-eng-arg-2026-07-15-team-to-advance",
+      "outcome": "England",
+      "num_traders": 3,
+      "total_value": 95492.68,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.1646,
+          "value": 93742.16,
+          "avg_price": 0.5375,
+          "cur_price": 0.5412
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 1261.0,
+          "avg_price": 0.5375,
+          "cur_price": 0.5412
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1939,
+          "value": 489.52,
+          "avg_price": 0.5392,
+          "cur_price": 0.5412
+        }
+      ]
+    },
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 47976.42,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3672,
+          "value": 35112.89,
+          "avg_price": 0.6211,
+          "cur_price": 0.783
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1939,
+          "value": 9559.93,
+          "avg_price": 0.7293,
+          "cur_price": 0.783
+        },
+        {
+          "trader": "pako",
+          "roi": 0.722,
+          "value": 3303.6,
+          "avg_price": 0.7452,
+          "cur_price": 0.783
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: BetBoom Team vs LGD Gaming - Game 1 Winner",
+      "slug": "dota2-bb4-lgd-2026-07-15-game1",
+      "outcome": "BetBoom Team",
+      "num_traders": 3,
+      "total_value": 42533.82,
+      "holders": [
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 26949.97,
+          "avg_price": 0.7163,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "epend",
+          "roi": 0.3104,
+          "value": 12846.22,
+          "avg_price": 0.629,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 2737.63,
+          "avg_price": 0.73,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Movistar KOI vs GAM Esports - Game 2 Winner",
+      "slug": "lol-mkoi-gam-2026-07-15-game2",
+      "outcome": "GAM Esports",
+      "num_traders": 3,
+      "total_value": 35189.17,
+      "holders": [
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 27671.55,
+          "avg_price": 0.3863,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 6371.81,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.1752,
+          "value": 1145.81,
+          "avg_price": 0.67,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: 1win vs Vici Gaming (BO3) - Esports World Cup Survival",
+      "slug": "dota2-1win-vg-2026-07-15",
+      "outcome": "Vici Gaming",
+      "num_traders": 3,
+      "total_value": 25451.56,
+      "holders": [
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 15266.94,
+          "avg_price": 0.4031,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.187,
+          "value": 8858.74,
+          "avg_price": 0.4424,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 1325.88,
+          "avg_price": 0.41,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team Secret  vs Karmine Corp - Game 1 Winner",
+      "slug": "lol-ts-kc-2026-07-15-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 4419.03,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.1646,
+          "value": 2027.55,
+          "avg_price": 0.64,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.1846,
+          "value": 1856.06,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WHYWHYWHYWHYWHYWHY",
+          "roi": 0.1625,
+          "value": 535.42,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3465.75,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1939,
+          "value": 2325.15,
+          "avg_price": 0.2538,
+          "cur_price": 0.5285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2112,
+          "value": 612.26,
+          "avg_price": 0.0125,
+          "cur_price": 0.5285
+        },
+        {
+          "trader": "Prediqa",
+          "roi": 0.1794,
+          "value": 528.34,
+          "avg_price": 0.6057,
+          "cur_price": 0.5285
+        }
+      ]
+    },
+    {
+      "market": "Will Elizabeth Dickerson be the Maine Senate Democratic nominee on July 27?",
+      "slug": "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1369.3,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2112,
+          "value": 625.06,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.1682,
+          "value": 496.19,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "rustyc.law-",
+          "roi": 0.2034,
+          "value": 248.05,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Will David Costello be the Maine Senate Democratic nominee on July 27?",
+      "slug": "will-candidate-f-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929404",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1369.3,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2112,
+          "value": 625.06,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.1682,
+          "value": 496.19,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "rustyc.law-",
+          "roi": 0.2034,
+          "value": 248.05,
+          "avg_price": 0.0555,
+          "cur_price": 0.445
         }
       ]
     },
@@ -125,256 +613,6 @@
       ]
     },
     {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 101741.31,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.1931,
-          "value": 39805.56,
-          "avg_price": 0.0871,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
-          "value": 32750.14,
-          "avg_price": 0.1489,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "DuckDuckDuckling",
-          "roi": 0.2321,
-          "value": 18489.66,
-          "avg_price": 0.5553,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "restart77",
-          "roi": 0.316,
-          "value": 10185.0,
-          "avg_price": 0.4999,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2045,
-          "value": 510.95,
-          "avg_price": 0.0166,
-          "cur_price": 0.5815
-        }
-      ]
-    },
-    {
-      "market": "LoL: Movistar KOI vs GAM Esports - Game 1 Winner",
-      "slug": "lol-mkoi-gam-2026-07-15-game1",
-      "outcome": "Movistar KOI",
-      "num_traders": 5,
-      "total_value": 51551.89,
-      "holders": [
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
-          "value": 20347.26,
-          "avg_price": 0.7036,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "DuckDuckDuckling",
-          "roi": 0.2321,
-          "value": 13838.86,
-          "avg_price": 0.564,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Happyaq",
-          "roi": 0.2209,
-          "value": 7080.45,
-          "avg_price": 0.5287,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TIMETOMAKEIT",
-          "roi": 0.1926,
-          "value": 6062.43,
-          "avg_price": 0.4779,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2576,
-          "value": 4222.89,
-          "avg_price": 0.71,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team Secret  vs Karmine Corp - Game 1 Winner",
-      "slug": "lol-ts-kc-2026-07-15-game1",
-      "outcome": "Karmine Corp",
-      "num_traders": 5,
-      "total_value": 23175.11,
-      "holders": [
-        {
-          "trader": "MissingJoy",
-          "roi": 0.2443,
-          "value": 12264.63,
-          "avg_price": 0.6438,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Happyaq",
-          "roi": 0.2209,
-          "value": 6491.45,
-          "avg_price": 0.639,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "needheal",
-          "roi": 0.1521,
-          "value": 2027.55,
-          "avg_price": 0.64,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2576,
-          "value": 1856.06,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
-          "value": 535.42,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Movistar KOI vs GAM Esports - Game 2 Winner",
-      "slug": "lol-mkoi-gam-2026-07-15-game2",
-      "outcome": "GAM Esports",
-      "num_traders": 5,
-      "total_value": 19148.63,
-      "holders": [
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
-          "value": 12735.28,
-          "avg_price": 0.3863,
-          "cur_price": 0.46
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.2576,
-          "value": 3538.12,
-          "avg_price": 0.4,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "MissingJoy",
-          "roi": 0.2443,
-          "value": 1309.34,
-          "avg_price": 0.7205,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "TIMETOMAKEIT",
-          "roi": 0.1926,
-          "value": 929.65,
-          "avg_price": 0.54,
-          "cur_price": 0.46
-        },
-        {
-          "trader": "DuckDuckDuckling",
-          "roi": 0.2321,
-          "value": 636.24,
-          "avg_price": 0.67,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Game Handicap: TS (-1.5) vs Team Liquid (+1.5)",
-      "slug": "dota2-ts8-liquid-2026-07-15-game-handicap-away-1pt5",
-      "outcome": "Team Liquid",
-      "num_traders": 4,
-      "total_value": 55481.58,
-      "holders": [
-        {
-          "trader": "needheal",
-          "roi": 0.1521,
-          "value": 21711.73,
-          "avg_price": 0.5452,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.24,
-          "value": 19990,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.2261,
-          "value": 11429.29,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TIMETOMAKEIT",
-          "roi": 0.1926,
-          "value": 2350.56,
-          "avg_price": 0.54,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team Secret  vs Karmine Corp (BO3) - Esports World Cup Group B",
-      "slug": "lol-ts-kc-2026-07-15",
-      "outcome": "Karmine Corp",
-      "num_traders": 4,
-      "total_value": 13740.19,
-      "holders": [
-        {
-          "trader": "retordedgremlin125",
-          "roi": 0.2064,
-          "value": 7737.77,
-          "avg_price": 0.68,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "Happyaq",
-          "roi": 0.2209,
-          "value": 5425,
-          "avg_price": 0.67,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
-          "roi": 0.1641,
-          "value": 417.01,
-          "avg_price": 0.6893,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "needheal",
-          "roi": 0.1521,
-          "value": 160.41,
-          "avg_price": 0.67,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "slug": "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523",
       "outcome": "No",
@@ -405,36 +643,6 @@
       ]
     },
     {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 114511.08,
-      "holders": [
-        {
-          "trader": "needheal",
-          "roi": 0.1521,
-          "value": 61065.79,
-          "avg_price": 0.806,
-          "cur_price": 0.8035
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.2049,
-          "value": 38166.01,
-          "avg_price": 0.7891,
-          "cur_price": 0.8035
-        },
-        {
-          "trader": "luck00004",
-          "roi": 1.1687,
-          "value": 15279.28,
-          "avg_price": 0.8063,
-          "cur_price": 0.8035
-        }
-      ]
-    },
-    {
       "market": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
       "slug": "will-wti-reach-90-in-july-2026-334",
       "outcome": "No",
@@ -461,36 +669,6 @@
           "value": 657.21,
           "avg_price": 0.7099,
           "cur_price": 0.8015
-        }
-      ]
-    },
-    {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 47976.42,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.3429,
-          "value": 35112.89,
-          "avg_price": 0.6211,
-          "cur_price": 0.783
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1931,
-          "value": 9559.93,
-          "avg_price": 0.7293,
-          "cur_price": 0.783
-        },
-        {
-          "trader": "pako",
-          "roi": 0.6881,
-          "value": 3303.6,
-          "avg_price": 0.7452,
-          "cur_price": 0.783
         }
       ]
     },
@@ -620,150 +798,20 @@
           "cur_price": 0.365
         }
       ]
-    },
-    {
-      "market": "LoL: Team Secret  vs Sentinels (BO1) - Esports World Cup Group B",
-      "slug": "lol-ts-sen-2026-07-15",
-      "outcome": "Sentinels",
-      "num_traders": 4,
-      "total_value": 73160.09,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.2534,
-          "value": 22302.09,
-          "avg_price": 0.39,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.4038,
-          "value": 19989.82,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.2692,
-          "value": 16215.09,
-          "avg_price": 0.4612,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.3166,
-          "value": 14653.09,
-          "avg_price": 0.4616,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
-      "slug": "dota2-ts8-liquid-2026-07-15-game1",
-      "outcome": "Team Liquid",
-      "num_traders": 4,
-      "total_value": 2955.11,
-      "holders": [
-        {
-          "trader": "facaigege",
-          "roi": 0.2669,
-          "value": 1550.0,
-          "avg_price": 0.33,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.3166,
-          "value": 1113.24,
-          "avg_price": 0.4372,
-          "cur_price": 0.135
-        },
-        {
-          "trader": "vrcat",
-          "roi": 0.4038,
-          "value": 156.87,
-          "avg_price": 0.43,
-          "cur_price": 0.135
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.2692,
-          "value": 135,
-          "avg_price": 0.44,
-          "cur_price": 0.135
-        }
-      ]
-    },
-    {
-      "market": "Iran full airspace closure by July 31?",
-      "slug": "iran-full-airspace-closure-by-july-31-20260625195254150",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4786.07,
-      "holders": [
-        {
-          "trader": "junifund1",
-          "roi": 0.2445,
-          "value": 3000.48,
-          "avg_price": 0.3108,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "Rex416",
-          "roi": 0.2897,
-          "value": 1180.0,
-          "avg_price": 0.2698,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1766,
-          "value": 605.59,
-          "avg_price": 0.471,
-          "cur_price": 0.295
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 721.38,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.1766,
-          "value": 369.03,
-          "avg_price": 0.0312,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "winnerSpecter",
-          "roi": 0.4886,
-          "value": 208.49,
-          "avg_price": 0.0312,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "Rex416",
-          "roi": 0.2897,
-          "value": 143.86,
-          "avg_price": 0.51,
-          "cur_price": 0.615
-        }
-      ]
     }
   ],
   "missing_counts": {
-    "lol-ts-sen-2026-07-15::Sentinels": 2,
-    "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 2,
-    "iran-full-airspace-closure-by-july-31-20260625195254150::Yes": 2,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "lol-agal-dk-2026-07-15::AG.AL": 1,
-    "will-europe-win-the-2026-fifa-world-cup::Yes": 1,
-    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 1
+    "lol-ts-sen-2026-07-15::Sentinels": 3,
+    "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
+    "iran-full-airspace-closure-by-july-31-20260625195254150::Yes": 3,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "lol-agal-dk-2026-07-15::AG.AL": 2,
+    "will-europe-win-the-2026-fifa-world-cup::Yes": 2,
+    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 2,
+    "lol-ts-kc-2026-07-15-game2::Karmine Corp": 1,
+    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523::No": 1,
+    "will-wti-reach-90-in-july-2026-334::No": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1
   },
-  "updated_at": "2026-07-15T15:45:46.587024+00:00"
+  "updated_at": "2026-07-15T16:58:45.309188+00:00"
 }
