@@ -1,32 +1,61 @@
 {
   "seen_ids": [
+    "lol-agal-dk-2026-07-15::AG.AL",
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "lol-ts-sen-2026-07-15::Sentinels",
-    "dota2-ts8-liquid-2026-07-15-game1::Team Liquid",
-    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523::No",
-    "iran-full-airspace-closure-by-july-31-20260625195254150::Yes",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes"
+    "lol-ly-jdg-2026-07-15::JD Gaming",
+    "will-europe-win-the-2026-fifa-world-cup::Yes",
+    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: AG.AL vs Dplus KIA (BO1) - Esports World Cup Group A",
+      "slug": "lol-agal-dk-2026-07-15",
+      "outcome": "AG.AL",
+      "num_traders": 4,
+      "total_value": 58273.97,
+      "holders": [
+        {
+          "trader": "meoooow",
+          "roi": 0.7223,
+          "value": 25838.02,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.1768,
+          "value": 12414.97,
+          "avg_price": 0.4593,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.2498,
+          "value": 12181.76,
+          "avg_price": 0.5452,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retordedgremlin125",
+          "roi": 0.1833,
+          "value": 7839.22,
+          "avg_price": 0.5099,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
       "num_traders": 4,
-      "total_value": 87101.95,
+      "total_value": 33546.86,
       "holders": [
         {
-          "trader": "balthazar",
-          "roi": 0.1766,
-          "value": 39805.56,
-          "avg_price": 0.0871,
-          "cur_price": 0.5815
-        },
-        {
-          "trader": "WHYWHYWHYWHYWHYWHY",
-          "roi": 0.3166,
-          "value": 32750.14,
-          "avg_price": 0.1489,
+          "trader": "DuckDuckDuckling",
+          "roi": 0.2498,
+          "value": 18489.66,
+          "avg_price": 0.5553,
           "cur_price": 0.5815
         },
         {
@@ -38,10 +67,107 @@
         },
         {
           "trader": "Rex416",
-          "roi": 0.2897,
+          "roi": 0.2066,
           "value": 4361.25,
           "avg_price": 0.2024,
           "cur_price": 0.5815
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2049,
+          "value": 510.95,
+          "avg_price": 0.0166,
+          "cur_price": 0.5815
+        }
+      ]
+    },
+    {
+      "market": "LoL: LYON vs JD Gaming (BO1) - Esports World Cup Group D",
+      "slug": "lol-ly-jdg-2026-07-15",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 18259.45,
+      "holders": [
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.2498,
+          "value": 10424.44,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retordedgremlin125",
+          "roi": 0.1833,
+          "value": 7108.43,
+          "avg_price": 0.5624,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vrcat",
+          "roi": 0.2276,
+          "value": 726.58,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Europe (UEFA) win the 2026 FIFA World Cup?",
+      "slug": "will-europe-win-the-2026-fifa-world-cup",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 17684.07,
+      "holders": [
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.2498,
+          "value": 16123.36,
+          "avg_price": 0.6536,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "Rex416",
+          "roi": 0.2066,
+          "value": 795,
+          "avg_price": 0.64,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2049,
+          "value": 765.71,
+          "avg_price": 0.1428,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 898.6,
+      "holders": [
+        {
+          "trader": "0xc7D02944A76B9F83B199e9090ECC92C82d241F8a-1776944395495",
+          "roi": 0.2043,
+          "value": 437.04,
+          "avg_price": 0.3084,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2049,
+          "value": 333.81,
+          "avg_price": 0.0125,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "Baddie",
+          "roi": 0.5843,
+          "value": 127.75,
+          "avg_price": 0.0125,
+          "cur_price": 0.365
         }
       ]
     },
@@ -210,6 +336,12 @@
       ]
     }
   ],
-  "missing_counts": {},
-  "updated_at": "2026-07-15T12:01:49.064485+00:00"
+  "missing_counts": {
+    "lol-ts-sen-2026-07-15::Sentinels": 1,
+    "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 1,
+    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523::No": 1,
+    "iran-full-airspace-closure-by-july-31-20260625195254150::Yes": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1
+  },
+  "updated_at": "2026-07-15T14:04:33.893329+00:00"
 }
