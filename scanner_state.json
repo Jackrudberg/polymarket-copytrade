@@ -1,10 +1,5 @@
 {
-  "seen_ids": [
-    "lol-g2-dk-2026-07-16-game2::G2 Esports",
-    "lol-jdg-milo-2026-07-16-game1::JD Gaming",
-    "dota2-ty-ts8-2026-07-17-game2::Team Yandex",
-    "lol-kc-sen-2026-07-16-game2::Karmine Corp"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "LoL: G2 Esports vs Dplus KIA - Game 2 Winner",
@@ -452,145 +447,6 @@
           "cur_price": 0.425
         }
       ]
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs T1 (BO1) - Esports World Cup Group C",
-      "slug": "lol-blg-t1-2026-07-16",
-      "outcome": "Bilibili Gaming",
-      "num_traders": 10,
-      "total_value": 718774.08,
-      "holders": [
-        {
-          "trader": "S-Works",
-          "roi": 0.3613,
-          "value": 385885.9,
-          "avg_price": 0.6416,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "needheal",
-          "roi": 0.412,
-          "value": 92818.54,
-          "avg_price": 0.4737,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x34d1B6Df97f157fb4b7f64cB54092b6216bc308F-1780793649055",
-          "roi": 0.5795,
-          "value": 49934.4,
-          "avg_price": 0.42,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x6918EA182D963b1Fb7888860b8a8b8bCfbA5782b-1771878010027",
-          "roi": 0.2215,
-          "value": 43311.33,
-          "avg_price": 0.5769,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "chovyyyyy",
-          "roi": 0.1631,
-          "value": 36329.12,
-          "avg_price": 0.771,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "batya1",
-          "roi": 0.1999,
-          "value": 29985,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GonSaless",
-          "roi": 0.5511,
-          "value": 24987.48,
-          "avg_price": 0.4439,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
-          "roi": 0.4895,
-          "value": 20989.47,
-          "avg_price": 0.51,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Ditto321",
-          "roi": 0.3955,
-          "value": 20397.92,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.4319,
-          "value": 14134.92,
-          "avg_price": 0.5279,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 27181.52,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2385,
-          "value": 16409.75,
-          "avg_price": 0.0375,
-          "cur_price": 0.5795
-        },
-        {
-          "trader": "paquitomillonario",
-          "roi": 0.2703,
-          "value": 10262.57,
-          "avg_price": 0.5715,
-          "cur_price": 0.5795
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4513,
-          "value": 509.2,
-          "avg_price": 0.0166,
-          "cur_price": 0.5795
-        }
-      ]
-    },
-    {
-      "market": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "slug": "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6056.1,
-      "holders": [
-        {
-          "trader": "S-Works",
-          "roi": 0.3613,
-          "value": 4839.09,
-          "avg_price": 0.0125,
-          "cur_price": 0.6334
-        },
-        {
-          "trader": "UbuntuTrading",
-          "roi": 0.1699,
-          "value": 633.4,
-          "avg_price": 0.641,
-          "cur_price": 0.6334
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4513,
-          "value": 583.61,
-          "avg_price": 0.0125,
-          "cur_price": 0.6334
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -629,15 +485,19 @@
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 3,
     "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "wnba-gsv-ind-2026-07-15::Indiana Fever": 3,
-    "lol-blg-t1-2026-07-16::Bilibili Gaming": 2,
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 2,
-    "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 2,
-    "lol-hle1-jdg-2026-07-16::Hanwha Life Esports": 1,
-    "lol-g2-agal-2026-07-16::AG.AL": 1,
-    "lol-kc-sen-2026-07-16-game1::Karmine Corp": 1,
-    "dota2-ty-ts8-2026-07-17-game1::Team Yandex": 1,
-    "will-argentina-win-the-2026-fifa-world-cup-245::No": 1,
-    "atp-faria-ruud-2026-07-16::Jaime Faria": 1
+    "lol-blg-t1-2026-07-16::Bilibili Gaming": 3,
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 3,
+    "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
+    "lol-hle1-jdg-2026-07-16::Hanwha Life Esports": 2,
+    "lol-g2-agal-2026-07-16::AG.AL": 2,
+    "lol-kc-sen-2026-07-16-game1::Karmine Corp": 2,
+    "dota2-ty-ts8-2026-07-17-game1::Team Yandex": 2,
+    "will-argentina-win-the-2026-fifa-world-cup-245::No": 2,
+    "atp-faria-ruud-2026-07-16::Jaime Faria": 2,
+    "lol-g2-dk-2026-07-16-game2::G2 Esports": 1,
+    "lol-jdg-milo-2026-07-16-game1::JD Gaming": 1,
+    "dota2-ty-ts8-2026-07-17-game2::Team Yandex": 1,
+    "lol-kc-sen-2026-07-16-game2::Karmine Corp": 1
   },
-  "updated_at": "2026-07-16T15:00:05.427847+00:00"
+  "updated_at": "2026-07-16T16:26:15.059132+00:00"
 }
