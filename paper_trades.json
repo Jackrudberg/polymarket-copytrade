@@ -503,7 +503,7 @@
       "current_value": 119.85,
       "paper_pnl": 19.85,
       "return_percent": 19.85,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3465.75,
       "traders": [
@@ -512,7 +512,7 @@
         "Prediqa"
       ],
       "url": "https://polymarket.com/event/will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
-      "consensus_lost_at": "2026-07-16T07:01:51.882257+00:00"
+      "consensus_lost_at": "2026-07-16T15:00:05.426504+00:00"
     },
     {
       "signal_id": "will-candidate-g-be-the-maine-senate-democratic-nominee-on-july-27-20260706182929405::Yes",
@@ -881,7 +881,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 10,
       "combined_value": 718774.08,
       "traders": [
@@ -896,7 +896,8 @@
         "Ditto321",
         "Wealthfreedom001"
       ],
-      "url": "https://polymarket.com/event/lol-blg-t1-2026-07-16"
+      "url": "https://polymarket.com/event/lol-blg-t1-2026-07-16",
+      "consensus_lost_at": "2026-07-16T15:00:05.426504+00:00"
     },
     {
       "signal_id": "lol-hle1-jdg-2026-07-16::Hanwha Life Esports",
@@ -1008,7 +1009,7 @@
       "slug": "lol-kc-sen-2026-07-16-game2",
       "side": "Karmine Corp",
       "alerted_at": "2026-07-16T12:54:36.701658+00:00",
-      "last_seen": "2026-07-16T12:54:36.701658+00:00",
+      "last_seen": "2026-07-16T15:00:05.426504+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -1050,7 +1051,85 @@
         "ic4cream"
       ],
       "url": "https://polymarket.com/event/atp-faria-ruud-2026-07-16"
+    },
+    {
+      "signal_id": "lol-g2-dk-2026-07-16-game2::G2 Esports",
+      "market": "LoL: G2 Esports vs Dplus KIA - Game 2 Winner",
+      "slug": "lol-g2-dk-2026-07-16-game2",
+      "side": "G2 Esports",
+      "alerted_at": "2026-07-16T15:00:05.426504+00:00",
+      "last_seen": "2026-07-16T15:00:05.426504+00:00",
+      "entry_price": 0.315,
+      "current_price": 0.315,
+      "stake": 100.0,
+      "shares": 317.460317,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 37600.4,
+      "traders": [
+        "needheal",
+        "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
+        "GonSaless",
+        "facaigege",
+        "ARI100KRAT",
+        "rangnihui"
+      ],
+      "url": "https://polymarket.com/event/lol-g2-dk-2026-07-16-game2"
+    },
+    {
+      "signal_id": "lol-jdg-milo-2026-07-16-game1::JD Gaming",
+      "market": "LoL: JD Gaming vs MIBR.LOS - Game 1 Winner",
+      "slug": "lol-jdg-milo-2026-07-16-game1",
+      "side": "JD Gaming",
+      "alerted_at": "2026-07-16T15:00:05.426504+00:00",
+      "last_seen": "2026-07-16T15:00:05.426504+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 104071.27,
+      "traders": [
+        "needheal",
+        "GonSaless",
+        "rangnihui",
+        "Wealthfreedom001",
+        "ARI100KRAT"
+      ],
+      "url": "https://polymarket.com/event/lol-jdg-milo-2026-07-16-game1"
+    },
+    {
+      "signal_id": "dota2-ty-ts8-2026-07-17-game2::Team Yandex",
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+      "slug": "dota2-ty-ts8-2026-07-17-game2",
+      "side": "Team Yandex",
+      "alerted_at": "2026-07-16T15:00:05.426504+00:00",
+      "last_seen": "2026-07-16T15:00:05.426504+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 259898.05,
+      "traders": [
+        "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+        "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
+        "epend",
+        "canoflanagan"
+      ],
+      "url": "https://polymarket.com/event/dota2-ty-ts8-2026-07-17-game2"
     }
   ],
-  "updated_at": "2026-07-16T12:54:36.701658+00:00"
+  "updated_at": "2026-07-16T15:00:05.426504+00:00"
 }
