@@ -1,13 +1,329 @@
 {
   "seen_ids": [
-    "lol-blg-t1-2026-07-16::Bilibili Gaming",
     "lol-hle1-jdg-2026-07-16::Hanwha Life Esports",
     "lol-g2-agal-2026-07-16::AG.AL",
+    "lol-kc-sen-2026-07-16-game1::Karmine Corp",
+    "dota2-ty-ts8-2026-07-17-game1::Team Yandex",
+    "lol-kc-sen-2026-07-16-game2::Karmine Corp",
     "will-argentina-win-the-2026-fifa-world-cup-245::No",
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes"
+    "atp-faria-ruud-2026-07-16::Jaime Faria"
   ],
   "signals": [
+    {
+      "market": "LoL: Hanwha Life Esports vs JD Gaming (BO1) - Esports World Cup Group D",
+      "slug": "lol-hle1-jdg-2026-07-16",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 9,
+      "total_value": 605095.93,
+      "holders": [
+        {
+          "trader": "S-Works",
+          "roi": 0.3459,
+          "value": 481094.75,
+          "avg_price": 0.6575,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "needheal",
+          "roi": 0.3863,
+          "value": 35374.86,
+          "avg_price": 0.6613,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "rangnihui",
+          "roi": 0.2734,
+          "value": 22182.87,
+          "avg_price": 0.6682,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.2243,
+          "value": 16274.84,
+          "avg_price": 0.7149,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
+          "roi": 0.2755,
+          "value": 14992.49,
+          "avg_price": 0.68,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "one8tyfive",
+          "roi": 0.3207,
+          "value": 12501.75,
+          "avg_price": 0.89,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.3932,
+          "value": 10167.84,
+          "avg_price": 0.66,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Ditto321",
+          "roi": 0.3554,
+          "value": 8748.41,
+          "avg_price": 0.6685,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.2003,
+          "value": 3758.12,
+          "avg_price": 0.6753,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A",
+      "slug": "lol-g2-agal-2026-07-16",
+      "outcome": "AG.AL",
+      "num_traders": 7,
+      "total_value": 264188.11,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.3863,
+          "value": 87385.11,
+          "avg_price": 0.561,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.2243,
+          "value": 54123.59,
+          "avg_price": 0.5881,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Vetch",
+          "roi": 0.2595,
+          "value": 44337.69,
+          "avg_price": 0.5504,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.2609,
+          "value": 24987.42,
+          "avg_price": 0.5679,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "batya1",
+          "roi": 0.3342,
+          "value": 23488.25,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
+          "roi": 0.2755,
+          "value": 17491.25,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.2003,
+          "value": 12374.8,
+          "avg_price": 0.5563,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Karmine Corp vs Sentinels - Game 1 Winner",
+      "slug": "lol-kc-sen-2026-07-16-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 6,
+      "total_value": 187227.12,
+      "holders": [
+        {
+          "trader": "needheal",
+          "roi": 0.3863,
+          "value": 99948.99,
+          "avg_price": 0.5777,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "one8tyfive",
+          "roi": 0.3207,
+          "value": 39104.29,
+          "avg_price": 0.6074,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4174,
+          "value": 22988.5,
+          "avg_price": 0.5856,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.3932,
+          "value": 18174.85,
+          "avg_price": 0.5925,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "rangnihui",
+          "roi": 0.2734,
+          "value": 6510.74,
+          "avg_price": 0.5863,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.2609,
+          "value": 499.75,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+      "slug": "dota2-ty-ts8-2026-07-17-game1",
+      "outcome": "Team Yandex",
+      "num_traders": 4,
+      "total_value": 42563.26,
+      "holders": [
+        {
+          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
+          "roi": 0.2755,
+          "value": 21988.95,
+          "avg_price": 0.4863,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.2003,
+          "value": 15763.09,
+          "avg_price": 0.62,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.2609,
+          "value": 2998.5,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4174,
+          "value": 1812.72,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Karmine Corp vs Sentinels - Game 2 Winner",
+      "slug": "lol-kc-sen-2026-07-16-game2",
+      "outcome": "Karmine Corp",
+      "num_traders": 4,
+      "total_value": 20205.18,
+      "holders": [
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4174,
+          "value": 6656.67,
+          "avg_price": 0.6429,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.3932,
+          "value": 4997.5,
+          "avg_price": 0.64,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "needheal",
+          "roi": 0.3863,
+          "value": 4391.09,
+          "avg_price": 0.71,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "rangnihui",
+          "roi": 0.2734,
+          "value": 4159.92,
+          "avg_price": 0.64,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 368117.97,
+      "holders": [
+        {
+          "trader": "one8tyfive",
+          "roi": 0.3207,
+          "value": 177686.73,
+          "avg_price": 0.7163,
+          "cur_price": 0.5835
+        },
+        {
+          "trader": "S-Works",
+          "roi": 0.3459,
+          "value": 146085.39,
+          "avg_price": 0.8803,
+          "cur_price": 0.5835
+        },
+        {
+          "trader": "needheal",
+          "roi": 0.3863,
+          "value": 44345.85,
+          "avg_price": 0.806,
+          "cur_price": 0.5835
+        }
+      ]
+    },
+    {
+      "market": "Swiss Open: Jaime Faria vs Casper Ruud",
+      "slug": "atp-faria-ruud-2026-07-16",
+      "outcome": "Jaime Faria",
+      "num_traders": 3,
+      "total_value": 17182.24,
+      "holders": [
+        {
+          "trader": "one8tyfive",
+          "roi": 0.3207,
+          "value": 12345.37,
+          "avg_price": 0.5811,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "Ditto321",
+          "roi": 0.3554,
+          "value": 4730.62,
+          "avg_price": 0.45,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.5389,
+          "value": 106.25,
+          "avg_price": 0.2,
+          "cur_price": 0.425
+        }
+      ]
+    },
     {
       "market": "LoL: Bilibili Gaming vs T1 (BO1) - Esports World Cup Group C",
       "slug": "lol-blg-t1-2026-07-16",
@@ -84,124 +400,6 @@
           "value": 14134.92,
           "avg_price": 0.5279,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs JD Gaming (BO1) - Esports World Cup Group D",
-      "slug": "lol-hle1-jdg-2026-07-16",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 6,
-      "total_value": 554136.47,
-      "holders": [
-        {
-          "trader": "S-Works",
-          "roi": 0.3613,
-          "value": 481094.75,
-          "avg_price": 0.6575,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "needheal",
-          "roi": 0.412,
-          "value": 35374.86,
-          "avg_price": 0.6613,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
-          "roi": 0.4895,
-          "value": 14992.49,
-          "avg_price": 0.68,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GonSaless",
-          "roi": 0.5511,
-          "value": 10167.84,
-          "avg_price": 0.66,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Ditto321",
-          "roi": 0.3955,
-          "value": 8748.41,
-          "avg_price": 0.6685,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.4319,
-          "value": 3758.12,
-          "avg_price": 0.6753,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A",
-      "slug": "lol-g2-agal-2026-07-16",
-      "outcome": "AG.AL",
-      "num_traders": 4,
-      "total_value": 145087.3,
-      "holders": [
-        {
-          "trader": "needheal",
-          "roi": 0.412,
-          "value": 87385.11,
-          "avg_price": 0.561,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "batya1",
-          "roi": 0.1999,
-          "value": 23488.25,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x3719965898a538B37E96863c6a3981DB59972df0-1762452016082",
-          "roi": 0.4895,
-          "value": 17491.25,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.4319,
-          "value": 16722.69,
-          "avg_price": 0.5563,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 456506.24,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2385,
-          "value": 266401.36,
-          "avg_price": 0.7514,
-          "cur_price": 0.5825
-        },
-        {
-          "trader": "S-Works",
-          "roi": 0.3613,
-          "value": 145835.03,
-          "avg_price": 0.8803,
-          "cur_price": 0.5825
-        },
-        {
-          "trader": "needheal",
-          "roi": 0.412,
-          "value": 44269.85,
-          "avg_price": 0.806,
-          "cur_price": 0.5825
         }
       ]
     },
@@ -301,7 +499,10 @@
     "will-england-win-the-2026-fifa-world-cup-937::Yes": 3,
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 3,
     "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
-    "wnba-gsv-ind-2026-07-15::Indiana Fever": 3
+    "wnba-gsv-ind-2026-07-15::Indiana Fever": 3,
+    "lol-blg-t1-2026-07-16::Bilibili Gaming": 1,
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 1,
+    "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 1
   },
-  "updated_at": "2026-07-16T11:16:20.353812+00:00"
+  "updated_at": "2026-07-16T12:54:36.702905+00:00"
 }
