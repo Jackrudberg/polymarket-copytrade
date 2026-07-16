@@ -830,7 +830,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 614.09,
       "traders": [
@@ -838,7 +838,8 @@
         "mooseborzoi",
         "FootballFan98"
       ],
-      "url": "https://polymarket.com/event/will-england-win-the-2026-fifa-world-cup-937"
+      "url": "https://polymarket.com/event/will-england-win-the-2026-fifa-world-cup-937",
+      "consensus_lost_at": "2026-07-16T04:26:01.915080+00:00"
     },
     {
       "signal_id": "wnba-gsv-ind-2026-07-15::Indiana Fever",
@@ -865,5 +866,5 @@
       "url": "https://polymarket.com/event/wnba-gsv-ind-2026-07-15"
     }
   ],
-  "updated_at": "2026-07-16T01:10:10.213119+00:00"
+  "updated_at": "2026-07-16T04:26:01.915080+00:00"
 }
