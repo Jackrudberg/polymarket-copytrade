@@ -1,9 +1,46 @@
 {
   "seen_ids": [
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes"
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 5762.12,
+      "holders": [
+        {
+          "trader": "boyau",
+          "roi": 0.2817,
+          "value": 4055.02,
+          "avg_price": 0.4049,
+          "cur_price": 0.4055
+        },
+        {
+          "trader": "f3arless",
+          "roi": 0.2358,
+          "value": 1216.5,
+          "avg_price": 0.176,
+          "cur_price": 0.4055
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2741,
+          "value": 313.97,
+          "avg_price": 0.0166,
+          "cur_price": 0.4055
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.274,
+          "value": 176.63,
+          "avg_price": 0.0887,
+          "cur_price": 0.4055
+        }
+      ]
+    },
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
@@ -13,84 +50,24 @@
       "holders": [
         {
           "trader": "BreakTheBank",
-          "roi": 0.6924,
+          "roi": 0.6796,
           "value": 608132.15,
           "avg_price": 0.2883,
           "cur_price": 0.5915
         },
         {
           "trader": "ndb1",
-          "roi": 0.2423,
+          "roi": 0.2424,
           "value": 418307.67,
           "avg_price": 0.3028,
           "cur_price": 0.5915
         },
         {
           "trader": "donthackme",
-          "roi": 0.2745,
+          "roi": 0.2741,
           "value": 519.74,
           "avg_price": 0.0166,
           "cur_price": 0.5915
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1707.1,
-      "holders": [
-        {
-          "trader": "f3arless",
-          "roi": 0.2295,
-          "value": 1216.5,
-          "avg_price": 0.176,
-          "cur_price": 0.4055
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2745,
-          "value": 313.97,
-          "avg_price": 0.0166,
-          "cur_price": 0.4055
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2724,
-          "value": 176.63,
-          "avg_price": 0.0887,
-          "cur_price": 0.4055
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: 3DMAX vs K27 (BO3) - Stake Ranked Episode 3 Playoffs",
-      "slug": "cs2-3dmax-k271-2026-07-17",
-      "outcome": "K27",
-      "num_traders": 3,
-      "total_value": 125254.34,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1628,
-          "value": 104206.92,
-          "avg_price": 0.4147,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "f3arless",
-          "roi": 0.2236,
-          "value": 16249.21,
-          "avg_price": 0.42,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
-          "roi": 0.1582,
-          "value": 4798.21,
-          "avg_price": 0.6599,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -161,7 +138,7 @@
     "lol-al-kc-2026-07-17::Karmine Corp": 3,
     "lol-blg-dk-2026-07-17-game-handicap-away-1pt5::Dplus KIA": 3,
     "lol-al-kc-2026-07-17-game-handicap-away-1pt5::Karmine Corp": 3,
-    "cs2-3dmax-k271-2026-07-17::K27": 2
+    "cs2-3dmax-k271-2026-07-17::K27": 3
   },
-  "updated_at": "2026-07-17T22:26:54.101843+00:00"
+  "updated_at": "2026-07-17T23:26:29.919157+00:00"
 }
