@@ -1,19 +1,76 @@
 {
   "seen_ids": [
-    "lol-al-kc-2026-07-17::Karmine Corp",
-    "lol-blg-dk-2026-07-17-game1::Dplus KIA",
-    "dota2-ngx-bb4-2026-07-16-game2::Nigma Galaxy",
-    "lol-al-kc-2026-07-17-game1::Karmine Corp",
     "lol-blg-dk-2026-07-17::Dplus KIA",
-    "dota2-ngx-bb4-2026-07-16::Nigma Galaxy"
+    "lol-al-kc-2026-07-17::Karmine Corp",
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "lol-blg-dk-2026-07-17-game-handicap-away-1pt5::Dplus KIA",
+    "lol-al-kc-2026-07-17-game-handicap-away-1pt5::Karmine Corp"
   ],
   "signals": [
+    {
+      "market": "LoL: Bilibili Gaming vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-blg-dk-2026-07-17",
+      "outcome": "Dplus KIA",
+      "num_traders": 7,
+      "total_value": 198830.31,
+      "holders": [
+        {
+          "trader": "Uniform123",
+          "roi": 0.1591,
+          "value": 56609.28,
+          "avg_price": 0.4882,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.1713,
+          "value": 44772.72,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3787,
+          "value": 26616.77,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "steevenseakael",
+          "roi": 0.8952,
+          "value": 24987.5,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.1997,
+          "value": 19990,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itachi-uchiha",
+          "roi": 0.182,
+          "value": 15859.05,
+          "avg_price": 0.2741,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.3105,
+          "value": 9994.99,
+          "avg_price": 0.26,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Anyone's Legend vs Karmine Corp (BO3) - Esports World Cup Playoffs",
       "slug": "lol-al-kc-2026-07-17",
       "outcome": "Karmine Corp",
-      "num_traders": 4,
-      "total_value": 183398.98,
+      "num_traders": 5,
+      "total_value": 200072.7,
       "holders": [
         {
           "trader": "ygggg1",
@@ -24,23 +81,120 @@
         },
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.3484,
+          "roi": 0.3787,
           "value": 63310.96,
           "avg_price": 0.1957,
           "cur_price": 0.9995
         },
         {
           "trader": "SineNooneEI",
-          "roi": 0.2,
+          "roi": 0.1997,
           "value": 19990,
           "avg_price": 0.19,
           "cur_price": 0.9995
         },
         {
+          "trader": "Uniform123",
+          "roi": 0.1591,
+          "value": 16673.72,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "waterx-",
-          "roi": 0.6154,
+          "roi": 0.5247,
           "value": 148.34,
           "avg_price": 0.2016,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1021750.96,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.0463,
+          "value": 605047.79,
+          "avg_price": 0.2883,
+          "cur_price": 0.5885
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.2255,
+          "value": 416186.07,
+          "avg_price": 0.3028,
+          "cur_price": 0.5885
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3693,
+          "value": 517.1,
+          "avg_price": 0.0166,
+          "cur_price": 0.5885
+        }
+      ]
+    },
+    {
+      "market": "Game Handicap: BLG (-1.5) vs Dplus KIA (+1.5)",
+      "slug": "lol-blg-dk-2026-07-17-game-handicap-away-1pt5",
+      "outcome": "Dplus KIA",
+      "num_traders": 3,
+      "total_value": 77094.86,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3787,
+          "value": 43513.26,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.1713,
+          "value": 18589.1,
+          "avg_price": 0.5015,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "steevenseakael",
+          "roi": 0.8952,
+          "value": 14992.5,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Game Handicap: AL (-1.5) vs Karmine Corp (+1.5)",
+      "slug": "lol-al-kc-2026-07-17-game-handicap-away-1pt5",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 55457.87,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3787,
+          "value": 43603.14,
+          "avg_price": 0.4503,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.2823,
+          "value": 8338.11,
+          "avg_price": 0.449,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Uniform123",
+          "roi": 0.1591,
+          "value": 3516.62,
+          "avg_price": 0.45,
           "cur_price": 0.9995
         }
       ]
@@ -150,36 +304,6 @@
       ]
     },
     {
-      "market": "LoL: Bilibili Gaming vs Dplus KIA (BO3) - Esports World Cup Playoffs",
-      "slug": "lol-blg-dk-2026-07-17",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 56601.76,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3484,
-          "value": 26616.77,
-          "avg_price": 0.2,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.2,
-          "value": 19990,
-          "avg_price": 0.2,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.4162,
-          "value": 9994.99,
-          "avg_price": 0.26,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Nigma Galaxy vs BetBoom Team (BO3) - Esports World Cup Playoffs",
       "slug": "dota2-ngx-bb4-2026-07-16",
       "outcome": "Nigma Galaxy",
@@ -243,36 +367,6 @@
           "value": 2553.75,
           "avg_price": 0.3102,
           "cur_price": 0.295
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 627256.98,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 1.7919,
-          "value": 601963.44,
-          "avg_price": 0.2883,
-          "cur_price": 0.5855
-        },
-        {
-          "trader": "Sportbetting76",
-          "roi": 0.2554,
-          "value": 24708.05,
-          "avg_price": 0.1464,
-          "cur_price": 0.5855
-        },
-        {
-          "trader": "Prediqa",
-          "roi": 0.4164,
-          "value": 585.49,
-          "avg_price": 0.549,
-          "cur_price": 0.5855
         }
       ]
     },
@@ -425,126 +519,6 @@
           "cur_price": 0.465
         }
       ]
-    },
-    {
-      "market": "Iasi Open: Yulia Putintseva vs Mayar Sherif",
-      "slug": "wta-putints-sherif-2026-07-17",
-      "outcome": "Yulia Putintseva",
-      "num_traders": 3,
-      "total_value": 155019.28,
-      "holders": [
-        {
-          "trader": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
-          "roi": 0.1847,
-          "value": 146915.33,
-          "avg_price": 0.3213,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "alexfire97",
-          "roi": 0.7045,
-          "value": 7837.97,
-          "avg_price": 0.5623,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "Prediqa",
-          "roi": 0.3622,
-          "value": 265.98,
-          "avg_price": 0.58,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner",
-      "slug": "dota2-flc-vg-2026-07-16-game1",
-      "outcome": "Vici Gaming",
-      "num_traders": 3,
-      "total_value": 70486.76,
-      "holders": [
-        {
-          "trader": "GonSaless",
-          "roi": 0.3148,
-          "value": 31619.35,
-          "avg_price": 0.3181,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.3595,
-          "value": 30871.46,
-          "avg_price": 0.3172,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "FBIG",
-          "roi": 0.4389,
-          "value": 7995.95,
-          "avg_price": 0.24,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Swedish Open: Nuno Borges vs Luciano Darderi",
-      "slug": "atp-borges-darderi-2026-07-17",
-      "outcome": "Nuno Borges",
-      "num_traders": 3,
-      "total_value": 46847.07,
-      "holders": [
-        {
-          "trader": "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
-          "roi": 0.1847,
-          "value": 33884.61,
-          "avg_price": 0.4589,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "MonsieurDimanche",
-          "roi": 1.0159,
-          "value": 9149.96,
-          "avg_price": 0.43,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "comon119",
-          "roi": 0.4345,
-          "value": 3812.5,
-          "avg_price": 0.44,
-          "cur_price": 0.305
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
-      "slug": "lol-hle1-t1-2026-07-17-game1",
-      "outcome": "T1",
-      "num_traders": 3,
-      "total_value": 36941.99,
-      "holders": [
-        {
-          "trader": "UCF-BIGGEST-FAN",
-          "roi": 0.3908,
-          "value": 19656.11,
-          "avg_price": 0.3571,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "FBIG",
-          "roi": 0.4389,
-          "value": 8935.58,
-          "avg_price": 0.3983,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Prediqa",
-          "roi": 0.3622,
-          "value": 8350.3,
-          "avg_price": 0.3131,
-          "cur_price": 0.9995
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -596,17 +570,20 @@
     "lol-kc-sen-2026-07-16-game2::Karmine Corp": 3,
     "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "lol-hle1-t1-2026-07-17::Hanwha Life Esports": 3,
-    "wta-putints-sherif-2026-07-17::Yulia Putintseva": 2,
-    "dota2-flc-vg-2026-07-16-game1::Vici Gaming": 2,
-    "atp-borges-darderi-2026-07-17::Nuno Borges": 2,
-    "lol-hle1-t1-2026-07-17-game1::T1": 2,
-    "dota2-ngx-bb4-2026-07-16-game1::Nigma Galaxy": 1,
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 1,
-    "lol-hle1-t1-2026-07-17::T1": 1,
-    "lol-hle1-t1-2026-07-17-game2::T1": 1,
-    "dota2-flc-vg-2026-07-16-game2::Vici Gaming": 1,
-    "lol-blg-dk-2026-07-17-game2::Bilibili Gaming": 1,
-    "lol-blg-dk-2026-07-17-game2::Dplus KIA": 1
+    "wta-putints-sherif-2026-07-17::Yulia Putintseva": 3,
+    "dota2-flc-vg-2026-07-16-game1::Vici Gaming": 3,
+    "atp-borges-darderi-2026-07-17::Nuno Borges": 3,
+    "lol-hle1-t1-2026-07-17-game1::T1": 3,
+    "dota2-ngx-bb4-2026-07-16-game1::Nigma Galaxy": 2,
+    "lol-hle1-t1-2026-07-17::T1": 2,
+    "lol-hle1-t1-2026-07-17-game2::T1": 2,
+    "dota2-flc-vg-2026-07-16-game2::Vici Gaming": 2,
+    "lol-blg-dk-2026-07-17-game2::Bilibili Gaming": 2,
+    "lol-blg-dk-2026-07-17-game2::Dplus KIA": 2,
+    "lol-blg-dk-2026-07-17-game1::Dplus KIA": 1,
+    "dota2-ngx-bb4-2026-07-16-game2::Nigma Galaxy": 1,
+    "lol-al-kc-2026-07-17-game1::Karmine Corp": 1,
+    "dota2-ngx-bb4-2026-07-16::Nigma Galaxy": 1
   },
-  "updated_at": "2026-07-17T15:57:45.872290+00:00"
+  "updated_at": "2026-07-17T17:19:06.267054+00:00"
 }
