@@ -1,15 +1,214 @@
 {
   "seen_ids": [
-    "dota2-ngx-bb4-2026-07-16-game1::Nigma Galaxy",
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "lol-hle1-t1-2026-07-17::T1",
-    "lol-hle1-t1-2026-07-17-game2::T1",
+    "lol-al-kc-2026-07-17::Karmine Corp",
     "lol-blg-dk-2026-07-17-game1::Dplus KIA",
-    "dota2-flc-vg-2026-07-16-game2::Vici Gaming",
-    "lol-blg-dk-2026-07-17-game2::Bilibili Gaming",
-    "lol-blg-dk-2026-07-17-game2::Dplus KIA"
+    "dota2-ngx-bb4-2026-07-16-game2::Nigma Galaxy",
+    "lol-al-kc-2026-07-17-game1::Karmine Corp",
+    "lol-blg-dk-2026-07-17::Dplus KIA",
+    "dota2-ngx-bb4-2026-07-16::Nigma Galaxy"
   ],
   "signals": [
+    {
+      "market": "LoL: Anyone's Legend vs Karmine Corp (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-al-kc-2026-07-17",
+      "outcome": "Karmine Corp",
+      "num_traders": 4,
+      "total_value": 183398.98,
+      "holders": [
+        {
+          "trader": "ygggg1",
+          "roi": 0.2801,
+          "value": 99949.68,
+          "avg_price": 0.21,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3484,
+          "value": 63310.96,
+          "avg_price": 0.1957,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2,
+          "value": 19990,
+          "avg_price": 0.19,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "waterx-",
+          "roi": 0.6154,
+          "value": 148.34,
+          "avg_price": 0.2016,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Dplus KIA - Game 1 Winner",
+      "slug": "lol-blg-dk-2026-07-17-game1",
+      "outcome": "Dplus KIA",
+      "num_traders": 4,
+      "total_value": 61106.13,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2,
+          "value": 28880.15,
+          "avg_price": 0.294,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3484,
+          "value": 12235.99,
+          "avg_price": 0.2716,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.2604,
+          "value": 9995,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4162,
+          "value": 9994.99,
+          "avg_price": 0.3,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BetBoom Team - Game 2 Winner",
+      "slug": "dota2-ngx-bb4-2026-07-16-game2",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 4,
+      "total_value": 16515.06,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2,
+          "value": 5850,
+          "avg_price": 0.2641,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.2604,
+          "value": 4650.0,
+          "avg_price": 0.2499,
+          "cur_price": 0.155
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4162,
+          "value": 4290,
+          "avg_price": 0.2509,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.4807,
+          "value": 1725.06,
+          "avg_price": 0.4,
+          "cur_price": 0.195
+        }
+      ]
+    },
+    {
+      "market": "LoL: Anyone's Legend vs Karmine Corp - Game 1 Winner",
+      "slug": "lol-al-kc-2026-07-17-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 80235.6,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3484,
+          "value": 58246.62,
+          "avg_price": 0.2662,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4162,
+          "value": 18990.49,
+          "avg_price": 0.2652,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.2604,
+          "value": 2998.49,
+          "avg_price": 0.26,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-blg-dk-2026-07-17",
+      "outcome": "Dplus KIA",
+      "num_traders": 3,
+      "total_value": 56601.76,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3484,
+          "value": 26616.77,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2,
+          "value": 19990,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.4162,
+          "value": 9994.99,
+          "avg_price": 0.26,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs BetBoom Team (BO3) - Esports World Cup Playoffs",
+      "slug": "dota2-ngx-bb4-2026-07-16",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 3,
+      "total_value": 4136.06,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2,
+          "value": 1752.05,
+          "avg_price": 0.32,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.4807,
+          "value": 1328.12,
+          "avg_price": 0.32,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "one8tyfive",
+          "roi": 0.4788,
+          "value": 1055.89,
+          "avg_price": 0.305,
+          "cur_price": 0.065
+        }
+      ]
+    },
     {
       "market": "Dota 2: Nigma Galaxy vs BetBoom Team - Game 1 Winner",
       "slug": "dota2-ngx-bb4-2026-07-16-game1",
@@ -133,36 +332,6 @@
           "roi": 0.4542,
           "value": 6996.47,
           "avg_price": 0.37,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs Dplus KIA - Game 1 Winner",
-      "slug": "lol-blg-dk-2026-07-17-game1",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 21228.88,
-      "holders": [
-        {
-          "trader": "GonSaless",
-          "roi": 0.4542,
-          "value": 9995,
-          "avg_price": 0.29,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.4583,
-          "value": 9994.99,
-          "avg_price": 0.3,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Prediqa",
-          "roi": 0.4164,
-          "value": 1238.89,
-          "avg_price": 0.27,
           "cur_price": 0.9995
         }
       ]
@@ -427,10 +596,17 @@
     "lol-kc-sen-2026-07-16-game2::Karmine Corp": 3,
     "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "lol-hle1-t1-2026-07-17::Hanwha Life Esports": 3,
-    "wta-putints-sherif-2026-07-17::Yulia Putintseva": 1,
-    "dota2-flc-vg-2026-07-16-game1::Vici Gaming": 1,
-    "atp-borges-darderi-2026-07-17::Nuno Borges": 1,
-    "lol-hle1-t1-2026-07-17-game1::T1": 1
+    "wta-putints-sherif-2026-07-17::Yulia Putintseva": 2,
+    "dota2-flc-vg-2026-07-16-game1::Vici Gaming": 2,
+    "atp-borges-darderi-2026-07-17::Nuno Borges": 2,
+    "lol-hle1-t1-2026-07-17-game1::T1": 2,
+    "dota2-ngx-bb4-2026-07-16-game1::Nigma Galaxy": 1,
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 1,
+    "lol-hle1-t1-2026-07-17::T1": 1,
+    "lol-hle1-t1-2026-07-17-game2::T1": 1,
+    "dota2-flc-vg-2026-07-16-game2::Vici Gaming": 1,
+    "lol-blg-dk-2026-07-17-game2::Bilibili Gaming": 1,
+    "lol-blg-dk-2026-07-17-game2::Dplus KIA": 1
   },
-  "updated_at": "2026-07-17T14:26:46.789023+00:00"
+  "updated_at": "2026-07-17T15:57:45.872290+00:00"
 }
