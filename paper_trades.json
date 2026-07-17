@@ -1153,7 +1153,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 52268.97,
       "traders": [
@@ -1161,7 +1161,8 @@
         "forkyz",
         "MeiGuNiuBi"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-t1-2026-07-17"
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-07-17",
+      "consensus_lost_at": "2026-07-17T12:52:14.002004+00:00"
     },
     {
       "signal_id": "will-spain-win-the-2026-fifa-world-cup-963::Yes",
@@ -1169,7 +1170,7 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-17T11:46:41.566594+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
       "entry_price": 0.5855,
       "current_price": 0.5855,
       "stake": 100.0,
@@ -1186,7 +1187,127 @@
         "Sportbetting76"
       ],
       "url": "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963"
+    },
+    {
+      "signal_id": "wta-putints-sherif-2026-07-17::Yulia Putintseva",
+      "market": "Iasi Open: Yulia Putintseva vs Mayar Sherif",
+      "slug": "wta-putints-sherif-2026-07-17",
+      "side": "Yulia Putintseva",
+      "alerted_at": "2026-07-17T12:52:14.002004+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
+      "entry_price": 0.665,
+      "current_price": 0.665,
+      "stake": 100.0,
+      "shares": 150.37594,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 155019.28,
+      "traders": [
+        "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+        "alexfire97",
+        "Prediqa"
+      ],
+      "url": "https://polymarket.com/event/wta-putints-sherif-2026-07-17"
+    },
+    {
+      "signal_id": "dota2-flc-vg-2026-07-16-game1::Vici Gaming",
+      "market": "Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner",
+      "slug": "dota2-flc-vg-2026-07-16-game1",
+      "side": "Vici Gaming",
+      "alerted_at": "2026-07-17T12:52:14.002004+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 70486.76,
+      "traders": [
+        "GonSaless",
+        "CORGI8",
+        "FBIG"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-vg-2026-07-16-game1"
+    },
+    {
+      "signal_id": "atp-borges-darderi-2026-07-17::Nuno Borges",
+      "market": "Swedish Open: Nuno Borges vs Luciano Darderi",
+      "slug": "atp-borges-darderi-2026-07-17",
+      "side": "Nuno Borges",
+      "alerted_at": "2026-07-17T12:52:14.002004+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
+      "entry_price": 0.305,
+      "current_price": 0.305,
+      "stake": 100.0,
+      "shares": 327.868852,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 46847.07,
+      "traders": [
+        "0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622",
+        "MonsieurDimanche",
+        "comon119"
+      ],
+      "url": "https://polymarket.com/event/atp-borges-darderi-2026-07-17"
+    },
+    {
+      "signal_id": "lol-hle1-t1-2026-07-17-game1::T1",
+      "market": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+      "slug": "lol-hle1-t1-2026-07-17-game1",
+      "side": "T1",
+      "alerted_at": "2026-07-17T12:52:14.002004+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 36941.99,
+      "traders": [
+        "UCF-BIGGEST-FAN",
+        "FBIG",
+        "Prediqa"
+      ],
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-07-17-game1"
+    },
+    {
+      "signal_id": "lol-hle1-t1-2026-07-17-game2::T1",
+      "market": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+      "slug": "lol-hle1-t1-2026-07-17-game2",
+      "side": "T1",
+      "alerted_at": "2026-07-17T12:52:14.002004+00:00",
+      "last_seen": "2026-07-17T12:52:14.002004+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 35659.86,
+      "traders": [
+        "UCF-BIGGEST-FAN",
+        "Prediqa",
+        "GonSaless"
+      ],
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-07-17-game2"
     }
   ],
-  "updated_at": "2026-07-17T11:46:41.566594+00:00"
+  "updated_at": "2026-07-17T12:52:14.002004+00:00"
 }
