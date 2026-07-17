@@ -1,6 +1,39 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes"
+  ],
+  "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 751084.97,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 9.537,
+          "value": 599907.2,
+          "avg_price": 0.2883,
+          "cur_price": 0.5835
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3812,
+          "value": 126554.12,
+          "avg_price": 0.1318,
+          "cur_price": 0.5835
+        },
+        {
+          "trader": "Sportbetting76",
+          "roi": 0.495,
+          "value": 24623.65,
+          "avg_price": 0.1464,
+          "cur_price": 0.5835
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -38,7 +71,6 @@
     "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "wnba-gsv-ind-2026-07-15::Indiana Fever": 3,
     "lol-blg-t1-2026-07-16::Bilibili Gaming": 3,
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 3,
     "lol-hle1-jdg-2026-07-16::Hanwha Life Esports": 3,
     "lol-g2-agal-2026-07-16::AG.AL": 3,
     "lol-kc-sen-2026-07-16-game1::Karmine Corp": 3,
@@ -51,5 +83,5 @@
     "lol-kc-sen-2026-07-16-game2::Karmine Corp": 3,
     "will-lionel-messi-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3
   },
-  "updated_at": "2026-07-17T03:38:59.468337+00:00"
+  "updated_at": "2026-07-17T06:04:50.406204+00:00"
 }
