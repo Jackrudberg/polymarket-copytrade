@@ -2193,7 +2193,7 @@
       "current_value": 128.14,
       "paper_pnl": 28.14,
       "return_percent": 28.14,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 110843.14,
       "traders": [
@@ -2202,7 +2202,8 @@
         "Uniform123",
         "LOBODAFL"
       ],
-      "url": "https://polymarket.com/event/dota2-ty-pari-2026-07-18"
+      "url": "https://polymarket.com/event/dota2-ty-pari-2026-07-18",
+      "consensus_lost_at": "2026-07-18T20:25:52.550430+00:00"
     },
     {
       "signal_id": "lol-gen-dk-2026-07-18-game2::Gen.G",
@@ -2218,7 +2219,7 @@
       "current_value": 109.23,
       "paper_pnl": 9.23,
       "return_percent": 9.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 31673.5,
       "traders": [
@@ -2227,7 +2228,8 @@
         "Uniform123",
         "TAIWANNUMBERONE"
       ],
-      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18-game2"
+      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18-game2",
+      "consensus_lost_at": "2026-07-18T20:25:52.550430+00:00"
     },
     {
       "signal_id": "lol-gen-dk-2026-07-18-game2::Dplus KIA",
@@ -2319,7 +2321,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 35518.11,
       "traders": [
@@ -2327,7 +2329,8 @@
         "Uniform123",
         "TIMETOMAKEIT"
       ],
-      "url": "https://polymarket.com/event/dota2-ty-pari-2026-07-18-game2"
+      "url": "https://polymarket.com/event/dota2-ty-pari-2026-07-18-game2",
+      "consensus_lost_at": "2026-07-18T20:25:52.550430+00:00"
     },
     {
       "signal_id": "val-th1-tl1-2026-07-18::Team Liquid",
@@ -2335,7 +2338,7 @@
       "slug": "val-th1-tl1-2026-07-18",
       "side": "Team Liquid",
       "alerted_at": "2026-07-18T19:35:19.245646+00:00",
-      "last_seen": "2026-07-18T19:35:19.245646+00:00",
+      "last_seen": "2026-07-18T20:25:52.550430+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -2354,5 +2357,5 @@
       "url": "https://polymarket.com/event/val-th1-tl1-2026-07-18"
     }
   ],
-  "updated_at": "2026-07-18T19:35:19.245646+00:00"
+  "updated_at": "2026-07-18T20:25:52.550430+00:00"
 }
