@@ -1,9 +1,528 @@
 {
   "seen_ids": [
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes"
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "mlb-wsh-oak-2026-07-17::Washington Nationals",
+    "fifwc-fra-eng-2026-07-18-fra::Yes",
+    "mlb-det-laa-2026-07-17::Los Angeles Angels",
+    "mlb-sf-sea-2026-07-17::San Francisco Giants",
+    "mlb-sf-sea-2026-07-17::Seattle Mariners",
+    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes",
+    "mls-lag-laf-2026-07-17-lag::No",
+    "will-argentina-win-the-2026-fifa-world-cup-245::No",
+    "mls-lag-laf-2026-07-17-laf::Yes",
+    "mlb-stl-ari-2026-07-17::Arizona Diamondbacks",
+    "fifwc-fra-eng-2026-07-18-team-to-advance::England",
+    "fifwc-esp-arg-2026-07-19-esp::Yes",
+    "wnba-conn-phx-2026-07-17::Connecticut Sun",
+    "mlb-det-laa-2026-07-17::Detroit Tigers"
   ],
   "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 206495.21,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.534,
+          "value": 128289.22,
+          "avg_price": 0.1318,
+          "cur_price": 0.5915
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 31063.49,
+          "avg_price": 0.5742,
+          "cur_price": 0.5915
+        },
+        {
+          "trader": "Sportbetting76",
+          "roi": 0.2599,
+          "value": 24961.25,
+          "avg_price": 0.1464,
+          "cur_price": 0.5915
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.163,
+          "value": 22181.25,
+          "avg_price": 0.3006,
+          "cur_price": 0.5915
+        }
+      ]
+    },
+    {
+      "market": "Washington Nationals vs. Athletics",
+      "slug": "mlb-wsh-oak-2026-07-17",
+      "outcome": "Washington Nationals",
+      "num_traders": 4,
+      "total_value": 185957.91,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.163,
+          "value": 180380.65,
+          "avg_price": 0.5269,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 2766.23,
+          "avg_price": 0.54,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "curie",
+          "roi": 0.1667,
+          "value": 2311.78,
+          "avg_price": 0.89,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 499.25,
+          "avg_price": 0.89,
+          "cur_price": 0.9985
+        }
+      ]
+    },
+    {
+      "market": "Will France win on 2026-07-18?",
+      "slug": "fifwc-fra-eng-2026-07-18-fra",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 137264.23,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.3789,
+          "value": 81844.97,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 29868.77,
+          "avg_price": 0.5015,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.534,
+          "value": 20878.03,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 4672.46,
+          "avg_price": 0.5,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Los Angeles Angels",
+      "slug": "mlb-det-laa-2026-07-17",
+      "outcome": "Los Angeles Angels",
+      "num_traders": 4,
+      "total_value": 118646.51,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 1.0445,
+          "value": 78510.28,
+          "avg_price": 0.49,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.2992,
+          "value": 39053.66,
+          "avg_price": 0.49,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "curie",
+          "roi": 0.1667,
+          "value": 827.48,
+          "avg_price": 0.7739,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 255.09,
+          "avg_price": 0.8489,
+          "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "San Francisco Giants vs. Seattle Mariners",
+      "slug": "mlb-sf-sea-2026-07-17",
+      "outcome": "San Francisco Giants",
+      "num_traders": 4,
+      "total_value": 112257.38,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.534,
+          "value": 107467.08,
+          "avg_price": 0.366,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 4316.87,
+          "avg_price": 0.36,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 286.58,
+          "avg_price": 0.8582,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 186.85,
+          "avg_price": 0.4698,
+          "cur_price": 0.925
+        }
+      ]
+    },
+    {
+      "market": "San Francisco Giants vs. Seattle Mariners",
+      "slug": "mlb-sf-sea-2026-07-17",
+      "outcome": "Seattle Mariners",
+      "num_traders": 4,
+      "total_value": 16210.9,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.163,
+          "value": 8816.88,
+          "avg_price": 0.623,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "xifutloong3",
+          "roi": 0.4228,
+          "value": 4054.05,
+          "avg_price": 0.63,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "MonsieurDimanche",
+          "roi": 0.9374,
+          "value": 1737.25,
+          "avg_price": 0.63,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939",
+          "roi": 0.1852,
+          "value": 1602.72,
+          "avg_price": 0.6461,
+          "cur_price": 0.075
+        }
+      ]
+    },
+    {
+      "market": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "slug": "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 13909.71,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.3789,
+          "value": 5589.48,
+          "avg_price": 0.3712,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "timetowander",
+          "roi": 0.1799,
+          "value": 4703.25,
+          "avg_price": 0.0125,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "Sportbetting76",
+          "roi": 0.2599,
+          "value": 2468.93,
+          "avg_price": 0.24,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 1148.05,
+          "avg_price": 0.3994,
+          "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Will Los Angeles Galaxy win on 2026-07-17?",
+      "slug": "mls-lag-laf-2026-07-17-lag",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 1764.73,
+      "holders": [
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 675.98,
+          "avg_price": 0.8652,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "WTSA",
+          "roi": 0.3128,
+          "value": 519.07,
+          "avg_price": 0.7,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 304.42,
+          "avg_price": 0.7088,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 265.26,
+          "avg_price": 0.6605,
+          "cur_price": 0.9985
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 179128.43,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.534,
+          "value": 178649.55,
+          "avg_price": 0.578,
+          "cur_price": 0.5955
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 262.02,
+          "avg_price": 0.8051,
+          "cur_price": 0.5955
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 216.86,
+          "avg_price": 0.709,
+          "cur_price": 0.5955
+        }
+      ]
+    },
+    {
+      "market": "Will Los Angeles FC win on 2026-07-17?",
+      "slug": "mls-lag-laf-2026-07-17-laf",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 68180.65,
+      "holders": [
+        {
+          "trader": "WTSA",
+          "roi": 0.3128,
+          "value": 66839.81,
+          "avg_price": 0.4495,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 946.62,
+          "avg_price": 0.7196,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 394.22,
+          "avg_price": 0.4474,
+          "cur_price": 0.9945
+        }
+      ]
+    },
+    {
+      "market": "St. Louis Cardinals vs. Arizona Diamondbacks",
+      "slug": "mlb-stl-ari-2026-07-17",
+      "outcome": "Arizona Diamondbacks",
+      "num_traders": 3,
+      "total_value": 37948.42,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 1.0445,
+          "value": 33851.64,
+          "avg_price": 0.52,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 3247.2,
+          "avg_price": 0.2158,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 849.58,
+          "avg_price": 0.4405,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "France vs. England: Team to Win",
+      "slug": "fifwc-fra-eng-2026-07-18-team-to-advance",
+      "outcome": "England",
+      "num_traders": 3,
+      "total_value": 29393.86,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 15303.49,
+          "avg_price": 0.3338,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Sportbetting76",
+          "roi": 0.2599,
+          "value": 7092.4,
+          "avg_price": 0.33,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 6997.97,
+          "avg_price": 0.3639,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win on 2026-07-19?",
+      "slug": "fifwc-esp-arg-2026-07-19-esp",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 22686.39,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.163,
+          "value": 12300.77,
+          "avg_price": 0.42,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.534,
+          "value": 8137.82,
+          "avg_price": 0.41,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 2247.8,
+          "avg_price": 0.4232,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Connecticut Sun vs. Phoenix Mercury",
+      "slug": "wnba-conn-phx-2026-07-17",
+      "outcome": "Connecticut Sun",
+      "num_traders": 3,
+      "total_value": 8167.3,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.322,
+          "value": 4411.86,
+          "avg_price": 0.3699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 3488.26,
+          "avg_price": 0.9341,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.3653,
+          "value": 267.18,
+          "avg_price": 0.3799,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Los Angeles Angels",
+      "slug": "mlb-det-laa-2026-07-17",
+      "outcome": "Detroit Tigers",
+      "num_traders": 3,
+      "total_value": 2663.33,
+      "holders": [
+        {
+          "trader": "curie",
+          "roi": 0.1667,
+          "value": 1440.94,
+          "avg_price": 0.3838,
+          "cur_price": 0.135
+        },
+        {
+          "trader": "MonsieurDimanche",
+          "roi": 0.9374,
+          "value": 994.12,
+          "avg_price": 0.5,
+          "cur_price": 0.135
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.1644,
+          "value": 228.27,
+          "avg_price": 0.2202,
+          "cur_price": 0.135
+        }
+      ]
+    },
     {
       "market": "Will Argentina win the 2026 FIFA World Cup?",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
@@ -38,36 +557,6 @@
           "value": 176.63,
           "avg_price": 0.0887,
           "cur_price": 0.4055
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1026959.56,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6722,
-          "value": 608132.15,
-          "avg_price": 0.2883,
-          "cur_price": 0.5915
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.2431,
-          "value": 418307.67,
-          "avg_price": 0.3028,
-          "cur_price": 0.5915
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2732,
-          "value": 519.74,
-          "avg_price": 0.0166,
-          "cur_price": 0.5915
         }
       ]
     }
@@ -105,14 +594,12 @@
     "fifwc-eng-arg-2026-07-15-draw::No": 3,
     "lol-ts-kc-2026-07-15::Karmine Corp": 3,
     "will-england-win-the-2026-fifa-world-cup-937::Yes": 3,
-    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "wnba-gsv-ind-2026-07-15::Indiana Fever": 3,
     "lol-blg-t1-2026-07-16::Bilibili Gaming": 3,
     "lol-hle1-jdg-2026-07-16::Hanwha Life Esports": 3,
     "lol-g2-agal-2026-07-16::AG.AL": 3,
     "lol-kc-sen-2026-07-16-game1::Karmine Corp": 3,
     "dota2-ty-ts8-2026-07-17-game1::Team Yandex": 3,
-    "will-argentina-win-the-2026-fifa-world-cup-245::No": 3,
     "atp-faria-ruud-2026-07-16::Jaime Faria": 3,
     "lol-g2-dk-2026-07-16-game2::G2 Esports": 3,
     "lol-jdg-milo-2026-07-16-game1::JD Gaming": 3,
@@ -138,7 +625,8 @@
     "lol-al-kc-2026-07-17::Karmine Corp": 3,
     "lol-blg-dk-2026-07-17-game-handicap-away-1pt5::Dplus KIA": 3,
     "lol-al-kc-2026-07-17-game-handicap-away-1pt5::Karmine Corp": 3,
-    "cs2-3dmax-k271-2026-07-17::K27": 3
+    "cs2-3dmax-k271-2026-07-17::K27": 3,
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 1
   },
-  "updated_at": "2026-07-18T00:57:22.611272+00:00"
+  "updated_at": "2026-07-18T04:05:13.010697+00:00"
 }
