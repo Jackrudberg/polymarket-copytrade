@@ -1178,7 +1178,7 @@
       "current_value": 100.85,
       "paper_pnl": 0.85,
       "return_percent": 0.85,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 659646.91,
       "traders": [
@@ -1186,7 +1186,8 @@
         "WHYWHYWHYWHYWHYWHY",
         "Sportbetting76"
       ],
-      "url": "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963"
+      "url": "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963",
+      "consensus_lost_at": "2026-07-18T21:24:46.403185+00:00"
     },
     {
       "signal_id": "wta-putints-sherif-2026-07-17::Yulia Putintseva",
@@ -1706,7 +1707,7 @@
       "current_value": 103.88,
       "paper_pnl": 3.88,
       "return_percent": 3.88,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 137264.23,
       "traders": [
@@ -1716,7 +1717,7 @@
         "VeryLucky888"
       ],
       "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-fra",
-      "consensus_lost_at": "2026-07-18T09:48:19.122898+00:00"
+      "consensus_lost_at": "2026-07-18T21:24:46.403185+00:00"
     },
     {
       "signal_id": "mlb-det-laa-2026-07-17::Los Angeles Angels",
@@ -2166,7 +2167,7 @@
       "current_value": 266.53,
       "paper_pnl": 166.53,
       "return_percent": 166.53,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 63848.62,
       "traders": [
@@ -2177,7 +2178,8 @@
         "LOBODAFL",
         "Vetch"
       ],
-      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18"
+      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18",
+      "consensus_lost_at": "2026-07-18T21:24:46.403185+00:00"
     },
     {
       "signal_id": "dota2-ty-pari-2026-07-18::PARIVISION",
@@ -2338,7 +2340,7 @@
       "slug": "val-th1-tl1-2026-07-18",
       "side": "Team Liquid",
       "alerted_at": "2026-07-18T19:35:19.245646+00:00",
-      "last_seen": "2026-07-18T20:25:52.550430+00:00",
+      "last_seen": "2026-07-18T21:24:46.403185+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -2355,7 +2357,31 @@
         "TIMETOMAKEIT"
       ],
       "url": "https://polymarket.com/event/val-th1-tl1-2026-07-18"
+    },
+    {
+      "signal_id": "fifwc-fra-eng-2026-07-18-eng::Yes",
+      "market": "Will England win on 2026-07-18?",
+      "slug": "fifwc-fra-eng-2026-07-18-eng",
+      "side": "Yes",
+      "alerted_at": "2026-07-18T21:24:46.403185+00:00",
+      "last_seen": "2026-07-18T21:24:46.403185+00:00",
+      "entry_price": 0.655,
+      "current_price": 0.655,
+      "stake": 100.0,
+      "shares": 152.671756,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 69996.4,
+      "traders": [
+        "ygggg1",
+        "balthazar",
+        "waterx-"
+      ],
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-eng"
     }
   ],
-  "updated_at": "2026-07-18T20:25:52.550430+00:00"
+  "updated_at": "2026-07-18T21:24:46.403185+00:00"
 }
