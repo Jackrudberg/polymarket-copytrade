@@ -1,108 +1,183 @@
 {
   "seen_ids": [
     "lol-gen-dk-2026-07-18::Dplus KIA",
-    "lol-gen-dk-2026-07-18-game2::Gen.G",
-    "dota2-ty-pari-2026-07-18::PARIVISION",
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "dota2-ty-pari-2026-07-18-game2::Team Yandex"
+    "fifwc-fra-eng-2026-07-18-fra::Yes",
+    "val-th1-tl1-2026-07-18::Team Liquid"
   ],
   "signals": [
     {
       "market": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
       "slug": "lol-gen-dk-2026-07-18",
       "outcome": "Dplus KIA",
-      "num_traders": 13,
-      "total_value": 477921.7,
+      "num_traders": 11,
+      "total_value": 272764.65,
       "holders": [
         {
-          "trader": "Eztennis",
-          "roi": 0.3604,
-          "value": 105207.38,
-          "avg_price": 0.3195,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ygggg1",
-          "roi": 0.6248,
-          "value": 99949.67,
-          "avg_price": 0.25,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "esportGG",
-          "roi": 0.1735,
+          "roi": 0.1985,
           "value": 45848.96,
           "avg_price": 0.2763,
           "cur_price": 0.9995
         },
         {
           "trader": "Netrol",
-          "roi": 0.3817,
+          "roi": 0.5427,
           "value": 43403.21,
           "avg_price": 0.3399,
           "cur_price": 0.9995
         },
         {
           "trader": "sulumos",
-          "roi": 0.4152,
+          "roi": 0.5026,
           "value": 38080.95,
           "avg_price": 0.32,
           "cur_price": 0.9995
         },
         {
           "trader": "Uniform123",
-          "roi": 0.1757,
+          "roi": 0.1954,
           "value": 29388.88,
           "avg_price": 0.4831,
           "cur_price": 0.9995
         },
         {
           "trader": "waterx-",
-          "roi": 0.6131,
+          "roi": 0.7284,
           "value": 25753.21,
           "avg_price": 0.3273,
           "cur_price": 0.9995
         },
         {
           "trader": "BirdMan.",
-          "roi": 0.1637,
+          "roi": 0.2088,
           "value": 25057.44,
           "avg_price": 0.3158,
           "cur_price": 0.9995
         },
         {
           "trader": "ARI100KRAT",
-          "roi": 0.4272,
+          "roi": 0.5149,
           "value": 19989.98,
           "avg_price": 0.3099,
           "cur_price": 0.9995
         },
         {
           "trader": "one8tyfive",
-          "roi": 0.3609,
+          "roi": 0.2936,
           "value": 15908.02,
           "avg_price": 0.7373,
           "cur_price": 0.9995
         },
         {
           "trader": "LOBODAFL",
-          "roi": 0.3135,
+          "roi": 0.3786,
           "value": 14519.54,
           "avg_price": 0.465,
           "cur_price": 0.9995
         },
         {
           "trader": "TIMETOMAKEIT",
-          "roi": 0.1638,
+          "roi": 0.1757,
           "value": 14451.64,
           "avg_price": 0.7676,
           "cur_price": 0.9995
         },
         {
           "trader": "Vetch",
-          "roi": 0.2388,
+          "roi": 0.4864,
           "value": 362.82,
           "avg_price": 0.22,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 201981.94,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1775,
+          "value": 128072.34,
+          "avg_price": 0.1318,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2474,
+          "value": 42022.63,
+          "avg_price": 0.1949,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.2088,
+          "value": 31886.97,
+          "avg_price": 0.1462,
+          "cur_price": 0.5905
+        }
+      ]
+    },
+    {
+      "market": "Will France win on 2026-07-18?",
+      "slug": "fifwc-fra-eng-2026-07-18-fra",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 31931.01,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1775,
+          "value": 21688.83,
+          "avg_price": 0.49,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.1985,
+          "value": 9897.5,
+          "avg_price": 0.54,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "waterx-",
+          "roi": 0.7284,
+          "value": 344.68,
+          "avg_price": 0.5146,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Valorant: Team Heretics vs Team Liquid (BO3) - VCT EMEA Group Omega",
+      "slug": "val-th1-tl1-2026-07-18",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 9318.95,
+      "holders": [
+        {
+          "trader": "one8tyfive",
+          "roi": 0.2936,
+          "value": 5695.15,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.2112,
+          "value": 3336.7,
+          "avg_price": 0.3352,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TIMETOMAKEIT",
+          "roi": 0.1757,
+          "value": 287.1,
+          "avg_price": 0.59,
           "cur_price": 0.9995
         }
       ]
@@ -185,36 +260,6 @@
           "value": 5297.35,
           "avg_price": 0.7481,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 201981.94,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.3075,
-          "value": 128072.34,
-          "avg_price": 0.1318,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2634,
-          "value": 42022.63,
-          "avg_price": 0.1949,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "BirdMan.",
-          "roi": 0.1637,
-          "value": 31886.97,
-          "avg_price": 0.1462,
-          "cur_price": 0.5905
         }
       ]
     },
@@ -428,175 +473,6 @@
           "cur_price": 0.9995
         }
       ]
-    },
-    {
-      "market": "LoL: T1 vs Karmine Corp - Game 2 Winner",
-      "slug": "lol-t1-kc-2026-07-18-game2",
-      "outcome": "Karmine Corp",
-      "num_traders": 9,
-      "total_value": 139587.51,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1669,
-          "value": 35736.11,
-          "avg_price": 0.2541,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.3666,
-          "value": 22893.12,
-          "avg_price": 0.5489,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.369,
-          "value": 19112.7,
-          "avg_price": 0.2875,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.1766,
-          "value": 15296.46,
-          "avg_price": 0.3294,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MissingJoy",
-          "roi": 0.5205,
-          "value": 12599.95,
-          "avg_price": 0.3568,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.1515,
-          "value": 11060.6,
-          "avg_price": 0.24,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.4512,
-          "value": 9995,
-          "avg_price": 0.24,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.2697,
-          "value": 9906.6,
-          "avg_price": 0.3217,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.2373,
-          "value": 2986.97,
-          "avg_price": 0.2599,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
-      "slug": "lol-gen-dk-2026-07-18-game2",
-      "outcome": "Dplus KIA",
-      "num_traders": 4,
-      "total_value": 28903.45,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1669,
-          "value": 25243.7,
-          "avg_price": 0.3529,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.1766,
-          "value": 2833.3,
-          "avg_price": 0.2484,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "MissingJoy",
-          "roi": 0.5205,
-          "value": 708.33,
-          "avg_price": 0.3599,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.7387,
-          "value": 118.12,
-          "avg_price": 0.31,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Yandex vs PARIVISION - Game 1 Winner",
-      "slug": "dota2-ty-pari-2026-07-18-game1",
-      "outcome": "PARIVISION",
-      "num_traders": 3,
-      "total_value": 372737.58,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1669,
-          "value": 317534.21,
-          "avg_price": 0.48,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.2373,
-          "value": 45208.44,
-          "avg_price": 0.4444,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.4512,
-          "value": 9994.93,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: NIP vs K27 (BO3) - Stake Ranked Episode 3 Playoffs",
-      "slug": "cs2-nip-k271-2026-07-18",
-      "outcome": "K27",
-      "num_traders": 3,
-      "total_value": 95535.0,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1669,
-          "value": 82123.08,
-          "avg_price": 0.4057,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.3666,
-          "value": 7465.31,
-          "avg_price": 0.3969,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.2697,
-          "value": 5946.61,
-          "avg_price": 0.4,
-          "cur_price": 0.9995
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -675,20 +551,22 @@
     "mlb-stl-ari-2026-07-17::Arizona Diamondbacks": 3,
     "wnba-conn-phx-2026-07-17::Connecticut Sun": 3,
     "mlb-det-laa-2026-07-17::Detroit Tigers": 3,
-    "fifwc-fra-eng-2026-07-18-fra::Yes": 3,
     "fifwc-fra-eng-2026-07-18-team-to-advance::England": 3,
     "fifwc-esp-arg-2026-07-19-esp::Yes": 3,
     "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 3,
     "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 3,
     "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
-    "lol-t1-kc-2026-07-18-game2::Karmine Corp": 2,
-    "lol-gen-dk-2026-07-18-game2::Dplus KIA": 2,
-    "dota2-ty-pari-2026-07-18-game1::PARIVISION": 2,
-    "cs2-nip-k271-2026-07-18::K27": 2,
-    "lol-t1-kc-2026-07-18::Karmine Corp": 1,
-    "lol-gen-dk-2026-07-18-game1::Dplus KIA": 1,
-    "lol-t1-kc-2026-07-18-game-handicap-away-1pt5::Karmine Corp": 1
+    "lol-t1-kc-2026-07-18-game2::Karmine Corp": 3,
+    "lol-gen-dk-2026-07-18-game2::Dplus KIA": 3,
+    "dota2-ty-pari-2026-07-18-game1::PARIVISION": 3,
+    "cs2-nip-k271-2026-07-18::K27": 3,
+    "lol-t1-kc-2026-07-18::Karmine Corp": 2,
+    "lol-gen-dk-2026-07-18-game1::Dplus KIA": 2,
+    "lol-t1-kc-2026-07-18-game-handicap-away-1pt5::Karmine Corp": 2,
+    "lol-gen-dk-2026-07-18-game2::Gen.G": 1,
+    "dota2-ty-pari-2026-07-18::PARIVISION": 1,
+    "dota2-ty-pari-2026-07-18-game2::Team Yandex": 1
   },
-  "updated_at": "2026-07-18T18:13:13.212617+00:00"
+  "updated_at": "2026-07-18T19:35:19.248130+00:00"
 }

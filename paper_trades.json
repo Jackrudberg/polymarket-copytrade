@@ -1170,7 +1170,7 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-18T18:13:13.211089+00:00",
+      "last_seen": "2026-07-18T19:35:19.245646+00:00",
       "entry_price": 0.5855,
       "current_price": 0.5905,
       "stake": 100.0,
@@ -1698,15 +1698,15 @@
       "slug": "fifwc-fra-eng-2026-07-18-fra",
       "side": "Yes",
       "alerted_at": "2026-07-18T04:05:13.009047+00:00",
-      "last_seen": "2026-07-18T06:17:21.986907+00:00",
+      "last_seen": "2026-07-18T19:35:19.245646+00:00",
       "entry_price": 0.515,
-      "current_price": 0.515,
+      "current_price": 0.535,
       "stake": 100.0,
       "shares": 194.174757,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 103.88,
+      "paper_pnl": 3.88,
+      "return_percent": 3.88,
+      "status": "OPEN",
       "num_traders": 4,
       "combined_value": 137264.23,
       "traders": [
@@ -2089,7 +2089,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 119498.65,
       "traders": [
@@ -2099,7 +2099,8 @@
         "sulumos",
         "itsonlyamatteroftime"
       ],
-      "url": "https://polymarket.com/event/lol-t1-kc-2026-07-18"
+      "url": "https://polymarket.com/event/lol-t1-kc-2026-07-18",
+      "consensus_lost_at": "2026-07-18T19:35:19.245646+00:00"
     },
     {
       "signal_id": "lol-gen-dk-2026-07-18-game1::Dplus KIA",
@@ -2115,7 +2116,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 43220.96,
       "traders": [
@@ -2123,7 +2124,8 @@
         "LOBODAFL",
         "MissingJoy"
       ],
-      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18-game1"
+      "url": "https://polymarket.com/event/lol-gen-dk-2026-07-18-game1",
+      "consensus_lost_at": "2026-07-18T19:35:19.245646+00:00"
     },
     {
       "signal_id": "lol-t1-kc-2026-07-18-game-handicap-away-1pt5::Karmine Corp",
@@ -2139,7 +2141,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 33860.8,
       "traders": [
@@ -2147,7 +2149,8 @@
         "TAIWANNUMBERONE",
         "LOBODAFL"
       ],
-      "url": "https://polymarket.com/event/lol-t1-kc-2026-07-18-game-handicap-away-1pt5"
+      "url": "https://polymarket.com/event/lol-t1-kc-2026-07-18-game-handicap-away-1pt5",
+      "consensus_lost_at": "2026-07-18T19:35:19.245646+00:00"
     },
     {
       "signal_id": "lol-gen-dk-2026-07-18::Dplus KIA",
@@ -2155,7 +2158,7 @@
       "slug": "lol-gen-dk-2026-07-18",
       "side": "Dplus KIA",
       "alerted_at": "2026-07-18T16:14:26.022539+00:00",
-      "last_seen": "2026-07-18T18:13:13.211089+00:00",
+      "last_seen": "2026-07-18T19:35:19.245646+00:00",
       "entry_price": 0.375,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -2325,7 +2328,31 @@
         "TIMETOMAKEIT"
       ],
       "url": "https://polymarket.com/event/dota2-ty-pari-2026-07-18-game2"
+    },
+    {
+      "signal_id": "val-th1-tl1-2026-07-18::Team Liquid",
+      "market": "Valorant: Team Heretics vs Team Liquid (BO3) - VCT EMEA Group Omega",
+      "slug": "val-th1-tl1-2026-07-18",
+      "side": "Team Liquid",
+      "alerted_at": "2026-07-18T19:35:19.245646+00:00",
+      "last_seen": "2026-07-18T19:35:19.245646+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9318.95,
+      "traders": [
+        "one8tyfive",
+        "riverskew",
+        "TIMETOMAKEIT"
+      ],
+      "url": "https://polymarket.com/event/val-th1-tl1-2026-07-18"
     }
   ],
-  "updated_at": "2026-07-18T18:13:13.211089+00:00"
+  "updated_at": "2026-07-18T19:35:19.245646+00:00"
 }
