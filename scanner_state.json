@@ -1,36 +1,159 @@
 {
   "seen_ids": [
-    "fifwc-fra-eng-2026-07-18-eng::Yes",
-    "val-th1-tl1-2026-07-18::Team Liquid"
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "mlb-lad-nyy-2026-07-18-total-8pt5::Over",
+    "fifwc-fra-eng-2026-07-18-fra::No",
+    "mlb-wsh-oak-2026-07-18::Athletics",
+    "fifwc-fra-eng-2026-07-18-eng::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 91518.19,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.212,
+          "value": 42010.82,
+          "avg_price": 0.1949,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.1925,
+          "value": 31886.97,
+          "avg_price": 0.1462,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.1538,
+          "value": 17620.4,
+          "avg_price": 0.1117,
+          "cur_price": 0.5905
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Dodgers vs. New York Yankees: O/U 8.5",
+      "slug": "mlb-lad-nyy-2026-07-18-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 26884.68,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.1734,
+          "value": 21336.98,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "sportmaster777",
+          "roi": 0.1539,
+          "value": 3333.46,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.1538,
+          "value": 2214.24,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Will France win on 2026-07-18?",
+      "slug": "fifwc-fra-eng-2026-07-18-fra",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 18126.47,
+      "holders": [
+        {
+          "trader": "one8tyfive",
+          "roi": 0.2255,
+          "value": 12685.98,
+          "avg_price": 0.83,
+          "cur_price": 0.8775
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.212,
+          "value": 3948.75,
+          "avg_price": 0.5,
+          "cur_price": 0.8775
+        },
+        {
+          "trader": "alwayslatetotheparty",
+          "roi": 0.2231,
+          "value": 1491.74,
+          "avg_price": 0.9874,
+          "cur_price": 0.8775
+        }
+      ]
+    },
+    {
+      "market": "Washington Nationals vs. Athletics",
+      "slug": "mlb-wsh-oak-2026-07-18",
+      "outcome": "Athletics",
+      "num_traders": 3,
+      "total_value": 14533.3,
+      "holders": [
+        {
+          "trader": "dv-pm",
+          "roi": 0.1538,
+          "value": 7413.4,
+          "avg_price": 0.49,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "sportmaster777",
+          "roi": 0.1539,
+          "value": 5153.06,
+          "avg_price": 0.4899,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.2042,
+          "value": 1966.84,
+          "avg_price": 0.5014,
+          "cur_price": 0.505
+        }
+      ]
+    },
     {
       "market": "Will England win on 2026-07-18?",
       "slug": "fifwc-fra-eng-2026-07-18-eng",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 69996.4,
+      "total_value": 9489.19,
       "holders": [
         {
-          "trader": "ygggg1",
-          "roi": 0.523,
-          "value": 65500,
-          "avg_price": 0.22,
-          "cur_price": 0.655
+          "trader": "balthazar",
+          "roi": 0.212,
+          "value": 5588,
+          "avg_price": 0.5377,
+          "cur_price": 0.6985
         },
         {
-          "trader": "balthazar",
-          "roi": 0.2619,
-          "value": 4323,
-          "avg_price": 0.4469,
-          "cur_price": 0.655
+          "trader": "BirdMan.",
+          "roi": 0.1925,
+          "value": 3769.34,
+          "avg_price": 0.65,
+          "cur_price": 0.6985
         },
         {
           "trader": "waterx-",
-          "roi": 0.7186,
-          "value": 173.4,
+          "roi": 0.645,
+          "value": 131.85,
           "avg_price": 0.2516,
-          "cur_price": 0.655
+          "cur_price": 0.6985
         }
       ]
     },
@@ -61,152 +184,6 @@
           "value": 287.1,
           "avg_price": 0.59,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
-      "slug": "lol-gen-dk-2026-07-18",
-      "outcome": "Dplus KIA",
-      "num_traders": 11,
-      "total_value": 272764.65,
-      "holders": [
-        {
-          "trader": "esportGG",
-          "roi": 0.1985,
-          "value": 45848.96,
-          "avg_price": 0.2763,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Netrol",
-          "roi": 0.5427,
-          "value": 43403.21,
-          "avg_price": 0.3399,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.5026,
-          "value": 38080.95,
-          "avg_price": 0.32,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Uniform123",
-          "roi": 0.1954,
-          "value": 29388.88,
-          "avg_price": 0.4831,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "waterx-",
-          "roi": 0.7284,
-          "value": 25753.21,
-          "avg_price": 0.3273,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BirdMan.",
-          "roi": 0.2088,
-          "value": 25057.44,
-          "avg_price": 0.3158,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.5149,
-          "value": 19989.98,
-          "avg_price": 0.3099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.2936,
-          "value": 15908.02,
-          "avg_price": 0.7373,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.3786,
-          "value": 14519.54,
-          "avg_price": 0.465,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TIMETOMAKEIT",
-          "roi": 0.1757,
-          "value": 14451.64,
-          "avg_price": 0.7676,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Vetch",
-          "roi": 0.4864,
-          "value": 362.82,
-          "avg_price": 0.22,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 201981.94,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1775,
-          "value": 128072.34,
-          "avg_price": 0.1318,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2474,
-          "value": 42022.63,
-          "avg_price": 0.1949,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "BirdMan.",
-          "roi": 0.2088,
-          "value": 31886.97,
-          "avg_price": 0.1462,
-          "cur_price": 0.5905
-        }
-      ]
-    },
-    {
-      "market": "Will France win on 2026-07-18?",
-      "slug": "fifwc-fra-eng-2026-07-18-fra",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 31931.01,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1775,
-          "value": 21688.83,
-          "avg_price": 0.49,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.1985,
-          "value": 9897.5,
-          "avg_price": 0.54,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "waterx-",
-          "roi": 0.7284,
-          "value": 344.68,
-          "avg_price": 0.5146,
-          "cur_price": 0.535
         }
       ]
     }
@@ -303,9 +280,9 @@
     "lol-gen-dk-2026-07-18-game2::Gen.G": 3,
     "dota2-ty-pari-2026-07-18::PARIVISION": 3,
     "dota2-ty-pari-2026-07-18-game2::Team Yandex": 3,
-    "lol-gen-dk-2026-07-18::Dplus KIA": 2,
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 2,
-    "fifwc-fra-eng-2026-07-18-fra::Yes": 2
+    "lol-gen-dk-2026-07-18::Dplus KIA": 3,
+    "fifwc-fra-eng-2026-07-18-fra::Yes": 3,
+    "val-th1-tl1-2026-07-18::Team Liquid": 1
   },
-  "updated_at": "2026-07-18T21:24:46.405658+00:00"
+  "updated_at": "2026-07-18T22:22:54.565073+00:00"
 }
