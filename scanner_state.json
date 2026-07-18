@@ -1,40 +1,27 @@
 {
   "seen_ids": [
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "fifwc-fra-eng-2026-07-18-fra::Yes",
-    "fifwc-fra-eng-2026-07-18-team-to-advance::England",
-    "fifwc-esp-arg-2026-07-19-esp::Yes",
-    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes",
-    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes",
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No"
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes"
   ],
   "signals": [
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 241338.53,
+      "num_traders": 4,
+      "total_value": 210260.78,
       "holders": [
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.5186,
+          "roi": 0.4923,
           "value": 128289.22,
           "avg_price": 0.1318,
           "cur_price": 0.5915
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2738,
+          "roi": 0.2547,
           "value": 34829.06,
           "avg_price": 0.0359,
-          "cur_price": 0.5915
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.1631,
-          "value": 31077.75,
-          "avg_price": 0.5742,
           "cur_price": 0.5915
         },
         {
@@ -46,7 +33,7 @@
         },
         {
           "trader": "Pwaddler",
-          "roi": 0.5048,
+          "roi": 0.5073,
           "value": 22181.25,
           "avg_price": 0.3006,
           "cur_price": 0.5915
@@ -567,43 +554,6 @@
           "cur_price": 0.135
         }
       ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 5762.12,
-      "holders": [
-        {
-          "trader": "boyau",
-          "roi": 0.2559,
-          "value": 4055.02,
-          "avg_price": 0.4049,
-          "cur_price": 0.4055
-        },
-        {
-          "trader": "f3arless",
-          "roi": 0.2355,
-          "value": 1216.5,
-          "avg_price": 0.176,
-          "cur_price": 0.4055
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2732,
-          "value": 313.97,
-          "avg_price": 0.0166,
-          "cur_price": 0.4055
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2737,
-          "value": 176.63,
-          "avg_price": 0.0887,
-          "cur_price": 0.4055
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -671,17 +621,23 @@
     "lol-blg-dk-2026-07-17-game-handicap-away-1pt5::Dplus KIA": 3,
     "lol-al-kc-2026-07-17-game-handicap-away-1pt5::Karmine Corp": 3,
     "cs2-3dmax-k271-2026-07-17::K27": 3,
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 2,
-    "mlb-wsh-oak-2026-07-17::Washington Nationals": 1,
-    "mlb-det-laa-2026-07-17::Los Angeles Angels": 1,
-    "mlb-sf-sea-2026-07-17::San Francisco Giants": 1,
-    "mlb-sf-sea-2026-07-17::Seattle Mariners": 1,
-    "mls-lag-laf-2026-07-17-lag::No": 1,
-    "will-argentina-win-the-2026-fifa-world-cup-245::No": 1,
-    "mls-lag-laf-2026-07-17-laf::Yes": 1,
-    "mlb-stl-ari-2026-07-17::Arizona Diamondbacks": 1,
-    "wnba-conn-phx-2026-07-17::Connecticut Sun": 1,
-    "mlb-det-laa-2026-07-17::Detroit Tigers": 1
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 3,
+    "mlb-wsh-oak-2026-07-17::Washington Nationals": 2,
+    "mlb-det-laa-2026-07-17::Los Angeles Angels": 2,
+    "mlb-sf-sea-2026-07-17::San Francisco Giants": 2,
+    "mlb-sf-sea-2026-07-17::Seattle Mariners": 2,
+    "mls-lag-laf-2026-07-17-lag::No": 2,
+    "will-argentina-win-the-2026-fifa-world-cup-245::No": 2,
+    "mls-lag-laf-2026-07-17-laf::Yes": 2,
+    "mlb-stl-ari-2026-07-17::Arizona Diamondbacks": 2,
+    "wnba-conn-phx-2026-07-17::Connecticut Sun": 2,
+    "mlb-det-laa-2026-07-17::Detroit Tigers": 2,
+    "fifwc-fra-eng-2026-07-18-fra::Yes": 1,
+    "fifwc-fra-eng-2026-07-18-team-to-advance::England": 1,
+    "fifwc-esp-arg-2026-07-19-esp::Yes": 1,
+    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 1,
+    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 1,
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 1
   },
-  "updated_at": "2026-07-18T06:17:21.989217+00:00"
+  "updated_at": "2026-07-18T08:12:53.276226+00:00"
 }
