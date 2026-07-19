@@ -302,7 +302,7 @@
       "current_value": 73.49,
       "paper_pnl": -26.51,
       "return_percent": -26.51,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 114511.08,
       "traders": [
@@ -311,7 +311,7 @@
         "luck00004"
       ],
       "url": "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245",
-      "consensus_lost_at": "2026-07-18T08:12:53.274048+00:00"
+      "consensus_lost_at": "2026-07-19T04:29:17.875982+00:00"
     },
     {
       "signal_id": "will-wti-reach-90-in-july-2026-334::No",
@@ -2373,7 +2373,7 @@
       "current_value": 152.6,
       "paper_pnl": 52.6,
       "return_percent": 52.6,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 69996.4,
       "traders": [
@@ -2381,7 +2381,8 @@
         "balthazar",
         "waterx-"
       ],
-      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-eng"
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-eng",
+      "consensus_lost_at": "2026-07-19T04:29:17.875982+00:00"
     },
     {
       "signal_id": "mlb-lad-nyy-2026-07-18-total-8pt5::Over",
@@ -2439,15 +2440,15 @@
       "slug": "mlb-wsh-oak-2026-07-18",
       "side": "Athletics",
       "alerted_at": "2026-07-18T22:22:54.563009+00:00",
-      "last_seen": "2026-07-18T22:22:54.563009+00:00",
+      "last_seen": "2026-07-19T04:29:17.875982+00:00",
       "entry_price": 0.505,
-      "current_price": 0.505,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 197.92,
+      "paper_pnl": 97.92,
+      "return_percent": 97.92,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 14533.3,
       "traders": [
@@ -2457,7 +2458,57 @@
       ],
       "url": "https://polymarket.com/event/mlb-wsh-oak-2026-07-18",
       "consensus_lost_at": "2026-07-19T01:00:24.867928+00:00"
+    },
+    {
+      "signal_id": "mlb-det-laa-2026-07-18::Detroit Tigers",
+      "market": "Detroit Tigers vs. Los Angeles Angels",
+      "slug": "mlb-det-laa-2026-07-18",
+      "side": "Detroit Tigers",
+      "alerted_at": "2026-07-19T04:29:17.875982+00:00",
+      "last_seen": "2026-07-19T04:29:17.875982+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 58583.99,
+      "traders": [
+        "ic4cream",
+        "dv-pm",
+        "AnonymousUsername",
+        "Forecastication2"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-laa-2026-07-18"
+    },
+    {
+      "signal_id": "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers",
+      "market": "Spread: Detroit Tigers (-1.5)",
+      "slug": "mlb-det-laa-2026-07-18-spread-away-1pt5",
+      "side": "Detroit Tigers",
+      "alerted_at": "2026-07-19T04:29:17.875982+00:00",
+      "last_seen": "2026-07-19T04:29:17.875982+00:00",
+      "entry_price": 0.981,
+      "current_price": 0.981,
+      "stake": 100.0,
+      "shares": 101.936799,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 21866.88,
+      "traders": [
+        "RhinoBank",
+        "Forecastication2",
+        "AnonymousUsername",
+        "dv-pm"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-laa-2026-07-18-spread-away-1pt5"
     }
   ],
-  "updated_at": "2026-07-19T01:00:24.867928+00:00"
+  "updated_at": "2026-07-19T04:29:17.875982+00:00"
 }
