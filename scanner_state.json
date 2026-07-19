@@ -1,58 +1,104 @@
 {
   "seen_ids": [
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "will-argentina-win-the-2026-fifa-world-cup-245::No",
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
-    "will-ed-miliband-be-the-next-foreign-secretary-of-the-uk-in-2026-20260715145732972::Yes"
+    "fifwc-esp-arg-2026-07-19-esp::Yes",
+    "fifwc-esp-arg-2026-07-19-exact-score-2-3::No"
   ],
   "signals": [
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
-      "num_traders": 6,
-      "total_value": 280365.45,
+      "num_traders": 7,
+      "total_value": 306693.74,
       "holders": [
         {
           "trader": "AML",
-          "roi": 0.3196,
-          "value": 180737.3,
+          "roi": 0.3204,
+          "value": 180126.19,
           "avg_price": 0.215,
-          "cur_price": 0.5915
+          "cur_price": 0.5895
         },
         {
           "trader": "balthazar",
-          "roi": 0.3353,
-          "value": 42010.99,
-          "avg_price": 0.1949,
-          "cur_price": 0.5915
+          "roi": 0.3338,
+          "value": 42668.89,
+          "avg_price": 0.208,
+          "cur_price": 0.5885
         },
         {
           "trader": "BirdMan.",
           "roi": 0.2182,
-          "value": 31940.97,
+          "value": 31778.97,
           "avg_price": 0.1462,
-          "cur_price": 0.5915
+          "cur_price": 0.5885
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2014,
+          "value": 29474.96,
+          "avg_price": 0.59,
+          "cur_price": 0.5895
         },
         {
           "trader": "Lexington",
-          "roi": 1.7604,
-          "value": 13543.93,
+          "roi": 1.2123,
+          "value": 13498.13,
           "avg_price": 0.0183,
-          "cur_price": 0.5915
+          "cur_price": 0.5895
         },
         {
           "trader": "quavoo",
-          "roi": 0.3765,
-          "value": 11612.52,
+          "roi": 0.3761,
+          "value": 8628.62,
           "avg_price": 0.5636,
-          "cur_price": 0.5915
+          "cur_price": 0.5895
         },
         {
           "trader": "donthackme",
-          "roi": 0.4633,
-          "value": 519.74,
+          "roi": 0.5204,
+          "value": 517.98,
           "avg_price": 0.0166,
-          "cur_price": 0.5915
+          "cur_price": 0.5895
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 265379.32,
+      "holders": [
+        {
+          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+          "roi": 0.338,
+          "value": 223208.42,
+          "avg_price": 0.587,
+          "cur_price": 0.5875
+        },
+        {
+          "trader": "Lexington",
+          "roi": 1.2123,
+          "value": 24294.45,
+          "avg_price": 0.7836,
+          "cur_price": 0.5875
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.2369,
+          "value": 16995.2,
+          "avg_price": 0.589,
+          "cur_price": 0.5875
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3338,
+          "value": 881.25,
+          "avg_price": 0.7788,
+          "cur_price": 0.5875
         }
       ]
     },
@@ -61,28 +107,88 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 243012.6,
+      "total_value": 305506.33,
       "holders": [
         {
           "trader": "quavoo",
-          "roi": 0.3765,
-          "value": 241439.82,
-          "avg_price": 0.2944,
+          "roi": 0.3761,
+          "value": 303314.8,
+          "avg_price": 0.3184,
           "cur_price": 0.4125
         },
         {
           "trader": "balthazar",
-          "roi": 0.3353,
-          "value": 1253.39,
-          "avg_price": 0.3407,
+          "roi": 0.3338,
+          "value": 1872.14,
+          "avg_price": 0.3934,
           "cur_price": 0.4125
         },
         {
           "trader": "donthackme",
-          "roi": 0.4633,
+          "roi": 0.5204,
           "value": 319.39,
           "avg_price": 0.0166,
           "cur_price": 0.4125
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win on 2026-07-19?",
+      "slug": "fifwc-esp-arg-2026-07-19-esp",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 210324.67,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.1749,
+          "value": 139745.95,
+          "avg_price": 0.4275,
+          "cur_price": 0.4262
+        },
+        {
+          "trader": "AML",
+          "roi": 0.3204,
+          "value": 67765.8,
+          "avg_price": 0.425,
+          "cur_price": 0.4262
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3338,
+          "value": 2812.92,
+          "avg_price": 0.4469,
+          "cur_price": 0.4262
+        }
+      ]
+    },
+    {
+      "market": "Exact Score: Spain 2 - 3 Argentina?",
+      "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-3",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 136303.57,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2014,
+          "value": 103097.32,
+          "avg_price": 0.9667,
+          "cur_price": 0.9625
+        },
+        {
+          "trader": "bahibahibahi",
+          "roi": 0.6347,
+          "value": 28875,
+          "avg_price": 0.963,
+          "cur_price": 0.9625
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3338,
+          "value": 4331.25,
+          "avg_price": 0.5,
+          "cur_price": 0.9625
         }
       ]
     },
@@ -113,66 +219,6 @@
           "value": 230,
           "avg_price": 0.027,
           "cur_price": 0.92
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 218650.04,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1704,
-          "value": 177149.55,
-          "avg_price": 0.578,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "Lexington",
-          "roi": 1.9927,
-          "value": 24418.51,
-          "avg_price": 0.7836,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.3124,
-          "value": 17081.98,
-          "avg_price": 0.589,
-          "cur_price": 0.5905
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win on 2026-07-19?",
-      "slug": "fifwc-esp-arg-2026-07-19-esp",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 215672.55,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2931,
-          "value": 139745.95,
-          "avg_price": 0.4275,
-          "cur_price": 0.4262
-        },
-        {
-          "trader": "AML",
-          "roi": 0.3257,
-          "value": 67765.8,
-          "avg_price": 0.425,
-          "cur_price": 0.4262
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1704,
-          "value": 8160.8,
-          "avg_price": 0.41,
-          "cur_price": 0.4262
         }
       ]
     },
@@ -313,9 +359,8 @@
     "lol-t1-gen-2026-07-19::Gen.G": 3,
     "dota2-bb4-pari-2026-07-19-game1::PARIVISION": 3,
     "mlb-tex-atl-2026-07-19::Texas Rangers": 3,
-    "will-argentina-win-the-2026-fifa-world-cup-245::No": 1,
-    "fifwc-esp-arg-2026-07-19-esp::Yes": 1,
-    "mlb-cws-tor-2026-07-19::Chicago White Sox": 1
+    "mlb-cws-tor-2026-07-19::Chicago White Sox": 2,
+    "will-ed-miliband-be-the-next-foreign-secretary-of-the-uk-in-2026-20260715145732972::Yes": 1
   },
-  "updated_at": "2026-07-19T17:27:47.563889+00:00"
+  "updated_at": "2026-07-19T18:32:11.382213+00:00"
 }
