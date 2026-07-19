@@ -1,85 +1,302 @@
 {
   "seen_ids": [
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "fifwc-esp-arg-2026-07-19-team-to-advance::Spain",
-    "fifwc-esp-arg-2026-07-19-draw::Yes",
-    "fifwc-esp-arg-2026-07-19-exact-score-0-0::Yes",
-    "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283::No",
     "will-argentina-win-the-2026-fifa-world-cup-245::No",
-    "will-lamine-yamal-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032280::No",
-    "will-kylian-mbappe-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032279::No",
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes"
+    "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283::No",
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
+    "mlb-lad-nyy-2026-07-19::Los Angeles Dodgers",
+    "wnba-conn-phx-2026-07-19::Phoenix Mercury"
   ],
   "signals": [
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
-      "num_traders": 9,
-      "total_value": 4157243.31,
+      "num_traders": 14,
+      "total_value": 17083769.05,
       "holders": [
         {
+          "trader": "yamal19",
+          "roi": 0.4086,
+          "value": 3302305.62,
+          "avg_price": 0.5909,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Jsram",
+          "roi": 0.353,
+          "value": 3122816.61,
+          "avg_price": 0.3876,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "Allezpapa",
-          "roi": 0.359,
+          "roi": 1.859,
           "value": 2681321.76,
           "avg_price": 0.1564,
           "cur_price": 0.9995
         },
         {
+          "trader": "RJW1",
+          "roi": 2.5925,
+          "value": 1651921.87,
+          "avg_price": 0.5808,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "wco26",
+          "roi": 0.84,
+          "value": 1643178.19,
+          "avg_price": 0.1224,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "thesingularityisnear",
+          "roi": 0.5544,
+          "value": 1401819.86,
+          "avg_price": 0.1265,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "FootballFan98",
+          "roi": 2.1078,
+          "value": 1149902.57,
+          "avg_price": 0.1978,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "BreakTheBank",
-          "roi": 0.2282,
+          "roi": 0.4273,
           "value": 1027604.54,
           "avg_price": 0.2883,
           "cur_price": 0.9995
         },
         {
+          "trader": "ndb1",
+          "roi": 0.9337,
+          "value": 706844.49,
+          "avg_price": 0.3028,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "cosmicxbt",
-          "roi": 0.2314,
+          "roi": 0.3105,
           "value": 161895.32,
           "avg_price": 0.6782,
           "cur_price": 0.9995
         },
         {
           "trader": "debased",
-          "roi": 2.431,
-          "value": 143040.95,
+          "roi": 1.6649,
+          "value": 141630.65,
           "avg_price": 0.2039,
           "cur_price": 0.9995
         },
         {
           "trader": "norrisfan",
-          "roi": 0.8313,
+          "roi": 0.434,
           "value": 50481.47,
           "avg_price": 0.0166,
           "cur_price": 0.9995
         },
         {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.1669,
-          "value": 49974.93,
-          "avg_price": 0.59,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "dv-pm",
-          "roi": 0.3017,
+          "roi": 0.4417,
           "value": 29824.88,
           "avg_price": 0.1117,
           "cur_price": 0.9995
         },
         {
           "trader": "Lexington",
-          "roi": 0.8137,
+          "roi": 1.0692,
           "value": 12221.22,
           "avg_price": 0.0183,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "No",
+      "num_traders": 6,
+      "total_value": 3366471.95,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.9337,
+          "value": 2575477.56,
+          "avg_price": 0.8842,
+          "cur_price": 0.9995
         },
         {
-          "trader": "donthackme",
-          "roi": 0.4786,
-          "value": 878.24,
-          "avg_price": 0.0166,
+          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+          "roi": 0.5075,
+          "value": 388335.94,
+          "avg_price": 0.5869,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "S-Works",
+          "roi": 0.2288,
+          "value": 250235.38,
+          "avg_price": 0.8803,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "umeax",
+          "roi": 0.2198,
+          "value": 95790.37,
+          "avg_price": 0.591,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lexington",
+          "roi": 1.0692,
+          "value": 41086.27,
+          "avg_price": 0.7836,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3896,
+          "value": 15546.43,
+          "avg_price": 0.6678,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
+      "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 121812.87,
+      "holders": [
+        {
+          "trader": "norrisfan",
+          "roi": 0.434,
+          "value": 82751.1,
+          "avg_price": 0.0983,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lexington",
+          "roi": 1.0692,
+          "value": 26451.53,
+          "avg_price": 0.3413,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "debased",
+          "roi": 1.6649,
+          "value": 12211.19,
+          "avg_price": 0.0712,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x8B8b9c565C8dCA43cfb767F0F2C20B2B323d2512-1778811726293",
+          "roi": 4.9567,
+          "value": 399.05,
+          "avg_price": 0.8588,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 903.4,
+      "holders": [
+        {
+          "trader": "Allezpapa",
+          "roi": 1.859,
+          "value": 392.26,
+          "avg_price": 0.0859,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "FootballFan98",
+          "roi": 2.1078,
+          "value": 260.88,
+          "avg_price": 0.0166,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "debased",
+          "roi": 1.6649,
+          "value": 139.69,
+          "avg_price": 0.189,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "Oddscompiler",
+          "roi": 0.5941,
+          "value": 110.57,
+          "avg_price": 0.4384,
+          "cur_price": 0.0005
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Dodgers vs. New York Yankees",
+      "slug": "mlb-lad-nyy-2026-07-19",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 42637.94,
+      "holders": [
+        {
+          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+          "roi": 0.5075,
+          "value": 40049.99,
+          "avg_price": 0.56,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.4417,
+          "value": 1921.51,
+          "avg_price": 0.53,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1532,
+          "value": 666.44,
+          "avg_price": 0.5449,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Connecticut Sun vs. Phoenix Mercury",
+      "slug": "wnba-conn-phx-2026-07-19",
+      "outcome": "Phoenix Mercury",
+      "num_traders": 3,
+      "total_value": 1325.92,
+      "holders": [
+        {
+          "trader": "swisstony",
+          "roi": 0.1532,
+          "value": 959.84,
+          "avg_price": 0.614,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3896,
+          "value": 219.18,
+          "avg_price": 0.62,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.282,
+          "value": 146.9,
+          "avg_price": 0.6099,
+          "cur_price": 0.645
         }
       ]
     },
@@ -223,73 +440,6 @@
       ]
     },
     {
-      "market": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
-      "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 13935.71,
-      "holders": [
-        {
-          "trader": "norrisfan",
-          "roi": 0.8313,
-          "value": 9314.16,
-          "avg_price": 0.0983,
-          "cur_price": 0.1125
-        },
-        {
-          "trader": "Lexington",
-          "roi": 0.8137,
-          "value": 2977.29,
-          "avg_price": 0.3413,
-          "cur_price": 0.1125
-        },
-        {
-          "trader": "debased",
-          "roi": 2.431,
-          "value": 1450.11,
-          "avg_price": 0.0712,
-          "cur_price": 0.1125
-        },
-        {
-          "trader": "0x8B8b9c565C8dCA43cfb767F0F2C20B2B323d2512-1778811726293",
-          "roi": 2.9778,
-          "value": 194.15,
-          "avg_price": 0.1403,
-          "cur_price": 0.1125
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 444968.64,
-      "holders": [
-        {
-          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
-          "roi": 0.1977,
-          "value": 388335.94,
-          "avg_price": 0.5869,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lexington",
-          "roi": 0.8137,
-          "value": 41086.27,
-          "avg_price": 0.7836,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.2686,
-          "value": 15546.43,
-          "avg_price": 0.6678,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Will Lamine Yamal win the Golden Ball at the 2026 FIFA World Cup?",
       "slug": "will-lamine-yamal-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032280",
       "outcome": "No",
@@ -346,36 +496,6 @@
           "value": 263.62,
           "avg_price": 0.9465,
           "cur_price": 0.9415
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 642.52,
-      "holders": [
-        {
-          "trader": "Allezpapa",
-          "roi": 0.359,
-          "value": 392.26,
-          "avg_price": 0.0859,
-          "cur_price": 0.0005
-        },
-        {
-          "trader": "debased",
-          "roi": 2.431,
-          "value": 139.69,
-          "avg_price": 0.189,
-          "cur_price": 0.0005
-        },
-        {
-          "trader": "Oddscompiler",
-          "roi": 0.3037,
-          "value": 110.57,
-          "avg_price": 0.4384,
-          "cur_price": 0.0005
         }
       ]
     },
@@ -443,126 +563,6 @@
           "value": 20223.67,
           "avg_price": 0.816,
           "cur_price": 0.9987
-        }
-      ]
-    },
-    {
-      "market": "Exact Score: Spain 2 - 3 Argentina?",
-      "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-3",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 237062.8,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.1555,
-          "value": 207260.06,
-          "avg_price": 0.9643,
-          "cur_price": 0.9865
-        },
-        {
-          "trader": "bahibahibahi",
-          "roi": 0.8772,
-          "value": 29625,
-          "avg_price": 0.963,
-          "cur_price": 0.9875
-        },
-        {
-          "trader": "cassandra.chained",
-          "roi": 0.2269,
-          "value": 177.74,
-          "avg_price": 0.989,
-          "cur_price": 0.9875
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win on 2026-07-19?",
-      "slug": "fifwc-esp-arg-2026-07-19-esp",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 61595.18,
-      "holders": [
-        {
-          "trader": "AML",
-          "roi": 0.3105,
-          "value": 56635.8,
-          "avg_price": 0.425,
-          "cur_price": 0.3562
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2941,
-          "value": 4108.62,
-          "avg_price": 0.4068,
-          "cur_price": 0.3637
-        },
-        {
-          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-          "roi": 0.1565,
-          "value": 850.76,
-          "avg_price": 0.4274,
-          "cur_price": 0.3637
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win on 2026-07-19?",
-      "slug": "fifwc-esp-arg-2026-07-19-esp",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 41084.48,
-      "holders": [
-        {
-          "trader": "02-",
-          "roi": 0.1919,
-          "value": 27151.7,
-          "avg_price": 0.5677,
-          "cur_price": 0.6362
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.1658,
-          "value": 11069.88,
-          "avg_price": 0.575,
-          "cur_price": 0.6362
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2941,
-          "value": 2862.9,
-          "avg_price": 0.5,
-          "cur_price": 0.6362
-        }
-      ]
-    },
-    {
-      "market": "Spain vs. Argentina: Team to Advance",
-      "slug": "fifwc-esp-arg-2026-07-19-team-to-advance",
-      "outcome": "Argentina",
-      "num_traders": 3,
-      "total_value": 12889.95,
-      "holders": [
-        {
-          "trader": "esportGG",
-          "roi": 0.1658,
-          "value": 9248.8,
-          "avg_price": 0.415,
-          "cur_price": 0.4162
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2941,
-          "value": 1821.11,
-          "avg_price": 0.4318,
-          "cur_price": 0.4162
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1637,
-          "value": 1820.04,
-          "avg_price": 0.3983,
-          "cur_price": 0.4162
         }
       ]
     }
@@ -675,12 +675,17 @@
     "mlb-cws-tor-2026-07-19::Chicago White Sox": 3,
     "will-ed-miliband-be-the-next-foreign-secretary-of-the-uk-in-2026-20260715145732972::Yes": 3,
     "fifwc-esp-arg-2026-07-19-exact-score-2-1::Yes": 3,
-    "fifwc-esp-arg-2026-07-19-exact-score-2-3::No": 2,
-    "fifwc-esp-arg-2026-07-19-esp::Yes": 2,
-    "fifwc-esp-arg-2026-07-19-esp::No": 2,
-    "fifwc-esp-arg-2026-07-19-team-to-advance::Argentina": 2,
-    "fifwc-esp-arg-2026-07-19-btts::No": 1,
-    "fifwc-esp-arg-2026-07-19-total-2pt5::Under": 1
+    "fifwc-esp-arg-2026-07-19-exact-score-2-3::No": 3,
+    "fifwc-esp-arg-2026-07-19-esp::Yes": 3,
+    "fifwc-esp-arg-2026-07-19-esp::No": 3,
+    "fifwc-esp-arg-2026-07-19-team-to-advance::Argentina": 3,
+    "fifwc-esp-arg-2026-07-19-btts::No": 2,
+    "fifwc-esp-arg-2026-07-19-total-2pt5::Under": 2,
+    "fifwc-esp-arg-2026-07-19-team-to-advance::Spain": 1,
+    "fifwc-esp-arg-2026-07-19-draw::Yes": 1,
+    "fifwc-esp-arg-2026-07-19-exact-score-0-0::Yes": 1,
+    "will-lamine-yamal-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032280::No": 1,
+    "will-kylian-mbappe-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032279::No": 1
   },
-  "updated_at": "2026-07-19T22:29:52.638191+00:00"
+  "updated_at": "2026-07-19T23:33:16.267509+00:00"
 }

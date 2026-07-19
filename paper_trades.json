@@ -294,7 +294,7 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "side": "No",
       "alerted_at": "2026-07-15T15:45:46.585621+00:00",
-      "last_seen": "2026-07-19T22:29:52.635710+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
       "entry_price": 0.8035,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -790,7 +790,7 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "side": "Yes",
       "alerted_at": "2026-07-15T22:41:59.758056+00:00",
-      "last_seen": "2026-07-19T22:29:52.635710+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
       "entry_price": 0.4215,
       "current_price": 0.0005,
       "stake": 100.0,
@@ -1170,7 +1170,7 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-19T22:29:52.635710+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
       "entry_price": 0.5855,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -2550,7 +2550,7 @@
       "current_value": 214.95,
       "paper_pnl": 114.95,
       "return_percent": 114.95,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 13573.75,
       "traders": [
@@ -2559,7 +2559,7 @@
         "Bagwell306"
       ],
       "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-btts",
-      "consensus_lost_at": "2026-07-19T14:13:04.205773+00:00"
+      "consensus_lost_at": "2026-07-19T23:33:16.264245+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-07-19-game1::Gen.G",
@@ -2905,7 +2905,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 502982.52,
       "traders": [
@@ -2913,7 +2913,8 @@
         "MonsieurDimanche",
         "GRINGOMATE"
       ],
-      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-total-2pt5"
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-total-2pt5",
+      "consensus_lost_at": "2026-07-19T23:33:16.264245+00:00"
     },
     {
       "signal_id": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283::No",
@@ -2921,14 +2922,14 @@
       "slug": "will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283",
       "side": "No",
       "alerted_at": "2026-07-19T21:32:16.124782+00:00",
-      "last_seen": "2026-07-19T22:29:52.635710+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
       "entry_price": 0.071254,
-      "current_price": 0.1125,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 1403.425396,
-      "current_value": 157.89,
-      "paper_pnl": 57.89,
-      "return_percent": 57.89,
+      "current_value": 1402.72,
+      "paper_pnl": 1302.72,
+      "return_percent": 1302.72,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 8269.43,
@@ -3037,7 +3038,55 @@
         "cassandra.chained"
       ],
       "url": "https://polymarket.com/event/will-kylian-mbappe-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032279"
+    },
+    {
+      "signal_id": "mlb-lad-nyy-2026-07-19::Los Angeles Dodgers",
+      "market": "Los Angeles Dodgers vs. New York Yankees",
+      "slug": "mlb-lad-nyy-2026-07-19",
+      "side": "Los Angeles Dodgers",
+      "alerted_at": "2026-07-19T23:33:16.264245+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
+      "entry_price": 0.445,
+      "current_price": 0.445,
+      "stake": 100.0,
+      "shares": 224.719101,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 42637.94,
+      "traders": [
+        "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+        "dv-pm",
+        "swisstony"
+      ],
+      "url": "https://polymarket.com/event/mlb-lad-nyy-2026-07-19"
+    },
+    {
+      "signal_id": "wnba-conn-phx-2026-07-19::Phoenix Mercury",
+      "market": "Connecticut Sun vs. Phoenix Mercury",
+      "slug": "wnba-conn-phx-2026-07-19",
+      "side": "Phoenix Mercury",
+      "alerted_at": "2026-07-19T23:33:16.264245+00:00",
+      "last_seen": "2026-07-19T23:33:16.264245+00:00",
+      "entry_price": 0.645,
+      "current_price": 0.645,
+      "stake": 100.0,
+      "shares": 155.03876,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1325.92,
+      "traders": [
+        "swisstony",
+        "sbsigner",
+        "0x076daa"
+      ],
+      "url": "https://polymarket.com/event/wnba-conn-phx-2026-07-19"
     }
   ],
-  "updated_at": "2026-07-19T22:29:52.635710+00:00"
+  "updated_at": "2026-07-19T23:33:16.264245+00:00"
 }
