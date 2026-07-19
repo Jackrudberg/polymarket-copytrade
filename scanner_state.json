@@ -1,68 +1,163 @@
 {
   "seen_ids": [
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "lol-t1-gen-2026-07-19-game1::Gen.G",
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
-    "fifwc-esp-arg-2026-07-19-esp::Yes",
-    "lol-t1-gen-2026-07-19-game2::T1",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "lol-t1-gen-2026-07-19::Gen.G",
+    "dota2-bb4-pari-2026-07-19-game1::PARIVISION",
+    "mlb-tex-atl-2026-07-19::Texas Rangers"
   ],
   "signals": [
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
-      "num_traders": 7,
-      "total_value": 428626.3,
+      "num_traders": 6,
+      "total_value": 412241.24,
       "holders": [
         {
           "trader": "AML",
-          "roi": 0.3191,
-          "value": 180431.74,
+          "roi": 0.3199,
+          "value": 180737.3,
           "avg_price": 0.215,
-          "cur_price": 0.5905
+          "cur_price": 0.5915
         },
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2086,
-          "value": 128072.34,
+          "roi": 0.2075,
+          "value": 128289.22,
           "avg_price": 0.1318,
-          "cur_price": 0.5905
+          "cur_price": 0.5915
         },
         {
           "trader": "balthazar",
-          "roi": 0.2032,
-          "value": 41987.2,
+          "roi": 0.2387,
+          "value": 42010.99,
           "avg_price": 0.1949,
-          "cur_price": 0.5905
+          "cur_price": 0.5915
         },
         {
-          "trader": "AnonymousUsername",
-          "roi": 0.1615,
-          "value": 34770.18,
-          "avg_price": 0.0359,
-          "cur_price": 0.5905
+          "trader": "BirdMan.",
+          "roi": 0.1995,
+          "value": 31940.97,
+          "avg_price": 0.1462,
+          "cur_price": 0.5915
         },
         {
           "trader": "dv-pm",
-          "roi": 0.3188,
-          "value": 17620.4,
+          "roi": 0.3182,
+          "value": 17650.24,
           "avg_price": 0.1117,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "UCF-BIGGEST-FAN",
-          "roi": 0.3816,
-          "value": 14151.55,
-          "avg_price": 0.3187,
-          "cur_price": 0.5905
+          "cur_price": 0.5915
         },
         {
           "trader": "quavoo",
-          "roi": 0.3772,
-          "value": 11592.89,
+          "roi": 0.3776,
+          "value": 11612.52,
           "avg_price": 0.5636,
-          "cur_price": 0.5905
+          "cur_price": 0.5915
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Gen.G (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-t1-gen-2026-07-19",
+      "outcome": "Gen.G",
+      "num_traders": 4,
+      "total_value": 456504.32,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.169,
+          "value": 274869.16,
+          "avg_price": 0.6547,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1583,
+          "value": 133715.24,
+          "avg_price": 0.564,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hleewcwin",
+          "roi": 0.5249,
+          "value": 29984.84,
+          "avg_price": 0.5299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.1995,
+          "value": 17935.08,
+          "avg_price": 0.5979,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: BetBoom Team vs PARIVISION - Game 1 Winner",
+      "slug": "dota2-bb4-pari-2026-07-19-game1",
+      "outcome": "PARIVISION",
+      "num_traders": 4,
+      "total_value": 182319.7,
+      "holders": [
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.2101,
+          "value": 82274.39,
+          "avg_price": 0.5705,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "111111111115",
+          "roi": 0.169,
+          "value": 77887.25,
+          "avg_price": 0.5697,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "GeorgeRe",
+          "roi": 0.1892,
+          "value": 19118.04,
+          "avg_price": 0.5803,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "letitride247",
+          "roi": 0.1597,
+          "value": 3040.02,
+          "avg_price": 0.48,
+          "cur_price": 0.38
+        }
+      ]
+    },
+    {
+      "market": "Texas Rangers vs. Atlanta Braves",
+      "slug": "mlb-tex-atl-2026-07-19",
+      "outcome": "Texas Rangers",
+      "num_traders": 3,
+      "total_value": 11777.82,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.2075,
+          "value": 8000.65,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "111111111115",
+          "roi": 0.169,
+          "value": 3638.07,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.6038,
+          "value": 139.1,
+          "avg_price": 0.4798,
+          "cur_price": 0.535
         }
       ]
     },
@@ -383,8 +478,13 @@
     "mlb-wsh-oak-2026-07-18::Athletics": 3,
     "mlb-det-laa-2026-07-18::Detroit Tigers": 3,
     "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers": 3,
-    "fifwc-esp-arg-2026-07-19-btts::No": 1,
-    "atp-tsitsip-collign-2026-07-19::Raphael Collignon": 1
+    "fifwc-esp-arg-2026-07-19-btts::No": 2,
+    "atp-tsitsip-collign-2026-07-19::Raphael Collignon": 2,
+    "lol-t1-gen-2026-07-19-game1::Gen.G": 1,
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 1,
+    "fifwc-esp-arg-2026-07-19-esp::Yes": 1,
+    "lol-t1-gen-2026-07-19-game2::T1": 1,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1
   },
-  "updated_at": "2026-07-19T12:40:50.114833+00:00"
+  "updated_at": "2026-07-19T14:13:04.208524+00:00"
 }

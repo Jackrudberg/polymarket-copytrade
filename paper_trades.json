@@ -1170,14 +1170,14 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-19T12:40:50.111982+00:00",
+      "last_seen": "2026-07-19T14:13:04.205773+00:00",
       "entry_price": 0.5855,
-      "current_price": 0.5905,
+      "current_price": 0.5915,
       "stake": 100.0,
       "shares": 170.794193,
-      "current_value": 100.85,
-      "paper_pnl": 0.85,
-      "return_percent": 0.85,
+      "current_value": 101.02,
+      "paper_pnl": 1.02,
+      "return_percent": 1.02,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 659646.91,
@@ -2525,7 +2525,7 @@
       "current_value": 17.65,
       "paper_pnl": -82.35,
       "return_percent": -82.35,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 16221.96,
       "traders": [
@@ -2533,7 +2533,8 @@
         "NewTeamSosed2",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/atp-tsitsip-collign-2026-07-19"
+      "url": "https://polymarket.com/event/atp-tsitsip-collign-2026-07-19",
+      "consensus_lost_at": "2026-07-19T14:13:04.205773+00:00"
     },
     {
       "signal_id": "fifwc-esp-arg-2026-07-19-btts::No",
@@ -2549,7 +2550,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 13573.75,
       "traders": [
@@ -2557,7 +2558,8 @@
         "dv-pm",
         "Bagwell306"
       ],
-      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-btts"
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-btts",
+      "consensus_lost_at": "2026-07-19T14:13:04.205773+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-07-19-game1::Gen.G",
@@ -2630,7 +2632,81 @@
         "UCF-BIGGEST-FAN"
       ],
       "url": "https://polymarket.com/event/lol-t1-gen-2026-07-19-game2"
+    },
+    {
+      "signal_id": "lol-t1-gen-2026-07-19::Gen.G",
+      "market": "LoL: T1 vs Gen.G (BO3) - Esports World Cup Playoffs",
+      "slug": "lol-t1-gen-2026-07-19",
+      "side": "Gen.G",
+      "alerted_at": "2026-07-19T14:13:04.205773+00:00",
+      "last_seen": "2026-07-19T14:13:04.205773+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 456504.32,
+      "traders": [
+        "111111111115",
+        "TAIWANNUMBERONE",
+        "hleewcwin",
+        "BirdMan."
+      ],
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-07-19"
+    },
+    {
+      "signal_id": "dota2-bb4-pari-2026-07-19-game1::PARIVISION",
+      "market": "Dota 2: BetBoom Team vs PARIVISION - Game 1 Winner",
+      "slug": "dota2-bb4-pari-2026-07-19-game1",
+      "side": "PARIVISION",
+      "alerted_at": "2026-07-19T14:13:04.205773+00:00",
+      "last_seen": "2026-07-19T14:13:04.205773+00:00",
+      "entry_price": 0.38,
+      "current_price": 0.38,
+      "stake": 100.0,
+      "shares": 263.157895,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 182319.7,
+      "traders": [
+        "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+        "111111111115",
+        "GeorgeRe",
+        "letitride247"
+      ],
+      "url": "https://polymarket.com/event/dota2-bb4-pari-2026-07-19-game1"
+    },
+    {
+      "signal_id": "mlb-tex-atl-2026-07-19::Texas Rangers",
+      "market": "Texas Rangers vs. Atlanta Braves",
+      "slug": "mlb-tex-atl-2026-07-19",
+      "side": "Texas Rangers",
+      "alerted_at": "2026-07-19T14:13:04.205773+00:00",
+      "last_seen": "2026-07-19T14:13:04.205773+00:00",
+      "entry_price": 0.535,
+      "current_price": 0.535,
+      "stake": 100.0,
+      "shares": 186.915888,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11777.82,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "111111111115",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/mlb-tex-atl-2026-07-19"
     }
   ],
-  "updated_at": "2026-07-19T12:40:50.111982+00:00"
+  "updated_at": "2026-07-19T14:13:04.205773+00:00"
 }
