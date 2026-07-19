@@ -294,14 +294,14 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "side": "No",
       "alerted_at": "2026-07-15T15:45:46.585621+00:00",
-      "last_seen": "2026-07-19T15:17:26.839144+00:00",
+      "last_seen": "2026-07-19T16:15:41.790875+00:00",
       "entry_price": 0.8035,
-      "current_price": 0.5915,
+      "current_price": 0.5905,
       "stake": 100.0,
       "shares": 124.455507,
-      "current_value": 73.62,
-      "paper_pnl": -26.38,
-      "return_percent": -26.38,
+      "current_value": 73.49,
+      "paper_pnl": -26.51,
+      "return_percent": -26.51,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 114511.08,
@@ -790,14 +790,14 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "side": "Yes",
       "alerted_at": "2026-07-15T22:41:59.758056+00:00",
-      "last_seen": "2026-07-19T15:17:26.839144+00:00",
+      "last_seen": "2026-07-19T16:15:41.790875+00:00",
       "entry_price": 0.4215,
-      "current_price": 0.4084,
+      "current_price": 0.4094,
       "stake": 100.0,
       "shares": 237.247924,
-      "current_value": 96.89,
-      "paper_pnl": -3.11,
-      "return_percent": -3.11,
+      "current_value": 97.13,
+      "paper_pnl": -2.87,
+      "return_percent": -2.87,
       "status": "OPEN",
       "num_traders": 11,
       "combined_value": 4929635.62,
@@ -1170,7 +1170,7 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-19T15:17:26.839144+00:00",
+      "last_seen": "2026-07-19T16:15:41.790875+00:00",
       "entry_price": 0.5855,
       "current_price": 0.5915,
       "stake": 100.0,
@@ -1904,15 +1904,15 @@
       "slug": "fifwc-esp-arg-2026-07-19-esp",
       "side": "Yes",
       "alerted_at": "2026-07-18T04:05:13.009047+00:00",
-      "last_seen": "2026-07-19T12:40:50.111982+00:00",
+      "last_seen": "2026-07-19T16:15:41.790875+00:00",
       "entry_price": 0.425,
-      "current_price": 0.4237,
+      "current_price": 0.4262,
       "stake": 100.0,
       "shares": 235.294118,
-      "current_value": 99.69,
-      "paper_pnl": -0.31,
-      "return_percent": -0.31,
-      "status": "CONSENSUS_LOST",
+      "current_value": 100.28,
+      "paper_pnl": 0.28,
+      "return_percent": 0.28,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 22686.39,
       "traders": [
@@ -2650,7 +2650,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 456504.32,
       "traders": [
@@ -2659,7 +2659,8 @@
         "hleewcwin",
         "BirdMan."
       ],
-      "url": "https://polymarket.com/event/lol-t1-gen-2026-07-19"
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-07-19",
+      "consensus_lost_at": "2026-07-19T16:15:41.790875+00:00"
     },
     {
       "signal_id": "dota2-bb4-pari-2026-07-19-game1::PARIVISION",
@@ -2675,7 +2676,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 182319.7,
       "traders": [
@@ -2684,7 +2685,8 @@
         "GeorgeRe",
         "letitride247"
       ],
-      "url": "https://polymarket.com/event/dota2-bb4-pari-2026-07-19-game1"
+      "url": "https://polymarket.com/event/dota2-bb4-pari-2026-07-19-game1",
+      "consensus_lost_at": "2026-07-19T16:15:41.790875+00:00"
     },
     {
       "signal_id": "mlb-tex-atl-2026-07-19::Texas Rangers",
@@ -2700,7 +2702,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 11777.82,
       "traders": [
@@ -2708,8 +2710,33 @@
         "111111111115",
         "ic4cream"
       ],
-      "url": "https://polymarket.com/event/mlb-tex-atl-2026-07-19"
+      "url": "https://polymarket.com/event/mlb-tex-atl-2026-07-19",
+      "consensus_lost_at": "2026-07-19T16:15:41.790875+00:00"
+    },
+    {
+      "signal_id": "mlb-cws-tor-2026-07-19::Chicago White Sox",
+      "market": "Chicago White Sox vs. Toronto Blue Jays",
+      "slug": "mlb-cws-tor-2026-07-19",
+      "side": "Chicago White Sox",
+      "alerted_at": "2026-07-19T16:15:41.790875+00:00",
+      "last_seen": "2026-07-19T16:15:41.790875+00:00",
+      "entry_price": 0.515,
+      "current_price": 0.515,
+      "stake": 100.0,
+      "shares": 194.174757,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 99223.33,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "AV23IUa",
+        "RhinoBank"
+      ],
+      "url": "https://polymarket.com/event/mlb-cws-tor-2026-07-19"
     }
   ],
-  "updated_at": "2026-07-19T15:17:26.839144+00:00"
+  "updated_at": "2026-07-19T16:15:41.790875+00:00"
 }

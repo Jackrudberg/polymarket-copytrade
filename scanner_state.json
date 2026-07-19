@@ -2,7 +2,9 @@
   "seen_ids": [
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
-    "will-argentina-win-the-2026-fifa-world-cup-245::No"
+    "will-argentina-win-the-2026-fifa-world-cup-245::No",
+    "fifwc-esp-arg-2026-07-19-esp::Yes",
+    "mlb-cws-tor-2026-07-19::Chicago White Sox"
   ],
   "signals": [
     {
@@ -68,28 +70,28 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 240597.2,
+      "total_value": 241186.32,
       "holders": [
         {
           "trader": "quavoo",
           "roi": 0.3772,
-          "value": 239040.05,
+          "value": 239625.36,
           "avg_price": 0.2944,
-          "cur_price": 0.4084
+          "cur_price": 0.4094
         },
         {
           "trader": "balthazar",
           "roi": 0.2418,
-          "value": 1240.93,
+          "value": 1243.97,
           "avg_price": 0.3407,
-          "cur_price": 0.4084
+          "cur_price": 0.4094
         },
         {
           "trader": "donthackme",
           "roi": 0.3598,
-          "value": 316.22,
+          "value": 316.99,
           "avg_price": 0.0166,
-          "cur_price": 0.4084
+          "cur_price": 0.4094
         }
       ]
     },
@@ -98,28 +100,88 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 219020.32,
+      "total_value": 218650.04,
       "holders": [
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
           "roi": 0.1704,
-          "value": 177449.55,
+          "value": 177149.55,
           "avg_price": 0.578,
-          "cur_price": 0.5915
+          "cur_price": 0.5905
         },
         {
           "trader": "Lexington",
           "roi": 1.9927,
-          "value": 24459.86,
+          "value": 24418.51,
           "avg_price": 0.7836,
-          "cur_price": 0.5915
+          "cur_price": 0.5905
         },
         {
           "trader": "ic4cream",
           "roi": 0.3124,
-          "value": 17110.91,
+          "value": 17081.98,
           "avg_price": 0.589,
-          "cur_price": 0.5915
+          "cur_price": 0.5905
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win on 2026-07-19?",
+      "slug": "fifwc-esp-arg-2026-07-19-esp",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 215672.55,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2931,
+          "value": 139745.95,
+          "avg_price": 0.4275,
+          "cur_price": 0.4262
+        },
+        {
+          "trader": "AML",
+          "roi": 0.3257,
+          "value": 67765.8,
+          "avg_price": 0.425,
+          "cur_price": 0.4262
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1704,
+          "value": 8160.8,
+          "avg_price": 0.41,
+          "cur_price": 0.4262
+        }
+      ]
+    },
+    {
+      "market": "Chicago White Sox vs. Toronto Blue Jays",
+      "slug": "mlb-cws-tor-2026-07-19",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 99223.33,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1704,
+          "value": 68422.37,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2931,
+          "value": 28325,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "RhinoBank",
+          "roi": 0.2757,
+          "value": 2475.96,
+          "avg_price": 0.5199,
+          "cur_price": 0.515
         }
       ]
     },
@@ -226,133 +288,6 @@
           "cur_price": 0.535
         }
       ]
-    },
-    {
-      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
-      "slug": "lol-t1-gen-2026-07-19-game1",
-      "outcome": "Gen.G",
-      "num_traders": 4,
-      "total_value": 59920.57,
-      "holders": [
-        {
-          "trader": "UCF-BIGGEST-FAN",
-          "roi": 0.3816,
-          "value": 22957.76,
-          "avg_price": 0.5074,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.1658,
-          "value": 17768.11,
-          "avg_price": 0.5785,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hleewcwin",
-          "roi": 0.5664,
-          "value": 10092.7,
-          "avg_price": 0.4621,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.2678,
-          "value": 9102.0,
-          "avg_price": 0.6099,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Spain win on 2026-07-19?",
-      "slug": "fifwc-esp-arg-2026-07-19-esp",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 100903.23,
-      "holders": [
-        {
-          "trader": "AML",
-          "roi": 0.3191,
-          "value": 67368.3,
-          "avg_price": 0.425,
-          "cur_price": 0.4237
-        },
-        {
-          "trader": "arlanta",
-          "roi": 0.1606,
-          "value": 25422,
-          "avg_price": 0.4225,
-          "cur_price": 0.4237
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2086,
-          "value": 8112.93,
-          "avg_price": 0.41,
-          "cur_price": 0.4237
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Gen.G - Game 2 Winner",
-      "slug": "lol-t1-gen-2026-07-19-game2",
-      "outcome": "T1",
-      "num_traders": 3,
-      "total_value": 81714.56,
-      "holders": [
-        {
-          "trader": "esportGG",
-          "roi": 0.1658,
-          "value": 35230.2,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hleewcwin",
-          "roi": 0.5664,
-          "value": 29984.98,
-          "avg_price": 0.4233,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "UCF-BIGGEST-FAN",
-          "roi": 0.3816,
-          "value": 16499.38,
-          "avg_price": 0.4808,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 7201.71,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.1932,
-          "value": 5609.08,
-          "avg_price": 0.4991,
-          "cur_price": 0.28
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1615,
-          "value": 1133.15,
-          "avg_price": 0.48,
-          "cur_price": 0.28
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.626,
-          "value": 459.48,
-          "avg_price": 0.5,
-          "cur_price": 0.28
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -455,13 +390,12 @@
     "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers": 3,
     "fifwc-esp-arg-2026-07-19-btts::No": 3,
     "atp-tsitsip-collign-2026-07-19::Raphael Collignon": 3,
-    "lol-t1-gen-2026-07-19-game1::Gen.G": 2,
-    "fifwc-esp-arg-2026-07-19-esp::Yes": 2,
-    "lol-t1-gen-2026-07-19-game2::T1": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2,
-    "lol-t1-gen-2026-07-19::Gen.G": 1,
-    "dota2-bb4-pari-2026-07-19-game1::PARIVISION": 1,
-    "mlb-tex-atl-2026-07-19::Texas Rangers": 1
+    "lol-t1-gen-2026-07-19-game1::Gen.G": 3,
+    "lol-t1-gen-2026-07-19-game2::T1": 3,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
+    "lol-t1-gen-2026-07-19::Gen.G": 2,
+    "dota2-bb4-pari-2026-07-19-game1::PARIVISION": 2,
+    "mlb-tex-atl-2026-07-19::Texas Rangers": 2
   },
-  "updated_at": "2026-07-19T15:17:26.841960+00:00"
+  "updated_at": "2026-07-19T16:15:41.793740+00:00"
 }
