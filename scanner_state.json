@@ -1,10 +1,107 @@
 {
   "seen_ids": [
-    "mlb-wsh-oak-2026-07-18::Athletics",
-    "mlb-det-laa-2026-07-18::Detroit Tigers",
-    "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers"
+    "will-spain-win-the-2026-fifa-world-cup-963::Yes",
+    "atp-tsitsip-collign-2026-07-19::Raphael Collignon",
+    "fifwc-esp-arg-2026-07-19-btts::No"
   ],
   "signals": [
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 192055.81,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.258,
+          "value": 128072.34,
+          "avg_price": 0.1318,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3204,
+          "value": 34770.18,
+          "avg_price": 0.0359,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.6944,
+          "value": 17620.4,
+          "avg_price": 0.1117,
+          "cur_price": 0.5905
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3825,
+          "value": 11592.89,
+          "avg_price": 0.5636,
+          "cur_price": 0.5905
+        }
+      ]
+    },
+    {
+      "market": "Swiss Open: Stefanos Tsitsipas vs Raphael Collignon",
+      "slug": "atp-tsitsip-collign-2026-07-19",
+      "outcome": "Raphael Collignon",
+      "num_traders": 3,
+      "total_value": 16221.96,
+      "holders": [
+        {
+          "trader": "Bagwell306",
+          "roi": 0.4454,
+          "value": 8531.6,
+          "avg_price": 0.41,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.4529,
+          "value": 4250,
+          "avg_price": 0.41,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3204,
+          "value": 3440.36,
+          "avg_price": 0.4294,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Spain vs. Argentina: Both Teams to Score",
+      "slug": "fifwc-esp-arg-2026-07-19-btts",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 13573.75,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3204,
+          "value": 6369.51,
+          "avg_price": 0.4783,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.6944,
+          "value": 4879.24,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Bagwell306",
+          "roi": 0.4454,
+          "value": 2325,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        }
+      ]
+    },
     {
       "market": "Washington Nationals vs. Athletics",
       "slug": "mlb-wsh-oak-2026-07-18",
@@ -124,71 +221,6 @@
       ]
     },
     {
-      "market": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "outcome": "Yes",
-      "num_traders": 8,
-      "total_value": 2451407.18,
-      "holders": [
-        {
-          "trader": "Jsram",
-          "roi": 0.4434,
-          "value": 1043637.35,
-          "avg_price": 0.2356,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "FootballFan98",
-          "roi": 0.4953,
-          "value": 679357.15,
-          "avg_price": 0.1978,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.4842,
-          "value": 607104.03,
-          "avg_price": 0.2883,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "highnetworth",
-          "roi": 0.6596,
-          "value": 71405.92,
-          "avg_price": 0.183,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "norrisfan",
-          "roi": 1.3992,
-          "value": 29824.22,
-          "avg_price": 0.0166,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "Paracellus",
-          "roi": 0.5399,
-          "value": 11809.99,
-          "avg_price": 0.199,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "BaccaratRoulette",
-          "roi": 0.3044,
-          "value": 6714.67,
-          "avg_price": 0.3737,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.1742,
-          "value": 1553.85,
-          "avg_price": 0.5303,
-          "cur_price": 0.5905
-        }
-      ]
-    },
-    {
       "market": "Will Argentina win the 2026 FIFA World Cup?",
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcome": "Yes",
@@ -245,101 +277,6 @@
           "value": 360.91,
           "avg_price": 0.4343,
           "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will England win on 2026-07-18?",
-      "slug": "fifwc-fra-eng-2026-07-18-eng",
-      "outcome": "Yes",
-      "num_traders": 8,
-      "total_value": 1887851.59,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.4992,
-          "value": 902033.1,
-          "avg_price": 0.2297,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "FootballFan98",
-          "roi": 0.4647,
-          "value": 249874.2,
-          "avg_price": 0.24,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ethanaz",
-          "roi": 0.2931,
-          "value": 243573.19,
-          "avg_price": 0.999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2311,
-          "value": 192124.89,
-          "avg_price": 0.2533,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "spain-1.5",
-          "roi": 0.7595,
-          "value": 167171.51,
-          "avg_price": 0.21,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BaccaratRoulette",
-          "roi": 0.2891,
-          "value": 86456.68,
-          "avg_price": 0.2295,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "uptime0724",
-          "roi": 0.1547,
-          "value": 46464.34,
-          "avg_price": 0.6499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "michaeljburry",
-          "roi": 0.1655,
-          "value": 153.68,
-          "avg_price": 0.3333,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Argentina win the 2026 FIFA World Cup?",
-      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 357227.73,
-      "holders": [
-        {
-          "trader": "one8tyfive",
-          "roi": 0.2175,
-          "value": 179818.36,
-          "avg_price": 0.7163,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2311,
-          "value": 177149.55,
-          "avg_price": 0.578,
-          "cur_price": 0.5905
-        },
-        {
-          "trader": "uptime0724",
-          "roi": 0.1547,
-          "value": 259.82,
-          "avg_price": 0.8051,
-          "cur_price": 0.5905
         }
       ]
     }
@@ -438,11 +375,13 @@
     "val-th1-tl1-2026-07-18::Team Liquid": 3,
     "mlb-lad-nyy-2026-07-18-total-8pt5::Over": 3,
     "fifwc-fra-eng-2026-07-18-fra::No": 3,
-    "fifwc-fra-eng-2026-07-18-eng::Yes": 2,
-    "will-argentina-win-the-2026-fifa-world-cup-245::No": 2,
-    "will-spain-win-the-2026-fifa-world-cup-963::Yes": 1,
-    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 1,
-    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 1
+    "fifwc-fra-eng-2026-07-18-eng::Yes": 3,
+    "will-argentina-win-the-2026-fifa-world-cup-245::No": 3,
+    "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 2,
+    "will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup::Yes": 2,
+    "mlb-wsh-oak-2026-07-18::Athletics": 1,
+    "mlb-det-laa-2026-07-18::Detroit Tigers": 1,
+    "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers": 1
   },
-  "updated_at": "2026-07-19T04:29:17.878764+00:00"
+  "updated_at": "2026-07-19T07:08:50.218157+00:00"
 }

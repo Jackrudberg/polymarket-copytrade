@@ -91,7 +91,7 @@
       "current_value": 256.16,
       "paper_pnl": 156.16,
       "return_percent": 156.16,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 898.6,
       "traders": [
@@ -100,7 +100,7 @@
         "Baddie"
       ],
       "url": "https://polymarket.com/event/will-kylian-mbappe-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
-      "consensus_lost_at": "2026-07-18T09:48:19.122898+00:00"
+      "consensus_lost_at": "2026-07-19T07:08:50.215439+00:00"
     },
     {
       "signal_id": "lol-ts-kc-2026-07-15-game2::Karmine Corp",
@@ -798,7 +798,7 @@
       "current_value": 97.13,
       "paper_pnl": -2.87,
       "return_percent": -2.87,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 11,
       "combined_value": 4929635.62,
       "traders": [
@@ -815,7 +815,7 @@
         "sleepy-panda"
       ],
       "url": "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245",
-      "consensus_lost_at": "2026-07-18T06:17:21.986907+00:00"
+      "consensus_lost_at": "2026-07-19T07:08:50.215439+00:00"
     },
     {
       "signal_id": "will-england-win-the-2026-fifa-world-cup-937::Yes",
@@ -1170,7 +1170,7 @@
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "side": "Yes",
       "alerted_at": "2026-07-17T11:46:41.566594+00:00",
-      "last_seen": "2026-07-19T01:00:24.867928+00:00",
+      "last_seen": "2026-07-19T07:08:50.215439+00:00",
       "entry_price": 0.5855,
       "current_price": 0.5905,
       "stake": 100.0,
@@ -2508,7 +2508,55 @@
         "dv-pm"
       ],
       "url": "https://polymarket.com/event/mlb-det-laa-2026-07-18-spread-away-1pt5"
+    },
+    {
+      "signal_id": "atp-tsitsip-collign-2026-07-19::Raphael Collignon",
+      "market": "Swiss Open: Stefanos Tsitsipas vs Raphael Collignon",
+      "slug": "atp-tsitsip-collign-2026-07-19",
+      "side": "Raphael Collignon",
+      "alerted_at": "2026-07-19T07:08:50.215439+00:00",
+      "last_seen": "2026-07-19T07:08:50.215439+00:00",
+      "entry_price": 0.425,
+      "current_price": 0.425,
+      "stake": 100.0,
+      "shares": 235.294118,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 16221.96,
+      "traders": [
+        "Bagwell306",
+        "NewTeamSosed2",
+        "AnonymousUsername"
+      ],
+      "url": "https://polymarket.com/event/atp-tsitsip-collign-2026-07-19"
+    },
+    {
+      "signal_id": "fifwc-esp-arg-2026-07-19-btts::No",
+      "market": "Spain vs. Argentina: Both Teams to Score",
+      "slug": "fifwc-esp-arg-2026-07-19-btts",
+      "side": "No",
+      "alerted_at": "2026-07-19T07:08:50.215439+00:00",
+      "last_seen": "2026-07-19T07:08:50.215439+00:00",
+      "entry_price": 0.465,
+      "current_price": 0.465,
+      "stake": 100.0,
+      "shares": 215.053763,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 13573.75,
+      "traders": [
+        "AnonymousUsername",
+        "dv-pm",
+        "Bagwell306"
+      ],
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-btts"
     }
   ],
-  "updated_at": "2026-07-19T04:29:17.875982+00:00"
+  "updated_at": "2026-07-19T07:08:50.215439+00:00"
 }
