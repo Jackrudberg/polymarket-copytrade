@@ -1,89 +1,68 @@
 {
   "seen_ids": [
     "will-spain-win-the-2026-fifa-world-cup-963::Yes",
-    "atp-tsitsip-collign-2026-07-19::Raphael Collignon",
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes",
-    "fifwc-esp-arg-2026-07-19-btts::No"
+    "lol-t1-gen-2026-07-19-game1::Gen.G",
+    "fifwc-esp-arg-2026-07-19-btts::No",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "atp-tsitsip-collign-2026-07-19::Raphael Collignon"
   ],
   "signals": [
     {
       "market": "Will Spain win the 2026 FIFA World Cup?",
       "slug": "will-spain-win-the-2026-fifa-world-cup-963",
       "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 234043.01,
+      "num_traders": 7,
+      "total_value": 266970.39,
       "holders": [
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2098,
+          "roi": 0.2095,
           "value": 128072.34,
           "avg_price": 0.1318,
           "cur_price": 0.5905
         },
         {
           "trader": "balthazar",
-          "roi": 0.194,
+          "roi": 0.1827,
           "value": 41987.2,
           "avg_price": 0.1949,
           "cur_price": 0.5905
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2514,
+          "roi": 0.2116,
           "value": 34770.18,
           "avg_price": 0.0359,
           "cur_price": 0.5905
         },
         {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.3759,
+          "value": 18775.83,
+          "avg_price": 0.5553,
+          "cur_price": 0.5905
+        },
+        {
           "trader": "dv-pm",
-          "roi": 0.3196,
+          "roi": 0.3187,
           "value": 17620.4,
           "avg_price": 0.1117,
           "cur_price": 0.5905
         },
         {
+          "trader": "UCF-BIGGEST-FAN",
+          "roi": 0.3494,
+          "value": 14151.55,
+          "avg_price": 0.3187,
+          "cur_price": 0.5905
+        },
+        {
           "trader": "quavoo",
-          "roi": 0.3828,
+          "roi": 0.383,
           "value": 11592.89,
           "avg_price": 0.5636,
           "cur_price": 0.5905
-        }
-      ]
-    },
-    {
-      "market": "Swiss Open: Stefanos Tsitsipas vs Raphael Collignon",
-      "slug": "atp-tsitsip-collign-2026-07-19",
-      "outcome": "Raphael Collignon",
-      "num_traders": 4,
-      "total_value": 12796.39,
-      "holders": [
-        {
-          "trader": "Bagwell306",
-          "roi": 0.165,
-          "value": 3914.5,
-          "avg_price": 0.41,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "comon119",
-          "roi": 0.5223,
-          "value": 3656.25,
-          "avg_price": 0.3633,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "0x54baB0BC94667Af224E21528804D49C1b87e04e4-1776237217344",
-          "roi": 0.1808,
-          "value": 3647.12,
-          "avg_price": 0.2603,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2514,
-          "value": 1578.52,
-          "avg_price": 0.4294,
-          "cur_price": 0.195
         }
       ]
     },
@@ -92,28 +71,58 @@
       "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 250805.69,
+      "total_value": 250193.07,
       "holders": [
         {
           "trader": "quavoo",
-          "roi": 0.3828,
-          "value": 239625.36,
+          "roi": 0.383,
+          "value": 239040.05,
           "avg_price": 0.2944,
-          "cur_price": 0.4094
+          "cur_price": 0.4084
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2514,
-          "value": 9936.36,
+          "roi": 0.2116,
+          "value": 9912.09,
           "avg_price": 0.0387,
-          "cur_price": 0.4094
+          "cur_price": 0.4084
         },
         {
           "trader": "balthazar",
-          "roi": 0.194,
-          "value": 1243.97,
+          "roi": 0.1827,
+          "value": 1240.93,
           "avg_price": 0.3407,
-          "cur_price": 0.4094
+          "cur_price": 0.4084
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
+      "slug": "lol-t1-gen-2026-07-19-game1",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 63280.9,
+      "holders": [
+        {
+          "trader": "DuckDuckDuckling",
+          "roi": 0.3759,
+          "value": 31221.14,
+          "avg_price": 0.6236,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "UCF-BIGGEST-FAN",
+          "roi": 0.3494,
+          "value": 22957.76,
+          "avg_price": 0.5074,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GeorgeRe",
+          "roi": 0.2678,
+          "value": 9102.0,
+          "avg_price": 0.6099,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -126,24 +135,84 @@
       "holders": [
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2514,
+          "roi": 0.2116,
           "value": 6369.51,
           "avg_price": 0.4783,
           "cur_price": 0.465
         },
         {
           "trader": "dv-pm",
-          "roi": 0.3196,
+          "roi": 0.3187,
           "value": 4879.24,
           "avg_price": 0.47,
           "cur_price": 0.465
         },
         {
           "trader": "Bagwell306",
-          "roi": 0.165,
+          "roi": 0.1889,
           "value": 2325,
           "avg_price": 0.47,
           "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 7201.71,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.1921,
+          "value": 5609.08,
+          "avg_price": 0.4991,
+          "cur_price": 0.28
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2116,
+          "value": 1133.15,
+          "avg_price": 0.48,
+          "cur_price": 0.28
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.6437,
+          "value": 459.48,
+          "avg_price": 0.5,
+          "cur_price": 0.28
+        }
+      ]
+    },
+    {
+      "market": "Swiss Open: Stefanos Tsitsipas vs Raphael Collignon",
+      "slug": "atp-tsitsip-collign-2026-07-19",
+      "outcome": "Raphael Collignon",
+      "num_traders": 3,
+      "total_value": 3987.7,
+      "holders": [
+        {
+          "trader": "comon119",
+          "roi": 0.1754,
+          "value": 1875.0,
+          "avg_price": 0.2999,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "Bagwell306",
+          "roi": 0.1889,
+          "value": 1505.58,
+          "avg_price": 0.41,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2116,
+          "value": 607.12,
+          "avg_price": 0.4294,
+          "cur_price": 0.075
         }
       ]
     }
@@ -249,5 +318,5 @@
     "mlb-det-laa-2026-07-18::Detroit Tigers": 3,
     "mlb-det-laa-2026-07-18-spread-away-1pt5::Detroit Tigers": 3
   },
-  "updated_at": "2026-07-19T10:47:14.659076+00:00"
+  "updated_at": "2026-07-19T11:45:48.880327+00:00"
 }
