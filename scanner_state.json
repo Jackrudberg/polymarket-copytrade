@@ -1,57 +1,104 @@
 {
   "seen_ids": [
     "will-the-us-invade-iran-before-2027::No",
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No",
-    "kharg-island-no-longer-under-iranian-control-by-august-31::No",
-    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574::No",
-    "kharg-island-no-longer-under-iranian-control-by-july-31::No",
-    "putin-out-before-2027-346::No",
-    "iran-leadership-change-by-december-31-974-976-658-482-568::No",
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
-    "nothing-ever-happens-2026::Yes"
+    "israel-closes-its-airspace-by-july-31-287::No",
+    "israel-closes-its-airspace-by-august-31-389::No"
   ],
   "signals": [
     {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
-      "num_traders": 5,
-      "total_value": 778496.61,
+      "num_traders": 4,
+      "total_value": 1130455.98,
       "holders": [
         {
+          "trader": "nojnn",
+          "roi": 2.4781,
+          "value": 344235.89,
+          "avg_price": 0.6904,
+          "cur_price": 0.725
+        },
+        {
           "trader": "65765757",
-          "roi": 0.6125,
+          "roi": 0.4388,
           "value": 296801.8,
           "avg_price": 0.697,
           "cur_price": 0.725
         },
         {
           "trader": "denizz",
-          "roi": 0.234,
+          "roi": 0.1733,
           "value": 269145.74,
           "avg_price": 0.7291,
           "cur_price": 0.725
         },
         {
-          "trader": "Eatpraylove",
-          "roi": 0.3132,
-          "value": 138599.15,
-          "avg_price": 0.8066,
+          "trader": "anoin123",
+          "roi": 0.4658,
+          "value": 220272.55,
+          "avg_price": 0.8279,
           "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Israel closes its airspace by July 31?",
+      "slug": "israel-closes-its-airspace-by-july-31-287",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 66138.81,
+      "holders": [
+        {
+          "trader": "nojnn",
+          "roi": 2.4781,
+          "value": 37319.73,
+          "avg_price": 0.8979,
+          "cur_price": 0.845
         },
         {
-          "trader": "Valen9",
-          "roi": 0.2067,
-          "value": 43499.95,
-          "avg_price": 0.8699,
-          "cur_price": 0.725
+          "trader": "anoin123",
+          "roi": 0.4658,
+          "value": 16987.82,
+          "avg_price": 0.8777,
+          "cur_price": 0.845
         },
         {
-          "trader": "R79dgahr",
-          "roi": 0.1662,
-          "value": 30449.97,
-          "avg_price": 0.7498,
-          "cur_price": 0.725
+          "trader": "65765757",
+          "roi": 0.4388,
+          "value": 11831.26,
+          "avg_price": 0.8665,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Israel closes its airspace by August 31?",
+      "slug": "israel-closes-its-airspace-by-august-31-389",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 25105.46,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.4658,
+          "value": 24079.48,
+          "avg_price": 0.7254,
+          "cur_price": 0.64
+        },
+        {
+          "trader": "nojnn",
+          "roi": 2.4781,
+          "value": 901.41,
+          "avg_price": 0.7099,
+          "cur_price": 0.64
+        },
+        {
+          "trader": "65765757",
+          "roi": 0.4388,
+          "value": 124.57,
+          "avg_price": 0.6987,
+          "cur_price": 0.64
         }
       ]
     },
@@ -412,96 +459,6 @@
           "cur_price": 0.91
         }
       ]
-    },
-    {
-      "market": "Israel closes its airspace by July 31?",
-      "slug": "israel-closes-its-airspace-by-july-31-287",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 13387.74,
-      "holders": [
-        {
-          "trader": "65765757",
-          "roi": 0.8843,
-          "value": 10359.22,
-          "avg_price": 0.8699,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2141,
-          "value": 2504.98,
-          "avg_price": 0.88,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "JAMJAMJAM4",
-          "roi": 0.4451,
-          "value": 523.54,
-          "avg_price": 0.89,
-          "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "US-Iran Final Nuclear Deal by July 31, 2026?",
-      "slug": "us-iran-final-nuclear-deal-by-july-31-2026-20260621201255151",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 102335.33,
-      "holders": [
-        {
-          "trader": "0x8B4bcA1D794779E66e023D44391B2A86C5ab541B-1769764313952",
-          "roi": 0.584,
-          "value": 44752.45,
-          "avg_price": 0.9887,
-          "cur_price": 0.9945
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.2576,
-          "value": 37527.32,
-          "avg_price": 0.9378,
-          "cur_price": 0.9945
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.485,
-          "value": 20055.56,
-          "avg_price": 0.9509,
-          "cur_price": 0.9945
-        }
-      ]
-    },
-    {
-      "market": "Iran agrees to surrender enriched uranium stockpile by July 31, 2026?",
-      "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 87924.44,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.2576,
-          "value": 79795.49,
-          "avg_price": 0.9351,
-          "cur_price": 0.9935
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.485,
-          "value": 5214.52,
-          "avg_price": 0.9304,
-          "cur_price": 0.9935
-        },
-        {
-          "trader": "0x8B4bcA1D794779E66e023D44391B2A86C5ab541B-1769764313952",
-          "roi": 0.584,
-          "value": 2914.43,
-          "avg_price": 0.9908,
-          "cur_price": 0.9935
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -627,12 +584,19 @@
     "will-argentina-win-the-2026-fifa-world-cup-245::Yes": 3,
     "mlb-lad-nyy-2026-07-19::Los Angeles Dodgers": 3,
     "wnba-conn-phx-2026-07-19::Phoenix Mercury": 3,
-    "us-iran-final-nuclear-deal-by-july-31-2026-20260621201255151::No": 2,
-    "iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026::No": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 1,
-    "will-the-us-announce-withdrawal-from-mou-negotiations-by-july-31-20260622192122521-644-479::No": 1,
-    "israel-closes-its-airspace-by-july-31-287::No": 1
+    "us-iran-final-nuclear-deal-by-july-31-2026-20260621201255151::No": 3,
+    "iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026::No": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2,
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 2,
+    "will-the-us-announce-withdrawal-from-mou-negotiations-by-july-31-20260622192122521-644-479::No": 2,
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 1,
+    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 1,
+    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574::No": 1,
+    "kharg-island-no-longer-under-iranian-control-by-july-31::No": 1,
+    "putin-out-before-2027-346::No": 1,
+    "iran-leadership-change-by-december-31-974-976-658-482-568::No": 1,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1,
+    "nothing-ever-happens-2026::Yes": 1
   },
-  "updated_at": "2026-07-20T15:18:38.993488+00:00"
+  "updated_at": "2026-07-20T16:49:09.877738+00:00"
 }
