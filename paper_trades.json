@@ -3308,7 +3308,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20600.96,
       "traders": [
@@ -3316,7 +3316,8 @@
         "Arbguy",
         "Hakei."
       ],
-      "url": "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966"
+      "url": "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+      "consensus_lost_at": "2026-07-21T04:30:02.860546+00:00"
     },
     {
       "signal_id": "mlb-pit-nyy-2026-07-20::Pittsburgh Pirates",
@@ -3332,7 +3333,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7663.58,
       "traders": [
@@ -3340,7 +3341,8 @@
         "Feromont",
         "curie"
       ],
-      "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-20"
+      "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-20",
+      "consensus_lost_at": "2026-07-21T04:30:02.860546+00:00"
     },
     {
       "signal_id": "mlb-min-cle-2026-07-20::Cleveland Guardians",
@@ -3369,5 +3371,5 @@
       "url": "https://polymarket.com/event/mlb-min-cle-2026-07-20"
     }
   ],
-  "updated_at": "2026-07-21T01:07:33.689690+00:00"
+  "updated_at": "2026-07-21T04:30:02.860546+00:00"
 }
