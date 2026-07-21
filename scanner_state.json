@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-atl-cws-2026-06-11::Atlanta Braves"
+  ],
   "signals": [
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9522.89,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3905,
+          "value": 8861.47,
+          "avg_price": 0.51,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1834,
+          "value": 402.33,
+          "avg_price": 0.3212,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.5673,
+          "value": 259.09,
+          "avg_price": 0.51,
+          "cur_price": 0.525
+        }
+      ]
+    },
     {
       "market": "Minnesota Twins vs. Cleveland Guardians",
       "slug": "mlb-min-cle-2026-07-20",
@@ -141,66 +173,6 @@
           "cur_price": 0.6
         }
       ]
-    },
-    {
-      "market": "Will Samuel Alito announce his retirement by September 30, 2026?",
-      "slug": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 20600.96,
-      "holders": [
-        {
-          "trader": "Themsnw",
-          "roi": 0.534,
-          "value": 19111.29,
-          "avg_price": 0.1634,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "Arbguy",
-          "roi": 0.24,
-          "value": 839.67,
-          "avg_price": 0.2345,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "Hakei.",
-          "roi": 0.1825,
-          "value": 650,
-          "avg_price": 0.35,
-          "cur_price": 0.065
-        }
-      ]
-    },
-    {
-      "market": "Pittsburgh Pirates vs. New York Yankees",
-      "slug": "mlb-pit-nyy-2026-07-20",
-      "outcome": "Pittsburgh Pirates",
-      "num_traders": 3,
-      "total_value": 7663.58,
-      "holders": [
-        {
-          "trader": "boomingtest",
-          "roi": 0.1928,
-          "value": 5860.77,
-          "avg_price": 0.48,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "Feromont",
-          "roi": 0.656,
-          "value": 1668.86,
-          "avg_price": 0.49,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "curie",
-          "roi": 0.2464,
-          "value": 133.95,
-          "avg_price": 0.2743,
-          "cur_price": 0.295
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -339,12 +311,12 @@
     "iran-leadership-change-by-december-31-974-976-658-482-568::No": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "nothing-ever-happens-2026::Yes": 3,
-    "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::Yes": 2,
-    "mlb-pit-nyy-2026-07-20::Pittsburgh Pirates": 2,
-    "mlb-min-cle-2026-07-20::Cleveland Guardians": 1,
-    "will-the-us-invade-iran-before-2027::No": 1,
-    "israel-closes-its-airspace-by-july-31-287::No": 1,
-    "israel-closes-its-airspace-by-august-31-389::No": 1
+    "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::Yes": 3,
+    "mlb-pit-nyy-2026-07-20::Pittsburgh Pirates": 3,
+    "mlb-min-cle-2026-07-20::Cleveland Guardians": 2,
+    "will-the-us-invade-iran-before-2027::No": 2,
+    "israel-closes-its-airspace-by-july-31-287::No": 2,
+    "israel-closes-its-airspace-by-august-31-389::No": 2
   },
-  "updated_at": "2026-07-21T04:30:02.863927+00:00"
+  "updated_at": "2026-07-21T07:15:10.709230+00:00"
 }
