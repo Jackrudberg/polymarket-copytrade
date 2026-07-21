@@ -1,6 +1,114 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
+    "mlb-cws-tex-2026-07-21-total-8pt5::Under"
+  ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 463905.37,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.7747,
+          "value": 239773.54,
+          "avg_price": 0.1399,
+          "cur_price": 0.177
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.2276,
+          "value": 110366.51,
+          "avg_price": 0.0822,
+          "cur_price": 0.177
+        },
+        {
+          "trader": "RRRRRRRRL",
+          "roi": 0.2706,
+          "value": 56914.0,
+          "avg_price": 0.1802,
+          "cur_price": 0.177
+        },
+        {
+          "trader": "GDJHAV",
+          "roi": 0.1871,
+          "value": 56851.32,
+          "avg_price": 0.0556,
+          "cur_price": 0.177
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 459804.13,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.7747,
+          "value": 377467.69,
+          "avg_price": 0.1327,
+          "cur_price": 0.184
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.2276,
+          "value": 56035.96,
+          "avg_price": 0.1011,
+          "cur_price": 0.184
+        },
+        {
+          "trader": "RRRRRRRRL",
+          "roi": 0.2706,
+          "value": 13788.48,
+          "avg_price": 0.0821,
+          "cur_price": 0.184
+        },
+        {
+          "trader": "GDJHAV",
+          "roi": 0.1871,
+          "value": 12512,
+          "avg_price": 0.0714,
+          "cur_price": 0.184
+        }
+      ]
+    },
+    {
+      "market": "Chicago White Sox vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-cws-tex-2026-07-21-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 3794.92,
+      "holders": [
+        {
+          "trader": "boomingtest",
+          "roi": 0.509,
+          "value": 2238.57,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4619,
+          "value": 1174.47,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2067,
+          "value": 381.88,
+          "avg_price": 0.4616,
+          "cur_price": 0.465
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Team Nemesis vs Astralis (BO3) - BLAST Bounty Qualifier",
       "slug": "cs2-nem-ast10-2026-07-21",
@@ -175,7 +283,7 @@
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
     "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
-    "cs2-nem-ast10-2026-07-21::Astralis": 1
+    "cs2-nem-ast10-2026-07-21::Astralis": 2
   },
-  "updated_at": "2026-07-21T18:01:56.346008+00:00"
+  "updated_at": "2026-07-21T19:46:32.343733+00:00"
 }
