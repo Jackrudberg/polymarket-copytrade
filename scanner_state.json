@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "cs2-nem-ast10-2026-07-21::Astralis"
+  ],
   "signals": [
+    {
+      "market": "Counter-Strike: Team Nemesis vs Astralis (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-nem-ast10-2026-07-21",
+      "outcome": "Astralis",
+      "num_traders": 3,
+      "total_value": 62566.51,
+      "holders": [
+        {
+          "trader": "batya1",
+          "roi": 0.3689,
+          "value": 54673.12,
+          "avg_price": 0.385,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+          "roi": 0.2235,
+          "value": 4250.34,
+          "avg_price": 0.61,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ohehe",
+          "roi": 0.426,
+          "value": 3643.05,
+          "avg_price": 0.59,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
       "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
@@ -203,8 +235,8 @@
     "israel-closes-its-airspace-by-july-31-287::No": 3,
     "israel-closes-its-airspace-by-august-31-389::No": 3,
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2
   },
-  "updated_at": "2026-07-21T15:12:49.417357+00:00"
+  "updated_at": "2026-07-21T16:44:32.853602+00:00"
 }
