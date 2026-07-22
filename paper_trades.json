@@ -3437,7 +3437,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 209664.63,
       "traders": [
@@ -3445,7 +3445,8 @@
         "alaskabaked",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-21"
+      "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-21",
+      "consensus_lost_at": "2026-07-22T08:49:01.417804+00:00"
     },
     {
       "signal_id": "crint-wst2-nzl7-2026-07-21::West Indies",
@@ -3461,7 +3462,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 135051.18,
       "traders": [
@@ -3469,7 +3470,8 @@
         "itsonlyamatteroftime",
         "02-"
       ],
-      "url": "https://polymarket.com/event/crint-wst2-nzl7-2026-07-21"
+      "url": "https://polymarket.com/event/crint-wst2-nzl7-2026-07-21",
+      "consensus_lost_at": "2026-07-22T08:49:01.417804+00:00"
     },
     {
       "signal_id": "mlb-bal-bos-2026-07-21::Boston Red Sox",
@@ -3496,5 +3498,5 @@
       "url": "https://polymarket.com/event/mlb-bal-bos-2026-07-21"
     }
   ],
-  "updated_at": "2026-07-22T06:15:25.296558+00:00"
+  "updated_at": "2026-07-22T08:49:01.417804+00:00"
 }
