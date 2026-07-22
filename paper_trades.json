@@ -3512,7 +3512,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 52700.08,
       "traders": [
@@ -3523,7 +3523,8 @@
         "foodenjoyer",
         "TheReturnOfDarthMaul"
       ],
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting"
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting",
+      "consensus_lost_at": "2026-07-22T20:08:18.099883+00:00"
     },
     {
       "signal_id": "will-no-fed-rate-cuts-happen-in-2026::Yes",
@@ -3672,7 +3673,32 @@
         "surfandturf"
       ],
       "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
+    },
+    {
+      "signal_id": "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates",
+      "market": "Pittsburgh Pirates vs. New York Yankees",
+      "slug": "mlb-pit-nyy-2026-07-22",
+      "side": "Pittsburgh Pirates",
+      "alerted_at": "2026-07-22T20:08:18.099883+00:00",
+      "last_seen": "2026-07-22T20:08:18.099883+00:00",
+      "entry_price": 0.875,
+      "current_price": 0.875,
+      "stake": 100.0,
+      "shares": 114.285714,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 276027.18,
+      "traders": [
+        "Sassy-Bucket",
+        "Eztennis",
+        "mounjaro",
+        "baileysclub"
+      ],
+      "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-22"
     }
   ],
-  "updated_at": "2026-07-22T18:48:12.626293+00:00"
+  "updated_at": "2026-07-22T20:08:18.099883+00:00"
 }
