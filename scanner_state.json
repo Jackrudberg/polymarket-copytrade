@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "mlb-cin-sea-2026-07-21::Cincinnati Reds",
-    "crint-wst2-nzl7-2026-07-21::West Indies"
+    "mlb-bal-bos-2026-07-21::Boston Red Sox"
   ],
   "signals": [
+    {
+      "market": "Baltimore Orioles vs. Boston Red Sox",
+      "slug": "mlb-bal-bos-2026-07-21",
+      "outcome": "Boston Red Sox",
+      "num_traders": 3,
+      "total_value": 59988.18,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.1911,
+          "value": 49330.18,
+          "avg_price": 0.51,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1607,
+          "value": 5634.89,
+          "avg_price": 0.5478,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.7994,
+          "value": 5023.11,
+          "avg_price": 0.56,
+          "cur_price": 0.5649
+        }
+      ]
+    },
     {
       "market": "Cincinnati Reds vs. Seattle Mariners",
       "slug": "mlb-cin-sea-2026-07-21",
@@ -167,66 +196,6 @@
           "cur_price": 0.475
         }
       ]
-    },
-    {
-      "market": "Chicago White Sox vs. Texas Rangers: O/U 8.5",
-      "slug": "mlb-cws-tex-2026-07-21-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 4011.68,
-      "holders": [
-        {
-          "trader": "boomingtest",
-          "roi": 0.474,
-          "value": 2286.71,
-          "avg_price": 0.46,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.4297,
-          "value": 1199.73,
-          "avg_price": 0.46,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1708,
-          "value": 525.24,
-          "avg_price": 0.4612,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "San Francisco Giants vs. Kansas City Royals: O/U 9.5",
-      "slug": "mlb-sf-kc-2026-07-21-total-9pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 3089.09,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1708,
-          "value": 2038.3,
-          "avg_price": 0.4398,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.4297,
-          "value": 870.38,
-          "avg_price": 0.49,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.1823,
-          "value": 180.41,
-          "avg_price": 0.44,
-          "cur_price": 0.425
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -373,11 +342,13 @@
     "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
     "cs2-nem-ast10-2026-07-21::Astralis": 3,
-    "mlb-cws-tex-2026-07-21-total-8pt5::Under": 2,
-    "mlb-sf-kc-2026-07-21-total-9pt5::Over": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 1,
-    "mlb-lad-phi-2026-07-21-total-8pt5::Under": 1
+    "mlb-cws-tex-2026-07-21-total-8pt5::Under": 3,
+    "mlb-sf-kc-2026-07-21-total-9pt5::Over": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 2,
+    "mlb-lad-phi-2026-07-21-total-8pt5::Under": 2,
+    "mlb-cin-sea-2026-07-21::Cincinnati Reds": 1,
+    "crint-wst2-nzl7-2026-07-21::West Indies": 1
   },
-  "updated_at": "2026-07-22T03:39:03.655272+00:00"
+  "updated_at": "2026-07-22T06:15:25.300811+00:00"
 }

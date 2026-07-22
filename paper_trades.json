@@ -3412,7 +3412,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 154047.67,
       "traders": [
@@ -3420,7 +3420,8 @@
         "monkeymashingkeyboard",
         "boomingtest"
       ],
-      "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-21-total-8pt5"
+      "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-21-total-8pt5",
+      "consensus_lost_at": "2026-07-22T06:15:25.296558+00:00"
     },
     {
       "signal_id": "mlb-cin-sea-2026-07-21::Cincinnati Reds",
@@ -3469,7 +3470,31 @@
         "02-"
       ],
       "url": "https://polymarket.com/event/crint-wst2-nzl7-2026-07-21"
+    },
+    {
+      "signal_id": "mlb-bal-bos-2026-07-21::Boston Red Sox",
+      "market": "Baltimore Orioles vs. Boston Red Sox",
+      "slug": "mlb-bal-bos-2026-07-21",
+      "side": "Boston Red Sox",
+      "alerted_at": "2026-07-22T06:15:25.296558+00:00",
+      "last_seen": "2026-07-22T06:15:25.296558+00:00",
+      "entry_price": 0.5649,
+      "current_price": 0.5649,
+      "stake": 100.0,
+      "shares": 177.022482,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 59988.18,
+      "traders": [
+        "Sassy-Bucket",
+        "sentrio",
+        "monkeymashingkeyboard"
+      ],
+      "url": "https://polymarket.com/event/mlb-bal-bos-2026-07-21"
     }
   ],
-  "updated_at": "2026-07-22T03:39:03.650968+00:00"
+  "updated_at": "2026-07-22T06:15:25.296558+00:00"
 }
