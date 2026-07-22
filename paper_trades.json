@@ -3387,7 +3387,7 @@
       "current_value": 97.7,
       "paper_pnl": -2.3,
       "return_percent": -2.3,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1418.3,
       "traders": [
@@ -3395,7 +3395,8 @@
         "AnonymousUsername",
         "UpTheBlues"
       ],
-      "url": "https://polymarket.com/event/mlb-sf-kc-2026-07-21-total-9pt5"
+      "url": "https://polymarket.com/event/mlb-sf-kc-2026-07-21-total-9pt5",
+      "consensus_lost_at": "2026-07-22T03:39:03.650968+00:00"
     },
     {
       "signal_id": "mlb-lad-phi-2026-07-21-total-8pt5::Under",
@@ -3420,7 +3421,55 @@
         "boomingtest"
       ],
       "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-21-total-8pt5"
+    },
+    {
+      "signal_id": "mlb-cin-sea-2026-07-21::Cincinnati Reds",
+      "market": "Cincinnati Reds vs. Seattle Mariners",
+      "slug": "mlb-cin-sea-2026-07-21",
+      "side": "Cincinnati Reds",
+      "alerted_at": "2026-07-22T03:39:03.650968+00:00",
+      "last_seen": "2026-07-22T03:39:03.650968+00:00",
+      "entry_price": 0.905,
+      "current_price": 0.905,
+      "stake": 100.0,
+      "shares": 110.497238,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 209664.63,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "alaskabaked",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-21"
+    },
+    {
+      "signal_id": "crint-wst2-nzl7-2026-07-21::West Indies",
+      "market": "ODI Series West Indies vs. New Zealand: West Indies vs New Zealand",
+      "slug": "crint-wst2-nzl7-2026-07-21",
+      "side": "West Indies",
+      "alerted_at": "2026-07-22T03:39:03.650968+00:00",
+      "last_seen": "2026-07-22T03:39:03.650968+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 135051.18,
+      "traders": [
+        "midwicket72",
+        "itsonlyamatteroftime",
+        "02-"
+      ],
+      "url": "https://polymarket.com/event/crint-wst2-nzl7-2026-07-21"
     }
   ],
-  "updated_at": "2026-07-22T00:04:15.872891+00:00"
+  "updated_at": "2026-07-22T03:39:03.650968+00:00"
 }
