@@ -1,10 +1,131 @@
 {
   "seen_ids": [
-    "mlb-cin-sea-2026-07-22::Cincinnati Reds",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+    "val-fnc1-kc3-2026-07-22::Fnatic",
+    "mlb-lad-phi-2026-07-22::Philadelphia Phillies"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 638496.32,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.8075,
+          "value": 482283.89,
+          "avg_price": 0.1338,
+          "cur_price": 0.2295
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.3914,
+          "value": 155842.05,
+          "avg_price": 0.1127,
+          "cur_price": 0.2295
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.172,
+          "value": 370.38,
+          "avg_price": 0.1419,
+          "cur_price": 0.2295
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 591412.34,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.8075,
+          "value": 313187.81,
+          "avg_price": 0.1406,
+          "cur_price": 0.2295
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.3914,
+          "value": 276855.0,
+          "avg_price": 0.1183,
+          "cur_price": 0.2295
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.172,
+          "value": 1369.53,
+          "avg_price": 0.2,
+          "cur_price": 0.2295
+        }
+      ]
+    },
+    {
+      "market": "Valorant: Fnatic vs Karmine Corp (BO3) - VCT EMEA Group Omega",
+      "slug": "val-fnc1-kc3-2026-07-22",
+      "outcome": "Fnatic",
+      "num_traders": 3,
+      "total_value": 52612.12,
+      "holders": [
+        {
+          "trader": "PendulumExchange",
+          "roi": 0.3021,
+          "value": 19989.94,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.2664,
+          "value": 17891.05,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "f3arless",
+          "roi": 0.163,
+          "value": 14731.13,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Philadelphia Phillies",
+      "slug": "mlb-lad-phi-2026-07-22",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 26348.26,
+      "holders": [
+        {
+          "trader": "mounjaro",
+          "roi": 0.4922,
+          "value": 12309.78,
+          "avg_price": 0.46,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "PendulumExchange",
+          "roi": 0.3021,
+          "value": 11297.95,
+          "avg_price": 0.47,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "TeamLiquid",
+          "roi": 0.3413,
+          "value": 2740.53,
+          "avg_price": 0.49,
+          "cur_price": 0.5649
+        }
+      ]
+    },
     {
       "market": "Cincinnati Reds vs. Seattle Mariners",
       "slug": "mlb-cin-sea-2026-07-22",
@@ -39,66 +160,6 @@
           "value": 2606.83,
           "avg_price": 0.39,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 652406.9,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.6469,
-          "value": 492791.16,
-          "avg_price": 0.1338,
-          "cur_price": 0.2345
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.3572,
-          "value": 159237.3,
-          "avg_price": 0.1127,
-          "cur_price": 0.2345
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1662,
-          "value": 378.44,
-          "avg_price": 0.1414,
-          "cur_price": 0.2345
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 583681.46,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.6469,
-          "value": 309093.85,
-          "avg_price": 0.1406,
-          "cur_price": 0.2265
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.3572,
-          "value": 273235.98,
-          "avg_price": 0.1183,
-          "cur_price": 0.2265
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1662,
-          "value": 1351.63,
-          "avg_price": 0.2,
-          "cur_price": 0.2265
         }
       ]
     },
@@ -402,10 +463,11 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
     "cs2-hotu-gl1-2026-07-22::HOTU": 3,
     "will-lebron-james-play-for-the-miami-heat-in-2026-27::No": 3,
-    "cs2-fal2-100t-2026-07-22::100 Thieves": 1,
-    "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 1,
-    "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves": 1,
-    "mlb-bal-bos-2026-07-21::Boston Red Sox": 1
+    "cs2-fal2-100t-2026-07-22::100 Thieves": 2,
+    "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 2,
+    "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves": 2,
+    "mlb-bal-bos-2026-07-21::Boston Red Sox": 2,
+    "mlb-cin-sea-2026-07-22::Cincinnati Reds": 1
   },
-  "updated_at": "2026-07-22T22:30:14.750381+00:00"
+  "updated_at": "2026-07-22T23:33:53.535123+00:00"
 }

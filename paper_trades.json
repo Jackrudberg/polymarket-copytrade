@@ -3487,7 +3487,7 @@
       "current_value": 176.93,
       "paper_pnl": 76.93,
       "return_percent": 76.93,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 59988.18,
       "traders": [
@@ -3496,7 +3496,7 @@
         "monkeymashingkeyboard"
       ],
       "url": "https://polymarket.com/event/mlb-bal-bos-2026-07-21",
-      "consensus_lost_at": "2026-07-22T10:55:37.561125+00:00"
+      "consensus_lost_at": "2026-07-22T23:33:53.531263+00:00"
     },
     {
       "signal_id": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes",
@@ -3690,7 +3690,7 @@
       "current_value": 114.23,
       "paper_pnl": 14.23,
       "return_percent": 14.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 276027.18,
       "traders": [
@@ -3699,7 +3699,8 @@
         "mounjaro",
         "baileysclub"
       ],
-      "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-22"
+      "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-22",
+      "consensus_lost_at": "2026-07-22T23:33:53.531263+00:00"
     },
     {
       "signal_id": "cs2-fal2-100t-2026-07-22::100 Thieves",
@@ -3715,7 +3716,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 376806.82,
       "traders": [
@@ -3724,7 +3725,8 @@
         "skyman44",
         "TeamLiquid"
       ],
-      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22"
+      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22",
+      "consensus_lost_at": "2026-07-22T23:33:53.531263+00:00"
     },
     {
       "signal_id": "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves",
@@ -3740,7 +3742,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 189999.84,
       "traders": [
@@ -3749,7 +3751,8 @@
         "esportGG",
         "skyman44"
       ],
-      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5"
+      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5",
+      "consensus_lost_at": "2026-07-22T23:33:53.531263+00:00"
     },
     {
       "signal_id": "mlb-cin-sea-2026-07-22::Cincinnati Reds",
@@ -3775,7 +3778,55 @@
         "Talvez10"
       ],
       "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-22"
+    },
+    {
+      "signal_id": "val-fnc1-kc3-2026-07-22::Fnatic",
+      "market": "Valorant: Fnatic vs Karmine Corp (BO3) - VCT EMEA Group Omega",
+      "slug": "val-fnc1-kc3-2026-07-22",
+      "side": "Fnatic",
+      "alerted_at": "2026-07-22T23:33:53.531263+00:00",
+      "last_seen": "2026-07-22T23:33:53.531263+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 52612.12,
+      "traders": [
+        "PendulumExchange",
+        "esportGG",
+        "f3arless"
+      ],
+      "url": "https://polymarket.com/event/val-fnc1-kc3-2026-07-22"
+    },
+    {
+      "signal_id": "mlb-lad-phi-2026-07-22::Philadelphia Phillies",
+      "market": "Los Angeles Dodgers vs. Philadelphia Phillies",
+      "slug": "mlb-lad-phi-2026-07-22",
+      "side": "Philadelphia Phillies",
+      "alerted_at": "2026-07-22T23:33:53.531263+00:00",
+      "last_seen": "2026-07-22T23:33:53.531263+00:00",
+      "entry_price": 0.5649,
+      "current_price": 0.5649,
+      "stake": 100.0,
+      "shares": 177.022482,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 26348.26,
+      "traders": [
+        "mounjaro",
+        "PendulumExchange",
+        "TeamLiquid"
+      ],
+      "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-22"
     }
   ],
-  "updated_at": "2026-07-22T22:30:14.746603+00:00"
+  "updated_at": "2026-07-22T23:33:53.531263+00:00"
 }
