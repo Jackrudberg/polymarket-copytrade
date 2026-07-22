@@ -3479,15 +3479,15 @@
       "slug": "mlb-bal-bos-2026-07-21",
       "side": "Boston Red Sox",
       "alerted_at": "2026-07-22T06:15:25.296558+00:00",
-      "last_seen": "2026-07-22T06:15:25.296558+00:00",
+      "last_seen": "2026-07-22T21:19:38.894330+00:00",
       "entry_price": 0.5649,
-      "current_price": 0.5649,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 177.022482,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 176.93,
+      "paper_pnl": 76.93,
+      "return_percent": 76.93,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 59988.18,
       "traders": [
@@ -3640,7 +3640,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 46451.76,
       "traders": [
@@ -3648,7 +3648,8 @@
         "CORGI8",
         "baileysclub"
       ],
-      "url": "https://polymarket.com/event/cs2-hotu-gl1-2026-07-22"
+      "url": "https://polymarket.com/event/cs2-hotu-gl1-2026-07-22",
+      "consensus_lost_at": "2026-07-22T21:19:38.894330+00:00"
     },
     {
       "signal_id": "will-lebron-james-play-for-the-miami-heat-in-2026-27::No",
@@ -3664,7 +3665,7 @@
       "current_value": 98.44,
       "paper_pnl": -1.56,
       "return_percent": -1.56,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8414.35,
       "traders": [
@@ -3672,7 +3673,8 @@
         "yungstalin",
         "surfandturf"
       ],
-      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
+      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "consensus_lost_at": "2026-07-22T21:19:38.894330+00:00"
     },
     {
       "signal_id": "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates",
@@ -3680,14 +3682,14 @@
       "slug": "mlb-pit-nyy-2026-07-22",
       "side": "Pittsburgh Pirates",
       "alerted_at": "2026-07-22T20:08:18.099883+00:00",
-      "last_seen": "2026-07-22T20:08:18.099883+00:00",
+      "last_seen": "2026-07-22T21:19:38.894330+00:00",
       "entry_price": 0.875,
-      "current_price": 0.875,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 114.285714,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 114.23,
+      "paper_pnl": 14.23,
+      "return_percent": 14.23,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 276027.18,
@@ -3698,7 +3700,57 @@
         "baileysclub"
       ],
       "url": "https://polymarket.com/event/mlb-pit-nyy-2026-07-22"
+    },
+    {
+      "signal_id": "cs2-fal2-100t-2026-07-22::100 Thieves",
+      "market": "Counter-Strike: Team Falcons vs 100 Thieves (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-fal2-100t-2026-07-22",
+      "side": "100 Thieves",
+      "alerted_at": "2026-07-22T21:19:38.894330+00:00",
+      "last_seen": "2026-07-22T21:19:38.894330+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 376806.82,
+      "traders": [
+        "111111111115",
+        "Vetch",
+        "skyman44",
+        "TeamLiquid"
+      ],
+      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22"
+    },
+    {
+      "signal_id": "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves",
+      "market": "Map Handicap: FAL (-1.5) vs 100 Thieves (+1.5)",
+      "slug": "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5",
+      "side": "100 Thieves",
+      "alerted_at": "2026-07-22T21:19:38.894330+00:00",
+      "last_seen": "2026-07-22T21:19:38.894330+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 189999.84,
+      "traders": [
+        "111111111115",
+        "TeamLiquid",
+        "esportGG",
+        "skyman44"
+      ],
+      "url": "https://polymarket.com/event/cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5"
     }
   ],
-  "updated_at": "2026-07-22T20:08:18.099883+00:00"
+  "updated_at": "2026-07-22T21:19:38.894330+00:00"
 }
