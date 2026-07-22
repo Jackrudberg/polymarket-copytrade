@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-lgd-edg-2026-07-22::LGD Gaming"
+  ],
   "signals": [
+    {
+      "market": "LoL: LGD Gaming vs EDward Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-lgd-edg-2026-07-22",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 26196.61,
+      "holders": [
+        {
+          "trader": "esportGG",
+          "roi": 0.211,
+          "value": 15694.17,
+          "avg_price": 0.46,
+          "cur_price": 0.6855
+        },
+        {
+          "trader": "TeamLiquid",
+          "roi": 0.2374,
+          "value": 10282.39,
+          "avg_price": 0.45,
+          "cur_price": 0.6855
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.2287,
+          "value": 220.05,
+          "avg_price": 0.7463,
+          "cur_price": 0.6855
+        }
+      ]
+    },
     {
       "market": "Baltimore Orioles vs. Boston Red Sox",
       "slug": "mlb-bal-bos-2026-07-21",
@@ -28,66 +60,6 @@
           "value": 5023.11,
           "avg_price": 0.56,
           "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Seattle Mariners",
-      "slug": "mlb-cin-sea-2026-07-21",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 209664.63,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 1.2164,
-          "value": 182506.82,
-          "avg_price": 0.5134,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "alaskabaked",
-          "roi": 0.2471,
-          "value": 24846.36,
-          "avg_price": 0.5827,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3181,
-          "value": 2311.45,
-          "avg_price": 0.53,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "ODI Series West Indies vs. New Zealand: West Indies vs New Zealand",
-      "slug": "crint-wst2-nzl7-2026-07-21",
-      "outcome": "West Indies",
-      "num_traders": 3,
-      "total_value": 135051.18,
-      "holders": [
-        {
-          "trader": "midwicket72",
-          "roi": 0.3828,
-          "value": 88792.1,
-          "avg_price": 0.494,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "itsonlyamatteroftime",
-          "roi": 0.3082,
-          "value": 33872.67,
-          "avg_price": 0.6422,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "02-",
-          "roi": 0.2025,
-          "value": 12386.41,
-          "avg_price": 0.465,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -241,9 +213,9 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 3,
     "mlb-lad-phi-2026-07-21-total-8pt5::Under": 3,
-    "mlb-cin-sea-2026-07-21::Cincinnati Reds": 2,
-    "crint-wst2-nzl7-2026-07-21::West Indies": 2,
-    "mlb-bal-bos-2026-07-21::Boston Red Sox": 1
+    "mlb-cin-sea-2026-07-21::Cincinnati Reds": 3,
+    "crint-wst2-nzl7-2026-07-21::West Indies": 3,
+    "mlb-bal-bos-2026-07-21::Boston Red Sox": 2
   },
-  "updated_at": "2026-07-22T08:49:01.420396+00:00"
+  "updated_at": "2026-07-22T10:55:37.564625+00:00"
 }
