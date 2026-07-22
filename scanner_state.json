@@ -1,113 +1,53 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes"
+    "cs2-hotu-gl1-2026-07-22::HOTU",
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes",
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::No"
   ],
   "signals": [
     {
       "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "Yes",
-      "num_traders": 6,
-      "total_value": 842524.79,
+      "num_traders": 5,
+      "total_value": 795883.81,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 5.5306,
-          "value": 301588.26,
+          "roi": 3.8785,
+          "value": 298176.63,
           "avg_price": 0.1406,
-          "cur_price": 0.221
+          "cur_price": 0.2185
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.4648,
-          "value": 263215.65,
-          "avg_price": 0.1171,
-          "cur_price": 0.221
+          "roi": 0.3515,
+          "value": 261257.19,
+          "avg_price": 0.1176,
+          "cur_price": 0.2185
         },
         {
           "trader": "wan123",
-          "roi": 0.5436,
-          "value": 172234.32,
+          "roi": 0.1588,
+          "value": 170285.97,
           "avg_price": 0.1004,
-          "cur_price": 0.221
+          "cur_price": 0.2185
         },
         {
           "trader": "anykey",
-          "roi": 0.2689,
-          "value": 38601.52,
+          "roi": 0.1564,
+          "value": 38164.85,
           "avg_price": 0.0369,
-          "cur_price": 0.221
+          "cur_price": 0.2185
         },
         {
-          "trader": "TBill1",
-          "roi": 0.3702,
-          "value": 36395.43,
-          "avg_price": 0.1431,
-          "cur_price": 0.221
-        },
-        {
-          "trader": "CDAP1",
-          "roi": 0.1594,
-          "value": 30489.61,
-          "avg_price": 0.0846,
-          "cur_price": 0.221
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 6,
-      "total_value": 52700.08,
-      "holders": [
-        {
-          "trader": "anykey",
-          "roi": 0.2689,
-          "value": 36731.25,
-          "avg_price": 0.004,
-          "cur_price": 0.0085
-        },
-        {
-          "trader": "TBill1",
-          "roi": 0.3702,
-          "value": 7170.67,
-          "avg_price": 0.0213,
-          "cur_price": 0.0085
-        },
-        {
-          "trader": "CDAP1",
-          "roi": 0.1594,
-          "value": 4232.58,
-          "avg_price": 0.0055,
-          "cur_price": 0.0085
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.5436,
-          "value": 2860.46,
-          "avg_price": 0.007,
-          "cur_price": 0.0085
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.4648,
-          "value": 855.12,
-          "avg_price": 0.0073,
-          "cur_price": 0.0085
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 5.5306,
-          "value": 850,
-          "avg_price": 0.0044,
-          "cur_price": 0.0085
+          "trader": "yungstalin",
+          "roi": 1.1159,
+          "value": 27999.17,
+          "avg_price": 0.0879,
+          "cur_price": 0.2185
         }
       ]
     },
@@ -116,42 +56,132 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "outcome": "No",
       "num_traders": 5,
-      "total_value": 764374.51,
+      "total_value": 753484.41,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 5.5306,
-          "value": 494892.62,
+          "roi": 3.8785,
+          "value": 467573.71,
           "avg_price": 0.1338,
-          "cur_price": 0.2355
+          "cur_price": 0.2225
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.4648,
-          "value": 159916.35,
+          "roi": 0.3515,
+          "value": 151088.69,
           "avg_price": 0.1127,
-          "cur_price": 0.2355
+          "cur_price": 0.2225
         },
         {
           "trader": "wan123",
-          "roi": 0.5436,
-          "value": 89326.71,
+          "roi": 0.1588,
+          "value": 84395.72,
           "avg_price": 0.1245,
-          "cur_price": 0.2355
+          "cur_price": 0.2225
+        },
+        {
+          "trader": "yungstalin",
+          "roi": 1.1159,
+          "value": 39642.23,
+          "avg_price": 0.1199,
+          "cur_price": 0.2225
         },
         {
           "trader": "anykey",
-          "roi": 0.2689,
-          "value": 11414.14,
+          "roi": 0.1564,
+          "value": 10784.06,
           "avg_price": 0.0586,
-          "cur_price": 0.2355
+          "cur_price": 0.2225
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: HOTU vs GamerLegion (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-hotu-gl1-2026-07-22",
+      "outcome": "HOTU",
+      "num_traders": 3,
+      "total_value": 46451.76,
+      "holders": [
+        {
+          "trader": "kroshka",
+          "roi": 0.3608,
+          "value": 24987.5,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
         },
         {
-          "trader": "TBill1",
-          "roi": 0.3702,
-          "value": 8824.69,
-          "avg_price": 0.1154,
-          "cur_price": 0.2355
+          "trader": "CORGI8",
+          "roi": 0.2996,
+          "value": 18990.5,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "baileysclub",
+          "roi": 0.2553,
+          "value": 2473.76,
+          "avg_price": 0.61,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 41326.61,
+      "holders": [
+        {
+          "trader": "anykey",
+          "roi": 0.1564,
+          "value": 37067.95,
+          "avg_price": 0.004,
+          "cur_price": 0.0085
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.1588,
+          "value": 3403.54,
+          "avg_price": 0.0071,
+          "cur_price": 0.0085
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.3515,
+          "value": 855.12,
+          "avg_price": 0.0073,
+          "cur_price": 0.0085
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 8414.35,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3987,
+          "value": 5637.67,
+          "avg_price": 0.485,
+          "cur_price": 0.5074
+        },
+        {
+          "trader": "yungstalin",
+          "roi": 1.1159,
+          "value": 2147.5,
+          "avg_price": 0.508,
+          "cur_price": 0.5074
+        },
+        {
+          "trader": "surfandturf",
+          "roi": 4.1375,
+          "value": 629.18,
+          "avg_price": 0.5501,
+          "cur_price": 0.5074
         }
       ]
     },
@@ -486,8 +516,12 @@
     "crint-wst2-nzl7-2026-07-21::West Indies": 3,
     "mlb-bal-bos-2026-07-21::Boston Red Sox": 3,
     "lol-lgd-edg-2026-07-22::LGD Gaming": 3,
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
+    "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 1
   },
-  "updated_at": "2026-07-22T16:06:58.952246+00:00"
+  "updated_at": "2026-07-22T17:40:29.013349+00:00"
 }

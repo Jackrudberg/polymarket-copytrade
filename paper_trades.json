@@ -608,7 +608,7 @@
       "current_value": 78.99,
       "paper_pnl": -21.01,
       "return_percent": -21.01,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 656605.8,
       "traders": [
@@ -617,7 +617,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "consensus_lost_at": "2026-07-21T16:44:32.850101+00:00"
+      "consensus_lost_at": "2026-07-22T17:40:29.009625+00:00"
     },
     {
       "signal_id": "lol-milo-ly-2026-07-15-game2::MIBR.LOS",
@@ -3504,7 +3504,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting",
       "side": "Yes",
       "alerted_at": "2026-07-22T16:06:58.948618+00:00",
-      "last_seen": "2026-07-22T16:06:58.948618+00:00",
+      "last_seen": "2026-07-22T17:40:29.009625+00:00",
       "entry_price": 0.0085,
       "current_price": 0.0085,
       "stake": 100.0,
@@ -3620,7 +3620,55 @@
         "TBill1"
       ],
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting"
+    },
+    {
+      "signal_id": "cs2-hotu-gl1-2026-07-22::HOTU",
+      "market": "Counter-Strike: HOTU vs GamerLegion (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-hotu-gl1-2026-07-22",
+      "side": "HOTU",
+      "alerted_at": "2026-07-22T17:40:29.009625+00:00",
+      "last_seen": "2026-07-22T17:40:29.009625+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 46451.76,
+      "traders": [
+        "kroshka",
+        "CORGI8",
+        "baileysclub"
+      ],
+      "url": "https://polymarket.com/event/cs2-hotu-gl1-2026-07-22"
+    },
+    {
+      "signal_id": "will-lebron-james-play-for-the-miami-heat-in-2026-27::No",
+      "market": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "side": "No",
+      "alerted_at": "2026-07-22T17:40:29.009625+00:00",
+      "last_seen": "2026-07-22T17:40:29.009625+00:00",
+      "entry_price": 0.5074,
+      "current_price": 0.5074,
+      "stake": 100.0,
+      "shares": 197.083169,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8414.35,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "yungstalin",
+        "surfandturf"
+      ],
+      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
     }
   ],
-  "updated_at": "2026-07-22T16:06:58.948618+00:00"
+  "updated_at": "2026-07-22T17:40:29.009625+00:00"
 }
