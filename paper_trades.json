@@ -600,15 +600,15 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "side": "Yes",
       "alerted_at": "2026-07-15T18:15:01.341509+00:00",
-      "last_seen": "2026-07-22T14:35:21.734722+00:00",
+      "last_seen": "2026-07-23T07:13:40.372823+00:00",
       "entry_price": 0.9525,
-      "current_price": 0.7524,
+      "current_price": 0.754092,
       "stake": 100.0,
       "shares": 104.986877,
-      "current_value": 78.99,
-      "paper_pnl": -21.01,
-      "return_percent": -21.01,
-      "status": "CONSENSUS_LOST",
+      "current_value": 79.17,
+      "paper_pnl": -20.83,
+      "return_percent": -20.83,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 656605.8,
       "traders": [
@@ -3844,7 +3844,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1182.0,
       "traders": [
@@ -3852,7 +3852,8 @@
         "donthackme",
         "THEdirkdiggler"
       ],
-      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
+      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "consensus_lost_at": "2026-07-23T07:13:40.372823+00:00"
     },
     {
       "signal_id": "mls-laf-rsl-2026-07-22-laf::Yes",
@@ -4045,7 +4046,80 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/mls-por-dal-2026-07-22-btts"
+    },
+    {
+      "signal_id": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T07:13:40.372823+00:00",
+      "last_seen": "2026-07-23T07:13:40.372823+00:00",
+      "entry_price": 0.242498,
+      "current_price": 0.242498,
+      "stake": 100.0,
+      "shares": 412.375293,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 296239.49,
+      "traders": [
+        "foodenjoyer",
+        "donthackme",
+        "alwayslatetotheparty",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting"
+    },
+    {
+      "signal_id": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "side": "No",
+      "alerted_at": "2026-07-23T07:13:40.372823+00:00",
+      "last_seen": "2026-07-23T07:13:40.372823+00:00",
+      "entry_price": 0.2455,
+      "current_price": 0.2455,
+      "stake": 100.0,
+      "shares": 407.331976,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 177310.96,
+      "traders": [
+        "foodenjoyer",
+        "donthackme",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting"
+    },
+    {
+      "signal_id": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No",
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "side": "No",
+      "alerted_at": "2026-07-23T07:13:40.372823+00:00",
+      "last_seen": "2026-07-23T07:13:40.372823+00:00",
+      "entry_price": 0.7574,
+      "current_price": 0.7574,
+      "stake": 100.0,
+      "shares": 132.030631,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 14183.85,
+      "traders": [
+        "foodenjoyer",
+        "purplegatto",
+        "donthackme"
+      ],
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting"
     }
   ],
-  "updated_at": "2026-07-23T04:32:36.501907+00:00"
+  "updated_at": "2026-07-23T07:13:40.372823+00:00"
 }
