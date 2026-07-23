@@ -1,14 +1,10 @@
 {
   "seen_ids": [
     "mlb-ari-stl-2026-06-25::St. Louis Cardinals",
-    "val-gm-navi1-2026-07-23::Gentle Mates",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "mlb-ari-stl-2026-06-25-total-8pt5::Under",
     "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5::OG",
-    "mlb-kc-det-2026-07-23-total-8pt5::Under",
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
-    "will-1-fed-rate-cut-happen-in-2026::Yes"
+    "mlb-kc-det-2026-07-23-spread-home-1pt5::Kansas City Royals",
+    "mlb-kc-det-2026-07-23-total-8pt5::Under"
   ],
   "signals": [
     {
@@ -16,49 +12,169 @@
       "slug": "mlb-ari-stl-2026-06-25",
       "outcome": "St. Louis Cardinals",
       "num_traders": 6,
-      "total_value": 71794.28,
+      "total_value": 136476.52,
       "holders": [
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.5479,
-          "value": 36143.22,
-          "avg_price": 0.5151,
-          "cur_price": 0.525
+          "roi": 0.5683,
+          "value": 83574.21,
+          "avg_price": 0.5465,
+          "cur_price": 0.775
         },
         {
           "trader": "laozishudaosan",
-          "roi": 0.3959,
-          "value": 14525.7,
+          "roi": 0.4055,
+          "value": 21442.7,
           "avg_price": 0.5,
-          "cur_price": 0.525
+          "cur_price": 0.775
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2058,
-          "value": 8722.58,
-          "avg_price": 0.5037,
-          "cur_price": 0.525
+          "roi": 0.2262,
+          "value": 13150.74,
+          "avg_price": 0.5084,
+          "cur_price": 0.775
         },
         {
           "trader": "NewTeamSosed2",
-          "roi": 0.3501,
-          "value": 5786.52,
+          "roi": 0.3436,
+          "value": 8542.01,
           "avg_price": 0.5081,
-          "cur_price": 0.525
+          "cur_price": 0.775
         },
         {
           "trader": "jtwyslljy",
-          "roi": 0.1622,
-          "value": 5250,
+          "roi": 0.4415,
+          "value": 7750,
           "avg_price": 0.5066,
-          "cur_price": 0.525
+          "cur_price": 0.775
         },
         {
           "trader": "chanello",
-          "roi": 0.2926,
-          "value": 1366.26,
+          "roi": 0.3022,
+          "value": 2016.86,
           "avg_price": 0.5,
-          "cur_price": 0.525
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Arizona Diamondbacks vs. St. Louis Cardinals: O/U 8.5",
+      "slug": "mlb-ari-stl-2026-06-25-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 103626.22,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.5683,
+          "value": 80787.15,
+          "avg_price": 0.525,
+          "cur_price": 0.61
+        },
+        {
+          "trader": "chanello",
+          "roi": 0.3022,
+          "value": 22208.4,
+          "avg_price": 0.5901,
+          "cur_price": 0.61
+        },
+        {
+          "trader": "ripplecs",
+          "roi": 3.2305,
+          "value": 630.67,
+          "avg_price": 0.6093,
+          "cur_price": 0.61
+        }
+      ]
+    },
+    {
+      "market": "Map Handicap: TS (-1.5) vs OG (+1.5)",
+      "slug": "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5",
+      "outcome": "OG",
+      "num_traders": 3,
+      "total_value": 29880.02,
+      "holders": [
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.3402,
+          "value": 22701.45,
+          "avg_price": 0.2816,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "skyman44",
+          "roi": 0.5981,
+          "value": 6820.25,
+          "avg_price": 0.25,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DeepBlueTrading",
+          "roi": 0.2703,
+          "value": 358.32,
+          "avg_price": 0.4777,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Detroit Tigers (-1.5)",
+      "slug": "mlb-kc-det-2026-07-23-spread-home-1pt5",
+      "outcome": "Kansas City Royals",
+      "num_traders": 3,
+      "total_value": 20215.62,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2262,
+          "value": 17367.63,
+          "avg_price": 0.4887,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.3436,
+          "value": 2362.99,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "ripplecs",
+          "roi": 3.2305,
+          "value": 485,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Kansas City Royals vs. Detroit Tigers: O/U 8.5",
+      "slug": "mlb-kc-det-2026-07-23-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 9854.24,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2262,
+          "value": 5217.26,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.3436,
+          "value": 3920.18,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "chanello",
+          "roi": 0.3022,
+          "value": 716.8,
+          "avg_price": 0.49,
+          "cur_price": 0.515
         }
       ]
     },
@@ -156,96 +272,6 @@
           "value": 270.72,
           "avg_price": 0.6949,
           "cur_price": 0.846
-        }
-      ]
-    },
-    {
-      "market": "Arizona Diamondbacks vs. St. Louis Cardinals: O/U 8.5",
-      "slug": "mlb-ari-stl-2026-06-25-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 54870.98,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.5479,
-          "value": 32229.46,
-          "avg_price": 0.6,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "chanello",
-          "roi": 0.2926,
-          "value": 22026.36,
-          "avg_price": 0.5901,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "ripplecs",
-          "roi": 3.2873,
-          "value": 615.16,
-          "avg_price": 0.6093,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Map Handicap: TS (-1.5) vs OG (+1.5)",
-      "slug": "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5",
-      "outcome": "OG",
-      "num_traders": 3,
-      "total_value": 29880.02,
-      "holders": [
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.3425,
-          "value": 22701.45,
-          "avg_price": 0.2816,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "skyman44",
-          "roi": 0.5861,
-          "value": 6820.25,
-          "avg_price": 0.25,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "DeepBlueTrading",
-          "roi": 0.2697,
-          "value": 358.32,
-          "avg_price": 0.4777,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Kansas City Royals vs. Detroit Tigers: O/U 8.5",
-      "slug": "mlb-kc-det-2026-07-23-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 9854.24,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2058,
-          "value": 5217.26,
-          "avg_price": 0.49,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "NewTeamSosed2",
-          "roi": 0.3501,
-          "value": 3920.18,
-          "avg_price": 0.49,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "chanello",
-          "roi": 0.2926,
-          "value": 716.8,
-          "avg_price": 0.49,
-          "cur_price": 0.515
         }
       ]
     },
@@ -599,283 +625,6 @@
           "cur_price": 0.09
         }
       ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 715132.44,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.6776,
-          "value": 550581.17,
-          "avg_price": 0.1338,
-          "cur_price": 0.262
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.2142,
-          "value": 163807.84,
-          "avg_price": 0.127,
-          "cur_price": 0.262
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.7892,
-          "value": 422.83,
-          "avg_price": 0.1505,
-          "cur_price": 0.262
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2111,
-          "value": 320.6,
-          "avg_price": 0.0535,
-          "cur_price": 0.2615
-        }
-      ]
-    },
-    {
-      "market": "San Diego Padres vs. Atlanta Braves",
-      "slug": "mlb-sd-atl-2026-07-23",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 286562.06,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1898,
-          "value": 158358.26,
-          "avg_price": 0.6895,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
-          "roi": 0.2125,
-          "value": 127919.82,
-          "avg_price": 0.7089,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2111,
-          "value": 283.98,
-          "avg_price": 0.6024,
-          "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Valorant: Eternal Fire vs Team Heretics (BO3) - VCT EMEA Group Omega",
-      "slug": "val-ef-th1-2026-07-23",
-      "outcome": "Team Heretics",
-      "num_traders": 3,
-      "total_value": 159044.47,
-      "holders": [
-        {
-          "trader": "greyoctober",
-          "roi": 0.4348,
-          "value": 99950,
-          "avg_price": 0.56,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "G0dTrump",
-          "roi": 0.3838,
-          "value": 39198.0,
-          "avg_price": 0.57,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "skyman44",
-          "roi": 0.3843,
-          "value": 19896.47,
-          "avg_price": 0.5947,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Hammarby Fotboll win on 2026-07-23?",
-      "slug": "uel-hif-and-2026-07-23-hif",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 117083.63,
-      "holders": [
-        {
-          "trader": "Gametheory-394",
-          "roi": 0.212,
-          "value": 112099.33,
-          "avg_price": 0.4515,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "ripplecs",
-          "roi": 4.2066,
-          "value": 3599.89,
-          "avg_price": 0.5353,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2581,
-          "value": 1384.41,
-          "avg_price": 0.5614,
-          "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "Spread: Atlanta Braves (-1.5)",
-      "slug": "mlb-sd-atl-2026-07-23-spread-home-1pt5",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 96073.36,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1898,
-          "value": 92939.41,
-          "avg_price": 0.5471,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2111,
-          "value": 2358.95,
-          "avg_price": 0.54,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "ripplecs",
-          "roi": 4.2066,
-          "value": 775.0,
-          "avg_price": 0.53,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Will MH Maccabi Tel Aviv win on 2026-07-23?",
-      "slug": "uel-she-mta-2026-07-23-mta",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 32547.21,
-      "holders": [
-        {
-          "trader": "0xc3ed10",
-          "roi": 0.1667,
-          "value": 30056.99,
-          "avg_price": 0.4915,
-          "cur_price": 0.985
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2581,
-          "value": 1338.68,
-          "avg_price": 0.8255,
-          "cur_price": 0.985
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1898,
-          "value": 1151.54,
-          "avg_price": 0.477,
-          "cur_price": 0.985
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 27294.93,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.2581,
-          "value": 23400.87,
-          "avg_price": 0.7693,
-          "cur_price": 0.7534
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2111,
-          "value": 2670.05,
-          "avg_price": 0.8348,
-          "cur_price": 0.7534
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.7892,
-          "value": 1224.01,
-          "avg_price": 0.8511,
-          "cur_price": 0.7534
-        }
-      ]
-    },
-    {
-      "market": "Spread: Sport Lisboa e Benfica (-1.5)",
-      "slug": "uel-stg-ben-2026-07-23-spread-away-1pt5",
-      "outcome": "FC St. Gallen",
-      "num_traders": 3,
-      "total_value": 17327.13,
-      "holders": [
-        {
-          "trader": "0xc3ed10",
-          "roi": 0.1667,
-          "value": 15680.73,
-          "avg_price": 0.5548,
-          "cur_price": 0.58
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1898,
-          "value": 1211.4,
-          "avg_price": 0.52,
-          "cur_price": 0.58
-        },
-        {
-          "trader": "ripplecs",
-          "roi": 4.2066,
-          "value": 435.0,
-          "avg_price": 0.52,
-          "cur_price": 0.58
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16888.44,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1898,
-          "value": 14726.4,
-          "avg_price": 0.5392,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2581,
-          "value": 1840.64,
-          "avg_price": 0.6595,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.7892,
-          "value": 321.4,
-          "avg_price": 0.5308,
-          "cur_price": 0.5649
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -1058,24 +807,29 @@
     "lol-blg-tt-2026-07-23::Bilibili Gaming": 3,
     "kharg-island-no-longer-under-iranian-control-by-july-31::Yes": 3,
     "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 2,
-    "mlb-sd-atl-2026-07-23::Atlanta Braves": 2,
-    "val-ef-th1-2026-07-23::Team Heretics": 2,
-    "uel-hif-and-2026-07-23-hif::No": 2,
-    "mlb-sd-atl-2026-07-23-spread-home-1pt5::Atlanta Braves": 2,
-    "uel-she-mta-2026-07-23-mta::Yes": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 2,
-    "uel-stg-ben-2026-07-23-spread-away-1pt5::FC St. Gallen": 2,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
-    "cs2-hero-fokus-2026-07-23::Heroic": 1,
-    "mlb-min-cle-2026-07-23-total-7pt5::Under": 1,
-    "mlb-min-cle-2026-07-23::Cleveland Guardians": 1,
-    "mlb-tb-tor-2026-07-23::Toronto Blue Jays": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1,
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes": 1,
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::No": 1,
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 1,
-    "mlb-min-cle-2026-07-23-spread-home-1pt5::Cleveland Guardians": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 3,
+    "mlb-sd-atl-2026-07-23::Atlanta Braves": 3,
+    "val-ef-th1-2026-07-23::Team Heretics": 3,
+    "uel-hif-and-2026-07-23-hif::No": 3,
+    "mlb-sd-atl-2026-07-23-spread-home-1pt5::Atlanta Braves": 3,
+    "uel-she-mta-2026-07-23-mta::Yes": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 3,
+    "uel-stg-ben-2026-07-23-spread-away-1pt5::FC St. Gallen": 3,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
+    "cs2-hero-fokus-2026-07-23::Heroic": 2,
+    "mlb-min-cle-2026-07-23-total-7pt5::Under": 2,
+    "mlb-min-cle-2026-07-23::Cleveland Guardians": 2,
+    "mlb-tb-tor-2026-07-23::Toronto Blue Jays": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2,
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes": 2,
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::No": 2,
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 2,
+    "mlb-min-cle-2026-07-23-spread-home-1pt5::Cleveland Guardians": 2,
+    "val-gm-navi1-2026-07-23::Gentle Mates": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 1,
+    "will-1-fed-rate-cut-happen-in-2026::Yes": 1
   },
-  "updated_at": "2026-07-23T20:52:27.912070+00:00"
+  "updated_at": "2026-07-23T21:59:36.014059+00:00"
 }
