@@ -1,55 +1,311 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "cs2-hero-fokus-2026-07-23::Heroic",
-    "mlb-min-cle-2026-07-23-total-7pt5::Under",
-    "mlb-min-cle-2026-07-23::Cleveland Guardians",
-    "mlb-tb-tor-2026-07-23::Toronto Blue Jays",
+    "mlb-ari-stl-2026-06-25::St. Louis Cardinals",
     "val-gm-navi1-2026-07-23::Gentle Mates",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes",
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes",
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::No",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "mlb-ari-stl-2026-06-25-total-8pt5::Under",
+    "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5::OG",
     "mlb-kc-det-2026-07-23-total-8pt5::Under",
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes",
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
-    "mlb-min-cle-2026-07-23-spread-home-1pt5::Cleveland Guardians",
     "will-1-fed-rate-cut-happen-in-2026::Yes"
   ],
   "signals": [
     {
+      "market": "Arizona Diamondbacks vs. St. Louis Cardinals",
+      "slug": "mlb-ari-stl-2026-06-25",
+      "outcome": "St. Louis Cardinals",
+      "num_traders": 6,
+      "total_value": 71794.28,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.5479,
+          "value": 36143.22,
+          "avg_price": 0.5151,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "laozishudaosan",
+          "roi": 0.3959,
+          "value": 14525.7,
+          "avg_price": 0.5,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2058,
+          "value": 8722.58,
+          "avg_price": 0.5037,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.3501,
+          "value": 5786.52,
+          "avg_price": 0.5081,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.1622,
+          "value": 5250,
+          "avg_price": 0.5066,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "chanello",
+          "roi": 0.2926,
+          "value": 1366.26,
+          "avg_price": 0.5,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Valorant: Gentle Mates vs Natus Vincere (BO3) - VCT EMEA Group Alpha",
+      "slug": "val-gm-navi1-2026-07-23",
+      "outcome": "Gentle Mates",
+      "num_traders": 4,
+      "total_value": 124063.55,
+      "holders": [
+        {
+          "trader": "joblessfinalboss",
+          "roi": 0.4186,
+          "value": 66481.83,
+          "avg_price": 0.4524,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DeepBlueTrading",
+          "roi": 0.2697,
+          "value": 24987.58,
+          "avg_price": 0.4954,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "skyman44",
+          "roi": 0.5861,
+          "value": 19989.77,
+          "avg_price": 0.51,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "G0dTrump",
+          "roi": 0.415,
+          "value": 12604.37,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
       "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 674159.72,
+      "num_traders": 3,
+      "total_value": 662008.54,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.601,
-          "value": 352360.96,
+          "roi": 0.6077,
+          "value": 346179.18,
           "avg_price": 0.1413,
-          "cur_price": 0.2565
+          "cur_price": 0.252
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.2038,
-          "value": 320357.44,
+          "roi": 0.1955,
+          "value": 314737.14,
           "avg_price": 0.1236,
-          "cur_price": 0.2565
+          "cur_price": 0.252
         },
         {
           "trader": "donthackme",
-          "roi": 0.8206,
-          "value": 1113.93,
+          "roi": 0.814,
+          "value": 1092.22,
           "avg_price": 0.2,
-          "cur_price": 0.2565
+          "cur_price": 0.2515
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 432596.37,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.6077,
+          "value": 421741.26,
+          "avg_price": 0.776,
+          "cur_price": 0.846
         },
         {
-          "trader": "StasPanda",
-          "roi": 0.3118,
-          "value": 327.39,
-          "avg_price": 0.055,
-          "cur_price": 0.2565
+          "trader": "foodenjoyer",
+          "roi": 0.1955,
+          "value": 10584.39,
+          "avg_price": 0.0771,
+          "cur_price": 0.846
+        },
+        {
+          "trader": "Bambi2Hill",
+          "roi": 0.1647,
+          "value": 270.72,
+          "avg_price": 0.6949,
+          "cur_price": 0.846
+        }
+      ]
+    },
+    {
+      "market": "Arizona Diamondbacks vs. St. Louis Cardinals: O/U 8.5",
+      "slug": "mlb-ari-stl-2026-06-25-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 54870.98,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.5479,
+          "value": 32229.46,
+          "avg_price": 0.6,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "chanello",
+          "roi": 0.2926,
+          "value": 22026.36,
+          "avg_price": 0.5901,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "ripplecs",
+          "roi": 3.2873,
+          "value": 615.16,
+          "avg_price": 0.6093,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Map Handicap: TS (-1.5) vs OG (+1.5)",
+      "slug": "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5",
+      "outcome": "OG",
+      "num_traders": 3,
+      "total_value": 29880.02,
+      "holders": [
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.3425,
+          "value": 22701.45,
+          "avg_price": 0.2816,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "skyman44",
+          "roi": 0.5861,
+          "value": 6820.25,
+          "avg_price": 0.25,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DeepBlueTrading",
+          "roi": 0.2697,
+          "value": 358.32,
+          "avg_price": 0.4777,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Kansas City Royals vs. Detroit Tigers: O/U 8.5",
+      "slug": "mlb-kc-det-2026-07-23-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 9854.24,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2058,
+          "value": 5217.26,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.3501,
+          "value": 3920.18,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "chanello",
+          "roi": 0.2926,
+          "value": 716.8,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 6601.76,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.22,
+          "value": 3373.23,
+          "avg_price": 0.7846,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.1955,
+          "value": 2396.55,
+          "avg_price": 0.76,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.814,
+          "value": 831.98,
+          "avg_price": 0.84,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will 1 Fed rate cut happen in 2026?",
+      "slug": "will-1-fed-rate-cut-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3023.94,
+      "holders": [
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.1955,
+          "value": 2642.6,
+          "avg_price": 0.1534,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.814,
+          "value": 198.52,
+          "avg_price": 0.0769,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.2956,
+          "value": 182.82,
+          "avg_price": 0.0769,
+          "cur_price": 0.105
         }
       ]
     },
@@ -195,36 +451,6 @@
       ]
     },
     {
-      "market": "Valorant: Gentle Mates vs Natus Vincere (BO3) - VCT EMEA Group Alpha",
-      "slug": "val-gm-navi1-2026-07-23",
-      "outcome": "Gentle Mates",
-      "num_traders": 3,
-      "total_value": 99075.97,
-      "holders": [
-        {
-          "trader": "joblessfinalboss",
-          "roi": 0.3447,
-          "value": 66481.83,
-          "avg_price": 0.4524,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "skyman44",
-          "roi": 0.4172,
-          "value": 19989.77,
-          "avg_price": 0.51,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "G0dTrump",
-          "roi": 0.4107,
-          "value": 12604.37,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "outcome": "Yes",
@@ -315,36 +541,6 @@
       ]
     },
     {
-      "market": "Kansas City Royals vs. Detroit Tigers: O/U 8.5",
-      "slug": "mlb-kc-det-2026-07-23-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 9662.9,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2059,
-          "value": 5115.96,
-          "avg_price": 0.49,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "NewTeamSosed2",
-          "roi": 0.3376,
-          "value": 3844.06,
-          "avg_price": 0.49,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "chanello",
-          "roi": 0.2998,
-          "value": 702.88,
-          "avg_price": 0.49,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
       "market": "Will LeBron James play for the Miami Heat in 2026-27?",
       "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
       "outcome": "Yes",
@@ -375,36 +571,6 @@
       ]
     },
     {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 6601.76,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.2384,
-          "value": 3373.23,
-          "avg_price": 0.7846,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.2038,
-          "value": 2396.55,
-          "avg_price": 0.76,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.8206,
-          "value": 831.98,
-          "avg_price": 0.84,
-          "cur_price": 0.855
-        }
-      ]
-    },
-    {
       "market": "Spread: Cleveland Guardians (-1.5)",
       "slug": "mlb-min-cle-2026-07-23-spread-home-1pt5",
       "outcome": "Cleveland Guardians",
@@ -431,36 +597,6 @@
           "value": 121.72,
           "avg_price": 0.3,
           "cur_price": 0.09
-        }
-      ]
-    },
-    {
-      "market": "Will 1 Fed rate cut happen in 2026?",
-      "slug": "will-1-fed-rate-cut-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3023.94,
-      "holders": [
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.2038,
-          "value": 2642.6,
-          "avg_price": 0.1534,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.8206,
-          "value": 198.52,
-          "avg_price": 0.0769,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.2996,
-          "value": 182.82,
-          "avg_price": 0.0769,
-          "cur_price": 0.105
         }
       ]
     },
@@ -740,156 +876,6 @@
           "cur_price": 0.5649
         }
       ]
-    },
-    {
-      "market": "San Diego Padres vs. Atlanta Braves: O/U 7.5",
-      "slug": "mlb-sd-atl-2026-07-23-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 46217.75,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.17,
-          "value": 34468.79,
-          "avg_price": 0.5421,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1877,
-          "value": 7655.54,
-          "avg_price": 0.53,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2123,
-          "value": 4093.42,
-          "avg_price": 0.5383,
-          "cur_price": 0.79
-        }
-      ]
-    },
-    {
-      "market": "Kharg Island no longer under Iranian control by August 31?",
-      "slug": "kharg-island-no-longer-under-iranian-control-by-august-31",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 24958.95,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.294,
-          "value": 10752.56,
-          "avg_price": 0.0788,
-          "cur_price": 0.0795
-        },
-        {
-          "trader": "tetrose",
-          "roi": 5.6128,
-          "value": 7315.93,
-          "avg_price": 0.0738,
-          "cur_price": 0.0795
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.1754,
-          "value": 6890.46,
-          "avg_price": 0.073,
-          "cur_price": 0.0795
-        }
-      ]
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
-      "slug": "lol-blg-tt-2026-07-23",
-      "outcome": "Bilibili Gaming",
-      "num_traders": 3,
-      "total_value": 14086.66,
-      "holders": [
-        {
-          "trader": "G0dTrump",
-          "roi": 0.3877,
-          "value": 13807.78,
-          "avg_price": 0.7985,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2123,
-          "value": 157.92,
-          "avg_price": 0.89,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "waterx-",
-          "roi": 0.3828,
-          "value": 120.96,
-          "avg_price": 0.9231,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Kharg Island no longer under Iranian control by July 31?",
-      "slug": "kharg-island-no-longer-under-iranian-control-by-july-31",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5002.03,
-      "holders": [
-        {
-          "trader": "tetrose",
-          "roi": 5.6128,
-          "value": 2663.94,
-          "avg_price": 0.0253,
-          "cur_price": 0.022
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.1754,
-          "value": 1678.06,
-          "avg_price": 0.0316,
-          "cur_price": 0.022
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.294,
-          "value": 660.03,
-          "avg_price": 0.0275,
-          "cur_price": 0.022
-        }
-      ]
-    },
-    {
-      "market": "Will LeBron James play for the Cleveland Cavaliers in 2026-27?",
-      "slug": "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1021.05,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.1754,
-          "value": 606.4,
-          "avg_price": 0.2882,
-          "cur_price": 0.2455
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.8509,
-          "value": 289.69,
-          "avg_price": 0.0277,
-          "cur_price": 0.2455
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2123,
-          "value": 124.96,
-          "avg_price": 0.6032,
-          "cur_price": 0.2455
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -1040,7 +1026,6 @@
     "mlb-cin-sea-2026-07-21::Cincinnati Reds": 3,
     "crint-wst2-nzl7-2026-07-21::West Indies": 3,
     "lol-lgd-edg-2026-07-22::LGD Gaming": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
     "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
@@ -1068,20 +1053,29 @@
     "cs2-sin2-fut-2026-07-23::Sinners": 3,
     "cs2-sin2-fut-2026-07-23::FUT Esports": 3,
     "cs2-wal2-3dmax-2026-07-23::Walczaki": 3,
-    "mlb-sd-atl-2026-07-23-total-7pt5::Over": 2,
-    "kharg-island-no-longer-under-iranian-control-by-august-31::Yes": 2,
-    "lol-blg-tt-2026-07-23::Bilibili Gaming": 2,
-    "kharg-island-no-longer-under-iranian-control-by-july-31::Yes": 2,
-    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 1,
-    "mlb-sd-atl-2026-07-23::Atlanta Braves": 1,
-    "val-ef-th1-2026-07-23::Team Heretics": 1,
-    "uel-hif-and-2026-07-23-hif::No": 1,
-    "mlb-sd-atl-2026-07-23-spread-home-1pt5::Atlanta Braves": 1,
-    "uel-she-mta-2026-07-23-mta::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 1,
-    "uel-stg-ben-2026-07-23-spread-away-1pt5::FC St. Gallen": 1,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 1
+    "mlb-sd-atl-2026-07-23-total-7pt5::Over": 3,
+    "kharg-island-no-longer-under-iranian-control-by-august-31::Yes": 3,
+    "lol-blg-tt-2026-07-23::Bilibili Gaming": 3,
+    "kharg-island-no-longer-under-iranian-control-by-july-31::Yes": 3,
+    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 2,
+    "mlb-sd-atl-2026-07-23::Atlanta Braves": 2,
+    "val-ef-th1-2026-07-23::Team Heretics": 2,
+    "uel-hif-and-2026-07-23-hif::No": 2,
+    "mlb-sd-atl-2026-07-23-spread-home-1pt5::Atlanta Braves": 2,
+    "uel-she-mta-2026-07-23-mta::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 2,
+    "uel-stg-ben-2026-07-23-spread-away-1pt5::FC St. Gallen": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
+    "cs2-hero-fokus-2026-07-23::Heroic": 1,
+    "mlb-min-cle-2026-07-23-total-7pt5::Under": 1,
+    "mlb-min-cle-2026-07-23::Cleveland Guardians": 1,
+    "mlb-tb-tor-2026-07-23::Toronto Blue Jays": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1,
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes": 1,
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::No": 1,
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 1,
+    "mlb-min-cle-2026-07-23-spread-home-1pt5::Cleveland Guardians": 1
   },
-  "updated_at": "2026-07-23T19:52:04.726183+00:00"
+  "updated_at": "2026-07-23T20:52:27.912070+00:00"
 }
