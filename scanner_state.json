@@ -1,75 +1,47 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes",
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No"
   ],
   "signals": [
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 296239.49,
-      "holders": [
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.6161,
-          "value": 293806.46,
-          "avg_price": 0.1188,
-          "cur_price": 0.2425
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.3599,
-          "value": 1447.11,
-          "avg_price": 0.2,
-          "cur_price": 0.2425
-        },
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 0.2559,
-          "value": 724.5,
-          "avg_price": 0.2,
-          "cur_price": 0.2415
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2471,
-          "value": 261.42,
-          "avg_price": 0.0634,
-          "cur_price": 0.2425
-        }
-      ]
-    },
     {
       "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "outcome": "No",
-      "num_traders": 3,
-      "total_value": 177310.96,
+      "num_traders": 4,
+      "total_value": 172397.57,
       "holders": [
         {
           "trader": "foodenjoyer",
-          "roi": 0.6161,
-          "value": 176613.78,
-          "avg_price": 0.1201,
-          "cur_price": 0.2455
+          "roi": 0.4057,
+          "value": 170027.88,
+          "avg_price": 0.1211,
+          "cur_price": 0.2345
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1749,
+          "value": 1712.26,
+          "avg_price": 0.2404,
+          "cur_price": 0.2345
         },
         {
           "trader": "donthackme",
-          "roi": 1.3599,
-          "value": 396.2,
+          "roi": 1.188,
+          "value": 373.61,
           "avg_price": 0.1436,
-          "cur_price": 0.2455
+          "cur_price": 0.2315
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2471,
-          "value": 300.98,
+          "roi": 0.2606,
+          "value": 283.82,
           "avg_price": 0.0535,
-          "cur_price": 0.2455
+          "cur_price": 0.2315
         }
       ]
     },
@@ -77,29 +49,156 @@
       "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "No",
-      "num_traders": 3,
-      "total_value": 14183.85,
+      "num_traders": 4,
+      "total_value": 35749.73,
       "holders": [
         {
+          "trader": "cigarettes",
+          "roi": 0.1749,
+          "value": 21378.42,
+          "avg_price": 0.7966,
+          "cur_price": 0.767
+        },
+        {
           "trader": "foodenjoyer",
-          "roi": 0.6161,
-          "value": 10306.23,
+          "roi": 0.4057,
+          "value": 10436.86,
           "avg_price": 0.8165,
-          "cur_price": 0.7574
+          "cur_price": 0.767
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2471,
-          "value": 2647.11,
+          "roi": 0.2606,
+          "value": 2685.91,
           "avg_price": 0.8357,
-          "cur_price": 0.7574
+          "cur_price": 0.7685
         },
         {
           "trader": "donthackme",
-          "roi": 1.3599,
-          "value": 1230.51,
+          "roi": 1.188,
+          "value": 1248.54,
           "avg_price": 0.8581,
-          "cur_price": 0.7574
+          "cur_price": 0.7685
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 283927.55,
+      "holders": [
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.4057,
+          "value": 282296.52,
+          "avg_price": 0.1188,
+          "cur_price": 0.233
+        },
+        {
+          "trader": "donthackme",
+          "roi": 1.188,
+          "value": 1381.47,
+          "avg_price": 0.2,
+          "cur_price": 0.2315
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2606,
+          "value": 249.56,
+          "avg_price": 0.0634,
+          "cur_price": 0.2315
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 16888.44,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2754,
+          "value": 14726.4,
+          "avg_price": 0.5392,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1749,
+          "value": 1840.64,
+          "avg_price": 0.6595,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "donthackme",
+          "roi": 1.188,
+          "value": 321.4,
+          "avg_price": 0.5308,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15931.97,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.1749,
+          "value": 12922.4,
+          "avg_price": 0.0844,
+          "cur_price": 0.1565
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2606,
+          "value": 1946.08,
+          "avg_price": 0.2273,
+          "cur_price": 0.1565
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.7028,
+          "value": 1063.49,
+          "avg_price": 0.1454,
+          "cur_price": 0.1565
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 6601.76,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.1749,
+          "value": 3373.23,
+          "avg_price": 0.7846,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.4057,
+          "value": 2396.55,
+          "avg_price": 0.76,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "donthackme",
+          "roi": 1.188,
+          "value": 831.98,
+          "avg_price": 0.84,
+          "cur_price": 0.855
         }
       ]
     },
@@ -314,36 +413,6 @@
       ]
     },
     {
-      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5790.75,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.2223,
-          "value": 3678.07,
-          "avg_price": 0.1091,
-          "cur_price": 0.1535
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.166,
-          "value": 1908.77,
-          "avg_price": 0.2273,
-          "cur_price": 0.1535
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 1.294,
-          "value": 203.91,
-          "avg_price": 0.1429,
-          "cur_price": 0.1535
-        }
-      ]
-    },
-    {
       "market": "Portland Timbers vs. FC Dallas: Both Teams to Score",
       "slug": "mls-por-dal-2026-07-22-btts",
       "outcome": "Yes",
@@ -370,36 +439,6 @@
           "value": 456.67,
           "avg_price": 0.6504,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will LeBron James play for the Miami Heat in 2026-27?",
-      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1182.0,
-      "holders": [
-        {
-          "trader": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
-          "roi": 0.2539,
-          "value": 728.59,
-          "avg_price": 0.0848,
-          "cur_price": 0.5014
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2319,
-          "value": 298.63,
-          "avg_price": 0.0277,
-          "cur_price": 0.5014
-        },
-        {
-          "trader": "THEdirkdiggler",
-          "roi": 0.4438,
-          "value": 154.78,
-          "avg_price": 0.488,
-          "cur_price": 0.5014
         }
       ]
     }
@@ -567,15 +606,15 @@
     "mlb-cin-sea-2026-07-22::Cincinnati Reds": 3,
     "val-fnc1-kc3-2026-07-22::Fnatic": 3,
     "mlb-lad-phi-2026-07-22::Philadelphia Phillies": 3,
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 2,
-    "mls-laf-rsl-2026-07-22-laf::Yes": 1,
-    "mls-sje-orl-2026-07-22-orl::Yes": 1,
-    "mls-por-dal-2026-07-22-por::No": 1,
-    "mls-lag-stl-2026-07-22-btts::Yes": 1,
-    "mls-lag-stl-2026-07-22-stl::Yes": 1,
-    "mls-laf-rsl-2026-07-22-total-2pt5::Over": 1,
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes": 1,
-    "mls-por-dal-2026-07-22-btts::Yes": 1
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 3,
+    "mls-laf-rsl-2026-07-22-laf::Yes": 2,
+    "mls-sje-orl-2026-07-22-orl::Yes": 2,
+    "mls-por-dal-2026-07-22-por::No": 2,
+    "mls-lag-stl-2026-07-22-btts::Yes": 2,
+    "mls-lag-stl-2026-07-22-stl::Yes": 2,
+    "mls-laf-rsl-2026-07-22-total-2pt5::Over": 2,
+    "mls-por-dal-2026-07-22-btts::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1
   },
-  "updated_at": "2026-07-23T07:13:40.376858+00:00"
+  "updated_at": "2026-07-23T09:39:33.171765+00:00"
 }
