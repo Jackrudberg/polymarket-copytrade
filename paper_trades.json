@@ -3794,7 +3794,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 52612.12,
       "traders": [
@@ -3802,7 +3802,8 @@
         "esportGG",
         "f3arless"
       ],
-      "url": "https://polymarket.com/event/val-fnc1-kc3-2026-07-22"
+      "url": "https://polymarket.com/event/val-fnc1-kc3-2026-07-22",
+      "consensus_lost_at": "2026-07-23T04:32:36.501907+00:00"
     },
     {
       "signal_id": "mlb-lad-phi-2026-07-22::Philadelphia Phillies",
@@ -3818,7 +3819,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 26348.26,
       "traders": [
@@ -3826,7 +3827,8 @@
         "PendulumExchange",
         "TeamLiquid"
       ],
-      "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-22"
+      "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-22",
+      "consensus_lost_at": "2026-07-23T04:32:36.501907+00:00"
     },
     {
       "signal_id": "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes",
@@ -3851,7 +3853,199 @@
         "THEdirkdiggler"
       ],
       "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
+    },
+    {
+      "signal_id": "mls-laf-rsl-2026-07-22-laf::Yes",
+      "market": "Will Los Angeles FC win on 2026-07-22?",
+      "slug": "mls-laf-rsl-2026-07-22-laf",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.9945,
+      "current_price": 0.9945,
+      "stake": 100.0,
+      "shares": 100.553042,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 149738.41,
+      "traders": [
+        "mooseborzoi",
+        "purplegatto",
+        "0xc3ed10"
+      ],
+      "url": "https://polymarket.com/event/mls-laf-rsl-2026-07-22-laf"
+    },
+    {
+      "signal_id": "mls-sje-orl-2026-07-22-orl::Yes",
+      "market": "Will Orlando City SC win on 2026-07-22?",
+      "slug": "mls-sje-orl-2026-07-22-orl",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 19297.87,
+      "traders": [
+        "purplegatto",
+        "mooseborzoi",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mls-sje-orl-2026-07-22-orl"
+    },
+    {
+      "signal_id": "mls-por-dal-2026-07-22-por::No",
+      "market": "Will Portland Timbers win on 2026-07-22?",
+      "slug": "mls-por-dal-2026-07-22-por",
+      "side": "No",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.995,
+      "current_price": 0.995,
+      "stake": 100.0,
+      "shares": 100.502513,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11793.55,
+      "traders": [
+        "0xc3ed10",
+        "mooseborzoi",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/mls-por-dal-2026-07-22-por"
+    },
+    {
+      "signal_id": "mls-lag-stl-2026-07-22-btts::Yes",
+      "market": "Los Angeles Galaxy vs. St. Louis City SC: Both Teams to Score",
+      "slug": "mls-lag-stl-2026-07-22-btts",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.9955,
+      "current_price": 0.9955,
+      "stake": 100.0,
+      "shares": 100.452034,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9042.24,
+      "traders": [
+        "mooseborzoi",
+        "purplegatto",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mls-lag-stl-2026-07-22-btts"
+    },
+    {
+      "signal_id": "mls-lag-stl-2026-07-22-stl::Yes",
+      "market": "Will St. Louis City SC win on 2026-07-22?",
+      "slug": "mls-lag-stl-2026-07-22-stl",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.996,
+      "current_price": 0.996,
+      "stake": 100.0,
+      "shares": 100.401606,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6706.92,
+      "traders": [
+        "purplegatto",
+        "quavoo",
+        "mooseborzoi"
+      ],
+      "url": "https://polymarket.com/event/mls-lag-stl-2026-07-22-stl"
+    },
+    {
+      "signal_id": "mls-laf-rsl-2026-07-22-total-2pt5::Over",
+      "market": "Los Angeles FC vs. Real Salt Lake: O/U 2.5",
+      "slug": "mls-laf-rsl-2026-07-22-total-2pt5",
+      "side": "Over",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6666.6,
+      "traders": [
+        "Zenhack",
+        "purplegatto",
+        "mooseborzoi"
+      ],
+      "url": "https://polymarket.com/event/mls-laf-rsl-2026-07-22-total-2pt5"
+    },
+    {
+      "signal_id": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes",
+      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.1535,
+      "current_price": 0.1535,
+      "stake": 100.0,
+      "shares": 651.465798,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 5790.75,
+      "traders": [
+        "quavoo",
+        "purplegatto",
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+      ],
+      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-golden-state-warriors-in-2026-27"
+    },
+    {
+      "signal_id": "mls-por-dal-2026-07-22-btts::Yes",
+      "market": "Portland Timbers vs. FC Dallas: Both Teams to Score",
+      "slug": "mls-por-dal-2026-07-22-btts",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T04:32:36.501907+00:00",
+      "last_seen": "2026-07-23T04:32:36.501907+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 3135.62,
+      "traders": [
+        "quavoo",
+        "mooseborzoi",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/mls-por-dal-2026-07-22-btts"
     }
   ],
-  "updated_at": "2026-07-23T01:08:08.112175+00:00"
+  "updated_at": "2026-07-23T04:32:36.501907+00:00"
 }

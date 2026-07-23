@@ -1,10 +1,255 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes"
+    "mls-laf-rsl-2026-07-22-laf::Yes",
+    "mls-sje-orl-2026-07-22-orl::Yes",
+    "mls-por-dal-2026-07-22-por::No",
+    "mls-lag-stl-2026-07-22-btts::Yes",
+    "mls-lag-stl-2026-07-22-stl::Yes",
+    "mls-laf-rsl-2026-07-22-total-2pt5::Over",
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes",
+    "mls-por-dal-2026-07-22-btts::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Los Angeles FC win on 2026-07-22?",
+      "slug": "mls-laf-rsl-2026-07-22-laf",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 149738.41,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 65589.36,
+          "avg_price": 0.5701,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 49725,
+          "avg_price": 0.5637,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "0xc3ed10",
+          "roi": 0.2684,
+          "value": 34424.05,
+          "avg_price": 0.5776,
+          "cur_price": 0.9945
+        }
+      ]
+    },
+    {
+      "market": "Will Orlando City SC win on 2026-07-22?",
+      "slug": "mls-sje-orl-2026-07-22-orl",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 19297.87,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 7411.63,
+          "avg_price": 0.2264,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 6056.16,
+          "avg_price": 0.558,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2223,
+          "value": 5830.08,
+          "avg_price": 0.21,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Portland Timbers win on 2026-07-22?",
+      "slug": "mls-por-dal-2026-07-22-por",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 11793.55,
+      "holders": [
+        {
+          "trader": "0xc3ed10",
+          "roi": 0.2684,
+          "value": 11266.55,
+          "avg_price": 0.6181,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 380.74,
+          "avg_price": 0.7642,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 146.26,
+          "avg_price": 0.7441,
+          "cur_price": 0.995
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Galaxy vs. St. Louis City SC: Both Teams to Score",
+      "slug": "mls-lag-stl-2026-07-22-btts",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 9042.24,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 5354.6,
+          "avg_price": 0.6341,
+          "cur_price": 0.9955
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 2437.29,
+          "avg_price": 0.64,
+          "cur_price": 0.9955
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2223,
+          "value": 1250.35,
+          "avg_price": 0.6416,
+          "cur_price": 0.9955
+        }
+      ]
+    },
+    {
+      "market": "Will St. Louis City SC win on 2026-07-22?",
+      "slug": "mls-lag-stl-2026-07-22-stl",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6706.92,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 4426.22,
+          "avg_price": 0.4058,
+          "cur_price": 0.996
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2223,
+          "value": 2076.66,
+          "avg_price": 0.3079,
+          "cur_price": 0.996
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 204.04,
+          "avg_price": 0.8991,
+          "cur_price": 0.996
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles FC vs. Real Salt Lake: O/U 2.5",
+      "slug": "mls-laf-rsl-2026-07-22-total-2pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 6666.6,
+      "holders": [
+        {
+          "trader": "Zenhack",
+          "roi": 0.3012,
+          "value": 4665.31,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 1895.24,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 106.05,
+          "avg_price": 0.85,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5790.75,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2223,
+          "value": 3678.07,
+          "avg_price": 0.1091,
+          "cur_price": 0.1535
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 1908.77,
+          "avg_price": 0.2273,
+          "cur_price": 0.1535
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 1.294,
+          "value": 203.91,
+          "avg_price": 0.1429,
+          "cur_price": 0.1535
+        }
+      ]
+    },
+    {
+      "market": "Portland Timbers vs. FC Dallas: Both Teams to Score",
+      "slug": "mls-por-dal-2026-07-22-btts",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3135.62,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2223,
+          "value": 1889.06,
+          "avg_price": 0.6949,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2757,
+          "value": 789.89,
+          "avg_price": 0.6757,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.166,
+          "value": 456.67,
+          "avg_price": 0.6504,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
@@ -152,43 +397,6 @@
           "value": 2740.53,
           "avg_price": 0.49,
           "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Seattle Mariners",
-      "slug": "mlb-cin-sea-2026-07-22",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 4,
-      "total_value": 42488.16,
-      "holders": [
-        {
-          "trader": "mounjaro",
-          "roi": 0.7718,
-          "value": 15227.0,
-          "avg_price": 0.4184,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sportbetting76",
-          "roi": 0.3578,
-          "value": 14639.35,
-          "avg_price": 0.39,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "baileysclub",
-          "roi": 0.2352,
-          "value": 10014.98,
-          "avg_price": 0.94,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 0.4732,
-          "value": 2606.83,
-          "avg_price": 0.39,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -354,9 +562,12 @@
     "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 3,
     "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves": 3,
     "mlb-bal-bos-2026-07-21::Boston Red Sox": 3,
-    "mlb-cin-sea-2026-07-22::Cincinnati Reds": 2,
-    "val-fnc1-kc3-2026-07-22::Fnatic": 1,
-    "mlb-lad-phi-2026-07-22::Philadelphia Phillies": 1
+    "mlb-cin-sea-2026-07-22::Cincinnati Reds": 3,
+    "val-fnc1-kc3-2026-07-22::Fnatic": 2,
+    "mlb-lad-phi-2026-07-22::Philadelphia Phillies": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 1
   },
-  "updated_at": "2026-07-23T01:08:08.115945+00:00"
+  "updated_at": "2026-07-23T04:32:36.505925+00:00"
 }
