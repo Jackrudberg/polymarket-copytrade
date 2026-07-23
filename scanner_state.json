@@ -1,12 +1,490 @@
 {
   "seen_ids": [
-    "lol-jdg-al-2026-07-23::Anyones Legend",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "wta-oliynyk-gormaz-2026-07-23::Oleksandra Oliynykova",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No"
+    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes",
+    "cs2-sin2-fut-2026-07-23::Sinners",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes",
+    "cs2-sin2-fut-2026-07-23::FUT Esports",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No",
+    "mlb-sd-atl-2026-07-23-spread-home-1pt5::Atlanta Braves",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "lol-blg-tt-2026-07-23::Bilibili Gaming",
+    "mlb-sd-atl-2026-07-23-total-7pt5::Over",
+    "cs2-wal2-3dmax-2026-07-23::Walczaki",
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
+    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 917033.89,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.8626,
+          "value": 581052.27,
+          "avg_price": 0.1338,
+          "cur_price": 0.2765
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.6571,
+          "value": 202612.82,
+          "avg_price": 0.127,
+          "cur_price": 0.2765
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.6128,
+          "value": 132583.58,
+          "avg_price": 0.1528,
+          "cur_price": 0.2765
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 446.23,
+          "avg_price": 0.1505,
+          "cur_price": 0.2765
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 338.99,
+          "avg_price": 0.0535,
+          "cur_price": 0.2765
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 5,
+      "total_value": 894455.5,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.8626,
+          "value": 357539.02,
+          "avg_price": 0.1406,
+          "cur_price": 0.262
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.6571,
+          "value": 327851.19,
+          "avg_price": 0.1236,
+          "cur_price": 0.2625
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.6128,
+          "value": 207056.84,
+          "avg_price": 0.1023,
+          "cur_price": 0.2625
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 1566.46,
+          "avg_price": 0.2,
+          "cur_price": 0.2625
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 441.99,
+          "avg_price": 0.1215,
+          "cur_price": 0.262
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 17950.93,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.3257,
+          "value": 13051.27,
+          "avg_price": 0.0844,
+          "cur_price": 0.1605
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 1995.82,
+          "avg_price": 0.2273,
+          "cur_price": 0.1605
+        },
+        {
+          "trader": "WARNINGWARNINGWARNING",
+          "roi": 0.2756,
+          "value": 1813.17,
+          "avg_price": 0.2355,
+          "cur_price": 0.1605
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.6952,
+          "value": 1090.67,
+          "avg_price": 0.1454,
+          "cur_price": 0.1605
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Sinners vs FUT Esports (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-sin2-fut-2026-07-23",
+      "outcome": "Sinners",
+      "num_traders": 4,
+      "total_value": 6427.44,
+      "holders": [
+        {
+          "trader": "0x4d4F13a12D943faaBc0d154fb2D546f649A9E5f3-1782312742976",
+          "roi": 0.4015,
+          "value": 4235.85,
+          "avg_price": 0.2124,
+          "cur_price": 0.045
+        },
+        {
+          "trader": "WARNINGWARNINGWARNING",
+          "roi": 0.2756,
+          "value": 999.1,
+          "avg_price": 0.22,
+          "cur_price": 0.045
+        },
+        {
+          "trader": "cruzNBA",
+          "roi": 0.385,
+          "value": 742.49,
+          "avg_price": 0.2587,
+          "cur_price": 0.045
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.6264,
+          "value": 450,
+          "avg_price": 0.23,
+          "cur_price": 0.045
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 5495.71,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 3438.07,
+          "avg_price": 0.789,
+          "cur_price": 0.7235
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 1387.73,
+          "avg_price": 0.2,
+          "cur_price": 0.7235
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.3257,
+          "value": 539.68,
+          "avg_price": 0.7112,
+          "cur_price": 0.7235
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.6128,
+          "value": 130.23,
+          "avg_price": 0.8179,
+          "cur_price": 0.7235
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Sinners vs FUT Esports (BO3) - BLAST Bounty Qualifier",
+      "slug": "cs2-sin2-fut-2026-07-23",
+      "outcome": "FUT Esports",
+      "num_traders": 3,
+      "total_value": 35157.05,
+      "holders": [
+        {
+          "trader": "skyman44",
+          "roi": 0.2166,
+          "value": 25469.84,
+          "avg_price": 0.7684,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "NewTeamSosed2",
+          "roi": 0.6264,
+          "value": 9555.97,
+          "avg_price": 0.7698,
+          "cur_price": 0.955
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1983,
+          "value": 131.24,
+          "avg_price": 0.88,
+          "cur_price": 0.955
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 26440.99,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.3257,
+          "value": 22627.34,
+          "avg_price": 0.7695,
+          "cur_price": 0.738
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 2615.47,
+          "avg_price": 0.8348,
+          "cur_price": 0.738
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 1198.18,
+          "avg_price": 0.8511,
+          "cur_price": 0.7375
+        }
+      ]
+    },
+    {
+      "market": "Spread: Atlanta Braves (-1.5)",
+      "slug": "mlb-sd-atl-2026-07-23-spread-home-1pt5",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 18757.2,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1983,
+          "value": 16593.76,
+          "avg_price": 0.542,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 1628.44,
+          "avg_price": 0.54,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "ripplecs",
+          "roi": 6.275,
+          "value": 535.0,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 16888.44,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1983,
+          "value": 14726.4,
+          "avg_price": 0.5392,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.3257,
+          "value": 1840.64,
+          "avg_price": 0.6595,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 321.4,
+          "avg_price": 0.5308,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-blg-tt-2026-07-23",
+      "outcome": "Bilibili Gaming",
+      "num_traders": 3,
+      "total_value": 14086.66,
+      "holders": [
+        {
+          "trader": "G0dTrump",
+          "roi": 0.4207,
+          "value": 13807.78,
+          "avg_price": 0.7985,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 157.92,
+          "avg_price": 0.89,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "waterx-",
+          "roi": 0.3978,
+          "value": 120.96,
+          "avg_price": 0.9231,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "San Diego Padres vs. Atlanta Braves: O/U 7.5",
+      "slug": "mlb-sd-atl-2026-07-23-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 13251.22,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1983,
+          "value": 7597.82,
+          "avg_price": 0.54,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3257,
+          "value": 5184.45,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 468.95,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Walczaki vs 3DMAX (BO3) - StarLadder StarSeries European Qualifier Group C",
+      "slug": "cs2-wal2-3dmax-2026-07-23",
+      "outcome": "Walczaki",
+      "num_traders": 3,
+      "total_value": 7055.36,
+      "holders": [
+        {
+          "trader": "ExplosiveNinja",
+          "roi": 0.4486,
+          "value": 5663.51,
+          "avg_price": 0.35,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "skyman44",
+          "roi": 0.2166,
+          "value": 1200.42,
+          "avg_price": 0.3744,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WARNINGWARNINGWARNING",
+          "roi": 0.2756,
+          "value": 191.43,
+          "avg_price": 0.3347,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 6601.76,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.3257,
+          "value": 3373.23,
+          "avg_price": 0.7846,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.6571,
+          "value": 2396.55,
+          "avg_price": 0.76,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 831.98,
+          "avg_price": 0.84,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Cleveland Cavaliers in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1062.64,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.6128,
+          "value": 631.1,
+          "avg_price": 0.2882,
+          "cur_price": 0.2555
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.9221,
+          "value": 301.49,
+          "avg_price": 0.0277,
+          "cur_price": 0.2555
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.228,
+          "value": 130.05,
+          "avg_price": 0.6032,
+          "cur_price": 0.2555
+        }
+      ]
+    },
     {
       "market": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
       "slug": "lol-jdg-al-2026-07-23",
@@ -52,80 +530,6 @@
       ]
     },
     {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 797570.05,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3099,
-          "value": 585255.18,
-          "avg_price": 0.1338,
-          "cur_price": 0.2785
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.177,
-          "value": 211523.97,
-          "avg_price": 0.127,
-          "cur_price": 0.2785
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.0929,
-          "value": 449.46,
-          "avg_price": 0.1436,
-          "cur_price": 0.2785
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2462,
-          "value": 341.44,
-          "avg_price": 0.0535,
-          "cur_price": 0.2785
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 699558.39,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3099,
-          "value": 362315.31,
-          "avg_price": 0.1406,
-          "cur_price": 0.2655
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.177,
-          "value": 335210.82,
-          "avg_price": 0.1236,
-          "cur_price": 0.2655
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.0929,
-          "value": 1584.36,
-          "avg_price": 0.2,
-          "cur_price": 0.2655
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2462,
-          "value": 447.9,
-          "avg_price": 0.1215,
-          "cur_price": 0.2655
-        }
-      ]
-    },
-    {
       "market": "Hamburg European Open: Oleksandra Oliynykova vs Leyre Romero Gormaz",
       "slug": "wta-oliynyk-gormaz-2026-07-23",
       "outcome": "Oleksandra Oliynykova",
@@ -152,36 +556,6 @@
           "value": 4278.59,
           "avg_price": 0.5799,
           "cur_price": 0.54
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 13790.99,
-      "holders": [
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.177,
-          "value": 9994.62,
-          "avg_price": 0.8165,
-          "cur_price": 0.7345
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2462,
-          "value": 2603.07,
-          "avg_price": 0.8348,
-          "cur_price": 0.7345
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.0929,
-          "value": 1193.3,
-          "avg_price": 0.8581,
-          "cur_price": 0.7345
         }
       ]
     },
@@ -274,96 +648,6 @@
           "cur_price": 0.2849
         }
       ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16888.44,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2754,
-          "value": 14726.4,
-          "avg_price": 0.5392,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.1749,
-          "value": 1840.64,
-          "avg_price": 0.6595,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.188,
-          "value": 321.4,
-          "avg_price": 0.5308,
-          "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-      "slug": "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15931.97,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.1749,
-          "value": 12922.4,
-          "avg_price": 0.0844,
-          "cur_price": 0.1565
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2606,
-          "value": 1946.08,
-          "avg_price": 0.2273,
-          "cur_price": 0.1565
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.7028,
-          "value": 1063.49,
-          "avg_price": 0.1454,
-          "cur_price": 0.1565
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 6601.76,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.1749,
-          "value": 3373.23,
-          "avg_price": 0.7846,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.4057,
-          "value": 2396.55,
-          "avg_price": 0.76,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.188,
-          "value": 831.98,
-          "avg_price": 0.84,
-          "cur_price": 0.855
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -439,7 +723,6 @@
     "wnba-conn-phx-2026-07-17::Connecticut Sun": 3,
     "mlb-det-laa-2026-07-17::Detroit Tigers": 3,
     "fifwc-fra-eng-2026-07-18-team-to-advance::England": 3,
-    "will-lebron-james-play-for-the-cleveland-cavaliers-in-2026-27::Yes": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "lol-t1-kc-2026-07-18-game2::Karmine Corp": 3,
     "lol-gen-dk-2026-07-18-game2::Dplus KIA": 3,
@@ -537,13 +820,11 @@
     "mls-lag-stl-2026-07-22-stl::Yes": 3,
     "mls-laf-rsl-2026-07-22-total-2pt5::Over": 3,
     "mls-por-dal-2026-07-22-btts::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
-    "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::Yes": 2,
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 2,
-    "cs2-aur1-fokus-2026-07-23::FOKUS": 1,
-    "val-ge1-fs1-2026-07-23::Global Esports": 1,
-    "lol-jdg-al-2026-07-23::JD Gaming": 1
+    "cs2-aur1-fokus-2026-07-23::FOKUS": 2,
+    "val-ge1-fs1-2026-07-23::Global Esports": 2,
+    "lol-jdg-al-2026-07-23::JD Gaming": 2,
+    "lol-jdg-al-2026-07-23::Anyones Legend": 1,
+    "wta-oliynyk-gormaz-2026-07-23::Oleksandra Oliynykova": 1
   },
-  "updated_at": "2026-07-23T13:09:53.657236+00:00"
+  "updated_at": "2026-07-23T15:25:26.137096+00:00"
 }
