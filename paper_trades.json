@@ -3768,7 +3768,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 42488.16,
       "traders": [
@@ -3777,7 +3777,8 @@
         "baileysclub",
         "Talvez10"
       ],
-      "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-22"
+      "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-22",
+      "consensus_lost_at": "2026-07-23T01:08:08.112175+00:00"
     },
     {
       "signal_id": "val-fnc1-kc3-2026-07-22::Fnatic",
@@ -3826,7 +3827,31 @@
         "TeamLiquid"
       ],
       "url": "https://polymarket.com/event/mlb-lad-phi-2026-07-22"
+    },
+    {
+      "signal_id": "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes",
+      "market": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "side": "Yes",
+      "alerted_at": "2026-07-23T01:08:08.112175+00:00",
+      "last_seen": "2026-07-23T01:08:08.112175+00:00",
+      "entry_price": 0.5014,
+      "current_price": 0.5014,
+      "stake": 100.0,
+      "shares": 199.441564,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1182.0,
+      "traders": [
+        "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
+        "donthackme",
+        "THEdirkdiggler"
+      ],
+      "url": "https://polymarket.com/event/will-lebron-james-play-for-the-miami-heat-in-2026-27"
     }
   ],
-  "updated_at": "2026-07-22T23:33:53.531263+00:00"
+  "updated_at": "2026-07-23T01:08:08.112175+00:00"
 }

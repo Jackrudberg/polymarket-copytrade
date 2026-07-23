@@ -2,8 +2,7 @@
   "seen_ids": [
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "val-fnc1-kc3-2026-07-22::Fnatic",
-    "mlb-lad-phi-2026-07-22::Philadelphia Phillies"
+    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes"
   ],
   "signals": [
     {
@@ -11,28 +10,28 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 638496.32,
+      "total_value": 687251.49,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.8075,
-          "value": 482283.89,
+          "roi": 1.6508,
+          "value": 511704.26,
           "avg_price": 0.1338,
-          "cur_price": 0.2295
+          "cur_price": 0.2435
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.3914,
-          "value": 155842.05,
-          "avg_price": 0.1127,
-          "cur_price": 0.2295
+          "roi": 0.3613,
+          "value": 175154.26,
+          "avg_price": 0.1201,
+          "cur_price": 0.2435
         },
         {
           "trader": "donthackme",
-          "roi": 0.172,
-          "value": 370.38,
+          "roi": 0.2319,
+          "value": 392.97,
           "avg_price": 0.1419,
-          "cur_price": 0.2295
+          "cur_price": 0.2435
         }
       ]
     },
@@ -41,28 +40,58 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 591412.34,
+      "total_value": 596486.64,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.8075,
-          "value": 313187.81,
+          "roi": 1.6508,
+          "value": 315234.79,
           "avg_price": 0.1406,
-          "cur_price": 0.2295
+          "cur_price": 0.231
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.3914,
-          "value": 276855.0,
-          "avg_price": 0.1183,
-          "cur_price": 0.2295
+          "roi": 0.3613,
+          "value": 279873.37,
+          "avg_price": 0.1188,
+          "cur_price": 0.231
         },
         {
           "trader": "donthackme",
-          "roi": 0.172,
-          "value": 1369.53,
+          "roi": 0.2319,
+          "value": 1378.48,
           "avg_price": 0.2,
-          "cur_price": 0.2295
+          "cur_price": 0.231
+        }
+      ]
+    },
+    {
+      "market": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "slug": "will-lebron-james-play-for-the-miami-heat-in-2026-27",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1182.0,
+      "holders": [
+        {
+          "trader": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
+          "roi": 0.2539,
+          "value": 728.59,
+          "avg_price": 0.0848,
+          "cur_price": 0.5014
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2319,
+          "value": 298.63,
+          "avg_price": 0.0277,
+          "cur_price": 0.5014
+        },
+        {
+          "trader": "THEdirkdiggler",
+          "roi": 0.4438,
+          "value": 154.78,
+          "avg_price": 0.488,
+          "cur_price": 0.5014
         }
       ]
     },
@@ -159,147 +188,6 @@
           "roi": 0.4732,
           "value": 2606.83,
           "avg_price": 0.39,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Team Falcons vs 100 Thieves (BO3) - BLAST Bounty Qualifier",
-      "slug": "cs2-fal2-100t-2026-07-22",
-      "outcome": "100 Thieves",
-      "num_traders": 4,
-      "total_value": 376806.82,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1603,
-          "value": 288597.47,
-          "avg_price": 0.1979,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Vetch",
-          "roi": 0.2582,
-          "value": 45730.66,
-          "avg_price": 0.1372,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "skyman44",
-          "roi": 0.2046,
-          "value": 24987.5,
-          "avg_price": 0.13,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TeamLiquid",
-          "roi": 0.3837,
-          "value": 17491.19,
-          "avg_price": 0.2357,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Pittsburgh Pirates vs. New York Yankees",
-      "slug": "mlb-pit-nyy-2026-07-22",
-      "outcome": "Pittsburgh Pirates",
-      "num_traders": 4,
-      "total_value": 361884.07,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.2201,
-          "value": 149924.97,
-          "avg_price": 0.36,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Eztennis",
-          "roi": 0.5068,
-          "value": 141648.85,
-          "avg_price": 0.3671,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "highpal",
-          "roi": 0.389,
-          "value": 66572.18,
-          "avg_price": 0.3943,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "baileysclub",
-          "roi": 0.2583,
-          "value": 3738.07,
-          "avg_price": 0.4401,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Map Handicap: FAL (-1.5) vs 100 Thieves (+1.5)",
-      "slug": "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5",
-      "outcome": "100 Thieves",
-      "num_traders": 4,
-      "total_value": 189999.84,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1603,
-          "value": 157984.21,
-          "avg_price": 0.3968,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TeamLiquid",
-          "roi": 0.3837,
-          "value": 19989.96,
-          "avg_price": 0.3949,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.2689,
-          "value": 6300.71,
-          "avg_price": 0.4,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "skyman44",
-          "roi": 0.2046,
-          "value": 5724.96,
-          "avg_price": 0.3976,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Baltimore Orioles vs. Boston Red Sox",
-      "slug": "mlb-bal-bos-2026-07-21",
-      "outcome": "Boston Red Sox",
-      "num_traders": 3,
-      "total_value": 165055.6,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.1603,
-          "value": 106746.24,
-          "avg_price": 0.5217,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.1933,
-          "value": 55110.96,
-          "avg_price": 0.5818,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "baileysclub",
-          "roi": 0.2583,
-          "value": 3198.4,
-          "avg_price": 0.92,
           "cur_price": 0.9995
         }
       ]
@@ -454,7 +342,6 @@
     "mlb-cin-sea-2026-07-21::Cincinnati Reds": 3,
     "crint-wst2-nzl7-2026-07-21::West Indies": 3,
     "lol-lgd-edg-2026-07-22::LGD Gaming": 3,
-    "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
@@ -463,11 +350,13 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
     "cs2-hotu-gl1-2026-07-22::HOTU": 3,
     "will-lebron-james-play-for-the-miami-heat-in-2026-27::No": 3,
-    "cs2-fal2-100t-2026-07-22::100 Thieves": 2,
-    "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 2,
-    "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves": 2,
-    "mlb-bal-bos-2026-07-21::Boston Red Sox": 2,
-    "mlb-cin-sea-2026-07-22::Cincinnati Reds": 1
+    "cs2-fal2-100t-2026-07-22::100 Thieves": 3,
+    "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 3,
+    "cs2-fal2-100t-2026-07-22-map-handicap-away-1pt5::100 Thieves": 3,
+    "mlb-bal-bos-2026-07-21::Boston Red Sox": 3,
+    "mlb-cin-sea-2026-07-22::Cincinnati Reds": 2,
+    "val-fnc1-kc3-2026-07-22::Fnatic": 1,
+    "mlb-lad-phi-2026-07-22::Philadelphia Phillies": 1
   },
-  "updated_at": "2026-07-22T23:33:53.535123+00:00"
+  "updated_at": "2026-07-23T01:08:08.115945+00:00"
 }
