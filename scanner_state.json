@@ -1,10 +1,16 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
     "mlb-cle-cin-2026-07-27-total-8pt5::Over",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes"
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes",
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes",
+    "will-harry-kane-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
     {
@@ -12,35 +18,72 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "Yes",
       "num_traders": 4,
-      "total_value": 753821.27,
+      "total_value": 750982.0,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 4.1417,
-          "value": 415662.26,
+          "roi": 0.6568,
+          "value": 414096.67,
           "avg_price": 0.1532,
-          "cur_price": 0.2655
+          "cur_price": 0.2645
         },
         {
           "trader": "wan123",
-          "roi": 0.1558,
-          "value": 300729.37,
+          "roi": 0.1648,
+          "value": 299596.68,
           "avg_price": 0.1352,
-          "cur_price": 0.2655
+          "cur_price": 0.2645
         },
         {
           "trader": "yungstalin",
-          "roi": 0.4676,
-          "value": 36411.36,
+          "roi": 0.5129,
+          "value": 36274.21,
           "avg_price": 0.0949,
-          "cur_price": 0.2655
+          "cur_price": 0.2645
         },
         {
           "trader": "donthackme",
-          "roi": 0.4607,
-          "value": 1018.28,
+          "roi": 0.4461,
+          "value": 1014.44,
           "avg_price": 0.2,
-          "cur_price": 0.2655
+          "cur_price": 0.2645
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on July 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 44538.64,
+      "holders": [
+        {
+          "trader": "Jdhd38483",
+          "roi": 0.4617,
+          "value": 22396.24,
+          "avg_price": 0.2252,
+          "cur_price": 0.6795
+        },
+        {
+          "trader": "Hauchn",
+          "roi": 1.5785,
+          "value": 21158.38,
+          "avg_price": 0.1826,
+          "cur_price": 0.679
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4461,
+          "value": 508.37,
+          "avg_price": 0.0344,
+          "cur_price": 0.6795
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 475.65,
+          "avg_price": 0.0344,
+          "cur_price": 0.6795
         }
       ]
     },
@@ -49,28 +92,28 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 858201.34,
+      "total_value": 854981.06,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 4.1417,
-          "value": 600279.22,
+          "roi": 0.6568,
+          "value": 598026.76,
           "avg_price": 0.1429,
-          "cur_price": 0.2665
+          "cur_price": 0.2655
         },
         {
           "trader": "wan123",
-          "roi": 0.1558,
-          "value": 203864.51,
+          "roi": 0.1648,
+          "value": 203099.54,
           "avg_price": 0.1898,
-          "cur_price": 0.2665
+          "cur_price": 0.2655
         },
         {
           "trader": "yungstalin",
-          "roi": 0.4676,
-          "value": 54057.61,
+          "roi": 0.5129,
+          "value": 53854.76,
           "avg_price": 0.1297,
-          "cur_price": 0.2665
+          "cur_price": 0.2655
         }
       ]
     },
@@ -79,25 +122,25 @@
       "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
       "outcome": "Over",
       "num_traders": 3,
-      "total_value": 129039.12,
+      "total_value": 146175.85,
       "holders": [
         {
           "trader": "pleaseplease123",
-          "roi": 0.203,
+          "roi": 0.1583,
           "value": 116831.05,
           "avg_price": 0.5336,
           "cur_price": 0.545
         },
         {
           "trader": "Talvez10",
-          "roi": 0.3872,
-          "value": 11601.72,
+          "roi": 0.1837,
+          "value": 28738.45,
           "avg_price": 0.54,
           "cur_price": 0.545
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.7667,
+          "roi": 0.5157,
           "value": 606.35,
           "avg_price": 0.52,
           "cur_price": 0.545
@@ -109,88 +152,88 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 68371.59,
+      "total_value": 71079.37,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 4.1417,
-          "value": 61861.64,
+          "roi": 0.6568,
+          "value": 64311.6,
           "avg_price": 0.3507,
-          "cur_price": 0.505
+          "cur_price": 0.525
         },
         {
           "trader": "yungstalin",
-          "roi": 0.4676,
-          "value": 4969.19,
+          "roi": 0.5129,
+          "value": 5165.99,
           "avg_price": 0.5,
-          "cur_price": 0.505
+          "cur_price": 0.525
         },
         {
           "trader": "donthackme",
-          "roi": 0.4607,
-          "value": 1540.76,
+          "roi": 0.4461,
+          "value": 1601.78,
           "avg_price": 0.2,
-          "cur_price": 0.505
+          "cur_price": 0.525
         }
       ]
     },
     {
-      "market": "Will Apple be the largest company in the world by market cap on July 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "market": "Will Apple be the largest company in the world by market cap on December 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 53552.4,
+      "total_value": 35499.93,
       "holders": [
         {
-          "trader": "Jdhd38483",
-          "roi": 0.5789,
-          "value": 30178.88,
-          "avg_price": 0.2252,
-          "cur_price": 0.7325
-        },
-        {
           "trader": "Hauchn",
-          "roi": 2.4007,
-          "value": 22825.5,
-          "avg_price": 0.1826,
-          "cur_price": 0.7325
+          "roi": 1.5785,
+          "value": 32886.2,
+          "avg_price": 0.1349,
+          "cur_price": 0.3444
         },
         {
           "trader": "donthackme",
-          "roi": 0.4607,
-          "value": 548.02,
-          "avg_price": 0.0344,
-          "cur_price": 0.7325
+          "roi": 0.4461,
+          "value": 1961.09,
+          "avg_price": 0.0357,
+          "cur_price": 0.3444
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 652.64,
+          "avg_price": 0.0357,
+          "cur_price": 0.3444
         }
       ]
     },
     {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "market": "Will Xavier Becerra win the California Governor Election in 2026?",
+      "slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 30946.68,
+      "total_value": 35180.58,
       "holders": [
         {
           "trader": "wan123",
-          "roi": 0.1929,
-          "value": 21749.97,
-          "avg_price": 0.46,
-          "cur_price": 0.435
+          "roi": 0.1648,
+          "value": 33283.3,
+          "avg_price": 0.5032,
+          "cur_price": 0.927
         },
         {
-          "trader": "RememberAmalek",
-          "roi": 0.3778,
-          "value": 8587.82,
-          "avg_price": 0.4372,
-          "cur_price": 0.435
+          "trader": "donthackme",
+          "roi": 0.4461,
+          "value": 1293.78,
+          "avg_price": 0.0222,
+          "cur_price": 0.927
         },
         {
-          "trader": "yungstalin",
-          "roi": 0.5052,
-          "value": 608.89,
-          "avg_price": 0.47,
-          "cur_price": 0.435
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 603.5,
+          "avg_price": 0.0222,
+          "cur_price": 0.927
         }
       ]
     },
@@ -199,28 +242,118 @@
       "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 20927.15,
+      "total_value": 26741.21,
       "holders": [
         {
           "trader": "yungstalin",
-          "roi": 0.5052,
-          "value": 18702.73,
+          "roi": 0.5129,
+          "value": 18669.42,
           "avg_price": 0.6973,
-          "cur_price": 0.7985
+          "cur_price": 0.7975
         },
         {
-          "trader": "RememberAmalek",
-          "roi": 0.3778,
-          "value": 1346.5,
-          "avg_price": 0.3185,
-          "cur_price": 0.7985
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 7194.97,
+          "avg_price": 0.7319,
+          "cur_price": 0.7975
         },
         {
           "trader": "wan123",
-          "roi": 0.1929,
-          "value": 877.92,
+          "roi": 0.1648,
+          "value": 876.82,
           "avg_price": 0.2938,
-          "cur_price": 0.7985
+          "cur_price": 0.7975
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7153.84,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.6568,
+          "value": 4325.12,
+          "avg_price": 0.7533,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4461,
+          "value": 1875.78,
+          "avg_price": 0,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 952.94,
+          "avg_price": 0.1,
+          "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6820.37,
+      "holders": [
+        {
+          "trader": "unbribeableref",
+          "roi": 0.9289,
+          "value": 5556.71,
+          "avg_price": 0.5175,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 878.21,
+          "avg_price": 0.0204,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4461,
+          "value": 385.45,
+          "avg_price": 0.0204,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1681.72,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1595,
+          "value": 966.89,
+          "avg_price": 0.0112,
+          "cur_price": 0.4605
+        },
+        {
+          "trader": "unbribeableref",
+          "roi": 0.9289,
+          "value": 461.5,
+          "avg_price": 0.401,
+          "cur_price": 0.4615
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4461,
+          "value": 253.33,
+          "avg_price": 0.0112,
+          "cur_price": 0.4605
         }
       ]
     }
@@ -298,7 +431,6 @@
     "wnba-conn-phx-2026-07-17::Connecticut Sun": 3,
     "mlb-det-laa-2026-07-17::Detroit Tigers": 3,
     "fifwc-fra-eng-2026-07-18-team-to-advance::England": 3,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "lol-t1-kc-2026-07-18-game2::Karmine Corp": 3,
     "lol-gen-dk-2026-07-18-game2::Dplus KIA": 3,
     "dota2-ty-pari-2026-07-18-game1::PARIVISION": 3,
@@ -430,8 +562,7 @@
     "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5::OG": 3,
     "mlb-kc-det-2026-07-23-spread-home-1pt5::Kansas City Royals": 3,
     "mlb-kc-det-2026-07-23-total-8pt5::Under": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3
   },
-  "updated_at": "2026-07-27T21:30:44.702080+00:00"
+  "updated_at": "2026-07-27T22:37:03.049775+00:00"
 }
