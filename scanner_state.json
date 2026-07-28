@@ -1,25 +1,15 @@
 {
   "seen_ids": [
     "mlb-cle-cin-2026-07-27::Cleveland Guardians",
-    "mlb-phi-mia-2026-07-28::Miami Marlins",
-    "mlb-cle-cin-2026-07-27::Cincinnati Reds",
-    "wta-eala-zhen-2026-07-27::Alexandra Eala",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
-    "atp-mannari-tien-2026-07-27::Adrian Mannarino",
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "mlb-cle-cin-2026-07-27-total-8pt5::Over",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes",
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No",
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
-    "mlb-tor-wsh-2026-07-28-total-8pt5::Over",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "wta-eala-zhen-2026-07-27::Alexandra Eala",
+    "mlb-phi-mia-2026-07-28::Miami Marlins",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes",
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes",
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No",
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes",
-    "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes"
   ],
   "signals": [
@@ -27,43 +17,96 @@
       "market": "Cleveland Guardians vs. Cincinnati Reds",
       "slug": "mlb-cle-cin-2026-07-27",
       "outcome": "Cleveland Guardians",
-      "num_traders": 5,
-      "total_value": 237735.36,
+      "num_traders": 4,
+      "total_value": 240213.59,
       "holders": [
         {
           "trader": "pleaseplease123",
-          "roi": 0.3679,
-          "value": 133440.1,
+          "roi": 1.0621,
+          "value": 183963.29,
           "avg_price": 0.4075,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1825,
-          "value": 63616.65,
-          "avg_price": 0.551,
-          "cur_price": 0.725
+          "cur_price": 0.9995
         },
         {
           "trader": "1winstreak1",
-          "roi": 0.1706,
-          "value": 17101.86,
-          "avg_price": 0.45,
-          "cur_price": 0.725
+          "roi": 0.2068,
+          "value": 23746.9,
+          "avg_price": 0.4533,
+          "cur_price": 0.9995
         },
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.7336,
-          "value": 14499.96,
+          "roi": 0.4556,
+          "value": 19989.94,
           "avg_price": 0.41,
-          "cur_price": 0.725
+          "cur_price": 0.9995
         },
         {
           "trader": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
-          "roi": 0.6154,
-          "value": 9076.79,
+          "roi": 0.4398,
+          "value": 12513.46,
           "avg_price": 0.4,
-          "cur_price": 0.725
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 121976.72,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.5684,
+          "value": 118805.72,
+          "avg_price": 0.1805,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 1823.73,
+          "avg_price": 0.5411,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2026,
+          "value": 1347.27,
+          "avg_price": 0.4913,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
+      "slug": "wta-eala-zhen-2026-07-27",
+      "outcome": "Alexandra Eala",
+      "num_traders": 3,
+      "total_value": 64881.79,
+      "holders": [
+        {
+          "trader": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
+          "roi": 0.4293,
+          "value": 34954.35,
+          "avg_price": 0.4657,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "coali10",
+          "roi": 0.8849,
+          "value": 27750.75,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.2115,
+          "value": 2176.69,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -71,36 +114,239 @@
       "market": "Philadelphia Phillies vs. Miami Marlins",
       "slug": "mlb-phi-mia-2026-07-28",
       "outcome": "Miami Marlins",
-      "num_traders": 4,
-      "total_value": 139008.74,
+      "num_traders": 3,
+      "total_value": 62373.14,
       "holders": [
         {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1825,
-          "value": 77556.75,
-          "avg_price": 0.51,
-          "cur_price": 0.545
-        },
-        {
           "trader": "Talvez10",
-          "roi": 3.9253,
+          "roi": 0.7529,
           "value": 54500.0,
           "avg_price": 0.54,
           "cur_price": 0.545
         },
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.7336,
+          "roi": 0.4556,
           "value": 3968.78,
           "avg_price": 0.5075,
           "cur_price": 0.545
         },
         {
           "trader": "fRibrenlc",
-          "roi": 0.2709,
-          "value": 2983.21,
+          "roi": 0.2115,
+          "value": 3904.36,
           "avg_price": 0.54,
           "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 41358.25,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.8849,
+          "value": 38622.5,
+          "avg_price": 0.8035,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2026,
+          "value": 2225.27,
+          "avg_price": 0.5435,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 510.48,
+          "avg_price": 0.2,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on December 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 38060.75,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.5684,
+          "value": 35432.65,
+          "avg_price": 0.1408,
+          "cur_price": 0.362
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 2032.61,
+          "avg_price": 0.0357,
+          "cur_price": 0.362
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 595.49,
+          "avg_price": 0.0357,
+          "cur_price": 0.362
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on July 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21797.54,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.5684,
+          "value": 19278.49,
+          "avg_price": 0.1902,
+          "cur_price": 0.7345
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 1920.36,
+          "avg_price": 0.5564,
+          "cur_price": 0.7345
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 598.69,
+          "avg_price": 0.0344,
+          "cur_price": 0.7345
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 19500.85,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.2026,
+          "value": 18283.28,
+          "avg_price": 0.243,
+          "cur_price": 0.4595
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 964.79,
+          "avg_price": 0.0112,
+          "cur_price": 0.4595
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 252.78,
+          "avg_price": 0.0112,
+          "cur_price": 0.4595
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8705.58,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.8849,
+          "value": 6484.21,
+          "avg_price": 0.585,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 1743.37,
+          "avg_price": 0.0666,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 478.0,
+          "avg_price": 0.0666,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1607.92,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.3333,
+          "value": 859.25,
+          "avg_price": 0.4533,
+          "cur_price": 0.2455
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 515.55,
+          "avg_price": 0.0112,
+          "cur_price": 0.2455
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 233.12,
+          "avg_price": 0.0112,
+          "cur_price": 0.2455
+        }
+      ]
+    },
+    {
+      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1520.94,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.3792,
+          "value": 895.27,
+          "avg_price": 0.0204,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2655,
+          "value": 392.94,
+          "avg_price": 0.0204,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Corlys",
+          "roi": 0.156,
+          "value": 232.73,
+          "avg_price": 0.0204,
+          "cur_price": 0.525
         }
       ]
     },
@@ -142,80 +388,6 @@
       ]
     },
     {
-      "market": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
-      "slug": "wta-eala-zhen-2026-07-27",
-      "outcome": "Alexandra Eala",
-      "num_traders": 4,
-      "total_value": 47135.45,
-      "holders": [
-        {
-          "trader": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
-          "roi": 0.3634,
-          "value": 34954.35,
-          "avg_price": 0.4657,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TRCM",
-          "roi": 0.4259,
-          "value": 6506.17,
-          "avg_price": 0.9436,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "mythos1.8",
-          "roi": 0.5789,
-          "value": 3498.24,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.2709,
-          "value": 2176.69,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on December 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 38213.17,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.5181,
-          "value": 35432.65,
-          "avg_price": 0.1408,
-          "cur_price": 0.362
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 2032.61,
-          "avg_price": 0.0357,
-          "cur_price": 0.362
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4152,
-          "value": 595.49,
-          "avg_price": 0.0357,
-          "cur_price": 0.362
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.1579,
-          "value": 152.42,
-          "avg_price": 0.0357,
-          "cur_price": 0.362
-        }
-      ]
-    },
-    {
       "market": "Mubadala Citi DC Open: Adrian Mannarino vs Learner Tien",
       "slug": "atp-mannari-tien-2026-07-27",
       "outcome": "Adrian Mannarino",
@@ -253,43 +425,6 @@
       ]
     },
     {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 15369.19,
-      "holders": [
-        {
-          "trader": "LlamaLoco0000",
-          "roi": 0.2521,
-          "value": 13754.72,
-          "avg_price": 0.305,
-          "cur_price": 0.2465
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.4187,
-          "value": 862.75,
-          "avg_price": 0.4533,
-          "cur_price": 0.2465
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4152,
-          "value": 517.65,
-          "avg_price": 0.0112,
-          "cur_price": 0.2465
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 234.07,
-          "avg_price": 0.0112,
-          "cur_price": 0.2465
-        }
-      ]
-    },
-    {
       "market": "Cleveland Guardians vs. Cincinnati Reds: O/U 8.5",
       "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
       "outcome": "Over",
@@ -316,66 +451,6 @@
           "value": 1112.01,
           "avg_price": 0.52,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 170888.01,
-      "holders": [
-        {
-          "trader": "ScottyNooo",
-          "roi": 0.1591,
-          "value": 168143.32,
-          "avg_price": 0.7928,
-          "cur_price": 0.7675
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2272,
-          "value": 2232.54,
-          "avg_price": 0.5435,
-          "cur_price": 0.7675
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 512.15,
-          "avg_price": 0.2,
-          "cur_price": 0.7675
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 125130.85,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.5181,
-          "value": 121911.75,
-          "avg_price": 0.1805,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 1836.61,
-          "avg_price": 0.5363,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2272,
-          "value": 1382.49,
-          "avg_price": 0.4913,
-          "cur_price": 0.785
         }
       ]
     },
@@ -466,66 +541,6 @@
           "value": 650.82,
           "avg_price": 0.0312,
           "cur_price": 0.2385
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on July 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 23067.4,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.5181,
-          "value": 20787.7,
-          "avg_price": 0.1902,
-          "cur_price": 0.792
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4152,
-          "value": 1634.54,
-          "avg_price": 0.513,
-          "cur_price": 0.7915
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 645.16,
-          "avg_price": 0.0344,
-          "cur_price": 0.7915
-        }
-      ]
-    },
-    {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19500.85,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.2272,
-          "value": 18283.28,
-          "avg_price": 0.243,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4152,
-          "value": 964.79,
-          "avg_price": 0.0112,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 252.78,
-          "avg_price": 0.0112,
-          "cur_price": 0.4595
         }
       ]
     },
@@ -680,36 +695,6 @@
       ]
     },
     {
-      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1520.94,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.4152,
-          "value": 895.27,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3098,
-          "value": 392.94,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Corlys",
-          "roi": 0.1694,
-          "value": 232.73,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
       "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "outcome": "No",
@@ -773,36 +758,6 @@
           "value": 105.36,
           "avg_price": 0.52,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8705.58,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.7139,
-          "value": 6484.21,
-          "avg_price": 0.585,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3327,
-          "value": 1743.37,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4496,
-          "value": 478.0,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
         }
       ]
     }
@@ -1028,9 +983,19 @@
     "lol-dnf-bro2-2026-07-28::DN SOOPers": 3,
     "mlb-cle-cin-2026-07-27-total-8pt5::Under": 3,
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 1,
-    "wta-bucsa-kuderme-2026-07-28::Polina Kudermetova": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 2,
+    "wta-bucsa-kuderme-2026-07-28::Polina Kudermetova": 2,
+    "mlb-cle-cin-2026-07-27::Cincinnati Reds": 1,
+    "atp-mannari-tien-2026-07-27::Adrian Mannarino": 1,
+    "mlb-cle-cin-2026-07-27-total-8pt5::Over": 1,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 1,
+    "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No": 1,
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 1,
+    "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1
   },
-  "updated_at": "2026-07-28T20:22:15.609343+00:00"
+  "updated_at": "2026-07-28T21:36:31.561794+00:00"
 }
