@@ -1,77 +1,311 @@
 {
   "seen_ids": [
-    "lol-dnf-bro2-2026-07-28-game-handicap-home-1pt5::DN SOOPers",
     "lol-dnf-bro2-2026-07-28-game2::DN SOOPers",
-    "wta-rouvroy-radivoj-2026-07-28::Margaux Rouvroy",
-    "lol-drx-kt-2026-07-28-game1::Kiwoom DRX",
+    "lol-dnf-bro2-2026-07-28-game-handicap-home-1pt5::DN SOOPers",
+    "mlb-tor-wsh-2026-07-28-total-8pt5::Over",
+    "lol-kcb-gal-2026-07-28::Galions",
+    "lol-dnf-bro2-2026-07-28::DN SOOPers",
+    "mlb-cle-cin-2026-07-27-total-8pt5::Under",
     "mlb-cle-cin-2026-07-27::Cincinnati Reds",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
     "mlb-atl-cws-2026-06-11::Atlanta Braves"
   ],
   "signals": [
+    {
+      "market": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
+      "slug": "lol-dnf-bro2-2026-07-28-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 70744.31,
+      "holders": [
+        {
+          "trader": "esportGG",
+          "roi": 0.1509,
+          "value": 34399.49,
+          "avg_price": 0.35,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.4965,
+          "value": 22210.87,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.4274,
+          "value": 13992.88,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1717,
+          "value": 141.07,
+          "avg_price": 0.76,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Game Handicap: BRO (-1.5) vs DN SOOPers (+1.5)",
       "slug": "lol-dnf-bro2-2026-07-28-game-handicap-home-1pt5",
       "outcome": "DN SOOPers",
       "num_traders": 4,
-      "total_value": 29116.66,
+      "total_value": 38041.97,
       "holders": [
         {
           "trader": "PASSTHEMONEY",
-          "roi": 0.4088,
-          "value": 19673.4,
+          "roi": 0.4965,
+          "value": 25704.01,
           "avg_price": 0.5229,
-          "cur_price": 0.765
+          "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.1607,
-          "value": 4727.68,
+          "roi": 0.1717,
+          "value": 6176.89,
           "avg_price": 0.53,
-          "cur_price": 0.765
+          "cur_price": 0.9995
         },
         {
           "trader": "PourpelNourpel",
-          "roi": 0.4397,
-          "value": 3568.09,
+          "roi": 0.3283,
+          "value": 4661.84,
           "avg_price": 0.54,
-          "cur_price": 0.765
+          "cur_price": 0.9995
         },
         {
           "trader": "LOBODAFL",
-          "roi": 0.5527,
-          "value": 1147.49,
+          "roi": 0.4274,
+          "value": 1499.23,
           "avg_price": 0.53,
-          "cur_price": 0.765
+          "cur_price": 0.9995
         }
       ]
     },
     {
-      "market": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
-      "slug": "lol-dnf-bro2-2026-07-28-game2",
+      "market": "Toronto Blue Jays vs. Washington Nationals: O/U 8.5",
+      "slug": "mlb-tor-wsh-2026-07-28-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 4,
+      "total_value": 31430.0,
+      "holders": [
+        {
+          "trader": "steevenseakael",
+          "roi": 0.2167,
+          "value": 19425,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 2.1378,
+          "value": 8991.02,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1943,
+          "value": 2660.64,
+          "avg_price": 0.5275,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3822,
+          "value": 353.34,
+          "avg_price": 0.53,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "LoL: Karmine Corp Blue vs Galions (BO1) - LFL Regular Season",
+      "slug": "lol-kcb-gal-2026-07-28",
+      "outcome": "Galions",
+      "num_traders": 4,
+      "total_value": 11903.01,
+      "holders": [
+        {
+          "trader": "sentrio",
+          "roi": 0.1717,
+          "value": 5313.36,
+          "avg_price": 0.74,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "steevenseakael",
+          "roi": 0.2167,
+          "value": 3675,
+          "avg_price": 0.73,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "PourpelNourpel",
+          "roi": 0.3283,
+          "value": 2483.1,
+          "avg_price": 0.74,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2278,
+          "value": 431.55,
+          "avg_price": 0.65,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
+      "slug": "lol-dnf-bro2-2026-07-28",
       "outcome": "DN SOOPers",
       "num_traders": 3,
-      "total_value": 27817.69,
+      "total_value": 35464.71,
       "holders": [
         {
           "trader": "PASSTHEMONEY",
-          "roi": 0.4088,
-          "value": 16999.81,
-          "avg_price": 0.34,
-          "cur_price": 0.765
+          "roi": 0.4965,
+          "value": 20269.43,
+          "avg_price": 0.3384,
+          "cur_price": 0.9995
         },
         {
           "trader": "LOBODAFL",
-          "roi": 0.5527,
-          "value": 10709.91,
-          "avg_price": 0.34,
-          "cur_price": 0.765
+          "roi": 0.4274,
+          "value": 15056.92,
+          "avg_price": 0.3536,
+          "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.1607,
-          "value": 107.97,
-          "avg_price": 0.76,
-          "cur_price": 0.765
+          "roi": 0.1717,
+          "value": 138.36,
+          "avg_price": 0.7512,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Cincinnati Reds: O/U 8.5",
+      "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 13154.65,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3822,
+          "value": 8971.51,
+          "avg_price": 0.45,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1717,
+          "value": 4031.5,
+          "avg_price": 0.46,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1943,
+          "value": 151.64,
+          "avg_price": 0.46,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Cincinnati Reds",
+      "slug": "mlb-cle-cin-2026-07-27",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 7854.83,
+      "holders": [
+        {
+          "trader": "BaseballBill",
+          "roi": 0.6503,
+          "value": 5749.17,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "comon119",
+          "roi": 0.1728,
+          "value": 1785,
+          "avg_price": 0.6,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1717,
+          "value": 320.66,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1621.02,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.4274,
+          "value": 866.25,
+          "avg_price": 0.4533,
+          "cur_price": 0.2475
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5805,
+          "value": 519.75,
+          "avg_price": 0.0112,
+          "cur_price": 0.2475
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2449,
+          "value": 235.02,
+          "avg_price": 0.0112,
+          "cur_price": 0.2475
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 825.34,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.5805,
+          "value": 394.67,
+          "avg_price": 0.3212,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1717,
+          "value": 281.02,
+          "avg_price": 0.5214,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3075,
+          "value": 149.65,
+          "avg_price": 0.5212,
+          "cur_price": 0.515
         }
       ]
     },
@@ -132,66 +366,6 @@
           "value": 192.59,
           "avg_price": 0.48,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cleveland Guardians vs. Cincinnati Reds",
-      "slug": "mlb-cle-cin-2026-07-27",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 7722.82,
-      "holders": [
-        {
-          "trader": "BaseballBill",
-          "roi": 0.6527,
-          "value": 5652.55,
-          "avg_price": 0.59,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "comon119",
-          "roi": 0.1647,
-          "value": 1755,
-          "avg_price": 0.6,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1607,
-          "value": 315.27,
-          "avg_price": 0.59,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 817.33,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.6819,
-          "value": 390.84,
-          "avg_price": 0.3212,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1607,
-          "value": 278.29,
-          "avg_price": 0.5214,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.3094,
-          "value": 148.2,
-          "avg_price": 0.5212,
-          "cur_price": 0.51
         }
       ]
     },
@@ -503,12 +677,13 @@
     "mlb-hou-laa-2026-07-27::Los Angeles Angels": 3,
     "mlb-bos-oak-2026-07-27-total-9pt5::Under": 3,
     "mlb-hou-laa-2026-07-27::Houston Astros": 3,
-    "mlb-cle-cin-2026-07-27-total-8pt5::Under": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "mlb-atl-cws-2026-06-11::Chicago White Sox": 3,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 1,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 1
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 2,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 2,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 2,
+    "wta-rouvroy-radivoj-2026-07-28::Margaux Rouvroy": 1,
+    "lol-drx-kt-2026-07-28-game1::Kiwoom DRX": 1
   },
-  "updated_at": "2026-07-28T12:05:17.246613+00:00"
+  "updated_at": "2026-07-28T14:31:52.438738+00:00"
 }
