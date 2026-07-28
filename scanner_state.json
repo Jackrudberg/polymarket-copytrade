@@ -1,14 +1,38 @@
 {
   "seen_ids": [
-    "mlb-hou-laa-2026-07-27::Los Angeles Angels",
-    "mlb-bos-oak-2026-07-27-total-9pt5::Under",
-    "mlb-hou-laa-2026-07-27::Houston Astros",
-    "mlb-cle-cin-2026-07-27-total-8pt5::Under",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "mlb-cle-cin-2026-07-27::Cincinnati Reds",
-    "mlb-atl-cws-2026-06-11::Chicago White Sox"
+    "mlb-atl-cws-2026-06-11::Atlanta Braves"
   ],
   "signals": [
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 825.34,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.6222,
+          "value": 394.67,
+          "avg_price": 0.3212,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2722,
+          "value": 281.02,
+          "avg_price": 0.5214,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3134,
+          "value": 149.65,
+          "avg_price": 0.5212,
+          "cur_price": 0.515
+        }
+      ]
+    },
     {
       "market": "Houston Astros vs. Los Angeles Angels",
       "slug": "mlb-hou-laa-2026-07-27",
@@ -544,96 +568,6 @@
           "cur_price": 0.4605
         }
       ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 871082.41,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.6827,
-          "value": 609289.04,
-          "avg_price": 0.1429,
-          "cur_price": 0.2705
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.1652,
-          "value": 206924.39,
-          "avg_price": 0.1898,
-          "cur_price": 0.2705
-        },
-        {
-          "trader": "yungstalin",
-          "roi": 0.5207,
-          "value": 54868.98,
-          "avg_price": 0.1297,
-          "cur_price": 0.2705
-        }
-      ]
-    },
-    {
-      "market": "Philadelphia Phillies vs. Miami Marlins",
-      "slug": "mlb-phi-mia-2026-07-27",
-      "outcome": "Miami Marlins",
-      "num_traders": 3,
-      "total_value": 30363.77,
-      "holders": [
-        {
-          "trader": "laozishudaosan",
-          "roi": 0.1602,
-          "value": 14577.42,
-          "avg_price": 0.36,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3149,
-          "value": 11411.26,
-          "avg_price": 0.4091,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.1934,
-          "value": 4375.09,
-          "avg_price": 0.4334,
-          "cur_price": 0.715
-        }
-      ]
-    },
-    {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 26741.21,
-      "holders": [
-        {
-          "trader": "yungstalin",
-          "roi": 0.5207,
-          "value": 18669.42,
-          "avg_price": 0.6973,
-          "cur_price": 0.7975
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1674,
-          "value": 7194.97,
-          "avg_price": 0.7319,
-          "cur_price": 0.7975
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.1652,
-          "value": 876.82,
-          "avg_price": 0.2938,
-          "cur_price": 0.7975
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -773,7 +707,6 @@
     "will-the-us-invade-iran-before-2027::No": 3,
     "israel-closes-its-airspace-by-july-31-287::No": 3,
     "israel-closes-its-airspace-by-august-31-389::No": 3,
-    "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
     "will-lebron-james-play-for-the-golden-state-warriors-in-2026-27::No": 3,
     "cs2-nem-ast10-2026-07-21::Astralis": 3,
     "mlb-cws-tex-2026-07-21-total-8pt5::Under": 3,
@@ -842,18 +775,25 @@
     "mlb-kc-det-2026-07-23-total-8pt5::Under": 3,
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "mlb-cle-cin-2026-07-27-total-8pt5::Over": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 2,
-    "mlb-phi-mia-2026-07-27::Miami Marlins": 2,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 1,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 1,
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 1,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 3,
+    "mlb-phi-mia-2026-07-27::Miami Marlins": 3,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 2,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 2,
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 2,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 2,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 2,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "mlb-hou-laa-2026-07-27::Los Angeles Angels": 1,
+    "mlb-bos-oak-2026-07-27-total-9pt5::Under": 1,
+    "mlb-hou-laa-2026-07-27::Houston Astros": 1,
+    "mlb-cle-cin-2026-07-27-total-8pt5::Under": 1,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
+    "mlb-cle-cin-2026-07-27::Cincinnati Reds": 1,
+    "mlb-atl-cws-2026-06-11::Chicago White Sox": 1
   },
-  "updated_at": "2026-07-28T04:26:39.727935+00:00"
+  "updated_at": "2026-07-28T07:16:16.266301+00:00"
 }
