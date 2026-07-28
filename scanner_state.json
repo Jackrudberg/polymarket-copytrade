@@ -1,16 +1,169 @@
 {
   "seen_ids": [
-    "lol-dnf-bro2-2026-07-28-game2::DN SOOPers",
-    "lol-dnf-bro2-2026-07-28-game-handicap-home-1pt5::DN SOOPers",
-    "mlb-tor-wsh-2026-07-28-total-8pt5::Over",
-    "lol-kcb-gal-2026-07-28::Galions",
-    "lol-dnf-bro2-2026-07-28::DN SOOPers",
-    "mlb-cle-cin-2026-07-27-total-8pt5::Under",
-    "mlb-cle-cin-2026-07-27::Cincinnati Reds",
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
     "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "mlb-atl-cws-2026-06-11::Atlanta Braves"
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Apple be the largest company in the world by market cap on December 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 38494.83,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.7178,
+          "value": 35628.41,
+          "avg_price": 0.1408,
+          "cur_price": 0.364
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2752,
+          "value": 2043.84,
+          "avg_price": 0.0357,
+          "cur_price": 0.364
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4594,
+          "value": 598.78,
+          "avg_price": 0.0357,
+          "cur_price": 0.364
+        },
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.2,
+          "value": 223.8,
+          "avg_price": 0.0357,
+          "cur_price": 0.364
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on July 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 23011.24,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.7178,
+          "value": 20762.01,
+          "avg_price": 0.1902,
+          "cur_price": 0.742
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4594,
+          "value": 1608.11,
+          "avg_price": 0.513,
+          "cur_price": 0.741
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2752,
+          "value": 641.12,
+          "avg_price": 0.0344,
+          "cur_price": 0.742
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2117.38,
+      "holders": [
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.2,
+          "value": 807.69,
+          "avg_price": 0.0357,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4594,
+          "value": 796.78,
+          "avg_price": 0.5,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2752,
+          "value": 512.91,
+          "avg_price": 0.0357,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1621.02,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.4251,
+          "value": 866.25,
+          "avg_price": 0.4533,
+          "cur_price": 0.2475
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4594,
+          "value": 519.75,
+          "avg_price": 0.0112,
+          "cur_price": 0.2475
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2752,
+          "value": 235.02,
+          "avg_price": 0.0112,
+          "cur_price": 0.2475
+        }
+      ]
+    },
+    {
+      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1491.96,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.4594,
+          "value": 878.21,
+          "avg_price": 0.0204,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2752,
+          "value": 385.45,
+          "avg_price": 0.0204,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Corlys",
+          "roi": 0.215,
+          "value": 228.3,
+          "avg_price": 0.0204,
+          "cur_price": 0.515
+        }
+      ]
+    },
     {
       "market": "LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner",
       "slug": "lol-dnf-bro2-2026-07-28-game2",
@@ -250,36 +403,6 @@
       ]
     },
     {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1621.02,
-      "holders": [
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.4274,
-          "value": 866.25,
-          "avg_price": 0.4533,
-          "cur_price": 0.2475
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5805,
-          "value": 519.75,
-          "avg_price": 0.0112,
-          "cur_price": 0.2475
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2449,
-          "value": 235.02,
-          "avg_price": 0.0112,
-          "cur_price": 0.2475
-        }
-      ]
-    },
-    {
       "market": "Atlanta Braves vs. Chicago White Sox",
       "slug": "mlb-atl-cws-2026-06-11",
       "outcome": "Atlanta Braves",
@@ -366,96 +489,6 @@
           "value": 192.59,
           "avg_price": 0.48,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on December 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3380.18,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3773,
-          "value": 2012.48,
-          "avg_price": 0.0357,
-          "cur_price": 0.3535
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.3189,
-          "value": 764.98,
-          "avg_price": 0.0357,
-          "cur_price": 0.3535
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6397,
-          "value": 602.72,
-          "avg_price": 0.0357,
-          "cur_price": 0.3535
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2376.6,
-      "holders": [
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.3189,
-          "value": 1010.21,
-          "avg_price": 0.0357,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6397,
-          "value": 842.91,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3773,
-          "value": 523.48,
-          "avg_price": 0.0357,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1506.45,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.6397,
-          "value": 886.74,
-          "avg_price": 0.0204,
-          "cur_price": 0.52
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3773,
-          "value": 389.19,
-          "avg_price": 0.0204,
-          "cur_price": 0.52
-        },
-        {
-          "trader": "Corlys",
-          "roi": 0.1779,
-          "value": 230.52,
-          "avg_price": 0.0204,
-          "cur_price": 0.52
         }
       ]
     }
@@ -668,7 +701,6 @@
     "mlb-phi-mia-2026-07-27::Miami Marlins": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
@@ -679,11 +711,16 @@
     "mlb-hou-laa-2026-07-27::Houston Astros": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "mlb-atl-cws-2026-06-11::Chicago White Sox": 3,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 2,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 2,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 2,
-    "wta-rouvroy-radivoj-2026-07-28::Margaux Rouvroy": 1,
-    "lol-drx-kt-2026-07-28-game1::Kiwoom DRX": 1
+    "wta-rouvroy-radivoj-2026-07-28::Margaux Rouvroy": 2,
+    "lol-drx-kt-2026-07-28-game1::Kiwoom DRX": 2,
+    "lol-dnf-bro2-2026-07-28-game2::DN SOOPers": 1,
+    "lol-dnf-bro2-2026-07-28-game-handicap-home-1pt5::DN SOOPers": 1,
+    "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 1,
+    "lol-kcb-gal-2026-07-28::Galions": 1,
+    "lol-dnf-bro2-2026-07-28::DN SOOPers": 1,
+    "mlb-cle-cin-2026-07-27-total-8pt5::Under": 1,
+    "mlb-cle-cin-2026-07-27::Cincinnati Reds": 1,
+    "mlb-atl-cws-2026-06-11::Atlanta Braves": 1
   },
-  "updated_at": "2026-07-28T14:31:52.438738+00:00"
+  "updated_at": "2026-07-28T16:20:48.179373+00:00"
 }
