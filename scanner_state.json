@@ -1,16 +1,14 @@
 {
   "seen_ids": [
     "mlb-cle-cin-2026-07-27::Cleveland Guardians",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No",
-    "wta-eala-zhen-2026-07-27::Alexandra Eala",
+    "cs2-lag-mars-2026-07-28::LAG Gaming",
     "mlb-phi-mia-2026-07-28::Miami Marlins",
+    "mlb-tor-wsh-2026-07-28-total-8pt5::Over",
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes"
+    "mlb-phi-mia-2026-07-28-total-8pt5::Over",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
     {
@@ -22,7 +20,7 @@
       "holders": [
         {
           "trader": "pleaseplease123",
-          "roi": 1.0621,
+          "roi": 0.6001,
           "value": 183963.29,
           "avg_price": 0.4075,
           "cur_price": 0.9995
@@ -36,17 +34,264 @@
         },
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.4556,
+          "roi": 0.43,
           "value": 19989.94,
           "avg_price": 0.41,
           "cur_price": 0.9995
         },
         {
           "trader": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
-          "roi": 0.4398,
+          "roi": 0.3049,
           "value": 12513.46,
           "avg_price": 0.4,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: LAG Gaming vs Marsborne (BO3) - StarLadder StarSeries North American Qualifier Playoffs",
+      "slug": "cs2-lag-mars-2026-07-28",
+      "outcome": "LAG Gaming",
+      "num_traders": 4,
+      "total_value": 9042.34,
+      "holders": [
+        {
+          "trader": "skyman44",
+          "roi": 0.166,
+          "value": 4749.99,
+          "avg_price": 0.3399,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AtlanticTrading",
+          "roi": 0.2344,
+          "value": 2375.0,
+          "avg_price": 0.32,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2006,
+          "value": 1103.76,
+          "avg_price": 0.3197,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.2615,
+          "value": 813.59,
+          "avg_price": 0.32,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Miami Marlins",
+      "slug": "mlb-phi-mia-2026-07-28",
+      "outcome": "Miami Marlins",
+      "num_traders": 3,
+      "total_value": 66472.73,
+      "holders": [
+        {
+          "trader": "Talvez10",
+          "roi": 0.6686,
+          "value": 55500.0,
+          "avg_price": 0.54,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.1849,
+          "value": 6931.13,
+          "avg_price": 0.54,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.43,
+          "value": 4041.6,
+          "avg_price": 0.5075,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Toronto Blue Jays vs. Washington Nationals: O/U 8.5",
+      "slug": "mlb-tor-wsh-2026-07-28-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 41234.13,
+      "holders": [
+        {
+          "trader": "Talvez10",
+          "roi": 0.6686,
+          "value": 27250,
+          "avg_price": 0.53,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.43,
+          "value": 13317.9,
+          "avg_price": 0.5231,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "BaseballBill",
+          "roi": 0.5114,
+          "value": 666.23,
+          "avg_price": 0.54,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 40679.91,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.3439,
+          "value": 37986.37,
+          "avg_price": 0.8035,
+          "cur_price": 0.7524
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2006,
+          "value": 2188.61,
+          "avg_price": 0.5435,
+          "cur_price": 0.7524
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2281,
+          "value": 504.93,
+          "avg_price": 0.2,
+          "cur_price": 0.7524
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 19458.42,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.2006,
+          "value": 18243.49,
+          "avg_price": 0.243,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.316,
+          "value": 962.7,
+          "avg_price": 0.0112,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2281,
+          "value": 252.23,
+          "avg_price": 0.0112,
+          "cur_price": 0.4585
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8705.58,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.3439,
+          "value": 6484.21,
+          "avg_price": 0.585,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2281,
+          "value": 1743.37,
+          "avg_price": 0.0666,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.316,
+          "value": 478.0,
+          "avg_price": 0.0666,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Miami Marlins: O/U 8.5",
+      "slug": "mlb-phi-mia-2026-07-28-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 7139.46,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.43,
+          "value": 4650.0,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "BaseballBill",
+          "roi": 0.5114,
+          "value": 2275.0,
+          "avg_price": 0.46,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+          "roi": 0.3049,
+          "value": 214.46,
+          "avg_price": 0.45,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1607.92,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.3868,
+          "value": 859.25,
+          "avg_price": 0.4533,
+          "cur_price": 0.2455
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.316,
+          "value": 515.55,
+          "avg_price": 0.0112,
+          "cur_price": 0.2455
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2281,
+          "value": 233.12,
+          "avg_price": 0.0112,
+          "cur_price": 0.2455
         }
       ]
     },
@@ -111,66 +356,6 @@
       ]
     },
     {
-      "market": "Philadelphia Phillies vs. Miami Marlins",
-      "slug": "mlb-phi-mia-2026-07-28",
-      "outcome": "Miami Marlins",
-      "num_traders": 3,
-      "total_value": 62373.14,
-      "holders": [
-        {
-          "trader": "Talvez10",
-          "roi": 0.7529,
-          "value": 54500.0,
-          "avg_price": 0.54,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.4556,
-          "value": 3968.78,
-          "avg_price": 0.5075,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.2115,
-          "value": 3904.36,
-          "avg_price": 0.54,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 41358.25,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.8849,
-          "value": 38622.5,
-          "avg_price": 0.8035,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2026,
-          "value": 2225.27,
-          "avg_price": 0.5435,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2655,
-          "value": 510.48,
-          "avg_price": 0.2,
-          "cur_price": 0.765
-        }
-      ]
-    },
-    {
       "market": "Will Apple be the largest company in the world by market cap on December 31?",
       "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
       "outcome": "Yes",
@@ -227,96 +412,6 @@
           "value": 598.69,
           "avg_price": 0.0344,
           "cur_price": 0.7345
-        }
-      ]
-    },
-    {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19500.85,
-      "holders": [
-        {
-          "trader": "cigarettes",
-          "roi": 0.2026,
-          "value": 18283.28,
-          "avg_price": 0.243,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3792,
-          "value": 964.79,
-          "avg_price": 0.0112,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2655,
-          "value": 252.78,
-          "avg_price": 0.0112,
-          "cur_price": 0.4595
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8705.58,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.8849,
-          "value": 6484.21,
-          "avg_price": 0.585,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2655,
-          "value": 1743.37,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3792,
-          "value": 478.0,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1607.92,
-      "holders": [
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.3333,
-          "value": 859.25,
-          "avg_price": 0.4533,
-          "cur_price": 0.2455
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3792,
-          "value": 515.55,
-          "avg_price": 0.0112,
-          "cur_price": 0.2455
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2655,
-          "value": 233.12,
-          "avg_price": 0.0112,
-          "cur_price": 0.2455
         }
       ]
     },
@@ -481,36 +576,6 @@
           "value": 841.71,
           "avg_price": 0.84,
           "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Toronto Blue Jays vs. Washington Nationals: O/U 8.5",
-      "slug": "mlb-tor-wsh-2026-07-28-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 38219.36,
-      "holders": [
-        {
-          "trader": "Talvez10",
-          "roi": 3.9253,
-          "value": 26250,
-          "avg_price": 0.53,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.7336,
-          "value": 11616.02,
-          "avg_price": 0.5222,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1825,
-          "value": 353.34,
-          "avg_price": 0.53,
-          "cur_price": 0.525
         }
       ]
     },
@@ -691,73 +756,6 @@
           "value": 512.91,
           "avg_price": 0.0357,
           "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 570065.39,
-      "holders": [
-        {
-          "trader": "YungFelon",
-          "roi": 0.191,
-          "value": 409141.84,
-          "avg_price": 0.7522,
-          "cur_price": 0.7775
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.7139,
-          "value": 157472.75,
-          "avg_price": 0.7336,
-          "cur_price": 0.7775
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2374,
-          "value": 2178.82,
-          "avg_price": 0.748,
-          "cur_price": 0.7775
-        },
-        {
-          "trader": "ScottyNooo",
-          "roi": 0.1927,
-          "value": 1271.98,
-          "avg_price": 0.7532,
-          "cur_price": 0.7775
-        }
-      ]
-    },
-    {
-      "market": "Mubadala Citi DC Open: Cristina Bucsa vs Polina Kudermetova",
-      "slug": "wta-bucsa-kuderme-2026-07-28",
-      "outcome": "Polina Kudermetova",
-      "num_traders": 3,
-      "total_value": 63974.58,
-      "holders": [
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.2185,
-          "value": 41978.91,
-          "avg_price": 0.4354,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.3315,
-          "value": 21890.31,
-          "avg_price": 0.3691,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.7523,
-          "value": 105.36,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -983,19 +981,23 @@
     "lol-dnf-bro2-2026-07-28::DN SOOPers": 3,
     "mlb-cle-cin-2026-07-27-total-8pt5::Under": 3,
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 2,
-    "wta-bucsa-kuderme-2026-07-28::Polina Kudermetova": 2,
-    "mlb-cle-cin-2026-07-27::Cincinnati Reds": 1,
-    "atp-mannari-tien-2026-07-27::Adrian Mannarino": 1,
-    "mlb-cle-cin-2026-07-27-total-8pt5::Over": 1,
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 1,
-    "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No": 1,
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 1,
-    "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 1,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No": 3,
+    "wta-bucsa-kuderme-2026-07-28::Polina Kudermetova": 3,
+    "mlb-cle-cin-2026-07-27::Cincinnati Reds": 2,
+    "atp-mannari-tien-2026-07-27::Adrian Mannarino": 2,
+    "mlb-cle-cin-2026-07-27-total-8pt5::Over": 2,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No": 2,
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 2,
+    "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 2,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 2,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 1,
+    "wta-eala-zhen-2026-07-27::Alexandra Eala": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 1,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 1
   },
-  "updated_at": "2026-07-28T21:36:31.561794+00:00"
+  "updated_at": "2026-07-28T22:41:16.290119+00:00"
 }
