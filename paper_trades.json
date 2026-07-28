@@ -352,7 +352,7 @@
       "current_value": 101.85,
       "paper_pnl": 1.85,
       "return_percent": 1.85,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 47976.42,
       "traders": [
@@ -361,7 +361,7 @@
         "pako"
       ],
       "url": "https://polymarket.com/event/will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "consensus_lost_at": "2026-07-27T21:30:44.697232+00:00"
+      "consensus_lost_at": "2026-07-28T04:26:39.722697+00:00"
     },
     {
       "signal_id": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
@@ -4094,7 +4094,7 @@
       "current_value": 110.18,
       "paper_pnl": 10.18,
       "return_percent": 10.18,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 177310.96,
       "traders": [
@@ -4103,7 +4103,7 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "consensus_lost_at": "2026-07-23T20:52:27.907278+00:00"
+      "consensus_lost_at": "2026-07-28T04:26:39.722697+00:00"
     },
     {
       "signal_id": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::No",
@@ -5144,7 +5144,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 30363.77,
       "traders": [
@@ -5152,7 +5152,8 @@
         "wr0ngw4yb3tt0r",
         "1winstreak1"
       ],
-      "url": "https://polymarket.com/event/mlb-phi-mia-2026-07-27"
+      "url": "https://polymarket.com/event/mlb-phi-mia-2026-07-27",
+      "consensus_lost_at": "2026-07-28T04:26:39.722697+00:00"
     },
     {
       "signal_id": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes",
@@ -5177,7 +5178,181 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599"
+    },
+    {
+      "signal_id": "mlb-hou-laa-2026-07-27::Los Angeles Angels",
+      "market": "Houston Astros vs. Los Angeles Angels",
+      "slug": "mlb-hou-laa-2026-07-27",
+      "side": "Los Angeles Angels",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.854746,
+      "current_price": 0.854746,
+      "stake": 100.0,
+      "shares": 116.993844,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 30359.72,
+      "traders": [
+        "BirdMan.",
+        "monkeymashingkeyboard",
+        "wr0ngw4yb3tt0r",
+        "uptime0724",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-hou-laa-2026-07-27"
+    },
+    {
+      "signal_id": "mlb-bos-oak-2026-07-27-total-9pt5::Under",
+      "market": "Boston Red Sox vs. Athletics: O/U 9.5",
+      "slug": "mlb-bos-oak-2026-07-27-total-9pt5",
+      "side": "Under",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 163999.04,
+      "traders": [
+        "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+        "monkeymashingkeyboard",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "uptime0724",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-bos-oak-2026-07-27-total-9pt5"
+    },
+    {
+      "signal_id": "mlb-hou-laa-2026-07-27::Houston Astros",
+      "market": "Houston Astros vs. Los Angeles Angels",
+      "slug": "mlb-hou-laa-2026-07-27",
+      "side": "Houston Astros",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.146065,
+      "current_price": 0.146065,
+      "stake": 100.0,
+      "shares": 684.626404,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 2241.46,
+      "traders": [
+        "BaseballBill",
+        "wr0ngw4yb3tt0r",
+        "uptime0724",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-hou-laa-2026-07-27"
+    },
+    {
+      "signal_id": "mlb-cle-cin-2026-07-27-total-8pt5::Under",
+      "market": "Cleveland Guardians vs. Cincinnati Reds: O/U 8.5",
+      "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
+      "side": "Under",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.405,
+      "current_price": 0.405,
+      "stake": 100.0,
+      "shares": 246.91358,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 13764.9,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "sentrio",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
+      ],
+      "url": "https://polymarket.com/event/mlb-cle-cin-2026-07-27-total-8pt5"
+    },
+    {
+      "signal_id": "mlb-bos-nyy-2026-06-06::New York Yankees",
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "side": "New York Yankees",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.48,
+      "current_price": 0.48,
+      "stake": 100.0,
+      "shares": 208.333333,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10601.21,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-bos-nyy-2026-06-06"
+    },
+    {
+      "signal_id": "mlb-cle-cin-2026-07-27::Cincinnati Reds",
+      "market": "Cleveland Guardians vs. Cincinnati Reds",
+      "slug": "mlb-cle-cin-2026-07-27",
+      "side": "Cincinnati Reds",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.595,
+      "current_price": 0.595,
+      "stake": 100.0,
+      "shares": 168.067227,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6260.78,
+      "traders": [
+        "BaseballBill",
+        "sentrio",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
+      ],
+      "url": "https://polymarket.com/event/mlb-cle-cin-2026-07-27"
+    },
+    {
+      "signal_id": "mlb-atl-cws-2026-06-11::Chicago White Sox",
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "side": "Chicago White Sox",
+      "alerted_at": "2026-07-28T04:26:39.722697+00:00",
+      "last_seen": "2026-07-28T04:26:39.722697+00:00",
+      "entry_price": 0.49,
+      "current_price": 0.49,
+      "stake": 100.0,
+      "shares": 204.081633,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 3577.9,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "sbsigner"
+      ],
+      "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11"
     }
   ],
-  "updated_at": "2026-07-28T01:07:19.352348+00:00"
+  "updated_at": "2026-07-28T04:26:39.722697+00:00"
 }

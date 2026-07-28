@@ -1,16 +1,266 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes",
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes",
-    "will-harry-kane-win-the-2026-ballon-dor::Yes"
+    "mlb-hou-laa-2026-07-27::Los Angeles Angels",
+    "mlb-bos-oak-2026-07-27-total-9pt5::Under",
+    "mlb-hou-laa-2026-07-27::Houston Astros",
+    "mlb-cle-cin-2026-07-27-total-8pt5::Under",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "mlb-cle-cin-2026-07-27::Cincinnati Reds",
+    "mlb-atl-cws-2026-06-11::Chicago White Sox"
   ],
   "signals": [
+    {
+      "market": "Houston Astros vs. Los Angeles Angels",
+      "slug": "mlb-hou-laa-2026-07-27",
+      "outcome": "Los Angeles Angels",
+      "num_traders": 6,
+      "total_value": 30359.72,
+      "holders": [
+        {
+          "trader": "BirdMan.",
+          "roi": 0.5054,
+          "value": 11100.54,
+          "avg_price": 0.5704,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 3.0196,
+          "value": 9050.3,
+          "avg_price": 0.4894,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6752,
+          "value": 8624.97,
+          "avg_price": 0.8318,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.2202,
+          "value": 812.25,
+          "avg_price": 0.9,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 584.71,
+          "avg_price": 0.4999,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 186.95,
+          "avg_price": 0.8522,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. Athletics: O/U 9.5",
+      "slug": "mlb-bos-oak-2026-07-27-total-9pt5",
+      "outcome": "Under",
+      "num_traders": 5,
+      "total_value": 163999.04,
+      "holders": [
+        {
+          "trader": "0x1b20a00709DfE648AFd26b326394b5e031f83ab0-1785189457930",
+          "roi": 0.5048,
+          "value": 124283.68,
+          "avg_price": 0.4968,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 3.0196,
+          "value": 34982.46,
+          "avg_price": 0.4928,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 3278.36,
+          "avg_price": 0.4947,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.2202,
+          "value": 999.5,
+          "avg_price": 0.605,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 455.04,
+          "avg_price": 0.4994,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Houston Astros vs. Los Angeles Angels",
+      "slug": "mlb-hou-laa-2026-07-27",
+      "outcome": "Houston Astros",
+      "num_traders": 4,
+      "total_value": 2241.46,
+      "holders": [
+        {
+          "trader": "BaseballBill",
+          "roi": 0.3386,
+          "value": 1450,
+          "avg_price": 0.5,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6752,
+          "value": 285.81,
+          "avg_price": 0.297,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "uptime0724",
+          "roi": 0.2202,
+          "value": 266.92,
+          "avg_price": 0.05,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 238.73,
+          "avg_price": 0.1813,
+          "cur_price": 0.155
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Cincinnati Reds: O/U 8.5",
+      "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 13764.9,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6752,
+          "value": 8352.79,
+          "avg_price": 0.45,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 3753.47,
+          "avg_price": 0.46,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 1658.64,
+          "avg_price": 0.463,
+          "cur_price": 0.405
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 10601.21,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6752,
+          "value": 8668.06,
+          "avg_price": 0.5,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 1515.18,
+          "avg_price": 0.5219,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 417.97,
+          "avg_price": 0.514,
+          "cur_price": 0.48
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Cincinnati Reds",
+      "slug": "mlb-cle-cin-2026-07-27",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 6260.78,
+      "holders": [
+        {
+          "trader": "BaseballBill",
+          "roi": 0.3386,
+          "value": 5749.17,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.4216,
+          "value": 320.66,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 190.95,
+          "avg_price": 0.5869,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 3577.9,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6752,
+          "value": 2416.85,
+          "avg_price": 0.4732,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.3214,
+          "value": 832.17,
+          "avg_price": 0.481,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3133,
+          "value": 328.88,
+          "avg_price": 0.5062,
+          "cur_price": 0.49
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
@@ -384,36 +634,6 @@
           "cur_price": 0.7975
         }
       ]
-    },
-    {
-      "market": "Cleveland Guardians vs. Cincinnati Reds: O/U 8.5",
-      "slug": "mlb-cle-cin-2026-07-27-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 146175.85,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1583,
-          "value": 116831.05,
-          "avg_price": 0.5336,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 0.1837,
-          "value": 28738.45,
-          "avg_price": 0.54,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.5157,
-          "value": 606.35,
-          "avg_price": 0.52,
-          "cur_price": 0.545
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -621,10 +841,19 @@
     "mlb-kc-det-2026-07-23-spread-home-1pt5::Kansas City Royals": 3,
     "mlb-kc-det-2026-07-23-total-8pt5::Under": 3,
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
-    "mlb-cle-cin-2026-07-27-total-8pt5::Over": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 1,
-    "mlb-phi-mia-2026-07-27::Miami Marlins": 1,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1
+    "mlb-cle-cin-2026-07-27-total-8pt5::Over": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 2,
+    "mlb-phi-mia-2026-07-27::Miami Marlins": 2,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 1,
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 1,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1
   },
-  "updated_at": "2026-07-28T01:07:19.360097+00:00"
+  "updated_at": "2026-07-28T04:26:39.727935+00:00"
 }
