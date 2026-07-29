@@ -1,20 +1,5 @@
 {
-  "seen_ids": [
-    "mlb-cle-cin-2026-07-27::Cleveland Guardians",
-    "mlb-phi-mia-2026-07-28::Miami Marlins",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No",
-    "mlb-tor-wsh-2026-07-28-total-8pt5::Over",
-    "mlb-bal-det-2026-07-28::Detroit Tigers",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
-    "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
-    "mlb-phi-mia-2026-07-28-total-8pt5::Over",
-    "will-rodri-win-the-2026-ballon-dor::Yes",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
-    "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Cleveland Guardians vs. Cincinnati Reds",
@@ -560,66 +545,6 @@
           "cur_price": 0.625
         }
       ]
-    },
-    {
-      "market": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
-      "slug": "wta-eala-zhen-2026-07-27",
-      "outcome": "Alexandra Eala",
-      "num_traders": 3,
-      "total_value": 64881.79,
-      "holders": [
-        {
-          "trader": "0x27c5C1EEE404a07F39FE70078AFf815E5a656D61-1763107503028",
-          "roi": 0.4293,
-          "value": 34954.35,
-          "avg_price": 0.4657,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.8849,
-          "value": 27750.75,
-          "avg_price": 0.41,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.2115,
-          "value": 2176.69,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1520.94,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.3792,
-          "value": 895.27,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2655,
-          "value": 392.94,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Corlys",
-          "roi": 0.156,
-          "value": 232.73,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -853,11 +778,25 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No": 3,
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
     "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 3,
-    "wta-eala-zhen-2026-07-27::Alexandra Eala": 2,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 2,
-    "cs2-lag-mars-2026-07-28::LAG Gaming": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "wta-eala-zhen-2026-07-27::Alexandra Eala": 3,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
+    "cs2-lag-mars-2026-07-28::LAG Gaming": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 2,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
+    "mlb-cle-cin-2026-07-27::Cleveland Guardians": 1,
+    "mlb-phi-mia-2026-07-28::Miami Marlins": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 1,
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 1,
+    "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 1,
+    "mlb-bal-det-2026-07-28::Detroit Tigers": 1,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 1,
+    "mlb-phi-mia-2026-07-28-total-8pt5::Over": 1,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1,
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 1
   },
-  "updated_at": "2026-07-28T23:42:26.079861+00:00"
+  "updated_at": "2026-07-29T01:10:51.831472+00:00"
 }
