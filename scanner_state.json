@@ -1,15 +1,431 @@
 {
   "seen_ids": [
-    "lol-t1-kt-2026-07-29::KT Rolster",
-    "lol-tes-al-2026-07-29::Anyones Legend",
-    "lol-t1-kt-2026-07-29-game1::KT Rolster",
-    "lol-t1-kt-2026-07-29-game2::KT Rolster",
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No",
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes",
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes",
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes",
+    "will-rodri-win-the-2026-ballon-dor::Yes",
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 1123984.87,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.1529,
+          "value": 679323.57,
+          "avg_price": 0.1521,
+          "cur_price": 0.2775
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.2073,
+          "value": 230073.29,
+          "avg_price": 0.1936,
+          "cur_price": 0.2775
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.4695,
+          "value": 128666.16,
+          "avg_price": 0.1407,
+          "cur_price": 0.2775
+        },
+        {
+          "trader": "pada",
+          "roi": 0.8611,
+          "value": 85921.85,
+          "avg_price": 0.2193,
+          "cur_price": 0.2775
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 1103438.37,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.1529,
+          "value": 513248.27,
+          "avg_price": 0.1689,
+          "cur_price": 0.2695
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.2073,
+          "value": 334308.39,
+          "avg_price": 0.1465,
+          "cur_price": 0.2695
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.4695,
+          "value": 254908.77,
+          "avg_price": 0.1296,
+          "cur_price": 0.2695
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 972.94,
+          "avg_price": 0.2,
+          "cur_price": 0.2695
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 12249.93,
+      "holders": [
+        {
+          "trader": "DLEK",
+          "roi": 0.4961,
+          "value": 10569.21,
+          "avg_price": 0.455,
+          "cur_price": 0.4605
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 966.89,
+          "avg_price": 0.0112,
+          "cur_price": 0.4605
+        },
+        {
+          "trader": "unbribeableref",
+          "roi": 0.4092,
+          "value": 460.5,
+          "avg_price": 0.401,
+          "cur_price": 0.4605
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 253.33,
+          "avg_price": 0.0112,
+          "cur_price": 0.4605
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 168253.33,
+      "holders": [
+        {
+          "trader": "pada",
+          "roi": 0.8611,
+          "value": 102806.64,
+          "avg_price": 0.1132,
+          "cur_price": 0.9
+        },
+        {
+          "trader": "Hauchn",
+          "roi": 0.616,
+          "value": 63360.15,
+          "avg_price": 0.1806,
+          "cur_price": 0.9
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 2086.54,
+          "avg_price": 0.6752,
+          "cur_price": 0.9
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on July 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 80495.12,
+      "holders": [
+        {
+          "trader": "pada",
+          "roi": 0.8611,
+          "value": 74834.29,
+          "avg_price": 0.0453,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 5114.28,
+          "avg_price": 0.7866,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 546.55,
+          "avg_price": 0.0344,
+          "cur_price": 0.895
+        }
+      ]
+    },
+    {
+      "market": "Will Apple be the largest company in the world by market cap on December 31?",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 35918.91,
+      "holders": [
+        {
+          "trader": "Hauchn",
+          "roi": 0.616,
+          "value": 33446.9,
+          "avg_price": 0.1415,
+          "cur_price": 0.3405
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 1911.88,
+          "avg_price": 0.0357,
+          "cur_price": 0.3405
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 560.13,
+          "avg_price": 0.0357,
+          "cur_price": 0.3405
+        }
+      ]
+    },
+    {
+      "market": "Will Xavier Becerra win the California Governor Election in 2026?",
+      "slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 35275.46,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.2073,
+          "value": 33373.06,
+          "avg_price": 0.5032,
+          "cur_price": 0.9295
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 1297.27,
+          "avg_price": 0.0222,
+          "cur_price": 0.9295
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 605.13,
+          "avg_price": 0.0222,
+          "cur_price": 0.9295
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8478.21,
+      "holders": [
+        {
+          "trader": "ofgoodfgdohojdf",
+          "roi": 0.4281,
+          "value": 7732.59,
+          "avg_price": 0.0112,
+          "cur_price": 0.2445
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 513.45,
+          "avg_price": 0.0112,
+          "cur_price": 0.2445
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 232.17,
+          "avg_price": 0.0112,
+          "cur_price": 0.2445
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7071.12,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.1529,
+          "value": 4275.11,
+          "avg_price": 0.7533,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 1854.09,
+          "avg_price": 0,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 941.92,
+          "avg_price": 0.1,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6952.82,
+      "holders": [
+        {
+          "trader": "unbribeableref",
+          "roi": 0.4092,
+          "value": 5664.61,
+          "avg_price": 0.5175,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 895.27,
+          "avg_price": 0.0204,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 392.94,
+          "avg_price": 0.0204,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6917.02,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.2073,
+          "value": 4214.31,
+          "avg_price": 0.0065,
+          "cur_price": 0.0045
+        },
+        {
+          "trader": "pada",
+          "roi": 0.8611,
+          "value": 2250,
+          "avg_price": 0.004,
+          "cur_price": 0.0045
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.4695,
+          "value": 452.71,
+          "avg_price": 0.0073,
+          "cur_price": 0.0045
+        }
+      ]
+    },
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6264.97,
+      "holders": [
+        {
+          "trader": "ofgoodfgdohojdf",
+          "roi": 0.4281,
+          "value": 5472.45,
+          "avg_price": 0.0445,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 561.93,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 230.59,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1792.69,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.2187,
+          "value": 796.78,
+          "avg_price": 0.5,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2747,
+          "value": 512.91,
+          "avg_price": 0.0357,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Bigggggggg",
+          "roi": 0.3055,
+          "value": 483.0,
+          "avg_price": 0.0357,
+          "cur_price": 0.485
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-t1-kt-2026-07-29",
@@ -208,126 +624,6 @@
       ]
     },
     {
-      "market": "Will Apple be the largest company in the world by market cap on December 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 35918.91,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.6561,
-          "value": 33446.9,
-          "avg_price": 0.1415,
-          "cur_price": 0.3405
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2645,
-          "value": 1911.88,
-          "avg_price": 0.0357,
-          "cur_price": 0.3405
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2139,
-          "value": 560.13,
-          "avg_price": 0.0357,
-          "cur_price": 0.3405
-        }
-      ]
-    },
-    {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10143.84,
-      "holders": [
-        {
-          "trader": "DLEK",
-          "roi": 0.5166,
-          "value": 8928.91,
-          "avg_price": 0.4542,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2139,
-          "value": 962.7,
-          "avg_price": 0.0112,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2645,
-          "value": 252.23,
-          "avg_price": 0.0112,
-          "cur_price": 0.4585
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on July 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7074.82,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.6561,
-          "value": 3444.04,
-          "avg_price": 0.0344,
-          "cur_price": 0.891
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2139,
-          "value": 3086.67,
-          "avg_price": 0.7342,
-          "cur_price": 0.891
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2645,
-          "value": 544.11,
-          "avg_price": 0.0344,
-          "cur_price": 0.891
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1792.69,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.2139,
-          "value": 796.78,
-          "avg_price": 0.5,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2645,
-          "value": 512.91,
-          "avg_price": 0.0357,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.312,
-          "value": 483.0,
-          "avg_price": 0.0357,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
       "market": "LoL: Kiwoom DRX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
       "slug": "lol-drx-ns-2026-07-29",
       "outcome": "Nongshim Red Force",
@@ -384,36 +680,6 @@
           "value": 161.7,
           "avg_price": 0.0344,
           "cur_price": 0.77
-        }
-      ]
-    },
-    {
-      "market": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 1 Winner",
-      "slug": "lol-drx-ns-2026-07-29-game1",
-      "outcome": "Nongshim Red Force",
-      "num_traders": 3,
-      "total_value": 116939.7,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.2727,
-          "value": 74238.59,
-          "avg_price": 0.9402,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.3043,
-          "value": 27613.95,
-          "avg_price": 0.5974,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.5157,
-          "value": 15087.16,
-          "avg_price": 0.58,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -565,7 +831,6 @@
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
     "will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
     "cs2-hotu-gl1-2026-07-22::HOTU": 3,
     "cs2-fal2-100t-2026-07-22::100 Thieves": 3,
     "mlb-pit-nyy-2026-07-22::Pittsburgh Pirates": 3,
@@ -618,12 +883,9 @@
     "mlb-kc-det-2026-07-23-spread-home-1pt5::Kansas City Royals": 3,
     "mlb-kc-det-2026-07-23-total-8pt5::Under": 3,
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 3,
     "mlb-phi-mia-2026-07-27::Miami Marlins": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "mlb-hou-laa-2026-07-27::Los Angeles Angels": 3,
     "mlb-bos-oak-2026-07-27-total-9pt5::Under": 3,
@@ -650,23 +912,22 @@
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
     "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 3,
     "wta-eala-zhen-2026-07-27::Alexandra Eala": 3,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "cs2-lag-mars-2026-07-28::LAG Gaming": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "mlb-cle-cin-2026-07-27::Cleveland Guardians": 3,
     "mlb-phi-mia-2026-07-28::Miami Marlins": 3,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 3,
     "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 3,
     "mlb-bal-det-2026-07-28::Detroit Tigers": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
     "mlb-phi-mia-2026-07-28-total-8pt5::Over": 3,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3,
-    "lol-drx-ns-2026-07-29-game1::Nongshim Red Force": 2,
-    "lol-drx-ns-2026-07-29::Nongshim Red Force": 1,
-    "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110::Yes": 1
+    "lol-drx-ns-2026-07-29-game1::Nongshim Red Force": 3,
+    "lol-drx-ns-2026-07-29::Nongshim Red Force": 2,
+    "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110::Yes": 2,
+    "lol-t1-kt-2026-07-29::KT Rolster": 1,
+    "lol-tes-al-2026-07-29::Anyones Legend": 1,
+    "lol-t1-kt-2026-07-29-game1::KT Rolster": 1,
+    "lol-t1-kt-2026-07-29-game2::KT Rolster": 1
   },
-  "updated_at": "2026-07-29T14:36:32.505237+00:00"
+  "updated_at": "2026-07-29T16:08:18.298587+00:00"
 }
