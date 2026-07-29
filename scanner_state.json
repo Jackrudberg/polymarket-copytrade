@@ -1,6 +1,39 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "lol-drx-ns-2026-07-29-game1::Nongshim Red Force"
+  ],
+  "signals": [
+    {
+      "market": "LoL: Kiwoom DRX vs Nongshim Red Force - Game 1 Winner",
+      "slug": "lol-drx-ns-2026-07-29-game1",
+      "outcome": "Nongshim Red Force",
+      "num_traders": 3,
+      "total_value": 116939.7,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.2727,
+          "value": 74238.59,
+          "avg_price": 0.9402,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.3043,
+          "value": 27613.95,
+          "avg_price": 0.5974,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.5157,
+          "value": 15087.16,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -252,5 +285,5 @@
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3
   },
-  "updated_at": "2026-07-29T07:25:02.614490+00:00"
+  "updated_at": "2026-07-29T10:08:29.189170+00:00"
 }
