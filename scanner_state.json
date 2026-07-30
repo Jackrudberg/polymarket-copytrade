@@ -1,11 +1,38 @@
 {
   "seen_ids": [
-    "lol-hle1-dk-2026-07-30::Dplus KIA",
-    "lol-nip-wb-2026-07-30::Ninjas in Pyjamas",
-    "lol-tt-jdg-2026-07-30::JD Gaming",
-    "lol-hle1-dk-2026-07-30-game-handicap-away-1pt5::Dplus KIA"
+    "lol-nip-wb-2026-07-30-game2::Ninjas in Pyjamas"
   ],
   "signals": [
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 2 Winner",
+      "slug": "lol-nip-wb-2026-07-30-game2",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 3,
+      "total_value": 16789.53,
+      "holders": [
+        {
+          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
+          "roi": 0.2533,
+          "value": 7866.58,
+          "avg_price": 0.9587,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Xhhh-060",
+          "roi": 0.2047,
+          "value": 4877.99,
+          "avg_price": 0.9404,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GAMBLINGISCANCER69",
+          "roi": 0.323,
+          "value": 4044.96,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Hanwha Life Esports vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-hle1-dk-2026-07-30",
@@ -431,7 +458,11 @@
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 3,
     "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
+    "lol-hle1-dk-2026-07-30::Dplus KIA": 1,
+    "lol-nip-wb-2026-07-30::Ninjas in Pyjamas": 1,
+    "lol-tt-jdg-2026-07-30::JD Gaming": 1,
+    "lol-hle1-dk-2026-07-30-game-handicap-away-1pt5::Dplus KIA": 1
   },
-  "updated_at": "2026-07-30T11:18:09.936895+00:00"
+  "updated_at": "2026-07-30T12:57:29.098513+00:00"
 }

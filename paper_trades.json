@@ -5811,7 +5811,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8705.58,
       "traders": [
@@ -5820,7 +5820,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "consensus_lost_at": "2026-07-29T01:10:51.825877+00:00"
+      "consensus_lost_at": "2026-07-30T12:57:29.092348+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-28::Miami Marlins",
@@ -6379,7 +6379,31 @@
         "steevenseakael"
       ],
       "url": "https://polymarket.com/event/lol-hle1-dk-2026-07-30-game-handicap-away-1pt5"
+    },
+    {
+      "signal_id": "lol-nip-wb-2026-07-30-game2::Ninjas in Pyjamas",
+      "market": "LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 2 Winner",
+      "slug": "lol-nip-wb-2026-07-30-game2",
+      "side": "Ninjas in Pyjamas",
+      "alerted_at": "2026-07-30T12:57:29.092348+00:00",
+      "last_seen": "2026-07-30T12:57:29.092348+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 16789.53,
+      "traders": [
+        "0x5fb6168aE589674AC569d52F934B37c14f34911",
+        "Xhhh-060",
+        "GAMBLINGISCANCER69"
+      ],
+      "url": "https://polymarket.com/event/lol-nip-wb-2026-07-30-game2"
     }
   ],
-  "updated_at": "2026-07-30T11:18:09.929670+00:00"
+  "updated_at": "2026-07-30T12:57:29.092348+00:00"
 }
