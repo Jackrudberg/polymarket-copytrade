@@ -1,220 +1,35 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
+  ],
   "signals": [
     {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 13200.86,
+      "num_traders": 3,
+      "total_value": 9321.13,
       "holders": [
         {
-          "trader": "DLEK",
-          "roi": 0.4907,
-          "value": 11266.59,
-          "avg_price": 0.4552,
-          "cur_price": 0.4665
+          "trader": "Gaditima",
+          "roi": 0.251,
+          "value": 8360.01,
+          "avg_price": 0.6056,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "JAMJAMJAM4",
+          "roi": 0.3027,
+          "value": 483.12,
+          "avg_price": 0.65,
+          "cur_price": 0.625
         },
         {
           "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 979.49,
-          "avg_price": 0.0112,
-          "cur_price": 0.4665
-        },
-        {
-          "trader": "unbribeableref",
-          "roi": 0.4051,
-          "value": 698.15,
-          "avg_price": 0.4222,
-          "cur_price": 0.4665
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 256.63,
-          "avg_price": 0.0112,
-          "cur_price": 0.4665
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 66935.22,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.601,
-          "value": 58791.89,
-          "avg_price": 0.1806,
-          "cur_price": 0.91
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 4139.33,
-          "avg_price": 0.8156,
-          "cur_price": 0.91
-        },
-        {
-          "trader": "CentralCasting",
-          "roi": 0.2014,
-          "value": 4004,
-          "avg_price": 0.91,
-          "cur_price": 0.91
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on December 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 37817.71,
-      "holders": [
-        {
-          "trader": "Hauchn",
-          "roi": 0.601,
-          "value": 35215.02,
-          "avg_price": 0.1415,
-          "cur_price": 0.3585
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 2012.95,
-          "avg_price": 0.0357,
-          "cur_price": 0.3585
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 589.74,
-          "avg_price": 0.0357,
-          "cur_price": 0.3585
-        }
-      ]
-    },
-    {
-      "market": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "slug": "will-jannik-sinner-win-the-2026-mens-us-open",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6952.82,
-      "holders": [
-        {
-          "trader": "unbribeableref",
-          "roi": 0.4051,
-          "value": 5664.61,
-          "avg_price": 0.5175,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 895.27,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 392.94,
-          "avg_price": 0.0204,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Will Apple be the largest company in the world by market cap on July 31?",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6933.72,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 5459.67,
-          "avg_price": 0.8004,
-          "cur_price": 0.9115
-        },
-        {
-          "trader": "CentralCasting",
-          "roi": 0.2014,
-          "value": 922.24,
-          "avg_price": 0.905,
-          "cur_price": 0.9115
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 551.81,
-          "avg_price": 0.0344,
-          "cur_price": 0.9115
-        }
-      ]
-    },
-    {
-      "market": "Will Rodri win the 2026 Ballon d'Or?",
-      "slug": "will-rodri-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2815.62,
-      "holders": [
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 0.2285,
-          "value": 2023.1,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 561.93,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 230.59,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1792.69,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.3077,
-          "value": 796.78,
-          "avg_price": 0.5,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3623,
-          "value": 512.91,
-          "avg_price": 0.0357,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Bigggggggg",
-          "roi": 0.397,
-          "value": 483.0,
-          "avg_price": 0.0357,
-          "cur_price": 0.485
+          "roi": 0.1682,
+          "value": 478.0,
+          "avg_price": 0.0666,
+          "cur_price": 0.625
         }
       ]
     }
@@ -446,7 +261,6 @@
     "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry": 3,
     "wta-eala-zhen-2026-07-27::Alexandra Eala": 3,
     "cs2-lag-mars-2026-07-28::LAG Gaming": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "mlb-cle-cin-2026-07-27::Cleveland Guardians": 3,
     "mlb-phi-mia-2026-07-28::Miami Marlins": 3,
     "mlb-tor-wsh-2026-07-28-total-8pt5::Over": 3,
@@ -473,13 +287,13 @@
     "wnba-gsv-phx-2026-07-29::Phoenix Mercury": 3,
     "mlb-mil-sf-2026-07-29::San Francisco Giants": 3,
     "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 2,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 2,
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 2,
-    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 2,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 2
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 3,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 3,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
+    "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 3,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3
   },
-  "updated_at": "2026-07-30T06:11:37.146412+00:00"
+  "updated_at": "2026-07-30T09:03:56.760663+00:00"
 }
