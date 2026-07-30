@@ -1,8 +1,9 @@
 {
   "seen_ids": [
     "will-rodri-win-the-2026-ballon-dor::Yes",
+    "mlb-pit-cin-2026-07-30::Cincinnati Reds",
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes"
   ],
   "signals": [
@@ -15,31 +16,91 @@
       "holders": [
         {
           "trader": "alwayslatetotheparty",
-          "roi": 1.1626,
+          "roi": 1.1735,
           "value": 2023.1,
           "avg_price": 0.0112,
           "cur_price": 0.085
         },
         {
           "trader": "balthazar",
-          "roi": 0.2267,
+          "roi": 0.1974,
           "value": 561.93,
           "avg_price": 0.0112,
           "cur_price": 0.085
         },
         {
           "trader": "cigarettes",
-          "roi": 0.6079,
+          "roi": 0.5972,
           "value": 396.62,
           "avg_price": 0.0112,
           "cur_price": 0.085
         },
         {
           "trader": "donthackme",
-          "roi": 0.3293,
+          "roi": 0.3312,
           "value": 230.59,
           "avg_price": 0.0112,
           "cur_price": 0.085
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Cincinnati Reds",
+      "slug": "mlb-pit-cin-2026-07-30",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 30692.27,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.3594,
+          "value": 20475,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2051,
+          "value": 7786.41,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2522,
+          "value": 2430.86,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 18372.66,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.4962,
+          "value": 11899.99,
+          "avg_price": 0.55,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.6473,
+          "value": 6053.59,
+          "avg_price": 0.5978,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1974,
+          "value": 419.08,
+          "avg_price": 0.0294,
+          "cur_price": 0.595
         }
       ]
     },
@@ -52,24 +113,54 @@
       "holders": [
         {
           "trader": "mooseborzoi",
-          "roi": 0.2524,
+          "roi": 0.2522,
           "value": 14726.4,
           "avg_price": 0.5392,
           "cur_price": 0.5649
         },
         {
           "trader": "cigarettes",
-          "roi": 0.6079,
+          "roi": 0.5972,
           "value": 1840.64,
           "avg_price": 0.6595,
           "cur_price": 0.5649
         },
         {
           "trader": "donthackme",
-          "roi": 0.3293,
+          "roi": 0.3312,
           "value": 321.4,
           "avg_price": 0.5308,
           "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Will Anthropic have the best AI model at the end of December 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1412.86,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.1974,
+          "value": 530.14,
+          "avg_price": 0.0384,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "alwayslatetotheparty",
+          "roi": 1.1735,
+          "value": 524.43,
+          "avg_price": 0.5,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3312,
+          "value": 358.29,
+          "avg_price": 0.0384,
+          "cur_price": 0.7
         }
       ]
     },
@@ -100,36 +191,6 @@
           "value": 461.83,
           "avg_price": 0.0357,
           "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "Will Anthropic have the best AI model at the end of December 2026?",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1412.86,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.2267,
-          "value": 530.14,
-          "avg_price": 0.0384,
-          "cur_price": 0.7
-        },
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 1.1626,
-          "value": 524.43,
-          "avg_price": 0.5,
-          "cur_price": 0.7
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3293,
-          "value": 358.29,
-          "avg_price": 0.0384,
-          "cur_price": 0.7
         }
       ]
     },
@@ -266,36 +327,6 @@
           "cur_price": 0.7485
         }
       ]
-    },
-    {
-      "market": "Will Bayern Munich win on 2026-07-30?",
-      "slug": "clf-fcre-bmu-2026-07-30-bmu",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19547.33,
-      "holders": [
-        {
-          "trader": "GAMBLINGISCANCER69",
-          "roi": 0.3642,
-          "value": 13908.06,
-          "avg_price": 0.986,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.1728,
-          "value": 5444.06,
-          "avg_price": 0.9811,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1613,
-          "value": 195.21,
-          "avg_price": 0.3333,
-          "cur_price": 0.9995
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -418,7 +449,6 @@
     "wnba-conn-phx-2026-07-19::Phoenix Mercury": 3,
     "us-iran-final-nuclear-deal-by-july-31-2026-20260621201255151::No": 3,
     "iran-agrees-to-surrender-enriched-uranium-stockpile-by-july-31-2026::No": 3,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "will-the-us-announce-withdrawal-from-mou-negotiations-by-july-31-20260622192122521-644-479::No": 3,
     "will-the-iranian-regime-fall-by-the-end-of-2026::No": 3,
     "kharg-island-no-longer-under-iranian-control-by-august-31::No": 3,
@@ -566,11 +596,12 @@
     "lol-tt-jdg-2026-07-30-game2::JD Gaming": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
-    "clf-fcre-bmu-2026-07-30-bmu::Yes": 2,
-    "mlb-chc-stl-2026-07-30::Chicago Cubs": 1,
-    "mlb-nyy-cws-2026-07-30-total-7pt5::Under": 1,
-    "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 1,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
+    "clf-fcre-bmu-2026-07-30-bmu::Yes": 3,
+    "mlb-chc-stl-2026-07-30::Chicago Cubs": 2,
+    "mlb-nyy-cws-2026-07-30-total-7pt5::Under": 2,
+    "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 1
   },
-  "updated_at": "2026-07-30T22:19:39.712535+00:00"
+  "updated_at": "2026-07-30T23:30:09.062941+00:00"
 }
