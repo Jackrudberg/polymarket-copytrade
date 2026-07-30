@@ -1,14 +1,138 @@
 {
   "seen_ids": [
-    "mlb-chc-stl-2026-07-30::Chicago Cubs",
     "will-rodri-win-the-2026-ballon-dor::Yes",
-    "mlb-nyy-cws-2026-07-30-total-7pt5::Under",
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes",
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 3212.24,
+      "holders": [
+        {
+          "trader": "alwayslatetotheparty",
+          "roi": 1.1626,
+          "value": 2023.1,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2267,
+          "value": 561.93,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.6079,
+          "value": 396.62,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3293,
+          "value": 230.59,
+          "avg_price": 0.0112,
+          "cur_price": 0.085
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 16888.44,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2524,
+          "value": 14726.4,
+          "avg_price": 0.5392,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.6079,
+          "value": 1840.64,
+          "avg_price": 0.6595,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3293,
+          "value": 321.4,
+          "avg_price": 0.5308,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1795.87,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.2267,
+          "value": 815.06,
+          "avg_price": 0.5,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "alwayslatetotheparty",
+          "roi": 1.1626,
+          "value": 518.98,
+          "avg_price": 0.5,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3293,
+          "value": 461.83,
+          "avg_price": 0.0357,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Will Anthropic have the best AI model at the end of December 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1412.86,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.2267,
+          "value": 530.14,
+          "avg_price": 0.0384,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "alwayslatetotheparty",
+          "roi": 1.1626,
+          "value": 524.43,
+          "avg_price": 0.5,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3293,
+          "value": 358.29,
+          "avg_price": 0.0384,
+          "cur_price": 0.7
+        }
+      ]
+    },
     {
       "market": "Chicago Cubs vs. St. Louis Cardinals",
       "slug": "mlb-chc-stl-2026-07-30",
@@ -54,43 +178,6 @@
       ]
     },
     {
-      "market": "Will Rodri win the 2026 Ballon d'Or?",
-      "slug": "will-rodri-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 3212.24,
-      "holders": [
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 1.0758,
-          "value": 2023.1,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2573,
-          "value": 561.93,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.5625,
-          "value": 396.62,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2927,
-          "value": 230.59,
-          "avg_price": 0.0112,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
       "market": "New York Yankees vs. Chicago White Sox: O/U 7.5",
       "slug": "mlb-nyy-cws-2026-07-30-total-7pt5",
       "outcome": "Under",
@@ -117,36 +204,6 @@
           "value": 14109.33,
           "avg_price": 0.5073,
           "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16888.44,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2635,
-          "value": 14726.4,
-          "avg_price": 0.5392,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.5625,
-          "value": 1840.64,
-          "avg_price": 0.6595,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2927,
-          "value": 321.4,
-          "avg_price": 0.5308,
-          "cur_price": 0.5649
         }
       ]
     },
@@ -211,36 +268,6 @@
       ]
     },
     {
-      "market": "Will Anthropic have the best AI model at the end of December 2026?",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1422.95,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.2573,
-          "value": 533.93,
-          "avg_price": 0.0384,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 1.0758,
-          "value": 528.17,
-          "avg_price": 0.5,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2927,
-          "value": 360.85,
-          "avg_price": 0.0384,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
       "market": "Will Bayern Munich win on 2026-07-30?",
       "slug": "clf-fcre-bmu-2026-07-30-bmu",
       "outcome": "Yes",
@@ -267,207 +294,6 @@
           "value": 195.21,
           "avg_price": 0.3333,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Tampa Bay Rays",
-      "slug": "mlb-tex-tb-2026-07-30",
-      "outcome": "Tampa Bay Rays",
-      "num_traders": 5,
-      "total_value": 30148.57,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.5196,
-          "value": 26530.34,
-          "avg_price": 0.61,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.6876,
-          "value": 1509.41,
-          "avg_price": 0.61,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "Gaditima",
-          "roi": 0.1525,
-          "value": 1129.8,
-          "avg_price": 0.58,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2946,
-          "value": 754.76,
-          "avg_price": 0.5897,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.1778,
-          "value": 224.26,
-          "avg_price": 0.6464,
-          "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs JD Gaming (BO3) - LPL Group Ascend",
-      "slug": "lol-tt-jdg-2026-07-30",
-      "outcome": "JD Gaming",
-      "num_traders": 4,
-      "total_value": 122331.44,
-      "holders": [
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.1724,
-          "value": 94952.46,
-          "avg_price": 0.6847,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "AtlanticTrading",
-          "roi": 0.6364,
-          "value": 14992.37,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "steevenseakael",
-          "roi": 0.3881,
-          "value": 11994,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gaditima",
-          "roi": 0.1525,
-          "value": 392.61,
-          "avg_price": 0.82,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-hle1-dk-2026-07-30",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 92952.44,
-      "holders": [
-        {
-          "trader": "steevenseakael",
-          "roi": 0.3881,
-          "value": 41000,
-          "avg_price": 0.34,
-          "cur_price": 1
-        },
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.1724,
-          "value": 36952.47,
-          "avg_price": 0.4517,
-          "cur_price": 1
-        },
-        {
-          "trader": "AtlanticTrading",
-          "roi": 0.6364,
-          "value": 14999.97,
-          "avg_price": 0.33,
-          "cur_price": 1
-        }
-      ]
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs JD Gaming - Game 2 Winner",
-      "slug": "lol-tt-jdg-2026-07-30-game2",
-      "outcome": "JD Gaming",
-      "num_traders": 3,
-      "total_value": 90870.33,
-      "holders": [
-        {
-          "trader": "TopGleaguepick",
-          "roi": 0.3937,
-          "value": 89930.92,
-          "avg_price": 0.6058,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "steevenseakael",
-          "roi": 0.3881,
-          "value": 816.1,
-          "avg_price": 0.62,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.1724,
-          "value": 123.31,
-          "avg_price": 0.61,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10581.38,
-      "holders": [
-        {
-          "trader": "Gaditima",
-          "roi": 0.1525,
-          "value": 8360.01,
-          "avg_price": 0.6056,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1872,
-          "value": 1743.37,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3144,
-          "value": 478.0,
-          "avg_price": 0.0666,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 8341.53,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.1779,
-          "value": 6909.19,
-          "avg_price": 0.4991,
-          "cur_price": 0.3449
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.5196,
-          "value": 866.36,
-          "avg_price": 0.39,
-          "cur_price": 0.3449
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.6876,
-          "value": 565.98,
-          "avg_price": 0.5,
-          "cur_price": 0.3449
         }
       ]
     }
@@ -726,7 +552,6 @@
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 3,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
     "lol-nip-wb-2026-07-30::Ninjas in Pyjamas": 3,
     "lol-nip-wb-2026-07-30-game2::Ninjas in Pyjamas": 3,
     "cs2-tl1-ts7-2026-07-31::Spirit": 3,
@@ -735,13 +560,17 @@
     "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::No": 3,
     "cs2-run2-unity-2026-07-30::Rune Eaters": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841::No": 3,
-    "mlb-tex-tb-2026-07-30::Tampa Bay Rays": 2,
-    "lol-tt-jdg-2026-07-30::JD Gaming": 2,
-    "lol-hle1-dk-2026-07-30::Dplus KIA": 2,
-    "lol-tt-jdg-2026-07-30-game2::JD Gaming": 2,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2,
-    "clf-fcre-bmu-2026-07-30-bmu::Yes": 1
+    "mlb-tex-tb-2026-07-30::Tampa Bay Rays": 3,
+    "lol-tt-jdg-2026-07-30::JD Gaming": 3,
+    "lol-hle1-dk-2026-07-30::Dplus KIA": 3,
+    "lol-tt-jdg-2026-07-30-game2::JD Gaming": 3,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
+    "clf-fcre-bmu-2026-07-30-bmu::Yes": 2,
+    "mlb-chc-stl-2026-07-30::Chicago Cubs": 1,
+    "mlb-nyy-cws-2026-07-30-total-7pt5::Under": 1,
+    "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 1,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
   },
-  "updated_at": "2026-07-30T21:10:44.262389+00:00"
+  "updated_at": "2026-07-30T22:19:39.712535+00:00"
 }
