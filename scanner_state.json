@@ -1,10 +1,53 @@
 {
   "seen_ids": [
-    "lol-mkoi-shft-2026-07-31::Movistar KOI",
     "cs2-pain-ast10-2026-07-30::Astralis",
-    "dota2-xtreme-lgd-2026-07-31::LGD Gaming"
+    "lol-mkoi-shft-2026-07-31::Movistar KOI"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+      "slug": "cs2-pain-ast10-2026-07-30",
+      "outcome": "Astralis",
+      "num_traders": 5,
+      "total_value": 130576.68,
+      "holders": [
+        {
+          "trader": "dsasdaas",
+          "roi": 0.1868,
+          "value": 61787.29,
+          "avg_price": 0.5799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.1788,
+          "value": 23476.08,
+          "avg_price": 0.579,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+          "roi": 0.317,
+          "value": 22266.47,
+          "avg_price": 0.4782,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "f3arless",
+          "roi": 0.2894,
+          "value": 17574.58,
+          "avg_price": 0.5426,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.3506,
+          "value": 5472.26,
+          "avg_price": 0.5763,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Movistar KOI vs Shifters (BO3) - LEC Regular Season",
       "slug": "lol-mkoi-shft-2026-07-31",
@@ -14,53 +57,23 @@
       "holders": [
         {
           "trader": "Spicer",
-          "roi": 0.2115,
+          "roi": 0.2037,
           "value": 29978.75,
           "avg_price": 0.7334,
           "cur_price": 0.9995
         },
         {
           "trader": "f3arless",
-          "roi": 0.2759,
+          "roi": 0.2894,
           "value": 13876.34,
           "avg_price": 0.7451,
           "cur_price": 0.9995
         },
         {
           "trader": "thecomplicatedguy",
-          "roi": 0.3947,
+          "roi": 0.4211,
           "value": 9995,
           "avg_price": 0.78,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
-      "slug": "cs2-pain-ast10-2026-07-30",
-      "outcome": "Astralis",
-      "num_traders": 3,
-      "total_value": 45313.31,
-      "holders": [
-        {
-          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
-          "roi": 0.2715,
-          "value": 22266.47,
-          "avg_price": 0.4782,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "f3arless",
-          "roi": 0.2759,
-          "value": 17574.58,
-          "avg_price": 0.5426,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.3732,
-          "value": 5472.26,
-          "avg_price": 0.5763,
           "cur_price": 0.9995
         }
       ]
@@ -384,7 +397,8 @@
     "lol-cfo-gam-2026-07-31::CTBC Flying Oyster": 3,
     "lol-bro2-drx-2026-07-31::Kiwoom DRX": 3,
     "cs2-faze-mglz-2026-07-30::FaZe": 3,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
+    "dota2-xtreme-lgd-2026-07-31::LGD Gaming": 1
   },
-  "updated_at": "2026-07-31T20:49:02.753291+00:00"
+  "updated_at": "2026-07-31T21:53:29.668777+00:00"
 }
