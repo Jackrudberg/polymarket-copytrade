@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-sea-lad-2026-07-30::Los Angeles Dodgers"
+  ],
   "signals": [
+    {
+      "market": "Seattle Mariners vs. Los Angeles Dodgers",
+      "slug": "mlb-sea-lad-2026-07-30",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 30076.35,
+      "holders": [
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.4611,
+          "value": 12231.25,
+          "avg_price": 0.59,
+          "cur_price": 0.9785
+        },
+        {
+          "trader": "LarryDaddy",
+          "roi": 0.5252,
+          "value": 11210.36,
+          "avg_price": 0.5935,
+          "cur_price": 0.9785
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2022,
+          "value": 6634.74,
+          "avg_price": 0.5844,
+          "cur_price": 0.9785
+        }
+      ]
+    },
     {
       "market": "Will Rodri win the 2026 Ballon d'Or?",
       "slug": "will-rodri-win-the-2026-ballon-dor",
@@ -155,36 +187,6 @@
           "value": 358.29,
           "avg_price": 0.0384,
           "cur_price": 0.7
-        }
-      ]
-    },
-    {
-      "market": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1795.87,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.2267,
-          "value": 815.06,
-          "avg_price": 0.5,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "alwayslatetotheparty",
-          "roi": 1.1626,
-          "value": 518.98,
-          "avg_price": 0.5,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3293,
-          "value": 461.83,
-          "avg_price": 0.0357,
-          "cur_price": 0.5649
         }
       ]
     }
@@ -461,12 +463,12 @@
     "mlb-nyy-cws-2026-07-30-total-7pt5::Under": 3,
     "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 2,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 1,
-    "mlb-pit-cin-2026-07-30::Cincinnati Reds": 1,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 1,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
-    "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 1
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
+    "mlb-pit-cin-2026-07-30::Cincinnati Reds": 2,
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 2
   },
-  "updated_at": "2026-07-31T01:08:13.942738+00:00"
+  "updated_at": "2026-07-31T04:38:22.986387+00:00"
 }
