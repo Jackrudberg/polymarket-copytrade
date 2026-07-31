@@ -1,6 +1,204 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-gen-t1-2026-07-31-game2::T1",
+    "lol-gen-t1-2026-07-31-game1::T1",
+    "lol-bro2-drx-2026-07-31::Kiwoom DRX",
+    "lol-al-edg-2026-07-31::Anyones Legend",
+    "lol-we-blg-2026-07-31-game2::Bilibili Gaming"
+  ],
   "signals": [
+    {
+      "market": "LoL: Gen.G vs T1 - Game 2 Winner",
+      "slug": "lol-gen-t1-2026-07-31-game2",
+      "outcome": "T1",
+      "num_traders": 6,
+      "total_value": 82634.67,
+      "holders": [
+        {
+          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
+          "roi": 0.3696,
+          "value": 36568.24,
+          "avg_price": 0.1589,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "olegio",
+          "roi": 0.6428,
+          "value": 20987.84,
+          "avg_price": 0.4234,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1638,
+          "value": 11993.98,
+          "avg_price": 0.4266,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.5858,
+          "value": 10969.87,
+          "avg_price": 0.1879,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.4926,
+          "value": 1998.99,
+          "avg_price": 0.13,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.4166,
+          "value": 115.75,
+          "avg_price": 0.97,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G vs T1 - Game 1 Winner",
+      "slug": "lol-gen-t1-2026-07-31-game1",
+      "outcome": "T1",
+      "num_traders": 5,
+      "total_value": 104987.26,
+      "holders": [
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.4166,
+          "value": 30331.11,
+          "avg_price": 0.3822,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
+          "roi": 0.3696,
+          "value": 20898.19,
+          "avg_price": 0.4064,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "olegio",
+          "roi": 0.6428,
+          "value": 20151.91,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.4926,
+          "value": 17491.14,
+          "avg_price": 0.3311,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.5858,
+          "value": 16114.91,
+          "avg_price": 0.3817,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-bro2-drx-2026-07-31",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 4,
+      "total_value": 38373.95,
+      "holders": [
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.4166,
+          "value": 22250,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1638,
+          "value": 9884.57,
+          "avg_price": 0.4396,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.5858,
+          "value": 5340,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "neurodivergentBet",
+          "roi": 0.5633,
+          "value": 899.38,
+          "avg_price": 0.4,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "LoL: Anyone's Legend vs EDward Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-al-edg-2026-07-31",
+      "outcome": "Anyones Legend",
+      "num_traders": 3,
+      "total_value": 21514.24,
+      "holders": [
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1638,
+          "value": 14217.89,
+          "avg_price": 0.8559,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.4926,
+          "value": 5497.25,
+          "avg_price": 0.81,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "neurodivergentBet",
+          "roi": 0.5633,
+          "value": 1799.1,
+          "avg_price": 0.85,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs Bilibili Gaming - Game 2 Winner",
+      "slug": "lol-we-blg-2026-07-31-game2",
+      "outcome": "Bilibili Gaming",
+      "num_traders": 3,
+      "total_value": 5605.66,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.5858,
+          "value": 4817.22,
+          "avg_price": 0.5098,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1638,
+          "value": 535,
+          "avg_price": 0.61,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.4166,
+          "value": 253.44,
+          "avg_price": 0.47,
+          "cur_price": 0.535
+        }
+      ]
+    },
     {
       "market": "Seattle Mariners vs. Los Angeles Dodgers",
       "slug": "mlb-sea-lad-2026-07-30",
@@ -310,7 +508,7 @@
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3,
-    "mlb-sea-lad-2026-07-30::Los Angeles Dodgers": 1
+    "mlb-sea-lad-2026-07-30::Los Angeles Dodgers": 2
   },
-  "updated_at": "2026-07-31T07:34:24.420293+00:00"
+  "updated_at": "2026-07-31T10:12:28.252041+00:00"
 }
