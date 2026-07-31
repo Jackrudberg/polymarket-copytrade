@@ -5585,7 +5585,7 @@
       "current_value": 86.06,
       "paper_pnl": -13.94,
       "return_percent": -13.94,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1621.02,
       "traders": [
@@ -5594,7 +5594,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-lamine-yamal-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-07-30T00:14:59.425981+00:00"
+      "consensus_lost_at": "2026-07-31T19:49:42.681193+00:00"
     },
     {
       "signal_id": "mlb-cle-cin-2026-07-27::Cleveland Guardians",
@@ -6782,7 +6782,7 @@
       "current_value": 162.52,
       "paper_pnl": 62.52,
       "return_percent": 62.52,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 75057.71,
       "traders": [
@@ -6790,7 +6790,8 @@
         "WARNINGWARNINGWARNING",
         "TAIWANNUMBERONE"
       ],
-      "url": "https://polymarket.com/event/cs2-faze-mglz-2026-07-30"
+      "url": "https://polymarket.com/event/cs2-faze-mglz-2026-07-30",
+      "consensus_lost_at": "2026-07-31T19:49:42.681193+00:00"
     },
     {
       "signal_id": "lol-cfo-gam-2026-07-31-game2::CTBC Flying Oyster",
@@ -6843,5 +6844,5 @@
       "consensus_lost_at": "2026-07-31T18:06:12.106216+00:00"
     }
   ],
-  "updated_at": "2026-07-31T18:06:12.106216+00:00"
+  "updated_at": "2026-07-31T19:49:42.681193+00:00"
 }
