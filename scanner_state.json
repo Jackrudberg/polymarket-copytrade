@@ -1,13 +1,166 @@
 {
   "seen_ids": [
-    "lol-gen-t1-2026-07-31-game2::T1",
     "lol-bro2-drx-2026-07-31-game2::Kiwoom DRX",
     "lol-bro2-drx-2026-07-31::Kiwoom DRX",
-    "lol-gen-t1-2026-07-31::T1",
-    "cs2-faze-mglz-2026-07-30::FaZe",
-    "lol-we-blg-2026-07-31-game2::Bilibili Gaming"
+    "lol-cfo-gam-2026-07-31-game2::CTBC Flying Oyster",
+    "lol-cfo-gam-2026-07-31::CTBC Flying Oyster"
   ],
   "signals": [
+    {
+      "market": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
+      "slug": "lol-bro2-drx-2026-07-31-game2",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 6,
+      "total_value": 54598.79,
+      "holders": [
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.1532,
+          "value": 19124.31,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
+          "roi": 0.415,
+          "value": 17576.17,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.2074,
+          "value": 7036.48,
+          "avg_price": 0.4917,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.301,
+          "value": 6013.99,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.2237,
+          "value": 4697.65,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Novus0rdoSeclorum",
+          "roi": 0.6689,
+          "value": 150.19,
+          "avg_price": 0.6075,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-bro2-drx-2026-07-31",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 5,
+      "total_value": 76427.33,
+      "holders": [
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.3666,
+          "value": 36225.03,
+          "avg_price": 0.4534,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
+          "roi": 0.415,
+          "value": 20047.96,
+          "avg_price": 0.6106,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3937,
+          "value": 14992.43,
+          "avg_price": 0.27,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.301,
+          "value": 3141.84,
+          "avg_price": 0.4342,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "neurodivergentBet",
+          "roi": 0.5487,
+          "value": 2020.07,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: CTBC Flying Oyster vs GAM Esports - Game 2 Winner",
+      "slug": "lol-cfo-gam-2026-07-31-game2",
+      "outcome": "CTBC Flying Oyster",
+      "num_traders": 3,
+      "total_value": 51568.85,
+      "holders": [
+        {
+          "trader": "mpyh",
+          "roi": 0.1816,
+          "value": 49693.14,
+          "avg_price": 0.0387,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.1532,
+          "value": 1624.19,
+          "avg_price": 0.1918,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.301,
+          "value": 251.52,
+          "avg_price": 0.35,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: CTBC Flying Oyster vs GAM Esports (BO3) - LCP Group Stage",
+      "slug": "lol-cfo-gam-2026-07-31",
+      "outcome": "CTBC Flying Oyster",
+      "num_traders": 3,
+      "total_value": 15986.95,
+      "holders": [
+        {
+          "trader": "LOBODAFL",
+          "roi": 0.2074,
+          "value": 11424.28,
+          "avg_price": 0.3924,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mpyh",
+          "roi": 0.1816,
+          "value": 3464.46,
+          "avg_price": 0.6864,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PASSTHEMONEY",
+          "roi": 0.1532,
+          "value": 1098.21,
+          "avg_price": 0.3506,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Gen.G vs T1 - Game 2 Winner",
       "slug": "lol-gen-t1-2026-07-31-game2",
@@ -70,94 +223,6 @@
           "value": 4506.63,
           "avg_price": 0.4392,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner",
-      "slug": "lol-bro2-drx-2026-07-31-game2",
-      "outcome": "Kiwoom DRX",
-      "num_traders": 5,
-      "total_value": 45950.2,
-      "holders": [
-        {
-          "trader": "0x5fb6168aE589674AC569d52F934B37c14f34911",
-          "roi": 0.3847,
-          "value": 17576.17,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Ariel777",
-          "roi": 0.2427,
-          "value": 10625.91,
-          "avg_price": 0.4232,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.1538,
-          "value": 7036.48,
-          "avg_price": 0.4917,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3413,
-          "value": 6013.99,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skyfker",
-          "roi": 0.2066,
-          "value": 4697.65,
-          "avg_price": 0.48,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
-      "slug": "lol-bro2-drx-2026-07-31",
-      "outcome": "Kiwoom DRX",
-      "num_traders": 5,
-      "total_value": 35542.41,
-      "holders": [
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.231,
-          "value": 17940.36,
-          "avg_price": 0.4534,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "LOBODAFL",
-          "roi": 0.1538,
-          "value": 7620.66,
-          "avg_price": 0.4554,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.3733,
-          "value": 7424.97,
-          "avg_price": 0.27,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3413,
-          "value": 1555.99,
-          "avg_price": 0.4342,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "neurodivergentBet",
-          "roi": 0.5588,
-          "value": 1000.43,
-          "avg_price": 0.4,
-          "cur_price": 0.495
         }
       ]
     },
@@ -612,8 +677,12 @@
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3,
     "mlb-sea-lad-2026-07-30::Los Angeles Dodgers": 3,
-    "lol-gen-t1-2026-07-31-game1::T1": 1,
-    "lol-al-edg-2026-07-31::Anyones Legend": 1
+    "lol-gen-t1-2026-07-31-game1::T1": 2,
+    "lol-al-edg-2026-07-31::Anyones Legend": 2,
+    "lol-gen-t1-2026-07-31-game2::T1": 1,
+    "lol-gen-t1-2026-07-31::T1": 1,
+    "cs2-faze-mglz-2026-07-30::FaZe": 1,
+    "lol-we-blg-2026-07-31-game2::Bilibili Gaming": 1
   },
-  "updated_at": "2026-07-31T12:19:22.974679+00:00"
+  "updated_at": "2026-07-31T14:43:18.112313+00:00"
 }
