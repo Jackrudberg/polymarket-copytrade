@@ -6907,7 +6907,7 @@
       "current_value": 165.21,
       "paper_pnl": 65.21,
       "return_percent": 65.21,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 22903.9,
       "traders": [
@@ -6915,7 +6915,8 @@
         "StasPanda",
         "ripplecs"
       ],
-      "url": "https://polymarket.com/event/cs2-ast10-mouz-2026-08-01"
+      "url": "https://polymarket.com/event/cs2-ast10-mouz-2026-08-01",
+      "consensus_lost_at": "2026-08-01T20:47:42.579299+00:00"
     },
     {
       "signal_id": "ufc-oba-mic37-2026-08-01-totals-1pt5::Under",
@@ -6943,5 +6944,5 @@
       "consensus_lost_at": "2026-08-01T19:53:54.648747+00:00"
     }
   ],
-  "updated_at": "2026-08-01T19:53:54.648747+00:00"
+  "updated_at": "2026-08-01T20:47:42.579299+00:00"
 }
