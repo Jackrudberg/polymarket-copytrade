@@ -1,8 +1,69 @@
 {
   "seen_ids": [
-    "atp-tabilo-shelton-2026-07-31::Alejandro Tabilo"
+    "mex-asl-tij-2026-07-31-asl::No",
+    "atp-norrie-shapova-2026-08-01::Denis Shapovalov"
   ],
   "signals": [
+    {
+      "market": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+      "slug": "mex-asl-tij-2026-07-31-asl",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 21323.74,
+      "holders": [
+        {
+          "trader": "us391",
+          "roi": 1.0638,
+          "value": 11712.56,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.2582,
+          "value": 7196.4,
+          "avg_price": 0.5649,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Fnfjfiwoc2",
+          "roi": 0.2285,
+          "value": 2414.78,
+          "avg_price": 0.5794,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+      "slug": "atp-norrie-shapova-2026-08-01",
+      "outcome": "Denis Shapovalov",
+      "num_traders": 3,
+      "total_value": 11180.29,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.2582,
+          "value": 5762.69,
+          "avg_price": 0.4029,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "tradecraft",
+          "roi": 0.2323,
+          "value": 3358.41,
+          "avg_price": 0.4527,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "Fnfjfiwoc2",
+          "roi": 0.2285,
+          "value": 2059.19,
+          "avg_price": 0.5422,
+          "cur_price": 0.505
+        }
+      ]
+    },
     {
       "market": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
       "slug": "atp-tabilo-shelton-2026-07-31",
@@ -325,7 +386,8 @@
     "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
     "dota2-xtreme-lgd-2026-07-31::LGD Gaming": 3,
     "cs2-pain-ast10-2026-07-30::Astralis": 3,
-    "lol-mkoi-shft-2026-07-31::Movistar KOI": 3
+    "lol-mkoi-shft-2026-07-31::Movistar KOI": 3,
+    "atp-tabilo-shelton-2026-07-31::Alejandro Tabilo": 1
   },
-  "updated_at": "2026-08-01T03:45:51.594668+00:00"
+  "updated_at": "2026-08-01T06:17:42.097481+00:00"
 }
