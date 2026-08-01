@@ -1,7 +1,7 @@
 {
   "seen_ids": [
     "cs2-ast10-mouz-2026-08-01::MOUZ",
-    "lol-gen-dk-2026-08-01::Dplus KIA"
+    "ufc-oba-mic37-2026-08-01-totals-1pt5::Under"
   ],
   "signals": [
     {
@@ -9,35 +9,65 @@
       "slug": "cs2-ast10-mouz-2026-08-01",
       "outcome": "MOUZ",
       "num_traders": 4,
-      "total_value": 225741.84,
+      "total_value": 338763.21,
       "holders": [
         {
           "trader": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
-          "roi": 0.1914,
-          "value": 133059.47,
+          "roi": 0.5434,
+          "value": 169417.76,
           "avg_price": 0.4335,
-          "cur_price": 0.785
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lllllllIlll",
+          "roi": 0.2327,
+          "value": 87756.13,
+          "avg_price": 0.5599,
+          "cur_price": 0.9995
         },
         {
           "trader": "Djdjdjekekek",
-          "roi": 0.1791,
-          "value": 62217.28,
+          "roi": 0.168,
+          "value": 74474.46,
           "avg_price": 0.6635,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "fazewinline",
-          "roi": 0.1782,
-          "value": 24877.13,
-          "avg_price": 0.5806,
-          "cur_price": 0.835
+          "cur_price": 0.9995
         },
         {
           "trader": "StasPanda",
-          "roi": 0.2365,
-          "value": 5587.96,
+          "roi": 0.2437,
+          "value": 7114.86,
           "avg_price": 0.7144,
-          "cur_price": 0.785
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "O/U 1.5 Rounds",
+      "slug": "ufc-oba-mic37-2026-08-01-totals-1pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 65575.48,
+      "holders": [
+        {
+          "trader": "isp",
+          "roi": 0.655,
+          "value": 39800,
+          "avg_price": 0.34,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "1moretimetowin",
+          "roi": 0.3454,
+          "value": 12969.83,
+          "avg_price": 0.38,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "0way",
+          "roi": 0.2805,
+          "value": 12805.65,
+          "avg_price": 0.38,
+          "cur_price": 0.995
         }
       ]
     },
@@ -373,7 +403,8 @@
     "lol-mkoi-shft-2026-07-31::Movistar KOI": 3,
     "atp-tabilo-shelton-2026-07-31::Alejandro Tabilo": 3,
     "mex-asl-tij-2026-07-31-asl::No": 3,
-    "atp-norrie-shapova-2026-08-01::Denis Shapovalov": 3
+    "atp-norrie-shapova-2026-08-01::Denis Shapovalov": 3,
+    "lol-gen-dk-2026-08-01::Dplus KIA": 1
   },
-  "updated_at": "2026-08-01T16:32:01.378364+00:00"
+  "updated_at": "2026-08-01T17:37:00.645384+00:00"
 }
