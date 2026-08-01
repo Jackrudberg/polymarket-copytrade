@@ -1,35 +1,73 @@
 {
   "seen_ids": [
-    "lol-gen-dk-2026-08-01::Dplus KIA"
+    "lol-gen-dk-2026-08-01::Dplus KIA",
+    "cs2-ast10-mouz-2026-08-01::MOUZ"
   ],
   "signals": [
     {
       "market": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-gen-dk-2026-08-01",
       "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 95329.31,
+      "num_traders": 4,
+      "total_value": 111526.9,
       "holders": [
         {
           "trader": "jtwyslljy",
-          "roi": 0.3333,
+          "roi": 0.3253,
           "value": 58470.75,
           "avg_price": 0.37,
           "cur_price": 0.9995
         },
         {
           "trader": "0way",
-          "roi": 0.2523,
+          "roi": 0.1977,
           "value": 21866.06,
           "avg_price": 0.38,
           "cur_price": 0.9995
         },
         {
+          "trader": "StasPanda",
+          "roi": 0.2347,
+          "value": 16197.59,
+          "avg_price": 0.3612,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "bqbq",
-          "roi": 0.3265,
+          "roi": 0.3266,
           "value": 14992.5,
           "avg_price": 0.4898,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+      "slug": "cs2-ast10-mouz-2026-08-01",
+      "outcome": "MOUZ",
+      "num_traders": 3,
+      "total_value": 22903.9,
+      "holders": [
+        {
+          "trader": "fazewinline",
+          "roi": 0.155,
+          "value": 18024.75,
+          "avg_price": 0.5806,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "StasPanda",
+          "roi": 0.2347,
+          "value": 4306.64,
+          "avg_price": 0.7144,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "ripplecs",
+          "roi": 0.9267,
+          "value": 572.51,
+          "avg_price": 0.7,
+          "cur_price": 0.605
         }
       ]
     }
@@ -330,5 +368,5 @@
     "mex-asl-tij-2026-07-31-asl::No": 3,
     "atp-norrie-shapova-2026-08-01::Denis Shapovalov": 3
   },
-  "updated_at": "2026-08-01T14:13:21.453158+00:00"
+  "updated_at": "2026-08-01T15:30:14.242019+00:00"
 }
