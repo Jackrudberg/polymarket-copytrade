@@ -6857,7 +6857,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 21323.74,
       "traders": [
@@ -6865,7 +6865,8 @@
         "VeryLucky888",
         "Fnfjfiwoc2"
       ],
-      "url": "https://polymarket.com/event/mex-asl-tij-2026-07-31-asl"
+      "url": "https://polymarket.com/event/mex-asl-tij-2026-07-31-asl",
+      "consensus_lost_at": "2026-08-01T10:20:17.107195+00:00"
     },
     {
       "signal_id": "atp-norrie-shapova-2026-08-01::Denis Shapovalov",
@@ -6881,7 +6882,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 11180.29,
       "traders": [
@@ -6889,8 +6890,9 @@
         "tradecraft",
         "Fnfjfiwoc2"
       ],
-      "url": "https://polymarket.com/event/atp-norrie-shapova-2026-08-01"
+      "url": "https://polymarket.com/event/atp-norrie-shapova-2026-08-01",
+      "consensus_lost_at": "2026-08-01T10:20:17.107195+00:00"
     }
   ],
-  "updated_at": "2026-08-01T08:37:05.774165+00:00"
+  "updated_at": "2026-08-01T10:20:17.107195+00:00"
 }
