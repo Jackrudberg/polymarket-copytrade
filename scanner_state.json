@@ -1,9 +1,46 @@
 {
   "seen_ids": [
-    "lol-gen-dk-2026-08-01::Dplus KIA",
-    "cs2-ast10-mouz-2026-08-01::MOUZ"
+    "cs2-ast10-mouz-2026-08-01::MOUZ",
+    "lol-gen-dk-2026-08-01::Dplus KIA"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
+      "slug": "cs2-ast10-mouz-2026-08-01",
+      "outcome": "MOUZ",
+      "num_traders": 4,
+      "total_value": 225741.84,
+      "holders": [
+        {
+          "trader": "0x0954184654A6A3720f5DDE4103A42aF4Dd0e1e1B-1785596053509",
+          "roi": 0.1914,
+          "value": 133059.47,
+          "avg_price": 0.4335,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "Djdjdjekekek",
+          "roi": 0.1791,
+          "value": 62217.28,
+          "avg_price": 0.6635,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "fazewinline",
+          "roi": 0.1782,
+          "value": 24877.13,
+          "avg_price": 0.5806,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "StasPanda",
+          "roi": 0.2365,
+          "value": 5587.96,
+          "avg_price": 0.7144,
+          "cur_price": 0.785
+        }
+      ]
+    },
     {
       "market": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-gen-dk-2026-08-01",
@@ -20,54 +57,24 @@
         },
         {
           "trader": "0way",
-          "roi": 0.1977,
+          "roi": 0.1924,
           "value": 21866.06,
           "avg_price": 0.38,
           "cur_price": 0.9995
         },
         {
           "trader": "StasPanda",
-          "roi": 0.2347,
+          "roi": 0.2365,
           "value": 16197.59,
           "avg_price": 0.3612,
           "cur_price": 0.9995
         },
         {
           "trader": "bqbq",
-          "roi": 0.3266,
+          "roi": 0.3267,
           "value": 14992.5,
           "avg_price": 0.4898,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Astralis vs MOUZ (BO3) - BLAST Bounty Playoffs",
-      "slug": "cs2-ast10-mouz-2026-08-01",
-      "outcome": "MOUZ",
-      "num_traders": 3,
-      "total_value": 22903.9,
-      "holders": [
-        {
-          "trader": "fazewinline",
-          "roi": 0.155,
-          "value": 18024.75,
-          "avg_price": 0.5806,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "StasPanda",
-          "roi": 0.2347,
-          "value": 4306.64,
-          "avg_price": 0.7144,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "ripplecs",
-          "roi": 0.9267,
-          "value": 572.51,
-          "avg_price": 0.7,
-          "cur_price": 0.605
         }
       ]
     }
@@ -368,5 +375,5 @@
     "mex-asl-tij-2026-07-31-asl::No": 3,
     "atp-norrie-shapova-2026-08-01::Denis Shapovalov": 3
   },
-  "updated_at": "2026-08-01T15:30:14.242019+00:00"
+  "updated_at": "2026-08-01T16:32:01.378364+00:00"
 }
