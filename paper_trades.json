@@ -3285,7 +3285,7 @@
       "current_value": 121.88,
       "paper_pnl": 21.88,
       "return_percent": 21.88,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 25105.46,
       "traders": [
@@ -3294,7 +3294,7 @@
         "65765757"
       ],
       "url": "https://polymarket.com/event/israel-closes-its-airspace-by-august-31-389",
-      "consensus_lost_at": "2026-07-21T07:15:10.705817+00:00"
+      "consensus_lost_at": "2026-08-02T20:35:41.837758+00:00"
     },
     {
       "signal_id": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::Yes",
@@ -6957,7 +6957,7 @@
       "current_value": 98.45,
       "paper_pnl": -1.55,
       "return_percent": -1.55,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 21524.01,
       "traders": [
@@ -6965,7 +6965,8 @@
         "anoin123",
         "Ditto321"
       ],
-      "url": "https://polymarket.com/event/will-hamas-agree-to-disarm-by-december-31"
+      "url": "https://polymarket.com/event/will-hamas-agree-to-disarm-by-december-31",
+      "consensus_lost_at": "2026-08-02T20:35:41.837758+00:00"
     },
     {
       "signal_id": "will-count-binface-win-the-clacton-by-election-20260707211451133::No",
@@ -7352,7 +7353,7 @@
       "current_value": 99.9,
       "paper_pnl": -0.1,
       "return_percent": -0.1,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14657.01,
       "traders": [
@@ -7360,7 +7361,8 @@
         "nojnn",
         "mr.ozi"
       ],
-      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-august-4"
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-august-4",
+      "consensus_lost_at": "2026-08-02T20:35:41.837758+00:00"
     },
     {
       "signal_id": "fed-rate-hike-in-2026::No",
@@ -7376,7 +7378,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3579.9,
       "traders": [
@@ -7384,7 +7386,8 @@
         "Ditto321",
         "Zzzz87"
       ],
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026"
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "consensus_lost_at": "2026-08-02T20:35:41.837758+00:00"
     },
     {
       "signal_id": "val-fnc1-th1-2026-08-02::Team Heretics",
@@ -7392,14 +7395,14 @@
       "slug": "val-fnc1-th1-2026-08-02",
       "side": "Team Heretics",
       "alerted_at": "2026-08-02T16:12:40.804257+00:00",
-      "last_seen": "2026-08-02T18:16:13.175381+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
       "entry_price": 0.545,
-      "current_price": 0.545,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 183.486239,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 183.39,
+      "paper_pnl": 83.39,
+      "return_percent": 83.39,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 19876.24,
@@ -7441,14 +7444,14 @@
       "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
       "side": "Yes",
       "alerted_at": "2026-08-02T18:16:13.175381+00:00",
-      "last_seen": "2026-08-02T19:39:15.629105+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
       "entry_price": 0.175,
-      "current_price": 0.247,
+      "current_price": 0.205,
       "stake": 100.0,
       "shares": 571.428571,
-      "current_value": 141.14,
-      "paper_pnl": 41.14,
-      "return_percent": 41.14,
+      "current_value": 117.14,
+      "paper_pnl": 17.14,
+      "return_percent": 17.14,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 3360.07,
@@ -7554,7 +7557,151 @@
         "Parz1vaI"
       ],
       "url": "https://polymarket.com/event/will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends"
+    },
+    {
+      "signal_id": "wta-pegula-eala-2026-08-02::Jessica Pegula",
+      "market": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+      "slug": "wta-pegula-eala-2026-08-02",
+      "side": "Jessica Pegula",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.805,
+      "current_price": 0.805,
+      "stake": 100.0,
+      "shares": 124.223602,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 517477.78,
+      "traders": [
+        "beachboy4",
+        "SineNooneEI",
+        "jtwyslljy"
+      ],
+      "url": "https://polymarket.com/event/wta-pegula-eala-2026-08-02"
+    },
+    {
+      "signal_id": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes",
+      "market": "Israel x Iran ceasefire continues through August 2?",
+      "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
+      "side": "Yes",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.9975,
+      "current_price": 0.9975,
+      "stake": 100.0,
+      "shares": 100.250627,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 62308.17,
+      "traders": [
+        "QuietRiskisWrong",
+        "Valen9",
+        "nojnn"
+      ],
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-august-2-20260727170555149"
+    },
+    {
+      "signal_id": "cuban-regime-falls-in-2026::No",
+      "market": "Cuban regime falls in 2026?",
+      "slug": "cuban-regime-falls-in-2026",
+      "side": "No",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.885,
+      "current_price": 0.885,
+      "stake": 100.0,
+      "shares": 112.99435,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 33345.01,
+      "traders": [
+        "QuietRiskisWrong",
+        "R79dgahr",
+        "nojnn"
+      ],
+      "url": "https://polymarket.com/event/cuban-regime-falls-in-2026"
+    },
+    {
+      "signal_id": "mlb-sf-atl-2026-06-18::Atlanta Braves",
+      "market": "San Francisco Giants vs. Atlanta Braves",
+      "slug": "mlb-sf-atl-2026-06-18",
+      "side": "Atlanta Braves",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.545,
+      "current_price": 0.545,
+      "stake": 100.0,
+      "shares": 183.486239,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 30260.55,
+      "traders": [
+        "SDTrading",
+        "phonesculptor",
+        "mooseborzoi"
+      ],
+      "url": "https://polymarket.com/event/mlb-sf-atl-2026-06-18"
+    },
+    {
+      "signal_id": "mlb-phi-bal-2026-08-02::Philadelphia Phillies",
+      "market": "Philadelphia Phillies vs. Baltimore Orioles",
+      "slug": "mlb-phi-bal-2026-08-02",
+      "side": "Philadelphia Phillies",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.845395,
+      "current_price": 0.845395,
+      "stake": 100.0,
+      "shares": 118.287953,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 24558.75,
+      "traders": [
+        "phonesculptor",
+        "SDTrading",
+        "mooseborzoi"
+      ],
+      "url": "https://polymarket.com/event/mlb-phi-bal-2026-08-02"
+    },
+    {
+      "signal_id": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes",
+      "market": "US x Iran Effective Ceasefire by August 14?",
+      "slug": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046",
+      "side": "Yes",
+      "alerted_at": "2026-08-02T20:35:41.837758+00:00",
+      "last_seen": "2026-08-02T20:35:41.837758+00:00",
+      "entry_price": 0.633356,
+      "current_price": 0.633356,
+      "stake": 100.0,
+      "shares": 157.888981,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2986.26,
+      "traders": [
+        "denizz",
+        "QuietRiskisWrong",
+        "nojnn"
+      ],
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-by-august-14-20260715194822046"
     }
   ],
-  "updated_at": "2026-08-02T19:39:15.629105+00:00"
+  "updated_at": "2026-08-02T20:35:41.837758+00:00"
 }
