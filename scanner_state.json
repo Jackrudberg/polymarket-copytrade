@@ -1,72 +1,159 @@
 {
   "seen_ids": [
     "will-the-us-invade-iran-before-2027::No",
-    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No",
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No",
     "wta-pegula-eala-2026-08-02::Jessica Pegula",
-    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No",
-    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
-    "bab-el-mandeb-strait-effectively-closed-by-august-31::No",
-    "israel-closes-its-airspace-by-august-31-389::No",
-    "kharg-island-no-longer-under-iranian-control-by-august-31::No",
     "mlb-bos-lad-2026-08-02::Los Angeles Dodgers",
-    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No",
-    "israel-closes-its-airspace-by-august-15::No",
-    "cuban-regime-falls-in-2026::No",
-    "mlb-sf-atl-2026-06-18::Atlanta Braves",
     "mlb-phi-bal-2026-08-02::Philadelphia Phillies",
-    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes",
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes"
+    "mlb-sf-atl-2026-06-18::Atlanta Braves"
   ],
   "signals": [
     {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
-      "num_traders": 6,
-      "total_value": 1735564.94,
+      "num_traders": 3,
+      "total_value": 771590.29,
       "holders": [
         {
           "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
+          "roi": 0.5576,
           "value": 707243.57,
           "avg_price": 0.7219,
           "cur_price": 0.795
         },
         {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 374817.16,
-          "avg_price": 0.6904,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 300625.62,
-          "avg_price": 0.7359,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 288531.87,
-          "avg_price": 0.8138,
-          "cur_price": 0.795
-        },
-        {
           "trader": "R79dgahr",
-          "roi": 0.2387,
+          "roi": 0.2201,
           "value": 33389.96,
           "avg_price": 0.7498,
           "cur_price": 0.795
         },
         {
           "trader": "zb8",
-          "roi": 0.2319,
+          "roi": 0.2293,
           "value": 30956.76,
           "avg_price": 0.7253,
           "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+      "slug": "wta-pegula-eala-2026-08-02",
+      "outcome": "Jessica Pegula",
+      "num_traders": 3,
+      "total_value": 523841.8,
+      "holders": [
+        {
+          "trader": "beachboy4",
+          "roi": 0.4511,
+          "value": 495367.96,
+          "avg_price": 0.6223,
+          "cur_price": 0.8149
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.1943,
+          "value": 20324.84,
+          "avg_price": 0.5988,
+          "cur_price": 0.8149
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.2273,
+          "value": 8149,
+          "avg_price": 0.606,
+          "cur_price": 0.8149
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. Los Angeles Dodgers",
+      "slug": "mlb-bos-lad-2026-08-02",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 53756.33,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.3834,
+          "value": 42499.92,
+          "avg_price": 0.62,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "PleaseWinPlease",
+          "roi": 0.715,
+          "value": 10625,
+          "avg_price": 0.62,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2571,
+          "value": 631.41,
+          "avg_price": 0.6,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Baltimore Orioles",
+      "slug": "mlb-phi-bal-2026-08-02",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 36149.46,
+      "holders": [
+        {
+          "trader": "phonesculptor",
+          "roi": 0.2152,
+          "value": 32100.69,
+          "avg_price": 0.6728,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3072,
+          "value": 3832.31,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2571,
+          "value": 216.46,
+          "avg_price": 0.5506,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "San Francisco Giants vs. Atlanta Braves",
+      "slug": "mlb-sf-atl-2026-06-18",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 30260.55,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.3072,
+          "value": 17262.09,
+          "avg_price": 0.5299,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "phonesculptor",
+          "roi": 0.2152,
+          "value": 7750.38,
+          "avg_price": 0.5124,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2571,
+          "value": 5248.08,
+          "avg_price": 0.5699,
+          "cur_price": 0.545
         }
       ]
     },
@@ -134,36 +221,6 @@
           "value": 33298.9,
           "avg_price": 0.8925,
           "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
-      "slug": "wta-pegula-eala-2026-08-02",
-      "outcome": "Jessica Pegula",
-      "num_traders": 3,
-      "total_value": 517477.78,
-      "holders": [
-        {
-          "trader": "beachboy4",
-          "roi": 0.4511,
-          "value": 489349.86,
-          "avg_price": 0.6223,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.195,
-          "value": 20077.92,
-          "avg_price": 0.5988,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.2269,
-          "value": 8050,
-          "avg_price": 0.606,
-          "cur_price": 0.805
         }
       ]
     },
@@ -318,36 +375,6 @@
       ]
     },
     {
-      "market": "Boston Red Sox vs. Los Angeles Dodgers",
-      "slug": "mlb-bos-lad-2026-08-02",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 77788.58,
-      "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.3834,
-          "value": 61499.89,
-          "avg_price": 0.62,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "PleaseWinPlease",
-          "roi": 0.7148,
-          "value": 15375,
-          "avg_price": 0.62,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2588,
-          "value": 913.69,
-          "avg_price": 0.6,
-          "cur_price": 0.615
-        }
-      ]
-    },
-    {
       "market": "Bab el-Mandeb Strait effectively closed by December 31?",
       "slug": "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117",
       "outcome": "No",
@@ -434,66 +461,6 @@
           "value": 5006.2,
           "avg_price": 0.8149,
           "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "San Francisco Giants vs. Atlanta Braves",
-      "slug": "mlb-sf-atl-2026-06-18",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 30260.55,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.3216,
-          "value": 17262.09,
-          "avg_price": 0.5299,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "phonesculptor",
-          "roi": 0.2187,
-          "value": 7750.38,
-          "avg_price": 0.5124,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2588,
-          "value": 5248.08,
-          "avg_price": 0.5699,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Philadelphia Phillies vs. Baltimore Orioles",
-      "slug": "mlb-phi-bal-2026-08-02",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 28891.13,
-      "holders": [
-        {
-          "trader": "phonesculptor",
-          "roi": 0.2187,
-          "value": 24862.5,
-          "avg_price": 0.58,
-          "cur_price": 0.9945
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3216,
-          "value": 3813.14,
-          "avg_price": 0.5699,
-          "cur_price": 0.9945
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2588,
-          "value": 215.49,
-          "avg_price": 0.5506,
-          "cur_price": 0.995
         }
       ]
     },
@@ -644,96 +611,6 @@
           "value": 406,
           "avg_price": 0.193,
           "cur_price": 0.203
-        }
-      ]
-    },
-    {
-      "market": "Israel x Iran ceasefire continues through August 2?",
-      "slug": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 62308.17,
-      "holders": [
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 1.4607,
-          "value": 37132.93,
-          "avg_price": 0.7802,
-          "cur_price": 0.9975
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.1938,
-          "value": 18802.04,
-          "avg_price": 0.853,
-          "cur_price": 0.9975
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.2082,
-          "value": 6373.2,
-          "avg_price": 0.949,
-          "cur_price": 0.9975
-        }
-      ]
-    },
-    {
-      "market": "Israel x Iran ceasefire continues through August 3?",
-      "slug": "israel-x-iran-ceasefire-continues-through-august-3",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 47227.43,
-      "holders": [
-        {
-          "trader": "nojnn",
-          "roi": 0.2082,
-          "value": 26484.44,
-          "avg_price": 0.9618,
-          "cur_price": 0.9875
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.1938,
-          "value": 13863.75,
-          "avg_price": 0.777,
-          "cur_price": 0.988
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 1.4607,
-          "value": 6879.24,
-          "avg_price": 0.9396,
-          "cur_price": 0.9875
-        }
-      ]
-    },
-    {
-      "market": "Israel x Iran ceasefire continues through August 31?",
-      "slug": "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19152.54,
-      "holders": [
-        {
-          "trader": "Valen9",
-          "roi": 0.1938,
-          "value": 17778.11,
-          "avg_price": 0.4506,
-          "cur_price": 0.66
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.2082,
-          "value": 1035.14,
-          "avg_price": 0.5955,
-          "cur_price": 0.66
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 1.4607,
-          "value": 339.29,
-          "avg_price": 0.5777,
-          "cur_price": 0.66
         }
       ]
     }
@@ -1065,12 +942,24 @@
     "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::No": 3,
     "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes": 3,
     "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No": 3,
-    "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes": 2,
-    "israel-x-iran-ceasefire-continues-through-august-3::Yes": 2,
-    "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823::Yes": 2,
-    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 1,
-    "val-fnc1-th1-2026-08-02::Team Heretics": 1,
-    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 1
+    "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes": 3,
+    "israel-x-iran-ceasefire-continues-through-august-3::Yes": 3,
+    "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823::Yes": 3,
+    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 2,
+    "val-fnc1-th1-2026-08-02::Team Heretics": 2,
+    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 2,
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 1,
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 1,
+    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 1,
+    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 1,
+    "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 1,
+    "israel-closes-its-airspace-by-august-31-389::No": 1,
+    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 1,
+    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No": 1,
+    "israel-closes-its-airspace-by-august-15::No": 1,
+    "cuban-regime-falls-in-2026::No": 1,
+    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 1,
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 1
   },
-  "updated_at": "2026-08-02T22:33:56.480238+00:00"
+  "updated_at": "2026-08-02T23:36:53.690564+00:00"
 }

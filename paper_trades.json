@@ -7410,7 +7410,7 @@
       "current_value": 183.39,
       "paper_pnl": 83.39,
       "return_percent": 83.39,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 19876.24,
       "traders": [
@@ -7419,7 +7419,8 @@
         "Zzzz87",
         "Ditto321"
       ],
-      "url": "https://polymarket.com/event/val-fnc1-th1-2026-08-02"
+      "url": "https://polymarket.com/event/val-fnc1-th1-2026-08-02",
+      "consensus_lost_at": "2026-08-02T23:36:53.683218+00:00"
     },
     {
       "signal_id": "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347::Yes",
@@ -7460,7 +7461,7 @@
       "current_value": 116.0,
       "paper_pnl": 16.0,
       "return_percent": 16.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3360.07,
       "traders": [
@@ -7468,7 +7469,8 @@
         "BrightStars",
         "Valen9"
       ],
-      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690"
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
+      "consensus_lost_at": "2026-08-02T23:36:53.683218+00:00"
     },
     {
       "signal_id": "dota2-rnx-yb1-2026-08-02-game2::Yakult Brothers",
@@ -7576,14 +7578,14 @@
       "slug": "wta-pegula-eala-2026-08-02",
       "side": "Jessica Pegula",
       "alerted_at": "2026-08-02T20:35:41.837758+00:00",
-      "last_seen": "2026-08-02T22:33:56.474043+00:00",
+      "last_seen": "2026-08-02T23:36:53.683218+00:00",
       "entry_price": 0.805,
-      "current_price": 0.805,
+      "current_price": 0.8149,
       "stake": 100.0,
       "shares": 124.223602,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 101.23,
+      "paper_pnl": 1.23,
+      "return_percent": 1.23,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 517477.78,
@@ -7649,7 +7651,7 @@
       "slug": "mlb-sf-atl-2026-06-18",
       "side": "Atlanta Braves",
       "alerted_at": "2026-08-02T20:35:41.837758+00:00",
-      "last_seen": "2026-08-02T22:33:56.474043+00:00",
+      "last_seen": "2026-08-02T23:36:53.683218+00:00",
       "entry_price": 0.545,
       "current_price": 0.545,
       "stake": 100.0,
@@ -7673,14 +7675,14 @@
       "slug": "mlb-phi-bal-2026-08-02",
       "side": "Philadelphia Phillies",
       "alerted_at": "2026-08-02T20:35:41.837758+00:00",
-      "last_seen": "2026-08-02T22:33:56.474043+00:00",
+      "last_seen": "2026-08-02T23:36:53.683218+00:00",
       "entry_price": 0.845395,
-      "current_price": 0.994504,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 118.287953,
-      "current_value": 117.64,
-      "paper_pnl": 17.64,
-      "return_percent": 17.64,
+      "current_value": 118.23,
+      "paper_pnl": 18.23,
+      "return_percent": 18.23,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 24558.75,
@@ -7793,14 +7795,14 @@
       "slug": "mlb-bos-lad-2026-08-02",
       "side": "Los Angeles Dodgers",
       "alerted_at": "2026-08-02T22:33:56.474043+00:00",
-      "last_seen": "2026-08-02T22:33:56.474043+00:00",
+      "last_seen": "2026-08-02T23:36:53.683218+00:00",
       "entry_price": 0.615,
-      "current_price": 0.615,
+      "current_price": 0.425,
       "stake": 100.0,
       "shares": 162.601626,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 69.11,
+      "paper_pnl": -30.89,
+      "return_percent": -30.89,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 77788.58,
@@ -7836,5 +7838,5 @@
       "url": "https://polymarket.com/event/israel-closes-its-airspace-by-august-15"
     }
   ],
-  "updated_at": "2026-08-02T22:33:56.474043+00:00"
+  "updated_at": "2026-08-02T23:36:53.683218+00:00"
 }
