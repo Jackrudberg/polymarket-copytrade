@@ -1,9 +1,221 @@
 {
   "seen_ids": [
-    "dota2-flc-bb4-2026-08-03-game1::Team Falcons",
-    "dota2-flc-bb4-2026-08-03-game2::Team Falcons"
+    "dota2-flc-bb4-2026-08-03::Team Falcons",
+    "dota2-flc-bb4-2026-08-03-game2::Team Falcons",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "cs2-mouzn-mis-2026-08-03::MOUZ NXT"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Team Falcons vs BetBoom Team (BO3) - 1win Essence Playoffs",
+      "slug": "dota2-flc-bb4-2026-08-03",
+      "outcome": "Team Falcons",
+      "num_traders": 5,
+      "total_value": 78633.45,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.4456,
+          "value": 71717.41,
+          "avg_price": 0.4598,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ATPlegend",
+          "roi": 0.2064,
+          "value": 6013.12,
+          "avg_price": 0.4545,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2813,
+          "value": 338.83,
+          "avg_price": 0.4634,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cerebralhole",
+          "roi": 0.2342,
+          "value": 327.61,
+          "avg_price": 0.4962,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1747,
+          "value": 236.48,
+          "avg_price": 0.5364,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Falcons vs BetBoom Team - Game 2 Winner",
+      "slug": "dota2-flc-bb4-2026-08-03-game2",
+      "outcome": "Team Falcons",
+      "num_traders": 5,
+      "total_value": 63851.79,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.1855,
+          "value": 20074.13,
+          "avg_price": 0.4765,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cerebralhole",
+          "roi": 0.2342,
+          "value": 15692.62,
+          "avg_price": 0.4872,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GonSaless",
+          "roi": 0.7022,
+          "value": 15142.4,
+          "avg_price": 0.4898,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ATPlegend",
+          "roi": 0.2064,
+          "value": 8195.88,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.4456,
+          "value": 4746.76,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14848.81,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2813,
+          "value": 8877.81,
+          "avg_price": 0.3992,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "euro-catcher",
+          "roi": 0.4842,
+          "value": 5497.38,
+          "avg_price": 0.4387,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1747,
+          "value": 473.62,
+          "avg_price": 0.2,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13213.23,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.618,
+          "value": 10268.58,
+          "avg_price": 0.2331,
+          "cur_price": 0.2535
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1747,
+          "value": 2252.89,
+          "avg_price": 0.0312,
+          "cur_price": 0.2535
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3958,
+          "value": 691.76,
+          "avg_price": 0.0312,
+          "cur_price": 0.2535
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8713.61,
+      "holders": [
+        {
+          "trader": "euro-catcher",
+          "roi": 0.4842,
+          "value": 6830.94,
+          "avg_price": 0.5643,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3958,
+          "value": 1347.09,
+          "avg_price": 0.2,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1747,
+          "value": 535.58,
+          "avg_price": 0.2,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: MOUZ NXT vs Misa Esports (BO3) - ESL Challenger League Europe Cup #2 Group D",
+      "slug": "cs2-mouzn-mis-2026-08-03",
+      "outcome": "MOUZ NXT",
+      "num_traders": 3,
+      "total_value": 8134.78,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2813,
+          "value": 6368.81,
+          "avg_price": 0.3976,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "euro-catcher",
+          "roi": 0.4842,
+          "value": 1122.44,
+          "avg_price": 0.4177,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1747,
+          "value": 643.53,
+          "avg_price": 0.6054,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
       "slug": "dota2-flc-bb4-2026-08-03-game1",
@@ -37,110 +249,6 @@
           "roi": 0.1973,
           "value": 508.69,
           "avg_price": 0.6012,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs BetBoom Team - Game 2 Winner",
-      "slug": "dota2-flc-bb4-2026-08-03-game2",
-      "outcome": "Team Falcons",
-      "num_traders": 3,
-      "total_value": 9078.96,
-      "holders": [
-        {
-          "trader": "ATPlegend",
-          "roi": 0.1872,
-          "value": 5534.98,
-          "avg_price": 0.49,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Neurian",
-          "roi": 0.1766,
-          "value": 3375.23,
-          "avg_price": 0.48,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
-          "roi": 0.1973,
-          "value": 168.75,
-          "avg_price": 0.62,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
-      "slug": "lol-gen-hle1-2026-08-03-game1",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 4,
-      "total_value": 77157.73,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.1889,
-          "value": 40412.69,
-          "avg_price": 0.8266,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.3494,
-          "value": 19990,
-          "avg_price": 0.64,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "five5120",
-          "roi": 0.1993,
-          "value": 13143.85,
-          "avg_price": 0.7178,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2399,
-          "value": 3611.19,
-          "avg_price": 0.64,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
-      "slug": "lol-gen-hle1-2026-08-03",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 4,
-      "total_value": 49236.32,
-      "holders": [
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2399,
-          "value": 23855.32,
-          "avg_price": 0.5947,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "patient12",
-          "roi": 0.1889,
-          "value": 12032.62,
-          "avg_price": 0.7,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.2712,
-          "value": 9995.0,
-          "avg_price": 0.71,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ROBBATTISTAFANDUELRETARD",
-          "roi": 0.3494,
-          "value": 3353.38,
-          "avg_price": 0.71,
           "cur_price": 0.9995
         }
       ]
@@ -356,7 +464,6 @@
     "atp-mannari-tien-2026-07-27::Adrian Mannarino": 3,
     "mlb-cle-cin-2026-07-27-total-8pt5::Over": 3,
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::No": 3,
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
@@ -382,7 +489,6 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
     "mlb-ari-pit-2026-07-29-total-8pt5::Under": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138601::Yes": 3,
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
     "wnba-gsv-phx-2026-07-29::Phoenix Mercury": 3,
@@ -496,8 +602,9 @@
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
     "mlb-sf-atl-2026-06-18::Atlanta Braves": 3,
     "mlb-phi-bal-2026-08-02::Philadelphia Phillies": 3,
-    "lol-gen-hle1-2026-08-03-game1::Hanwha Life Esports": 2,
-    "lol-gen-hle1-2026-08-03::Hanwha Life Esports": 2
+    "lol-gen-hle1-2026-08-03-game1::Hanwha Life Esports": 3,
+    "lol-gen-hle1-2026-08-03::Hanwha Life Esports": 3,
+    "dota2-flc-bb4-2026-08-03-game1::Team Falcons": 1
   },
-  "updated_at": "2026-08-03T16:41:24.172065+00:00"
+  "updated_at": "2026-08-03T18:27:42.760942+00:00"
 }
