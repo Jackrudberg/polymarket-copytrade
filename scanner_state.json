@@ -2,7 +2,7 @@
   "seen_ids": [
     "will-the-us-invade-iran-before-2027::No",
     "wta-pegula-eala-2026-08-02::Jessica Pegula",
-    "mlb-bos-lad-2026-08-02::Los Angeles Dodgers",
+    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
     "mlb-phi-bal-2026-08-02::Philadelphia Phillies",
     "mlb-sf-atl-2026-06-18::Atlanta Braves"
   ],
@@ -11,19 +11,26 @@
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
-      "num_traders": 3,
-      "total_value": 771590.29,
+      "num_traders": 4,
+      "total_value": 1072215.91,
       "holders": [
         {
           "trader": "QuietRiskisWrong",
-          "roi": 0.5576,
+          "roi": 0.4529,
           "value": 707243.57,
           "avg_price": 0.7219,
           "cur_price": 0.795
         },
         {
+          "trader": "denizz",
+          "roi": 0.1544,
+          "value": 300625.62,
+          "avg_price": 0.7359,
+          "cur_price": 0.795
+        },
+        {
           "trader": "R79dgahr",
-          "roi": 0.2201,
+          "roi": 0.1907,
           "value": 33389.96,
           "avg_price": 0.7498,
           "cur_price": 0.795
@@ -42,28 +49,118 @@
       "slug": "wta-pegula-eala-2026-08-02",
       "outcome": "Jessica Pegula",
       "num_traders": 3,
-      "total_value": 523841.8,
+      "total_value": 517477.78,
       "holders": [
         {
           "trader": "beachboy4",
           "roi": 0.4511,
-          "value": 495367.96,
+          "value": 489349.86,
           "avg_price": 0.6223,
-          "cur_price": 0.8149
+          "cur_price": 0.805
         },
         {
           "trader": "SineNooneEI",
           "roi": 0.1943,
-          "value": 20324.84,
+          "value": 20077.92,
           "avg_price": 0.5988,
-          "cur_price": 0.8149
+          "cur_price": 0.805
         },
         {
           "trader": "jtwyslljy",
           "roi": 0.2273,
-          "value": 8149,
+          "value": 8050,
           "avg_price": 0.606,
-          "cur_price": 0.8149
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "US x Iran Effective Ceasefire by July 31?",
+      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 133400.2,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.4219,
+          "value": 67902.06,
+          "avg_price": 0.1648,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.1544,
+          "value": 63803.45,
+          "avg_price": 0.4042,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "R79dgahr",
+          "roi": 0.1907,
+          "value": 1694.69,
+          "avg_price": 0.5699,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Baltimore Orioles",
+      "slug": "mlb-phi-bal-2026-08-02",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 36476.79,
+      "holders": [
+        {
+          "trader": "phonesculptor",
+          "roi": 0.2141,
+          "value": 32428.02,
+          "avg_price": 0.6761,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3045,
+          "value": 3832.31,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2553,
+          "value": 216.46,
+          "avg_price": 0.5506,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "San Francisco Giants vs. Atlanta Braves",
+      "slug": "mlb-sf-atl-2026-06-18",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 30260.55,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.3045,
+          "value": 17262.09,
+          "avg_price": 0.5299,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "phonesculptor",
+          "roi": 0.2141,
+          "value": 7750.38,
+          "avg_price": 0.5124,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2553,
+          "value": 5248.08,
+          "avg_price": 0.5699,
+          "cur_price": 0.545
         }
       ]
     },
@@ -94,66 +191,6 @@
           "value": 631.41,
           "avg_price": 0.6,
           "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Philadelphia Phillies vs. Baltimore Orioles",
-      "slug": "mlb-phi-bal-2026-08-02",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 36149.46,
-      "holders": [
-        {
-          "trader": "phonesculptor",
-          "roi": 0.2152,
-          "value": 32100.69,
-          "avg_price": 0.6728,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3072,
-          "value": 3832.31,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2571,
-          "value": 216.46,
-          "avg_price": 0.5506,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "San Francisco Giants vs. Atlanta Braves",
-      "slug": "mlb-sf-atl-2026-06-18",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 30260.55,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.3072,
-          "value": 17262.09,
-          "avg_price": 0.5299,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "phonesculptor",
-          "roi": 0.2152,
-          "value": 7750.38,
-          "avg_price": 0.5124,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2571,
-          "value": 5248.08,
-          "avg_price": 0.5699,
-          "cur_price": 0.545
         }
       ]
     },
@@ -251,36 +288,6 @@
           "value": 15569.93,
           "avg_price": 0.8749,
           "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "US x Iran Effective Ceasefire by July 31?",
-      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 130392.4,
-      "holders": [
-        {
-          "trader": "BrightStars",
-          "roi": 0.5088,
-          "value": 66712.06,
-          "avg_price": 0.1648,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 62015.35,
-          "avg_price": 0.4029,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 1664.99,
-          "avg_price": 0.5699,
-          "cur_price": 0.555
         }
       ]
     },
@@ -521,96 +528,6 @@
           "value": 450.12,
           "avg_price": 0.5698,
           "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "US obtains Iranian enriched uranium by December 31?",
-      "slug": "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 95705.67,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.1519,
-          "value": 55519.22,
-          "avg_price": 0.7568,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2384,
-          "value": 27052.29,
-          "avg_price": 0.8309,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.1684,
-          "value": 13134.16,
-          "avg_price": 0.8799,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Valorant: Fnatic vs Team Heretics (BO3) - VCT EMEA Group Omega",
-      "slug": "val-fnc1-th1-2026-08-02",
-      "outcome": "Team Heretics",
-      "num_traders": 3,
-      "total_value": 35715.21,
-      "holders": [
-        {
-          "trader": "skyman44",
-          "roi": 0.176,
-          "value": 24697.78,
-          "avg_price": 0.5372,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BaseballBill",
-          "roi": 0.159,
-          "value": 9994.94,
-          "avg_price": 0.54,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.4051,
-          "value": 1022.49,
-          "avg_price": 0.54,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "US announces end of Iranian blockade by August 7, 2026?",
-      "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3991.3,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.1519,
-          "value": 3176.49,
-          "avg_price": 0.207,
-          "cur_price": 0.203
-        },
-        {
-          "trader": "BrightStars",
-          "roi": 0.3772,
-          "value": 408.81,
-          "avg_price": 0.171,
-          "cur_price": 0.203
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.1684,
-          "value": 406,
-          "avg_price": 0.193,
-          "cur_price": 0.203
         }
       ]
     }
@@ -945,21 +862,21 @@
     "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-3::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823::Yes": 3,
-    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 2,
-    "val-fnc1-th1-2026-08-02::Team Heretics": 2,
-    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 2,
-    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 1,
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 1,
-    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 1,
-    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 1,
-    "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 1,
-    "israel-closes-its-airspace-by-august-31-389::No": 1,
-    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 1,
-    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No": 1,
-    "israel-closes-its-airspace-by-august-15::No": 1,
-    "cuban-regime-falls-in-2026::No": 1,
-    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 1,
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 1
+    "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 3,
+    "val-fnc1-th1-2026-08-02::Team Heretics": 3,
+    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 3,
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 2,
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 2,
+    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 2,
+    "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 2,
+    "israel-closes-its-airspace-by-august-31-389::No": 2,
+    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 2,
+    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No": 2,
+    "israel-closes-its-airspace-by-august-15::No": 2,
+    "cuban-regime-falls-in-2026::No": 2,
+    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 2,
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 2,
+    "mlb-bos-lad-2026-08-02::Los Angeles Dodgers": 1
   },
-  "updated_at": "2026-08-02T23:36:53.690564+00:00"
+  "updated_at": "2026-08-03T01:13:58.371519+00:00"
 }
