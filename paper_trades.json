@@ -7938,7 +7938,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 78633.45,
       "traders": [
@@ -7948,7 +7948,8 @@
         "cerebralhole",
         "cigarettes"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-bb4-2026-08-03"
+      "url": "https://polymarket.com/event/dota2-flc-bb4-2026-08-03",
+      "consensus_lost_at": "2026-08-03T21:32:54.899192+00:00"
     },
     {
       "signal_id": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
@@ -7988,7 +7989,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8134.78,
       "traders": [
@@ -7996,7 +7997,8 @@
         "euro-catcher",
         "cigarettes"
       ],
-      "url": "https://polymarket.com/event/cs2-mouzn-mis-2026-08-03"
+      "url": "https://polymarket.com/event/cs2-mouzn-mis-2026-08-03",
+      "consensus_lost_at": "2026-08-03T21:32:54.899192+00:00"
     },
     {
       "signal_id": "dota2-liquid-vg-2026-08-03-game2::Vici Gaming",
@@ -8004,14 +8006,14 @@
       "slug": "dota2-liquid-vg-2026-08-03-game2",
       "side": "Vici Gaming",
       "alerted_at": "2026-08-03T20:14:19.938248+00:00",
-      "last_seen": "2026-08-03T20:14:19.938248+00:00",
+      "last_seen": "2026-08-03T21:32:54.899192+00:00",
       "entry_price": 0.295,
-      "current_price": 0.295,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 338.983051,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 338.81,
+      "paper_pnl": 238.81,
+      "return_percent": 238.81,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 3045.1,
@@ -8021,7 +8023,58 @@
         "euro-catcher"
       ],
       "url": "https://polymarket.com/event/dota2-liquid-vg-2026-08-03-game2"
+    },
+    {
+      "signal_id": "dota2-re-lgd-2026-08-03::Rune Eaters",
+      "market": "Dota 2: Rune Eaters vs LGD Gaming (BO3) - Games of the Future Playoffs",
+      "slug": "dota2-re-lgd-2026-08-03",
+      "side": "Rune Eaters",
+      "alerted_at": "2026-08-03T21:32:54.899192+00:00",
+      "last_seen": "2026-08-03T21:32:54.899192+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 138826.3,
+      "traders": [
+        "Djdjdjekekek",
+        "CORGI8",
+        "meoooow",
+        "0xB496b941749aD050b54d780e26265b1e32591f45-1785361608057",
+        "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/dota2-re-lgd-2026-08-03"
+    },
+    {
+      "signal_id": "dota2-liquid-vg-2026-08-03::Vici Gaming",
+      "market": "Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs",
+      "slug": "dota2-liquid-vg-2026-08-03",
+      "side": "Vici Gaming",
+      "alerted_at": "2026-08-03T21:32:54.899192+00:00",
+      "last_seen": "2026-08-03T21:32:54.899192+00:00",
+      "entry_price": 0.495,
+      "current_price": 0.495,
+      "stake": 100.0,
+      "shares": 202.020202,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 84341.49,
+      "traders": [
+        "Djdjdjekekek",
+        "CORGI8",
+        "meoooow"
+      ],
+      "url": "https://polymarket.com/event/dota2-liquid-vg-2026-08-03"
     }
   ],
-  "updated_at": "2026-08-03T20:14:19.938248+00:00"
+  "updated_at": "2026-08-03T21:32:54.899192+00:00"
 }
