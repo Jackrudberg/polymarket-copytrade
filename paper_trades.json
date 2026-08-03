@@ -7686,7 +7686,7 @@
       "current_value": 118.23,
       "paper_pnl": 18.23,
       "return_percent": 18.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 24558.75,
       "traders": [
@@ -7694,7 +7694,8 @@
         "SDTrading",
         "mooseborzoi"
       ],
-      "url": "https://polymarket.com/event/mlb-phi-bal-2026-08-02"
+      "url": "https://polymarket.com/event/mlb-phi-bal-2026-08-02",
+      "consensus_lost_at": "2026-08-03T14:10:09.067847+00:00"
     },
     {
       "signal_id": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes",
@@ -7922,5 +7923,5 @@
       "url": "https://polymarket.com/event/lol-gen-hle1-2026-08-03"
     }
   ],
-  "updated_at": "2026-08-03T11:50:40.333007+00:00"
+  "updated_at": "2026-08-03T14:10:09.067847+00:00"
 }
