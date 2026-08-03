@@ -1,12 +1,38 @@
 {
   "seen_ids": [
-    "will-the-us-invade-iran-before-2027::No",
-    "wta-pegula-eala-2026-08-02::Jessica Pegula",
-    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
-    "mlb-phi-bal-2026-08-02::Philadelphia Phillies",
-    "mlb-sf-atl-2026-06-18::Atlanta Braves"
+    "mlb-phi-bal-2026-08-02::Philadelphia Phillies"
   ],
   "signals": [
+    {
+      "market": "Philadelphia Phillies vs. Baltimore Orioles",
+      "slug": "mlb-phi-bal-2026-08-02",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 85459.61,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.224,
+          "value": 84407.91,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.2218,
+          "value": 918.43,
+          "avg_price": 0.8582,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x4f2",
+          "roi": 0.4505,
+          "value": 133.27,
+          "avg_price": 0.9499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
@@ -105,36 +131,6 @@
       ]
     },
     {
-      "market": "Philadelphia Phillies vs. Baltimore Orioles",
-      "slug": "mlb-phi-bal-2026-08-02",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 36476.79,
-      "holders": [
-        {
-          "trader": "phonesculptor",
-          "roi": 0.2141,
-          "value": 32428.02,
-          "avg_price": 0.6761,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3045,
-          "value": 3832.31,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2553,
-          "value": 216.46,
-          "avg_price": 0.5506,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "San Francisco Giants vs. Atlanta Braves",
       "slug": "mlb-sf-atl-2026-06-18",
       "outcome": "Atlanta Braves",
@@ -191,343 +187,6 @@
           "value": 631.41,
           "avg_price": 0.6,
           "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Bab el-Mandeb Strait effectively closed by September 30?",
-      "slug": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 127711.57,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 95517.35,
-          "avg_price": 0.8073,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 19934.56,
-          "avg_price": 0.8642,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 7809.66,
-          "avg_price": 0.7994,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 4450,
-          "avg_price": 0.86,
-          "cur_price": 0.89
-        }
-      ]
-    },
-    {
-      "market": "Will the Iranian regime fall before 2027?",
-      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 686811.73,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 355838.86,
-          "avg_price": 0.7182,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 297673.97,
-          "avg_price": 0.7118,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 33298.9,
-          "avg_price": 0.8925,
-          "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Strait of Hormuz traffic returns to normal by August 31?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 218721.99,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 113682.97,
-          "avg_price": 0.8949,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 89469.09,
-          "avg_price": 0.869,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 15569.93,
-          "avg_price": 0.8749,
-          "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Bab el-Mandeb Strait effectively closed by August 31?",
-      "slug": "bab-el-mandeb-strait-effectively-closed-by-august-31",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 94463.68,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 90425.35,
-          "avg_price": 0.8633,
-          "cur_price": 0.961
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 2120.37,
-          "avg_price": 0.8937,
-          "cur_price": 0.961
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 1917.96,
-          "avg_price": 0.8938,
-          "cur_price": 0.961
-        }
-      ]
-    },
-    {
-      "market": "Israel closes its airspace by August 31?",
-      "slug": "israel-closes-its-airspace-by-august-31-389",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 87452.53,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 57277.6,
-          "avg_price": 0.6793,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 16899.73,
-          "avg_price": 0.7308,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 13275.2,
-          "avg_price": 0.6931,
-          "cur_price": 0.795
-        }
-      ]
-    },
-    {
-      "market": "Kharg Island no longer under Iranian control by August 31?",
-      "slug": "kharg-island-no-longer-under-iranian-control-by-august-31",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 86973.12,
-      "holders": [
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 50005.49,
-          "avg_price": 0.9613,
-          "cur_price": 0.9805
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 24370.63,
-          "avg_price": 0.9541,
-          "cur_price": 0.9805
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 12597.0,
-          "avg_price": 0.9579,
-          "cur_price": 0.9805
-        }
-      ]
-    },
-    {
-      "market": "Bab el-Mandeb Strait effectively closed by December 31?",
-      "slug": "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 39799.95,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 36577.2,
-          "avg_price": 0.7591,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 3054.23,
-          "avg_price": 0.7938,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 168.52,
-          "avg_price": 0.8028,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "Israel closes its airspace by August 15?",
-      "slug": "israel-closes-its-airspace-by-august-15",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 34712.21,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 19541.14,
-          "avg_price": 0.7942,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 11493.21,
-          "avg_price": 0.8326,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 3677.86,
-          "avg_price": 0.7405,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "Cuban regime falls in 2026?",
-      "slug": "cuban-regime-falls-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 33345.01,
-      "holders": [
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 19238.59,
-          "avg_price": 0.7697,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.2387,
-          "value": 9100.22,
-          "avg_price": 0.74,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 5006.2,
-          "avg_price": 0.8149,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Strait of Hormuz traffic returns to normal by September 30?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 23238.2,
-      "holders": [
-        {
-          "trader": "BrightStars",
-          "roi": 0.5088,
-          "value": 13838.44,
-          "avg_price": 0.1764,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.1572,
-          "value": 6305.95,
-          "avg_price": 0.2489,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 3093.81,
-          "avg_price": 0.2535,
-          "cur_price": 0.235
-        }
-      ]
-    },
-    {
-      "market": "US x Iran Effective Ceasefire by August 14?",
-      "slug": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3182.66,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.1646,
-          "value": 2130.91,
-          "avg_price": 0.4054,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.6815,
-          "value": 601.63,
-          "avg_price": 0.5228,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "nojnn",
-          "roi": 0.1748,
-          "value": 450.12,
-          "avg_price": 0.5698,
-          "cur_price": 0.675
         }
       ]
     }
@@ -865,18 +524,22 @@
     "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 3,
     "val-fnc1-th1-2026-08-02::Team Heretics": 3,
     "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 3,
-    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 2,
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 2,
-    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 2,
-    "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 2,
-    "israel-closes-its-airspace-by-august-31-389::No": 2,
-    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 2,
-    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No": 2,
-    "israel-closes-its-airspace-by-august-15::No": 2,
-    "cuban-regime-falls-in-2026::No": 2,
-    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 2,
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 2,
-    "mlb-bos-lad-2026-08-02::Los Angeles Dodgers": 1
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 3,
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 3,
+    "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 3,
+    "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 3,
+    "israel-closes-its-airspace-by-august-31-389::No": 3,
+    "kharg-island-no-longer-under-iranian-control-by-august-31::No": 3,
+    "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117::No": 3,
+    "israel-closes-its-airspace-by-august-15::No": 3,
+    "cuban-regime-falls-in-2026::No": 3,
+    "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 3,
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 3,
+    "mlb-bos-lad-2026-08-02::Los Angeles Dodgers": 2,
+    "will-the-us-invade-iran-before-2027::No": 1,
+    "wta-pegula-eala-2026-08-02::Jessica Pegula": 1,
+    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 1,
+    "mlb-sf-atl-2026-06-18::Atlanta Braves": 1
   },
-  "updated_at": "2026-08-03T01:13:58.371519+00:00"
+  "updated_at": "2026-08-03T04:50:30.458790+00:00"
 }
