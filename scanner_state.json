@@ -1,6 +1,76 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "dota2-flc-bb4-2026-08-03-game1::Team Falcons",
+    "dota2-flc-bb4-2026-08-03-game2::Team Falcons"
+  ],
   "signals": [
+    {
+      "market": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
+      "slug": "dota2-flc-bb4-2026-08-03-game1",
+      "outcome": "Team Falcons",
+      "num_traders": 4,
+      "total_value": 37609.96,
+      "holders": [
+        {
+          "trader": "Neurian",
+          "roi": 0.1766,
+          "value": 19176.66,
+          "avg_price": 0.4864,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ATPlegend",
+          "roi": 0.1872,
+          "value": 11556.8,
+          "avg_price": 0.4443,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.4149,
+          "value": 6367.81,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+          "roi": 0.1973,
+          "value": 508.69,
+          "avg_price": 0.6012,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Falcons vs BetBoom Team - Game 2 Winner",
+      "slug": "dota2-flc-bb4-2026-08-03-game2",
+      "outcome": "Team Falcons",
+      "num_traders": 3,
+      "total_value": 9078.96,
+      "holders": [
+        {
+          "trader": "ATPlegend",
+          "roi": 0.1872,
+          "value": 5534.98,
+          "avg_price": 0.49,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Neurian",
+          "roi": 0.1766,
+          "value": 3375.23,
+          "avg_price": 0.48,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+          "roi": 0.1973,
+          "value": 168.75,
+          "avg_price": 0.62,
+          "cur_price": 0.675
+        }
+      ]
+    },
     {
       "market": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
       "slug": "lol-gen-hle1-2026-08-03-game1",
@@ -71,36 +141,6 @@
           "roi": 0.3494,
           "value": 3353.38,
           "avg_price": 0.71,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Philadelphia Phillies vs. Baltimore Orioles",
-      "slug": "mlb-phi-bal-2026-08-02",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 85459.61,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2236,
-          "value": 84407.91,
-          "avg_price": 0.56,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.2222,
-          "value": 918.43,
-          "avg_price": 0.8582,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4051,
-          "value": 133.27,
-          "avg_price": 0.9499,
           "cur_price": 0.9995
         }
       ]
@@ -455,9 +495,9 @@
     "wta-pegula-eala-2026-08-02::Jessica Pegula": 3,
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
     "mlb-sf-atl-2026-06-18::Atlanta Braves": 3,
-    "mlb-phi-bal-2026-08-02::Philadelphia Phillies": 2,
-    "lol-gen-hle1-2026-08-03-game1::Hanwha Life Esports": 1,
-    "lol-gen-hle1-2026-08-03::Hanwha Life Esports": 1
+    "mlb-phi-bal-2026-08-02::Philadelphia Phillies": 3,
+    "lol-gen-hle1-2026-08-03-game1::Hanwha Life Esports": 2,
+    "lol-gen-hle1-2026-08-03::Hanwha Life Esports": 2
   },
-  "updated_at": "2026-08-03T14:10:09.074280+00:00"
+  "updated_at": "2026-08-03T16:41:24.172065+00:00"
 }
