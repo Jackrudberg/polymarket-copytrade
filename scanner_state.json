@@ -2,59 +2,74 @@
   "seen_ids": [
     "will-the-us-invade-iran-before-2027::No",
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
+    "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas",
+    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes",
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes",
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No",
     "iran-leadership-change-by-december-31-974-976-658-482-568-685::No",
     "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes",
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes",
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes",
-    "will-james-talarico-win-the-2028-democratic-presidential-nomination::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
+    "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154::No",
+    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes",
+    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes",
+    "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148::Yes",
+    "wta-osorio-alexand-2026-08-04::Camila Osorio"
   ],
   "signals": [
     {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
-      "num_traders": 5,
-      "total_value": 1284720.83,
+      "num_traders": 7,
+      "total_value": 1320384.66,
       "holders": [
         {
           "trader": "QuietRiskisWrong",
-          "roi": 0.465,
+          "roi": 0.5044,
           "value": 716139.72,
           "avg_price": 0.7219,
           "cur_price": 0.805
         },
         {
           "trader": "denizz",
-          "roi": 0.3298,
+          "roi": 0.3446,
           "value": 304407.08,
           "avg_price": 0.7359,
           "cur_price": 0.805
         },
         {
           "trader": "ImJustKen",
-          "roi": 0.5241,
+          "roi": 0.3815,
           "value": 127324.05,
           "avg_price": 0.7373,
           "cur_price": 0.805
         },
         {
           "trader": "mr.ozi",
-          "roi": 0.2873,
+          "roi": 0.3747,
           "value": 112699.98,
           "avg_price": 0.7269,
           "cur_price": 0.805
         },
         {
+          "trader": "Bertapotamous",
+          "roi": 0.2434,
+          "value": 31638.85,
+          "avg_price": 0.766,
+          "cur_price": 0.805
+        },
+        {
           "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.4224,
+          "roi": 0.4146,
           "value": 24150.0,
           "avg_price": 0.7799,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "tja",
+          "roi": 0.7054,
+          "value": 4024.98,
+          "avg_price": 0.7493,
           "cur_price": 0.805
         }
       ]
@@ -63,36 +78,424 @@
       "market": "US x Iran Effective Ceasefire by July 31?",
       "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 266247.6,
+      "num_traders": 5,
+      "total_value": 352889.72,
       "holders": [
         {
           "trader": "BrightStars",
-          "roi": 0.69,
-          "value": 106184.2,
+          "roi": 0.8529,
+          "value": 122043.17,
           "avg_price": 0.2428,
-          "cur_price": 0.685
+          "cur_price": 0.795
         },
         {
           "trader": "denizz",
-          "roi": 0.3298,
-          "value": 78535.78,
+          "roi": 0.3446,
+          "value": 91147.37,
           "avg_price": 0.4197,
-          "cur_price": 0.685
+          "cur_price": 0.795
         },
         {
           "trader": "ImJustKen",
-          "roi": 0.5241,
-          "value": 61714.41,
+          "roi": 0.3815,
+          "value": 71624.75,
           "avg_price": 0.4494,
-          "cur_price": 0.685
+          "cur_price": 0.795
+        },
+        {
+          "trader": "Bertapotamous",
+          "roi": 0.2434,
+          "value": 45079.53,
+          "avg_price": 0.407,
+          "cur_price": 0.795
         },
         {
           "trader": "mr.ozi",
-          "roi": 0.2873,
-          "value": 19813.21,
+          "roi": 0.3747,
+          "value": 22994.9,
           "avg_price": 0.496,
-          "cur_price": 0.685
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
+      "slug": "atp-damm-tsitsip-2026-08-03",
+      "outcome": "Stefanos Tsitsipas",
+      "num_traders": 4,
+      "total_value": 37025.08,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2059,
+          "value": 28061.91,
+          "avg_price": 0.63,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.2315,
+          "value": 7462.5,
+          "avg_price": 0.64,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "TRCM",
+          "roi": 0.3998,
+          "value": 1185.69,
+          "avg_price": 0.6811,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "paquitomillonario",
+          "roi": 0.3137,
+          "value": 314.98,
+          "avg_price": 0.64,
+          "cur_price": 0.995
+        }
+      ]
+    },
+    {
+      "market": "US-Iran 60 day negotiation period extended?",
+      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 35150.94,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 24465.78,
+          "avg_price": 0.5381,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4146,
+          "value": 6550.0,
+          "avg_price": 0.59,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 3283.67,
+          "avg_price": 0.5754,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "tja",
+          "roi": 0.7054,
+          "value": 851.49,
+          "avg_price": 0.518,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "US x Iran Effective Ceasefire by August 14?",
+      "slug": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 9698.8,
+      "holders": [
+        {
+          "trader": "ImJustKen",
+          "roi": 0.3815,
+          "value": 6037.49,
+          "avg_price": 0.65,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 2541.31,
+          "avg_price": 0.4054,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.5044,
+          "value": 717.5,
+          "avg_price": 0.5228,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "tja",
+          "roi": 0.7054,
+          "value": 402.5,
+          "avg_price": 0.36,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Will the Iranian regime fall before 2027?",
+      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 438756.58,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 433142.31,
+          "avg_price": 0.7523,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4146,
+          "value": 4635.45,
+          "avg_price": 0.8099,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "tja",
+          "roi": 0.7054,
+          "value": 978.82,
+          "avg_price": 0.7455,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Iran leadership change by December 31?",
+      "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 123554.47,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 68400.02,
+          "avg_price": 0.5904,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 43813.54,
+          "avg_price": 0.6545,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4146,
+          "value": 11340.91,
+          "avg_price": 0.4734,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
+      "slug": "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 111975.63,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 47130.14,
+          "avg_price": 0.5348,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.3815,
+          "value": 37113.17,
+          "avg_price": 0.0494,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 27732.32,
+          "avg_price": 0.512,
+          "cur_price": 0.8255
+        }
+      ]
+    },
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 84070.12,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 41374.88,
+          "avg_price": 0.6497,
+          "cur_price": 0.8475
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 41349.85,
+          "avg_price": 0.6332,
+          "cur_price": 0.8475
+        },
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.5044,
+          "value": 1345.39,
+          "avg_price": 0.8459,
+          "cur_price": 0.8475
+        }
+      ]
+    },
+    {
+      "market": "US-Iran Final Nuclear Deal by August 31, 2026?",
+      "slug": "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 59449.59,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 39408.81,
+          "avg_price": 0.9586,
+          "cur_price": 0.9635
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 19269.98,
+          "avg_price": 0.93,
+          "cur_price": 0.9635
+        },
+        {
+          "trader": "tja",
+          "roi": 0.7054,
+          "value": 770.8,
+          "avg_price": 0.77,
+          "cur_price": 0.9635
+        }
+      ]
+    },
+    {
+      "market": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 58940.43,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 35030.52,
+          "avg_price": 0.5444,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 23770.1,
+          "avg_price": 0.5747,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "0x25db6cA5935ae858A5c1F2dCD5c62939805328dE-1770665598557",
+          "roi": 0.3996,
+          "value": 139.81,
+          "avg_price": 0.5899,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "US announces end of Iranian blockade by August 7, 2026?",
+      "slug": "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 31857.64,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.8529,
+          "value": 17986.75,
+          "avg_price": 0.2224,
+          "cur_price": 0.483
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3446,
+          "value": 11422.75,
+          "avg_price": 0.3088,
+          "cur_price": 0.483
+        },
+        {
+          "trader": "Bertapotamous",
+          "roi": 0.2434,
+          "value": 2448.14,
+          "avg_price": 0.2047,
+          "cur_price": 0.483
+        }
+      ]
+    },
+    {
+      "market": "Strait of Hormuz traffic returns to normal by August 15?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 24756.17,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.8529,
+          "value": 24074.1,
+          "avg_price": 0.0217,
+          "cur_price": 0.0505
+        },
+        {
+          "trader": "0x25db6cA5935ae858A5c1F2dCD5c62939805328dE-1770665598557",
+          "roi": 0.3996,
+          "value": 508.31,
+          "avg_price": 0.0289,
+          "cur_price": 0.0505
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.3747,
+          "value": 173.76,
+          "avg_price": 0.025,
+          "cur_price": 0.0505
+        }
+      ]
+    },
+    {
+      "market": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
+      "slug": "wta-osorio-alexand-2026-08-04",
+      "outcome": "Camila Osorio",
+      "num_traders": 3,
+      "total_value": 8656.76,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2059,
+          "value": 5450,
+          "avg_price": 0.5,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.2315,
+          "value": 2727.72,
+          "avg_price": 0.54,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "paquitomillonario",
+          "roi": 0.3137,
+          "value": 479.04,
+          "avg_price": 0.53,
+          "cur_price": 0.545
         }
       ]
     },
@@ -127,96 +530,6 @@
       ]
     },
     {
-      "market": "Iran leadership change by December 31?",
-      "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 123554.47,
-      "holders": [
-        {
-          "trader": "mr.ozi",
-          "roi": 0.2873,
-          "value": 68400.02,
-          "avg_price": 0.5904,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.3298,
-          "value": 43813.54,
-          "avg_price": 0.6545,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.4224,
-          "value": 11340.91,
-          "avg_price": 0.4734,
-          "cur_price": 0.855
-        }
-      ]
-    },
-    {
-      "market": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
-      "slug": "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 111975.63,
-      "holders": [
-        {
-          "trader": "mr.ozi",
-          "roi": 0.2873,
-          "value": 47130.14,
-          "avg_price": 0.5348,
-          "cur_price": 0.8255
-        },
-        {
-          "trader": "ImJustKen",
-          "roi": 0.5241,
-          "value": 37113.17,
-          "avg_price": 0.0494,
-          "cur_price": 0.8255
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.3298,
-          "value": 27732.32,
-          "avg_price": 0.512,
-          "cur_price": 0.8255
-        }
-      ]
-    },
-    {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 83623.72,
-      "holders": [
-        {
-          "trader": "mr.ozi",
-          "roi": 0.2873,
-          "value": 41155.19,
-          "avg_price": 0.6497,
-          "cur_price": 0.843
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.3298,
-          "value": 41130.29,
-          "avg_price": 0.6332,
-          "cur_price": 0.843
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.465,
-          "value": 1338.24,
-          "avg_price": 0.8459,
-          "cur_price": 0.843
-        }
-      ]
-    },
-    {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
       "outcome": "New York Yankees",
@@ -243,36 +556,6 @@
           "value": 1702.62,
           "avg_price": 0.5139,
           "cur_price": 0.47
-        }
-      ]
-    },
-    {
-      "market": "US-Iran 60 day negotiation period extended?",
-      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 35346.77,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.3298,
-          "value": 25212.83,
-          "avg_price": 0.5381,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.4224,
-          "value": 6750.0,
-          "avg_price": 0.59,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "mr.ozi",
-          "roi": 0.2873,
-          "value": 3383.94,
-          "avg_price": 0.5754,
-          "cur_price": 0.675
         }
       ]
     },
@@ -333,36 +616,6 @@
           "value": 1558.09,
           "avg_price": 0.48,
           "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "US x Iran Effective Ceasefire by August 14?",
-      "slug": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8603.4,
-      "holders": [
-        {
-          "trader": "ImJustKen",
-          "roi": 0.5241,
-          "value": 5587.49,
-          "avg_price": 0.65,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.3298,
-          "value": 2351.89,
-          "avg_price": 0.4054,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.465,
-          "value": 664.02,
-          "avg_price": 0.5228,
-          "cur_price": 0.745
         }
       ]
     },
@@ -485,36 +738,6 @@
       ]
     },
     {
-      "market": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
-      "slug": "atp-damm-tsitsip-2026-08-03",
-      "outcome": "Stefanos Tsitsipas",
-      "num_traders": 3,
-      "total_value": 18310.09,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2313,
-          "value": 17752.65,
-          "avg_price": 0.63,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "KnightDasCapital",
-          "roi": 0.1634,
-          "value": 353.26,
-          "avg_price": 0.63,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "paquitomillonario",
-          "roi": 0.4803,
-          "value": 204.18,
-          "avg_price": 0.64,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
       "market": "Will Chicago Fire FC win on 2026-07-16?",
       "slug": "mls-chi-vwh-2026-07-16-chi",
       "outcome": "No",
@@ -541,156 +764,6 @@
           "value": 196.36,
           "avg_price": 0.64,
           "cur_price": 0.67
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
-      "slug": "lol-t1-hle1-2026-08-04-game2",
-      "outcome": "T1",
-      "num_traders": 3,
-      "total_value": 76400.15,
-      "holders": [
-        {
-          "trader": "esportGG",
-          "roi": 0.5826,
-          "value": 41130.58,
-          "avg_price": 0.5286,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "five5120",
-          "roi": 0.2816,
-          "value": 34982.45,
-          "avg_price": 0.6185,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 287.12,
-          "avg_price": 0.6788,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
-      "slug": "ucl-din-kau-2026-08-04-kau",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 15641.35,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2981,
-          "value": 6083.9,
-          "avg_price": 0.9549,
-          "cur_price": 0.957
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2108,
-          "value": 5189.14,
-          "avg_price": 0.9506,
-          "cur_price": 0.957
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 4368.31,
-          "avg_price": 0.9598,
-          "cur_price": 0.957
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 9034.77,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2176,
-          "value": 8608.28,
-          "avg_price": 0.51,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 278.29,
-          "avg_price": 0.5214,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5474,
-          "value": 148.2,
-          "avg_price": 0.5212,
-          "cur_price": 0.51
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Cincinnati Reds",
-      "slug": "mlb-oak-cin-2026-08-04",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 5917.77,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2981,
-          "value": 2447.85,
-          "avg_price": 0.55,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2176,
-          "value": 2350.04,
-          "avg_price": 0.55,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 1119.88,
-          "avg_price": 0.55,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Hagen: Federico Agustin Gomez vs Henri Squire",
-      "slug": "atp-gomez-squire-2026-08-03",
-      "outcome": "Henri Squire",
-      "num_traders": 3,
-      "total_value": 1196.98,
-      "holders": [
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2108,
-          "value": 438.5,
-          "avg_price": 0.4922,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2981,
-          "value": 384.12,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 374.36,
-          "avg_price": 0.86,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1000,10 +1073,8 @@
     "putin-out-before-2027-346::No": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-july-31::No": 3,
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
-    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 3,
     "dota2-rnx-yb1-2026-08-02-game2::Yakult Brothers": 3,
     "iran-agrees-to-surrender-enriched-uranium-stockpile-by-december-31-2026-752-299::No": 3,
-    "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154::No": 3,
     "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347::Yes": 3,
     "iran-leadership-change-by-september-30-20260629144005163-739::No": 3,
@@ -1015,9 +1086,7 @@
     "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823::Yes": 3,
     "us-obtains-iranian-enriched-uranium-by-december-31-725-733-123-574-634::No": 3,
     "val-fnc1-th1-2026-08-02::Team Heretics": 3,
-    "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 3,
     "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671::No": 3,
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320::No": 3,
     "bab-el-mandeb-strait-effectively-closed-by-august-31::No": 3,
     "israel-closes-its-airspace-by-august-31-389::No": 3,
@@ -1050,14 +1119,19 @@
     "wta-podlins-valdman-2026-08-04::Marcelina Podlinska": 3,
     "ucl-usg-bog-2026-08-04-bog::No": 3,
     "ucl-hbs-crv-2026-08-04-crv::No": 3,
-    "lol-t1-hle1-2026-08-04-game2::T1": 2,
-    "ucl-din-kau-2026-08-04-kau::No": 2,
-    "mlb-atl-cws-2026-06-11::Atlanta Braves": 2,
-    "mlb-oak-cin-2026-08-04::Cincinnati Reds": 2,
-    "atp-gomez-squire-2026-08-03::Henri Squire": 2,
-    "lol-t1-hle1-2026-08-04::T1": 1,
-    "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas": 1,
-    "mls-chi-vwh-2026-07-16-chi::No": 1
+    "lol-t1-hle1-2026-08-04-game2::T1": 3,
+    "ucl-din-kau-2026-08-04-kau::No": 3,
+    "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
+    "mlb-oak-cin-2026-08-04::Cincinnati Reds": 3,
+    "atp-gomez-squire-2026-08-03::Henri Squire": 3,
+    "lol-t1-hle1-2026-08-04::T1": 2,
+    "mls-chi-vwh-2026-07-16-chi::No": 2,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 1,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1,
+    "will-james-talarico-win-the-2028-democratic-presidential-nomination::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-08-04T14:44:59.993900+00:00"
+  "updated_at": "2026-08-04T16:33:33.840526+00:00"
 }
