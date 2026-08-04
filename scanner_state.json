@@ -1,16 +1,431 @@
 {
   "seen_ids": [
-    "lol-t1-hle1-2026-08-04::T1",
     "will-the-us-invade-iran-before-2027::No",
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
     "will-jd-vance-win-the-2028-us-presidential-election::Yes",
+    "iran-leadership-change-by-december-31-974-976-658-482-568-685::No",
+    "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes",
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes",
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes",
-    "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes",
     "will-james-talarico-win-the-2028-democratic-presidential-nomination::Yes",
-    "mls-chi-vwh-2026-07-16-chi::No"
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 1284720.83,
+      "holders": [
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.465,
+          "value": 716139.72,
+          "avg_price": 0.7219,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 304407.08,
+          "avg_price": 0.7359,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 127324.05,
+          "avg_price": 0.7373,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 112699.98,
+          "avg_price": 0.7269,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4224,
+          "value": 24150.0,
+          "avg_price": 0.7799,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "US x Iran Effective Ceasefire by July 31?",
+      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 266247.6,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.69,
+          "value": 106184.2,
+          "avg_price": 0.2428,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 78535.78,
+          "avg_price": 0.4197,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 61714.41,
+          "avg_price": 0.4494,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 19813.21,
+          "avg_price": 0.496,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 180821.15,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.69,
+          "value": 170495.28,
+          "avg_price": 0.5,
+          "cur_price": 0.2075
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 9508.0,
+          "avg_price": 0.1816,
+          "cur_price": 0.2075
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1697,
+          "value": 817.87,
+          "avg_price": 0.0081,
+          "cur_price": 0.2075
+        }
+      ]
+    },
+    {
+      "market": "Iran leadership change by December 31?",
+      "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 123554.47,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 68400.02,
+          "avg_price": 0.5904,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 43813.54,
+          "avg_price": 0.6545,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4224,
+          "value": 11340.91,
+          "avg_price": 0.4734,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
+      "slug": "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 111975.63,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 47130.14,
+          "avg_price": 0.5348,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 37113.17,
+          "avg_price": 0.0494,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 27732.32,
+          "avg_price": 0.512,
+          "cur_price": 0.8255
+        }
+      ]
+    },
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 83623.72,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 41155.19,
+          "avg_price": 0.6497,
+          "cur_price": 0.843
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 41130.29,
+          "avg_price": 0.6332,
+          "cur_price": 0.843
+        },
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.465,
+          "value": 1338.24,
+          "avg_price": 0.8459,
+          "cur_price": 0.843
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 39978.81,
+      "holders": [
+        {
+          "trader": "phonesculptor",
+          "roi": 0.5852,
+          "value": 29788.71,
+          "avg_price": 0.5205,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2319,
+          "value": 8487.48,
+          "avg_price": 0.5,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1697,
+          "value": 1702.62,
+          "avg_price": 0.5139,
+          "cur_price": 0.47
+        }
+      ]
+    },
+    {
+      "market": "US-Iran 60 day negotiation period extended?",
+      "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 35346.77,
+      "holders": [
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 25212.83,
+          "avg_price": 0.5381,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4224,
+          "value": 6750.0,
+          "avg_price": 0.59,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 0.2873,
+          "value": 3383.94,
+          "avg_price": 0.5754,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 22791.07,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1697,
+          "value": 12605.09,
+          "avg_price": 0.0078,
+          "cur_price": 0.1345
+        },
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 8289.04,
+          "avg_price": 0.0962,
+          "cur_price": 0.1345
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1702,
+          "value": 1896.94,
+          "avg_price": 0.1376,
+          "cur_price": 0.1345
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 17999.46,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2319,
+          "value": 8728.88,
+          "avg_price": 0.48,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.1995,
+          "value": 7712.49,
+          "avg_price": 0.4991,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1697,
+          "value": 1558.09,
+          "avg_price": 0.48,
+          "cur_price": 0.385
+        }
+      ]
+    },
+    {
+      "market": "US x Iran Effective Ceasefire by August 14?",
+      "slug": "us-x-iran-effective-ceasfire-by-august-14-20260715194822046",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8603.4,
+      "holders": [
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 5587.49,
+          "avg_price": 0.65,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "denizz",
+          "roi": 0.3298,
+          "value": 2351.89,
+          "avg_price": 0.4054,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.465,
+          "value": 664.02,
+          "avg_price": 0.5228,
+          "cur_price": 0.745
+        }
+      ]
+    },
+    {
+      "market": "Will James Talarico win the 2028 Democratic presidential nomination?",
+      "slug": "will-james-talarico-win-the-2028-democratic-presidential-nomination",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5053.23,
+      "holders": [
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5241,
+          "value": 3112.43,
+          "avg_price": 0.0152,
+          "cur_price": 0.0115
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1697,
+          "value": 1540.18,
+          "avg_price": 0.0078,
+          "cur_price": 0.0115
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.1702,
+          "value": 400.62,
+          "avg_price": 0.0012,
+          "cur_price": 0.0115
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3229.09,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 0.1702,
+          "value": 2045.24,
+          "avg_price": 0.0312,
+          "cur_price": 0.2715
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3009,
+          "value": 740.88,
+          "avg_price": 0.0312,
+          "cur_price": 0.2715
+        },
+        {
+          "trader": "QuietRiskisWrong",
+          "roi": 0.465,
+          "value": 442.97,
+          "avg_price": 0.2659,
+          "cur_price": 0.2715
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
       "slug": "lol-t1-hle1-2026-08-04",
@@ -70,126 +485,6 @@
       ]
     },
     {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 455881.13,
-      "holders": [
-        {
-          "trader": "denizz",
-          "roi": 0.2386,
-          "value": 304407.08,
-          "avg_price": 0.7359,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "ImJustKen",
-          "roi": 0.3184,
-          "value": 127324.05,
-          "avg_price": 0.7373,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3964,
-          "value": 24150.0,
-          "avg_price": 0.7799,
-          "cur_price": 0.805
-        }
-      ]
-    },
-    {
-      "market": "US x Iran Effective Ceasefire by July 31?",
-      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 225786.39,
-      "holders": [
-        {
-          "trader": "BrightStars",
-          "roi": 0.2004,
-          "value": 97820.89,
-          "avg_price": 0.2428,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "denizz",
-          "roi": 0.2386,
-          "value": 71656.74,
-          "avg_price": 0.4197,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "ImJustKen",
-          "roi": 0.3184,
-          "value": 56308.76,
-          "avg_price": 0.4494,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 180821.15,
-      "holders": [
-        {
-          "trader": "BrightStars",
-          "roi": 0.2004,
-          "value": 170495.28,
-          "avg_price": 0.5,
-          "cur_price": 0.2075
-        },
-        {
-          "trader": "ImJustKen",
-          "roi": 0.3184,
-          "value": 9508.0,
-          "avg_price": 0.1816,
-          "cur_price": 0.2075
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1856,
-          "value": 817.87,
-          "avg_price": 0.0081,
-          "cur_price": 0.2075
-        }
-      ]
-    },
-    {
-      "market": "Will Marco Rubio win the 2028 US Presidential Election?",
-      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 22791.07,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1856,
-          "value": 12605.09,
-          "avg_price": 0.0078,
-          "cur_price": 0.1345
-        },
-        {
-          "trader": "ImJustKen",
-          "roi": 0.3184,
-          "value": 8289.04,
-          "avg_price": 0.0962,
-          "cur_price": 0.1345
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.5068,
-          "value": 1896.94,
-          "avg_price": 0.1376,
-          "cur_price": 0.1345
-        }
-      ]
-    },
-    {
       "market": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
       "slug": "atp-damm-tsitsip-2026-08-03",
       "outcome": "Stefanos Tsitsipas",
@@ -216,66 +511,6 @@
           "value": 204.18,
           "avg_price": 0.64,
           "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 17531.94,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2319,
-          "value": 8502.16,
-          "avg_price": 0.48,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2313,
-          "value": 7512.16,
-          "avg_price": 0.4991,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1856,
-          "value": 1517.62,
-          "avg_price": 0.48,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Will James Talarico win the 2028 Democratic presidential nomination?",
-      "slug": "will-james-talarico-win-the-2028-democratic-presidential-nomination",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5053.23,
-      "holders": [
-        {
-          "trader": "ImJustKen",
-          "roi": 0.3184,
-          "value": 3112.43,
-          "avg_price": 0.0152,
-          "cur_price": 0.0115
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1856,
-          "value": 1540.18,
-          "avg_price": 0.0078,
-          "cur_price": 0.0115
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.5068,
-          "value": 400.62,
-          "avg_price": 0.0012,
-          "cur_price": 0.0115
         }
       ]
     },
@@ -370,36 +605,6 @@
       ]
     },
     {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10599.37,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2321,
-          "value": 8487.48,
-          "avg_price": 0.5,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2176,
-          "value": 1702.62,
-          "avg_price": 0.5139,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1929,
-          "value": 409.27,
-          "avg_price": 0.514,
-          "cur_price": 0.47
-        }
-      ]
-    },
-    {
       "market": "Atlanta Braves vs. Chicago White Sox",
       "slug": "mlb-atl-cws-2026-06-11",
       "outcome": "Atlanta Braves",
@@ -486,216 +691,6 @@
           "value": 374.36,
           "avg_price": 0.86,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
-      "slug": "wta-podlins-valdman-2026-08-04",
-      "outcome": "Vendula Valdmannova",
-      "num_traders": 3,
-      "total_value": 25750.08,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.1973,
-          "value": 20747.8,
-          "avg_price": 0.5009,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 4400.54,
-          "avg_price": 0.6836,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 601.74,
-          "avg_price": 0.7808,
-          "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "Canadian Open: Terence Atmane vs Jack Draper",
-      "slug": "atp-atmane-draper-2026-08-03",
-      "outcome": "Terence Atmane",
-      "num_traders": 3,
-      "total_value": 8927.59,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.1973,
-          "value": 7285.4,
-          "avg_price": 0.32,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 1461.81,
-          "avg_price": 0.3204,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "paquitomillonario",
-          "roi": 0.6276,
-          "value": 180.38,
-          "avg_price": 0.33,
-          "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "Will CA Central C\u00f3rdoba win on 2026-08-03?",
-      "slug": "arg-cac-slo-2026-08-03-cac",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4197.04,
-      "holders": [
-        {
-          "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 1789.09,
-          "avg_price": 0.6585,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2358,
-          "value": 1408.45,
-          "avg_price": 0.5664,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 999.5,
-          "avg_price": 0.3,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Chicago White Sox",
-      "num_traders": 3,
-      "total_value": 3577.9,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2364,
-          "value": 2416.85,
-          "avg_price": 0.4732,
-          "cur_price": 0.49
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4427,
-          "value": 832.17,
-          "avg_price": 0.481,
-          "cur_price": 0.49
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5472,
-          "value": 328.88,
-          "avg_price": 0.5062,
-          "cur_price": 0.49
-        }
-      ]
-    },
-    {
-      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
-      "slug": "wta-podlins-valdman-2026-08-04",
-      "outcome": "Marcelina Podlinska",
-      "num_traders": 3,
-      "total_value": 1340.99,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 752.85,
-          "avg_price": 0.339,
-          "cur_price": 0.165
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2358,
-          "value": 367.75,
-          "avg_price": 0.4826,
-          "cur_price": 0.165
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.1973,
-          "value": 220.39,
-          "avg_price": 0.5017,
-          "cur_price": 0.165
-        }
-      ]
-    },
-    {
-      "market": "Will FK Bod\u00f8/Glimt win on 2026-08-04?",
-      "slug": "ucl-usg-bog-2026-08-04-bog",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1313.82,
-      "holders": [
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4427,
-          "value": 546.28,
-          "avg_price": 0.6815,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2358,
-          "value": 518.83,
-          "avg_price": 0.6903,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 248.71,
-          "avg_price": 0.6786,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "Will FK Crvena zvezda win on 2026-08-04?",
-      "slug": "ucl-hbs-crv-2026-08-04-crv",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1163.11,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 887.21,
-          "avg_price": 0.4684,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2358,
-          "value": 139.73,
-          "avg_price": 0.47,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4427,
-          "value": 136.17,
-          "avg_price": 0.47,
-          "cur_price": 0.445
         }
       ]
     }
@@ -1002,14 +997,11 @@
     "israel-x-iran-ceasefire-continues-through-august-4::Yes": 3,
     "fed-rate-hike-in-2026::No": 3,
     "will-count-binface-win-the-clacton-by-election-20260707211451133::No": 3,
-    "iran-leadership-change-by-december-31-974-976-658-482-568-685::No": 3,
     "putin-out-before-2027-346::No": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-july-31::No": 3,
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 3,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "dota2-rnx-yb1-2026-08-02-game2::Yakult Brothers": 3,
-    "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes": 3,
     "iran-agrees-to-surrender-enriched-uranium-stockpile-by-december-31-2026-752-299::No": 3,
     "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154::No": 3,
     "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
@@ -1017,7 +1009,6 @@
     "iran-leadership-change-by-september-30-20260629144005163-739::No": 3,
     "us-strike-on-cuba-by-december-31::No": 3,
     "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::No": 3,
-    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes": 3,
     "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No": 3,
     "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-3::Yes": 3,
@@ -1035,7 +1026,6 @@
     "israel-closes-its-airspace-by-august-15::No": 3,
     "cuban-regime-falls-in-2026::No": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440::Yes": 3,
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 3,
     "mlb-bos-lad-2026-08-02::Los Angeles Dodgers": 3,
     "wta-pegula-eala-2026-08-02::Jessica Pegula": 3,
     "mlb-sf-atl-2026-06-18::Atlanta Braves": 3,
@@ -1051,22 +1041,23 @@
     "dota2-liquid-vg-2026-08-03::Vici Gaming": 3,
     "dota2-re-lgd-2026-08-03::Rune Eaters": 3,
     "dota2-liquid-vg-2026-08-03-game2::Vici Gaming": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "mlb-sd-ari-2026-08-03::Arizona Diamondbacks": 3,
     "col1-cab-cdf-2026-08-03-cab::No": 3,
-    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova": 2,
-    "atp-atmane-draper-2026-08-03::Terence Atmane": 2,
-    "arg-cac-slo-2026-08-03-cac::Yes": 2,
-    "mlb-atl-cws-2026-06-11::Chicago White Sox": 2,
-    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska": 2,
-    "ucl-usg-bog-2026-08-04-bog::No": 2,
-    "ucl-hbs-crv-2026-08-04-crv::No": 2,
-    "lol-t1-hle1-2026-08-04-game2::T1": 1,
-    "ucl-din-kau-2026-08-04-kau::No": 1,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
-    "mlb-atl-cws-2026-06-11::Atlanta Braves": 1,
-    "mlb-oak-cin-2026-08-04::Cincinnati Reds": 1,
-    "atp-gomez-squire-2026-08-03::Henri Squire": 1
+    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova": 3,
+    "atp-atmane-draper-2026-08-03::Terence Atmane": 3,
+    "arg-cac-slo-2026-08-03-cac::Yes": 3,
+    "mlb-atl-cws-2026-06-11::Chicago White Sox": 3,
+    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska": 3,
+    "ucl-usg-bog-2026-08-04-bog::No": 3,
+    "ucl-hbs-crv-2026-08-04-crv::No": 3,
+    "lol-t1-hle1-2026-08-04-game2::T1": 2,
+    "ucl-din-kau-2026-08-04-kau::No": 2,
+    "mlb-atl-cws-2026-06-11::Atlanta Braves": 2,
+    "mlb-oak-cin-2026-08-04::Cincinnati Reds": 2,
+    "atp-gomez-squire-2026-08-03::Henri Squire": 2,
+    "lol-t1-hle1-2026-08-04::T1": 1,
+    "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas": 1,
+    "mls-chi-vwh-2026-07-16-chi::No": 1
   },
-  "updated_at": "2026-08-04T12:16:20.347685+00:00"
+  "updated_at": "2026-08-04T14:44:59.993900+00:00"
 }
