@@ -1,18 +1,400 @@
 {
   "seen_ids": [
-    "mlb-sd-ari-2026-08-03::Arizona Diamondbacks",
-    "col1-cab-cdf-2026-08-03-cab::No",
-    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "ucl-din-kau-2026-08-04-kau::No",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "atp-atmane-draper-2026-08-03::Terence Atmane",
+    "mlb-oak-cin-2026-08-04::Cincinnati Reds",
+    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "mlb-atl-cws-2026-06-11::Atlanta Braves",
+    "atp-atmane-draper-2026-08-03::Terence Atmane",
     "arg-cac-slo-2026-08-03-cac::Yes",
-    "lol-t1-hle1-2026-08-04::T1",
-    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska"
+    "mlb-atl-cws-2026-06-11::Chicago White Sox",
+    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska",
+    "ucl-usg-bog-2026-08-04-bog::No",
+    "ucl-hbs-crv-2026-08-04-crv::No"
   ],
   "signals": [
+    {
+      "market": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
+      "slug": "ucl-din-kau-2026-08-04-kau",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 16210.8,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.3798,
+          "value": 6112.51,
+          "avg_price": 0.9549,
+          "cur_price": 0.9615
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2358,
+          "value": 5213.54,
+          "avg_price": 0.9506,
+          "cur_price": 0.9615
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 3198.57,
+          "avg_price": 0.9543,
+          "cur_price": 0.9615
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 1686.18,
+          "avg_price": 0.9593,
+          "cur_price": 0.9615
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 4,
+      "total_value": 12082.99,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2364,
+          "value": 8487.48,
+          "avg_price": 0.5,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2372,
+          "value": 1702.62,
+          "avg_price": 0.5139,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4427,
+          "value": 1483.62,
+          "avg_price": 0.5219,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 409.27,
+          "avg_price": 0.514,
+          "cur_price": 0.47
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Cincinnati Reds",
+      "slug": "mlb-oak-cin-2026-08-04",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 4,
+      "total_value": 4074.57,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.3798,
+          "value": 2492.77,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2372,
+          "value": 934.07,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4427,
+          "value": 526.7,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 121.03,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
+      "slug": "wta-podlins-valdman-2026-08-04",
+      "outcome": "Vendula Valdmannova",
+      "num_traders": 3,
+      "total_value": 25750.08,
+      "holders": [
+        {
+          "trader": "0x076daa",
+          "roi": 0.1973,
+          "value": 20747.8,
+          "avg_price": 0.5009,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 4400.54,
+          "avg_price": 0.6836,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 601.74,
+          "avg_price": 0.7808,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 17765.69,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2364,
+          "value": 8615.52,
+          "avg_price": 0.48,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2616,
+          "value": 7612.32,
+          "avg_price": 0.4991,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2372,
+          "value": 1537.85,
+          "avg_price": 0.48,
+          "cur_price": 0.38
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9034.77,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2372,
+          "value": 8608.28,
+          "avg_price": 0.51,
+          "cur_price": 0.51
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 278.29,
+          "avg_price": 0.5214,
+          "cur_price": 0.51
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5472,
+          "value": 148.2,
+          "avg_price": 0.5212,
+          "cur_price": 0.51
+        }
+      ]
+    },
+    {
+      "market": "Canadian Open: Terence Atmane vs Jack Draper",
+      "slug": "atp-atmane-draper-2026-08-03",
+      "outcome": "Terence Atmane",
+      "num_traders": 3,
+      "total_value": 8927.59,
+      "holders": [
+        {
+          "trader": "0x076daa",
+          "roi": 0.1973,
+          "value": 7285.4,
+          "avg_price": 0.32,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 1461.81,
+          "avg_price": 0.3204,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "paquitomillonario",
+          "roi": 0.6276,
+          "value": 180.38,
+          "avg_price": 0.33,
+          "cur_price": 0.325
+        }
+      ]
+    },
+    {
+      "market": "Will CA Central C\u00f3rdoba win on 2026-08-03?",
+      "slug": "arg-cac-slo-2026-08-03-cac",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4197.04,
+      "holders": [
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 1789.09,
+          "avg_price": 0.6585,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2358,
+          "value": 1408.45,
+          "avg_price": 0.5664,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 999.5,
+          "avg_price": 0.3,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 3577.9,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2364,
+          "value": 2416.85,
+          "avg_price": 0.4732,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4427,
+          "value": 832.17,
+          "avg_price": 0.481,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5472,
+          "value": 328.88,
+          "avg_price": 0.5062,
+          "cur_price": 0.49
+        }
+      ]
+    },
+    {
+      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
+      "slug": "wta-podlins-valdman-2026-08-04",
+      "outcome": "Marcelina Podlinska",
+      "num_traders": 3,
+      "total_value": 1340.99,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 752.85,
+          "avg_price": 0.339,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2358,
+          "value": 367.75,
+          "avg_price": 0.4826,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.1973,
+          "value": 220.39,
+          "avg_price": 0.5017,
+          "cur_price": 0.165
+        }
+      ]
+    },
+    {
+      "market": "Will FK Bod\u00f8/Glimt win on 2026-08-04?",
+      "slug": "ucl-usg-bog-2026-08-04-bog",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1313.82,
+      "holders": [
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4427,
+          "value": 546.28,
+          "avg_price": 0.6815,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2358,
+          "value": 518.83,
+          "avg_price": 0.6903,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2799,
+          "value": 248.71,
+          "avg_price": 0.6786,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Will FK Crvena zvezda win on 2026-08-04?",
+      "slug": "ucl-hbs-crv-2026-08-04-crv",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1163.11,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1631,
+          "value": 887.21,
+          "avg_price": 0.4684,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2358,
+          "value": 139.73,
+          "avg_price": 0.47,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4427,
+          "value": 136.17,
+          "avg_price": 0.47,
+          "cur_price": 0.445
+        }
+      ]
+    },
     {
       "market": "San Diego Padres vs. Arizona Diamondbacks",
       "slug": "mlb-sd-ari-2026-08-03",
@@ -95,216 +477,6 @@
       ]
     },
     {
-      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
-      "slug": "wta-podlins-valdman-2026-08-04",
-      "outcome": "Vendula Valdmannova",
-      "num_traders": 3,
-      "total_value": 24412.42,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.2275,
-          "value": 20248.37,
-          "avg_price": 0.5009,
-          "cur_price": 0.8149
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2503,
-          "value": 3576.8,
-          "avg_price": 0.6544,
-          "cur_price": 0.8149
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.3021,
-          "value": 587.25,
-          "avg_price": 0.7808,
-          "cur_price": 0.8149
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 17765.69,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2251,
-          "value": 8615.52,
-          "avg_price": 0.48,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.3151,
-          "value": 7612.32,
-          "avg_price": 0.4991,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2661,
-          "value": 1537.85,
-          "avg_price": 0.48,
-          "cur_price": 0.38
-        }
-      ]
-    },
-    {
-      "market": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
-      "slug": "ucl-din-kau-2026-08-04-kau",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 14029.1,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.5104,
-          "value": 6115.68,
-          "avg_price": 0.9549,
-          "cur_price": 0.962
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2359,
-          "value": 5216.25,
-          "avg_price": 0.9506,
-          "cur_price": 0.962
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2503,
-          "value": 2697.17,
-          "avg_price": 0.9531,
-          "cur_price": 0.962
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10486.59,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2251,
-          "value": 8397.18,
-          "avg_price": 0.5,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2661,
-          "value": 1684.5,
-          "avg_price": 0.5139,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.3021,
-          "value": 404.91,
-          "avg_price": 0.514,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Canadian Open: Terence Atmane vs Jack Draper",
-      "slug": "atp-atmane-draper-2026-08-03",
-      "outcome": "Terence Atmane",
-      "num_traders": 3,
-      "total_value": 8927.59,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.2275,
-          "value": 7285.4,
-          "avg_price": 0.32,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2503,
-          "value": 1461.81,
-          "avg_price": 0.3204,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "paquitomillonario",
-          "roi": 0.6394,
-          "value": 180.38,
-          "avg_price": 0.33,
-          "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 8769.04,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2661,
-          "value": 8355.1,
-          "avg_price": 0.51,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.3021,
-          "value": 270.1,
-          "avg_price": 0.5214,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5473,
-          "value": 143.84,
-          "avg_price": 0.5212,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will CA Central C\u00f3rdoba win on 2026-08-03?",
-      "slug": "arg-cac-slo-2026-08-03-cac",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4197.04,
-      "holders": [
-        {
-          "trader": "sentrio",
-          "roi": 0.3021,
-          "value": 1789.09,
-          "avg_price": 0.6585,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2359,
-          "value": 1408.45,
-          "avg_price": 0.5664,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2503,
-          "value": 999.5,
-          "avg_price": 0.3,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
       "slug": "lol-t1-hle1-2026-08-04",
       "outcome": "T1",
@@ -331,36 +503,6 @@
           "value": 118.91,
           "avg_price": 0.3599,
           "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Warsaw: Marcelina Podlinska vs Vendula Valdmannova",
-      "slug": "wta-podlins-valdman-2026-08-04",
-      "outcome": "Marcelina Podlinska",
-      "num_traders": 3,
-      "total_value": 1244.35,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.2503,
-          "value": 584.93,
-          "avg_price": 0.4105,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2359,
-          "value": 412.32,
-          "avg_price": 0.4826,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.2275,
-          "value": 247.1,
-          "avg_price": 0.5017,
-          "cur_price": 0.185
         }
       ]
     },
@@ -590,7 +732,6 @@
     "mlb-hou-laa-2026-07-27::Los Angeles Angels": 3,
     "mlb-bos-oak-2026-07-27-total-9pt5::Under": 3,
     "mlb-hou-laa-2026-07-27::Houston Astros": 3,
-    "mlb-atl-cws-2026-06-11::Chicago White Sox": 3,
     "wta-rouvroy-radivoj-2026-07-28::Margaux Rouvroy": 3,
     "lol-drx-kt-2026-07-28-game1::Kiwoom DRX": 3,
     "lol-dnf-bro2-2026-07-28-game2::DN SOOPers": 3,
@@ -751,7 +892,10 @@
     "dota2-liquid-vg-2026-08-03::Vici Gaming": 3,
     "dota2-re-lgd-2026-08-03::Rune Eaters": 3,
     "dota2-liquid-vg-2026-08-03-game2::Vici Gaming": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "mlb-sd-ari-2026-08-03::Arizona Diamondbacks": 1,
+    "col1-cab-cdf-2026-08-03-cab::No": 1,
+    "lol-t1-hle1-2026-08-04::T1": 1
   },
-  "updated_at": "2026-08-04T04:31:59.776129+00:00"
+  "updated_at": "2026-08-04T07:19:31.509328+00:00"
 }
