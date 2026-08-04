@@ -1,53 +1,102 @@
 {
   "seen_ids": [
+    "lol-t1-hle1-2026-08-04-game2::T1",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "ucl-din-kau-2026-08-04-kau::No",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "mlb-oak-cin-2026-08-04::Cincinnati Reds",
-    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "lol-t1-hle1-2026-08-04::T1",
     "mlb-atl-cws-2026-06-11::Atlanta Braves",
-    "atp-atmane-draper-2026-08-03::Terence Atmane",
-    "arg-cac-slo-2026-08-03-cac::Yes",
-    "mlb-atl-cws-2026-06-11::Chicago White Sox",
-    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska",
-    "ucl-usg-bog-2026-08-04-bog::No",
-    "ucl-hbs-crv-2026-08-04-crv::No"
+    "mlb-oak-cin-2026-08-04::Cincinnati Reds",
+    "atp-gomez-squire-2026-08-03::Henri Squire"
   ],
   "signals": [
+    {
+      "market": "LoL: T1 vs Hanwha Life Esports - Game 2 Winner",
+      "slug": "lol-t1-hle1-2026-08-04-game2",
+      "outcome": "T1",
+      "num_traders": 3,
+      "total_value": 76400.15,
+      "holders": [
+        {
+          "trader": "esportGG",
+          "roi": 0.5826,
+          "value": 41130.58,
+          "avg_price": 0.5286,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "five5120",
+          "roi": 0.2816,
+          "value": 34982.45,
+          "avg_price": 0.6185,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1929,
+          "value": 287.12,
+          "avg_price": 0.6788,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 17531.94,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2321,
+          "value": 8502.16,
+          "avg_price": 0.48,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2497,
+          "value": 7512.16,
+          "avg_price": 0.4991,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2176,
+          "value": 1517.62,
+          "avg_price": 0.48,
+          "cur_price": 0.375
+        }
+      ]
+    },
     {
       "market": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
       "slug": "ucl-din-kau-2026-08-04-kau",
       "outcome": "No",
-      "num_traders": 4,
-      "total_value": 16210.8,
+      "num_traders": 3,
+      "total_value": 15641.35,
       "holders": [
         {
           "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.3798,
-          "value": 6112.51,
+          "roi": 0.2981,
+          "value": 6083.9,
           "avg_price": 0.9549,
-          "cur_price": 0.9615
+          "cur_price": 0.957
         },
         {
           "trader": "UpTheBlues",
-          "roi": 0.2358,
-          "value": 5213.54,
+          "roi": 0.2108,
+          "value": 5189.14,
           "avg_price": 0.9506,
-          "cur_price": 0.9615
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1631,
-          "value": 3198.57,
-          "avg_price": 0.9543,
-          "cur_price": 0.9615
+          "cur_price": 0.957
         },
         {
           "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 1686.18,
-          "avg_price": 0.9593,
-          "cur_price": 0.9615
+          "roi": 0.1929,
+          "value": 4368.31,
+          "avg_price": 0.9598,
+          "cur_price": 0.957
         }
       ]
     },
@@ -55,33 +104,26 @@
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
       "outcome": "New York Yankees",
-      "num_traders": 4,
-      "total_value": 12082.99,
+      "num_traders": 3,
+      "total_value": 10599.37,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2364,
+          "roi": 0.2321,
           "value": 8487.48,
           "avg_price": 0.5,
           "cur_price": 0.47
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2372,
+          "roi": 0.2176,
           "value": 1702.62,
           "avg_price": 0.5139,
           "cur_price": 0.47
         },
         {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4427,
-          "value": 1483.62,
-          "avg_price": 0.5219,
-          "cur_price": 0.47
-        },
-        {
           "trader": "sentrio",
-          "roi": 0.2799,
+          "roi": 0.1929,
           "value": 409.27,
           "avg_price": 0.514,
           "cur_price": 0.47
@@ -89,39 +131,122 @@
       ]
     },
     {
-      "market": "Athletics vs. Cincinnati Reds",
-      "slug": "mlb-oak-cin-2026-08-04",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 4,
-      "total_value": 4074.57,
+      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "slug": "lol-t1-hle1-2026-08-04",
+      "outcome": "T1",
+      "num_traders": 3,
+      "total_value": 9338.76,
       "holders": [
         {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.3798,
-          "value": 2492.77,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2372,
-          "value": 934.07,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4427,
-          "value": 526.7,
-          "avg_price": 0.55,
-          "cur_price": 0.555
+          "trader": "cigarettes",
+          "roi": 0.9359,
+          "value": 5590.94,
+          "avg_price": 0.6381,
+          "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 121.03,
+          "roi": 0.1929,
+          "value": 2498.44,
+          "avg_price": 0.3941,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9D8a71b1cAf3cF1d7CC72b610058C6C424865201-1768614041847",
+          "roi": 0.1957,
+          "value": 1249.38,
+          "avg_price": 0.37,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9034.77,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2176,
+          "value": 8608.28,
+          "avg_price": 0.51,
+          "cur_price": 0.51
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1929,
+          "value": 278.29,
+          "avg_price": 0.5214,
+          "cur_price": 0.51
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5474,
+          "value": 148.2,
+          "avg_price": 0.5212,
+          "cur_price": 0.51
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Cincinnati Reds",
+      "slug": "mlb-oak-cin-2026-08-04",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 5917.77,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2981,
+          "value": 2447.85,
           "avg_price": 0.55,
-          "cur_price": 0.555
+          "cur_price": 0.545
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2176,
+          "value": 2350.04,
+          "avg_price": 0.55,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1929,
+          "value": 1119.88,
+          "avg_price": 0.55,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Hagen: Federico Agustin Gomez vs Henri Squire",
+      "slug": "atp-gomez-squire-2026-08-03",
+      "outcome": "Henri Squire",
+      "num_traders": 3,
+      "total_value": 1196.98,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2108,
+          "value": 438.5,
+          "avg_price": 0.4922,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2981,
+          "value": 384.12,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1929,
+          "value": 374.36,
+          "avg_price": 0.86,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -152,66 +277,6 @@
           "value": 601.74,
           "avg_price": 0.7808,
           "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 17765.69,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2364,
-          "value": 8615.52,
-          "avg_price": 0.48,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2616,
-          "value": 7612.32,
-          "avg_price": 0.4991,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2372,
-          "value": 1537.85,
-          "avg_price": 0.48,
-          "cur_price": 0.38
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 9034.77,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2372,
-          "value": 8608.28,
-          "avg_price": 0.51,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2799,
-          "value": 278.29,
-          "avg_price": 0.5214,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5472,
-          "value": 148.2,
-          "avg_price": 0.5212,
-          "cur_price": 0.51
         }
       ]
     },
@@ -473,66 +538,6 @@
           "value": 144.32,
           "avg_price": 0.5299,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
-      "slug": "lol-t1-hle1-2026-08-04",
-      "outcome": "T1",
-      "num_traders": 3,
-      "total_value": 1276.54,
-      "holders": [
-        {
-          "trader": "sentrio",
-          "roi": 0.3021,
-          "value": 676.38,
-          "avg_price": 0.35,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "0x9D8a71b1cAf3cF1d7CC72b610058C6C424865201-1768614041847",
-          "roi": 0.2177,
-          "value": 481.25,
-          "avg_price": 0.37,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.2275,
-          "value": 118.91,
-          "avg_price": 0.3599,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19095.5,
-      "holders": [
-        {
-          "trader": "flawfence",
-          "roi": 0.5941,
-          "value": 10754.67,
-          "avg_price": 0.2331,
-          "cur_price": 0.2655
-        },
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.3149,
-          "value": 7616.33,
-          "avg_price": 0.1137,
-          "cur_price": 0.2655
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3785,
-          "value": 724.5,
-          "avg_price": 0.0312,
-          "cur_price": 0.2655
         }
       ]
     }
@@ -892,10 +897,16 @@
     "dota2-liquid-vg-2026-08-03::Vici Gaming": 3,
     "dota2-re-lgd-2026-08-03::Rune Eaters": 3,
     "dota2-liquid-vg-2026-08-03-game2::Vici Gaming": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "mlb-sd-ari-2026-08-03::Arizona Diamondbacks": 1,
-    "col1-cab-cdf-2026-08-03-cab::No": 1,
-    "lol-t1-hle1-2026-08-04::T1": 1
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "mlb-sd-ari-2026-08-03::Arizona Diamondbacks": 2,
+    "col1-cab-cdf-2026-08-03-cab::No": 2,
+    "wta-podlins-valdman-2026-08-04::Vendula Valdmannova": 1,
+    "atp-atmane-draper-2026-08-03::Terence Atmane": 1,
+    "arg-cac-slo-2026-08-03-cac::Yes": 1,
+    "mlb-atl-cws-2026-06-11::Chicago White Sox": 1,
+    "wta-podlins-valdman-2026-08-04::Marcelina Podlinska": 1,
+    "ucl-usg-bog-2026-08-04-bog::No": 1,
+    "ucl-hbs-crv-2026-08-04-crv::No": 1
   },
-  "updated_at": "2026-08-04T07:19:31.509328+00:00"
+  "updated_at": "2026-08-04T10:05:06.963094+00:00"
 }
