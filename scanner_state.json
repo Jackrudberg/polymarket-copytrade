@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 19095.5,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.5941,
+          "value": 10754.67,
+          "avg_price": 0.2331,
+          "cur_price": 0.2655
+        },
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.3149,
+          "value": 7616.33,
+          "avg_price": 0.1137,
+          "cur_price": 0.2655
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3785,
+          "value": 724.5,
+          "avg_price": 0.0312,
+          "cur_price": 0.2655
+        }
+      ]
+    },
     {
       "market": "Dota 2: Rune Eaters vs LGD Gaming (BO3) - Games of the Future Playoffs",
       "slug": "dota2-re-lgd-2026-08-03",
@@ -58,36 +90,6 @@
           "value": 1283.36,
           "avg_price": 0.2982,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Vici Gaming (BO3) - 1win Essence Playoffs",
-      "slug": "dota2-liquid-vg-2026-08-03",
-      "outcome": "Vici Gaming",
-      "num_traders": 3,
-      "total_value": 84341.49,
-      "holders": [
-        {
-          "trader": "Djdjdjekekek",
-          "roi": 1.1026,
-          "value": 58142.33,
-          "avg_price": 0.2358,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.3672,
-          "value": 19147.98,
-          "avg_price": 0.343,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.2213,
-          "value": 7051.18,
-          "avg_price": 0.35,
-          "cur_price": 0.495
         }
       ]
     }
@@ -447,11 +449,10 @@
     "dota2-flc-bb4-2026-08-03-game2::Team Falcons": 3,
     "cs2-mouzn-mis-2026-08-03::MOUZ NXT": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "dota2-liquid-vg-2026-08-03::Vici Gaming": 2,
-    "dota2-re-lgd-2026-08-03::Rune Eaters": 1,
-    "dota2-liquid-vg-2026-08-03-game2::Vici Gaming": 1
+    "dota2-liquid-vg-2026-08-03::Vici Gaming": 3,
+    "dota2-re-lgd-2026-08-03::Rune Eaters": 2,
+    "dota2-liquid-vg-2026-08-03-game2::Vici Gaming": 2
   },
-  "updated_at": "2026-08-03T23:46:37.239363+00:00"
+  "updated_at": "2026-08-04T01:10:29.371306+00:00"
 }
