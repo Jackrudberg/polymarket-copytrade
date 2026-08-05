@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-05T22:01:46.411409+00:00",
+      "last_seen": "2026-08-05T23:13:56.183828+00:00",
       "entry_price": 0.28,
       "current_price": 0.39,
       "stake": 100.0,
@@ -9231,7 +9231,7 @@
       "current_value": 188.87,
       "paper_pnl": 88.87,
       "return_percent": 88.87,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 184293.96,
       "traders": [
@@ -9239,7 +9239,8 @@
         "Talvez10",
         "casualbet2020"
       ],
-      "url": "https://polymarket.com/event/mlb-lad-chc-2026-08-05"
+      "url": "https://polymarket.com/event/mlb-lad-chc-2026-08-05",
+      "consensus_lost_at": "2026-08-05T23:13:56.183828+00:00"
     },
     {
       "signal_id": "dota2-flc-liquid-2026-08-05::Team Liquid",
@@ -9247,7 +9248,7 @@
       "slug": "dota2-flc-liquid-2026-08-05",
       "side": "Team Liquid",
       "alerted_at": "2026-08-05T19:47:55.612736+00:00",
-      "last_seen": "2026-08-05T22:01:46.411409+00:00",
+      "last_seen": "2026-08-05T23:13:56.183828+00:00",
       "entry_price": 0.735,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -9289,7 +9290,55 @@
       ],
       "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game2",
       "consensus_lost_at": "2026-08-05T22:01:46.411409+00:00"
+    },
+    {
+      "signal_id": "mlb-cws-bos-2026-08-05::Chicago White Sox",
+      "market": "Chicago White Sox vs. Boston Red Sox",
+      "slug": "mlb-cws-bos-2026-08-05",
+      "side": "Chicago White Sox",
+      "alerted_at": "2026-08-05T23:13:56.183828+00:00",
+      "last_seen": "2026-08-05T23:13:56.183828+00:00",
+      "entry_price": 0.425,
+      "current_price": 0.425,
+      "stake": 100.0,
+      "shares": 235.294118,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 235238.44,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "SDTrading",
+        "riverskew"
+      ],
+      "url": "https://polymarket.com/event/mlb-cws-bos-2026-08-05"
+    },
+    {
+      "signal_id": "mlb-wsh-phi-2026-08-05-total-9pt5::Under",
+      "market": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-wsh-phi-2026-08-05-total-9pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-05T23:13:56.183828+00:00",
+      "last_seen": "2026-08-05T23:13:56.183828+00:00",
+      "entry_price": 0.455,
+      "current_price": 0.455,
+      "stake": 100.0,
+      "shares": 219.78022,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 76820.15,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "texaskid",
+        "Elaran1993"
+      ],
+      "url": "https://polymarket.com/event/mlb-wsh-phi-2026-08-05-total-9pt5"
     }
   ],
-  "updated_at": "2026-08-05T22:01:46.411409+00:00"
+  "updated_at": "2026-08-05T23:13:56.183828+00:00"
 }

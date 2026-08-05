@@ -1,9 +1,41 @@
 {
   "seen_ids": [
+    "mlb-cws-bos-2026-08-05::Chicago White Sox",
     "dota2-flc-liquid-2026-08-05::Team Liquid",
+    "mlb-wsh-phi-2026-08-05-total-9pt5::Under",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Chicago White Sox vs. Boston Red Sox",
+      "slug": "mlb-cws-bos-2026-08-05",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 235238.44,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3214,
+          "value": 203930.47,
+          "avg_price": 0.4243,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.5361,
+          "value": 26346.5,
+          "avg_price": 0.45,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.1914,
+          "value": 4961.47,
+          "avg_price": 0.42,
+          "cur_price": 0.425
+        }
+      ]
+    },
     {
       "market": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
       "slug": "dota2-flc-liquid-2026-08-05",
@@ -13,24 +45,54 @@
       "holders": [
         {
           "trader": "TheVeteran77",
-          "roi": 0.4026,
+          "roi": 0.532,
           "value": 77250.43,
           "avg_price": 0.3257,
           "cur_price": 0.9995
         },
         {
           "trader": "CORGI8",
-          "roi": 0.2065,
+          "roi": 0.3176,
           "value": 70385.61,
           "avg_price": 0.2575,
           "cur_price": 0.9995
         },
         {
           "trader": "sulumos",
-          "roi": 0.3996,
+          "roi": 0.4249,
           "value": 8095.95,
           "avg_price": 0.45,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-wsh-phi-2026-08-05-total-9pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 76820.15,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3214,
+          "value": 36704.85,
+          "avg_price": 0.5,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "texaskid",
+          "roi": 0.6221,
+          "value": 34124.82,
+          "avg_price": 0.51,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "Elaran1993",
+          "roi": 0.4358,
+          "value": 5990.48,
+          "avg_price": 0.5,
+          "cur_price": 0.455
         }
       ]
     },
@@ -43,21 +105,21 @@
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3467,
+          "roi": 0.3214,
           "value": 8842.25,
           "avg_price": 0.48,
           "cur_price": 0.39
         },
         {
           "trader": "SDTrading",
-          "roi": 1.485,
+          "roi": 0.5361,
           "value": 979.64,
           "avg_price": 0.39,
           "cur_price": 0.39
         },
         {
           "trader": "riverskew",
-          "roi": 0.2409,
+          "roi": 0.1914,
           "value": 195,
           "avg_price": 0.47,
           "cur_price": 0.39
@@ -98,73 +160,6 @@
           "value": 2020.92,
           "avg_price": 0.52,
           "cur_price": 0.992
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs Team Liquid - Game 1 Winner",
-      "slug": "dota2-flc-liquid-2026-08-05-game1",
-      "outcome": "Team Liquid",
-      "num_traders": 4,
-      "total_value": 64606.39,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2085,
-          "value": 31984.74,
-          "avg_price": 0.339,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.1589,
-          "value": 16731.1,
-          "avg_price": 0.3245,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PIKALEVSKIY-MONSTR",
-          "roi": 0.184,
-          "value": 9893.56,
-          "avg_price": 0.3081,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.3774,
-          "value": 5996.99,
-          "avg_price": 0.33,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs Team Liquid - Game 2 Winner",
-      "slug": "dota2-flc-liquid-2026-08-05-game2",
-      "outcome": "Team Liquid",
-      "num_traders": 3,
-      "total_value": 32807.51,
-      "holders": [
-        {
-          "trader": "CORGI8",
-          "roi": 0.1589,
-          "value": 21348.26,
-          "avg_price": 0.3549,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PIKALEVSKIY-MONSTR",
-          "roi": 0.184,
-          "value": 10756.25,
-          "avg_price": 0.6198,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "olegio",
-          "roi": 0.2771,
-          "value": 703.0,
-          "avg_price": 0.35,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -571,9 +566,9 @@
     "dota2-playti-yb1-2026-08-05-game2::PlayTime": 3,
     "lol-hle1-gen-2026-08-05::Gen.G": 3,
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
-    "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 2,
-    "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 2,
-    "mlb-lad-chc-2026-08-05::Chicago Cubs": 1
+    "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 3,
+    "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 3,
+    "mlb-lad-chc-2026-08-05::Chicago Cubs": 2
   },
-  "updated_at": "2026-08-05T22:01:46.422028+00:00"
+  "updated_at": "2026-08-05T23:13:56.188443+00:00"
 }
