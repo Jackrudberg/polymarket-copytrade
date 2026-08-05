@@ -1,58 +1,228 @@
 {
   "seen_ids": [
+    "atp-cobolli-hanfman-2026-08-04::Yannick Hanfmann",
     "will-the-us-invade-iran-before-2027::No",
-    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
-    "iran-leadership-change-by-december-31-974-976-658-482-568-685::No",
-    "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes",
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
-    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes",
-    "atp-darderi-diallo-2026-08-04::Luciano Darderi",
-    "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693::Yes",
-    "putin-out-before-2027-346::Yes",
-    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes"
+    "mlb-det-sea-2026-08-04::Detroit Tigers",
+    "mlb-det-sea-2026-08-04-total-8pt5::Under",
+    "wnba-tor-gsv-2026-08-04-total-169pt5::Over",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "wnba-tor-gsv-2026-08-04-total-167pt5::Over"
   ],
   "signals": [
+    {
+      "market": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+      "slug": "atp-cobolli-hanfman-2026-08-04",
+      "outcome": "Yannick Hanfmann",
+      "num_traders": 4,
+      "total_value": 37263.14,
+      "holders": [
+        {
+          "trader": "tradecraft",
+          "roi": 0.3521,
+          "value": 19485.79,
+          "avg_price": 0.5424,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1608,
+          "value": 10306.88,
+          "avg_price": 0.7217,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945",
+          "roi": 0.2851,
+          "value": 7292.57,
+          "avg_price": 0.5482,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.2046,
+          "value": 177.9,
+          "avg_price": 0.7996,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
-      "num_traders": 5,
-      "total_value": 1312799.85,
+      "num_traders": 3,
+      "total_value": 813415.39,
       "holders": [
         {
           "trader": "QuietRiskisWrong",
-          "roi": 0.6616,
-          "value": 736424.9,
-          "avg_price": 0.7223,
-          "cur_price": 0.825
+          "roi": 0.2343,
+          "value": 774241.44,
+          "avg_price": 0.7254,
+          "cur_price": 0.845
         },
         {
-          "trader": "denizz",
-          "roi": 0.2468,
-          "value": 305637.59,
-          "avg_price": 0.7359,
-          "cur_price": 0.825
+          "trader": "R79dgahr",
+          "roi": 0.8053,
+          "value": 35489.96,
+          "avg_price": 0.7498,
+          "cur_price": 0.845
         },
         {
-          "trader": "ImJustKen",
-          "roi": 0.338,
-          "value": 130487.38,
-          "avg_price": 0.7373,
-          "cur_price": 0.825
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.2046,
+          "value": 3683.99,
+          "avg_price": 0.7922,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Seattle Mariners",
+      "slug": "mlb-det-sea-2026-08-04",
+      "outcome": "Detroit Tigers",
+      "num_traders": 3,
+      "total_value": 260017.44,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4274,
+          "value": 219416.85,
+          "avg_price": 0.4553,
+          "cur_price": 0.9995
         },
         {
-          "trader": "mr.ozi",
-          "roi": 0.2997,
-          "value": 115499.98,
-          "avg_price": 0.7269,
-          "cur_price": 0.825
+          "trader": "Talvez10",
+          "roi": 0.8195,
+          "value": 40447.43,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
         },
         {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.4337,
-          "value": 24750.0,
-          "avg_price": 0.7799,
-          "cur_price": 0.825
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.2046,
+          "value": 153.16,
+          "avg_price": 0.8584,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Seattle Mariners: O/U 8.5",
+      "slug": "mlb-det-sea-2026-08-04-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 50766.87,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.678,
+          "value": 48009.98,
+          "avg_price": 0.5861,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.4172,
+          "value": 2494.75,
+          "avg_price": 0.5783,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1608,
+          "value": 262.14,
+          "avg_price": 0.5813,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Toronto Tempo vs. Golden State Valkyries: O/U 169.5",
+      "slug": "wnba-tor-gsv-2026-08-04-total-169pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 21481.3,
+      "holders": [
+        {
+          "trader": "Forecastication2",
+          "roi": 0.4172,
+          "value": 20169.91,
+          "avg_price": 0.5186,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1608,
+          "value": 1086.74,
+          "avg_price": 0.4932,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.2046,
+          "value": 224.65,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 10712.12,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4274,
+          "value": 8577.77,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5002,
+          "value": 1720.73,
+          "avg_price": 0.5139,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1608,
+          "value": 413.62,
+          "avg_price": 0.514,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Toronto Tempo vs. Golden State Valkyries: O/U 167.5",
+      "slug": "wnba-tor-gsv-2026-08-04-total-167pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 1373.8,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.678,
+          "value": 955.52,
+          "avg_price": 0.5229,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1608,
+          "value": 273.43,
+          "avg_price": 0.5647,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
+          "roi": 0.2046,
+          "value": 144.85,
+          "avg_price": 0.5552,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -330,73 +500,6 @@
           "value": 672.93,
           "avg_price": 0.5228,
           "cur_price": 0.755
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Juncheng Shang vs Andrey Rublev",
-      "slug": "atp-shang-rublev-2026-08-04",
-      "outcome": "Andrey Rublev",
-      "num_traders": 4,
-      "total_value": 107162.46,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2008,
-          "value": 50157.3,
-          "avg_price": 0.5631,
-          "cur_price": 0.9415
-        },
-        {
-          "trader": "Djdjdjekekek",
-          "roi": 0.2146,
-          "value": 49748.05,
-          "avg_price": 0.1784,
-          "cur_price": 0.9415
-        },
-        {
-          "trader": "BirdMan.",
-          "roi": 0.1568,
-          "value": 6831.17,
-          "avg_price": 0.77,
-          "cur_price": 0.9415
-        },
-        {
-          "trader": "TRCM",
-          "roi": 0.1758,
-          "value": 425.94,
-          "avg_price": 0.743,
-          "cur_price": 0.9415
-        }
-      ]
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Chicago Cubs",
-      "slug": "mlb-lad-chc-2026-08-04",
-      "outcome": "Chicago Cubs",
-      "num_traders": 3,
-      "total_value": 43962.05,
-      "holders": [
-        {
-          "trader": "Bulls94",
-          "roi": 0.1528,
-          "value": 25028.87,
-          "avg_price": 0.3451,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.2829,
-          "value": 11833.18,
-          "avg_price": 0.35,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2008,
-          "value": 7100,
-          "avg_price": 0.36,
-          "cur_price": 0.355
         }
       ]
     }
@@ -760,7 +863,6 @@
     "lol-t1-hle1-2026-08-04::T1": 3,
     "mls-chi-vwh-2026-07-16-chi::No": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "will-james-talarico-win-the-2028-democratic-presidential-nomination::Yes": 3,
@@ -777,8 +879,17 @@
     "atp-shang-rublev-2026-08-04::Juncheng Shang": 3,
     "mlb-cws-bos-2026-08-04::Boston Red Sox": 3,
     "wta-ruse-potapov-2026-08-04::Anastasia Potapova": 3,
-    "atp-shang-rublev-2026-08-04::Andrey Rublev": 2,
-    "mlb-lad-chc-2026-08-04::Chicago Cubs": 2
+    "atp-shang-rublev-2026-08-04::Andrey Rublev": 3,
+    "mlb-lad-chc-2026-08-04::Chicago Cubs": 3,
+    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 1,
+    "iran-leadership-change-by-december-31-974-976-658-482-568-685::No": 1,
+    "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes": 1,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1,
+    "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes": 1,
+    "atp-darderi-diallo-2026-08-04::Luciano Darderi": 1,
+    "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693::Yes": 1,
+    "putin-out-before-2027-346::Yes": 1,
+    "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 1
   },
-  "updated_at": "2026-08-05T01:05:40.917422+00:00"
+  "updated_at": "2026-08-05T04:26:39.465484+00:00"
 }
