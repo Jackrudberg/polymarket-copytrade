@@ -1,8 +1,276 @@
 {
   "seen_ids": [
-    "wnba-sea-nyl-2026-08-05::Seattle Storm"
+    "lol-hle1-gen-2026-08-05-game1::Gen.G",
+    "dota2-1win-bb4-2026-08-05::1win",
+    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming",
+    "lol-bro2-ns-2026-08-05::HANJIN BRION",
+    "lol-jdg-lgd-2026-08-05-game1::JD Gaming",
+    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team",
+    "lol-hle1-gen-2026-08-05::Gen.G",
+    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
+      "slug": "lol-hle1-gen-2026-08-05-game1",
+      "outcome": "Gen.G",
+      "num_traders": 4,
+      "total_value": 82372.25,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3271,
+          "value": 34351.79,
+          "avg_price": 0.4433,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "huli3882",
+          "roi": 0.293,
+          "value": 18085.98,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.1701,
+          "value": 14992.62,
+          "avg_price": 0.4755,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.4708,
+          "value": 14941.86,
+          "avg_price": 0.4717,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
+      "slug": "dota2-1win-bb4-2026-08-05",
+      "outcome": "1win",
+      "num_traders": 4,
+      "total_value": 44462.11,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2564,
+          "value": 37286.07,
+          "avg_price": 0.4582,
+          "cur_price": 0.65
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2061,
+          "value": 3464.54,
+          "avg_price": 0.4575,
+          "cur_price": 0.65
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3271,
+          "value": 3250,
+          "avg_price": 0.3939,
+          "cur_price": 0.65
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2439,
+          "value": 461.5,
+          "avg_price": 0.4533,
+          "cur_price": 0.65
+        }
+      ]
+    },
+    {
+      "market": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
+      "slug": "lol-jdg-lgd-2026-08-05-game2",
+      "outcome": "LGD Gaming",
+      "num_traders": 4,
+      "total_value": 32622.46,
+      "holders": [
+        {
+          "trader": "esportGG",
+          "roi": 0.7923,
+          "value": 19468.86,
+          "avg_price": 0.376,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "patient12",
+          "roi": 0.3475,
+          "value": 9844.2,
+          "avg_price": 0.9504,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3271,
+          "value": 1999,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.4708,
+          "value": 1310.4,
+          "avg_price": 0.6723,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-bro2-ns-2026-08-05",
+      "outcome": "HANJIN BRION",
+      "num_traders": 3,
+      "total_value": 87456.0,
+      "holders": [
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.1701,
+          "value": 32483.74,
+          "avg_price": 0.4341,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3008,
+          "value": 29984.91,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.4708,
+          "value": 24987.35,
+          "avg_price": 0.3363,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
+      "slug": "lol-jdg-lgd-2026-08-05-game1",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 85817.61,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.3475,
+          "value": 42783.92,
+          "avg_price": 0.5742,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "esportGG",
+          "roi": 0.7923,
+          "value": 22259.03,
+          "avg_price": 0.6899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3271,
+          "value": 20774.66,
+          "avg_price": 0.4765,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
+      "slug": "dota2-1win-bb4-2026-08-05-game1",
+      "outcome": "BetBoom Team",
+      "num_traders": 3,
+      "total_value": 68898.46,
+      "holders": [
+        {
+          "trader": "Dota2winner",
+          "roi": 0.327,
+          "value": 49975,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3271,
+          "value": 9474.06,
+          "avg_price": 0.4433,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2061,
+          "value": 9449.4,
+          "avg_price": 0.2354,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-hle1-gen-2026-08-05",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 38873.31,
+      "holders": [
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.1701,
+          "value": 20212.49,
+          "avg_price": 0.4836,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3008,
+          "value": 17692.82,
+          "avg_price": 0.5,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2439,
+          "value": 968.0,
+          "avg_price": 0.4307,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15508.54,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.3475,
+          "value": 7293.15,
+          "avg_price": 0.5,
+          "cur_price": 0.0855
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.294,
+          "value": 5859.53,
+          "avg_price": 0.0078,
+          "cur_price": 0.0855
+        },
+        {
+          "trader": "R79dgahr",
+          "roi": 0.5056,
+          "value": 2355.86,
+          "avg_price": 0.0078,
+          "cur_price": 0.0855
+        }
+      ]
+    },
     {
       "market": "Seattle Storm vs. New York Liberty",
       "slug": "wnba-sea-nyl-2026-08-05",
@@ -30,223 +298,6 @@
           "value": 142.17,
           "avg_price": 0.1707,
           "cur_price": 0.235
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
-      "slug": "atp-cobolli-hanfman-2026-08-04",
-      "outcome": "Yannick Hanfmann",
-      "num_traders": 4,
-      "total_value": 37263.14,
-      "holders": [
-        {
-          "trader": "tradecraft",
-          "roi": 0.3521,
-          "value": 19485.79,
-          "avg_price": 0.5424,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1608,
-          "value": 10306.88,
-          "avg_price": 0.7217,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945",
-          "roi": 0.2851,
-          "value": 7292.57,
-          "avg_price": 0.5482,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.2046,
-          "value": 177.9,
-          "avg_price": 0.7996,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 813415.39,
-      "holders": [
-        {
-          "trader": "QuietRiskisWrong",
-          "roi": 0.2343,
-          "value": 774241.44,
-          "avg_price": 0.7254,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.8053,
-          "value": 35489.96,
-          "avg_price": 0.7498,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.2046,
-          "value": 3683.99,
-          "avg_price": 0.7922,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Detroit Tigers vs. Seattle Mariners",
-      "slug": "mlb-det-sea-2026-08-04",
-      "outcome": "Detroit Tigers",
-      "num_traders": 3,
-      "total_value": 260017.44,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4274,
-          "value": 219416.85,
-          "avg_price": 0.4553,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 0.8195,
-          "value": 40447.43,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.2046,
-          "value": 153.16,
-          "avg_price": 0.8584,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Detroit Tigers vs. Seattle Mariners: O/U 8.5",
-      "slug": "mlb-det-sea-2026-08-04-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 50766.87,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.678,
-          "value": 48009.98,
-          "avg_price": 0.5861,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.4172,
-          "value": 2494.75,
-          "avg_price": 0.5783,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1608,
-          "value": 262.14,
-          "avg_price": 0.5813,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Toronto Tempo vs. Golden State Valkyries: O/U 169.5",
-      "slug": "wnba-tor-gsv-2026-08-04-total-169pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 21481.3,
-      "holders": [
-        {
-          "trader": "Forecastication2",
-          "roi": 0.4172,
-          "value": 20169.91,
-          "avg_price": 0.5186,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1608,
-          "value": 1086.74,
-          "avg_price": 0.4932,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.2046,
-          "value": 224.65,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10712.12,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4274,
-          "value": 8577.77,
-          "avg_price": 0.5,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5002,
-          "value": 1720.73,
-          "avg_price": 0.5139,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1608,
-          "value": 413.62,
-          "avg_price": 0.514,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Toronto Tempo vs. Golden State Valkyries: O/U 167.5",
-      "slug": "wnba-tor-gsv-2026-08-04-total-167pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 1373.8,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.678,
-          "value": 955.52,
-          "avg_price": 0.5229,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1608,
-          "value": 273.43,
-          "avg_price": 0.5647,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396",
-          "roi": 0.2046,
-          "value": 144.85,
-          "avg_price": 0.5552,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -637,13 +688,14 @@
     "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693::Yes": 3,
     "putin-out-before-2027-346::Yes": 3,
     "us-x-iran-effective-ceasfire-by-august-14-20260715194822046::Yes": 3,
-    "atp-cobolli-hanfman-2026-08-04::Yannick Hanfmann": 2,
-    "will-the-us-invade-iran-before-2027::No": 2,
-    "mlb-det-sea-2026-08-04::Detroit Tigers": 2,
-    "mlb-det-sea-2026-08-04-total-8pt5::Under": 2,
-    "wnba-tor-gsv-2026-08-04-total-169pt5::Over": 2,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
-    "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 2
+    "atp-cobolli-hanfman-2026-08-04::Yannick Hanfmann": 3,
+    "will-the-us-invade-iran-before-2027::No": 3,
+    "mlb-det-sea-2026-08-04::Detroit Tigers": 3,
+    "mlb-det-sea-2026-08-04-total-8pt5::Under": 3,
+    "wnba-tor-gsv-2026-08-04-total-169pt5::Over": 3,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
+    "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 3,
+    "wnba-sea-nyl-2026-08-05::Seattle Storm": 1
   },
-  "updated_at": "2026-08-05T10:01:03.385165+00:00"
+  "updated_at": "2026-08-05T12:08:02.052933+00:00"
 }
