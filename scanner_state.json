@@ -1,49 +1,191 @@
 {
   "seen_ids": [
-    "lol-hle1-gen-2026-08-05-game1::Gen.G",
-    "dota2-1win-bb4-2026-08-05::1win",
-    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming",
-    "lol-bro2-ns-2026-08-05::HANJIN BRION",
-    "lol-jdg-lgd-2026-08-05-game1::JD Gaming",
-    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team",
     "lol-hle1-gen-2026-08-05::Gen.G",
+    "lol-hle1-gen-2026-08-05-game1::Gen.G",
+    "dota2-playti-yb1-2026-08-05-game2::PlayTime",
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes"
   ],
   "signals": [
     {
+      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-hle1-gen-2026-08-05",
+      "outcome": "Gen.G",
+      "num_traders": 9,
+      "total_value": 342026.44,
+      "holders": [
+        {
+          "trader": "TeGeeLP",
+          "roi": 0.4019,
+          "value": 126602.51,
+          "avg_price": 0.503,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1826,
+          "value": 49447.2,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.1834,
+          "value": 39979.96,
+          "avg_price": 0.5075,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.3956,
+          "value": 29985,
+          "avg_price": 0.5033,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "f3arless",
+          "roi": 0.2495,
+          "value": 28985.49,
+          "avg_price": 0.4768,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.2004,
+          "value": 26652.51,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.277,
+          "value": 24059.82,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.1769,
+          "value": 13395.76,
+          "avg_price": 0.4852,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vananal0318",
+          "roi": 0.1893,
+          "value": 2918.19,
+          "avg_price": 0.697,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
       "market": "LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner",
       "slug": "lol-hle1-gen-2026-08-05-game1",
       "outcome": "Gen.G",
-      "num_traders": 4,
-      "total_value": 82372.25,
+      "num_traders": 6,
+      "total_value": 118271.21,
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3271,
+          "roi": 0.1769,
           "value": 34351.79,
           "avg_price": 0.4433,
           "cur_price": 0.9995
         },
         {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1826,
+          "value": 19430.18,
+          "avg_price": 0.4975,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "huli3882",
-          "roi": 0.293,
+          "roi": 0.3377,
           "value": 18085.98,
           "avg_price": 0.49,
           "cur_price": 0.9995
         },
         {
+          "trader": "TeGeeLP",
+          "roi": 0.4019,
+          "value": 16468.78,
+          "avg_price": 0.4501,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "elizabeth.ethcome",
-          "roi": 0.1701,
+          "roi": 0.1834,
           "value": 14992.62,
           "avg_price": 0.4755,
           "cur_price": 0.9995
         },
         {
           "trader": "kedaya8888",
-          "roi": 0.4708,
+          "roi": 0.3956,
           "value": 14941.86,
           "avg_price": 0.4717,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: PlayTime vs Yakult Brothers - Game 2 Winner",
+      "slug": "dota2-playti-yb1-2026-08-05-game2",
+      "outcome": "PlayTime",
+      "num_traders": 3,
+      "total_value": 58114.98,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.2451,
+          "value": 51205.09,
+          "avg_price": 0.8222,
+          "cur_price": 0.97
+        },
+        {
+          "trader": "PIKALEVSKIY-MONSTR",
+          "roi": 0.1876,
+          "value": 5716.05,
+          "avg_price": 0.6649,
+          "cur_price": 0.95
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.1769,
+          "value": 1193.84,
+          "avg_price": 0.55,
+          "cur_price": 0.95
+        }
+      ]
+    },
+    {
+      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14137.13,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.2451,
+          "value": 5921.74,
+          "avg_price": 0.5,
+          "cur_price": 0.0855
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2193,
+          "value": 5859.53,
+          "avg_price": 0.0078,
+          "cur_price": 0.0855
+        },
+        {
+          "trader": "R79dgahr",
+          "roi": 0.5342,
+          "value": 2355.86,
+          "avg_price": 0.0078,
+          "cur_price": 0.0855
         }
       ]
     },
@@ -208,66 +350,6 @@
           "value": 9449.4,
           "avg_price": 0.2354,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-hle1-gen-2026-08-05",
-      "outcome": "Gen.G",
-      "num_traders": 3,
-      "total_value": 38873.31,
-      "holders": [
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.1701,
-          "value": 20212.49,
-          "avg_price": 0.4836,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.3008,
-          "value": 17692.82,
-          "avg_price": 0.5,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2439,
-          "value": 968.0,
-          "avg_price": 0.4307,
-          "cur_price": 0.735
-        }
-      ]
-    },
-    {
-      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15508.54,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.3475,
-          "value": 7293.15,
-          "avg_price": 0.5,
-          "cur_price": 0.0855
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.294,
-          "value": 5859.53,
-          "avg_price": 0.0078,
-          "cur_price": 0.0855
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.5056,
-          "value": 2355.86,
-          "avg_price": 0.0078,
-          "cur_price": 0.0855
         }
       ]
     },
@@ -695,7 +777,12 @@
     "wnba-tor-gsv-2026-08-04-total-169pt5::Over": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 3,
-    "wnba-sea-nyl-2026-08-05::Seattle Storm": 1
+    "wnba-sea-nyl-2026-08-05::Seattle Storm": 2,
+    "dota2-1win-bb4-2026-08-05::1win": 1,
+    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming": 1,
+    "lol-bro2-ns-2026-08-05::HANJIN BRION": 1,
+    "lol-jdg-lgd-2026-08-05-game1::JD Gaming": 1,
+    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 1
   },
-  "updated_at": "2026-08-05T12:08:02.052933+00:00"
+  "updated_at": "2026-08-05T14:31:39.688740+00:00"
 }
