@@ -1,9 +1,76 @@
 {
   "seen_ids": [
-    "lol-hle1-gen-2026-08-05::Gen.G",
-    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes"
+    "dota2-flc-liquid-2026-08-05-game1::Team Liquid",
+    "mlb-lad-chc-2026-08-05::Chicago Cubs"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Team Falcons vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-flc-liquid-2026-08-05-game1",
+      "outcome": "Team Liquid",
+      "num_traders": 4,
+      "total_value": 38720.85,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.1753,
+          "value": 14850.65,
+          "avg_price": 0.304,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "VPenguin",
+          "roi": 0.1869,
+          "value": 13138.71,
+          "avg_price": 0.3109,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "PIKALEVSKIY-MONSTR",
+          "roi": 0.1742,
+          "value": 6681.5,
+          "avg_price": 0.3081,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.3925,
+          "value": 4049.99,
+          "avg_price": 0.33,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Dodgers vs. Chicago Cubs",
+      "slug": "mlb-lad-chc-2026-08-05",
+      "outcome": "Chicago Cubs",
+      "num_traders": 3,
+      "total_value": 184293.96,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2392,
+          "value": 88255.21,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Talvez10",
+          "roi": 0.3061,
+          "value": 54074.78,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "casualbet2020",
+          "roi": 0.3641,
+          "value": 41963.97,
+          "avg_price": 0.53,
+          "cur_price": 0.525
+        }
+      ]
+    },
     {
       "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-hle1-gen-2026-08-05",
@@ -177,170 +244,6 @@
           "value": 1193.84,
           "avg_price": 0.55,
           "cur_price": 0.95
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs",
-      "slug": "dota2-1win-bb4-2026-08-05",
-      "outcome": "1win",
-      "num_traders": 4,
-      "total_value": 44462.11,
-      "holders": [
-        {
-          "trader": "CORGI8",
-          "roi": 0.2564,
-          "value": 37286.07,
-          "avg_price": 0.4582,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.2061,
-          "value": 3464.54,
-          "avg_price": 0.4575,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3271,
-          "value": 3250,
-          "avg_price": 0.3939,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2439,
-          "value": 461.5,
-          "avg_price": 0.4533,
-          "cur_price": 0.65
-        }
-      ]
-    },
-    {
-      "market": "LoL: JD Gaming vs LGD Gaming - Game 2 Winner",
-      "slug": "lol-jdg-lgd-2026-08-05-game2",
-      "outcome": "LGD Gaming",
-      "num_traders": 4,
-      "total_value": 32622.46,
-      "holders": [
-        {
-          "trader": "esportGG",
-          "roi": 0.7923,
-          "value": 19468.86,
-          "avg_price": 0.376,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "patient12",
-          "roi": 0.3475,
-          "value": 9844.2,
-          "avg_price": 0.9504,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3271,
-          "value": 1999,
-          "avg_price": 0.41,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kedaya8888",
-          "roi": 0.4708,
-          "value": 1310.4,
-          "avg_price": 0.6723,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
-      "slug": "lol-bro2-ns-2026-08-05",
-      "outcome": "HANJIN BRION",
-      "num_traders": 3,
-      "total_value": 87456.0,
-      "holders": [
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.1701,
-          "value": 32483.74,
-          "avg_price": 0.4341,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.3008,
-          "value": 29984.91,
-          "avg_price": 0.29,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kedaya8888",
-          "roi": 0.4708,
-          "value": 24987.35,
-          "avg_price": 0.3363,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: JD Gaming vs LGD Gaming - Game 1 Winner",
-      "slug": "lol-jdg-lgd-2026-08-05-game1",
-      "outcome": "JD Gaming",
-      "num_traders": 3,
-      "total_value": 85817.61,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.3475,
-          "value": 42783.92,
-          "avg_price": 0.5742,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "esportGG",
-          "roi": 0.7923,
-          "value": 22259.03,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3271,
-          "value": 20774.66,
-          "avg_price": 0.4765,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: 1win vs BetBoom Team - Game 1 Winner",
-      "slug": "dota2-1win-bb4-2026-08-05-game1",
-      "outcome": "BetBoom Team",
-      "num_traders": 3,
-      "total_value": 68898.46,
-      "holders": [
-        {
-          "trader": "Dota2winner",
-          "roi": 0.327,
-          "value": 49975,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3271,
-          "value": 9474.06,
-          "avg_price": 0.4433,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.2061,
-          "value": 9449.4,
-          "avg_price": 0.2354,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -739,13 +642,15 @@
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 3,
     "wnba-sea-nyl-2026-08-05::Seattle Storm": 3,
-    "dota2-1win-bb4-2026-08-05::1win": 2,
-    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming": 2,
-    "lol-bro2-ns-2026-08-05::HANJIN BRION": 2,
-    "lol-jdg-lgd-2026-08-05-game1::JD Gaming": 2,
-    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 2,
-    "lol-hle1-gen-2026-08-05-game1::Gen.G": 1,
-    "dota2-playti-yb1-2026-08-05-game2::PlayTime": 1
+    "dota2-1win-bb4-2026-08-05::1win": 3,
+    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming": 3,
+    "lol-bro2-ns-2026-08-05::HANJIN BRION": 3,
+    "lol-jdg-lgd-2026-08-05-game1::JD Gaming": 3,
+    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 3,
+    "lol-hle1-gen-2026-08-05-game1::Gen.G": 2,
+    "dota2-playti-yb1-2026-08-05-game2::PlayTime": 2,
+    "lol-hle1-gen-2026-08-05::Gen.G": 1,
+    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 1
   },
-  "updated_at": "2026-08-05T16:18:37.637451+00:00"
+  "updated_at": "2026-08-05T17:58:14.398089+00:00"
 }

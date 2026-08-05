@@ -8977,7 +8977,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 82372.25,
       "traders": [
@@ -8986,7 +8986,8 @@
         "elizabeth.ethcome",
         "kedaya8888"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-05-game1"
+      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-05-game1",
+      "consensus_lost_at": "2026-08-05T17:58:14.391563+00:00"
     },
     {
       "signal_id": "dota2-1win-bb4-2026-08-05::1win",
@@ -9177,7 +9178,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 58114.98,
       "traders": [
@@ -9185,8 +9186,58 @@
         "PIKALEVSKIY-MONSTR",
         "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
       ],
-      "url": "https://polymarket.com/event/dota2-playti-yb1-2026-08-05-game2"
+      "url": "https://polymarket.com/event/dota2-playti-yb1-2026-08-05-game2",
+      "consensus_lost_at": "2026-08-05T17:58:14.391563+00:00"
+    },
+    {
+      "signal_id": "dota2-flc-liquid-2026-08-05-game1::Team Liquid",
+      "market": "Dota 2: Team Falcons vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-flc-liquid-2026-08-05-game1",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-05T17:58:14.391563+00:00",
+      "last_seen": "2026-08-05T17:58:14.391563+00:00",
+      "entry_price": 0.675,
+      "current_price": 0.675,
+      "stake": 100.0,
+      "shares": 148.148148,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 38720.85,
+      "traders": [
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "VPenguin",
+        "PIKALEVSKIY-MONSTR",
+        "sulumos"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game1"
+    },
+    {
+      "signal_id": "mlb-lad-chc-2026-08-05::Chicago Cubs",
+      "market": "Los Angeles Dodgers vs. Chicago Cubs",
+      "slug": "mlb-lad-chc-2026-08-05",
+      "side": "Chicago Cubs",
+      "alerted_at": "2026-08-05T17:58:14.391563+00:00",
+      "last_seen": "2026-08-05T17:58:14.391563+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 184293.96,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "Talvez10",
+        "casualbet2020"
+      ],
+      "url": "https://polymarket.com/event/mlb-lad-chc-2026-08-05"
     }
   ],
-  "updated_at": "2026-08-05T16:18:37.628899+00:00"
+  "updated_at": "2026-08-05T17:58:14.391563+00:00"
 }
