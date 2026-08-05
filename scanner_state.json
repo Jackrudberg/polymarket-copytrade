@@ -1,8 +1,6 @@
 {
   "seen_ids": [
     "lol-hle1-gen-2026-08-05::Gen.G",
-    "lol-hle1-gen-2026-08-05-game1::Gen.G",
-    "dota2-playti-yb1-2026-08-05-game2::PlayTime",
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes"
   ],
   "signals": [
@@ -10,26 +8,26 @@
       "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-hle1-gen-2026-08-05",
       "outcome": "Gen.G",
-      "num_traders": 9,
-      "total_value": 342026.44,
+      "num_traders": 8,
+      "total_value": 339108.25,
       "holders": [
         {
           "trader": "TeGeeLP",
-          "roi": 0.4019,
+          "roi": 0.3954,
           "value": 126602.51,
           "avg_price": 0.503,
           "cur_price": 0.9995
         },
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.1826,
+          "roi": 0.1823,
           "value": 49447.2,
           "avg_price": 0.48,
           "cur_price": 0.9995
         },
         {
           "trader": "elizabeth.ethcome",
-          "roi": 0.1834,
+          "roi": 0.1988,
           "value": 39979.96,
           "avg_price": 0.5075,
           "cur_price": 0.9995
@@ -43,7 +41,7 @@
         },
         {
           "trader": "f3arless",
-          "roi": 0.2495,
+          "roi": 0.2552,
           "value": 28985.49,
           "avg_price": 0.4768,
           "cur_price": 0.9995
@@ -57,24 +55,47 @@
         },
         {
           "trader": "BrotherObama",
-          "roi": 0.277,
+          "roi": 0.2603,
           "value": 24059.82,
           "avg_price": 0.5,
           "cur_price": 0.9995
         },
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.1769,
+          "roi": 0.1753,
           "value": 13395.76,
           "avg_price": 0.4852,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14813.17,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.1757,
+          "value": 6982.13,
+          "avg_price": 0.5,
+          "cur_price": 0.0815
         },
         {
-          "trader": "vananal0318",
-          "roi": 0.1893,
-          "value": 2918.19,
-          "avg_price": 0.697,
-          "cur_price": 0.9995
+          "trader": "AnonymousUsername",
+          "roi": 0.1966,
+          "value": 5585.4,
+          "avg_price": 0.0078,
+          "cur_price": 0.0815
+        },
+        {
+          "trader": "R79dgahr",
+          "roi": 0.5203,
+          "value": 2245.64,
+          "avg_price": 0.0078,
+          "cur_price": 0.0815
         }
       ]
     },
@@ -156,36 +177,6 @@
           "value": 1193.84,
           "avg_price": 0.55,
           "cur_price": 0.95
-        }
-      ]
-    },
-    {
-      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14137.13,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.2451,
-          "value": 5921.74,
-          "avg_price": 0.5,
-          "cur_price": 0.0855
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2193,
-          "value": 5859.53,
-          "avg_price": 0.0078,
-          "cur_price": 0.0855
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.5342,
-          "value": 2355.86,
-          "avg_price": 0.0078,
-          "cur_price": 0.0855
         }
       ]
     },
@@ -350,36 +341,6 @@
           "value": 9449.4,
           "avg_price": 0.2354,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Seattle Storm vs. New York Liberty",
-      "slug": "wnba-sea-nyl-2026-08-05",
-      "outcome": "Seattle Storm",
-      "num_traders": 3,
-      "total_value": 6330.96,
-      "holders": [
-        {
-          "trader": "canoflanagan",
-          "roi": 0.2506,
-          "value": 5954.48,
-          "avg_price": 0.2448,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.4229,
-          "value": 234.31,
-          "avg_price": 0.1695,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3494,
-          "value": 142.17,
-          "avg_price": 0.1707,
-          "cur_price": 0.235
         }
       ]
     }
@@ -777,12 +738,14 @@
     "wnba-tor-gsv-2026-08-04-total-169pt5::Over": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 3,
-    "wnba-sea-nyl-2026-08-05::Seattle Storm": 2,
-    "dota2-1win-bb4-2026-08-05::1win": 1,
-    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming": 1,
-    "lol-bro2-ns-2026-08-05::HANJIN BRION": 1,
-    "lol-jdg-lgd-2026-08-05-game1::JD Gaming": 1,
-    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 1
+    "wnba-sea-nyl-2026-08-05::Seattle Storm": 3,
+    "dota2-1win-bb4-2026-08-05::1win": 2,
+    "lol-jdg-lgd-2026-08-05-game2::LGD Gaming": 2,
+    "lol-bro2-ns-2026-08-05::HANJIN BRION": 2,
+    "lol-jdg-lgd-2026-08-05-game1::JD Gaming": 2,
+    "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 2,
+    "lol-hle1-gen-2026-08-05-game1::Gen.G": 1,
+    "dota2-playti-yb1-2026-08-05-game2::PlayTime": 1
   },
-  "updated_at": "2026-08-05T14:31:39.688740+00:00"
+  "updated_at": "2026-08-05T16:18:37.637451+00:00"
 }
