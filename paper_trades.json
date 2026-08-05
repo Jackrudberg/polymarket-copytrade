@@ -2592,14 +2592,14 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-05T20:49:21.621820+00:00",
+      "last_seen": "2026-08-05T22:01:46.411409+00:00",
       "entry_price": 0.28,
-      "current_price": 0.385,
+      "current_price": 0.39,
       "stake": 100.0,
       "shares": 357.142857,
-      "current_value": 137.5,
-      "paper_pnl": 37.5,
-      "return_percent": 37.5,
+      "current_value": 139.29,
+      "paper_pnl": 39.29,
+      "return_percent": 39.29,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7201.71,
@@ -9205,7 +9205,7 @@
       "current_value": 148.07,
       "paper_pnl": 48.07,
       "return_percent": 48.07,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 38720.85,
       "traders": [
@@ -9214,7 +9214,8 @@
         "PIKALEVSKIY-MONSTR",
         "sulumos"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game1"
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game1",
+      "consensus_lost_at": "2026-08-05T22:01:46.411409+00:00"
     },
     {
       "signal_id": "mlb-lad-chc-2026-08-05::Chicago Cubs",
@@ -9246,14 +9247,14 @@
       "slug": "dota2-flc-liquid-2026-08-05",
       "side": "Team Liquid",
       "alerted_at": "2026-08-05T19:47:55.612736+00:00",
-      "last_seen": "2026-08-05T20:49:21.621820+00:00",
+      "last_seen": "2026-08-05T22:01:46.411409+00:00",
       "entry_price": 0.735,
-      "current_price": 0.751141,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 136.054422,
-      "current_value": 102.2,
-      "paper_pnl": 2.2,
-      "return_percent": 2.2,
+      "current_value": 135.99,
+      "paper_pnl": 35.99,
+      "return_percent": 35.99,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 114520.27,
@@ -9278,7 +9279,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 32807.51,
       "traders": [
@@ -9286,8 +9287,9 @@
         "PIKALEVSKIY-MONSTR",
         "olegio"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game2"
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game2",
+      "consensus_lost_at": "2026-08-05T22:01:46.411409+00:00"
     }
   ],
-  "updated_at": "2026-08-05T20:49:21.621820+00:00"
+  "updated_at": "2026-08-05T22:01:46.411409+00:00"
 }
