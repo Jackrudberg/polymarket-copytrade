@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-04T14:44:59.985876+00:00",
+      "last_seen": "2026-08-05T19:47:55.612736+00:00",
       "entry_price": 0.28,
       "current_price": 0.385,
       "stake": 100.0,
@@ -2600,7 +2600,7 @@
       "current_value": 137.5,
       "paper_pnl": 37.5,
       "return_percent": 37.5,
-      "status": "CONSENSUS_LOST",
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7201.71,
       "traders": [
@@ -9130,7 +9130,7 @@
       "current_value": 135.99,
       "paper_pnl": 35.99,
       "return_percent": 35.99,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 38873.31,
       "traders": [
@@ -9138,7 +9138,8 @@
         "BrotherObama",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-05"
+      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-05",
+      "consensus_lost_at": "2026-08-05T19:47:55.612736+00:00"
     },
     {
       "signal_id": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes",
@@ -9154,7 +9155,7 @@
       "current_value": 95.32,
       "paper_pnl": -4.68,
       "return_percent": -4.68,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 15508.54,
       "traders": [
@@ -9162,7 +9163,8 @@
         "AnonymousUsername",
         "R79dgahr"
       ],
-      "url": "https://polymarket.com/event/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641"
+      "url": "https://polymarket.com/event/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "consensus_lost_at": "2026-08-05T19:47:55.612736+00:00"
     },
     {
       "signal_id": "dota2-playti-yb1-2026-08-05-game2::PlayTime",
@@ -9195,14 +9197,14 @@
       "slug": "dota2-flc-liquid-2026-08-05-game1",
       "side": "Team Liquid",
       "alerted_at": "2026-08-05T17:58:14.391563+00:00",
-      "last_seen": "2026-08-05T17:58:14.391563+00:00",
+      "last_seen": "2026-08-05T19:47:55.612736+00:00",
       "entry_price": 0.675,
-      "current_price": 0.675,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 148.148148,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 148.07,
+      "paper_pnl": 48.07,
+      "return_percent": 48.07,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 38720.85,
@@ -9220,14 +9222,14 @@
       "slug": "mlb-lad-chc-2026-08-05",
       "side": "Chicago Cubs",
       "alerted_at": "2026-08-05T17:58:14.391563+00:00",
-      "last_seen": "2026-08-05T17:58:14.391563+00:00",
+      "last_seen": "2026-08-05T19:47:55.612736+00:00",
       "entry_price": 0.525,
-      "current_price": 0.525,
+      "current_price": 0.935,
       "stake": 100.0,
       "shares": 190.47619,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 178.1,
+      "paper_pnl": 78.1,
+      "return_percent": 78.1,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 184293.96,
@@ -9237,7 +9239,55 @@
         "casualbet2020"
       ],
       "url": "https://polymarket.com/event/mlb-lad-chc-2026-08-05"
+    },
+    {
+      "signal_id": "dota2-flc-liquid-2026-08-05::Team Liquid",
+      "market": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+      "slug": "dota2-flc-liquid-2026-08-05",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-05T19:47:55.612736+00:00",
+      "last_seen": "2026-08-05T19:47:55.612736+00:00",
+      "entry_price": 0.735,
+      "current_price": 0.735,
+      "stake": 100.0,
+      "shares": 136.054422,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 114520.27,
+      "traders": [
+        "TheVeteran77",
+        "CORGI8",
+        "sulumos"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05"
+    },
+    {
+      "signal_id": "dota2-flc-liquid-2026-08-05-game2::Team Liquid",
+      "market": "Dota 2: Team Falcons vs Team Liquid - Game 2 Winner",
+      "slug": "dota2-flc-liquid-2026-08-05-game2",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-05T19:47:55.612736+00:00",
+      "last_seen": "2026-08-05T19:47:55.612736+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 32807.51,
+      "traders": [
+        "CORGI8",
+        "PIKALEVSKIY-MONSTR",
+        "olegio"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05-game2"
     }
   ],
-  "updated_at": "2026-08-05T17:58:14.391563+00:00"
+  "updated_at": "2026-08-05T19:47:55.612736+00:00"
 }
