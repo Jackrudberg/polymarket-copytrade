@@ -1,9 +1,7 @@
 {
   "seen_ids": [
     "mlb-lad-chc-2026-08-05::Chicago Cubs",
-    "dota2-flc-liquid-2026-08-05-game1::Team Liquid",
     "dota2-flc-liquid-2026-08-05::Team Liquid",
-    "dota2-flc-liquid-2026-08-05-game2::Team Liquid",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
@@ -12,35 +10,95 @@
       "slug": "mlb-lad-chc-2026-08-05",
       "outcome": "Chicago Cubs",
       "num_traders": 4,
-      "total_value": 562996.58,
+      "total_value": 597058.19,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2038,
-          "value": 390051.32,
+          "roi": 0.2837,
+          "value": 413621.26,
           "avg_price": 0.5257,
-          "cur_price": 0.935
+          "cur_price": 0.9915
         },
         {
           "trader": "Talvez10",
-          "roi": 0.2444,
-          "value": 96304.62,
+          "roi": 0.2777,
+          "value": 102124.09,
           "avg_price": 0.52,
-          "cur_price": 0.935
+          "cur_price": 0.9915
         },
         {
           "trader": "casualbet2020",
-          "roi": 0.4841,
-          "value": 74735.84,
+          "roi": 0.7741,
+          "value": 79291.92,
           "avg_price": 0.53,
-          "cur_price": 0.935
+          "cur_price": 0.992
         },
         {
           "trader": "riverskew",
-          "roi": 0.1898,
-          "value": 1904.8,
+          "roi": 0.2273,
+          "value": 2020.92,
           "avg_price": 0.52,
-          "cur_price": 0.935
+          "cur_price": 0.992
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
+      "slug": "dota2-flc-liquid-2026-08-05",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 116879.52,
+      "holders": [
+        {
+          "trader": "TheVeteran77",
+          "roi": 0.4117,
+          "value": 59899.03,
+          "avg_price": 0.3257,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.2388,
+          "value": 50702.99,
+          "avg_price": 0.2575,
+          "cur_price": 0.72
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.4014,
+          "value": 6277.5,
+          "avg_price": 0.45,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 9888.47,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2837,
+          "value": 8728.88,
+          "avg_price": 0.48,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 1.4944,
+          "value": 967.09,
+          "avg_price": 0.39,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.2273,
+          "value": 192.5,
+          "avg_price": 0.47,
+          "cur_price": 0.385
         }
       ]
     },
@@ -82,36 +140,6 @@
       ]
     },
     {
-      "market": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
-      "slug": "dota2-flc-liquid-2026-08-05",
-      "outcome": "Team Liquid",
-      "num_traders": 3,
-      "total_value": 114520.27,
-      "holders": [
-        {
-          "trader": "TheVeteran77",
-          "roi": 0.3498,
-          "value": 56807.47,
-          "avg_price": 0.3257,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.1589,
-          "value": 51759.3,
-          "avg_price": 0.2575,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.3774,
-          "value": 5953.5,
-          "avg_price": 0.45,
-          "cur_price": 0.735
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Team Falcons vs Team Liquid - Game 2 Winner",
       "slug": "dota2-flc-liquid-2026-08-05-game2",
       "outcome": "Team Liquid",
@@ -138,131 +166,6 @@
           "value": 703.0,
           "avg_price": 0.35,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 9888.47,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2038,
-          "value": 8728.88,
-          "avg_price": 0.48,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 1.4959,
-          "value": 967.09,
-          "avg_price": 0.39,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.1898,
-          "value": 192.5,
-          "avg_price": 0.47,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-hle1-gen-2026-08-05",
-      "outcome": "Gen.G",
-      "num_traders": 8,
-      "total_value": 339108.25,
-      "holders": [
-        {
-          "trader": "TeGeeLP",
-          "roi": 0.3954,
-          "value": 126602.51,
-          "avg_price": 0.503,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.1823,
-          "value": 49447.2,
-          "avg_price": 0.48,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.1988,
-          "value": 39979.96,
-          "avg_price": 0.5075,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kedaya8888",
-          "roi": 0.3956,
-          "value": 29985,
-          "avg_price": 0.5033,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "f3arless",
-          "roi": 0.2552,
-          "value": 28985.49,
-          "avg_price": 0.4768,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.2004,
-          "value": 26652.51,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.2603,
-          "value": 24059.82,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.1753,
-          "value": 13395.76,
-          "avg_price": 0.4852,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14813.17,
-      "holders": [
-        {
-          "trader": "patient12",
-          "roi": 0.1757,
-          "value": 6982.13,
-          "avg_price": 0.5,
-          "cur_price": 0.0815
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1966,
-          "value": 5585.4,
-          "avg_price": 0.0078,
-          "cur_price": 0.0815
-        },
-        {
-          "trader": "R79dgahr",
-          "roi": 0.5203,
-          "value": 2245.64,
-          "avg_price": 0.0078,
-          "cur_price": 0.0815
         }
       ]
     }
@@ -667,8 +570,10 @@
     "dota2-1win-bb4-2026-08-05-game1::BetBoom Team": 3,
     "lol-hle1-gen-2026-08-05-game1::Gen.G": 3,
     "dota2-playti-yb1-2026-08-05-game2::PlayTime": 3,
-    "lol-hle1-gen-2026-08-05::Gen.G": 2,
-    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 2
+    "lol-hle1-gen-2026-08-05::Gen.G": 3,
+    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
+    "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 1,
+    "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 1
   },
-  "updated_at": "2026-08-05T19:47:55.621973+00:00"
+  "updated_at": "2026-08-05T20:49:21.630388+00:00"
 }
