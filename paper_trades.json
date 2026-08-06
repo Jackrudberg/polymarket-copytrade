@@ -2600,7 +2600,7 @@
       "current_value": 139.29,
       "paper_pnl": 39.29,
       "return_percent": 39.29,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7201.71,
       "traders": [
@@ -2609,7 +2609,7 @@
         "ic4cream"
       ],
       "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11-total-8pt5",
-      "consensus_lost_at": "2026-08-04T18:16:19.463666+00:00"
+      "consensus_lost_at": "2026-08-06T06:16:43.399835+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-07-19-game2::T1",
@@ -9306,7 +9306,7 @@
       "current_value": 43.53,
       "paper_pnl": -56.47,
       "return_percent": -56.47,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 235238.44,
       "traders": [
@@ -9314,7 +9314,8 @@
         "SDTrading",
         "riverskew"
       ],
-      "url": "https://polymarket.com/event/mlb-cws-bos-2026-08-05"
+      "url": "https://polymarket.com/event/mlb-cws-bos-2026-08-05",
+      "consensus_lost_at": "2026-08-06T06:16:43.399835+00:00"
     },
     {
       "signal_id": "mlb-wsh-phi-2026-08-05-total-9pt5::Under",
@@ -9330,7 +9331,7 @@
       "current_value": 149.45,
       "paper_pnl": 49.45,
       "return_percent": 49.45,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 76820.15,
       "traders": [
@@ -9338,7 +9339,8 @@
         "texaskid",
         "Elaran1993"
       ],
-      "url": "https://polymarket.com/event/mlb-wsh-phi-2026-08-05-total-9pt5"
+      "url": "https://polymarket.com/event/mlb-wsh-phi-2026-08-05-total-9pt5",
+      "consensus_lost_at": "2026-08-06T06:16:43.399835+00:00"
     },
     {
       "signal_id": "mlb-oak-cin-2026-08-05::Cincinnati Reds",
@@ -9354,7 +9356,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5761.75,
       "traders": [
@@ -9362,7 +9364,8 @@
         "SDTrading",
         "wr0ngw4yb3tt0r"
       ],
-      "url": "https://polymarket.com/event/mlb-oak-cin-2026-08-05"
+      "url": "https://polymarket.com/event/mlb-oak-cin-2026-08-05",
+      "consensus_lost_at": "2026-08-06T06:16:43.399835+00:00"
     },
     {
       "signal_id": "mlb-det-sea-2026-08-05::Detroit Tigers",
@@ -9462,5 +9465,5 @@
       "url": "https://polymarket.com/event/atp-tien-monfils-2026-08-05"
     }
   ],
-  "updated_at": "2026-08-06T03:42:14.880052+00:00"
+  "updated_at": "2026-08-06T06:16:43.399835+00:00"
 }

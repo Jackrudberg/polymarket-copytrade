@@ -1,10 +1,5 @@
 {
-  "seen_ids": [
-    "mlb-det-sea-2026-08-05::Detroit Tigers",
-    "mlb-det-sea-2026-08-05::Seattle Mariners",
-    "mlb-det-sea-2026-08-05-total-7pt5::Under",
-    "atp-tien-monfils-2026-08-05::Learner Tien"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Detroit Tigers vs. Seattle Mariners",
@@ -250,36 +245,6 @@
           "value": 294.68,
           "avg_price": 0.5835,
           "cur_price": 0.6949
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs Team Liquid (BO5) - 1win Essence Playoffs",
-      "slug": "dota2-flc-liquid-2026-08-05",
-      "outcome": "Team Liquid",
-      "num_traders": 3,
-      "total_value": 155731.99,
-      "holders": [
-        {
-          "trader": "TheVeteran77",
-          "roi": 0.532,
-          "value": 77250.43,
-          "avg_price": 0.3257,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.3176,
-          "value": 70385.61,
-          "avg_price": 0.2575,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.4249,
-          "value": 8095.95,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -689,11 +654,15 @@
     "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 3,
     "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 3,
     "mlb-lad-chc-2026-08-05::Chicago Cubs": 3,
-    "dota2-flc-liquid-2026-08-05::Team Liquid": 2,
-    "mlb-wsh-phi-2026-08-05-total-9pt5::Under": 1,
-    "mlb-cws-bos-2026-08-05::Chicago White Sox": 1,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1,
-    "mlb-oak-cin-2026-08-05::Cincinnati Reds": 1
+    "dota2-flc-liquid-2026-08-05::Team Liquid": 3,
+    "mlb-wsh-phi-2026-08-05-total-9pt5::Under": 2,
+    "mlb-cws-bos-2026-08-05::Chicago White Sox": 2,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2,
+    "mlb-oak-cin-2026-08-05::Cincinnati Reds": 2,
+    "mlb-det-sea-2026-08-05::Detroit Tigers": 1,
+    "mlb-det-sea-2026-08-05::Seattle Mariners": 1,
+    "mlb-det-sea-2026-08-05-total-7pt5::Under": 1,
+    "atp-tien-monfils-2026-08-05::Learner Tien": 1
   },
-  "updated_at": "2026-08-06T03:42:14.889135+00:00"
+  "updated_at": "2026-08-06T06:16:43.408643+00:00"
 }
