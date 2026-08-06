@@ -1,38 +1,128 @@
 {
   "seen_ids": [
-    "mlb-cws-bos-2026-08-05::Chicago White Sox",
-    "dota2-flc-liquid-2026-08-05::Team Liquid",
     "mlb-wsh-phi-2026-08-05-total-9pt5::Under",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "mlb-cws-bos-2026-08-05::Chicago White Sox",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "mlb-oak-cin-2026-08-05::Cincinnati Reds"
   ],
   "signals": [
+    {
+      "market": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-wsh-phi-2026-08-05-total-9pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 114808.14,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2743,
+          "value": 54855.6,
+          "avg_price": 0.5,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "texaskid",
+          "roi": 0.6214,
+          "value": 50999.73,
+          "avg_price": 0.51,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "Elaran1993",
+          "roi": 0.4324,
+          "value": 8952.81,
+          "avg_price": 0.5,
+          "cur_price": 0.68
+        }
+      ]
+    },
     {
       "market": "Chicago White Sox vs. Boston Red Sox",
       "slug": "mlb-cws-bos-2026-08-05",
       "outcome": "Chicago White Sox",
       "num_traders": 3,
-      "total_value": 235238.44,
+      "total_value": 104376.06,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3214,
-          "value": 203930.47,
-          "avg_price": 0.4243,
-          "cur_price": 0.425
+          "roi": 0.2743,
+          "value": 90747.88,
+          "avg_price": 0.4232,
+          "cur_price": 0.185
         },
         {
           "trader": "SDTrading",
-          "roi": 0.5361,
-          "value": 26346.5,
+          "roi": 0.3382,
+          "value": 11468.48,
           "avg_price": 0.45,
-          "cur_price": 0.425
+          "cur_price": 0.185
         },
         {
           "trader": "riverskew",
-          "roi": 0.1914,
-          "value": 4961.47,
+          "roi": 0.1912,
+          "value": 2159.7,
           "avg_price": 0.42,
-          "cur_price": 0.425
+          "cur_price": 0.185
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 10016.89,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2743,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3382,
+          "value": 979.64,
+          "avg_price": 0.39,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.1912,
+          "value": 195,
+          "avg_price": 0.47,
+          "cur_price": 0.39
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Cincinnati Reds",
+      "slug": "mlb-oak-cin-2026-08-05",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 5761.75,
+      "holders": [
+        {
+          "trader": "steevenseakael",
+          "roi": 0.2142,
+          "value": 3477.5,
+          "avg_price": 0.5761,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3382,
+          "value": 1989.57,
+          "avg_price": 0.6,
+          "cur_price": 0.6949
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2743,
+          "value": 294.68,
+          "avg_price": 0.5835,
+          "cur_price": 0.6949
         }
       ]
     },
@@ -63,103 +153,6 @@
           "value": 8095.95,
           "avg_price": 0.45,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
-      "slug": "mlb-wsh-phi-2026-08-05-total-9pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 76820.15,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3214,
-          "value": 36704.85,
-          "avg_price": 0.5,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "texaskid",
-          "roi": 0.6221,
-          "value": 34124.82,
-          "avg_price": 0.51,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "Elaran1993",
-          "roi": 0.4358,
-          "value": 5990.48,
-          "avg_price": 0.5,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 10016.89,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3214,
-          "value": 8842.25,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.5361,
-          "value": 979.64,
-          "avg_price": 0.39,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.1914,
-          "value": 195,
-          "avg_price": 0.47,
-          "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Chicago Cubs",
-      "slug": "mlb-lad-chc-2026-08-05",
-      "outcome": "Chicago Cubs",
-      "num_traders": 4,
-      "total_value": 597058.19,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2837,
-          "value": 413621.26,
-          "avg_price": 0.5257,
-          "cur_price": 0.9915
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 0.2777,
-          "value": 102124.09,
-          "avg_price": 0.52,
-          "cur_price": 0.9915
-        },
-        {
-          "trader": "casualbet2020",
-          "roi": 0.7741,
-          "value": 79291.92,
-          "avg_price": 0.53,
-          "cur_price": 0.992
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.2273,
-          "value": 2020.92,
-          "avg_price": 0.52,
-          "cur_price": 0.992
         }
       ]
     }
@@ -568,7 +561,8 @@
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
     "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 3,
     "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 3,
-    "mlb-lad-chc-2026-08-05::Chicago Cubs": 2
+    "mlb-lad-chc-2026-08-05::Chicago Cubs": 3,
+    "dota2-flc-liquid-2026-08-05::Team Liquid": 1
   },
-  "updated_at": "2026-08-05T23:13:56.188443+00:00"
+  "updated_at": "2026-08-06T00:12:41.675711+00:00"
 }
