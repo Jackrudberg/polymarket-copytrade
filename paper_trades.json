@@ -9256,7 +9256,7 @@
       "current_value": 135.99,
       "paper_pnl": 35.99,
       "return_percent": 35.99,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 114520.27,
       "traders": [
@@ -9264,7 +9264,8 @@
         "CORGI8",
         "sulumos"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05"
+      "url": "https://polymarket.com/event/dota2-flc-liquid-2026-08-05",
+      "consensus_lost_at": "2026-08-06T03:42:14.880052+00:00"
     },
     {
       "signal_id": "dota2-flc-liquid-2026-08-05-game2::Team Liquid",
@@ -9362,7 +9363,104 @@
         "wr0ngw4yb3tt0r"
       ],
       "url": "https://polymarket.com/event/mlb-oak-cin-2026-08-05"
+    },
+    {
+      "signal_id": "mlb-det-sea-2026-08-05::Detroit Tigers",
+      "market": "Detroit Tigers vs. Seattle Mariners",
+      "slug": "mlb-det-sea-2026-08-05",
+      "side": "Detroit Tigers",
+      "alerted_at": "2026-08-06T03:42:14.880052+00:00",
+      "last_seen": "2026-08-06T03:42:14.880052+00:00",
+      "entry_price": 0.0235,
+      "current_price": 0.0235,
+      "stake": 100.0,
+      "shares": 4255.319149,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 5037.2,
+      "traders": [
+        "Pwaddler",
+        "AV23IUa",
+        "sentrio",
+        "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-sea-2026-08-05"
+    },
+    {
+      "signal_id": "mlb-det-sea-2026-08-05::Seattle Mariners",
+      "market": "Detroit Tigers vs. Seattle Mariners",
+      "slug": "mlb-det-sea-2026-08-05",
+      "side": "Seattle Mariners",
+      "alerted_at": "2026-08-06T03:42:14.880052+00:00",
+      "last_seen": "2026-08-06T03:42:14.880052+00:00",
+      "entry_price": 0.9765,
+      "current_price": 0.9765,
+      "stake": 100.0,
+      "shares": 102.406554,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 73602.99,
+      "traders": [
+        "monkeymashingkeyboard",
+        "Pwaddler",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-sea-2026-08-05"
+    },
+    {
+      "signal_id": "mlb-det-sea-2026-08-05-total-7pt5::Under",
+      "market": "Detroit Tigers vs. Seattle Mariners: O/U 7.5",
+      "slug": "mlb-det-sea-2026-08-05-total-7pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-06T03:42:14.880052+00:00",
+      "last_seen": "2026-08-06T03:42:14.880052+00:00",
+      "entry_price": 0.955,
+      "current_price": 0.955,
+      "stake": 100.0,
+      "shares": 104.712042,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 38790.48,
+      "traders": [
+        "AV23IUa",
+        "quavoo",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-sea-2026-08-05-total-7pt5"
+    },
+    {
+      "signal_id": "atp-tien-monfils-2026-08-05::Learner Tien",
+      "market": "National Bank Open: Learner Tien vs Gael Monfils",
+      "slug": "atp-tien-monfils-2026-08-05",
+      "side": "Learner Tien",
+      "alerted_at": "2026-08-06T03:42:14.880052+00:00",
+      "last_seen": "2026-08-06T03:42:14.880052+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 22149.94,
+      "traders": [
+        "AV23IUa",
+        "sentrio",
+        "TRCM"
+      ],
+      "url": "https://polymarket.com/event/atp-tien-monfils-2026-08-05"
     }
   ],
-  "updated_at": "2026-08-06T00:12:41.666910+00:00"
+  "updated_at": "2026-08-06T03:42:14.880052+00:00"
 }
