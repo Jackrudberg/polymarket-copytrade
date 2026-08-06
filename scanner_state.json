@@ -1,16 +1,374 @@
 {
   "seen_ids": [
-    "lol-lgd-tt-2026-08-06::ThunderTalk Gaming",
-    "lol-dk-t1-2026-08-06-game1::T1",
-    "lol-dk-t1-2026-08-06-game2::Dplus KIA",
-    "lol-drx-dnf-2026-08-06-game2::Kiwoom DRX",
+    "lol-ig1-nip-2026-08-06-game2::Ninjas in Pyjamas",
     "lol-dk-t1-2026-08-06-game2::T1",
-    "lol-drx-dnf-2026-08-06::Kiwoom DRX",
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "lol-dk-t1-2026-08-06::Dplus KIA",
-    "lol-ig1-nip-2026-08-06-game2::Ninjas in Pyjamas"
+    "lol-ig1-nip-2026-08-06::Ninjas in Pyjamas",
+    "lol-dk-t1-2026-08-06::T1",
+    "lol-ig1-nip-2026-08-06-game1::Invictus Gaming",
+    "lol-we-al-2026-08-06::Anyones Legend",
+    "lol-dk-t1-2026-08-06-game1::T1",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner",
+      "slug": "lol-ig1-nip-2026-08-06-game2",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 9,
+      "total_value": 191094.49,
+      "holders": [
+        {
+          "trader": "patient12",
+          "roi": 0.1572,
+          "value": 70749.06,
+          "avg_price": 0.6175,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.3387,
+          "value": 52812.97,
+          "avg_price": 0.4931,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "STOPTHETROLLING",
+          "roi": 0.1812,
+          "value": 22034.65,
+          "avg_price": 0.411,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.1894,
+          "value": 14503.8,
+          "avg_price": 0.4772,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2347,
+          "value": 11972.3,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4463,
+          "value": 7811.94,
+          "avg_price": 0.4393,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TeGeeLP",
+          "roi": 0.1993,
+          "value": 6618.07,
+          "avg_price": 0.4441,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2985,
+          "value": 2792.6,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.1544,
+          "value": 1799.1,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs T1 - Game 2 Winner",
+      "slug": "lol-dk-t1-2026-08-06-game2",
+      "outcome": "T1",
+      "num_traders": 8,
+      "total_value": 119126.88,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2347,
+          "value": 31896.75,
+          "avg_price": 0.5121,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3239,
+          "value": 21198.55,
+          "avg_price": 0.6027,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2979,
+          "value": 17491.02,
+          "avg_price": 0.6097,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4463,
+          "value": 15436.22,
+          "avg_price": 0.4759,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TeGeeLP",
+          "roi": 0.1993,
+          "value": 14038.05,
+          "avg_price": 0.542,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.1544,
+          "value": 13668.11,
+          "avg_price": 0.5223,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.1894,
+          "value": 3772.29,
+          "avg_price": 0.6146,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retroactivesource",
+          "roi": 0.2819,
+          "value": 1625.89,
+          "avg_price": 0.8133,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "slug": "lol-ig1-nip-2026-08-06",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 6,
+      "total_value": 115625.96,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2347,
+          "value": 48082.58,
+          "avg_price": 0.3946,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "patient12",
+          "roi": 0.1572,
+          "value": 27985.98,
+          "avg_price": 0.4714,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4463,
+          "value": 21417.14,
+          "avg_price": 0.377,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3239,
+          "value": 10339.98,
+          "avg_price": 0.5049,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.1894,
+          "value": 4618.8,
+          "avg_price": 0.5166,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.1544,
+          "value": 3181.48,
+          "avg_price": 0.2283,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-dk-t1-2026-08-06",
+      "outcome": "T1",
+      "num_traders": 5,
+      "total_value": 252085.65,
+      "holders": [
+        {
+          "trader": "retroactivesource",
+          "roi": 0.2819,
+          "value": 95452.25,
+          "avg_price": 0.706,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2985,
+          "value": 68028.9,
+          "avg_price": 0.5399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Prelode",
+          "roi": 0.4643,
+          "value": 37348.19,
+          "avg_price": 0.5352,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2347,
+          "value": 36263.81,
+          "avg_price": 0.5367,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2979,
+          "value": 14992.5,
+          "avg_price": 0.54,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+      "slug": "lol-ig1-nip-2026-08-06-game1",
+      "outcome": "Invictus Gaming",
+      "num_traders": 4,
+      "total_value": 28491.56,
+      "holders": [
+        {
+          "trader": "MissingJoy",
+          "roi": 0.1894,
+          "value": 12493.75,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "STOPTHETROLLING",
+          "roi": 0.1812,
+          "value": 7002.27,
+          "avg_price": 0.5643,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2979,
+          "value": 4997.5,
+          "avg_price": 0.4888,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "betnoboddy",
+          "roi": 0.3744,
+          "value": 3998.04,
+          "avg_price": 0.3739,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs Anyone's Legend (BO3) - LPL Group Ascend",
+      "slug": "lol-we-al-2026-08-06",
+      "outcome": "Anyones Legend",
+      "num_traders": 3,
+      "total_value": 29308.45,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2347,
+          "value": 21157.54,
+          "avg_price": 0.72,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2985,
+          "value": 5130.08,
+          "avg_price": 0.7129,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.1894,
+          "value": 3020.83,
+          "avg_price": 0.7199,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs T1 - Game 1 Winner",
+      "slug": "lol-dk-t1-2026-08-06-game1",
+      "outcome": "T1",
+      "num_traders": 3,
+      "total_value": 12257.73,
+      "holders": [
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3239,
+          "value": 8033.45,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2979,
+          "value": 2386.11,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2985,
+          "value": 1838.17,
+          "avg_price": 0.5786,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 11597.0,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5414,
+          "value": 10954.36,
+          "avg_price": 0.0682,
+          "cur_price": 0.2135
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1801,
+          "value": 429.13,
+          "avg_price": 0.0112,
+          "cur_price": 0.2135
+        },
+        {
+          "trader": "betterfasterstronger",
+          "roi": 0.3301,
+          "value": 213.51,
+          "avg_price": 0.0112,
+          "cur_price": 0.2135
+        }
+      ]
+    },
     {
       "market": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
       "slug": "lol-lgd-tt-2026-08-06",
@@ -58,57 +416,6 @@
           "roi": 0.1501,
           "value": 2998.49,
           "avg_price": 0.5,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Dplus KIA vs T1 - Game 1 Winner",
-      "slug": "lol-dk-t1-2026-08-06-game1",
-      "outcome": "T1",
-      "num_traders": 6,
-      "total_value": 27156.18,
-      "holders": [
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.293,
-          "value": 8033.45,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.2652,
-          "value": 5997,
-          "avg_price": 0.75,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.2355,
-          "value": 4903.45,
-          "avg_price": 0.7366,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.2518,
-          "value": 3998,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.2899,
-          "value": 2386.11,
-          "avg_price": 0.56,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2307,
-          "value": 1838.17,
-          "avg_price": 0.5786,
           "cur_price": 0.9995
         }
       ]
@@ -209,43 +516,6 @@
       ]
     },
     {
-      "market": "LoL: Dplus KIA vs T1 - Game 2 Winner",
-      "slug": "lol-dk-t1-2026-08-06-game2",
-      "outcome": "T1",
-      "num_traders": 4,
-      "total_value": 46248.82,
-      "holders": [
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.293,
-          "value": 13998.04,
-          "avg_price": 0.6027,
-          "cur_price": 0.66
-        },
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.2899,
-          "value": 12337.33,
-          "avg_price": 0.6097,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.5127,
-          "value": 10887.98,
-          "avg_price": 0.4759,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.1501,
-          "value": 9025.47,
-          "avg_price": 0.5223,
-          "cur_price": 0.66
-        }
-      ]
-    },
-    {
       "market": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
       "slug": "lol-drx-dnf-2026-08-06",
       "outcome": "Kiwoom DRX",
@@ -283,36 +553,6 @@
       ]
     },
     {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 11576.2,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.5416,
-          "value": 10933.56,
-          "avg_price": 0.068,
-          "cur_price": 0.2135
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1855,
-          "value": 429.13,
-          "avg_price": 0.0112,
-          "cur_price": 0.2135
-        },
-        {
-          "trader": "betterfasterstronger",
-          "roi": 0.3201,
-          "value": 213.51,
-          "avg_price": 0.0112,
-          "cur_price": 0.2135
-        }
-      ]
-    },
-    {
       "market": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-dk-t1-2026-08-06",
       "outcome": "Dplus KIA",
@@ -339,36 +579,6 @@
           "value": 718.14,
           "avg_price": 0.46,
           "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner",
-      "slug": "lol-ig1-nip-2026-08-06-game2",
-      "outcome": "Ninjas in Pyjamas",
-      "num_traders": 3,
-      "total_value": 2182.51,
-      "holders": [
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.5127,
-          "value": 1424.5,
-          "avg_price": 0.5181,
-          "cur_price": 0.2849
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2307,
-          "value": 461.01,
-          "avg_price": 0.48,
-          "cur_price": 0.165
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.1501,
-          "value": 297,
-          "avg_price": 0.4,
-          "cur_price": 0.165
         }
       ]
     },
@@ -927,10 +1137,15 @@
     "mlb-det-sea-2026-08-05::Seattle Mariners": 3,
     "mlb-det-sea-2026-08-05-total-7pt5::Under": 3,
     "atp-tien-monfils-2026-08-05::Learner Tien": 3,
-    "lol-lgd-tt-2026-08-06-game2::ThunderTalk Gaming": 1,
-    "lol-drx-dnf-2026-08-06-game1::Kiwoom DRX": 1,
-    "lol-lgd-tt-2026-08-06-game1::LGD Gaming": 1,
-    "lol-lgd-tt-2026-08-06::LGD Gaming": 1
+    "lol-lgd-tt-2026-08-06-game2::ThunderTalk Gaming": 2,
+    "lol-drx-dnf-2026-08-06-game1::Kiwoom DRX": 2,
+    "lol-lgd-tt-2026-08-06-game1::LGD Gaming": 2,
+    "lol-lgd-tt-2026-08-06::LGD Gaming": 2,
+    "lol-lgd-tt-2026-08-06::ThunderTalk Gaming": 1,
+    "lol-dk-t1-2026-08-06-game2::Dplus KIA": 1,
+    "lol-drx-dnf-2026-08-06-game2::Kiwoom DRX": 1,
+    "lol-drx-dnf-2026-08-06::Kiwoom DRX": 1,
+    "lol-dk-t1-2026-08-06::Dplus KIA": 1
   },
-  "updated_at": "2026-08-06T11:35:12.784220+00:00"
+  "updated_at": "2026-08-06T13:15:39.299647+00:00"
 }
