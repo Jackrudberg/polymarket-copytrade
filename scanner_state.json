@@ -1,6 +1,183 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-lgd-tt-2026-08-06-game2::ThunderTalk Gaming",
+    "lol-drx-dnf-2026-08-06-game1::Kiwoom DRX",
+    "lol-lgd-tt-2026-08-06-game1::LGD Gaming",
+    "lol-lgd-tt-2026-08-06::LGD Gaming",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes"
+  ],
   "signals": [
+    {
+      "market": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 2 Winner",
+      "slug": "lol-lgd-tt-2026-08-06-game2",
+      "outcome": "ThunderTalk Gaming",
+      "num_traders": 5,
+      "total_value": 35937.73,
+      "holders": [
+        {
+          "trader": "five5120",
+          "roi": 0.3362,
+          "value": 27622.75,
+          "avg_price": 0.6841,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.3186,
+          "value": 5221.92,
+          "avg_price": 0.7438,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.3612,
+          "value": 2798.6,
+          "avg_price": 0.51,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1554,
+          "value": 171.52,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1649,
+          "value": 122.94,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs DN SOOPers - Game 1 Winner",
+      "slug": "lol-drx-dnf-2026-08-06-game1",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 4,
+      "total_value": 43348.03,
+      "holders": [
+        {
+          "trader": "five5120",
+          "roi": 0.3362,
+          "value": 18343.52,
+          "avg_price": 0.7628,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.3612,
+          "value": 13492.25,
+          "avg_price": 0.7322,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BirdMan.",
+          "roi": 0.3186,
+          "value": 11277.61,
+          "avg_price": 0.8845,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1554,
+          "value": 234.65,
+          "avg_price": 0.89,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 1 Winner",
+      "slug": "lol-lgd-tt-2026-08-06-game1",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 66710.46,
+      "holders": [
+        {
+          "trader": "BirdMan.",
+          "roi": 0.3186,
+          "value": 31173.39,
+          "avg_price": 0.8895,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "five5120",
+          "roi": 0.3362,
+          "value": 29984.85,
+          "avg_price": 0.6633,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.3612,
+          "value": 5552.22,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: LGD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-lgd-tt-2026-08-06",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 18580.08,
+      "holders": [
+        {
+          "trader": "five5120",
+          "roi": 0.3362,
+          "value": 14383.14,
+          "avg_price": 0.5449,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1554,
+          "value": 2670.95,
+          "avg_price": 0.5198,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.3612,
+          "value": 1525.99,
+          "avg_price": 0.52,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 11570.84,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5418,
+          "value": 10928.2,
+          "avg_price": 0.0679,
+          "cur_price": 0.2135
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1817,
+          "value": 429.13,
+          "avg_price": 0.0112,
+          "cur_price": 0.2135
+        },
+        {
+          "trader": "betterfasterstronger",
+          "roi": 0.2806,
+          "value": 213.51,
+          "avg_price": 0.0112,
+          "cur_price": 0.2135
+        }
+      ]
+    },
     {
       "market": "Detroit Tigers vs. Seattle Mariners",
       "slug": "mlb-det-sea-2026-08-05",
@@ -125,126 +302,6 @@
           "value": 967.86,
           "avg_price": 0.5968,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
-      "slug": "mlb-wsh-phi-2026-08-05-total-9pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 114808.14,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2743,
-          "value": 54855.6,
-          "avg_price": 0.5,
-          "cur_price": 0.68
-        },
-        {
-          "trader": "texaskid",
-          "roi": 0.6214,
-          "value": 50999.73,
-          "avg_price": 0.51,
-          "cur_price": 0.68
-        },
-        {
-          "trader": "Elaran1993",
-          "roi": 0.4324,
-          "value": 8952.81,
-          "avg_price": 0.5,
-          "cur_price": 0.68
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Boston Red Sox",
-      "slug": "mlb-cws-bos-2026-08-05",
-      "outcome": "Chicago White Sox",
-      "num_traders": 3,
-      "total_value": 104376.06,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2743,
-          "value": 90747.88,
-          "avg_price": 0.4232,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3382,
-          "value": 11468.48,
-          "avg_price": 0.45,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.1912,
-          "value": 2159.7,
-          "avg_price": 0.42,
-          "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 10016.89,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2743,
-          "value": 8842.25,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3382,
-          "value": 979.64,
-          "avg_price": 0.39,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.1912,
-          "value": 195,
-          "avg_price": 0.47,
-          "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Cincinnati Reds",
-      "slug": "mlb-oak-cin-2026-08-05",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 5761.75,
-      "holders": [
-        {
-          "trader": "steevenseakael",
-          "roi": 0.2142,
-          "value": 3477.5,
-          "avg_price": 0.5761,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3382,
-          "value": 1989.57,
-          "avg_price": 0.6,
-          "cur_price": 0.6949
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2743,
-          "value": 294.68,
-          "avg_price": 0.5835,
-          "cur_price": 0.6949
         }
       ]
     }
@@ -521,7 +578,6 @@
     "lol-cfo-gam-2026-07-31::CTBC Flying Oyster": 3,
     "lol-bro2-drx-2026-07-31::Kiwoom DRX": 3,
     "cs2-faze-mglz-2026-07-30::FaZe": 3,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
     "dota2-xtreme-lgd-2026-07-31::LGD Gaming": 3,
     "cs2-pain-ast10-2026-07-30::Astralis": 3,
     "lol-mkoi-shft-2026-07-31::Movistar KOI": 3,
@@ -655,14 +711,14 @@
     "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 3,
     "mlb-lad-chc-2026-08-05::Chicago Cubs": 3,
     "dota2-flc-liquid-2026-08-05::Team Liquid": 3,
-    "mlb-wsh-phi-2026-08-05-total-9pt5::Under": 2,
-    "mlb-cws-bos-2026-08-05::Chicago White Sox": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2,
-    "mlb-oak-cin-2026-08-05::Cincinnati Reds": 2,
-    "mlb-det-sea-2026-08-05::Detroit Tigers": 1,
-    "mlb-det-sea-2026-08-05::Seattle Mariners": 1,
-    "mlb-det-sea-2026-08-05-total-7pt5::Under": 1,
-    "atp-tien-monfils-2026-08-05::Learner Tien": 1
+    "mlb-wsh-phi-2026-08-05-total-9pt5::Under": 3,
+    "mlb-cws-bos-2026-08-05::Chicago White Sox": 3,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
+    "mlb-oak-cin-2026-08-05::Cincinnati Reds": 3,
+    "mlb-det-sea-2026-08-05::Detroit Tigers": 2,
+    "mlb-det-sea-2026-08-05::Seattle Mariners": 2,
+    "mlb-det-sea-2026-08-05-total-7pt5::Under": 2,
+    "atp-tien-monfils-2026-08-05::Learner Tien": 2
   },
-  "updated_at": "2026-08-06T06:16:43.408643+00:00"
+  "updated_at": "2026-08-06T09:13:40.732646+00:00"
 }
