@@ -10004,7 +10004,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 207606.35,
       "traders": [
@@ -10014,7 +10014,8 @@
         "meoooow",
         "Atn"
       ],
-      "url": "https://polymarket.com/event/lol-we-tt-2026-08-07"
+      "url": "https://polymarket.com/event/lol-we-tt-2026-08-07",
+      "consensus_lost_at": "2026-08-07T18:01:34.542300+00:00"
     },
     {
       "signal_id": "lol-blg-tes-2026-08-07::Top Esports",
@@ -10104,7 +10105,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 121354.56,
       "traders": [
@@ -10112,7 +10113,8 @@
         "kedaya8888",
         "Sunshine.Smile"
       ],
-      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game2"
+      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game2",
+      "consensus_lost_at": "2026-08-07T18:01:34.542300+00:00"
     },
     {
       "signal_id": "lol-blg-tes-2026-08-07-game1::Top Esports",
@@ -10128,7 +10130,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 31620.16,
       "traders": [
@@ -10136,8 +10138,33 @@
         "Sunshine.Smile",
         "Zywoo123"
       ],
-      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game1"
+      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game1",
+      "consensus_lost_at": "2026-08-07T18:01:34.542300+00:00"
+    },
+    {
+      "signal_id": "lol-shft-gx-2026-08-07-game2::Shifters",
+      "market": "LoL: Shifters vs GIANTX - Game 2 Winner",
+      "slug": "lol-shft-gx-2026-08-07-game2",
+      "side": "Shifters",
+      "alerted_at": "2026-08-07T18:01:34.542300+00:00",
+      "last_seen": "2026-08-07T18:01:34.542300+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 20389.28,
+      "traders": [
+        "Zywoo123",
+        "TheMafiaa",
+        "TAIWANNUMBERONE"
+      ],
+      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game2"
     }
   ],
-  "updated_at": "2026-08-07T17:09:04.921029+00:00"
+  "updated_at": "2026-08-07T18:01:34.542300+00:00"
 }

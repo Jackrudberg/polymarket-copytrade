@@ -1,8 +1,38 @@
 {
   "seen_ids": [
-    "lol-shft-gx-2026-08-07::Shifters"
+    "lol-shft-gx-2026-08-07-game2::Shifters"
   ],
   "signals": [
+    {
+      "market": "LoL: Shifters vs GIANTX - Game 2 Winner",
+      "slug": "lol-shft-gx-2026-08-07-game2",
+      "outcome": "Shifters",
+      "num_traders": 3,
+      "total_value": 20389.28,
+      "holders": [
+        {
+          "trader": "Zywoo123",
+          "roi": 0.3652,
+          "value": 15123.23,
+          "avg_price": 0.5853,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.1607,
+          "value": 4629.05,
+          "avg_price": 0.4964,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3484,
+          "value": 637.0,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Shifters vs GIANTX (BO3) - LEC Regular Season",
       "slug": "lol-shft-gx-2026-08-07",
@@ -162,36 +192,6 @@
           "value": 1235.38,
           "avg_price": 0.3237,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Shifters vs GIANTX - Game 1 Winner",
-      "slug": "lol-shft-gx-2026-08-07-game1",
-      "outcome": "Shifters",
-      "num_traders": 3,
-      "total_value": 10379.92,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.4364,
-          "value": 5182.42,
-          "avg_price": 0.41,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.2192,
-          "value": 3850,
-          "avg_price": 0.42,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1566,
-          "value": 1347.5,
-          "avg_price": 0.41,
-          "cur_price": 0.385
         }
       ]
     }
@@ -641,10 +641,11 @@
     "lol-blg-tes-2026-08-07::Top Esports": 3,
     "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION": 3,
     "lol-fox1-bro2-2026-08-07::HANJIN BRION": 3,
-    "lol-shft-gx-2026-08-07-game1::Shifters": 2,
-    "lol-we-tt-2026-08-07::ThunderTalk Gaming": 1,
-    "lol-blg-tes-2026-08-07-game2::Top Esports": 1,
-    "lol-blg-tes-2026-08-07-game1::Top Esports": 1
+    "lol-shft-gx-2026-08-07-game1::Shifters": 3,
+    "lol-we-tt-2026-08-07::ThunderTalk Gaming": 2,
+    "lol-blg-tes-2026-08-07-game2::Top Esports": 2,
+    "lol-blg-tes-2026-08-07-game1::Top Esports": 2,
+    "lol-shft-gx-2026-08-07::Shifters": 1
   },
-  "updated_at": "2026-08-07T17:09:04.930758+00:00"
+  "updated_at": "2026-08-07T18:01:34.551545+00:00"
 }
