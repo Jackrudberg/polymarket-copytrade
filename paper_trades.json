@@ -10056,7 +10056,7 @@
       "current_value": 121.33,
       "paper_pnl": 21.33,
       "return_percent": 21.33,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 11620.67,
       "traders": [
@@ -10064,7 +10064,8 @@
         "TAIWANNUMBERONE",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07"
+      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07",
+      "consensus_lost_at": "2026-08-07T19:10:02.973080+00:00"
     },
     {
       "signal_id": "lol-shft-gx-2026-08-07-game1::Shifters",
@@ -10147,7 +10148,7 @@
       "slug": "lol-shft-gx-2026-08-07-game2",
       "side": "Shifters",
       "alerted_at": "2026-08-07T18:01:34.542300+00:00",
-      "last_seen": "2026-08-07T18:01:34.542300+00:00",
+      "last_seen": "2026-08-07T19:10:02.973080+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -10164,7 +10165,31 @@
         "TAIWANNUMBERONE"
       ],
       "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game2"
+    },
+    {
+      "signal_id": "lol-th-fnc-2026-08-07-game2::Team Heretics",
+      "market": "LoL: Team Heretics vs Fnatic - Game 2 Winner",
+      "slug": "lol-th-fnc-2026-08-07-game2",
+      "side": "Team Heretics",
+      "alerted_at": "2026-08-07T19:10:02.973080+00:00",
+      "last_seen": "2026-08-07T19:10:02.973080+00:00",
+      "entry_price": 0.4,
+      "current_price": 0.4,
+      "stake": 100.0,
+      "shares": 250.0,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 23571.18,
+      "traders": [
+        "meoooow",
+        "SineNooneEI",
+        "Zywoo123"
+      ],
+      "url": "https://polymarket.com/event/lol-th-fnc-2026-08-07-game2"
     }
   ],
-  "updated_at": "2026-08-07T18:01:34.542300+00:00"
+  "updated_at": "2026-08-07T19:10:02.973080+00:00"
 }

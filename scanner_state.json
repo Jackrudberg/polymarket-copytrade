@@ -1,8 +1,39 @@
 {
   "seen_ids": [
+    "lol-th-fnc-2026-08-07-game2::Team Heretics",
     "lol-shft-gx-2026-08-07-game2::Shifters"
   ],
   "signals": [
+    {
+      "market": "LoL: Team Heretics vs Fnatic - Game 2 Winner",
+      "slug": "lol-th-fnc-2026-08-07-game2",
+      "outcome": "Team Heretics",
+      "num_traders": 3,
+      "total_value": 23571.18,
+      "holders": [
+        {
+          "trader": "meoooow",
+          "roi": 0.2178,
+          "value": 10138.8,
+          "avg_price": 0.33,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.3032,
+          "value": 8000,
+          "avg_price": 0.33,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.3063,
+          "value": 5432.38,
+          "avg_price": 0.33,
+          "cur_price": 0.4
+        }
+      ]
+    },
     {
       "market": "LoL: Shifters vs GIANTX - Game 2 Winner",
       "slug": "lol-shft-gx-2026-08-07-game2",
@@ -12,21 +43,21 @@
       "holders": [
         {
           "trader": "Zywoo123",
-          "roi": 0.3652,
+          "roi": 0.3063,
           "value": 15123.23,
           "avg_price": 0.5853,
           "cur_price": 0.9995
         },
         {
           "trader": "TheMafiaa",
-          "roi": 0.1607,
+          "roi": 0.1682,
           "value": 4629.05,
           "avg_price": 0.4964,
           "cur_price": 0.9995
         },
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.3484,
+          "roi": 0.3095,
           "value": 637.0,
           "avg_price": 0.41,
           "cur_price": 0.9995
@@ -88,110 +119,6 @@
           "value": 1472.84,
           "avg_price": 0.381,
           "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
-      "slug": "lol-we-tt-2026-08-07",
-      "outcome": "ThunderTalk Gaming",
-      "num_traders": 5,
-      "total_value": 165828.44,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3619,
-          "value": 81899.96,
-          "avg_price": 0.2964,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.2532,
-          "value": 32285.29,
-          "avg_price": 0.3095,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.5139,
-          "value": 27530.17,
-          "avg_price": 0.29,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Atn",
-          "roi": 0.4743,
-          "value": 21014.57,
-          "avg_price": 0.2901,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1938,
-          "value": 3098.45,
-          "avg_price": 0.36,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs Top Esports - Game 2 Winner",
-      "slug": "lol-blg-tes-2026-08-07-game2",
-      "outcome": "Top Esports",
-      "num_traders": 3,
-      "total_value": 121354.56,
-      "holders": [
-        {
-          "trader": "Zywoo123",
-          "roi": 0.3603,
-          "value": 91569.49,
-          "avg_price": 0.4331,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kedaya8888",
-          "roi": 0.2894,
-          "value": 19989.97,
-          "avg_price": 0.4549,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1938,
-          "value": 9795.1,
-          "avg_price": 0.4344,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Bilibili Gaming vs Top Esports - Game 1 Winner",
-      "slug": "lol-blg-tes-2026-08-07-game1",
-      "outcome": "Top Esports",
-      "num_traders": 3,
-      "total_value": 31620.16,
-      "holders": [
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.3652,
-          "value": 19990,
-          "avg_price": 0.3903,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1938,
-          "value": 10394.78,
-          "avg_price": 0.3873,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.3603,
-          "value": 1235.38,
-          "avg_price": 0.3237,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -642,10 +569,10 @@
     "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION": 3,
     "lol-fox1-bro2-2026-08-07::HANJIN BRION": 3,
     "lol-shft-gx-2026-08-07-game1::Shifters": 3,
-    "lol-we-tt-2026-08-07::ThunderTalk Gaming": 2,
-    "lol-blg-tes-2026-08-07-game2::Top Esports": 2,
-    "lol-blg-tes-2026-08-07-game1::Top Esports": 2,
-    "lol-shft-gx-2026-08-07::Shifters": 1
+    "lol-we-tt-2026-08-07::ThunderTalk Gaming": 3,
+    "lol-blg-tes-2026-08-07-game2::Top Esports": 3,
+    "lol-blg-tes-2026-08-07-game1::Top Esports": 3,
+    "lol-shft-gx-2026-08-07::Shifters": 2
   },
-  "updated_at": "2026-08-07T18:01:34.551545+00:00"
+  "updated_at": "2026-08-07T19:10:02.980088+00:00"
 }
