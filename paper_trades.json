@@ -10047,14 +10047,14 @@
       "slug": "lol-shft-gx-2026-08-07",
       "side": "Shifters",
       "alerted_at": "2026-08-07T14:19:57.469111+00:00",
-      "last_seen": "2026-08-07T16:11:27.231072+00:00",
+      "last_seen": "2026-08-07T17:09:04.921029+00:00",
       "entry_price": 0.375,
-      "current_price": 0.195,
+      "current_price": 0.455,
       "stake": 100.0,
       "shares": 266.666667,
-      "current_value": 52.0,
-      "paper_pnl": -48.0,
-      "return_percent": -48.0,
+      "current_value": 121.33,
+      "paper_pnl": 21.33,
+      "return_percent": 21.33,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 11620.67,
@@ -10079,7 +10079,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10379.92,
       "traders": [
@@ -10087,7 +10087,8 @@
         "TheMafiaa",
         "Sunshine.Smile"
       ],
-      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game1"
+      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game1",
+      "consensus_lost_at": "2026-08-07T17:09:04.921029+00:00"
     },
     {
       "signal_id": "lol-blg-tes-2026-08-07-game2::Top Esports",
@@ -10138,5 +10139,5 @@
       "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game1"
     }
   ],
-  "updated_at": "2026-08-07T16:11:27.231072+00:00"
+  "updated_at": "2026-08-07T17:09:04.921029+00:00"
 }
