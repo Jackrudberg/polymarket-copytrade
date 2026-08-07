@@ -1,45 +1,118 @@
 {
   "seen_ids": [
     "lol-we-tt-2026-08-07::ThunderTalk Gaming",
-    "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION",
-    "lol-fox1-bro2-2026-08-07::HANJIN BRION",
-    "lol-shft-gx-2026-08-07::Shifters"
+    "lol-shft-gx-2026-08-07::Shifters",
+    "lol-shft-gx-2026-08-07-game1::Shifters"
   ],
   "signals": [
     {
       "market": "LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
       "slug": "lol-we-tt-2026-08-07",
       "outcome": "ThunderTalk Gaming",
-      "num_traders": 4,
-      "total_value": 162729.99,
+      "num_traders": 5,
+      "total_value": 165828.44,
       "holders": [
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.4396,
+          "roi": 0.4364,
           "value": 81899.96,
           "avg_price": 0.2964,
           "cur_price": 0.9995
         },
         {
           "trader": "BrotherObama",
-          "roi": 0.3378,
+          "roi": 0.3318,
           "value": 32285.29,
           "avg_price": 0.3095,
           "cur_price": 0.9995
         },
         {
           "trader": "meoooow",
-          "roi": 0.1955,
+          "roi": 0.3581,
           "value": 27530.17,
           "avg_price": 0.29,
           "cur_price": 0.9995
         },
         {
           "trader": "Atn",
-          "roi": 0.4686,
+          "roi": 0.4695,
           "value": 21014.57,
           "avg_price": 0.2901,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1566,
+          "value": 3098.45,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Shifters vs GIANTX (BO3) - LEC Regular Season",
+      "slug": "lol-shft-gx-2026-08-07",
+      "outcome": "Shifters",
+      "num_traders": 4,
+      "total_value": 25125.12,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.4364,
+          "value": 9160.32,
+          "avg_price": 0.37,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.3244,
+          "value": 7704.79,
+          "avg_price": 0.37,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3318,
+          "value": 6981.39,
+          "avg_price": 0.3909,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2363,
+          "value": 1278.62,
+          "avg_price": 0.381,
+          "cur_price": 0.395
+        }
+      ]
+    },
+    {
+      "market": "LoL: Shifters vs GIANTX - Game 1 Winner",
+      "slug": "lol-shft-gx-2026-08-07-game1",
+      "outcome": "Shifters",
+      "num_traders": 3,
+      "total_value": 10379.92,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.4364,
+          "value": 5182.42,
+          "avg_price": 0.41,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.2192,
+          "value": 3850,
+          "avg_price": 0.42,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1566,
+          "value": 1347.5,
+          "avg_price": 0.41,
+          "cur_price": 0.385
         }
       ]
     },
@@ -118,36 +191,6 @@
       ]
     },
     {
-      "market": "LoL: Shifters vs GIANTX (BO3) - LEC Regular Season",
-      "slug": "lol-shft-gx-2026-08-07",
-      "outcome": "Shifters",
-      "num_traders": 3,
-      "total_value": 11620.67,
-      "holders": [
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.2042,
-          "value": 7314.68,
-          "avg_price": 0.37,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.4396,
-          "value": 3780.24,
-          "avg_price": 0.37,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1577,
-          "value": 525.75,
-          "avg_price": 0.38,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
       "market": "LoL: KT Rolster vs Gen.G - Game 2 Winner",
       "slug": "lol-kt-gen-2026-08-07-game2",
       "outcome": "Gen.G",
@@ -218,80 +261,6 @@
           "value": 3200,
           "avg_price": 0.29,
           "cur_price": 0.16
-        }
-      ]
-    },
-    {
-      "market": "LoL: KT Rolster vs Gen.G - Game 1 Winner",
-      "slug": "lol-kt-gen-2026-08-07-game1",
-      "outcome": "Gen.G",
-      "num_traders": 5,
-      "total_value": 51243.33,
-      "holders": [
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.3392,
-          "value": 19990,
-          "avg_price": 0.6722,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.219,
-          "value": 12993.5,
-          "avg_price": 0.753,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2311,
-          "value": 8018.71,
-          "avg_price": 0.6179,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.3029,
-          "value": 7047.25,
-          "avg_price": 0.65,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.2834,
-          "value": 3193.87,
-          "avg_price": 0.7534,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: BNK FEARX vs HANJIN BRION - Game 1 Winner",
-      "slug": "lol-fox1-bro2-2026-08-07-game1",
-      "outcome": "HANJIN BRION",
-      "num_traders": 3,
-      "total_value": 30159.49,
-      "holders": [
-        {
-          "trader": "minji",
-          "roi": 0.2834,
-          "value": 15130.45,
-          "avg_price": 0.3689,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.3029,
-          "value": 8032.56,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.219,
-          "value": 6996.48,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -735,10 +704,12 @@
     "mlb-cws-bos-2026-08-06::Boston Red Sox": 3,
     "lec-caz-phi-2026-08-06-total-3pt5::Under": 3,
     "lol-kt-gen-2026-08-07::Gen.G": 3,
-    "lol-kt-gen-2026-08-07-game1::Gen.G": 2,
-    "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION": 2,
-    "lol-kt-gen-2026-08-07-game2::Gen.G": 1,
-    "lol-blg-tes-2026-08-07::Top Esports": 1
+    "lol-kt-gen-2026-08-07-game1::Gen.G": 3,
+    "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION": 3,
+    "lol-kt-gen-2026-08-07-game2::Gen.G": 2,
+    "lol-blg-tes-2026-08-07::Top Esports": 2,
+    "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION": 1,
+    "lol-fox1-bro2-2026-08-07::HANJIN BRION": 1
   },
-  "updated_at": "2026-08-07T14:19:57.478231+00:00"
+  "updated_at": "2026-08-07T15:14:24.597065+00:00"
 }

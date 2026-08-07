@@ -9994,7 +9994,7 @@
       "slug": "lol-we-tt-2026-08-07",
       "side": "ThunderTalk Gaming",
       "alerted_at": "2026-08-07T13:11:28.884293+00:00",
-      "last_seen": "2026-08-07T14:19:57.469111+00:00",
+      "last_seen": "2026-08-07T15:14:24.587857+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -10028,7 +10028,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 13781.34,
       "traders": [
@@ -10036,7 +10036,8 @@
         "BrotherObama",
         "SineNooneEI"
       ],
-      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07"
+      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07",
+      "consensus_lost_at": "2026-08-07T15:14:24.587857+00:00"
     },
     {
       "signal_id": "lol-shft-gx-2026-08-07::Shifters",
@@ -10044,14 +10045,14 @@
       "slug": "lol-shft-gx-2026-08-07",
       "side": "Shifters",
       "alerted_at": "2026-08-07T14:19:57.469111+00:00",
-      "last_seen": "2026-08-07T14:19:57.469111+00:00",
+      "last_seen": "2026-08-07T15:14:24.587857+00:00",
       "entry_price": 0.375,
-      "current_price": 0.375,
+      "current_price": 0.395,
       "stake": 100.0,
       "shares": 266.666667,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 105.33,
+      "paper_pnl": 5.33,
+      "return_percent": 5.33,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 11620.67,
@@ -10061,7 +10062,31 @@
         "quavoo"
       ],
       "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07"
+    },
+    {
+      "signal_id": "lol-shft-gx-2026-08-07-game1::Shifters",
+      "market": "LoL: Shifters vs GIANTX - Game 1 Winner",
+      "slug": "lol-shft-gx-2026-08-07-game1",
+      "side": "Shifters",
+      "alerted_at": "2026-08-07T15:14:24.587857+00:00",
+      "last_seen": "2026-08-07T15:14:24.587857+00:00",
+      "entry_price": 0.385,
+      "current_price": 0.385,
+      "stake": 100.0,
+      "shares": 259.74026,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10379.92,
+      "traders": [
+        "TAIWANNUMBERONE",
+        "TheMafiaa",
+        "Sunshine.Smile"
+      ],
+      "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game1"
     }
   ],
-  "updated_at": "2026-08-07T14:19:57.469111+00:00"
+  "updated_at": "2026-08-07T15:14:24.587857+00:00"
 }
