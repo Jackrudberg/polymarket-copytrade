@@ -1,6 +1,108 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "lol-kt-gen-2026-08-07-game2::Gen.G",
+    "lol-kt-gen-2026-08-07::Gen.G",
+    "lol-kt-gen-2026-08-07-game1::Gen.G"
+  ],
+  "signals": [
+    {
+      "market": "LoL: KT Rolster vs Gen.G - Game 2 Winner",
+      "slug": "lol-kt-gen-2026-08-07-game2",
+      "outcome": "Gen.G",
+      "num_traders": 4,
+      "total_value": 59976.66,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.353,
+          "value": 24987.5,
+          "avg_price": 0.65,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2553,
+          "value": 22708.21,
+          "avg_price": 0.66,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.1846,
+          "value": 9994.99,
+          "avg_price": 0.6549,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1638,
+          "value": 2285.96,
+          "avg_price": 0.67,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: KT Rolster vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-kt-gen-2026-08-07",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 99751.63,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2553,
+          "value": 36549.89,
+          "avg_price": 0.6701,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retroactivesource",
+          "roi": 0.186,
+          "value": 36213.77,
+          "avg_price": 0.6899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.353,
+          "value": 26987.97,
+          "avg_price": 0.7,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: KT Rolster vs Gen.G - Game 1 Winner",
+      "slug": "lol-kt-gen-2026-08-07-game1",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 41002.21,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.353,
+          "value": 19990,
+          "avg_price": 0.6722,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.1846,
+          "value": 12993.5,
+          "avg_price": 0.753,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2553,
+          "value": 8018.71,
+          "avg_price": 0.6179,
+          "cur_price": 0.9995
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -440,5 +542,5 @@
     "mlb-cws-bos-2026-08-06::Boston Red Sox": 3,
     "lec-caz-phi-2026-08-06-total-3pt5::Under": 3
   },
-  "updated_at": "2026-08-07T10:11:25.613464+00:00"
+  "updated_at": "2026-08-07T11:08:43.081092+00:00"
 }
