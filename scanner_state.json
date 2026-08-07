@@ -1,6 +1,39 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "lol-th-fnc-2026-08-07::Team Heretics"
+  ],
+  "signals": [
+    {
+      "market": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+      "slug": "lol-th-fnc-2026-08-07",
+      "outcome": "Team Heretics",
+      "num_traders": 3,
+      "total_value": 68297.4,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.2501,
+          "value": 35281.95,
+          "avg_price": 0.2709,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.2568,
+          "value": 18022.95,
+          "avg_price": 0.3092,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.241,
+          "value": 14992.5,
+          "avg_price": 0.28,
+          "cur_price": 0.9995
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -452,8 +485,7 @@
     "lol-blg-tes-2026-08-07-game1::Top Esports": 3,
     "lol-shft-gx-2026-08-07::Shifters": 3,
     "lol-th-fnc-2026-08-07-game2::Team Heretics": 3,
-    "lol-shft-gx-2026-08-07-game2::Shifters": 3,
-    "lol-th-fnc-2026-08-07::Team Heretics": 3
+    "lol-shft-gx-2026-08-07-game2::Shifters": 3
   },
-  "updated_at": "2026-08-07T22:09:08.526785+00:00"
+  "updated_at": "2026-08-07T22:55:14.769266+00:00"
 }
