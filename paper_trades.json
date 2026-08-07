@@ -9927,7 +9927,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 90239.1,
       "traders": [
@@ -9936,7 +9936,8 @@
         "retroactivesource",
         "minji"
       ],
-      "url": "https://polymarket.com/event/lol-fox1-bro2-2026-08-07"
+      "url": "https://polymarket.com/event/lol-fox1-bro2-2026-08-07",
+      "consensus_lost_at": "2026-08-07T16:11:27.231072+00:00"
     },
     {
       "signal_id": "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION",
@@ -9952,7 +9953,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 48549.09,
       "traders": [
@@ -9961,7 +9962,8 @@
         "retroactivesource",
         "ThornyDevil"
       ],
-      "url": "https://polymarket.com/event/lol-fox1-bro2-2026-08-07-game2"
+      "url": "https://polymarket.com/event/lol-fox1-bro2-2026-08-07-game2",
+      "consensus_lost_at": "2026-08-07T16:11:27.231072+00:00"
     },
     {
       "signal_id": "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION",
@@ -9994,7 +9996,7 @@
       "slug": "lol-we-tt-2026-08-07",
       "side": "ThunderTalk Gaming",
       "alerted_at": "2026-08-07T13:11:28.884293+00:00",
-      "last_seen": "2026-08-07T15:14:24.587857+00:00",
+      "last_seen": "2026-08-07T16:11:27.231072+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -10045,14 +10047,14 @@
       "slug": "lol-shft-gx-2026-08-07",
       "side": "Shifters",
       "alerted_at": "2026-08-07T14:19:57.469111+00:00",
-      "last_seen": "2026-08-07T15:14:24.587857+00:00",
+      "last_seen": "2026-08-07T16:11:27.231072+00:00",
       "entry_price": 0.375,
-      "current_price": 0.395,
+      "current_price": 0.195,
       "stake": 100.0,
       "shares": 266.666667,
-      "current_value": 105.33,
-      "paper_pnl": 5.33,
-      "return_percent": 5.33,
+      "current_value": 52.0,
+      "paper_pnl": -48.0,
+      "return_percent": -48.0,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 11620.67,
@@ -10086,7 +10088,55 @@
         "Sunshine.Smile"
       ],
       "url": "https://polymarket.com/event/lol-shft-gx-2026-08-07-game1"
+    },
+    {
+      "signal_id": "lol-blg-tes-2026-08-07-game2::Top Esports",
+      "market": "LoL: Bilibili Gaming vs Top Esports - Game 2 Winner",
+      "slug": "lol-blg-tes-2026-08-07-game2",
+      "side": "Top Esports",
+      "alerted_at": "2026-08-07T16:11:27.231072+00:00",
+      "last_seen": "2026-08-07T16:11:27.231072+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 121354.56,
+      "traders": [
+        "Zywoo123",
+        "kedaya8888",
+        "Sunshine.Smile"
+      ],
+      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game2"
+    },
+    {
+      "signal_id": "lol-blg-tes-2026-08-07-game1::Top Esports",
+      "market": "LoL: Bilibili Gaming vs Top Esports - Game 1 Winner",
+      "slug": "lol-blg-tes-2026-08-07-game1",
+      "side": "Top Esports",
+      "alerted_at": "2026-08-07T16:11:27.231072+00:00",
+      "last_seen": "2026-08-07T16:11:27.231072+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 31620.16,
+      "traders": [
+        "SineNooneEI",
+        "Sunshine.Smile",
+        "Zywoo123"
+      ],
+      "url": "https://polymarket.com/event/lol-blg-tes-2026-08-07-game1"
     }
   ],
-  "updated_at": "2026-08-07T15:14:24.587857+00:00"
+  "updated_at": "2026-08-07T16:11:27.231072+00:00"
 }
