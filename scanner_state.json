@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "lol-th-fnc-2026-08-07-game2::Team Heretics",
-    "lol-shft-gx-2026-08-07-game2::Shifters"
+    "lol-th-fnc-2026-08-07::Team Heretics"
   ],
   "signals": [
+    {
+      "market": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
+      "slug": "lol-th-fnc-2026-08-07",
+      "outcome": "Team Heretics",
+      "num_traders": 3,
+      "total_value": 12641.34,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.1678,
+          "value": 6530.43,
+          "avg_price": 0.2709,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.3002,
+          "value": 3335.91,
+          "avg_price": 0.3092,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2358,
+          "value": 2775,
+          "avg_price": 0.28,
+          "cur_price": 0.185
+        }
+      ]
+    },
     {
       "market": "LoL: Team Heretics vs Fnatic - Game 2 Winner",
       "slug": "lol-th-fnc-2026-08-07-game2",
@@ -61,64 +90,6 @@
           "value": 637.0,
           "avg_price": 0.41,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Shifters vs GIANTX (BO3) - LEC Regular Season",
-      "slug": "lol-shft-gx-2026-08-07",
-      "outcome": "Shifters",
-      "num_traders": 7,
-      "total_value": 60097.53,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.1974,
-          "value": 18742.79,
-          "avg_price": 0.2769,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.5139,
-          "value": 12962.95,
-          "avg_price": 0.43,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3235,
-          "value": 10551.76,
-          "avg_price": 0.37,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.3442,
-          "value": 8875.14,
-          "avg_price": 0.37,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "johnny234",
-          "roi": 0.1742,
-          "value": 4510.86,
-          "avg_price": 0.4399,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.3608,
-          "value": 2981.19,
-          "avg_price": 0.4305,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2275,
-          "value": 1472.84,
-          "avg_price": 0.381,
-          "cur_price": 0.455
         }
       ]
     }
@@ -572,7 +543,9 @@
     "lol-we-tt-2026-08-07::ThunderTalk Gaming": 3,
     "lol-blg-tes-2026-08-07-game2::Top Esports": 3,
     "lol-blg-tes-2026-08-07-game1::Top Esports": 3,
-    "lol-shft-gx-2026-08-07::Shifters": 2
+    "lol-shft-gx-2026-08-07::Shifters": 3,
+    "lol-th-fnc-2026-08-07-game2::Team Heretics": 1,
+    "lol-shft-gx-2026-08-07-game2::Shifters": 1
   },
-  "updated_at": "2026-08-07T19:10:02.980088+00:00"
+  "updated_at": "2026-08-07T19:59:26.312996+00:00"
 }
