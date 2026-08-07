@@ -1,31 +1,82 @@
 {
   "seen_ids": [
+    "lol-we-tt-2026-08-07::ThunderTalk Gaming",
     "lol-kt-gen-2026-08-07-game2::Gen.G",
-    "lol-kt-gen-2026-08-07-game1::Gen.G",
     "lol-fox1-bro2-2026-08-07::HANJIN BRION",
     "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION",
-    "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION"
+    "lol-blg-tes-2026-08-07::Top Esports"
   ],
   "signals": [
+    {
+      "market": "LoL: Team WE vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-we-tt-2026-08-07",
+      "outcome": "ThunderTalk Gaming",
+      "num_traders": 5,
+      "total_value": 207606.35,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.4086,
+          "value": 81899.96,
+          "avg_price": 0.2964,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1623,
+          "value": 44876.36,
+          "avg_price": 0.5977,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.4932,
+          "value": 32285.29,
+          "avg_price": 0.3095,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.2406,
+          "value": 27530.17,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Atn",
+          "roi": 0.4499,
+          "value": 21014.57,
+          "avg_price": 0.2901,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: KT Rolster vs Gen.G - Game 2 Winner",
       "slug": "lol-kt-gen-2026-08-07-game2",
       "outcome": "Gen.G",
-      "num_traders": 6,
-      "total_value": 70308.16,
+      "num_traders": 5,
+      "total_value": 72528.94,
       "holders": [
         {
           "trader": "SineNooneEI",
-          "roi": 0.3392,
+          "roi": 0.255,
           "value": 24987.5,
           "avg_price": 0.65,
           "cur_price": 0.9995
         },
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.2311,
+          "roi": 0.4086,
           "value": 22708.21,
           "avg_price": 0.66,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.2143,
+          "value": 9995,
+          "avg_price": 0.67,
           "cur_price": 0.9995
         },
         {
@@ -36,25 +87,101 @@
           "cur_price": 0.9995
         },
         {
-          "trader": "minji",
-          "roi": 0.2834,
-          "value": 5488.26,
-          "avg_price": 0.723,
+          "trader": "ThornyDevil",
+          "roi": 0.3327,
+          "value": 4843.24,
+          "avg_price": 0.66,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-fox1-bro2-2026-08-07",
+      "outcome": "HANJIN BRION",
+      "num_traders": 3,
+      "total_value": 70216.81,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1623,
+          "value": 31735.74,
+          "avg_price": 0.5287,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.2527,
+          "value": 26292.05,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.4932,
+          "value": 12189.02,
+          "avg_price": 0.4099,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs HANJIN BRION - Game 2 Winner",
+      "slug": "lol-fox1-bro2-2026-08-07-game2",
+      "outcome": "HANJIN BRION",
+      "num_traders": 3,
+      "total_value": 44779.86,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.255,
+          "value": 24987.5,
+          "avg_price": 0.4752,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.2143,
+          "value": 13467.49,
+          "avg_price": 0.51,
           "cur_price": 0.9995
         },
         {
           "trader": "ThornyDevil",
-          "roi": 0.3029,
-          "value": 4843.24,
-          "avg_price": 0.66,
+          "roi": 0.3327,
+          "value": 6324.87,
+          "avg_price": 0.5194,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
+      "slug": "lol-blg-tes-2026-08-07",
+      "outcome": "Top Esports",
+      "num_traders": 3,
+      "total_value": 13781.34,
+      "holders": [
+        {
+          "trader": "meoooow",
+          "roi": 0.2406,
+          "value": 5678.11,
+          "avg_price": 0.306,
+          "cur_price": 0.155
         },
         {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1639,
-          "value": 2285.96,
-          "avg_price": 0.67,
-          "cur_price": 0.9995
+          "trader": "BrotherObama",
+          "roi": 0.4932,
+          "value": 4903.23,
+          "avg_price": 0.3099,
+          "cur_price": 0.16
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.255,
+          "value": 3200,
+          "avg_price": 0.29,
+          "cur_price": 0.16
         }
       ]
     },
@@ -98,80 +225,6 @@
           "roi": 0.2834,
           "value": 3193.87,
           "avg_price": 0.7534,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
-      "slug": "lol-fox1-bro2-2026-08-07",
-      "outcome": "HANJIN BRION",
-      "num_traders": 4,
-      "total_value": 90239.1,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1639,
-          "value": 57784.93,
-          "avg_price": 0.9987,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.2061,
-          "value": 26292.05,
-          "avg_price": 0.41,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "retroactivesource",
-          "roi": 0.1628,
-          "value": 4358.0,
-          "avg_price": 0.688,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.2834,
-          "value": 1804.12,
-          "avg_price": 0.4766,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: BNK FEARX vs HANJIN BRION - Game 2 Winner",
-      "slug": "lol-fox1-bro2-2026-08-07-game2",
-      "outcome": "HANJIN BRION",
-      "num_traders": 4,
-      "total_value": 48549.09,
-      "holders": [
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.3392,
-          "value": 24987.5,
-          "avg_price": 0.4752,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.2834,
-          "value": 10765.61,
-          "avg_price": 0.5046,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "retroactivesource",
-          "roi": 0.1628,
-          "value": 6471.11,
-          "avg_price": 0.8727,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.3029,
-          "value": 6324.87,
-          "avg_price": 0.5194,
           "cur_price": 0.9995
         }
       ]
@@ -675,7 +728,9 @@
     "mlb-sd-ari-2026-08-06::San Diego Padres": 3,
     "mlb-cws-bos-2026-08-06::Boston Red Sox": 3,
     "lec-caz-phi-2026-08-06-total-3pt5::Under": 3,
-    "lol-kt-gen-2026-08-07::Gen.G": 1
+    "lol-kt-gen-2026-08-07::Gen.G": 2,
+    "lol-kt-gen-2026-08-07-game1::Gen.G": 1,
+    "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION": 1
   },
-  "updated_at": "2026-08-07T11:56:21.180219+00:00"
+  "updated_at": "2026-08-07T13:11:28.893543+00:00"
 }
