@@ -1,43 +1,207 @@
 {
   "seen_ids": [
     "lol-kt-gen-2026-08-07-game2::Gen.G",
-    "lol-kt-gen-2026-08-07::Gen.G",
-    "lol-kt-gen-2026-08-07-game1::Gen.G"
+    "lol-kt-gen-2026-08-07-game1::Gen.G",
+    "lol-fox1-bro2-2026-08-07::HANJIN BRION",
+    "lol-fox1-bro2-2026-08-07-game2::HANJIN BRION",
+    "lol-fox1-bro2-2026-08-07-game1::HANJIN BRION"
   ],
   "signals": [
     {
       "market": "LoL: KT Rolster vs Gen.G - Game 2 Winner",
       "slug": "lol-kt-gen-2026-08-07-game2",
       "outcome": "Gen.G",
-      "num_traders": 4,
-      "total_value": 59976.66,
+      "num_traders": 6,
+      "total_value": 70308.16,
       "holders": [
         {
           "trader": "SineNooneEI",
-          "roi": 0.353,
+          "roi": 0.3392,
           "value": 24987.5,
           "avg_price": 0.65,
           "cur_price": 0.9995
         },
         {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.2553,
+          "roi": 0.2311,
           "value": 22708.21,
           "avg_price": 0.66,
           "cur_price": 0.9995
         },
         {
           "trader": "TheMafiaa",
-          "roi": 0.1846,
+          "roi": 0.219,
           "value": 9994.99,
           "avg_price": 0.6549,
           "cur_price": 0.9995
         },
         {
+          "trader": "minji",
+          "roi": 0.2834,
+          "value": 5488.26,
+          "avg_price": 0.723,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3029,
+          "value": 4843.24,
+          "avg_price": 0.66,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1638,
+          "roi": 0.1639,
           "value": 2285.96,
           "avg_price": 0.67,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: KT Rolster vs Gen.G - Game 1 Winner",
+      "slug": "lol-kt-gen-2026-08-07-game1",
+      "outcome": "Gen.G",
+      "num_traders": 5,
+      "total_value": 51243.33,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.3392,
+          "value": 19990,
+          "avg_price": 0.6722,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.219,
+          "value": 12993.5,
+          "avg_price": 0.753,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2311,
+          "value": 8018.71,
+          "avg_price": 0.6179,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3029,
+          "value": 7047.25,
+          "avg_price": 0.65,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.2834,
+          "value": 3193.87,
+          "avg_price": 0.7534,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-fox1-bro2-2026-08-07",
+      "outcome": "HANJIN BRION",
+      "num_traders": 4,
+      "total_value": 90239.1,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1639,
+          "value": 57784.93,
+          "avg_price": 0.9987,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.2061,
+          "value": 26292.05,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retroactivesource",
+          "roi": 0.1628,
+          "value": 4358.0,
+          "avg_price": 0.688,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.2834,
+          "value": 1804.12,
+          "avg_price": 0.4766,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs HANJIN BRION - Game 2 Winner",
+      "slug": "lol-fox1-bro2-2026-08-07-game2",
+      "outcome": "HANJIN BRION",
+      "num_traders": 4,
+      "total_value": 48549.09,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.3392,
+          "value": 24987.5,
+          "avg_price": 0.4752,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.2834,
+          "value": 10765.61,
+          "avg_price": 0.5046,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "retroactivesource",
+          "roi": 0.1628,
+          "value": 6471.11,
+          "avg_price": 0.8727,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3029,
+          "value": 6324.87,
+          "avg_price": 0.5194,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs HANJIN BRION - Game 1 Winner",
+      "slug": "lol-fox1-bro2-2026-08-07-game1",
+      "outcome": "HANJIN BRION",
+      "num_traders": 3,
+      "total_value": 30159.49,
+      "holders": [
+        {
+          "trader": "minji",
+          "roi": 0.2834,
+          "value": 15130.45,
+          "avg_price": 0.3689,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ThornyDevil",
+          "roi": 0.3029,
+          "value": 8032.56,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TheMafiaa",
+          "roi": 0.219,
+          "value": 6996.48,
+          "avg_price": 0.46,
           "cur_price": 0.9995
         }
       ]
@@ -68,36 +232,6 @@
           "roi": 0.353,
           "value": 26987.97,
           "avg_price": 0.7,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: KT Rolster vs Gen.G - Game 1 Winner",
-      "slug": "lol-kt-gen-2026-08-07-game1",
-      "outcome": "Gen.G",
-      "num_traders": 3,
-      "total_value": 41002.21,
-      "holders": [
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.353,
-          "value": 19990,
-          "avg_price": 0.6722,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.1846,
-          "value": 12993.5,
-          "avg_price": 0.753,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2553,
-          "value": 8018.71,
-          "avg_price": 0.6179,
           "cur_price": 0.9995
         }
       ]
@@ -540,7 +674,8 @@
     "will-los-angeles-lakers-win-the-2027-nba-finals::Yes": 3,
     "mlb-sd-ari-2026-08-06::San Diego Padres": 3,
     "mlb-cws-bos-2026-08-06::Boston Red Sox": 3,
-    "lec-caz-phi-2026-08-06-total-3pt5::Under": 3
+    "lec-caz-phi-2026-08-06-total-3pt5::Under": 3,
+    "lol-kt-gen-2026-08-07::Gen.G": 1
   },
-  "updated_at": "2026-08-07T11:08:43.081092+00:00"
+  "updated_at": "2026-08-07T11:56:21.180219+00:00"
 }
