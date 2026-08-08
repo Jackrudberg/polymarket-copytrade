@@ -1,36 +1,75 @@
 {
   "seen_ids": [
+    "mlb-atl-nyy-2026-08-08::Atlanta Braves",
     "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "wnba-ind-chi-2026-08-08-total-190pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Atlanta Braves vs. New York Yankees",
+      "slug": "mlb-atl-nyy-2026-08-08",
+      "outcome": "Atlanta Braves",
+      "num_traders": 4,
+      "total_value": 7579.57,
+      "holders": [
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2917,
+          "value": 3181.03,
+          "avg_price": 0.2899,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2144,
+          "value": 2960.72,
+          "avg_price": 0.4695,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "0x0x23kjookhaiuohduoayh8c9",
+          "roi": 0.8029,
+          "value": 720.32,
+          "avg_price": 0.5691,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "EvenMoneyBonds",
+          "roi": 0.1612,
+          "value": 717.5,
+          "avg_price": 0.55,
+          "cur_price": 0.205
+        }
+      ]
+    },
     {
       "market": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
       "slug": "atp-rinderk-nakashi-2026-08-08",
       "outcome": "Brandon Nakashima",
       "num_traders": 3,
-      "total_value": 47273.2,
+      "total_value": 42898.5,
       "holders": [
         {
           "trader": "AV23IUa",
-          "roi": 0.295,
-          "value": 42749.84,
+          "roi": 0.247,
+          "value": 38749.86,
           "avg_price": 0.66,
-          "cur_price": 0.855
+          "cur_price": 0.775
         },
         {
           "trader": "EvenMoneyBonds",
-          "roi": 0.1878,
-          "value": 3425.09,
+          "roi": 0.1612,
+          "value": 3141.35,
           "avg_price": 0.49,
-          "cur_price": 0.845
+          "cur_price": 0.775
         },
         {
           "trader": "jtwyslljy",
-          "roi": 0.1837,
-          "value": 1098.27,
+          "roi": 0.1794,
+          "value": 1007.29,
           "avg_price": 0.65,
-          "cur_price": 0.845
+          "cur_price": 0.775
         }
       ]
     },
@@ -39,28 +78,58 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "outcome": "Under",
       "num_traders": 3,
-      "total_value": 17999.46,
+      "total_value": 17676.12,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.369,
-          "value": 8728.88,
+          "roi": 0.2144,
+          "value": 8842.25,
           "avg_price": 0.48,
-          "cur_price": 0.385
+          "cur_price": 0.39
         },
         {
           "trader": "AV23IUa",
-          "roi": 0.295,
-          "value": 7712.49,
+          "roi": 0.247,
+          "value": 7812.65,
           "avg_price": 0.4991,
-          "cur_price": 0.385
+          "cur_price": 0.39
         },
         {
-          "trader": "AnonymousUsername",
-          "roi": 0.2603,
-          "value": 1558.09,
+          "trader": "0x0x23kjookhaiuohduoayh8c9",
+          "roi": 0.8029,
+          "value": 1021.22,
           "avg_price": 0.48,
-          "cur_price": 0.385
+          "cur_price": 0.39
+        }
+      ]
+    },
+    {
+      "market": "Indiana Fever vs. Chicago Sky: O/U 190.5",
+      "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 12380.36,
+      "holders": [
+        {
+          "trader": "0x0x23kjookhaiuohduoayh8c9",
+          "roi": 0.8029,
+          "value": 8999.97,
+          "avg_price": 0.47,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "saftey-first",
+          "roi": 0.2601,
+          "value": 2273.03,
+          "avg_price": 0.5297,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2144,
+          "value": 1107.36,
+          "avg_price": 0.4835,
+          "cur_price": 0.705
         }
       ]
     }
@@ -531,5 +600,5 @@
     "atp-borges-darderi-2026-08-08::Luciano Darderi": 3,
     "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3
   },
-  "updated_at": "2026-08-08T20:30:14.982560+00:00"
+  "updated_at": "2026-08-08T21:01:47.536930+00:00"
 }
