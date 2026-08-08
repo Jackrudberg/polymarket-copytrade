@@ -1,32 +1,96 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-laa-mia-2026-08-07-spread-home-1pt5::Los Angeles Angels",
+    "mlb-tb-sea-2026-08-07-total-6pt5::Under",
+    "mlb-nym-pit-2026-08-07::New York Mets"
+  ],
   "signals": [
     {
-      "market": "LoL: Team Heretics vs Fnatic (BO3) - LEC Regular Season",
-      "slug": "lol-th-fnc-2026-08-07",
-      "outcome": "Team Heretics",
+      "market": "Spread: Miami Marlins (-1.5)",
+      "slug": "mlb-laa-mia-2026-08-07-spread-home-1pt5",
+      "outcome": "Los Angeles Angels",
       "num_traders": 3,
-      "total_value": 68297.4,
+      "total_value": 63781.21,
       "holders": [
         {
-          "trader": "BrotherObama",
-          "roi": 0.2501,
-          "value": 35281.95,
-          "avg_price": 0.2709,
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4719,
+          "value": 62662.78,
+          "avg_price": 0.5804,
           "cur_price": 0.9995
         },
         {
-          "trader": "meoooow",
-          "roi": 0.2568,
-          "value": 18022.95,
-          "avg_price": 0.3092,
+          "trader": "dv-pm",
+          "roi": 0.9502,
+          "value": 814.09,
+          "avg_price": 0.58,
           "cur_price": 0.9995
         },
         {
-          "trader": "SineNooneEI",
-          "roi": 0.241,
-          "value": 14992.5,
-          "avg_price": 0.28,
+          "trader": "sentrio",
+          "roi": 0.2949,
+          "value": 304.34,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Tampa Bay Rays vs. Seattle Mariners: O/U 6.5",
+      "slug": "mlb-tb-sea-2026-08-07-total-6pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 22857.1,
+      "holders": [
+        {
+          "trader": "dv-pm",
+          "roi": 0.9502,
+          "value": 14606.26,
+          "avg_price": 0.46,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4719,
+          "value": 5184.51,
+          "avg_price": 0.4504,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3097,
+          "value": 3066.33,
+          "avg_price": 0.46,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "New York Mets vs. Pittsburgh Pirates",
+      "slug": "mlb-nym-pit-2026-08-07",
+      "outcome": "New York Mets",
+      "num_traders": 3,
+      "total_value": 6478.36,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4719,
+          "value": 6163.72,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2555,
+          "value": 186.7,
+          "avg_price": 0.6676,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3097,
+          "value": 127.94,
+          "avg_price": 0.9692,
           "cur_price": 0.9995
         }
       ]
@@ -484,7 +548,7 @@
     "lol-shft-gx-2026-08-07::Shifters": 3,
     "lol-th-fnc-2026-08-07-game2::Team Heretics": 3,
     "lol-shft-gx-2026-08-07-game2::Shifters": 3,
-    "lol-th-fnc-2026-08-07::Team Heretics": 2
+    "lol-th-fnc-2026-08-07::Team Heretics": 3
   },
-  "updated_at": "2026-08-08T00:04:13.527460+00:00"
+  "updated_at": "2026-08-08T02:18:13.223272+00:00"
 }
