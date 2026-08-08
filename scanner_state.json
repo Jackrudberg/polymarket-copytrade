@@ -1,38 +1,68 @@
 {
   "seen_ids": [
+    "mlb-oak-bos-2026-08-08-total-9pt5::Over",
     "mlb-cin-wsh-2026-08-08::Washington Nationals",
     "mlb-tor-phi-2026-08-08-total-9pt5::Over",
-    "mlb-oak-bos-2026-08-08-total-9pt5::Over",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Athletics vs. Boston Red Sox: O/U 9.5",
+      "slug": "mlb-oak-bos-2026-08-08-total-9pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 135881.14,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.2996,
+          "value": 79960,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1721,
+          "value": 52074.06,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5989,
+          "value": 3847.08,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Cincinnati Reds vs. Washington Nationals",
       "slug": "mlb-cin-wsh-2026-08-08",
       "outcome": "Washington Nationals",
       "num_traders": 3,
-      "total_value": 78586.5,
+      "total_value": 83524.69,
       "holders": [
         {
           "trader": "pleaseplease123",
           "roi": 0.1721,
-          "value": 49111.58,
+          "value": 51318.85,
           "avg_price": 0.43,
-          "cur_price": 0.445
+          "cur_price": 0.465
         },
         {
           "trader": "BreakTheBank",
           "roi": 0.7602,
-          "value": 19360.97,
+          "value": 21637.33,
           "avg_price": 0.44,
-          "cur_price": 0.445
+          "cur_price": 0.465
         },
         {
           "trader": "Bulls94",
           "roi": 0.7699,
-          "value": 10113.95,
+          "value": 10568.51,
           "avg_price": 0.44,
-          "cur_price": 0.445
+          "cur_price": 0.465
         }
       ]
     },
@@ -41,58 +71,28 @@
       "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
       "outcome": "Over",
       "num_traders": 3,
-      "total_value": 70122.07,
+      "total_value": 68324.07,
       "holders": [
         {
           "trader": "SDTrading",
           "roi": 0.2996,
-          "value": 39290.58,
+          "value": 38283.13,
           "avg_price": 0.4939,
-          "cur_price": 0.39
+          "cur_price": 0.38
         },
         {
           "trader": "Sassy-Bucket",
           "roi": 0.2252,
-          "value": 28970.8,
+          "value": 28227.96,
           "avg_price": 0.47,
-          "cur_price": 0.39
+          "cur_price": 0.38
         },
         {
           "trader": "quavoo",
           "roi": 0.5989,
-          "value": 1860.69,
+          "value": 1812.98,
           "avg_price": 0.48,
-          "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Boston Red Sox: O/U 9.5",
-      "slug": "mlb-oak-bos-2026-08-08-total-9pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 55739.14,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.2996,
-          "value": 32800,
-          "avg_price": 0.45,
-          "cur_price": 0.41
-        },
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1721,
-          "value": 21361.05,
-          "avg_price": 0.45,
-          "cur_price": 0.41
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.5989,
-          "value": 1578.09,
-          "avg_price": 0.45,
-          "cur_price": 0.41
+          "cur_price": 0.38
         }
       ]
     },
@@ -153,73 +153,6 @@
           "value": 1569.94,
           "avg_price": 0.4835,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. New York Yankees",
-      "slug": "mlb-atl-nyy-2026-08-08",
-      "outcome": "Atlanta Braves",
-      "num_traders": 4,
-      "total_value": 2077.58,
-      "holders": [
-        {
-          "trader": "kkookkoo",
-          "roi": 0.2917,
-          "value": 853.45,
-          "avg_price": 0.2899,
-          "cur_price": 0.055
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2144,
-          "value": 838.37,
-          "avg_price": 0.4522,
-          "cur_price": 0.055
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.8029,
-          "value": 193.26,
-          "avg_price": 0.5691,
-          "cur_price": 0.055
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.1612,
-          "value": 192.5,
-          "avg_price": 0.55,
-          "cur_price": 0.055
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
-      "slug": "atp-rinderk-nakashi-2026-08-08",
-      "outcome": "Brandon Nakashima",
-      "num_traders": 3,
-      "total_value": 30518.2,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.247,
-          "value": 27749.9,
-          "avg_price": 0.66,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.1612,
-          "value": 2046.95,
-          "avg_price": 0.49,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.1794,
-          "value": 721.35,
-          "avg_price": 0.65,
-          "cur_price": 0.555
         }
       ]
     }
@@ -689,9 +622,9 @@
     "wta-kostyuk-swiatek-2026-08-09::Iga Swiatek": 3,
     "atp-borges-darderi-2026-08-08::Luciano Darderi": 3,
     "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3,
-    "mlb-atl-nyy-2026-08-08::Atlanta Braves": 2,
-    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 2,
-    "wnba-ind-chi-2026-08-08-total-190pt5::Under": 1
+    "mlb-atl-nyy-2026-08-08::Atlanta Braves": 3,
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 3,
+    "wnba-ind-chi-2026-08-08-total-190pt5::Under": 2
   },
-  "updated_at": "2026-08-08T22:41:56.119240+00:00"
+  "updated_at": "2026-08-08T23:08:04.652792+00:00"
 }
