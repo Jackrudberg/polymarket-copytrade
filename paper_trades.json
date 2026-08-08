@@ -2600,7 +2600,7 @@
       "current_value": 139.29,
       "paper_pnl": 39.29,
       "return_percent": 39.29,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7201.71,
       "traders": [
@@ -2609,7 +2609,7 @@
         "ic4cream"
       ],
       "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11-total-8pt5",
-      "consensus_lost_at": "2026-08-08T11:23:26.404946+00:00"
+      "consensus_lost_at": "2026-08-08T19:26:14.590671+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-07-19-game2::T1",
@@ -10410,7 +10410,7 @@
       "current_value": 103.81,
       "paper_pnl": 3.81,
       "return_percent": 3.81,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 24247.49,
       "traders": [
@@ -10418,7 +10418,8 @@
         "wr0ngw4yb3tt0r",
         "Forecastication2"
       ],
-      "url": "https://polymarket.com/event/mlb-cle-cws-2026-08-08-total-7pt5"
+      "url": "https://polymarket.com/event/mlb-cle-cws-2026-08-08-total-7pt5",
+      "consensus_lost_at": "2026-08-08T19:26:14.590671+00:00"
     },
     {
       "signal_id": "wta-kostyuk-swiatek-2026-08-09::Iga Swiatek",
@@ -10471,5 +10472,5 @@
       "consensus_lost_at": "2026-08-08T18:02:28.322968+00:00"
     }
   ],
-  "updated_at": "2026-08-08T18:53:36.519212+00:00"
+  "updated_at": "2026-08-08T19:26:14.590671+00:00"
 }
