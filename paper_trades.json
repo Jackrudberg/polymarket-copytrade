@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-08T22:02:52.873803+00:00",
+      "last_seen": "2026-08-08T22:41:56.109234+00:00",
       "entry_price": 0.28,
       "current_price": 0.39,
       "stake": 100.0,
@@ -10485,7 +10485,7 @@
       "current_value": 26.83,
       "paper_pnl": -73.17,
       "return_percent": -73.17,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 7579.57,
       "traders": [
@@ -10494,7 +10494,8 @@
         "0x0x23kjookhaiuohduoayh8c9",
         "EvenMoneyBonds"
       ],
-      "url": "https://polymarket.com/event/mlb-atl-nyy-2026-08-08"
+      "url": "https://polymarket.com/event/mlb-atl-nyy-2026-08-08",
+      "consensus_lost_at": "2026-08-08T22:41:56.109234+00:00"
     },
     {
       "signal_id": "wnba-ind-chi-2026-08-08-total-190pt5::Under",
@@ -10519,7 +10520,79 @@
         "wr0ngw4yb3tt0r"
       ],
       "url": "https://polymarket.com/event/wnba-ind-chi-2026-08-08-total-190pt5"
+    },
+    {
+      "signal_id": "mlb-cin-wsh-2026-08-08::Washington Nationals",
+      "market": "Cincinnati Reds vs. Washington Nationals",
+      "slug": "mlb-cin-wsh-2026-08-08",
+      "side": "Washington Nationals",
+      "alerted_at": "2026-08-08T22:41:56.109234+00:00",
+      "last_seen": "2026-08-08T22:41:56.109234+00:00",
+      "entry_price": 0.445,
+      "current_price": 0.445,
+      "stake": 100.0,
+      "shares": 224.719101,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 78586.5,
+      "traders": [
+        "pleaseplease123",
+        "BreakTheBank",
+        "Bulls94"
+      ],
+      "url": "https://polymarket.com/event/mlb-cin-wsh-2026-08-08"
+    },
+    {
+      "signal_id": "mlb-tor-phi-2026-08-08-total-9pt5::Over",
+      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-08T22:41:56.109234+00:00",
+      "last_seen": "2026-08-08T22:41:56.109234+00:00",
+      "entry_price": 0.39,
+      "current_price": 0.39,
+      "stake": 100.0,
+      "shares": 256.410256,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 70122.07,
+      "traders": [
+        "SDTrading",
+        "Sassy-Bucket",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mlb-tor-phi-2026-08-08-total-9pt5"
+    },
+    {
+      "signal_id": "mlb-oak-bos-2026-08-08-total-9pt5::Over",
+      "market": "Athletics vs. Boston Red Sox: O/U 9.5",
+      "slug": "mlb-oak-bos-2026-08-08-total-9pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-08T22:41:56.109234+00:00",
+      "last_seen": "2026-08-08T22:41:56.109234+00:00",
+      "entry_price": 0.41,
+      "current_price": 0.41,
+      "stake": 100.0,
+      "shares": 243.902439,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 55739.14,
+      "traders": [
+        "SDTrading",
+        "pleaseplease123",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mlb-oak-bos-2026-08-08-total-9pt5"
     }
   ],
-  "updated_at": "2026-08-08T22:02:52.873803+00:00"
+  "updated_at": "2026-08-08T22:41:56.109234+00:00"
 }

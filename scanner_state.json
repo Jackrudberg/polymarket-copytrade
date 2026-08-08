@@ -1,35 +1,127 @@
 {
   "seen_ids": [
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
-    "wnba-ind-chi-2026-08-08-total-190pt5::Under"
+    "mlb-cin-wsh-2026-08-08::Washington Nationals",
+    "mlb-tor-phi-2026-08-08-total-9pt5::Over",
+    "mlb-oak-bos-2026-08-08-total-9pt5::Over",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Cincinnati Reds vs. Washington Nationals",
+      "slug": "mlb-cin-wsh-2026-08-08",
+      "outcome": "Washington Nationals",
+      "num_traders": 3,
+      "total_value": 78586.5,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1721,
+          "value": 49111.58,
+          "avg_price": 0.43,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.7602,
+          "value": 19360.97,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "Bulls94",
+          "roi": 0.7699,
+          "value": 10113.95,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 70122.07,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.2996,
+          "value": 39290.58,
+          "avg_price": 0.4939,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.2252,
+          "value": 28970.8,
+          "avg_price": 0.47,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5989,
+          "value": 1860.69,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Boston Red Sox: O/U 9.5",
+      "slug": "mlb-oak-bos-2026-08-08-total-9pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 55739.14,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.2996,
+          "value": 32800,
+          "avg_price": 0.45,
+          "cur_price": 0.41
+        },
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1721,
+          "value": 21361.05,
+          "avg_price": 0.45,
+          "cur_price": 0.41
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5989,
+          "value": 1578.09,
+          "avg_price": 0.45,
+          "cur_price": 0.41
+        }
+      ]
+    },
     {
       "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "outcome": "Under",
       "num_traders": 3,
-      "total_value": 17676.12,
+      "total_value": 9813.51,
       "holders": [
         {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1749,
-          "value": 8842.25,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
           "trader": "AV23IUa",
-          "roi": 0.3515,
+          "roi": 0.2919,
           "value": 7812.65,
           "avg_price": 0.4991,
           "cur_price": 0.39
         },
         {
           "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.7514,
+          "roi": 0.8756,
           "value": 1021.22,
           "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.2996,
+          "value": 979.64,
+          "avg_price": 0.39,
           "cur_price": 0.39
         }
       ]
@@ -597,8 +689,9 @@
     "wta-kostyuk-swiatek-2026-08-09::Iga Swiatek": 3,
     "atp-borges-darderi-2026-08-08::Luciano Darderi": 3,
     "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3,
-    "mlb-atl-nyy-2026-08-08::Atlanta Braves": 1,
-    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 1
+    "mlb-atl-nyy-2026-08-08::Atlanta Braves": 2,
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 2,
+    "wnba-ind-chi-2026-08-08-total-190pt5::Under": 1
   },
-  "updated_at": "2026-08-08T22:02:52.883465+00:00"
+  "updated_at": "2026-08-08T22:41:56.119240+00:00"
 }
