@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
     "mlb-cle-cws-2026-08-08-total-7pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Cleveland Guardians vs. Chicago White Sox: O/U 7.5",
+      "slug": "mlb-cle-cws-2026-08-08-total-7pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 25059.44,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 1.1287,
+          "value": 18396.98,
+          "avg_price": 0.5061,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.8842,
+          "value": 6109.6,
+          "avg_price": 0.5179,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.3608,
+          "value": 552.86,
+          "avg_price": 0.5,
+          "cur_price": 0.535
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
@@ -31,87 +60,6 @@
           "value": 1612.05,
           "avg_price": 0.5139,
           "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Cleveland Guardians vs. Chicago White Sox: O/U 7.5",
-      "slug": "mlb-cle-cws-2026-08-08-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 24591.04,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 1.802,
-          "value": 18053.11,
-          "avg_price": 0.5061,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.8902,
-          "value": 5995.41,
-          "avg_price": 0.5179,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.4974,
-          "value": 542.52,
-          "avg_price": 0.5,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-t1-hle1-2026-08-08",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 6,
-      "total_value": 188833.71,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2323,
-          "value": 89118.37,
-          "avg_price": 0.5235,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "huli3882",
-          "roi": 0.1948,
-          "value": 49975,
-          "avg_price": 0.28,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "StasPanda",
-          "roi": 0.1918,
-          "value": 34732.5,
-          "avg_price": 0.5192,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.2421,
-          "value": 10261.81,
-          "avg_price": 0.48,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vananal0318",
-          "roi": 0.1782,
-          "value": 4442.22,
-          "avg_price": 0.897,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
-          "roi": 0.1674,
-          "value": 303.81,
-          "avg_price": 0.4308,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -577,7 +525,8 @@
     "lol-t1-hle1-2026-08-08::T1": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "lol-t1-hle1-2026-08-08-game2::Hanwha Life Esports": 3,
-    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 2
+    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 3,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1
   },
-  "updated_at": "2026-08-08T14:09:27.154231+00:00"
+  "updated_at": "2026-08-08T14:49:18.331935+00:00"
 }
