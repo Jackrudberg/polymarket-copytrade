@@ -1,33 +1,36 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+  ],
   "signals": [
     {
-      "market": "Cleveland Guardians vs. Chicago White Sox: O/U 7.5",
-      "slug": "mlb-cle-cws-2026-08-08-total-7pt5",
-      "outcome": "Under",
+      "market": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
+      "slug": "atp-rinderk-nakashi-2026-08-08",
+      "outcome": "Brandon Nakashima",
       "num_traders": 3,
-      "total_value": 25527.84,
+      "total_value": 35979.39,
       "holders": [
         {
-          "trader": "quavoo",
-          "roi": 1.0703,
-          "value": 18740.85,
-          "avg_price": 0.5061,
-          "cur_price": 0.545
+          "trader": "AV23IUa",
+          "roi": 0.295,
+          "value": 32499.88,
+          "avg_price": 0.66,
+          "cur_price": 0.65
         },
         {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.6092,
-          "value": 6223.8,
-          "avg_price": 0.5179,
-          "cur_price": 0.545
+          "trader": "EvenMoneyBonds",
+          "roi": 0.1878,
+          "value": 2634.68,
+          "avg_price": 0.49,
+          "cur_price": 0.65
         },
         {
-          "trader": "Forecastication2",
-          "roi": 0.3332,
-          "value": 563.19,
-          "avg_price": 0.5,
-          "cur_price": 0.545
+          "trader": "jtwyslljy",
+          "roi": 0.1837,
+          "value": 844.83,
+          "avg_price": 0.65,
+          "cur_price": 0.65
         }
       ]
     },
@@ -40,21 +43,21 @@
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.6092,
+          "roi": 0.369,
           "value": 8842.25,
           "avg_price": 0.48,
           "cur_price": 0.39
         },
         {
           "trader": "AV23IUa",
-          "roi": 0.1578,
+          "roi": 0.295,
           "value": 7812.65,
           "avg_price": 0.4991,
           "cur_price": 0.39
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2714,
+          "roi": 0.2603,
           "value": 1578.32,
           "avg_price": 0.48,
           "cur_price": 0.39
@@ -526,8 +529,7 @@
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wta-kostyuk-swiatek-2026-08-09::Iga Swiatek": 3,
     "atp-borges-darderi-2026-08-08::Luciano Darderi": 3,
-    "mlb-cle-cws-2026-08-08-total-7pt5::Under": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2
+    "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3
   },
-  "updated_at": "2026-08-08T19:26:14.600364+00:00"
+  "updated_at": "2026-08-08T19:55:15.348264+00:00"
 }
