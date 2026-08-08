@@ -1,35 +1,44 @@
 {
   "seen_ids": [
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
     "mlb-cle-cws-2026-08-08-total-7pt5::Under"
   ],
   "signals": [
     {
-      "market": "Cleveland Guardians vs. Chicago White Sox: O/U 7.5",
-      "slug": "mlb-cle-cws-2026-08-08-total-7pt5",
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 25059.44,
+      "num_traders": 4,
+      "total_value": 19212.86,
       "holders": [
         {
-          "trader": "quavoo",
-          "roi": 1.1287,
-          "value": 18396.98,
-          "avg_price": 0.5061,
-          "cur_price": 0.535
-        },
-        {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.8842,
-          "value": 6109.6,
-          "avg_price": 0.5179,
-          "cur_price": 0.535
+          "roi": 0.637,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
         },
         {
-          "trader": "Forecastication2",
-          "roi": 0.3608,
-          "value": 552.86,
-          "avg_price": 0.5,
-          "cur_price": 0.535
+          "trader": "AV23IUa",
+          "roi": 0.1786,
+          "value": 7812.65,
+          "avg_price": 0.4991,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2779,
+          "value": 1578.32,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.2634,
+          "value": 979.64,
+          "avg_price": 0.39,
+          "cur_price": 0.39
         }
       ]
     },
@@ -49,17 +58,47 @@
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.8902,
+          "roi": 0.637,
           "value": 8036.01,
           "avg_price": 0.5,
           "cur_price": 0.445
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2747,
+          "roi": 0.2779,
           "value": 1612.05,
           "avg_price": 0.5139,
           "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Chicago White Sox: O/U 7.5",
+      "slug": "mlb-cle-cws-2026-08-08-total-7pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 25527.84,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 1.0532,
+          "value": 18740.85,
+          "avg_price": 0.5061,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.637,
+          "value": 6223.8,
+          "avg_price": 0.5179,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.3306,
+          "value": 563.19,
+          "avg_price": 0.5,
+          "cur_price": 0.545
         }
       ]
     }
@@ -523,10 +562,8 @@
     "mlb-tb-sea-2026-08-07-total-6pt5::Under": 3,
     "mlb-det-sf-2026-08-07::San Francisco Giants": 3,
     "lol-t1-hle1-2026-08-08::T1": 3,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "lol-t1-hle1-2026-08-08-game2::Hanwha Life Esports": 3,
-    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 3,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 2
+    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 3
   },
-  "updated_at": "2026-08-08T15:15:16.684149+00:00"
+  "updated_at": "2026-08-08T15:50:30.127823+00:00"
 }
