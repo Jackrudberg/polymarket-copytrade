@@ -1,11 +1,69 @@
 {
   "seen_ids": [
-    "mlb-atl-nyy-2026-08-08::Atlanta Braves",
-    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "wnba-ind-chi-2026-08-08-total-190pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 17676.12,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1749,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.3515,
+          "value": 7812.65,
+          "avg_price": 0.4991,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "0x0x23kjookhaiuohduoayh8c9",
+          "roi": 0.7514,
+          "value": 1021.22,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        }
+      ]
+    },
+    {
+      "market": "Indiana Fever vs. Chicago Sky: O/U 190.5",
+      "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 17552.01,
+      "holders": [
+        {
+          "trader": "0x0x23kjookhaiuohduoayh8c9",
+          "roi": 0.7514,
+          "value": 12759.53,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "saftey-first",
+          "roi": 0.2759,
+          "value": 3222.54,
+          "avg_price": 0.5297,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1749,
+          "value": 1569.94,
+          "avg_price": 0.4835,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Atlanta Braves vs. New York Yankees",
       "slug": "mlb-atl-nyy-2026-08-08",
@@ -70,66 +128,6 @@
           "value": 721.35,
           "avg_price": 0.65,
           "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 17676.12,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2144,
-          "value": 8842.25,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.247,
-          "value": 7812.65,
-          "avg_price": 0.4991,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.8029,
-          "value": 1021.22,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Indiana Fever vs. Chicago Sky: O/U 190.5",
-      "slug": "wnba-ind-chi-2026-08-08-total-190pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 12923.16,
-      "holders": [
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.8029,
-          "value": 9395.71,
-          "avg_price": 0.47,
-          "cur_price": 0.736
-        },
-        {
-          "trader": "saftey-first",
-          "roi": 0.2601,
-          "value": 2372.97,
-          "avg_price": 0.5297,
-          "cur_price": 0.736
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2144,
-          "value": 1154.48,
-          "avg_price": 0.4835,
-          "cur_price": 0.735
         }
       ]
     }
@@ -598,7 +596,9 @@
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wta-kostyuk-swiatek-2026-08-09::Iga Swiatek": 3,
     "atp-borges-darderi-2026-08-08::Luciano Darderi": 3,
-    "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3
+    "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3,
+    "mlb-atl-nyy-2026-08-08::Atlanta Braves": 1,
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 1
   },
-  "updated_at": "2026-08-08T21:40:34.589861+00:00"
+  "updated_at": "2026-08-08T22:02:52.883465+00:00"
 }
