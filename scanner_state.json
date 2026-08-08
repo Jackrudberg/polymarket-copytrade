@@ -1,8 +1,100 @@
 {
   "seen_ids": [
-    "lol-t1-hle1-2026-08-08::Hanwha Life Esports"
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "lol-t1-hle1-2026-08-08::T1",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 38702.88,
+      "holders": [
+        {
+          "trader": "phonesculptor",
+          "roi": 0.1773,
+          "value": 28838.0,
+          "avg_price": 0.5205,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.9612,
+          "value": 8216.6,
+          "avg_price": 0.5,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3558,
+          "value": 1648.28,
+          "avg_price": 0.5139,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-t1-hle1-2026-08-08",
+      "outcome": "T1",
+      "num_traders": 3,
+      "total_value": 33357.5,
+      "holders": [
+        {
+          "trader": "Eztennis",
+          "roi": 0.4059,
+          "value": 27413.13,
+          "avg_price": 0.4699,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.6673,
+          "value": 5837.49,
+          "avg_price": 0.4797,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "quavoo",
+          "roi": 5.6449,
+          "value": 106.88,
+          "avg_price": 0.45,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 10615.57,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.9612,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3558,
+          "value": 1578.32,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.6673,
+          "value": 195,
+          "avg_price": 0.47,
+          "cur_price": 0.39
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-t1-hle1-2026-08-08",
@@ -423,7 +515,6 @@
     "mlb-det-sea-2026-08-04::Detroit Tigers": 3,
     "mlb-det-sea-2026-08-04-total-8pt5::Under": 3,
     "wnba-tor-gsv-2026-08-04-total-169pt5::Over": 3,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "wnba-tor-gsv-2026-08-04-total-167pt5::Over": 3,
     "wnba-sea-nyl-2026-08-05::Seattle Storm": 3,
     "dota2-1win-bb4-2026-08-05::1win": 3,
@@ -441,7 +532,6 @@
     "dota2-flc-liquid-2026-08-05::Team Liquid": 3,
     "mlb-wsh-phi-2026-08-05-total-9pt5::Under": 3,
     "mlb-cws-bos-2026-08-05::Chicago White Sox": 3,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "mlb-oak-cin-2026-08-05::Cincinnati Reds": 3,
     "mlb-det-sea-2026-08-05::Detroit Tigers": 3,
     "mlb-det-sea-2026-08-05::Seattle Mariners": 3,
@@ -493,7 +583,8 @@
     "mlb-atl-nyy-2026-08-07::Atlanta Braves": 3,
     "wnba-gsv-dal-2026-08-07::Golden State Valkyries": 3,
     "mlb-tb-sea-2026-08-07-total-6pt5::Under": 3,
-    "mlb-det-sf-2026-08-07::San Francisco Giants": 3
+    "mlb-det-sf-2026-08-07::San Francisco Giants": 3,
+    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 1
   },
-  "updated_at": "2026-08-08T08:55:41.226432+00:00"
+  "updated_at": "2026-08-08T09:39:07.588480+00:00"
 }
