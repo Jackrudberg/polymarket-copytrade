@@ -1,9 +1,46 @@
 {
   "seen_ids": [
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "lol-t1-hle1-2026-08-08::Hanwha Life Esports",
+    "mlb-bos-nyy-2026-06-06::New York Yankees"
   ],
   "signals": [
+    {
+      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-t1-hle1-2026-08-08",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 4,
+      "total_value": 75761.57,
+      "holders": [
+        {
+          "trader": "huli3882",
+          "roi": 0.1827,
+          "value": 49975,
+          "avg_price": 0.28,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "johnny234",
+          "roi": 0.1718,
+          "value": 15220.95,
+          "avg_price": 0.4799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "EvenMoneyBonds",
+          "roi": 0.2212,
+          "value": 10261.81,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+          "roi": 0.162,
+          "value": 303.81,
+          "avg_price": 0.4308,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
@@ -20,14 +57,14 @@
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.9612,
+          "roi": 0.9614,
           "value": 8216.6,
           "avg_price": 0.5,
           "cur_price": 0.455
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.3558,
+          "roi": 0.3392,
           "value": 1648.28,
           "avg_price": 0.5139,
           "cur_price": 0.455
@@ -91,36 +128,6 @@
           "value": 106.88,
           "avg_price": 0.45,
           "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-t1-hle1-2026-08-08",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 20761.26,
-      "holders": [
-        {
-          "trader": "huli3882",
-          "roi": 0.1548,
-          "value": 13750,
-          "avg_price": 0.28,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "johnny234",
-          "roi": 0.1743,
-          "value": 4187.85,
-          "avg_price": 0.4799,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.251,
-          "value": 2823.41,
-          "avg_price": 0.48,
-          "cur_price": 0.275
         }
       ]
     }
@@ -583,8 +590,8 @@
     "wnba-gsv-dal-2026-08-07::Golden State Valkyries": 3,
     "mlb-tb-sea-2026-08-07-total-6pt5::Under": 3,
     "mlb-det-sf-2026-08-07::San Francisco Giants": 3,
-    "lol-t1-hle1-2026-08-08::Hanwha Life Esports": 2,
-    "lol-t1-hle1-2026-08-08::T1": 1
+    "lol-t1-hle1-2026-08-08::T1": 2,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1
   },
-  "updated_at": "2026-08-08T10:13:18.681664+00:00"
+  "updated_at": "2026-08-08T10:53:22.316308+00:00"
 }
