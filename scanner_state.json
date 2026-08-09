@@ -1,37 +1,38 @@
 {
   "seen_ids": [
-    "lol-jdg-we-2026-08-09-game1::JD Gaming",
+    "mlb-atl-nyy-2026-08-09-total-8pt5::Under",
     "mlb-bal-tex-2026-08-09-total-8pt5::Over",
+    "mlb-oak-bos-2026-08-09::Boston Red Sox",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
     {
-      "market": "LoL: JD Gaming vs Team WE - Game 1 Winner",
-      "slug": "lol-jdg-we-2026-08-09-game1",
-      "outcome": "JD Gaming",
+      "market": "Atlanta Braves vs. New York Yankees: O/U 8.5",
+      "slug": "mlb-atl-nyy-2026-08-09-total-8pt5",
+      "outcome": "Under",
       "num_traders": 3,
-      "total_value": 40015.16,
+      "total_value": 51841.16,
       "holders": [
         {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2919,
-          "value": 19989.99,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
+          "trader": "Sassy-Bucket",
+          "roi": 1.1629,
+          "value": 48500,
+          "avg_price": 0.49,
+          "cur_price": 0.485
         },
         {
-          "trader": "hurrican",
-          "roi": 0.1667,
-          "value": 12031.64,
-          "avg_price": 0.8299,
-          "cur_price": 0.9995
+          "trader": "sportmaster777",
+          "roi": 0.4837,
+          "value": 2970.14,
+          "avg_price": 0.5,
+          "cur_price": 0.485
         },
         {
-          "trader": "retroactivesource",
-          "roi": 0.1555,
-          "value": 7993.53,
-          "avg_price": 0.64,
-          "cur_price": 0.9995
+          "trader": "AnonymousUsername",
+          "roi": 0.1954,
+          "value": 371.02,
+          "avg_price": 0.5,
+          "cur_price": 0.485
         }
       ]
     },
@@ -66,6 +67,36 @@
       ]
     },
     {
+      "market": "Athletics vs. Boston Red Sox",
+      "slug": "mlb-oak-bos-2026-08-09",
+      "outcome": "Boston Red Sox",
+      "num_traders": 3,
+      "total_value": 22600.63,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1954,
+          "value": 11116.58,
+          "avg_price": 0.68,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "sportmaster777",
+          "roi": 0.4837,
+          "value": 6551.41,
+          "avg_price": 0.6899,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2481,
+          "value": 4932.64,
+          "avg_price": 0.6899,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
       "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "outcome": "Under",
@@ -96,62 +127,32 @@
       ]
     },
     {
-      "market": "LoL: JD Gaming vs Team WE - Game 2 Winner",
-      "slug": "lol-jdg-we-2026-08-09-game2",
+      "market": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+      "slug": "lol-jdg-we-2026-08-09-game1",
       "outcome": "JD Gaming",
       "num_traders": 3,
-      "total_value": 34435.06,
+      "total_value": 40015.16,
       "holders": [
         {
-          "trader": "GonSaless",
-          "roi": 0.4504,
-          "value": 13623.74,
-          "avg_price": 0.6,
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2919,
+          "value": 19989.99,
+          "avg_price": 0.5699,
           "cur_price": 0.9995
         },
         {
-          "trader": "kedaya8888",
-          "roi": 0.1627,
-          "value": 10816.32,
-          "avg_price": 0.5976,
+          "trader": "hurrican",
+          "roi": 0.1667,
+          "value": 12031.64,
+          "avg_price": 0.8299,
           "cur_price": 0.9995
         },
         {
-          "trader": "madwish355",
-          "roi": 0.175,
-          "value": 9995,
-          "avg_price": 0.88,
+          "trader": "retroactivesource",
+          "roi": 0.1555,
+          "value": 7993.53,
+          "avg_price": 0.64,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Cruzeiro EC win on 2026-08-09?",
-      "slug": "bra-cru-mir-2026-08-09-cru",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 2345.46,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2233,
-          "value": 1439.02,
-          "avg_price": 0.42,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "us391",
-          "roi": 0.4094,
-          "value": 786.17,
-          "avg_price": 0.43,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.4029,
-          "value": 120.27,
-          "avg_price": 0.4249,
-          "cur_price": 0.435
         }
       ]
     }
@@ -637,8 +638,9 @@
     "cs2-1win-tl1-2026-08-09::Liquid": 3,
     "cs2-vp-sashi-2026-08-09::Virtus.pro": 3,
     "cs2-jjh-dendel-2026-08-09::DENDELE CS": 3,
-    "lol-jdg-we-2026-08-09-game2::JD Gaming": 2,
-    "bra-cru-mir-2026-08-09-cru::No": 2
+    "lol-jdg-we-2026-08-09-game2::JD Gaming": 3,
+    "bra-cru-mir-2026-08-09-cru::No": 3,
+    "lol-jdg-we-2026-08-09-game1::JD Gaming": 1
   },
-  "updated_at": "2026-08-09T14:43:08.289922+00:00"
+  "updated_at": "2026-08-09T15:15:01.190346+00:00"
 }
