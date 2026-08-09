@@ -1,10 +1,83 @@
 {
   "seen_ids": [
-    "mlb-tb-sea-2026-08-08::Tampa Bay Rays",
-    "atp-fils-norrie-2026-08-08::Arthur Fils",
-    "lec-rsl-atla-2026-08-08-atla::No"
+    "lec-rsl-atla-2026-08-08-atla::No",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Will Atlante FC win on 2026-08-08?",
+      "slug": "lec-rsl-atla-2026-08-08-atla",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 35472.95,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.269,
+          "value": 13788.17,
+          "avg_price": 0.798,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+          "roi": 0.1546,
+          "value": 10812.18,
+          "avg_price": 0.9367,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "us391",
+          "roi": 1.2527,
+          "value": 6945.78,
+          "avg_price": 0.79,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "one8tyfive",
+          "roi": 0.2645,
+          "value": 3926.82,
+          "avg_price": 0.8,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 18428.22,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1922,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.608,
+          "value": 7812.65,
+          "avg_price": 0.4991,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1571,
+          "value": 1578.32,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.4896,
+          "value": 195,
+          "avg_price": 0.47,
+          "cur_price": 0.39
+        }
+      ]
+    },
     {
       "market": "Tampa Bay Rays vs. Seattle Mariners",
       "slug": "mlb-tb-sea-2026-08-08",
@@ -62,156 +135,6 @@
           "value": 9994.98,
           "avg_price": 0.68,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Atlante FC win on 2026-08-08?",
-      "slug": "lec-rsl-atla-2026-08-08-atla",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 24660.77,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2629,
-          "value": 13788.17,
-          "avg_price": 0.798,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "us391",
-          "roi": 1.2194,
-          "value": 6945.78,
-          "avg_price": 0.79,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.2481,
-          "value": 3926.82,
-          "avg_price": 0.8,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Washington Nationals",
-      "slug": "mlb-cin-wsh-2026-08-08",
-      "outcome": "Washington Nationals",
-      "num_traders": 3,
-      "total_value": 169743.72,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1598,
-          "value": 104293.14,
-          "avg_price": 0.43,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.5501,
-          "value": 43972.64,
-          "avg_price": 0.44,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "Bulls94",
-          "roi": 0.6197,
-          "value": 21477.94,
-          "avg_price": 0.44,
-          "cur_price": 0.945
-        }
-      ]
-    },
-    {
-      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
-      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 55333.2,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1598,
-          "value": 51090.85,
-          "avg_price": 0.52,
-          "cur_price": 0.85
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.4861,
-          "value": 4114.85,
-          "avg_price": 0.53,
-          "cur_price": 0.85
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.1511,
-          "value": 127.5,
-          "avg_price": 0.87,
-          "cur_price": 0.85
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
-      "slug": "atp-rinderk-nakashi-2026-08-08",
-      "outcome": "Brandon Nakashima",
-      "num_traders": 3,
-      "total_value": 55325.22,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.255,
-          "value": 49974.81,
-          "avg_price": 0.66,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "EvenMoneyBonds",
-          "roi": 0.1511,
-          "value": 4051.33,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.2217,
-          "value": 1299.08,
-          "avg_price": 0.65,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 9813.51,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.255,
-          "value": 7812.65,
-          "avg_price": 0.4991,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.7996,
-          "value": 1021.22,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.2933,
-          "value": 979.64,
-          "avg_price": 0.39,
-          "cur_price": 0.39
         }
       ]
     }
@@ -685,10 +608,11 @@
     "wnba-ind-chi-2026-08-08-total-190pt5::Under": 3,
     "mlb-oak-bos-2026-08-08-total-9pt5::Over": 3,
     "mlb-tor-phi-2026-08-08-total-9pt5::Over": 3,
-    "mlb-cin-wsh-2026-08-08::Washington Nationals": 2,
-    "mlb-tor-phi-2026-08-08-total-9pt5::Under": 2,
-    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2
+    "mlb-cin-wsh-2026-08-08::Washington Nationals": 3,
+    "mlb-tor-phi-2026-08-08-total-9pt5::Under": 3,
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 3,
+    "mlb-tb-sea-2026-08-08::Tampa Bay Rays": 1,
+    "atp-fils-norrie-2026-08-08::Arthur Fils": 1
   },
-  "updated_at": "2026-08-09T04:05:56.130063+00:00"
+  "updated_at": "2026-08-09T05:16:52.466322+00:00"
 }
