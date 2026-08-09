@@ -1,11 +1,100 @@
 {
   "seen_ids": [
-    "mlb-cin-wsh-2026-08-09::Washington Nationals",
-    "mlb-min-mil-2026-08-09-total-7pt5::Over",
     "mlb-bal-tex-2026-08-09-total-8pt5::Over",
-    "mlb-oak-bos-2026-08-09::Boston Red Sox"
+    "mlb-oak-bos-2026-08-09::Boston Red Sox",
+    "mlb-min-mil-2026-08-09-total-7pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 62231.01,
+      "holders": [
+        {
+          "trader": "0way",
+          "roi": 0.2938,
+          "value": 32000.0,
+          "avg_price": 0.44,
+          "cur_price": 0.64
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.291,
+          "value": 29161.39,
+          "avg_price": 0.47,
+          "cur_price": 0.64
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.7621,
+          "value": 1069.62,
+          "avg_price": 0.46,
+          "cur_price": 0.64
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Boston Red Sox",
+      "slug": "mlb-oak-bos-2026-08-09",
+      "outcome": "Boston Red Sox",
+      "num_traders": 3,
+      "total_value": 29025.65,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.7621,
+          "value": 15500,
+          "avg_price": 0.68,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "sportmaster777",
+          "roi": 0.3262,
+          "value": 7716.1,
+          "avg_price": 0.6899,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2146,
+          "value": 5809.55,
+          "avg_price": 0.6899,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Minnesota Twins vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-min-mil-2026-08-09-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 28012.1,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.291,
+          "value": 24000.0,
+          "avg_price": 0.45,
+          "cur_price": 0.24
+        },
+        {
+          "trader": "ComingBack",
+          "roi": 0.1939,
+          "value": 3626.52,
+          "avg_price": 0.45,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "sportmaster777",
+          "roi": 0.3262,
+          "value": 385.58,
+          "avg_price": 0.47,
+          "cur_price": 0.235
+        }
+      ]
+    },
     {
       "market": "Cincinnati Reds vs. Washington Nationals",
       "slug": "mlb-cin-wsh-2026-08-09",
@@ -33,156 +122,6 @@
           "value": 1806.61,
           "avg_price": 0.5,
           "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Twins vs. Milwaukee Brewers: O/U 7.5",
-      "slug": "mlb-min-mil-2026-08-09-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 48585.21,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.306,
-          "value": 41500.0,
-          "avg_price": 0.45,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "ComingBack",
-          "roi": 0.27,
-          "value": 6404.28,
-          "avg_price": 0.45,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "sportmaster777",
-          "roi": 0.3728,
-          "value": 680.93,
-          "avg_price": 0.47,
-          "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
-      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 43394.0,
-      "holders": [
-        {
-          "trader": "0way",
-          "roi": 0.2938,
-          "value": 23750.0,
-          "avg_price": 0.44,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.306,
-          "value": 18850.14,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.8904,
-          "value": 793.86,
-          "avg_price": 0.46,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Boston Red Sox",
-      "slug": "mlb-oak-bos-2026-08-09",
-      "outcome": "Boston Red Sox",
-      "num_traders": 3,
-      "total_value": 24419.79,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.8904,
-          "value": 13300,
-          "avg_price": 0.68,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "sportmaster777",
-          "roi": 0.3728,
-          "value": 6260.23,
-          "avg_price": 0.6899,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "kkookkoo",
-          "roi": 0.2178,
-          "value": 4859.56,
-          "avg_price": 0.6899,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "New York Mets vs. Pittsburgh Pirates: O/U 8.5",
-      "slug": "mlb-nym-pit-2026-08-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 21630.37,
-      "holders": [
-        {
-          "trader": "dv-pm",
-          "roi": 0.4222,
-          "value": 13331.81,
-          "avg_price": 0.51,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1572,
-          "value": 5085.37,
-          "avg_price": 0.51,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "sportmaster777",
-          "roi": 0.4724,
-          "value": 3213.19,
-          "avg_price": 0.51,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 9117.94,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1572,
-          "value": 8048.71,
-          "avg_price": 0.48,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.8015,
-          "value": 891.73,
-          "avg_price": 0.39,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.2479,
-          "value": 177.5,
-          "avg_price": 0.47,
-          "cur_price": 0.355
         }
       ]
     }
@@ -672,8 +611,9 @@
     "bra-cru-mir-2026-08-09-cru::No": 3,
     "lol-jdg-we-2026-08-09-game1::JD Gaming": 3,
     "mlb-atl-nyy-2026-08-09-total-8pt5::Under": 3,
-    "mlb-nym-pit-2026-08-09-total-8pt5::Under": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2
+    "mlb-nym-pit-2026-08-09-total-8pt5::Under": 3,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
+    "mlb-cin-wsh-2026-08-09::Washington Nationals": 1
   },
-  "updated_at": "2026-08-09T18:16:18.245285+00:00"
+  "updated_at": "2026-08-09T19:06:30.572544+00:00"
 }
