@@ -1,10 +1,5 @@
 {
-  "seen_ids": [
-    "mlb-cin-wsh-2026-08-08::Washington Nationals",
-    "mlb-tor-phi-2026-08-08-total-9pt5::Under",
-    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Cincinnati Reds vs. Washington Nationals",
@@ -123,66 +118,6 @@
           "value": 979.64,
           "avg_price": 0.39,
           "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Boston Red Sox: O/U 9.5",
-      "slug": "mlb-oak-bos-2026-08-08-total-9pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 135881.14,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.2996,
-          "value": 79960,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1721,
-          "value": 52074.06,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.5989,
-          "value": 3847.08,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
-      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 68324.07,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.2996,
-          "value": 38283.13,
-          "avg_price": 0.4939,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.2252,
-          "value": 28227.96,
-          "avg_price": 0.47,
-          "cur_price": 0.38
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.5989,
-          "value": 1812.98,
-          "avg_price": 0.48,
-          "cur_price": 0.38
         }
       ]
     }
@@ -654,8 +589,12 @@
     "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3,
     "mlb-atl-nyy-2026-08-08::Atlanta Braves": 3,
     "wnba-ind-chi-2026-08-08-total-190pt5::Under": 3,
-    "mlb-oak-bos-2026-08-08-total-9pt5::Over": 2,
-    "mlb-tor-phi-2026-08-08-total-9pt5::Over": 2
+    "mlb-oak-bos-2026-08-08-total-9pt5::Over": 3,
+    "mlb-tor-phi-2026-08-08-total-9pt5::Over": 3,
+    "mlb-cin-wsh-2026-08-08::Washington Nationals": 1,
+    "mlb-tor-phi-2026-08-08-total-9pt5::Under": 1,
+    "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 1,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1
   },
-  "updated_at": "2026-08-09T00:35:07.615824+00:00"
+  "updated_at": "2026-08-09T02:49:06.854192+00:00"
 }
