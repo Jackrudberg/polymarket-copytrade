@@ -1,8 +1,49 @@
 {
   "seen_ids": [
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "lol-dk-kt-2026-08-09::KT Rolster",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under",
+    "cs2-vp-sashi-2026-08-09::Virtus.pro",
+    "lol-dk-kt-2026-08-09-game1::KT Rolster",
+    "cs2-jjh-dendel-2026-08-09::DENDELE CS"
   ],
   "signals": [
+    {
+      "market": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-dk-kt-2026-08-09",
+      "outcome": "KT Rolster",
+      "num_traders": 4,
+      "total_value": 57689.3,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.1869,
+          "value": 20441.99,
+          "avg_price": 0.3824,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2227,
+          "value": 16999.93,
+          "avg_price": 0.4731,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.1506,
+          "value": 10897.44,
+          "avg_price": 0.3899,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.1688,
+          "value": 9349.94,
+          "avg_price": 0.39,
+          "cur_price": 0.425
+        }
+      ]
+    },
     {
       "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
@@ -12,7 +53,7 @@
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2535,
+          "roi": 0.254,
           "value": 8842.25,
           "avg_price": 0.48,
           "cur_price": 0.39
@@ -26,17 +67,107 @@
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.307,
+          "roi": 0.296,
           "value": 1578.32,
           "avg_price": 0.48,
           "cur_price": 0.39
         },
         {
           "trader": "riverskew",
-          "roi": 0.5712,
+          "roi": 0.5129,
           "value": 195,
           "avg_price": 0.47,
           "cur_price": 0.39
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Virtus.pro vs Sashi Esport (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "slug": "cs2-vp-sashi-2026-08-09",
+      "outcome": "Virtus.pro",
+      "num_traders": 3,
+      "total_value": 76496.22,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.1869,
+          "value": 61480.1,
+          "avg_price": 0.5567,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.1688,
+          "value": 14586.25,
+          "avg_price": 0.55,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
+          "roi": 0.3083,
+          "value": 429.87,
+          "avg_price": 0.531,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs KT Rolster - Game 1 Winner",
+      "slug": "lol-dk-kt-2026-08-09-game1",
+      "outcome": "KT Rolster",
+      "num_traders": 3,
+      "total_value": 57970.68,
+      "holders": [
+        {
+          "trader": "madwish355",
+          "roi": 0.5686,
+          "value": 20489.47,
+          "avg_price": 0.4355,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.2387,
+          "value": 19990,
+          "avg_price": 0.4574,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "elizabeth.ethcome",
+          "roi": 0.2227,
+          "value": 17491.21,
+          "avg_price": 0.5469,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: JiJieHao vs DENDELE CS (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "slug": "cs2-jjh-dendel-2026-08-09",
+      "outcome": "DENDELE CS",
+      "num_traders": 3,
+      "total_value": 38258.72,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.1869,
+          "value": 25889.68,
+          "avg_price": 0.6866,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.1688,
+          "value": 11128.05,
+          "avg_price": 0.68,
+          "cur_price": 0.73
+        },
+        {
+          "trader": "0way",
+          "roi": 0.9982,
+          "value": 1240.99,
+          "avg_price": 0.68,
+          "cur_price": 0.73
         }
       ]
     }
@@ -517,5 +648,5 @@
     "atp-fils-norrie-2026-08-08::Arthur Fils": 3,
     "lec-rsl-atla-2026-08-08-atla::No": 3
   },
-  "updated_at": "2026-08-09T08:57:17.208637+00:00"
+  "updated_at": "2026-08-09T09:46:29.485805+00:00"
 }
