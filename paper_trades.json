@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-09T13:58:37.150366+00:00",
+      "last_seen": "2026-08-09T14:43:08.281182+00:00",
       "entry_price": 0.28,
       "current_price": 0.355,
       "stake": 100.0,
@@ -10805,7 +10805,7 @@
       "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T12:00:15.577304+00:00",
-      "last_seen": "2026-08-09T13:58:37.150366+00:00",
+      "last_seen": "2026-08-09T14:43:08.281182+00:00",
       "entry_price": 0.445,
       "current_price": 0.475,
       "stake": 100.0,
@@ -10837,7 +10837,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 34435.06,
       "traders": [
@@ -10845,7 +10845,8 @@
         "kedaya8888",
         "madwish355"
       ],
-      "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game2"
+      "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game2",
+      "consensus_lost_at": "2026-08-09T14:43:08.281182+00:00"
     },
     {
       "signal_id": "bra-cru-mir-2026-08-09-cru::No",
@@ -10861,7 +10862,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2345.46,
       "traders": [
@@ -10869,7 +10870,8 @@
         "us391",
         "riverskew"
       ],
-      "url": "https://polymarket.com/event/bra-cru-mir-2026-08-09-cru"
+      "url": "https://polymarket.com/event/bra-cru-mir-2026-08-09-cru",
+      "consensus_lost_at": "2026-08-09T14:43:08.281182+00:00"
     },
     {
       "signal_id": "lol-jdg-we-2026-08-09-game1::JD Gaming",
@@ -10877,7 +10879,7 @@
       "slug": "lol-jdg-we-2026-08-09-game1",
       "side": "JD Gaming",
       "alerted_at": "2026-08-09T13:58:37.150366+00:00",
-      "last_seen": "2026-08-09T13:58:37.150366+00:00",
+      "last_seen": "2026-08-09T14:43:08.281182+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -10896,5 +10898,5 @@
       "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game1"
     }
   ],
-  "updated_at": "2026-08-09T13:58:37.150366+00:00"
+  "updated_at": "2026-08-09T14:43:08.281182+00:00"
 }
