@@ -1,9 +1,45 @@
 {
   "seen_ids": [
-    "lec-rsl-atla-2026-08-08-atla::No",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 18428.22,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2535,
+          "value": 8842.25,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.6381,
+          "value": 7812.65,
+          "avg_price": 0.4991,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.308,
+          "value": 1578.32,
+          "avg_price": 0.48,
+          "cur_price": 0.39
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.6313,
+          "value": 195,
+          "avg_price": 0.47,
+          "cur_price": 0.39
+        }
+      ]
+    },
     {
       "market": "Will Atlante FC win on 2026-08-08?",
       "slug": "lec-rsl-atla-2026-08-08-atla",
@@ -37,103 +73,6 @@
           "roi": 0.2652,
           "value": 3926.82,
           "avg_price": 0.8,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 18428.22,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2534,
-          "value": 8842.25,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.6379,
-          "value": 7812.65,
-          "avg_price": 0.4991,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3088,
-          "value": 1578.32,
-          "avg_price": 0.48,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "riverskew",
-          "roi": 0.6334,
-          "value": 195,
-          "avg_price": 0.47,
-          "cur_price": 0.39
-        }
-      ]
-    },
-    {
-      "market": "Tampa Bay Rays vs. Seattle Mariners",
-      "slug": "mlb-tb-sea-2026-08-08",
-      "outcome": "Tampa Bay Rays",
-      "num_traders": 3,
-      "total_value": 48114.05,
-      "holders": [
-        {
-          "trader": "kkookkoo",
-          "roi": 0.1978,
-          "value": 16987.11,
-          "avg_price": 0.3336,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.8144,
-          "value": 16900,
-          "avg_price": 0.45,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1935,
-          "value": 14226.94,
-          "avg_price": 0.429,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Arthur Fils vs Cameron Norrie",
-      "slug": "atp-fils-norrie-2026-08-08",
-      "outcome": "Arthur Fils",
-      "num_traders": 3,
-      "total_value": 41063.57,
-      "holders": [
-        {
-          "trader": "TRCM",
-          "roi": 0.3285,
-          "value": 18672.77,
-          "avg_price": 0.8679,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "tradecraft",
-          "roi": 0.193,
-          "value": 12395.82,
-          "avg_price": 0.8456,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.2481,
-          "value": 9994.98,
-          "avg_price": 0.68,
           "cur_price": 0.9995
         }
       ]
@@ -611,8 +550,9 @@
     "mlb-cin-wsh-2026-08-08::Washington Nationals": 3,
     "mlb-tor-phi-2026-08-08-total-9pt5::Under": 3,
     "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima": 3,
-    "mlb-tb-sea-2026-08-08::Tampa Bay Rays": 2,
-    "atp-fils-norrie-2026-08-08::Arthur Fils": 2
+    "mlb-tb-sea-2026-08-08::Tampa Bay Rays": 3,
+    "atp-fils-norrie-2026-08-08::Arthur Fils": 3,
+    "lec-rsl-atla-2026-08-08-atla::No": 1
   },
-  "updated_at": "2026-08-09T06:03:37.159853+00:00"
+  "updated_at": "2026-08-09T07:11:46.943054+00:00"
 }
