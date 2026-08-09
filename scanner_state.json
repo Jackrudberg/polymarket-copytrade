@@ -1,77 +1,38 @@
 {
   "seen_ids": [
-    "mlb-bal-tex-2026-08-09-total-8pt5::Over",
     "mlb-cin-wsh-2026-08-09::Washington Nationals",
     "mlb-min-mil-2026-08-09-total-7pt5::Over",
-    "mlb-oak-bos-2026-08-09::Boston Red Sox",
-    "mlb-nym-pit-2026-08-09-total-8pt5::Under",
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+    "mlb-bal-tex-2026-08-09-total-8pt5::Over",
+    "mlb-oak-bos-2026-08-09::Boston Red Sox"
   ],
   "signals": [
-    {
-      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
-      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 4,
-      "total_value": 34577.67,
-      "holders": [
-        {
-          "trader": "0way",
-          "roi": 0.2938,
-          "value": 23750.0,
-          "avg_price": 0.44,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.5623,
-          "value": 9330.21,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.9584,
-          "value": 793.86,
-          "avg_price": 0.46,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1572,
-          "value": 703.6,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        }
-      ]
-    },
     {
       "market": "Cincinnati Reds vs. Washington Nationals",
       "slug": "mlb-cin-wsh-2026-08-09",
       "outcome": "Washington Nationals",
       "num_traders": 3,
-      "total_value": 93638.55,
+      "total_value": 121780.02,
       "holders": [
         {
           "trader": "Supremeleader75",
-          "roi": 0.3259,
-          "value": 91618.13,
+          "roi": 0.2647,
+          "value": 111977.71,
           "avg_price": 0.5246,
-          "cur_price": 0.675
+          "cur_price": 0.825
+        },
+        {
+          "trader": "paquitomillonario",
+          "roi": 0.7052,
+          "value": 8135.44,
+          "avg_price": 0.67,
+          "cur_price": 0.825
         },
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.9584,
-          "value": 1347.47,
+          "roi": 0.8904,
+          "value": 1666.87,
           "avg_price": 0.5,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1572,
-          "value": 672.95,
-          "avg_price": 0.5404,
-          "cur_price": 0.665
+          "cur_price": 0.835
         }
       ]
     },
@@ -84,24 +45,54 @@
       "holders": [
         {
           "trader": "Sassy-Bucket",
-          "roi": 0.5623,
+          "roi": 0.306,
           "value": 44500.0,
           "avg_price": 0.45,
           "cur_price": 0.445
         },
         {
           "trader": "ComingBack",
-          "roi": 0.327,
+          "roi": 0.27,
           "value": 6867.24,
           "avg_price": 0.45,
           "cur_price": 0.445
         },
         {
           "trader": "sportmaster777",
-          "roi": 0.4724,
+          "roi": 0.3728,
           "value": 730.15,
           "avg_price": 0.47,
           "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 36856.85,
+      "holders": [
+        {
+          "trader": "0way",
+          "roi": 0.2938,
+          "value": 23750.0,
+          "avg_price": 0.44,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.306,
+          "value": 12312.99,
+          "avg_price": 0.47,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.8904,
+          "value": 793.86,
+          "avg_price": 0.46,
+          "cur_price": 0.475
         }
       ]
     },
@@ -110,28 +101,28 @@
       "slug": "mlb-oak-bos-2026-08-09",
       "outcome": "Boston Red Sox",
       "num_traders": 3,
-      "total_value": 24984.05,
+      "total_value": 22022.97,
       "holders": [
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.9584,
-          "value": 13500,
+          "roi": 0.8904,
+          "value": 11900,
           "avg_price": 0.68,
-          "cur_price": 0.675
+          "cur_price": 0.595
         },
         {
           "trader": "sportmaster777",
-          "roi": 0.4724,
-          "value": 6551.41,
+          "roi": 0.3728,
+          "value": 5774.94,
           "avg_price": 0.6899,
-          "cur_price": 0.675
+          "cur_price": 0.595
         },
         {
           "trader": "kkookkoo",
           "roi": 0.2178,
-          "value": 4932.64,
+          "value": 4348.03,
           "avg_price": 0.6899,
-          "cur_price": 0.675
+          "cur_price": 0.595
         }
       ]
     },
@@ -192,36 +183,6 @@
           "value": 177.5,
           "avg_price": 0.47,
           "cur_price": 0.355
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. New York Yankees: O/U 8.5",
-      "slug": "mlb-atl-nyy-2026-08-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 53978.94,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.7672,
-          "value": 50500,
-          "avg_price": 0.49,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "sportmaster777",
-          "roi": 0.4833,
-          "value": 3092.62,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1682,
-          "value": 386.32,
-          "avg_price": 0.5,
-          "cur_price": 0.505
         }
       ]
     }
@@ -710,7 +671,9 @@
     "lol-jdg-we-2026-08-09-game2::JD Gaming": 3,
     "bra-cru-mir-2026-08-09-cru::No": 3,
     "lol-jdg-we-2026-08-09-game1::JD Gaming": 3,
-    "mlb-atl-nyy-2026-08-09-total-8pt5::Under": 2
+    "mlb-atl-nyy-2026-08-09-total-8pt5::Under": 3,
+    "mlb-nym-pit-2026-08-09-total-8pt5::Under": 1,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1
   },
-  "updated_at": "2026-08-09T17:02:43.242536+00:00"
+  "updated_at": "2026-08-09T17:42:59.673144+00:00"
 }
