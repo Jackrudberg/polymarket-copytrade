@@ -2,8 +2,8 @@
   "seen_ids": [
     "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "cs2-vp-sashi-2026-08-09::Virtus.pro",
-    "cs2-jjh-dendel-2026-08-09::DENDELE CS",
-    "cs2-1win-tl1-2026-08-09::Liquid"
+    "mlb-bal-tex-2026-08-09-total-8pt5::Over",
+    "cs2-jjh-dendel-2026-08-09::DENDELE CS"
   ],
   "signals": [
     {
@@ -11,35 +11,35 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "outcome": "Under",
       "num_traders": 4,
-      "total_value": 17010.66,
+      "total_value": 16774.4,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
           "roi": 0.2486,
-          "value": 8162.07,
+          "value": 8048.71,
           "avg_price": 0.48,
-          "cur_price": 0.36
+          "cur_price": 0.355
         },
         {
           "trader": "AV23IUa",
           "roi": 0.6298,
-          "value": 7211.68,
+          "value": 7111.51,
           "avg_price": 0.4991,
-          "cur_price": 0.36
+          "cur_price": 0.355
         },
         {
           "trader": "AnonymousUsername",
           "roi": 0.2828,
-          "value": 1456.91,
+          "value": 1436.68,
           "avg_price": 0.48,
-          "cur_price": 0.36
+          "cur_price": 0.355
         },
         {
           "trader": "riverskew",
           "roi": 0.4319,
-          "value": 180,
+          "value": 177.5,
           "avg_price": 0.47,
-          "cur_price": 0.36
+          "cur_price": 0.355
         }
       ]
     },
@@ -48,28 +48,58 @@
       "slug": "cs2-vp-sashi-2026-08-09",
       "outcome": "Virtus.pro",
       "num_traders": 3,
-      "total_value": 42616.16,
+      "total_value": 20384.62,
       "holders": [
         {
           "trader": "Winnerdinnerchickenjr",
           "roi": 0.3377,
-          "value": 27098.55,
+          "value": 12962.07,
           "avg_price": 0.5586,
-          "cur_price": 0.623
+          "cur_price": 0.298
         },
         {
           "trader": "ohehe",
           "roi": 0.218,
-          "value": 15184.93,
+          "value": 7263.42,
           "avg_price": 0.5738,
-          "cur_price": 0.623
+          "cur_price": 0.298
         },
         {
           "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
           "roi": 0.2583,
-          "value": 332.68,
+          "value": 159.13,
           "avg_price": 0.531,
-          "cur_price": 0.623
+          "cur_price": 0.298
+        }
+      ]
+    },
+    {
+      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 11182.83,
+      "holders": [
+        {
+          "trader": "0way",
+          "roi": 0.9799,
+          "value": 10803.64,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2828,
+          "value": 267.89,
+          "avg_price": 0.48,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2518,
+          "value": 111.3,
+          "avg_price": 0.46,
+          "cur_price": 0.445
         }
       ]
     },
@@ -78,28 +108,28 @@
       "slug": "cs2-jjh-dendel-2026-08-09",
       "outcome": "DENDELE CS",
       "num_traders": 3,
-      "total_value": 10422.36,
+      "total_value": 8182.86,
       "holders": [
         {
           "trader": "ohehe",
           "roi": 0.218,
-          "value": 9090.62,
+          "value": 7137.27,
           "avg_price": 0.67,
-          "cur_price": 0.605
+          "cur_price": 0.475
         },
         {
           "trader": "0way",
           "roi": 0.9799,
-          "value": 1028.49,
+          "value": 807.5,
           "avg_price": 0.68,
-          "cur_price": 0.605
+          "cur_price": 0.475
         },
         {
           "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
           "roi": 0.2583,
-          "value": 303.25,
+          "value": 238.09,
           "avg_price": 0.4783,
-          "cur_price": 0.605
+          "cur_price": 0.475
         }
       ]
     },
@@ -130,117 +160,6 @@
           "value": 124.37,
           "avg_price": 0.2564,
           "cur_price": 0.06
-        }
-      ]
-    },
-    {
-      "market": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-dk-kt-2026-08-09",
-      "outcome": "KT Rolster",
-      "num_traders": 5,
-      "total_value": 7064.61,
-      "holders": [
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.2227,
-          "value": 2499.99,
-          "avg_price": 0.4597,
-          "cur_price": 0.05
-        },
-        {
-          "trader": "StasPanda",
-          "roi": 0.1869,
-          "value": 2404.94,
-          "avg_price": 0.3824,
-          "cur_price": 0.05
-        },
-        {
-          "trader": "thecomplicatedguy",
-          "roi": 0.1688,
-          "value": 1099.99,
-          "avg_price": 0.39,
-          "cur_price": 0.05
-        },
-        {
-          "trader": "madwish355",
-          "roi": 0.5686,
-          "value": 850,
-          "avg_price": 0.38,
-          "cur_price": 0.05
-        },
-        {
-          "trader": "q136084",
-          "roi": 0.2057,
-          "value": 209.69,
-          "avg_price": 0.3616,
-          "cur_price": 0.05
-        }
-      ]
-    },
-    {
-      "market": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-dk-kt-2026-08-09",
-      "outcome": "Dplus KIA",
-      "num_traders": 4,
-      "total_value": 56112.97,
-      "holders": [
-        {
-          "trader": "kedaya8888",
-          "roi": 0.2387,
-          "value": 30442.39,
-          "avg_price": 0.6174,
-          "cur_price": 0.95
-        },
-        {
-          "trader": "retroactivesource",
-          "roi": 0.1615,
-          "value": 15933.09,
-          "avg_price": 0.7004,
-          "cur_price": 0.95
-        },
-        {
-          "trader": "hurrican",
-          "roi": 0.1729,
-          "value": 9499.99,
-          "avg_price": 0.85,
-          "cur_price": 0.95
-        },
-        {
-          "trader": "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846",
-          "roi": 0.3083,
-          "value": 237.5,
-          "avg_price": 0.28,
-          "cur_price": 0.95
-        }
-      ]
-    },
-    {
-      "market": "LoL: Dplus KIA vs KT Rolster - Game 1 Winner",
-      "slug": "lol-dk-kt-2026-08-09-game1",
-      "outcome": "KT Rolster",
-      "num_traders": 3,
-      "total_value": 57970.68,
-      "holders": [
-        {
-          "trader": "madwish355",
-          "roi": 0.5686,
-          "value": 20489.47,
-          "avg_price": 0.4355,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kedaya8888",
-          "roi": 0.2387,
-          "value": 19990,
-          "avg_price": 0.4574,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "elizabeth.ethcome",
-          "roi": 0.2227,
-          "value": 17491.21,
-          "avg_price": 0.5469,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -720,9 +639,10 @@
     "mlb-tb-sea-2026-08-08::Tampa Bay Rays": 3,
     "atp-fils-norrie-2026-08-08::Arthur Fils": 3,
     "lec-rsl-atla-2026-08-08-atla::No": 3,
-    "lol-dk-kt-2026-08-09::KT Rolster": 2,
-    "lol-dk-kt-2026-08-09::Dplus KIA": 2,
-    "lol-dk-kt-2026-08-09-game1::KT Rolster": 2
+    "lol-dk-kt-2026-08-09::KT Rolster": 3,
+    "lol-dk-kt-2026-08-09::Dplus KIA": 3,
+    "lol-dk-kt-2026-08-09-game1::KT Rolster": 3,
+    "cs2-1win-tl1-2026-08-09::Liquid": 1
   },
-  "updated_at": "2026-08-09T11:35:14.704152+00:00"
+  "updated_at": "2026-08-09T12:00:15.587305+00:00"
 }
