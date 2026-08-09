@@ -10813,7 +10813,7 @@
       "current_value": 217.98,
       "paper_pnl": 117.98,
       "return_percent": 117.98,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 11182.83,
       "traders": [
@@ -10821,7 +10821,8 @@
         "AnonymousUsername",
         "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
       ],
-      "url": "https://polymarket.com/event/mlb-bal-tex-2026-08-09-total-8pt5"
+      "url": "https://polymarket.com/event/mlb-bal-tex-2026-08-09-total-8pt5",
+      "consensus_lost_at": "2026-08-09T20:54:51.961066+00:00"
     },
     {
       "signal_id": "lol-jdg-we-2026-08-09-game2::JD Gaming",
@@ -10953,14 +10954,14 @@
       "slug": "mlb-min-mil-2026-08-09-total-7pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T15:51:07.735949+00:00",
-      "last_seen": "2026-08-09T20:14:11.870750+00:00",
+      "last_seen": "2026-08-09T20:54:51.961066+00:00",
       "entry_price": 0.445,
-      "current_price": 0.705,
+      "current_price": 0.455,
       "stake": 100.0,
       "shares": 224.719101,
-      "current_value": 158.43,
-      "paper_pnl": 58.43,
-      "return_percent": 58.43,
+      "current_value": 102.25,
+      "paper_pnl": 2.25,
+      "return_percent": 2.25,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 52097.39,
@@ -11020,7 +11021,55 @@
       ],
       "url": "https://polymarket.com/event/mlb-nym-pit-2026-08-09-total-8pt5",
       "consensus_lost_at": "2026-08-09T18:16:18.237678+00:00"
+    },
+    {
+      "signal_id": "val-gm-ep1-2026-08-09::Enterprise Esports",
+      "market": "Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins",
+      "slug": "val-gm-ep1-2026-08-09",
+      "side": "Enterprise Esports",
+      "alerted_at": "2026-08-09T20:54:51.961066+00:00",
+      "last_seen": "2026-08-09T20:54:51.961066+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 93248.84,
+      "traders": [
+        "greyoctober",
+        "WARNINGWARNINGWARNING",
+        "cigarettes"
+      ],
+      "url": "https://polymarket.com/event/val-gm-ep1-2026-08-09"
+    },
+    {
+      "signal_id": "bra-bah-vas-2026-08-09-bah::No",
+      "market": "Will EC Bahia win on 2026-08-09?",
+      "slug": "bra-bah-vas-2026-08-09-bah",
+      "side": "No",
+      "alerted_at": "2026-08-09T20:54:51.961066+00:00",
+      "last_seen": "2026-08-09T20:54:51.961066+00:00",
+      "entry_price": 0.871323,
+      "current_price": 0.871323,
+      "stake": 100.0,
+      "shares": 114.767955,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11545.81,
+      "traders": [
+        "us391",
+        "dv-pm",
+        "cigarettes"
+      ],
+      "url": "https://polymarket.com/event/bra-bah-vas-2026-08-09-bah"
     }
   ],
-  "updated_at": "2026-08-09T20:14:11.870750+00:00"
+  "updated_at": "2026-08-09T20:54:51.961066+00:00"
 }

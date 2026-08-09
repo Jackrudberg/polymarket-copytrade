@@ -1,36 +1,97 @@
 {
   "seen_ids": [
+    "val-gm-ep1-2026-08-09::Enterprise Esports",
     "mlb-min-mil-2026-08-09-total-7pt5::Over",
-    "mlb-oak-bos-2026-08-09::Boston Red Sox"
+    "bra-bah-vas-2026-08-09-bah::No"
   ],
   "signals": [
+    {
+      "market": "Valorant: Gentle Mates vs Enterprise Esports (BO3) - VCT EMEA Play-Ins",
+      "slug": "val-gm-ep1-2026-08-09",
+      "outcome": "Enterprise Esports",
+      "num_traders": 3,
+      "total_value": 93248.84,
+      "holders": [
+        {
+          "trader": "greyoctober",
+          "roi": 0.3146,
+          "value": 59121.01,
+          "avg_price": 0.405,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "WARNINGWARNINGWARNING",
+          "roi": 0.346,
+          "value": 31987.89,
+          "avg_price": 0.4052,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.3141,
+          "value": 2139.94,
+          "avg_price": 0.9036,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Minnesota Twins vs. Milwaukee Brewers: O/U 7.5",
       "slug": "mlb-min-mil-2026-08-09-total-7pt5",
       "outcome": "Over",
       "num_traders": 3,
-      "total_value": 82536.29,
+      "total_value": 53268.12,
       "holders": [
         {
           "trader": "Sassy-Bucket",
-          "roi": 0.2898,
-          "value": 70499.99,
+          "roi": 0.3261,
+          "value": 45500.0,
           "avg_price": 0.45,
-          "cur_price": 0.705
+          "cur_price": 0.455
         },
         {
           "trader": "ComingBack",
-          "roi": 0.1864,
-          "value": 10879.55,
+          "roi": 0.2542,
+          "value": 7021.56,
           "avg_price": 0.45,
-          "cur_price": 0.705
+          "cur_price": 0.455
         },
         {
           "trader": "sportmaster777",
-          "roi": 0.3241,
-          "value": 1156.75,
+          "roi": 0.3263,
+          "value": 746.56,
           "avg_price": 0.47,
-          "cur_price": 0.705
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will EC Bahia win on 2026-08-09?",
+      "slug": "bra-bah-vas-2026-08-09-bah",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 11545.81,
+      "holders": [
+        {
+          "trader": "us391",
+          "roi": 0.1617,
+          "value": 6909.77,
+          "avg_price": 0.5163,
+          "cur_price": 0.87
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2019,
+          "value": 4199.49,
+          "avg_price": 0.51,
+          "cur_price": 0.87
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.3141,
+          "value": 436.55,
+          "avg_price": 0.7387,
+          "cur_price": 0.905
         }
       ]
     },
@@ -590,7 +651,8 @@
     "mlb-nym-pit-2026-08-09-total-8pt5::Under": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "mlb-cin-wsh-2026-08-09::Washington Nationals": 3,
-    "mlb-bal-tex-2026-08-09-total-8pt5::Over": 1
+    "mlb-bal-tex-2026-08-09-total-8pt5::Over": 2,
+    "mlb-oak-bos-2026-08-09::Boston Red Sox": 1
   },
-  "updated_at": "2026-08-09T20:14:11.880524+00:00"
+  "updated_at": "2026-08-09T20:54:51.971226+00:00"
 }
