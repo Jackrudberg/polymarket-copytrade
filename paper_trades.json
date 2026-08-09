@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-09T16:21:26.471197+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
       "entry_price": 0.28,
       "current_price": 0.355,
       "stake": 100.0,
@@ -10805,7 +10805,7 @@
       "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T12:00:15.577304+00:00",
-      "last_seen": "2026-08-09T16:21:26.471197+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
       "entry_price": 0.445,
       "current_price": 0.475,
       "stake": 100.0,
@@ -10912,7 +10912,7 @@
       "current_value": 104.12,
       "paper_pnl": 4.12,
       "return_percent": 4.12,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 51841.16,
       "traders": [
@@ -10920,7 +10920,8 @@
         "sportmaster777",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/mlb-atl-nyy-2026-08-09-total-8pt5"
+      "url": "https://polymarket.com/event/mlb-atl-nyy-2026-08-09-total-8pt5",
+      "consensus_lost_at": "2026-08-09T17:02:43.235131+00:00"
     },
     {
       "signal_id": "mlb-oak-bos-2026-08-09::Boston Red Sox",
@@ -10928,7 +10929,7 @@
       "slug": "mlb-oak-bos-2026-08-09",
       "side": "Boston Red Sox",
       "alerted_at": "2026-08-09T15:15:01.180250+00:00",
-      "last_seen": "2026-08-09T16:21:26.471197+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
       "entry_price": 0.675,
       "current_price": 0.675,
       "stake": 100.0,
@@ -10952,7 +10953,7 @@
       "slug": "mlb-min-mil-2026-08-09-total-7pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T15:51:07.735949+00:00",
-      "last_seen": "2026-08-09T16:21:26.471197+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
       "entry_price": 0.445,
       "current_price": 0.445,
       "stake": 100.0,
@@ -10976,14 +10977,14 @@
       "slug": "mlb-cin-wsh-2026-08-09",
       "side": "Washington Nationals",
       "alerted_at": "2026-08-09T16:21:26.471197+00:00",
-      "last_seen": "2026-08-09T16:21:26.471197+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
       "entry_price": 0.555,
-      "current_price": 0.555,
+      "current_price": 0.674928,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 121.61,
+      "paper_pnl": 21.61,
+      "return_percent": 21.61,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 76997.24,
@@ -10993,7 +10994,31 @@
         "wr0ngw4yb3tt0r"
       ],
       "url": "https://polymarket.com/event/mlb-cin-wsh-2026-08-09"
+    },
+    {
+      "signal_id": "mlb-nym-pit-2026-08-09-total-8pt5::Under",
+      "market": "New York Mets vs. Pittsburgh Pirates: O/U 8.5",
+      "slug": "mlb-nym-pit-2026-08-09-total-8pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-09T17:02:43.235131+00:00",
+      "last_seen": "2026-08-09T17:02:43.235131+00:00",
+      "entry_price": 0.515,
+      "current_price": 0.515,
+      "stake": 100.0,
+      "shares": 194.174757,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 21630.37,
+      "traders": [
+        "dv-pm",
+        "wr0ngw4yb3tt0r",
+        "sportmaster777"
+      ],
+      "url": "https://polymarket.com/event/mlb-nym-pit-2026-08-09-total-8pt5"
     }
   ],
-  "updated_at": "2026-08-09T16:21:26.471197+00:00"
+  "updated_at": "2026-08-09T17:02:43.235131+00:00"
 }
