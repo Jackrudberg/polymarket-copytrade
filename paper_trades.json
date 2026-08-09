@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-09T12:00:15.577304+00:00",
+      "last_seen": "2026-08-09T13:09:47.410637+00:00",
       "entry_price": 0.28,
       "current_price": 0.355,
       "stake": 100.0,
@@ -10786,7 +10786,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1619.68,
       "traders": [
@@ -10794,7 +10794,8 @@
         "ohehe",
         "0xdbdd45150249e229eB4cA8aa48A30Dca21Faa5de-1757094771846"
       ],
-      "url": "https://polymarket.com/event/cs2-1win-tl1-2026-08-09"
+      "url": "https://polymarket.com/event/cs2-1win-tl1-2026-08-09",
+      "consensus_lost_at": "2026-08-09T13:09:47.410637+00:00"
     },
     {
       "signal_id": "mlb-bal-tex-2026-08-09-total-8pt5::Over",
@@ -10802,14 +10803,14 @@
       "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T12:00:15.577304+00:00",
-      "last_seen": "2026-08-09T12:00:15.577304+00:00",
+      "last_seen": "2026-08-09T13:09:47.410637+00:00",
       "entry_price": 0.445,
-      "current_price": 0.445,
+      "current_price": 0.465,
       "stake": 100.0,
       "shares": 224.719101,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 104.49,
+      "paper_pnl": 4.49,
+      "return_percent": 4.49,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 11182.83,
@@ -10819,7 +10820,55 @@
         "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
       ],
       "url": "https://polymarket.com/event/mlb-bal-tex-2026-08-09-total-8pt5"
+    },
+    {
+      "signal_id": "lol-jdg-we-2026-08-09-game2::JD Gaming",
+      "market": "LoL: JD Gaming vs Team WE - Game 2 Winner",
+      "slug": "lol-jdg-we-2026-08-09-game2",
+      "side": "JD Gaming",
+      "alerted_at": "2026-08-09T13:09:47.410637+00:00",
+      "last_seen": "2026-08-09T13:09:47.410637+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 34435.06,
+      "traders": [
+        "GonSaless",
+        "kedaya8888",
+        "madwish355"
+      ],
+      "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game2"
+    },
+    {
+      "signal_id": "bra-cru-mir-2026-08-09-cru::No",
+      "market": "Will Cruzeiro EC win on 2026-08-09?",
+      "slug": "bra-cru-mir-2026-08-09-cru",
+      "side": "No",
+      "alerted_at": "2026-08-09T13:09:47.410637+00:00",
+      "last_seen": "2026-08-09T13:09:47.410637+00:00",
+      "entry_price": 0.435,
+      "current_price": 0.435,
+      "stake": 100.0,
+      "shares": 229.885057,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2345.46,
+      "traders": [
+        "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+        "us391",
+        "riverskew"
+      ],
+      "url": "https://polymarket.com/event/bra-cru-mir-2026-08-09-cru"
     }
   ],
-  "updated_at": "2026-08-09T12:00:15.577304+00:00"
+  "updated_at": "2026-08-09T13:09:47.410637+00:00"
 }

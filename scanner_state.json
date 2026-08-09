@@ -1,9 +1,9 @@
 {
   "seen_ids": [
     "mlb-atl-cws-2026-06-11-total-8pt5::Under",
-    "cs2-vp-sashi-2026-08-09::Virtus.pro",
+    "lol-jdg-we-2026-08-09-game2::JD Gaming",
     "mlb-bal-tex-2026-08-09-total-8pt5::Over",
-    "cs2-jjh-dendel-2026-08-09::DENDELE CS"
+    "bra-cru-mir-2026-08-09-cru::No"
   ],
   "signals": [
     {
@@ -15,31 +15,121 @@
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2486,
+          "roi": 0.2493,
           "value": 8048.71,
           "avg_price": 0.48,
           "cur_price": 0.355
         },
         {
           "trader": "AV23IUa",
-          "roi": 0.6298,
+          "roi": 0.6308,
           "value": 7111.51,
           "avg_price": 0.4991,
           "cur_price": 0.355
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.2828,
+          "roi": 0.267,
           "value": 1436.68,
           "avg_price": 0.48,
           "cur_price": 0.355
         },
         {
           "trader": "riverskew",
-          "roi": 0.4319,
+          "roi": 0.4029,
           "value": 177.5,
           "avg_price": 0.47,
           "cur_price": 0.355
+        }
+      ]
+    },
+    {
+      "market": "LoL: JD Gaming vs Team WE - Game 2 Winner",
+      "slug": "lol-jdg-we-2026-08-09-game2",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 34435.06,
+      "holders": [
+        {
+          "trader": "GonSaless",
+          "roi": 0.4504,
+          "value": 13623.74,
+          "avg_price": 0.6,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.1627,
+          "value": 10816.32,
+          "avg_price": 0.5976,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.175,
+          "value": 9995,
+          "avg_price": 0.88,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 23646.23,
+      "holders": [
+        {
+          "trader": "0way",
+          "roi": 0.4459,
+          "value": 23250.0,
+          "avg_price": 0.44,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.267,
+          "value": 279.93,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2233,
+          "value": 116.3,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will Cruzeiro EC win on 2026-08-09?",
+      "slug": "bra-cru-mir-2026-08-09-cru",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 2345.46,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2233,
+          "value": 1439.02,
+          "avg_price": 0.42,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "us391",
+          "roi": 0.4094,
+          "value": 786.17,
+          "avg_price": 0.43,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "riverskew",
+          "roi": 0.4029,
+          "value": 120.27,
+          "avg_price": 0.4249,
+          "cur_price": 0.435
         }
       ]
     },
@@ -70,36 +160,6 @@
           "value": 159.13,
           "avg_price": 0.531,
           "cur_price": 0.298
-        }
-      ]
-    },
-    {
-      "market": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
-      "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 11182.83,
-      "holders": [
-        {
-          "trader": "0way",
-          "roi": 0.9799,
-          "value": 10803.64,
-          "avg_price": 0.44,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2828,
-          "value": 267.89,
-          "avg_price": 0.48,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2518,
-          "value": 111.3,
-          "avg_price": 0.46,
-          "cur_price": 0.445
         }
       ]
     },
@@ -642,7 +702,9 @@
     "lol-dk-kt-2026-08-09::KT Rolster": 3,
     "lol-dk-kt-2026-08-09::Dplus KIA": 3,
     "lol-dk-kt-2026-08-09-game1::KT Rolster": 3,
-    "cs2-1win-tl1-2026-08-09::Liquid": 1
+    "cs2-1win-tl1-2026-08-09::Liquid": 2,
+    "cs2-vp-sashi-2026-08-09::Virtus.pro": 1,
+    "cs2-jjh-dendel-2026-08-09::DENDELE CS": 1
   },
-  "updated_at": "2026-08-09T12:00:15.587305+00:00"
+  "updated_at": "2026-08-09T13:09:47.420743+00:00"
 }
