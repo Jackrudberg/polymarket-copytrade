@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-08T23:44:03.851844+00:00",
+      "last_seen": "2026-08-09T00:35:07.606078+00:00",
       "entry_price": 0.28,
       "current_price": 0.39,
       "stake": 100.0,
@@ -10528,14 +10528,14 @@
       "slug": "mlb-cin-wsh-2026-08-08",
       "side": "Washington Nationals",
       "alerted_at": "2026-08-08T22:41:56.109234+00:00",
-      "last_seen": "2026-08-08T23:08:04.642929+00:00",
+      "last_seen": "2026-08-09T00:35:07.606078+00:00",
       "entry_price": 0.445,
-      "current_price": 0.465,
+      "current_price": 0.945,
       "stake": 100.0,
       "shares": 224.719101,
-      "current_value": 104.49,
-      "paper_pnl": 4.49,
-      "return_percent": 4.49,
+      "current_value": 212.36,
+      "paper_pnl": 112.36,
+      "return_percent": 112.36,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 78586.5,
@@ -10560,7 +10560,7 @@
       "current_value": 97.44,
       "paper_pnl": -2.56,
       "return_percent": -2.56,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 70122.07,
       "traders": [
@@ -10568,7 +10568,8 @@
         "Sassy-Bucket",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/mlb-tor-phi-2026-08-08-total-9pt5"
+      "url": "https://polymarket.com/event/mlb-tor-phi-2026-08-08-total-9pt5",
+      "consensus_lost_at": "2026-08-09T00:35:07.606078+00:00"
     },
     {
       "signal_id": "mlb-oak-bos-2026-08-08-total-9pt5::Over",
@@ -10584,7 +10585,7 @@
       "current_value": 243.78,
       "paper_pnl": 143.78,
       "return_percent": 143.78,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 55739.14,
       "traders": [
@@ -10592,7 +10593,8 @@
         "pleaseplease123",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/mlb-oak-bos-2026-08-08-total-9pt5"
+      "url": "https://polymarket.com/event/mlb-oak-bos-2026-08-08-total-9pt5",
+      "consensus_lost_at": "2026-08-09T00:35:07.606078+00:00"
     },
     {
       "signal_id": "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
@@ -10600,14 +10602,14 @@
       "slug": "atp-rinderk-nakashi-2026-08-08",
       "side": "Brandon Nakashima",
       "alerted_at": "2026-08-08T23:44:03.851844+00:00",
-      "last_seen": "2026-08-08T23:44:03.851844+00:00",
+      "last_seen": "2026-08-09T00:35:07.606078+00:00",
       "entry_price": 0.52,
-      "current_price": 0.52,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 192.307692,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 192.21,
+      "paper_pnl": 92.21,
+      "return_percent": 92.21,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 28783.51,
@@ -10617,7 +10619,31 @@
         "jtwyslljy"
       ],
       "url": "https://polymarket.com/event/atp-rinderk-nakashi-2026-08-08"
+    },
+    {
+      "signal_id": "mlb-tor-phi-2026-08-08-total-9pt5::Under",
+      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-09T00:35:07.606078+00:00",
+      "last_seen": "2026-08-09T00:35:07.606078+00:00",
+      "entry_price": 0.85,
+      "current_price": 0.85,
+      "stake": 100.0,
+      "shares": 117.647059,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 55333.2,
+      "traders": [
+        "pleaseplease123",
+        "quavoo",
+        "EvenMoneyBonds"
+      ],
+      "url": "https://polymarket.com/event/mlb-tor-phi-2026-08-08-total-9pt5"
     }
   ],
-  "updated_at": "2026-08-08T23:44:03.851844+00:00"
+  "updated_at": "2026-08-09T00:35:07.606078+00:00"
 }

@@ -1,36 +1,98 @@
 {
   "seen_ids": [
+    "mlb-cin-wsh-2026-08-08::Washington Nationals",
+    "mlb-tor-phi-2026-08-08-total-9pt5::Under",
     "atp-rinderk-nakashi-2026-08-08::Brandon Nakashima",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under"
   ],
   "signals": [
     {
+      "market": "Cincinnati Reds vs. Washington Nationals",
+      "slug": "mlb-cin-wsh-2026-08-08",
+      "outcome": "Washington Nationals",
+      "num_traders": 3,
+      "total_value": 169743.72,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1598,
+          "value": 104293.14,
+          "avg_price": 0.43,
+          "cur_price": 0.945
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5501,
+          "value": 43972.64,
+          "avg_price": 0.44,
+          "cur_price": 0.945
+        },
+        {
+          "trader": "Bulls94",
+          "roi": 0.6197,
+          "value": 21477.94,
+          "avg_price": 0.44,
+          "cur_price": 0.945
+        }
+      ]
+    },
+    {
+      "market": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 9.5",
+      "slug": "mlb-tor-phi-2026-08-08-total-9pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 55333.2,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1598,
+          "value": 51090.85,
+          "avg_price": 0.52,
+          "cur_price": 0.85
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.4861,
+          "value": 4114.85,
+          "avg_price": 0.53,
+          "cur_price": 0.85
+        },
+        {
+          "trader": "EvenMoneyBonds",
+          "roi": 0.1511,
+          "value": 127.5,
+          "avg_price": 0.87,
+          "cur_price": 0.85
+        }
+      ]
+    },
+    {
       "market": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
       "slug": "atp-rinderk-nakashi-2026-08-08",
       "outcome": "Brandon Nakashima",
       "num_traders": 3,
-      "total_value": 28783.51,
+      "total_value": 55325.22,
       "holders": [
         {
           "trader": "AV23IUa",
-          "roi": 0.3084,
-          "value": 25999.9,
+          "roi": 0.255,
+          "value": 49974.81,
           "avg_price": 0.66,
-          "cur_price": 0.52
+          "cur_price": 0.9995
         },
         {
           "trader": "EvenMoneyBonds",
-          "roi": 0.1531,
-          "value": 2107.75,
+          "roi": 0.1511,
+          "value": 4051.33,
           "avg_price": 0.49,
-          "cur_price": 0.52
+          "cur_price": 0.9995
         },
         {
           "trader": "jtwyslljy",
-          "roi": 0.2216,
-          "value": 675.86,
+          "roi": 0.2217,
+          "value": 1299.08,
           "avg_price": 0.65,
-          "cur_price": 0.52
+          "cur_price": 0.9995
         }
       ]
     },
@@ -43,21 +105,21 @@
       "holders": [
         {
           "trader": "AV23IUa",
-          "roi": 0.3084,
+          "roi": 0.255,
           "value": 7812.65,
           "avg_price": 0.4991,
           "cur_price": 0.39
         },
         {
           "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.7816,
+          "roi": 0.7996,
           "value": 1021.22,
           "avg_price": 0.48,
           "cur_price": 0.39
         },
         {
           "trader": "SDTrading",
-          "roi": 0.4046,
+          "roi": 0.2933,
           "value": 979.64,
           "avg_price": 0.39,
           "cur_price": 0.39
@@ -91,36 +153,6 @@
           "value": 3847.08,
           "avg_price": 0.45,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Washington Nationals",
-      "slug": "mlb-cin-wsh-2026-08-08",
-      "outcome": "Washington Nationals",
-      "num_traders": 3,
-      "total_value": 83524.69,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1721,
-          "value": 51318.85,
-          "avg_price": 0.43,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.7602,
-          "value": 21637.33,
-          "avg_price": 0.44,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "Bulls94",
-          "roi": 0.7699,
-          "value": 10568.51,
-          "avg_price": 0.44,
-          "cur_price": 0.465
         }
       ]
     },
@@ -622,9 +654,8 @@
     "mlb-cle-cws-2026-08-08-total-7pt5::Under": 3,
     "mlb-atl-nyy-2026-08-08::Atlanta Braves": 3,
     "wnba-ind-chi-2026-08-08-total-190pt5::Under": 3,
-    "mlb-oak-bos-2026-08-08-total-9pt5::Over": 1,
-    "mlb-cin-wsh-2026-08-08::Washington Nationals": 1,
-    "mlb-tor-phi-2026-08-08-total-9pt5::Over": 1
+    "mlb-oak-bos-2026-08-08-total-9pt5::Over": 2,
+    "mlb-tor-phi-2026-08-08-total-9pt5::Over": 2
   },
-  "updated_at": "2026-08-08T23:44:03.857892+00:00"
+  "updated_at": "2026-08-09T00:35:07.615824+00:00"
 }
