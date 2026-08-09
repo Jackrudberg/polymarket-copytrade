@@ -11038,7 +11038,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 93248.84,
       "traders": [
@@ -11046,7 +11046,8 @@
         "WARNINGWARNINGWARNING",
         "cigarettes"
       ],
-      "url": "https://polymarket.com/event/val-gm-ep1-2026-08-09"
+      "url": "https://polymarket.com/event/val-gm-ep1-2026-08-09",
+      "consensus_lost_at": "2026-08-09T22:43:58.591005+00:00"
     },
     {
       "signal_id": "bra-bah-vas-2026-08-09-bah::No",
@@ -11079,7 +11080,7 @@
       "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
       "side": "Yes",
       "alerted_at": "2026-08-09T21:30:55.714816+00:00",
-      "last_seen": "2026-08-09T22:01:37.020830+00:00",
+      "last_seen": "2026-08-09T22:43:58.591005+00:00",
       "entry_price": 0.0805,
       "current_price": 0.0805,
       "stake": 100.0,
@@ -11103,7 +11104,7 @@
       "slug": "bra-pal-int-2026-08-09-pal",
       "side": "No",
       "alerted_at": "2026-08-09T21:30:55.714816+00:00",
-      "last_seen": "2026-08-09T22:01:37.020830+00:00",
+      "last_seen": "2026-08-09T22:43:58.591005+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11144,7 +11145,55 @@
         "ComingBack"
       ],
       "url": "https://polymarket.com/event/mlb-lad-ari-2026-08-09"
+    },
+    {
+      "signal_id": "arg-def-new-2026-08-09-def::Yes",
+      "market": "Will CSyD Defensa y Justicia win on 2026-08-09?",
+      "slug": "arg-def-new-2026-08-09-def",
+      "side": "Yes",
+      "alerted_at": "2026-08-09T22:43:58.591005+00:00",
+      "last_seen": "2026-08-09T22:43:58.591005+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 81526.2,
+      "traders": [
+        "theowalcott",
+        "riverskew",
+        "cigarettes"
+      ],
+      "url": "https://polymarket.com/event/arg-def-new-2026-08-09-def"
+    },
+    {
+      "signal_id": "mlb-det-sf-2026-08-09::San Francisco Giants",
+      "market": "Detroit Tigers vs. San Francisco Giants",
+      "slug": "mlb-det-sf-2026-08-09",
+      "side": "San Francisco Giants",
+      "alerted_at": "2026-08-09T22:43:58.591005+00:00",
+      "last_seen": "2026-08-09T22:43:58.591005+00:00",
+      "entry_price": 0.105,
+      "current_price": 0.105,
+      "stake": 100.0,
+      "shares": 952.380952,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11147.4,
+      "traders": [
+        "Weaseloftheweek",
+        "BreakTheBank",
+        "kkookkoo"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-sf-2026-08-09"
     }
   ],
-  "updated_at": "2026-08-09T22:01:37.020830+00:00"
+  "updated_at": "2026-08-09T22:43:58.591005+00:00"
 }
