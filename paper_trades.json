@@ -2592,7 +2592,7 @@
       "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-07-19T11:45:48.877595+00:00",
-      "last_seen": "2026-08-09T15:15:01.180250+00:00",
+      "last_seen": "2026-08-09T15:51:07.735949+00:00",
       "entry_price": 0.28,
       "current_price": 0.355,
       "stake": 100.0,
@@ -10805,7 +10805,7 @@
       "slug": "mlb-bal-tex-2026-08-09-total-8pt5",
       "side": "Over",
       "alerted_at": "2026-08-09T12:00:15.577304+00:00",
-      "last_seen": "2026-08-09T15:15:01.180250+00:00",
+      "last_seen": "2026-08-09T15:51:07.735949+00:00",
       "entry_price": 0.445,
       "current_price": 0.475,
       "stake": 100.0,
@@ -10887,7 +10887,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 40015.16,
       "traders": [
@@ -10895,7 +10895,8 @@
         "hurrican",
         "retroactivesource"
       ],
-      "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game1"
+      "url": "https://polymarket.com/event/lol-jdg-we-2026-08-09-game1",
+      "consensus_lost_at": "2026-08-09T15:51:07.735949+00:00"
     },
     {
       "signal_id": "mlb-atl-nyy-2026-08-09-total-8pt5::Under",
@@ -10903,14 +10904,14 @@
       "slug": "mlb-atl-nyy-2026-08-09-total-8pt5",
       "side": "Under",
       "alerted_at": "2026-08-09T15:15:01.180250+00:00",
-      "last_seen": "2026-08-09T15:15:01.180250+00:00",
+      "last_seen": "2026-08-09T15:51:07.735949+00:00",
       "entry_price": 0.485,
-      "current_price": 0.485,
+      "current_price": 0.505,
       "stake": 100.0,
       "shares": 206.185567,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 104.12,
+      "paper_pnl": 4.12,
+      "return_percent": 4.12,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 51841.16,
@@ -10927,7 +10928,7 @@
       "slug": "mlb-oak-bos-2026-08-09",
       "side": "Boston Red Sox",
       "alerted_at": "2026-08-09T15:15:01.180250+00:00",
-      "last_seen": "2026-08-09T15:15:01.180250+00:00",
+      "last_seen": "2026-08-09T15:51:07.735949+00:00",
       "entry_price": 0.675,
       "current_price": 0.675,
       "stake": 100.0,
@@ -10944,7 +10945,31 @@
         "kkookkoo"
       ],
       "url": "https://polymarket.com/event/mlb-oak-bos-2026-08-09"
+    },
+    {
+      "signal_id": "mlb-min-mil-2026-08-09-total-7pt5::Over",
+      "market": "Minnesota Twins vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-min-mil-2026-08-09-total-7pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-09T15:51:07.735949+00:00",
+      "last_seen": "2026-08-09T15:51:07.735949+00:00",
+      "entry_price": 0.445,
+      "current_price": 0.445,
+      "stake": 100.0,
+      "shares": 224.719101,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 52097.39,
+      "traders": [
+        "Sassy-Bucket",
+        "ComingBack",
+        "sportmaster777"
+      ],
+      "url": "https://polymarket.com/event/mlb-min-mil-2026-08-09-total-7pt5"
     }
   ],
-  "updated_at": "2026-08-09T15:15:01.180250+00:00"
+  "updated_at": "2026-08-09T15:51:07.735949+00:00"
 }
