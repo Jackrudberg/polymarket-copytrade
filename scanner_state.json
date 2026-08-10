@@ -1,6 +1,69 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-hle1-gen-2026-08-10::Gen.G",
+    "lec-sdg-tij-2026-08-09-sdg::Yes"
+  ],
   "signals": [
+    {
+      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
+      "slug": "lol-hle1-gen-2026-08-10",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 13823.71,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.8503,
+          "value": 13222.05,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.3879,
+          "value": 332.72,
+          "avg_price": 0.5207,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5345,
+          "value": 268.94,
+          "avg_price": 0.4791,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Will San Diego FC win on 2026-08-09?",
+      "slug": "lec-sdg-tij-2026-08-09-sdg",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8314.31,
+      "holders": [
+        {
+          "trader": "oudine2",
+          "roi": 0.4586,
+          "value": 4997.49,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5345,
+          "value": 2173.91,
+          "avg_price": 0.486,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x40fF11feAf68885ad735C4f4ae3d4750711831cD-1767649507049",
+          "roi": 0.646,
+          "value": 1142.91,
+          "avg_price": 0.4599,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will CSyD Defensa y Justicia win on 2026-08-09?",
       "slug": "arg-def-new-2026-08-09-def",
@@ -58,36 +121,6 @@
           "value": 1381.99,
           "avg_price": 0.0513,
           "cur_price": 0.0805
-        }
-      ]
-    },
-    {
-      "market": "Will SE Palmeiras win on 2026-08-09?",
-      "slug": "bra-pal-int-2026-08-09-pal",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3515.01,
-      "holders": [
-        {
-          "trader": "us391",
-          "roi": 0.155,
-          "value": 2523.48,
-          "avg_price": 0.37,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4077,
-          "value": 501.6,
-          "avg_price": 0.3802,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.2618,
-          "value": 489.93,
-          "avg_price": 0.9372,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -587,9 +620,9 @@
     "val-gm-ep1-2026-08-09::Enterprise Esports": 3,
     "mlb-lad-ari-2026-08-09::Arizona Diamondbacks": 3,
     "mlb-det-sf-2026-08-09::San Francisco Giants": 3,
-    "bra-pal-int-2026-08-09-pal::No": 2,
-    "arg-def-new-2026-08-09-def::Yes": 1,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 1
+    "bra-pal-int-2026-08-09-pal::No": 3,
+    "arg-def-new-2026-08-09-def::Yes": 2,
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 2
   },
-  "updated_at": "2026-08-10T02:59:29.289065+00:00"
+  "updated_at": "2026-08-10T04:47:14.918037+00:00"
 }
