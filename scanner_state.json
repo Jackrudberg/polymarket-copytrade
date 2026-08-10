@@ -1,48 +1,40 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "lol-lev-red-2026-08-10::Leviatan Esports",
-    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No"
+    "lol-lev-red-2026-08-10::Leviatan Esports"
   ],
   "signals": [
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 374617.26,
+      "num_traders": 4,
+      "total_value": 253656.44,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.5164,
+          "roi": 0.4919,
           "value": 248980.6,
           "avg_price": 0.4668,
           "cur_price": 0.435
         },
         {
-          "trader": "ThePrinceThatWasPromised",
-          "roi": 0.1589,
-          "value": 120960.82,
-          "avg_price": 0.4262,
-          "cur_price": 0.435
-        },
-        {
           "trader": "quavoo",
-          "roi": 0.3195,
+          "roi": 0.3025,
           "value": 2062.34,
           "avg_price": 0.482,
           "cur_price": 0.435
         },
         {
           "trader": "purplegatto",
-          "roi": 0.3977,
+          "roi": 0.3916,
           "value": 1557.73,
           "avg_price": 0.5893,
           "cur_price": 0.435
         },
         {
           "trader": "donthackme",
-          "roi": 0.1841,
+          "roi": 0.1831,
           "value": 1055.77,
           "avg_price": 0.2,
           "cur_price": 0.435
@@ -54,35 +46,35 @@
       "slug": "lol-lev-red-2026-08-10",
       "outcome": "Leviatan Esports",
       "num_traders": 4,
-      "total_value": 5691.95,
+      "total_value": 20440.68,
       "holders": [
         {
           "trader": "BrotherObama",
-          "roi": 0.3929,
-          "value": 2863.64,
+          "roi": 0.3331,
+          "value": 10090.91,
           "avg_price": 0.1099,
-          "cur_price": 0.105
+          "cur_price": 0.37
         },
         {
           "trader": "thecomplicatedguy",
-          "roi": 0.1772,
-          "value": 2113.13,
+          "roi": 0.1762,
+          "value": 7446.27,
           "avg_price": 0.135,
-          "cur_price": 0.105
+          "cur_price": 0.37
         },
         {
           "trader": "Wealthfreedom001",
-          "roi": 0.2551,
-          "value": 388.74,
+          "roi": 0.2387,
+          "value": 1657.71,
           "avg_price": 0.1,
-          "cur_price": 0.105
+          "cur_price": 0.37
         },
         {
           "trader": "quavoo",
-          "roi": 0.3195,
-          "value": 326.44,
+          "roi": 0.3025,
+          "value": 1245.79,
           "avg_price": 0.11,
-          "cur_price": 0.105
+          "cur_price": 0.37
         }
       ]
     },
@@ -113,103 +105,6 @@
           "value": 674.38,
           "avg_price": 0.9793,
           "cur_price": 0.9845
-        }
-      ]
-    },
-    {
-      "market": "LoL: SK Gaming vs Team Vitality - Game 2 Winner",
-      "slug": "lol-sk-vit-2026-08-10-game2",
-      "outcome": "Team Vitality",
-      "num_traders": 4,
-      "total_value": 19227.51,
-      "holders": [
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.1759,
-          "value": 9310.81,
-          "avg_price": 0.5699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BajaBlaster",
-          "roi": 0.234,
-          "value": 4586.37,
-          "avg_price": 0.8585,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "momijidan",
-          "roi": 0.2336,
-          "value": 3331.33,
-          "avg_price": 0.58,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xiaoqiaxiaoqia",
-          "roi": 0.2425,
-          "value": 1999,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs G2 Esports - Game 1 Winner",
-      "slug": "lol-navi-g2-2026-08-10-game1",
-      "outcome": "G2 Esports",
-      "num_traders": 3,
-      "total_value": 47627.21,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.196,
-          "value": 34018.4,
-          "avg_price": 0.7141,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.1759,
-          "value": 11609.81,
-          "avg_price": 0.58,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xiaoqiaxiaoqia",
-          "roi": 0.2425,
-          "value": 1999,
-          "avg_price": 0.59,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: SK Gaming vs Team Vitality - Game 1 Winner",
-      "slug": "lol-sk-vit-2026-08-10-game1",
-      "outcome": "Team Vitality",
-      "num_traders": 3,
-      "total_value": 41537.37,
-      "holders": [
-        {
-          "trader": "ThornyDevil",
-          "roi": 0.1759,
-          "value": 24805.91,
-          "avg_price": 0.5884,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BajaBlaster",
-          "roi": 0.234,
-          "value": 15559.14,
-          "avg_price": 0.6917,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xiaoqiaxiaoqia",
-          "roi": 0.2425,
-          "value": 1172.32,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -728,9 +623,10 @@
     "lol-navi-g2-2026-08-10::Natus Vincere": 3,
     "lol-gen-dnf-2026-08-10-game1::DN SOOPers": 3,
     "lol-navi-g2-2026-08-10-game2::G2 Esports": 3,
-    "lol-sk-vit-2026-08-10-game2::Team Vitality": 2,
-    "lol-navi-g2-2026-08-10-game1::G2 Esports": 2,
-    "lol-sk-vit-2026-08-10-game1::Team Vitality": 2
+    "lol-sk-vit-2026-08-10-game2::Team Vitality": 3,
+    "lol-navi-g2-2026-08-10-game1::G2 Esports": 3,
+    "lol-sk-vit-2026-08-10-game1::Team Vitality": 3,
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 1
   },
-  "updated_at": "2026-08-10T20:57:07.595813+00:00"
+  "updated_at": "2026-08-10T21:48:11.127879+00:00"
 }
