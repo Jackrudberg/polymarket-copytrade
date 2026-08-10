@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T14:01:17.462762+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
       "entry_price": 0.505,
       "current_price": 0.375,
       "stake": 100.0,
@@ -11323,7 +11323,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20584.48,
       "traders": [
@@ -11331,7 +11331,8 @@
         "lzh1",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/lol-dnsc-ktc-2026-08-10"
+      "url": "https://polymarket.com/event/lol-dnsc-ktc-2026-08-10",
+      "consensus_lost_at": "2026-08-10T15:10:39.345318+00:00"
     },
     {
       "signal_id": "swe-vas-dju-2026-08-10-dju::Yes",
@@ -11339,14 +11340,14 @@
       "slug": "swe-vas-dju-2026-08-10-dju",
       "side": "Yes",
       "alerted_at": "2026-08-10T10:49:13.907699+00:00",
-      "last_seen": "2026-08-10T14:01:17.462762+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
       "entry_price": 0.5649,
-      "current_price": 0.5649,
+      "current_price": 0.575,
       "stake": 100.0,
       "shares": 177.022482,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 101.79,
+      "paper_pnl": 1.79,
+      "return_percent": 1.79,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7863.27,
@@ -11396,7 +11397,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 103189.23,
       "traders": [
@@ -11404,7 +11405,8 @@
         "momijidan",
         "0x5dd9da"
       ],
-      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game2"
+      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game2",
+      "consensus_lost_at": "2026-08-10T15:10:39.345318+00:00"
     },
     {
       "signal_id": "lol-gen-dnf-2026-08-10-game1::DN SOOPers",
@@ -11412,7 +11414,7 @@
       "slug": "lol-gen-dnf-2026-08-10-game1",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T12:31:27.232565+00:00",
-      "last_seen": "2026-08-10T14:01:17.462762+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
       "entry_price": 0.865,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11436,7 +11438,7 @@
       "slug": "lol-gen-dnf-2026-08-10",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T14:01:17.462762+00:00",
-      "last_seen": "2026-08-10T14:01:17.462762+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11454,7 +11456,57 @@
         "BrotherObama"
       ],
       "url": "https://polymarket.com/event/lol-gen-dnf-2026-08-10"
+    },
+    {
+      "signal_id": "lol-sk-vit-2026-08-10::SK Gaming",
+      "market": "LoL: SK Gaming vs Team Vitality (BO3) - LEC Regular Season",
+      "slug": "lol-sk-vit-2026-08-10",
+      "side": "SK Gaming",
+      "alerted_at": "2026-08-10T15:10:39.345318+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
+      "entry_price": 0.335,
+      "current_price": 0.335,
+      "stake": 100.0,
+      "shares": 298.507463,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 10053.61,
+      "traders": [
+        "lzh1",
+        "thecomplicatedguy",
+        "Wealthfreedom001",
+        "quavoo",
+        "mythos1.8"
+      ],
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10"
+    },
+    {
+      "signal_id": "lol-sk-vit-2026-08-10-game1::SK Gaming",
+      "market": "LoL: SK Gaming vs Team Vitality - Game 1 Winner",
+      "slug": "lol-sk-vit-2026-08-10-game1",
+      "side": "SK Gaming",
+      "alerted_at": "2026-08-10T15:10:39.345318+00:00",
+      "last_seen": "2026-08-10T15:10:39.345318+00:00",
+      "entry_price": 0.384074,
+      "current_price": 0.384074,
+      "stake": 100.0,
+      "shares": 260.366591,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 7432.73,
+      "traders": [
+        "Lakersfan111",
+        "momijidan",
+        "Wealthfreedom001"
+      ],
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game1"
     }
   ],
-  "updated_at": "2026-08-10T14:01:17.462762+00:00"
+  "updated_at": "2026-08-10T15:10:39.345318+00:00"
 }
