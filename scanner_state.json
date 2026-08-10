@@ -1,45 +1,80 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "lol-sk-vit-2026-08-10-game2::Team Vitality",
-    "lol-navi-g2-2026-08-10-game1::G2 Esports",
-    "lol-sk-vit-2026-08-10-game1::Team Vitality"
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No"
   ],
   "signals": [
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 252133.94,
+      "num_traders": 5,
+      "total_value": 374399.76,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3731,
-          "value": 247458.1,
-          "avg_price": 0.467,
+          "roi": 0.5435,
+          "value": 248763.1,
+          "avg_price": 0.4668,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "ThePrinceThatWasPromised",
+          "roi": 0.1667,
+          "value": 120960.82,
+          "avg_price": 0.4262,
           "cur_price": 0.435
         },
         {
           "trader": "quavoo",
-          "roi": 0.387,
+          "roi": 0.3264,
           "value": 2062.34,
           "avg_price": 0.482,
           "cur_price": 0.435
         },
         {
           "trader": "purplegatto",
-          "roi": 0.418,
+          "roi": 0.4046,
           "value": 1557.73,
           "avg_price": 0.5893,
           "cur_price": 0.435
         },
         {
           "trader": "donthackme",
-          "roi": 0.1977,
+          "roi": 0.1822,
           "value": 1055.77,
           "avg_price": 0.2,
           "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1202202.16,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.5435,
+          "value": 699299.33,
+          "avg_price": 0.9611,
+          "cur_price": 0.9865
+        },
+        {
+          "trader": "ThePrinceThatWasPromised",
+          "roi": 0.1667,
+          "value": 502227.08,
+          "avg_price": 0.9822,
+          "cur_price": 0.9865
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.4046,
+          "value": 675.75,
+          "avg_price": 0.9793,
+          "cur_price": 0.9865
         }
       ]
     },
@@ -315,36 +350,6 @@
           "value": 4659.52,
           "avg_price": 0.6345,
           "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs G2 Esports - Game 1 Winner",
-      "slug": "lol-navi-g2-2026-08-10-game1",
-      "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 12707.66,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.5248,
-          "value": 7885.5,
-          "avg_price": 0.2963,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "BajaBlaster",
-          "roi": 0.4539,
-          "value": 4361.79,
-          "avg_price": 0.3767,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "LOL-eric",
-          "roi": 0.1673,
-          "value": 460.37,
-          "avg_price": 0.56,
-          "cur_price": 0.42
         }
       ]
     }
@@ -857,12 +862,15 @@
     "lol-dnf-drx-2026-08-10::DN SOOPers": 3,
     "lol-sk-vit-2026-08-10-game1::SK Gaming": 3,
     "lol-sk-vit-2026-08-10::SK Gaming": 3,
-    "lol-navi-g2-2026-08-10-game1::Natus Vincere": 2,
-    "lol-gen-dnf-2026-08-10::DN SOOPers": 1,
-    "swe-vas-dju-2026-08-10-dju::Yes": 1,
-    "lol-navi-g2-2026-08-10::Natus Vincere": 1,
-    "lol-gen-dnf-2026-08-10-game1::DN SOOPers": 1,
-    "lol-navi-g2-2026-08-10-game2::G2 Esports": 1
+    "lol-navi-g2-2026-08-10-game1::Natus Vincere": 3,
+    "lol-gen-dnf-2026-08-10::DN SOOPers": 2,
+    "swe-vas-dju-2026-08-10-dju::Yes": 2,
+    "lol-navi-g2-2026-08-10::Natus Vincere": 2,
+    "lol-gen-dnf-2026-08-10-game1::DN SOOPers": 2,
+    "lol-navi-g2-2026-08-10-game2::G2 Esports": 2,
+    "lol-sk-vit-2026-08-10-game2::Team Vitality": 1,
+    "lol-navi-g2-2026-08-10-game1::G2 Esports": 1,
+    "lol-sk-vit-2026-08-10-game1::Team Vitality": 1
   },
-  "updated_at": "2026-08-10T19:11:05.258598+00:00"
+  "updated_at": "2026-08-10T20:02:52.483841+00:00"
 }
