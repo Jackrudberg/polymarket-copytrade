@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
       "entry_price": 0.505,
       "current_price": 0.415,
       "stake": 100.0,
@@ -11341,14 +11341,14 @@
       "slug": "swe-vas-dju-2026-08-10-dju",
       "side": "Yes",
       "alerted_at": "2026-08-10T10:49:13.907699+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
       "entry_price": 0.5649,
-      "current_price": 0.65,
+      "current_price": 0.235,
       "stake": 100.0,
       "shares": 177.022482,
-      "current_value": 115.06,
-      "paper_pnl": 15.06,
-      "return_percent": 15.06,
+      "current_value": 41.6,
+      "paper_pnl": -58.4,
+      "return_percent": -58.4,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7863.27,
@@ -11415,7 +11415,7 @@
       "slug": "lol-gen-dnf-2026-08-10-game1",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T12:31:27.232565+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
       "entry_price": 0.865,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11439,7 +11439,7 @@
       "slug": "lol-gen-dnf-2026-08-10",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T14:01:17.462762+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11472,7 +11472,7 @@
       "current_value": 49.25,
       "paper_pnl": -50.75,
       "return_percent": -50.75,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 10053.61,
       "traders": [
@@ -11482,7 +11482,8 @@
         "quavoo",
         "mythos1.8"
       ],
-      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10"
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10",
+      "consensus_lost_at": "2026-08-10T18:02:47.529155+00:00"
     },
     {
       "signal_id": "lol-sk-vit-2026-08-10-game1::SK Gaming",
@@ -11563,14 +11564,14 @@
       "slug": "lol-navi-g2-2026-08-10",
       "side": "Natus Vincere",
       "alerted_at": "2026-08-10T17:08:34.790438+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
       "entry_price": 0.255,
-      "current_price": 0.255,
+      "current_price": 0.115,
       "stake": 100.0,
       "shares": 392.156863,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 45.1,
+      "paper_pnl": -54.9,
+      "return_percent": -54.9,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7008.45,
@@ -11580,7 +11581,31 @@
         "quavoo"
       ],
       "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10"
+    },
+    {
+      "signal_id": "lol-navi-g2-2026-08-10-game2::G2 Esports",
+      "market": "LoL: Natus Vincere vs G2 Esports - Game 2 Winner",
+      "slug": "lol-navi-g2-2026-08-10-game2",
+      "side": "G2 Esports",
+      "alerted_at": "2026-08-10T18:02:47.529155+00:00",
+      "last_seen": "2026-08-10T18:02:47.529155+00:00",
+      "entry_price": 0.628975,
+      "current_price": 0.628975,
+      "stake": 100.0,
+      "shares": 158.988788,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 17654.57,
+      "traders": [
+        "LOL-eric",
+        "Lakersfan111",
+        "ThornyDevil"
+      ],
+      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game2"
     }
   ],
-  "updated_at": "2026-08-10T17:08:34.790438+00:00"
+  "updated_at": "2026-08-10T18:02:47.529155+00:00"
 }
