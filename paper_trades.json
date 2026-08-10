@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T10:49:13.907699+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
       "entry_price": 0.505,
       "current_price": 0.3449,
       "stake": 100.0,
@@ -11245,7 +11245,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 84755.05,
       "traders": [
@@ -11255,7 +11255,8 @@
         "0xB496b941749aD050b54d780e26265b1e32591f45-1785361608057",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-10-game2"
+      "url": "https://polymarket.com/event/lol-hle1-gen-2026-08-10-game2",
+      "consensus_lost_at": "2026-08-10T11:38:16.299310+00:00"
     },
     {
       "signal_id": "lol-dnf-drx-2026-08-10::DN SOOPers",
@@ -11263,14 +11264,14 @@
       "slug": "lol-dnf-drx-2026-08-10",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T09:43:28.354427+00:00",
-      "last_seen": "2026-08-10T10:49:13.907699+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
       "entry_price": 0.195,
-      "current_price": 0.455,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 512.820513,
-      "current_value": 233.33,
-      "paper_pnl": 133.33,
-      "return_percent": 133.33,
+      "current_value": 512.56,
+      "paper_pnl": 412.56,
+      "return_percent": 412.56,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 12167.45,
@@ -11312,7 +11313,7 @@
       "slug": "lol-dnsc-ktc-2026-08-10",
       "side": "KT Rolster Challengers",
       "alerted_at": "2026-08-10T10:49:13.907699+00:00",
-      "last_seen": "2026-08-10T10:49:13.907699+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11336,7 +11337,7 @@
       "slug": "swe-vas-dju-2026-08-10-dju",
       "side": "Yes",
       "alerted_at": "2026-08-10T10:49:13.907699+00:00",
-      "last_seen": "2026-08-10T10:49:13.907699+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
       "entry_price": 0.5649,
       "current_price": 0.5649,
       "stake": 100.0,
@@ -11353,7 +11354,55 @@
         "Forecastication2"
       ],
       "url": "https://polymarket.com/event/swe-vas-dju-2026-08-10-dju"
+    },
+    {
+      "signal_id": "lol-dnf-drx-2026-08-10-game1::Kiwoom DRX",
+      "market": "LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner",
+      "slug": "lol-dnf-drx-2026-08-10-game1",
+      "side": "Kiwoom DRX",
+      "alerted_at": "2026-08-10T11:38:16.299310+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 137998.9,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "TAIWANNUMBERONE",
+        "momijidan"
+      ],
+      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game1"
+    },
+    {
+      "signal_id": "lol-dnf-drx-2026-08-10-game2::DN SOOPers",
+      "market": "LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner",
+      "slug": "lol-dnf-drx-2026-08-10-game2",
+      "side": "DN SOOPers",
+      "alerted_at": "2026-08-10T11:38:16.299310+00:00",
+      "last_seen": "2026-08-10T11:38:16.299310+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 103189.23,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "momijidan",
+        "0x5dd9da"
+      ],
+      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game2"
     }
   ],
-  "updated_at": "2026-08-10T10:49:13.907699+00:00"
+  "updated_at": "2026-08-10T11:38:16.299310+00:00"
 }
