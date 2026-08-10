@@ -1,8 +1,7 @@
 {
   "seen_ids": [
     "lol-dnf-drx-2026-08-10::DN SOOPers",
-    "lol-dnsc-ktc-2026-08-10::KT Rolster Challengers",
-    "lol-dnf-drx-2026-08-10-game2::DN SOOPers",
+    "lol-gen-dnf-2026-08-10::DN SOOPers",
     "lol-gen-dnf-2026-08-10-game1::DN SOOPers",
     "swe-vas-dju-2026-08-10-dju::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
@@ -12,50 +11,198 @@
       "market": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
       "slug": "lol-dnf-drx-2026-08-10",
       "outcome": "DN SOOPers",
-      "num_traders": 6,
-      "total_value": 1695742.45,
+      "num_traders": 7,
+      "total_value": 109656.93,
       "holders": [
         {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1548,
-          "value": 1603076.95,
-          "avg_price": 0.9988,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "BrotherObama",
-          "roi": 0.3973,
+          "roi": 0.5423,
           "value": 29429.72,
           "avg_price": 0.3464,
           "cur_price": 0.9995
         },
         {
           "trader": "0x5dd9da",
-          "roi": 0.2972,
+          "roi": 0.2178,
           "value": 25302.07,
           "avg_price": 0.7478,
           "cur_price": 0.9995
         },
         {
           "trader": "thecomplicatedguy",
-          "roi": 0.2135,
+          "roi": 0.3389,
           "value": 15496.12,
           "avg_price": 0.35,
           "cur_price": 0.9995
         },
         {
           "trader": "Lakersfan111",
-          "roi": 0.2661,
+          "roi": 0.3039,
           "value": 12818.15,
           "avg_price": 0.33,
           "cur_price": 0.9995
         },
         {
+          "trader": "vananal0318",
+          "roi": 0.1858,
+          "value": 9995,
+          "avg_price": 0.2878,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "lzh1",
-          "roi": 0.4029,
+          "roi": 0.4535,
           "value": 9619.44,
           "avg_price": 0.458,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "mythos1.8",
+          "roi": 0.3677,
+          "value": 6996.43,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+      "slug": "lol-gen-dnf-2026-08-10",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 49997.3,
+      "holders": [
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.206,
+          "value": 23684.16,
+          "avg_price": 0.0838,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.4535,
+          "value": 9994.98,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mythos1.8",
+          "roi": 0.3677,
+          "value": 9244.33,
+          "avg_price": 0.0545,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.5423,
+          "value": 7073.83,
+          "avg_price": 0.4283,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
+      "slug": "lol-gen-dnf-2026-08-10-game1",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 22897.31,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.5423,
+          "value": 11381.73,
+          "avg_price": 0.2195,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.206,
+          "value": 5482.26,
+          "avg_price": 0.1382,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "momijidan",
+          "roi": 0.443,
+          "value": 3034.83,
+          "avg_price": 0.19,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.4535,
+          "value": 2998.49,
+          "avg_price": 0.14,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Djurgardens IF win on 2026-08-10?",
+      "slug": "swe-vas-dju-2026-08-10-dju",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 14080.06,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.6126,
+          "value": 9543.42,
+          "avg_price": 0.545,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.3389,
+          "value": 3413.62,
+          "avg_price": 0.56,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.3514,
+          "value": 1004.39,
+          "avg_price": 0.5623,
+          "cur_price": 0.5649
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2535,
+          "value": 118.63,
+          "avg_price": 0.52,
+          "cur_price": 0.5649
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4030.91,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.6126,
+          "value": 1777.88,
+          "avg_price": 0.482,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.5582,
+          "value": 1342.88,
+          "avg_price": 0.5893,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2112,
+          "value": 910.15,
+          "avg_price": 0.2,
+          "cur_price": 0.375
         }
       ]
     },
@@ -127,96 +274,6 @@
       ]
     },
     {
-      "market": "LoL: Gen.G vs DN SOOPers - Game 1 Winner",
-      "slug": "lol-gen-dnf-2026-08-10-game1",
-      "outcome": "DN SOOPers",
-      "num_traders": 3,
-      "total_value": 15071.55,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.3973,
-          "value": 9850.12,
-          "avg_price": 0.2195,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "momijidan",
-          "roi": 0.4116,
-          "value": 2626.44,
-          "avg_price": 0.19,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "lzh1",
-          "roi": 0.4029,
-          "value": 2594.99,
-          "avg_price": 0.14,
-          "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Will Djurgardens IF win on 2026-08-10?",
-      "slug": "swe-vas-dju-2026-08-10-dju",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10410.83,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.6245,
-          "value": 8403.45,
-          "avg_price": 0.5418,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "thecomplicatedguy",
-          "roi": 0.2135,
-          "value": 1575.8,
-          "avg_price": 0.56,
-          "cur_price": 0.5649
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.3624,
-          "value": 431.58,
-          "avg_price": 0.5521,
-          "cur_price": 0.5649
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3809.54,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.6245,
-          "value": 1683.06,
-          "avg_price": 0.482,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.5879,
-          "value": 1264.87,
-          "avg_price": 0.5905,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2077,
-          "value": 861.61,
-          "avg_price": 0.2,
-          "cur_price": 0.355
-        }
-      ]
-    },
-    {
       "market": "LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner",
       "slug": "lol-dnf-drx-2026-08-10-game1",
       "outcome": "Kiwoom DRX",
@@ -242,122 +299,6 @@
           "roi": 0.4116,
           "value": 3442.28,
           "avg_price": 0.6022,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs Gen.G (BO3) - KeSPA Cup Last Chance Qualifier",
-      "slug": "lol-hle1-gen-2026-08-10",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 11,
-      "total_value": 544040.48,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3257,
-          "value": 173337.7,
-          "avg_price": 0.3955,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2518,
-          "value": 111883.89,
-          "avg_price": 0.4068,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.3219,
-          "value": 62195.28,
-          "avg_price": 0.4017,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2851,
-          "value": 39456.73,
-          "avg_price": 0.4437,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "thecomplicatedguy",
-          "roi": 0.1725,
-          "value": 30101.63,
-          "avg_price": 0.41,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.6328,
-          "value": 29084.45,
-          "avg_price": 0.4128,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
-          "roi": 0.3737,
-          "value": 26236.95,
-          "avg_price": 0.4412,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x5dd9da",
-          "roi": 0.2987,
-          "value": 25824.22,
-          "avg_price": 0.787,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.4412,
-          "value": 20932.28,
-          "avg_price": 0.38,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "lzh1",
-          "roi": 0.2809,
-          "value": 14992.43,
-          "avg_price": 0.4133,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xB496b941749aD050b54d780e26265b1e32591f45-1785361608057",
-          "roi": 0.3828,
-          "value": 9994.92,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)",
-      "slug": "lol-hle1-gen-2026-08-10-game-handicap-home-1pt5",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 2941.08,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2851,
-          "value": 1927.6,
-          "avg_price": 0.67,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2518,
-          "value": 899.54,
-          "avg_price": 0.6599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "lzh1",
-          "roi": 0.2809,
-          "value": 113.94,
-          "avg_price": 0.67,
           "cur_price": 0.9995
         }
       ]
@@ -863,9 +804,11 @@
     "lec-sdg-tij-2026-08-09-sdg::Yes": 3,
     "lol-hle1-gen-2026-08-10::Gen.G": 3,
     "lol-hle1-gen-2026-08-10-game2::Hanwha Life Esports": 3,
-    "lol-hle1-gen-2026-08-10::Hanwha Life Esports": 2,
-    "lol-hle1-gen-2026-08-10-game-handicap-home-1pt5::Hanwha Life Esports": 2,
-    "lol-dnf-drx-2026-08-10-game1::Kiwoom DRX": 1
+    "lol-hle1-gen-2026-08-10::Hanwha Life Esports": 3,
+    "lol-hle1-gen-2026-08-10-game-handicap-home-1pt5::Hanwha Life Esports": 3,
+    "lol-dnf-drx-2026-08-10-game1::Kiwoom DRX": 2,
+    "lol-dnsc-ktc-2026-08-10::KT Rolster Challengers": 1,
+    "lol-dnf-drx-2026-08-10-game2::DN SOOPers": 1
   },
-  "updated_at": "2026-08-10T12:31:27.243060+00:00"
+  "updated_at": "2026-08-10T14:01:17.473292+00:00"
 }

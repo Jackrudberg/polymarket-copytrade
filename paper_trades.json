@@ -4943,14 +4943,14 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T12:31:27.232565+00:00",
+      "last_seen": "2026-08-10T14:01:17.462762+00:00",
       "entry_price": 0.505,
-      "current_price": 0.355,
+      "current_price": 0.375,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 70.3,
-      "paper_pnl": -29.7,
-      "return_percent": -29.7,
+      "current_value": 74.26,
+      "paper_pnl": -25.74,
+      "return_percent": -25.74,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 68371.59,
@@ -11265,7 +11265,7 @@
       "slug": "lol-dnf-drx-2026-08-10",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T09:43:28.354427+00:00",
-      "last_seen": "2026-08-10T12:31:27.232565+00:00",
+      "last_seen": "2026-08-10T14:01:17.462762+00:00",
       "entry_price": 0.195,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11339,7 +11339,7 @@
       "slug": "swe-vas-dju-2026-08-10-dju",
       "side": "Yes",
       "alerted_at": "2026-08-10T10:49:13.907699+00:00",
-      "last_seen": "2026-08-10T12:31:27.232565+00:00",
+      "last_seen": "2026-08-10T14:01:17.462762+00:00",
       "entry_price": 0.5649,
       "current_price": 0.5649,
       "stake": 100.0,
@@ -11371,7 +11371,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 137998.9,
       "traders": [
@@ -11379,7 +11379,8 @@
         "TAIWANNUMBERONE",
         "momijidan"
       ],
-      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game1"
+      "url": "https://polymarket.com/event/lol-dnf-drx-2026-08-10-game1",
+      "consensus_lost_at": "2026-08-10T14:01:17.462762+00:00"
     },
     {
       "signal_id": "lol-dnf-drx-2026-08-10-game2::DN SOOPers",
@@ -11411,14 +11412,14 @@
       "slug": "lol-gen-dnf-2026-08-10-game1",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-10T12:31:27.232565+00:00",
-      "last_seen": "2026-08-10T12:31:27.232565+00:00",
+      "last_seen": "2026-08-10T14:01:17.462762+00:00",
       "entry_price": 0.865,
-      "current_price": 0.865,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 115.606936,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 115.55,
+      "paper_pnl": 15.55,
+      "return_percent": 15.55,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 15071.55,
@@ -11428,7 +11429,32 @@
         "lzh1"
       ],
       "url": "https://polymarket.com/event/lol-gen-dnf-2026-08-10-game1"
+    },
+    {
+      "signal_id": "lol-gen-dnf-2026-08-10::DN SOOPers",
+      "market": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
+      "slug": "lol-gen-dnf-2026-08-10",
+      "side": "DN SOOPers",
+      "alerted_at": "2026-08-10T14:01:17.462762+00:00",
+      "last_seen": "2026-08-10T14:01:17.462762+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 49997.3,
+      "traders": [
+        "Wealthfreedom001",
+        "lzh1",
+        "mythos1.8",
+        "BrotherObama"
+      ],
+      "url": "https://polymarket.com/event/lol-gen-dnf-2026-08-10"
     }
   ],
-  "updated_at": "2026-08-10T12:31:27.232565+00:00"
+  "updated_at": "2026-08-10T14:01:17.462762+00:00"
 }
