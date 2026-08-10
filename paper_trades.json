@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T20:02:52.475968+00:00",
+      "last_seen": "2026-08-10T20:57:07.585067+00:00",
       "entry_price": 0.505,
       "current_price": 0.435,
       "stake": 100.0,
@@ -11552,7 +11552,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 9916.7,
       "traders": [
@@ -11560,7 +11560,8 @@
         "momijidan",
         "xiaoqiaxiaoqia"
       ],
-      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game2"
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game2",
+      "consensus_lost_at": "2026-08-10T20:57:07.585067+00:00"
     },
     {
       "signal_id": "lol-navi-g2-2026-08-10::Natus Vincere",
@@ -11626,7 +11627,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 47627.21,
       "traders": [
@@ -11634,7 +11635,8 @@
         "ThornyDevil",
         "xiaoqiaxiaoqia"
       ],
-      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game1"
+      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game1",
+      "consensus_lost_at": "2026-08-10T20:57:07.585067+00:00"
     },
     {
       "signal_id": "lol-sk-vit-2026-08-10-game1::Team Vitality",
@@ -11650,7 +11652,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 41537.37,
       "traders": [
@@ -11658,7 +11660,8 @@
         "BajaBlaster",
         "xiaoqiaxiaoqia"
       ],
-      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game1"
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game1",
+      "consensus_lost_at": "2026-08-10T20:57:07.585067+00:00"
     },
     {
       "signal_id": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No",
@@ -11666,14 +11669,14 @@
       "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
       "side": "No",
       "alerted_at": "2026-08-10T20:02:52.475968+00:00",
-      "last_seen": "2026-08-10T20:02:52.475968+00:00",
+      "last_seen": "2026-08-10T20:57:07.585067+00:00",
       "entry_price": 0.9865,
-      "current_price": 0.9865,
+      "current_price": 0.9845,
       "stake": 100.0,
       "shares": 101.368474,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 99.8,
+      "paper_pnl": -0.2,
+      "return_percent": -0.2,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1202202.16,
@@ -11683,7 +11686,32 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586"
+    },
+    {
+      "signal_id": "lol-lev-red-2026-08-10::Leviatan Esports",
+      "market": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+      "slug": "lol-lev-red-2026-08-10",
+      "side": "Leviatan Esports",
+      "alerted_at": "2026-08-10T20:57:07.585067+00:00",
+      "last_seen": "2026-08-10T20:57:07.585067+00:00",
+      "entry_price": 0.105,
+      "current_price": 0.105,
+      "stake": 100.0,
+      "shares": 952.380952,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 5691.95,
+      "traders": [
+        "BrotherObama",
+        "thecomplicatedguy",
+        "Wealthfreedom001",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/lol-lev-red-2026-08-10"
     }
   ],
-  "updated_at": "2026-08-10T20:02:52.475968+00:00"
+  "updated_at": "2026-08-10T20:57:07.585067+00:00"
 }
