@@ -4943,14 +4943,14 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-10T18:02:47.529155+00:00",
+      "last_seen": "2026-08-10T19:11:05.247429+00:00",
       "entry_price": 0.505,
-      "current_price": 0.415,
+      "current_price": 0.435,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 82.18,
-      "paper_pnl": -17.82,
-      "return_percent": -17.82,
+      "current_value": 86.14,
+      "paper_pnl": -13.86,
+      "return_percent": -13.86,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 68371.59,
@@ -11524,7 +11524,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 12707.66,
       "traders": [
@@ -11532,7 +11532,8 @@
         "BajaBlaster",
         "LOL-eric"
       ],
-      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game1"
+      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game1",
+      "consensus_lost_at": "2026-08-10T19:11:05.247429+00:00"
     },
     {
       "signal_id": "lol-sk-vit-2026-08-10-game2::Team Vitality",
@@ -11540,7 +11541,7 @@
       "slug": "lol-sk-vit-2026-08-10-game2",
       "side": "Team Vitality",
       "alerted_at": "2026-08-10T17:08:34.790438+00:00",
-      "last_seen": "2026-08-10T17:08:34.790438+00:00",
+      "last_seen": "2026-08-10T19:11:05.247429+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -11605,7 +11606,55 @@
         "ThornyDevil"
       ],
       "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game2"
+    },
+    {
+      "signal_id": "lol-navi-g2-2026-08-10-game1::G2 Esports",
+      "market": "LoL: Natus Vincere vs G2 Esports - Game 1 Winner",
+      "slug": "lol-navi-g2-2026-08-10-game1",
+      "side": "G2 Esports",
+      "alerted_at": "2026-08-10T19:11:05.247429+00:00",
+      "last_seen": "2026-08-10T19:11:05.247429+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 47627.21,
+      "traders": [
+        "Lakersfan111",
+        "ThornyDevil",
+        "xiaoqiaxiaoqia"
+      ],
+      "url": "https://polymarket.com/event/lol-navi-g2-2026-08-10-game1"
+    },
+    {
+      "signal_id": "lol-sk-vit-2026-08-10-game1::Team Vitality",
+      "market": "LoL: SK Gaming vs Team Vitality - Game 1 Winner",
+      "slug": "lol-sk-vit-2026-08-10-game1",
+      "side": "Team Vitality",
+      "alerted_at": "2026-08-10T19:11:05.247429+00:00",
+      "last_seen": "2026-08-10T19:11:05.247429+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 41537.37,
+      "traders": [
+        "ThornyDevil",
+        "BajaBlaster",
+        "xiaoqiaxiaoqia"
+      ],
+      "url": "https://polymarket.com/event/lol-sk-vit-2026-08-10-game1"
     }
   ],
-  "updated_at": "2026-08-10T18:02:47.529155+00:00"
+  "updated_at": "2026-08-10T19:11:05.247429+00:00"
 }
