@@ -2,6 +2,9 @@
   "seen_ids": [
     "lol-lev-red-2026-08-10::Leviatan Esports",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "wta-alexand-svitoli-2026-08-11::Elina Svitolina",
+    "lol-lev-red-2026-08-10-game1::Leviatan Esports",
+    "will-lewis-hamilton-be-the-2026-f1-drivers-champion::No",
     "will-manchester-united-win-the-2026-27-english-premier-league-epl-championship-20260701200428762::Yes"
   ],
   "signals": [
@@ -9,40 +12,47 @@
       "market": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
       "slug": "lol-lev-red-2026-08-10",
       "outcome": "Leviatan Esports",
-      "num_traders": 5,
-      "total_value": 68210.93,
+      "num_traders": 6,
+      "total_value": 83613.59,
       "holders": [
         {
           "trader": "BrotherObama",
-          "roi": 0.4452,
+          "roi": 0.4338,
           "value": 27259.09,
           "avg_price": 0.1099,
           "cur_price": 0.9995
         },
         {
           "trader": "thecomplicatedguy",
-          "roi": 0.2679,
+          "roi": 0.2547,
           "value": 20114.99,
           "avg_price": 0.135,
           "cur_price": 0.9995
         },
         {
+          "trader": "Anjun",
+          "roi": 0.2764,
+          "value": 15402.66,
+          "avg_price": 0.34,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "Nooserac",
-          "roi": 0.4301,
+          "roi": 0.4341,
           "value": 12993.47,
           "avg_price": 0.353,
           "cur_price": 0.9995
         },
         {
           "trader": "Wealthfreedom001",
-          "roi": 0.2858,
+          "roi": 0.2857,
           "value": 4478.06,
           "avg_price": 0.1,
           "cur_price": 0.9995
         },
         {
           "trader": "quavoo",
-          "roi": 0.2878,
+          "roi": 0.2774,
           "value": 3365.32,
           "avg_price": 0.11,
           "cur_price": 0.9995
@@ -58,31 +68,121 @@
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.5263,
+          "roi": 0.5296,
           "value": 248980.6,
           "avg_price": 0.4668,
           "cur_price": 0.435
         },
         {
           "trader": "quavoo",
-          "roi": 0.2878,
+          "roi": 0.2774,
           "value": 2062.34,
           "avg_price": 0.482,
           "cur_price": 0.435
         },
         {
           "trader": "purplegatto",
-          "roi": 0.3708,
+          "roi": 0.3872,
           "value": 1557.73,
           "avg_price": 0.5893,
           "cur_price": 0.435
         },
         {
           "trader": "donthackme",
-          "roi": 0.1835,
+          "roi": 0.1944,
           "value": 1055.77,
           "avg_price": 0.2,
           "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "National Bank Open: Ekaterina Alexandrova vs Elina Svitolina",
+      "slug": "wta-alexand-svitoli-2026-08-11",
+      "outcome": "Elina Svitolina",
+      "num_traders": 3,
+      "total_value": 58315.42,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.2218,
+          "value": 38927.92,
+          "avg_price": 0.6976,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.4341,
+          "value": 12337.5,
+          "avg_price": 0.7,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "BajaBlaster",
+          "roi": 0.1801,
+          "value": 7050,
+          "avg_price": 0.7,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "LoL: Leviatan Esports vs RED Canids - Game 1 Winner",
+      "slug": "lol-lev-red-2026-08-10-game1",
+      "outcome": "Leviatan Esports",
+      "num_traders": 3,
+      "total_value": 6750.44,
+      "holders": [
+        {
+          "trader": "Anjun",
+          "roi": 0.2764,
+          "value": 4822.4,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.2857,
+          "value": 1699.15,
+          "avg_price": 0.1611,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2774,
+          "value": 228.89,
+          "avg_price": 0.1728,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Lewis Hamilton be the 2026 F1 Drivers' Champion?",
+      "slug": "will-lewis-hamilton-be-the-2026-f1-drivers-champion",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 5167.71,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.4341,
+          "value": 3537.61,
+          "avg_price": 0.85,
+          "cur_price": 0.8975
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3872,
+          "value": 896.6,
+          "avg_price": 0.9,
+          "cur_price": 0.8975
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.2764,
+          "value": 733.5,
+          "avg_price": 0.9535,
+          "cur_price": 0.8975
         }
       ]
     },
@@ -95,21 +195,21 @@
       "holders": [
         {
           "trader": "Gucky-45",
-          "roi": 1.7137,
+          "roi": 1.7122,
           "value": 2730,
           "avg_price": 0.0416,
           "cur_price": 0.105
         },
         {
           "trader": "Nooserac",
-          "roi": 0.4301,
+          "roi": 0.4341,
           "value": 1507.63,
           "avg_price": 0.1069,
           "cur_price": 0.105
         },
         {
           "trader": "Bigggggggg",
-          "roi": 0.2811,
+          "roi": 0.2803,
           "value": 127.44,
           "avg_price": 0.0416,
           "cur_price": 0.105
@@ -143,36 +243,6 @@
           "value": 166.5,
           "avg_price": 0.2,
           "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "LoL: Leviatan Esports vs RED Canids - Game 1 Winner",
-      "slug": "lol-lev-red-2026-08-10-game1",
-      "outcome": "Leviatan Esports",
-      "num_traders": 3,
-      "total_value": 16029.45,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.1727,
-          "value": 14101.41,
-          "avg_price": 0.1661,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.2596,
-          "value": 1699.15,
-          "avg_price": 0.1611,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2941,
-          "value": 228.89,
-          "avg_price": 0.1728,
-          "cur_price": 0.9995
         }
       ]
     },
@@ -233,36 +303,6 @@
           "value": 312.8,
           "avg_price": 0.0322,
           "cur_price": 0.095
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Rafael Jodar vs Arthur Fils",
-      "slug": "atp-jodar-fils-2026-08-11",
-      "outcome": "Rafael Jodar",
-      "num_traders": 3,
-      "total_value": 10103.82,
-      "holders": [
-        {
-          "trader": "danielwolfmorales3pddb6dl6",
-          "roi": 0.165,
-          "value": 6660,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "BajaBlaster",
-          "roi": 0.1983,
-          "value": 2361.53,
-          "avg_price": 0.56,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.4412,
-          "value": 1082.29,
-          "avg_price": 0.55,
-          "cur_price": 0.555
         }
       ]
     }
@@ -783,11 +823,10 @@
     "lol-navi-g2-2026-08-10-game1::G2 Esports": 3,
     "lol-sk-vit-2026-08-10-game1::Team Vitality": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 3,
-    "atp-jodar-fils-2026-08-11::Rafael Jodar": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "lol-lev-red-2026-08-10-game1::Leviatan Esports": 1,
-    "mlb-bal-min-2026-08-10-total-8pt5::Under": 1,
-    "will-the-new-york-yankees-win-the-2026-world-series::Yes": 1
+    "atp-jodar-fils-2026-08-11::Rafael Jodar": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "mlb-bal-min-2026-08-10-total-8pt5::Under": 2,
+    "will-the-new-york-yankees-win-the-2026-world-series::Yes": 2
   },
-  "updated_at": "2026-08-10T23:48:15.375081+00:00"
+  "updated_at": "2026-08-11T00:39:03.941773+00:00"
 }
