@@ -1,7 +1,5 @@
 {
-  "seen_ids": [
-    "atp-jodar-fils-2026-08-11::Rafael Jodar"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "National Bank Open: Rafael Jodar vs Arthur Fils",
@@ -30,66 +28,6 @@
           "value": 65620.82,
           "avg_price": 0.5635,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Chicago Cubs vs. Washington Nationals",
-      "slug": "mlb-chc-wsh-2026-08-11",
-      "outcome": "Washington Nationals",
-      "num_traders": 3,
-      "total_value": 26456.74,
-      "holders": [
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2641,
-          "value": 20184.6,
-          "avg_price": 0.3899,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2931,
-          "value": 5674.65,
-          "avg_price": 0.37,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.3661,
-          "value": 597.49,
-          "avg_price": 0.3899,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 3607.95,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2931,
-          "value": 1780.67,
-          "avg_price": 0.48,
-          "cur_price": 0.44
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.2961,
-          "value": 1105.24,
-          "avg_price": 0.3899,
-          "cur_price": 0.44
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.3661,
-          "value": 722.04,
-          "avg_price": 0.5,
-          "cur_price": 0.44
         }
       ]
     }
@@ -623,8 +561,9 @@
     "mlb-tb-oak-2026-08-10::Tampa Bay Rays": 3,
     "lol-hle1-dnf-2026-08-11::DN SOOPers": 3,
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
-    "mlb-chc-wsh-2026-08-11::Washington Nationals": 2,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2
+    "mlb-chc-wsh-2026-08-11::Washington Nationals": 3,
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
+    "atp-jodar-fils-2026-08-11::Rafael Jodar": 1
   },
-  "updated_at": "2026-08-11T21:24:35.104709+00:00"
+  "updated_at": "2026-08-11T22:12:10.528285+00:00"
 }
