@@ -2600,7 +2600,7 @@
       "current_value": 157.14,
       "paper_pnl": 57.14,
       "return_percent": 57.14,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7201.71,
       "traders": [
@@ -2609,7 +2609,7 @@
         "ic4cream"
       ],
       "url": "https://polymarket.com/event/mlb-atl-cws-2026-06-11-total-8pt5",
-      "consensus_lost_at": "2026-08-09T18:16:18.237678+00:00"
+      "consensus_lost_at": "2026-08-11T21:24:35.091120+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-07-19-game2::T1",
@@ -11720,15 +11720,15 @@
       "slug": "atp-jodar-fils-2026-08-11",
       "side": "Rafael Jodar",
       "alerted_at": "2026-08-10T22:22:22.115730+00:00",
-      "last_seen": "2026-08-10T22:22:22.115730+00:00",
+      "last_seen": "2026-08-11T21:24:35.091120+00:00",
       "entry_price": 0.555,
-      "current_price": 0.555,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 180.09,
+      "paper_pnl": 80.09,
+      "return_percent": 80.09,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10103.82,
       "traders": [
@@ -11978,7 +11978,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 26456.74,
       "traders": [
@@ -11986,8 +11986,9 @@
         "AnonymousUsername",
         "ic4cream"
       ],
-      "url": "https://polymarket.com/event/mlb-chc-wsh-2026-08-11"
+      "url": "https://polymarket.com/event/mlb-chc-wsh-2026-08-11",
+      "consensus_lost_at": "2026-08-11T21:24:35.091120+00:00"
     }
   ],
-  "updated_at": "2026-08-11T20:28:02.758800+00:00"
+  "updated_at": "2026-08-11T21:24:35.091120+00:00"
 }
