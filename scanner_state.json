@@ -1,6 +1,69 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes",
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under"
+  ],
   "signals": [
+    {
+      "market": "US x Iran Effective Ceasefire by July 31?",
+      "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 68219.08,
+      "holders": [
+        {
+          "trader": "BrightStars",
+          "roi": 0.3463,
+          "value": 50178.57,
+          "avg_price": 0.294,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "HerrieDavis",
+          "roi": 0.1621,
+          "value": 15235.53,
+          "avg_price": 0.5997,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "abdkxrhxr",
+          "roi": 0.2671,
+          "value": 2804.98,
+          "avg_price": 0.57,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 3361.95,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4062,
+          "value": 1659.26,
+          "avg_price": 0.48,
+          "cur_price": 0.41
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.4591,
+          "value": 1029.88,
+          "avg_price": 0.3899,
+          "cur_price": 0.41
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.3626,
+          "value": 672.81,
+          "avg_price": 0.5,
+          "cur_price": 0.41
+        }
+      ]
+    },
     {
       "market": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-hle1-dnf-2026-08-11",
@@ -419,7 +482,6 @@
     "wta-ruse-potapov-2026-08-04::Anastasia Potapova": 3,
     "atp-shang-rublev-2026-08-04::Andrey Rublev": 3,
     "mlb-lad-chc-2026-08-04::Chicago Cubs": 3,
-    "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
     "iran-leadership-change-by-december-31-974-976-658-482-568-685::No": 3,
     "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
@@ -529,7 +591,6 @@
     "lol-jdg-we-2026-08-09-game1::JD Gaming": 3,
     "mlb-atl-nyy-2026-08-09-total-8pt5::Under": 3,
     "mlb-nym-pit-2026-08-09-total-8pt5::Under": 3,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "mlb-cin-wsh-2026-08-09::Washington Nationals": 3,
     "mlb-bal-tex-2026-08-09-total-8pt5::Over": 3,
     "mlb-oak-bos-2026-08-09::Boston Red Sox": 3,
@@ -576,7 +637,7 @@
     "mlb-tex-laa-2026-08-10-total-7pt5::Over": 3,
     "wnba-chi-sea-2026-08-10::Seattle Storm": 3,
     "mlb-tb-oak-2026-08-10::Tampa Bay Rays": 3,
-    "lol-hle1-dnf-2026-08-11::DN SOOPers": 1
+    "lol-hle1-dnf-2026-08-11::DN SOOPers": 2
   },
-  "updated_at": "2026-08-11T14:46:26.508200+00:00"
+  "updated_at": "2026-08-11T15:44:07.866848+00:00"
 }
