@@ -1,13 +1,69 @@
 {
   "seen_ids": [
-    "lol-lev-red-2026-08-10::Leviatan Esports",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "wta-alexand-svitoli-2026-08-11::Elina Svitolina",
-    "lol-lev-red-2026-08-10-game1::Leviatan Esports",
-    "will-lewis-hamilton-be-the-2026-f1-drivers-champion::No",
-    "will-manchester-united-win-the-2026-27-english-premier-league-epl-championship-20260701200428762::Yes"
+    "mlb-kc-lad-2026-08-10::Kansas City Royals",
+    "mlb-tex-laa-2026-08-10-total-7pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Kansas City Royals vs. Los Angeles Dodgers",
+      "slug": "mlb-kc-lad-2026-08-10",
+      "outcome": "Kansas City Royals",
+      "num_traders": 3,
+      "total_value": 63705.15,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3011,
+          "value": 57546.96,
+          "avg_price": 0.29,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2019,
+          "value": 4005.14,
+          "avg_price": 0.28,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2196,
+          "value": 2153.05,
+          "avg_price": 0.28,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Texas Rangers vs. Los Angeles Angels: O/U 7.5",
+      "slug": "mlb-tex-laa-2026-08-10-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 4489.23,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3011,
+          "value": 3357.94,
+          "avg_price": 0.51,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2019,
+          "value": 997.63,
+          "avg_price": 0.52,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x9b1186",
+          "roi": 0.1733,
+          "value": 133.66,
+          "avg_price": 0.51,
+          "cur_price": 0.335
+        }
+      ]
+    },
     {
       "market": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
       "slug": "lol-lev-red-2026-08-10",
@@ -213,96 +269,6 @@
           "value": 127.44,
           "avg_price": 0.0416,
           "cur_price": 0.105
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 23030.82,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.3769,
-          "value": 11488.5,
-          "avg_price": 0.4117,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2941,
-          "value": 11375.82,
-          "avg_price": 0.4021,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "rainbowlilies",
-          "roi": 0.1541,
-          "value": 166.5,
-          "avg_price": 0.2,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Baltimore Orioles vs. Minnesota Twins: O/U 8.5",
-      "slug": "mlb-bal-min-2026-08-10-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 1622.34,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.2941,
-          "value": 756.53,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.1727,
-          "value": 632.0,
-          "avg_price": 0.5,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.2409,
-          "value": 233.81,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Will the New York Yankees win the 2026 World Series?",
-      "slug": "will-the-new-york-yankees-win-the-2026-world-series",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1271.58,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.3769,
-          "value": 578.78,
-          "avg_price": 0.0929,
-          "cur_price": 0.095
-        },
-        {
-          "trader": "Gucky-45",
-          "roi": 1.713,
-          "value": 380.0,
-          "avg_price": 0.0322,
-          "cur_price": 0.095
-        },
-        {
-          "trader": "rainbowlilies",
-          "roi": 0.1541,
-          "value": 312.8,
-          "avg_price": 0.0322,
-          "cur_price": 0.095
         }
       ]
     }
@@ -824,9 +790,15 @@
     "lol-sk-vit-2026-08-10-game1::Team Vitality": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 3,
     "atp-jodar-fils-2026-08-11::Rafael Jodar": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "mlb-bal-min-2026-08-10-total-8pt5::Under": 2,
-    "will-the-new-york-yankees-win-the-2026-world-series::Yes": 2
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "mlb-bal-min-2026-08-10-total-8pt5::Under": 3,
+    "will-the-new-york-yankees-win-the-2026-world-series::Yes": 3,
+    "lol-lev-red-2026-08-10::Leviatan Esports": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "wta-alexand-svitoli-2026-08-11::Elina Svitolina": 1,
+    "lol-lev-red-2026-08-10-game1::Leviatan Esports": 1,
+    "will-lewis-hamilton-be-the-2026-f1-drivers-champion::No": 1,
+    "will-manchester-united-win-the-2026-27-english-premier-league-epl-championship-20260701200428762::Yes": 1
   },
-  "updated_at": "2026-08-11T00:39:03.941773+00:00"
+  "updated_at": "2026-08-11T02:52:01.137152+00:00"
 }
