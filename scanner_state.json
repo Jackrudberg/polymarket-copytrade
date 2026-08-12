@@ -1,51 +1,94 @@
 {
   "seen_ids": [
     "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election::No",
+    "lol-blg-jdg-2026-08-12::JD Gaming",
     "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election::Yes",
     "will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election::No",
-    "will-the-los-angeles-dodgers-win-the-2026-world-series::Yes",
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "cs2-bb3-faze-2026-08-12::FaZe",
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No",
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No",
-    "will-the-philadelphia-phillies-win-the-2026-world-series::Yes",
-    "will-the-boston-red-sox-win-the-2026-world-series::Yes",
-    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes",
-    "will-the-houston-astros-win-the-2026-world-series::Yes"
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
+    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No"
   ],
   "signals": [
     {
       "market": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
       "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election",
       "outcome": "No",
-      "num_traders": 4,
-      "total_value": 97329.54,
+      "num_traders": 5,
+      "total_value": 125068.72,
       "holders": [
         {
           "trader": "Melody626",
-          "roi": 0.2258,
+          "roi": 0.2304,
           "value": 55410.98,
           "avg_price": 0.5269,
           "cur_price": 0.9995
         },
         {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 27739.18,
+          "avg_price": 0.3525,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "cowcat",
-          "roi": 0.4715,
+          "roi": 0.4687,
           "value": 16450.04,
           "avg_price": 0.1968,
           "cur_price": 0.9995
         },
         {
           "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.885,
+          "roi": 0.7909,
           "value": 15644.17,
           "avg_price": 0.052,
           "cur_price": 0.9995
         },
         {
           "trader": "flawfence",
-          "roi": 0.3013,
+          "roi": 0.3111,
           "value": 9824.35,
           "avg_price": 0.8811,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-blg-jdg-2026-08-12",
+      "outcome": "JD Gaming",
+      "num_traders": 4,
+      "total_value": 108393.01,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1859,
+          "value": 39190.63,
+          "avg_price": 0.247,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.2034,
+          "value": 37018.52,
+          "avg_price": 0.2699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "gggjajnsnn",
+          "roi": 0.2705,
+          "value": 30984.46,
+          "avg_price": 0.3499,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
+          "roi": 0.7909,
+          "value": 1199.4,
+          "avg_price": 0.9562,
           "cur_price": 0.9995
         }
       ]
@@ -54,26 +97,33 @@
       "market": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
       "slug": "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election",
       "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 50125.57,
+      "num_traders": 4,
+      "total_value": 58590.1,
       "holders": [
         {
           "trader": "Melody626",
-          "roi": 0.2258,
+          "roi": 0.2304,
           "value": 33757.96,
           "avg_price": 0.6696,
           "cur_price": 0.9995
         },
         {
           "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.885,
+          "roi": 0.7909,
           "value": 10683.65,
           "avg_price": 0.0579,
           "cur_price": 0.9995
         },
         {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 8464.53,
+          "avg_price": 0.3931,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "flawfence",
-          "roi": 0.3013,
+          "roi": 0.3111,
           "value": 5683.96,
           "avg_price": 0.8818,
           "cur_price": 0.9995
@@ -84,29 +134,216 @@
       "market": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
       "slug": "will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election",
       "outcome": "No",
-      "num_traders": 3,
-      "total_value": 30744.47,
+      "num_traders": 4,
+      "total_value": 31604.72,
       "holders": [
         {
           "trader": "flawfence",
-          "roi": 0.3013,
+          "roi": 0.3111,
           "value": 29539.72,
           "avg_price": 0.5743,
           "cur_price": 0.9995
         },
         {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 860.25,
+          "avg_price": 0.7,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.885,
+          "roi": 0.7909,
           "value": 697.65,
           "avg_price": 0.4309,
           "cur_price": 0.9995
         },
         {
           "trader": "donthackme",
-          "roi": 0.2559,
+          "roi": 0.2562,
           "value": 507.1,
           "avg_price": 0.6777,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 89802.82,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 89318.23,
+          "avg_price": 0.5999,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2562,
+          "value": 370.87,
+          "avg_price": 0.5,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
+          "roi": 0.7909,
+          "value": 113.72,
+          "avg_price": 0.4388,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: BetBoom Team vs FaZe (BO1) - Esports World Cup Group B",
+      "slug": "cs2-bb3-faze-2026-08-12",
+      "outcome": "FaZe",
+      "num_traders": 3,
+      "total_value": 32954.24,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.3977,
+          "value": 29080.18,
+          "avg_price": 0.5354,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
+          "roi": 0.7909,
+          "value": 3198.4,
+          "avg_price": 0.8993,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2051,
+          "value": 675.66,
+          "avg_price": 0.6091,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Billionaire one-time wealth tax passes in California election 2026?",
+      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 22084.65,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2051,
+          "value": 11474.98,
+          "avg_price": 0.5735,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "cowcat",
+          "roi": 0.4687,
+          "value": 10179.67,
+          "avg_price": 0.5324,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 430.0,
+          "avg_price": 0.6292,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13678.93,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.3111,
+          "value": 12788.35,
+          "avg_price": 0.2357,
+          "cur_price": 0.2725
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2562,
+          "value": 739.34,
+          "avg_price": 0.4933,
+          "cur_price": 0.2725
+        },
+        {
+          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
+          "roi": 0.7909,
+          "value": 151.24,
+          "avg_price": 0.2374,
+          "cur_price": 0.2725
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8773.18,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.1655,
+          "value": 6276.72,
+          "avg_price": 0.585,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2562,
+          "value": 1687.58,
+          "avg_price": 0.5012,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "cowcat",
+          "roi": 0.4687,
+          "value": 808.88,
+          "avg_price": 0.5281,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 8410.41,
+      "holders": [
+        {
+          "trader": "cowcat",
+          "roi": 0.4687,
+          "value": 6472.02,
+          "avg_price": 0.5845,
+          "cur_price": 0.6175
+        },
+        {
+          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
+          "roi": 0.7909,
+          "value": 1651.81,
+          "avg_price": 0.8851,
+          "cur_price": 0.6175
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2562,
+          "value": 286.58,
+          "avg_price": 0.6072,
+          "cur_price": 0.6175
         }
       ]
     },
@@ -167,66 +404,6 @@
           "value": 1324.21,
           "avg_price": 0.1829,
           "cur_price": 0.125
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13678.93,
-      "holders": [
-        {
-          "trader": "flawfence",
-          "roi": 0.3013,
-          "value": 12788.35,
-          "avg_price": 0.2357,
-          "cur_price": 0.2725
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2559,
-          "value": 739.34,
-          "avg_price": 0.4933,
-          "cur_price": 0.2725
-        },
-        {
-          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.885,
-          "value": 151.24,
-          "avg_price": 0.2374,
-          "cur_price": 0.2725
-        }
-      ]
-    },
-    {
-      "market": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 8430.84,
-      "holders": [
-        {
-          "trader": "cowcat",
-          "roi": 0.4715,
-          "value": 6487.74,
-          "avg_price": 0.5845,
-          "cur_price": 0.619
-        },
-        {
-          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.885,
-          "value": 1655.83,
-          "avg_price": 0.8851,
-          "cur_price": 0.619
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2559,
-          "value": 287.27,
-          "avg_price": 0.6072,
-          "cur_price": 0.619
         }
       ]
     },
@@ -384,276 +561,6 @@
           "value": 257.37,
           "avg_price": 0.9799,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 84401.14,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.1746,
-          "value": 83945.7,
-          "avg_price": 0.5999,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.229,
-          "value": 348.56,
-          "avg_price": 0.5,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.9397,
-          "value": 106.88,
-          "avg_price": 0.4388,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Billionaire one-time wealth tax passes in California election 2026?",
-      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 22084.65,
-      "holders": [
-        {
-          "trader": "0xheavy888",
-          "roi": 0.2193,
-          "value": 11474.98,
-          "avg_price": 0.5735,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.4711,
-          "value": 10179.67,
-          "avg_price": 0.5324,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.1746,
-          "value": 430.0,
-          "avg_price": 0.6292,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8773.18,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.1746,
-          "value": 6276.72,
-          "avg_price": 0.585,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.229,
-          "value": 1687.58,
-          "avg_price": 0.5012,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.4711,
-          "value": 808.88,
-          "avg_price": 0.5281,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D",
-      "slug": "cs2-mgc-mglz-2026-08-12",
-      "outcome": "TheMongolz",
-      "num_traders": 3,
-      "total_value": 75110.43,
-      "holders": [
-        {
-          "trader": "ExplosiveNinja",
-          "roi": 0.1718,
-          "value": 52753.85,
-          "avg_price": 0.5297,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.3668,
-          "value": 21959.08,
-          "avg_price": 0.5499,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "Gaditima",
-          "roi": 0.1516,
-          "value": 397.5,
-          "avg_price": 0.5,
-          "cur_price": 0.795
-        }
-      ]
-    },
-    {
-      "market": "LoL: EDward Gaming vs Anyone's Legend - Game 1 Winner",
-      "slug": "lol-edg-al-2026-08-12-game1",
-      "outcome": "EDward Gaming",
-      "num_traders": 3,
-      "total_value": 71717.97,
-      "holders": [
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 0.1537,
-          "value": 27164.08,
-          "avg_price": 0.3383,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.3634,
-          "value": 24563.91,
-          "avg_price": 0.1892,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "urobang",
-          "roi": 0.4458,
-          "value": 19989.98,
-          "avg_price": 0.2,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
-      "slug": "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 56096.74,
-      "holders": [
-        {
-          "trader": "Melody626",
-          "roi": 0.1703,
-          "value": 21014.33,
-          "avg_price": 0.4854,
-          "cur_price": 0.731
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.3007,
-          "value": 19664.87,
-          "avg_price": 0.6806,
-          "cur_price": 0.731
-        },
-        {
-          "trader": "Gaditima",
-          "roi": 0.1516,
-          "value": 15417.54,
-          "avg_price": 0.5424,
-          "cur_price": 0.731
-        }
-      ]
-    },
-    {
-      "market": "Will Lisa Demuth win the 2026 Minnesota Governor Republican primary election?",
-      "slug": "will-lisa-demuth-win-the-2026-minnesota-governor-republican-primary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 55223.81,
-      "holders": [
-        {
-          "trader": "flawfence",
-          "roi": 0.3007,
-          "value": 34757.32,
-          "avg_price": 0.5176,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gaditima",
-          "roi": 0.1516,
-          "value": 20044.7,
-          "avg_price": 0.6285,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.9534,
-          "value": 421.79,
-          "avg_price": 0.8071,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: G2 vs M80 (BO1) - Esports World Cup Group A",
-      "slug": "cs2-g2-m80-2026-08-12",
-      "outcome": "M80",
-      "num_traders": 3,
-      "total_value": 43269.19,
-      "holders": [
-        {
-          "trader": "ExplosiveNinja",
-          "roi": 0.1718,
-          "value": 32999.83,
-          "avg_price": 0.31,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "GhostOfJupiter",
-          "roi": 0.1777,
-          "value": 8250,
-          "avg_price": 0.31,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.2326,
-          "value": 2019.36,
-          "avg_price": 0.3496,
-          "cur_price": 0.33
-        }
-      ]
-    },
-    {
-      "market": "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?",
-      "slug": "will-ralph-norman-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628829",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3167.24,
-      "holders": [
-        {
-          "trader": "Gaditima",
-          "roi": 0.1516,
-          "value": 2409.34,
-          "avg_price": 0.2422,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.3007,
-          "value": 550,
-          "avg_price": 0.2,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "0x7e1f9c90800E42806e242ABC5fcf26B571c79C27-1775842903107",
-          "roi": 0.9534,
-          "value": 207.9,
-          "avg_price": 0.2122,
-          "cur_price": 0.275
         }
       ]
     }
@@ -1210,16 +1117,19 @@
     "cs2-big5-aur1-2026-08-12::BIG": 3,
     "lol-dnf-ns-2026-08-12-game2::DN SOOPers": 3,
     "lol-edg-al-2026-08-12::EDward Gaming": 3,
-    "cs2-mgc-mglz-2026-08-12::TheMongolz": 2,
-    "lol-edg-al-2026-08-12-game1::EDward Gaming": 2,
-    "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838::Yes": 2,
-    "will-lisa-demuth-win-the-2026-minnesota-governor-republican-primary-election::Yes": 2,
-    "cs2-g2-m80-2026-08-12::M80": 2,
-    "will-ralph-norman-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628829::Yes": 2,
-    "lol-dnf-ns-2026-08-12::DN SOOPers": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "cs2-mgc-mglz-2026-08-12::TheMongolz": 3,
+    "lol-edg-al-2026-08-12-game1::EDward Gaming": 3,
+    "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838::Yes": 3,
+    "will-lisa-demuth-win-the-2026-minnesota-governor-republican-primary-election::Yes": 3,
+    "cs2-g2-m80-2026-08-12::M80": 3,
+    "will-ralph-norman-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628829::Yes": 3,
+    "lol-dnf-ns-2026-08-12::DN SOOPers": 2,
+    "will-the-los-angeles-dodgers-win-the-2026-world-series::Yes": 1,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 1,
+    "will-the-philadelphia-phillies-win-the-2026-world-series::Yes": 1,
+    "will-the-boston-red-sox-win-the-2026-world-series::Yes": 1,
+    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 1,
+    "will-the-houston-astros-win-the-2026-world-series::Yes": 1
   },
-  "updated_at": "2026-08-12T15:07:24.523769+00:00"
+  "updated_at": "2026-08-12T16:08:03.392832+00:00"
 }
