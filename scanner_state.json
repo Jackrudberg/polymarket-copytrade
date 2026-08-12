@@ -1,8 +1,69 @@
 {
   "seen_ids": [
-    "wta-osaka-rybakin-2026-08-11::Naomi Osaka"
+    "mlb-tb-oak-2026-08-11::Tampa Bay Rays",
+    "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838::Yes"
   ],
   "signals": [
+    {
+      "market": "Tampa Bay Rays vs. Athletics",
+      "slug": "mlb-tb-oak-2026-08-11",
+      "outcome": "Tampa Bay Rays",
+      "num_traders": 3,
+      "total_value": 125202.68,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.8751,
+          "value": 109935.38,
+          "avg_price": 0.6363,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1747,
+          "value": 14802.59,
+          "avg_price": 0.6433,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Gaditima",
+          "roi": 0.2736,
+          "value": 464.71,
+          "avg_price": 0.9024,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
+      "slug": "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 38134.89,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.4862,
+          "value": 19987.69,
+          "avg_price": 0.6806,
+          "cur_price": 0.743
+        },
+        {
+          "trader": "Gaditima",
+          "roi": 0.2736,
+          "value": 15670.63,
+          "avg_price": 0.5424,
+          "cur_price": 0.743
+        },
+        {
+          "trader": "rebotsliaf",
+          "roi": 0.3376,
+          "value": 2476.57,
+          "avg_price": 0.4789,
+          "cur_price": 0.743
+        }
+      ]
+    },
     {
       "market": "National Bank Open: Naomi Osaka vs Elena Rybakina",
       "slug": "wta-osaka-rybakin-2026-08-11",
@@ -30,36 +91,6 @@
           "value": 940.08,
           "avg_price": 0.5762,
           "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Chicago Cubs vs. Washington Nationals",
-      "slug": "mlb-chc-wsh-2026-08-11",
-      "outcome": "Washington Nationals",
-      "num_traders": 3,
-      "total_value": 45250.85,
-      "holders": [
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2627,
-          "value": 32810.47,
-          "avg_price": 0.3897,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1666,
-          "value": 11482.75,
-          "avg_price": 0.37,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.3414,
-          "value": 957.63,
-          "avg_price": 0.3899,
-          "cur_price": 0.585
         }
       ]
     }
@@ -595,7 +626,8 @@
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "atp-jodar-fils-2026-08-11::Rafael Jodar": 3,
-    "mlb-chc-wsh-2026-08-11::Washington Nationals": 2
+    "mlb-chc-wsh-2026-08-11::Washington Nationals": 3,
+    "wta-osaka-rybakin-2026-08-11::Naomi Osaka": 1
   },
-  "updated_at": "2026-08-12T02:00:41.033623+00:00"
+  "updated_at": "2026-08-12T04:15:23.688782+00:00"
 }
