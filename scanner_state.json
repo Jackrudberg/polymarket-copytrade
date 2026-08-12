@@ -1,11 +1,57 @@
 {
   "seen_ids": [
-    "cs2-vit-100t-2026-08-12::Vitality",
     "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes",
-    "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election::Yes",
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes"
+    "cs2-vit-100t-2026-08-12::Vitality",
+    "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No",
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No",
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes",
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Kai and Speed beat the Minecraft challenge by August 17?",
+      "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706",
+      "outcome": "Yes",
+      "num_traders": 5,
+      "total_value": 291230.4,
+      "holders": [
+        {
+          "trader": "vtcchampion52",
+          "roi": 0.2223,
+          "value": 141583.05,
+          "avg_price": 0.1682,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "wwarden",
+          "roi": 1.6785,
+          "value": 56120.67,
+          "avg_price": 0.1607,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "gmtrader",
+          "roi": 0.2386,
+          "value": 33236.27,
+          "avg_price": 0.3096,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "Electricy",
+          "roi": 0.8907,
+          "value": 32488.38,
+          "avg_price": 0.1608,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.1641,
+          "value": 27802.03,
+          "avg_price": 0.2599,
+          "cur_price": 0.885
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Vitality vs 100 Thieves (BO1) - Esports World Cup Group C",
       "slug": "cs2-vit-100t-2026-08-12",
@@ -15,28 +61,28 @@
       "holders": [
         {
           "trader": "S-Works",
-          "roi": 0.2424,
+          "roi": 0.2597,
           "value": 327907.59,
           "avg_price": 0.7,
           "cur_price": 0.9995
         },
         {
           "trader": "casualbet2020",
-          "roi": 0.334,
+          "roi": 0.3429,
           "value": 142092.66,
           "avg_price": 0.717,
           "cur_price": 0.9995
         },
         {
           "trader": "GreenBerry1337",
-          "roi": 0.1559,
+          "roi": 0.1567,
           "value": 27408.91,
           "avg_price": 0.7199,
           "cur_price": 0.9995
         },
         {
           "trader": "Anjun",
-          "roi": 0.1772,
+          "roi": 0.1748,
           "value": 22210.89,
           "avg_price": 0.7,
           "cur_price": 0.9995
@@ -44,39 +90,122 @@
       ]
     },
     {
-      "market": "Will Kai and Speed beat the Minecraft challenge by August 17?",
-      "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 240416.27,
+      "market": "Mitch McConnell steps down from Senate before his term ends?",
+      "slug": "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 114213.74,
       "holders": [
         {
-          "trader": "vtcchampion52",
-          "roi": 0.2437,
-          "value": 131984.2,
-          "avg_price": 0.1682,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "wwarden",
-          "roi": 1.5316,
-          "value": 52315.87,
-          "avg_price": 0.1607,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "Electricy",
-          "roi": 0.8955,
-          "value": 30199.06,
-          "avg_price": 0.1588,
-          "cur_price": 0.825
+          "trader": "coali10",
+          "roi": 0.1617,
+          "value": 99920.22,
+          "avg_price": 0.4752,
+          "cur_price": 0.765
         },
         {
           "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.1638,
-          "value": 25917.14,
-          "avg_price": 0.2599,
-          "cur_price": 0.825
+          "roi": 0.1641,
+          "value": 7956.12,
+          "avg_price": 0.5488,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "gmtrader",
+          "roi": 0.2386,
+          "value": 6337.4,
+          "avg_price": 0.6699,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Billionaire one-time wealth tax passes in California election 2026?",
+      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 28991.84,
+      "holders": [
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.1641,
+          "value": 18146.4,
+          "avg_price": 0.5634,
+          "cur_price": 0.69
+        },
+        {
+          "trader": "cowcat",
+          "roi": 0.509,
+          "value": 10405.89,
+          "avg_price": 0.5324,
+          "cur_price": 0.69
+        },
+        {
+          "trader": "coali10",
+          "roi": 0.1617,
+          "value": 439.55,
+          "avg_price": 0.6292,
+          "cur_price": 0.69
+        }
+      ]
+    },
+    {
+      "market": "Will Kai and Speed beat the Minecraft challenge by August 12?",
+      "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 17363.37,
+      "holders": [
+        {
+          "trader": "wwarden",
+          "roi": 1.6785,
+          "value": 9742.67,
+          "avg_price": 0.0542,
+          "cur_price": 0.691
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.1748,
+          "value": 4806.85,
+          "avg_price": 0.0907,
+          "cur_price": 0.691
+        },
+        {
+          "trader": "Electricy",
+          "roi": 0.8907,
+          "value": 2813.85,
+          "avg_price": 0.2455,
+          "cur_price": 0.691
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8773.18,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.1617,
+          "value": 6276.72,
+          "avg_price": 0.585,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2344,
+          "value": 1687.58,
+          "avg_price": 0.5012,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "cowcat",
+          "roi": 0.509,
+          "value": 808.88,
+          "avg_price": 0.5281,
+          "cur_price": 0.605
         }
       ]
     },
@@ -111,36 +240,6 @@
       ]
     },
     {
-      "market": "Will Kai and Speed beat the Minecraft challenge by August 12?",
-      "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 9788.31,
-      "holders": [
-        {
-          "trader": "wwarden",
-          "roi": 1.5316,
-          "value": 5505.81,
-          "avg_price": 0.0542,
-          "cur_price": 0.3905
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.1772,
-          "value": 2716.46,
-          "avg_price": 0.0907,
-          "cur_price": 0.3905
-        },
-        {
-          "trader": "Electricy",
-          "roi": 0.8955,
-          "value": 1566.04,
-          "avg_price": 0.2385,
-          "cur_price": 0.3905
-        }
-      ]
-    },
-    {
       "market": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
       "slug": "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election",
       "outcome": "No",
@@ -167,66 +266,6 @@
           "value": 16450.04,
           "avg_price": 0.1968,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Billionaire one-time wealth tax passes in California election 2026?",
-      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 28361.58,
-      "holders": [
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.167,
-          "value": 17751.91,
-          "avg_price": 0.5634,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.4697,
-          "value": 10179.67,
-          "avg_price": 0.5324,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.1657,
-          "value": 430.0,
-          "avg_price": 0.6292,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8773.18,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.1657,
-          "value": 6276.72,
-          "avg_price": 0.585,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2468,
-          "value": 1687.58,
-          "avg_price": 0.5012,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.4697,
-          "value": 808.88,
-          "avg_price": 0.5281,
-          "cur_price": 0.605
         }
       ]
     }
@@ -537,7 +576,6 @@
     "iran-leadership-change-by-september-30-20260629144005163-739::No": 3,
     "us-strike-on-cuba-by-december-31::No": 3,
     "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::No": 3,
-    "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No": 3,
     "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-3::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823::Yes": 3,
@@ -804,9 +842,8 @@
     "cs2-mibr-ast10-2026-08-12::MIBR": 3,
     "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No": 3,
     "will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election::No": 3,
-    "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election::No": 1,
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "will-francesca-hong-win-the-2026-wisconsin-governor-democratic-primary-election::No": 2,
+    "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election::Yes": 1
   },
-  "updated_at": "2026-08-12T20:07:29.842266+00:00"
+  "updated_at": "2026-08-12T21:01:38.754374+00:00"
 }
