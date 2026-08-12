@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "wta-osaka-rybakin-2026-08-11::Naomi Osaka"
+  ],
   "signals": [
+    {
+      "market": "National Bank Open: Naomi Osaka vs Elena Rybakina",
+      "slug": "wta-osaka-rybakin-2026-08-11",
+      "outcome": "Naomi Osaka",
+      "num_traders": 3,
+      "total_value": 81581.64,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.166,
+          "value": 74770.72,
+          "avg_price": 0.6172,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Netrol",
+          "roi": 0.2067,
+          "value": 5870.84,
+          "avg_price": 0.4397,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.1862,
+          "value": 940.08,
+          "avg_price": 0.5762,
+          "cur_price": 0.515
+        }
+      ]
+    },
     {
       "market": "Chicago Cubs vs. Washington Nationals",
       "slug": "mlb-chc-wsh-2026-08-11",
@@ -563,7 +595,7 @@
     "us-x-iran-effective-ceasfire-by-july-31-20260715194822045::Yes": 3,
     "mlb-atl-cws-2026-06-11-total-8pt5::Under": 3,
     "atp-jodar-fils-2026-08-11::Rafael Jodar": 3,
-    "mlb-chc-wsh-2026-08-11::Washington Nationals": 1
+    "mlb-chc-wsh-2026-08-11::Washington Nationals": 2
   },
-  "updated_at": "2026-08-11T23:55:38.943139+00:00"
+  "updated_at": "2026-08-12T02:00:41.033623+00:00"
 }
