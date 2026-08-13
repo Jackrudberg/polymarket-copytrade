@@ -1,62 +1,135 @@
 {
   "seen_ids": [
     "dota2-liquid-vg-2026-08-13-game1::Team Liquid",
-    "dota2-boombo-og-2026-08-12::BoomBoys",
-    "will-jd-vance-win-the-2028-us-presidential-election::No",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "dota2-flc-lgd-2026-08-12::Team Falcons",
-    "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming",
-    "dota2-aur1-gl-2026-08-13-game1::Aurora"
+    "dota2-aur1-gl-2026-08-13-game1::Aurora",
+    "lol-gen-hle1-2026-08-13::Gen.G",
+    "lol-wb-nip-2026-08-13::Ninjas in Pyjamas"
   ],
   "signals": [
     {
       "market": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
       "slug": "dota2-liquid-vg-2026-08-13-game1",
       "outcome": "Team Liquid",
-      "num_traders": 6,
-      "total_value": 107108.13,
+      "num_traders": 4,
+      "total_value": 49615.77,
       "holders": [
         {
           "trader": "Nooserac",
-          "roi": 0.2164,
+          "roi": 0.1872,
           "value": 39980,
           "avg_price": 0.6,
           "cur_price": 0.9995
         },
         {
-          "trader": "DOLBAEB1",
-          "roi": 0.2236,
-          "value": 34126.79,
-          "avg_price": 0.5858,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.1821,
-          "value": 23365.57,
-          "avg_price": 0.6,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "canoflanagan",
-          "roi": 0.2318,
+          "roi": 0.2556,
           "value": 6566.56,
           "avg_price": 0.3028,
           "cur_price": 0.9995
         },
         {
           "trader": "zb8",
-          "roi": 0.2272,
+          "roi": 0.2742,
           "value": 2325.48,
           "avg_price": 0.6181,
           "cur_price": 0.9995
         },
         {
           "trader": "Skritopoolniy",
-          "roi": 0.186,
+          "roi": 0.2072,
           "value": 743.73,
           "avg_price": 0.3,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Aurora vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-aur1-gl-2026-08-13-game1",
+      "outcome": "Aurora",
+      "num_traders": 3,
+      "total_value": 32692.22,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.1872,
+          "value": 11980.32,
+          "avg_price": 0.3256,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.2072,
+          "value": 10525.03,
+          "avg_price": 0.3323,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2556,
+          "value": 10186.87,
+          "avg_price": 0.3456,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-gen-hle1-2026-08-13",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 24974.91,
+      "holders": [
+        {
+          "trader": "GhostOfJupiter",
+          "roi": 0.1629,
+          "value": 13874.93,
+          "avg_price": 0.57,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.5279,
+          "value": 5550,
+          "avg_price": 0.57,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1872,
+          "value": 5549.98,
+          "avg_price": 0.56,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "slug": "lol-wb-nip-2026-08-13",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 3,
+      "total_value": 20509.52,
+      "holders": [
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.2108,
+          "value": 10500,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "danielwolfmorales3pddb6dl6",
+          "roi": 0.2148,
+          "value": 5249.96,
+          "avg_price": 0.5399,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.5279,
+          "value": 4759.56,
+          "avg_price": 0.5399,
+          "cur_price": 0.525
         }
       ]
     },
@@ -218,36 +291,6 @@
       ]
     },
     {
-      "market": "Dota 2: Aurora vs GamerLegion - Game 1 Winner",
-      "slug": "dota2-aur1-gl-2026-08-13-game1",
-      "outcome": "Aurora",
-      "num_traders": 3,
-      "total_value": 32692.22,
-      "holders": [
-        {
-          "trader": "Nooserac",
-          "roi": 0.2164,
-          "value": 11980.32,
-          "avg_price": 0.3256,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.186,
-          "value": 10525.03,
-          "avg_price": 0.3323,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.2318,
-          "value": 10186.87,
-          "avg_price": 0.3456,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Team Falcons vs LGD Gaming - Game 1 Winner",
       "slug": "dota2-flc-lgd-2026-08-12-game1",
       "outcome": "LGD Gaming",
@@ -281,66 +324,6 @@
           "value": 14610.56,
           "avg_price": 0.2618,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
-      "slug": "wta-gauff-rybakin-2026-08-12",
-      "outcome": "Elena Rybakina",
-      "num_traders": 3,
-      "total_value": 19068.88,
-      "holders": [
-        {
-          "trader": "danielwolfmorales3pddb6dl6",
-          "roi": 0.1914,
-          "value": 10008.18,
-          "avg_price": 0.4389,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2723,
-          "value": 8175,
-          "avg_price": 0.45,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "flatbarrel",
-          "roi": 0.2665,
-          "value": 885.7,
-          "avg_price": 0.4496,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
-      "slug": "wta-gauff-rybakin-2026-08-12",
-      "outcome": "Coco Gauff",
-      "num_traders": 3,
-      "total_value": 2983.0,
-      "holders": [
-        {
-          "trader": "danielwolfmorales3pddb6dl6",
-          "roi": 0.1914,
-          "value": 2730,
-          "avg_price": 0.44,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "TRCM",
-          "roi": 0.1814,
-          "value": 131.24,
-          "avg_price": 0.5947,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "flatbarrel",
-          "roi": 0.2665,
-          "value": 121.76,
-          "avg_price": 0.597,
-          "cur_price": 0.455
         }
       ]
     }
@@ -932,9 +915,14 @@
     "wnba-tor-dal-2026-08-12::Dallas Wings": 3,
     "atp-tomic-winter-2026-08-11::Edward Winter": 3,
     "dota2-flc-lgd-2026-08-12::LGD Gaming": 3,
-    "wta-gauff-rybakin-2026-08-12::Elena Rybakina": 2,
-    "wta-gauff-rybakin-2026-08-12::Coco Gauff": 2,
-    "dota2-flc-lgd-2026-08-12-game1::LGD Gaming": 1
+    "wta-gauff-rybakin-2026-08-12::Elena Rybakina": 3,
+    "wta-gauff-rybakin-2026-08-12::Coco Gauff": 3,
+    "dota2-flc-lgd-2026-08-12-game1::LGD Gaming": 2,
+    "dota2-boombo-og-2026-08-12::BoomBoys": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
+    "dota2-flc-lgd-2026-08-12::Team Falcons": 1,
+    "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming": 1
   },
-  "updated_at": "2026-08-13T07:48:33.278864+00:00"
+  "updated_at": "2026-08-13T08:58:07.447691+00:00"
 }

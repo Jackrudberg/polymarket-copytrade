@@ -13458,7 +13458,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 88698.51,
       "traders": [
@@ -13467,7 +13467,8 @@
         "Skritopoolniy",
         "ARI100KRAT"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game1"
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game1",
+      "consensus_lost_at": "2026-08-13T08:58:07.438470+00:00"
     },
     {
       "signal_id": "dota2-liquid-vg-2026-08-13-game1::Team Liquid",
@@ -13475,7 +13476,7 @@
       "slug": "dota2-liquid-vg-2026-08-13-game1",
       "side": "Team Liquid",
       "alerted_at": "2026-08-13T07:48:33.266322+00:00",
-      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T08:58:07.438470+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -13599,7 +13600,7 @@
       "slug": "dota2-aur1-gl-2026-08-13-game1",
       "side": "Aurora",
       "alerted_at": "2026-08-13T07:48:33.266322+00:00",
-      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T08:58:07.438470+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -13616,7 +13617,55 @@
         "canoflanagan"
       ],
       "url": "https://polymarket.com/event/dota2-aur1-gl-2026-08-13-game1"
+    },
+    {
+      "signal_id": "lol-gen-hle1-2026-08-13::Gen.G",
+      "market": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-gen-hle1-2026-08-13",
+      "side": "Gen.G",
+      "alerted_at": "2026-08-13T08:58:07.438470+00:00",
+      "last_seen": "2026-08-13T08:58:07.438470+00:00",
+      "entry_price": 0.555,
+      "current_price": 0.555,
+      "stake": 100.0,
+      "shares": 180.18018,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 24974.91,
+      "traders": [
+        "GhostOfJupiter",
+        "thecomplicatedguy",
+        "Nooserac"
+      ],
+      "url": "https://polymarket.com/event/lol-gen-hle1-2026-08-13"
+    },
+    {
+      "signal_id": "lol-wb-nip-2026-08-13::Ninjas in Pyjamas",
+      "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "slug": "lol-wb-nip-2026-08-13",
+      "side": "Ninjas in Pyjamas",
+      "alerted_at": "2026-08-13T08:58:07.438470+00:00",
+      "last_seen": "2026-08-13T08:58:07.438470+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 20509.52,
+      "traders": [
+        "BBQChickenisthebesttt",
+        "danielwolfmorales3pddb6dl6",
+        "thecomplicatedguy"
+      ],
+      "url": "https://polymarket.com/event/lol-wb-nip-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-13T07:48:33.266322+00:00"
+  "updated_at": "2026-08-13T08:58:07.438470+00:00"
 }
