@@ -1,6 +1,69 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 97430.49,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.1923,
+          "value": 94690.76,
+          "avg_price": 0.5999,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 1.1157,
+          "value": 2356.79,
+          "avg_price": 0.6071,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.5609,
+          "value": 382.94,
+          "avg_price": 0.5,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Will Nigel Farage win 70\u201380% of votes in the Clacton parliamentary by-election?",
+      "slug": "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 32646.77,
+      "holders": [
+        {
+          "trader": "coali10",
+          "roi": 0.1923,
+          "value": 31777.72,
+          "avg_price": 0.3495,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.5609,
+          "value": 740.94,
+          "avg_price": 1.957,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "Mysaria",
+          "roi": 0.2006,
+          "value": 128.11,
+          "avg_price": 4.4788,
+          "cur_price": 0.52
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
       "slug": "cs2-lgc-faze-2026-08-13",
@@ -28,50 +91,6 @@
           "value": 300,
           "avg_price": 0.49,
           "cur_price": 0.03
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A",
-      "slug": "cs2-big5-g2-2026-08-13",
-      "outcome": "G2",
-      "num_traders": 5,
-      "total_value": 80420.62,
-      "holders": [
-        {
-          "trader": "basementdweller3000",
-          "roi": 0.3277,
-          "value": 59970,
-          "avg_price": 0.62,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.1816,
-          "value": 10994.5,
-          "avg_price": 0.64,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TrumpFaather",
-          "roi": 0.1897,
-          "value": 7471.23,
-          "avg_price": 0.6499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 1.4089,
-          "value": 1239.24,
-          "avg_price": 0.8239,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1776,
-          "value": 745.65,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -689,10 +708,9 @@
     "lol-gen-hle1-2026-08-13::Gen.G": 3,
     "dota2-lgd-tr7-2026-08-13-game2::LGD Gaming": 3,
     "dota2-lgd-tr7-2026-08-13::LGD Gaming": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "dota2-vsn2-flc-2026-08-13::TEAM VISION": 3,
-    "cs2-big5-g2-2026-08-13::G2": 2,
-    "cs2-lgc-faze-2026-08-13::Legacy": 1
+    "cs2-big5-g2-2026-08-13::G2": 3,
+    "cs2-lgc-faze-2026-08-13::Legacy": 2
   },
-  "updated_at": "2026-08-13T19:43:35.731803+00:00"
+  "updated_at": "2026-08-13T20:23:33.454856+00:00"
 }
