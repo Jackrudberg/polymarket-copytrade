@@ -13654,7 +13654,7 @@
       "slug": "lol-wb-nip-2026-08-13",
       "side": "Ninjas in Pyjamas",
       "alerted_at": "2026-08-13T08:58:07.438470+00:00",
-      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T12:02:21.241160+00:00",
       "entry_price": 0.525,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -13686,7 +13686,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 9777.28,
       "traders": [
@@ -13695,7 +13695,8 @@
         "danielwolfmorales3pddb6dl6",
         "Nooserac"
       ],
-      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13"
+      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13",
+      "consensus_lost_at": "2026-08-13T12:02:21.241160+00:00"
     },
     {
       "signal_id": "dota2-ts8-xtreme-2026-08-13::Team Spirit",
@@ -13735,7 +13736,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 49222.65,
       "traders": [
@@ -13743,7 +13744,8 @@
         "SineNooneEI",
         "danielwolfmorales3pddb6dl6"
       ],
-      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13"
+      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13",
+      "consensus_lost_at": "2026-08-13T12:02:21.241160+00:00"
     },
     {
       "signal_id": "dota2-ts8-xtreme-2026-08-13-game1::Team Spirit",
@@ -13759,7 +13761,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 37227.51,
       "traders": [
@@ -13767,7 +13769,8 @@
         "DOLBAEB1",
         "canoflanagan"
       ],
-      "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13-game1"
+      "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13-game1",
+      "consensus_lost_at": "2026-08-13T12:02:21.241160+00:00"
     },
     {
       "signal_id": "dota2-ts8-xtreme-2026-08-13-game2::Team Spirit",
@@ -13871,14 +13874,14 @@
       "slug": "dota2-ngx-og-2026-08-13-game2",
       "side": "Nigma Galaxy",
       "alerted_at": "2026-08-13T11:14:05.382603+00:00",
-      "last_seen": "2026-08-13T11:14:05.382603+00:00",
+      "last_seen": "2026-08-13T12:02:21.241160+00:00",
       "entry_price": 0.555,
-      "current_price": 0.555,
+      "current_price": 0.42,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 75.68,
+      "paper_pnl": -24.32,
+      "return_percent": -24.32,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 17420.59,
@@ -13888,7 +13891,79 @@
         "TrumpFaather"
       ],
       "url": "https://polymarket.com/event/dota2-ngx-og-2026-08-13-game2"
+    },
+    {
+      "signal_id": "dota2-lgd-tr7-2026-08-13-game1::Team Resilience",
+      "market": "Dota 2: LGD Gaming vs Team Resilience - Game 1 Winner",
+      "slug": "dota2-lgd-tr7-2026-08-13-game1",
+      "side": "Team Resilience",
+      "alerted_at": "2026-08-13T12:02:21.241160+00:00",
+      "last_seen": "2026-08-13T12:02:21.241160+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 30930.72,
+      "traders": [
+        "CORGI8",
+        "DOLBAEB1",
+        "momijidan"
+      ],
+      "url": "https://polymarket.com/event/dota2-lgd-tr7-2026-08-13-game1"
+    },
+    {
+      "signal_id": "dota2-lgd-tr7-2026-08-13-game2::LGD Gaming",
+      "market": "Dota 2: LGD Gaming vs Team Resilience - Game 2 Winner",
+      "slug": "dota2-lgd-tr7-2026-08-13-game2",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-13T12:02:21.241160+00:00",
+      "last_seen": "2026-08-13T12:02:21.241160+00:00",
+      "entry_price": 0.77,
+      "current_price": 0.77,
+      "stake": 100.0,
+      "shares": 129.87013,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 24717.64,
+      "traders": [
+        "canoflanagan",
+        "DOLBAEB1",
+        "CORGI8"
+      ],
+      "url": "https://polymarket.com/event/dota2-lgd-tr7-2026-08-13-game2"
+    },
+    {
+      "signal_id": "dota2-boombo-ironwi-2026-08-13::BoomBoys",
+      "market": "Dota 2: BoomBoys vs Iron Wing (BO3) - The International Group Stage",
+      "slug": "dota2-boombo-ironwi-2026-08-13",
+      "side": "BoomBoys",
+      "alerted_at": "2026-08-13T12:02:21.241160+00:00",
+      "last_seen": "2026-08-13T12:02:21.241160+00:00",
+      "entry_price": 0.155,
+      "current_price": 0.155,
+      "stake": 100.0,
+      "shares": 645.16129,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 16085.49,
+      "traders": [
+        "Weaseloftheweek",
+        "canoflanagan",
+        "momijidan"
+      ],
+      "url": "https://polymarket.com/event/dota2-boombo-ironwi-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-13T11:14:05.382603+00:00"
+  "updated_at": "2026-08-13T12:02:21.241160+00:00"
 }
