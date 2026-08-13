@@ -1,6 +1,8 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
+    "will-rodri-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
     {
@@ -8,25 +10,25 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 97430.49,
+      "total_value": 97395.24,
       "holders": [
         {
           "trader": "coali10",
-          "roi": 0.1999,
+          "roi": 0.2239,
           "value": 94690.76,
           "avg_price": 0.5999,
           "cur_price": 0.705
         },
         {
           "trader": "cigarettes",
-          "roi": 1.0971,
-          "value": 2356.79,
+          "roi": 1.0906,
+          "value": 2321.54,
           "avg_price": 0.6071,
           "cur_price": 0.705
         },
         {
           "trader": "donthackme",
-          "roi": 0.5574,
+          "roi": 0.5906,
           "value": 382.94,
           "avg_price": 0.5,
           "cur_price": 0.705
@@ -34,32 +36,62 @@
       ]
     },
     {
-      "market": "Will Nigel Farage win 70\u201380% of votes in the Clacton parliamentary by-election?",
-      "slug": "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125",
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 32646.77,
+      "total_value": 8756.65,
       "holders": [
         {
           "trader": "coali10",
-          "roi": 0.1923,
-          "value": 31777.72,
-          "avg_price": 0.3495,
-          "cur_price": 0.52
+          "roi": 0.2239,
+          "value": 6795.45,
+          "avg_price": 0.585,
+          "cur_price": 0.655
         },
         {
           "trader": "donthackme",
-          "roi": 0.5609,
-          "value": 740.94,
-          "avg_price": 1.957,
-          "cur_price": 0.52
+          "roi": 0.5906,
+          "value": 1499.55,
+          "avg_price": 0.5012,
+          "cur_price": 0.655
         },
         {
-          "trader": "Mysaria",
-          "roi": 0.2006,
-          "value": 128.11,
-          "avg_price": 4.4788,
-          "cur_price": 0.52
+          "trader": "balthazar",
+          "roi": 0.2783,
+          "value": 461.65,
+          "avg_price": 0.5021,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1064.91,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.5906,
+          "value": 409.0,
+          "avg_price": 0.5,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2783,
+          "value": 369.18,
+          "avg_price": 0.4112,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 1.0906,
+          "value": 286.73,
+          "avg_price": 0.4999,
+          "cur_price": 0.075
         }
       ]
     }
@@ -319,7 +351,6 @@
     "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "mlb-pit-cin-2026-07-30::Cincinnati Reds": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3,
     "mlb-sea-lad-2026-07-30::Los Angeles Dodgers": 3,
@@ -640,7 +671,6 @@
     "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No": 3,
     "usc-psg-av-2026-08-12-psg::Yes": 3,
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes": 3,
     "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes": 3,
     "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702::Yes": 3,
@@ -680,7 +710,7 @@
     "dota2-vsn2-flc-2026-08-13::TEAM VISION": 3,
     "cs2-big5-g2-2026-08-13::G2": 3,
     "cs2-lgc-faze-2026-08-13::Legacy": 3,
-    "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes": 2
+    "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes": 3
   },
-  "updated_at": "2026-08-13T22:05:10.488837+00:00"
+  "updated_at": "2026-08-13T22:59:08.194084+00:00"
 }
