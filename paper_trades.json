@@ -14094,7 +14094,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 30953.45,
       "traders": [
@@ -14102,7 +14102,8 @@
         "Skritopoolniy",
         "TrumpFaather"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-flc-2026-08-13"
+      "url": "https://polymarket.com/event/dota2-vsn2-flc-2026-08-13",
+      "consensus_lost_at": "2026-08-13T18:38:03.960265+00:00"
     },
     {
       "signal_id": "cs2-lgc-faze-2026-08-13::Legacy",
@@ -14110,14 +14111,14 @@
       "slug": "cs2-lgc-faze-2026-08-13",
       "side": "Legacy",
       "alerted_at": "2026-08-13T16:37:11.881628+00:00",
-      "last_seen": "2026-08-13T17:40:26.827522+00:00",
+      "last_seen": "2026-08-13T18:38:03.960265+00:00",
       "entry_price": 0.485,
-      "current_price": 0.265,
+      "current_price": 0.03,
       "stake": 100.0,
       "shares": 206.185567,
-      "current_value": 54.64,
-      "paper_pnl": -45.36,
-      "return_percent": -45.36,
+      "current_value": 6.19,
+      "paper_pnl": -93.81,
+      "return_percent": -93.81,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 25962.79,
@@ -14129,5 +14130,5 @@
       "url": "https://polymarket.com/event/cs2-lgc-faze-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-13T17:40:26.827522+00:00"
+  "updated_at": "2026-08-13T18:38:03.960265+00:00"
 }

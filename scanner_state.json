@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "cs2-big5-g2-2026-08-13::G2",
     "cs2-lgc-faze-2026-08-13::Legacy"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
+      "slug": "cs2-lgc-faze-2026-08-13",
+      "outcome": "Legacy",
+      "num_traders": 3,
+      "total_value": 1725.0,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.2402,
+          "value": 750.0,
+          "avg_price": 0.48,
+          "cur_price": 0.03
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.163,
+          "value": 675.0,
+          "avg_price": 0.4866,
+          "cur_price": 0.03
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.1996,
+          "value": 300,
+          "avg_price": 0.49,
+          "cur_price": 0.03
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A",
       "slug": "cs2-big5-g2-2026-08-13",
@@ -49,36 +78,6 @@
       ]
     },
     {
-      "market": "Counter-Strike: Legacy vs FaZe (BO3) - Esports World Cup Group B",
-      "slug": "cs2-lgc-faze-2026-08-13",
-      "outcome": "Legacy",
-      "num_traders": 3,
-      "total_value": 15237.46,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2431,
-          "value": 6624.99,
-          "avg_price": 0.48,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1776,
-          "value": 5962.47,
-          "avg_price": 0.4866,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "thecomplicatedguy",
-          "roi": 0.2701,
-          "value": 2650,
-          "avg_price": 0.49,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
       "market": "Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage",
       "slug": "dota2-vsn2-flc-2026-08-13",
       "outcome": "TEAM VISION",
@@ -105,73 +104,6 @@
           "value": 588.67,
           "avg_price": 0.56,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: LGD Gaming vs Team Resilience (BO3) - The International Group Stage",
-      "slug": "dota2-lgd-tr7-2026-08-13",
-      "outcome": "LGD Gaming",
-      "num_traders": 4,
-      "total_value": 32445.3,
-      "holders": [
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.1658,
-          "value": 15708.9,
-          "avg_price": 0.5448,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.184,
-          "value": 10920.05,
-          "avg_price": 0.571,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TrumpFaather",
-          "roi": 0.1907,
-          "value": 3747.32,
-          "avg_price": 0.5886,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "momijidan",
-          "roi": 0.2321,
-          "value": 2069.03,
-          "avg_price": 0.58,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 102471.67,
-      "holders": [
-        {
-          "trader": "ImJustKen",
-          "roi": 0.2834,
-          "value": 99693.07,
-          "avg_price": 0.5934,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 1.5619,
-          "value": 2390.22,
-          "avg_price": 0.6071,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4573,
-          "value": 388.38,
-          "avg_price": 0.5,
-          "cur_price": 0.715
         }
       ]
     }
@@ -788,9 +720,10 @@
     "dota2-boombo-ironwi-2026-08-13::BoomBoys": 3,
     "lol-gen-hle1-2026-08-13::Gen.G": 3,
     "dota2-lgd-tr7-2026-08-13-game2::LGD Gaming": 3,
-    "dota2-lgd-tr7-2026-08-13::LGD Gaming": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "dota2-vsn2-flc-2026-08-13::TEAM VISION": 1
+    "dota2-lgd-tr7-2026-08-13::LGD Gaming": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "dota2-vsn2-flc-2026-08-13::TEAM VISION": 2,
+    "cs2-big5-g2-2026-08-13::G2": 1
   },
-  "updated_at": "2026-08-13T17:40:26.840301+00:00"
+  "updated_at": "2026-08-13T18:38:03.972981+00:00"
 }
