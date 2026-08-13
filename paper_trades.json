@@ -13282,7 +13282,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 31599.22,
       "traders": [
@@ -13291,7 +13291,8 @@
         "0x076daa",
         "curie"
       ],
-      "url": "https://polymarket.com/event/mlb-kc-lad-2026-08-12"
+      "url": "https://polymarket.com/event/mlb-kc-lad-2026-08-12",
+      "consensus_lost_at": "2026-08-13T06:03:11.660987+00:00"
     },
     {
       "signal_id": "lib-cru-fla-2026-08-12-total-2pt5::Under",
@@ -13307,7 +13308,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 61607.99,
       "traders": [
@@ -13315,7 +13316,8 @@
         "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/lib-cru-fla-2026-08-12-total-2pt5"
+      "url": "https://polymarket.com/event/lib-cru-fla-2026-08-12-total-2pt5",
+      "consensus_lost_at": "2026-08-13T06:03:11.660987+00:00"
     },
     {
       "signal_id": "wnba-tor-dal-2026-08-12::Dallas Wings",
@@ -13331,7 +13333,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8785.73,
       "traders": [
@@ -13339,7 +13341,8 @@
         "curie",
         "wr0ngw4yb3tt0r"
       ],
-      "url": "https://polymarket.com/event/wnba-tor-dal-2026-08-12"
+      "url": "https://polymarket.com/event/wnba-tor-dal-2026-08-12",
+      "consensus_lost_at": "2026-08-13T06:03:11.660987+00:00"
     },
     {
       "signal_id": "atp-tomic-winter-2026-08-11::Edward Winter",
@@ -13355,7 +13358,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8770.35,
       "traders": [
@@ -13363,7 +13366,8 @@
         "flatbarrel",
         "TRCM"
       ],
-      "url": "https://polymarket.com/event/atp-tomic-winter-2026-08-11"
+      "url": "https://polymarket.com/event/atp-tomic-winter-2026-08-11",
+      "consensus_lost_at": "2026-08-13T06:03:11.660987+00:00"
     },
     {
       "signal_id": "dota2-flc-lgd-2026-08-12::LGD Gaming",
@@ -13379,7 +13383,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2097.02,
       "traders": [
@@ -13387,7 +13391,8 @@
         "0x076daa",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12"
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12",
+      "consensus_lost_at": "2026-08-13T06:03:11.660987+00:00"
     },
     {
       "signal_id": "wta-gauff-rybakin-2026-08-12::Elena Rybakina",
@@ -13436,7 +13441,32 @@
         "flatbarrel"
       ],
       "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12"
+    },
+    {
+      "signal_id": "dota2-flc-lgd-2026-08-12-game1::LGD Gaming",
+      "market": "Dota 2: Team Falcons vs LGD Gaming - Game 1 Winner",
+      "slug": "dota2-flc-lgd-2026-08-12-game1",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-13T06:03:11.660987+00:00",
+      "last_seen": "2026-08-13T06:03:11.660987+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 88698.51,
+      "traders": [
+        "canoflanagan",
+        "bvrs",
+        "Skritopoolniy",
+        "ARI100KRAT"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game1"
     }
   ],
-  "updated_at": "2026-08-13T04:32:42.597947+00:00"
+  "updated_at": "2026-08-13T06:03:11.660987+00:00"
 }
