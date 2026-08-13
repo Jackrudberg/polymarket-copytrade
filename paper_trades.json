@@ -3557,15 +3557,15 @@
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
       "side": "Yes",
       "alerted_at": "2026-07-22T16:06:58.948618+00:00",
-      "last_seen": "2026-08-04T14:44:59.985876+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
       "entry_price": 0.1995,
-      "current_price": 0.2075,
+      "current_price": 0.2305,
       "stake": 100.0,
       "shares": 501.253133,
-      "current_value": 104.01,
-      "paper_pnl": 4.01,
-      "return_percent": 4.01,
-      "status": "CONSENSUS_LOST",
+      "current_value": 115.54,
+      "paper_pnl": 15.54,
+      "return_percent": 15.54,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 14642.13,
       "traders": [
@@ -13408,7 +13408,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 19068.88,
       "traders": [
@@ -13416,7 +13416,8 @@
         "monkeymashingkeyboard",
         "flatbarrel"
       ],
-      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12"
+      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12",
+      "consensus_lost_at": "2026-08-13T07:48:33.266322+00:00"
     },
     {
       "signal_id": "wta-gauff-rybakin-2026-08-12::Coco Gauff",
@@ -13432,7 +13433,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2983.0,
       "traders": [
@@ -13440,7 +13441,8 @@
         "TRCM",
         "flatbarrel"
       ],
-      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12"
+      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12",
+      "consensus_lost_at": "2026-08-13T07:48:33.266322+00:00"
     },
     {
       "signal_id": "dota2-flc-lgd-2026-08-12-game1::LGD Gaming",
@@ -13466,7 +13468,155 @@
         "ARI100KRAT"
       ],
       "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game1"
+    },
+    {
+      "signal_id": "dota2-liquid-vg-2026-08-13-game1::Team Liquid",
+      "market": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
+      "slug": "dota2-liquid-vg-2026-08-13-game1",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 107108.13,
+      "traders": [
+        "Nooserac",
+        "DOLBAEB1",
+        "Anjun",
+        "canoflanagan",
+        "zb8",
+        "Skritopoolniy"
+      ],
+      "url": "https://polymarket.com/event/dota2-liquid-vg-2026-08-13-game1"
+    },
+    {
+      "signal_id": "dota2-boombo-og-2026-08-12::BoomBoys",
+      "market": "Dota 2: BoomBoys vs OG (BO3) - The International Group Stage",
+      "slug": "dota2-boombo-og-2026-08-12",
+      "side": "BoomBoys",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 136261.6,
+      "traders": [
+        "lIlIlIllllIIIII",
+        "zb8",
+        "Nooserac",
+        "Anjun"
+      ],
+      "url": "https://polymarket.com/event/dota2-boombo-og-2026-08-12"
+    },
+    {
+      "signal_id": "will-jd-vance-win-the-2028-us-presidential-election::No",
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "side": "No",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.7695,
+      "current_price": 0.7695,
+      "stake": 100.0,
+      "shares": 129.954516,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1423581.53,
+      "traders": [
+        "S-Works",
+        "Anjun",
+        "zb8"
+      ],
+      "url": "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election"
+    },
+    {
+      "signal_id": "dota2-flc-lgd-2026-08-12::Team Falcons",
+      "market": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
+      "slug": "dota2-flc-lgd-2026-08-12",
+      "side": "Team Falcons",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 215000.16,
+      "traders": [
+        "S-Works",
+        "Nooserac",
+        "DOLBAEB1"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12"
+    },
+    {
+      "signal_id": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming",
+      "market": "Game Handicap: FLC (-1.5) vs LGD Gaming (+1.5)",
+      "slug": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 69692.18,
+      "traders": [
+        "Nooserac",
+        "Anjun",
+        "zb8"
+      ],
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5"
+    },
+    {
+      "signal_id": "dota2-aur1-gl-2026-08-13-game1::Aurora",
+      "market": "Dota 2: Aurora vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-aur1-gl-2026-08-13-game1",
+      "side": "Aurora",
+      "alerted_at": "2026-08-13T07:48:33.266322+00:00",
+      "last_seen": "2026-08-13T07:48:33.266322+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 32692.22,
+      "traders": [
+        "Nooserac",
+        "Skritopoolniy",
+        "canoflanagan"
+      ],
+      "url": "https://polymarket.com/event/dota2-aur1-gl-2026-08-13-game1"
     }
   ],
-  "updated_at": "2026-08-13T06:03:11.660987+00:00"
+  "updated_at": "2026-08-13T07:48:33.266322+00:00"
 }
