@@ -1,11 +1,200 @@
 {
   "seen_ids": [
-    "dota2-liquid-vg-2026-08-13-game1::Team Liquid",
-    "dota2-aur1-gl-2026-08-13-game1::Aurora",
-    "lol-gen-hle1-2026-08-13::Gen.G",
-    "lol-wb-nip-2026-08-13::Ninjas in Pyjamas"
+    "lol-drx-fox1-2026-08-13::Kiwoom DRX",
+    "dota2-ts8-xtreme-2026-08-13::Team Spirit",
+    "lol-wb-nip-2026-08-13::Ninjas in Pyjamas",
+    "lol-drx-fox1-2026-08-13::BNK FEARX",
+    "dota2-ts8-xtreme-2026-08-13-game1::Team Spirit",
+    "dota2-ts8-xtreme-2026-08-13-game2::Team Spirit"
   ],
   "signals": [
+    {
+      "market": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-drx-fox1-2026-08-13",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 4,
+      "total_value": 9777.28,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.2405,
+          "value": 4602.29,
+          "avg_price": 0.4149,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "Prelode",
+          "roi": 0.255,
+          "value": 3335.0,
+          "avg_price": 0.287,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "danielwolfmorales3pddb6dl6",
+          "roi": 0.2143,
+          "value": 1264.99,
+          "avg_price": 0.4445,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2389,
+          "value": 575,
+          "avg_price": 0.41,
+          "cur_price": 0.115
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage",
+      "slug": "dota2-ts8-xtreme-2026-08-13",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 143459.24,
+      "holders": [
+        {
+          "trader": "TrumpFaather",
+          "roi": 0.1922,
+          "value": 95468.24,
+          "avg_price": 0.627,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2389,
+          "value": 39355.32,
+          "avg_price": 0.6171,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "JimboBimboS",
+          "roi": 0.1515,
+          "value": 8635.68,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "slug": "lol-wb-nip-2026-08-13",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 3,
+      "total_value": 115518.7,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.2405,
+          "value": 85713.07,
+          "avg_price": 0.5239,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Prelode",
+          "roi": 0.255,
+          "value": 20744.34,
+          "avg_price": 0.5299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.4312,
+          "value": 9061.29,
+          "avg_price": 0.5399,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-drx-fox1-2026-08-13",
+      "outcome": "BNK FEARX",
+      "num_traders": 3,
+      "total_value": 49222.65,
+      "holders": [
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.1653,
+          "value": 32444.68,
+          "avg_price": 0.4835,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.3635,
+          "value": 13923.13,
+          "avg_price": 0.5699,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "danielwolfmorales3pddb6dl6",
+          "roi": 0.2143,
+          "value": 2854.84,
+          "avg_price": 0.3099,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+      "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 37227.51,
+      "holders": [
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.1786,
+          "value": 15222.12,
+          "avg_price": 0.4086,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DOLBAEB1",
+          "roi": 0.1754,
+          "value": 15186.05,
+          "avg_price": 0.4411,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2237,
+          "value": 6819.34,
+          "avg_price": 0.3961,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming - Game 2 Winner",
+      "slug": "dota2-ts8-xtreme-2026-08-13-game2",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 36074.81,
+      "holders": [
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2237,
+          "value": 20359.3,
+          "avg_price": 0.2706,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.1786,
+          "value": 12108.38,
+          "avg_price": 0.4387,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "DOLBAEB1",
+          "roi": 0.1754,
+          "value": 3607.13,
+          "avg_price": 0.3823,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Dota 2: Team Liquid vs Vici Gaming - Game 1 Winner",
       "slug": "dota2-liquid-vg-2026-08-13-game1",
@@ -100,36 +289,6 @@
           "value": 5549.98,
           "avg_price": 0.56,
           "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
-      "slug": "lol-wb-nip-2026-08-13",
-      "outcome": "Ninjas in Pyjamas",
-      "num_traders": 3,
-      "total_value": 20509.52,
-      "holders": [
-        {
-          "trader": "BBQChickenisthebesttt",
-          "roi": 0.2108,
-          "value": 10500,
-          "avg_price": 0.52,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "danielwolfmorales3pddb6dl6",
-          "roi": 0.2148,
-          "value": 5249.96,
-          "avg_price": 0.5399,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "thecomplicatedguy",
-          "roi": 0.5279,
-          "value": 4759.56,
-          "avg_price": 0.5399,
-          "cur_price": 0.525
         }
       ]
     },
@@ -286,43 +445,6 @@
           "roi": 0.2272,
           "value": 19990,
           "avg_price": 0.42,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Falcons vs LGD Gaming - Game 1 Winner",
-      "slug": "dota2-flc-lgd-2026-08-12-game1",
-      "outcome": "LGD Gaming",
-      "num_traders": 4,
-      "total_value": 88698.51,
-      "holders": [
-        {
-          "trader": "canoflanagan",
-          "roi": 0.3011,
-          "value": 35947.57,
-          "avg_price": 0.3021,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "bvrs",
-          "roi": 0.2244,
-          "value": 22981.99,
-          "avg_price": 0.2738,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.3657,
-          "value": 15158.39,
-          "avg_price": 0.3049,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.3186,
-          "value": 14610.56,
-          "avg_price": 0.2618,
           "cur_price": 0.9995
         }
       ]
@@ -917,12 +1039,15 @@
     "dota2-flc-lgd-2026-08-12::LGD Gaming": 3,
     "wta-gauff-rybakin-2026-08-12::Elena Rybakina": 3,
     "wta-gauff-rybakin-2026-08-12::Coco Gauff": 3,
-    "dota2-flc-lgd-2026-08-12-game1::LGD Gaming": 2,
-    "dota2-boombo-og-2026-08-12::BoomBoys": 1,
-    "will-jd-vance-win-the-2028-us-presidential-election::No": 1,
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
-    "dota2-flc-lgd-2026-08-12::Team Falcons": 1,
-    "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming": 1
+    "dota2-flc-lgd-2026-08-12-game1::LGD Gaming": 3,
+    "dota2-boombo-og-2026-08-12::BoomBoys": 2,
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 2,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 2,
+    "dota2-flc-lgd-2026-08-12::Team Falcons": 2,
+    "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming": 2,
+    "dota2-liquid-vg-2026-08-13-game1::Team Liquid": 1,
+    "dota2-aur1-gl-2026-08-13-game1::Aurora": 1,
+    "lol-gen-hle1-2026-08-13::Gen.G": 1
   },
-  "updated_at": "2026-08-13T08:58:07.447691+00:00"
+  "updated_at": "2026-08-13T10:16:45.058609+00:00"
 }

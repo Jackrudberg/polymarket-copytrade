@@ -3565,7 +3565,7 @@
       "current_value": 115.54,
       "paper_pnl": 15.54,
       "return_percent": 15.54,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14642.13,
       "traders": [
@@ -3574,7 +3574,7 @@
         "tetrose"
       ],
       "url": "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election",
-      "consensus_lost_at": "2026-08-04T18:16:19.463666+00:00"
+      "consensus_lost_at": "2026-08-13T10:16:45.045986+00:00"
     },
     {
       "signal_id": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes",
@@ -13511,7 +13511,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 136261.6,
       "traders": [
@@ -13520,7 +13520,8 @@
         "Nooserac",
         "Anjun"
       ],
-      "url": "https://polymarket.com/event/dota2-boombo-og-2026-08-12"
+      "url": "https://polymarket.com/event/dota2-boombo-og-2026-08-12",
+      "consensus_lost_at": "2026-08-13T10:16:45.045986+00:00"
     },
     {
       "signal_id": "will-jd-vance-win-the-2028-us-presidential-election::No",
@@ -13536,7 +13537,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1423581.53,
       "traders": [
@@ -13544,7 +13545,8 @@
         "Anjun",
         "zb8"
       ],
-      "url": "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election"
+      "url": "https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election",
+      "consensus_lost_at": "2026-08-13T10:16:45.045986+00:00"
     },
     {
       "signal_id": "dota2-flc-lgd-2026-08-12::Team Falcons",
@@ -13560,7 +13562,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 215000.16,
       "traders": [
@@ -13568,7 +13570,8 @@
         "Nooserac",
         "DOLBAEB1"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12"
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12",
+      "consensus_lost_at": "2026-08-13T10:16:45.045986+00:00"
     },
     {
       "signal_id": "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming",
@@ -13584,7 +13587,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 69692.18,
       "traders": [
@@ -13592,7 +13595,8 @@
         "Anjun",
         "zb8"
       ],
-      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5"
+      "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5",
+      "consensus_lost_at": "2026-08-13T10:16:45.045986+00:00"
     },
     {
       "signal_id": "dota2-aur1-gl-2026-08-13-game1::Aurora",
@@ -13648,14 +13652,14 @@
       "slug": "lol-wb-nip-2026-08-13",
       "side": "Ninjas in Pyjamas",
       "alerted_at": "2026-08-13T08:58:07.438470+00:00",
-      "last_seen": "2026-08-13T08:58:07.438470+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
       "entry_price": 0.525,
-      "current_price": 0.525,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 190.47619,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 190.38,
+      "paper_pnl": 90.38,
+      "return_percent": 90.38,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 20509.52,
@@ -13665,7 +13669,128 @@
         "thecomplicatedguy"
       ],
       "url": "https://polymarket.com/event/lol-wb-nip-2026-08-13"
+    },
+    {
+      "signal_id": "lol-drx-fox1-2026-08-13::Kiwoom DRX",
+      "market": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-drx-fox1-2026-08-13",
+      "side": "Kiwoom DRX",
+      "alerted_at": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "entry_price": 0.115,
+      "current_price": 0.115,
+      "stake": 100.0,
+      "shares": 869.565217,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 9777.28,
+      "traders": [
+        "Lakersfan111",
+        "Prelode",
+        "danielwolfmorales3pddb6dl6",
+        "Nooserac"
+      ],
+      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13"
+    },
+    {
+      "signal_id": "dota2-ts8-xtreme-2026-08-13::Team Spirit",
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - The International Group Stage",
+      "slug": "dota2-ts8-xtreme-2026-08-13",
+      "side": "Team Spirit",
+      "alerted_at": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 143459.24,
+      "traders": [
+        "TrumpFaather",
+        "Nooserac",
+        "JimboBimboS"
+      ],
+      "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13"
+    },
+    {
+      "signal_id": "lol-drx-fox1-2026-08-13::BNK FEARX",
+      "market": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-drx-fox1-2026-08-13",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "entry_price": 0.885,
+      "current_price": 0.885,
+      "stake": 100.0,
+      "shares": 112.99435,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 49222.65,
+      "traders": [
+        "BBQChickenisthebesttt",
+        "SineNooneEI",
+        "danielwolfmorales3pddb6dl6"
+      ],
+      "url": "https://polymarket.com/event/lol-drx-fox1-2026-08-13"
+    },
+    {
+      "signal_id": "dota2-ts8-xtreme-2026-08-13-game1::Team Spirit",
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+      "slug": "dota2-ts8-xtreme-2026-08-13-game1",
+      "side": "Team Spirit",
+      "alerted_at": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 37227.51,
+      "traders": [
+        "Skritopoolniy",
+        "DOLBAEB1",
+        "canoflanagan"
+      ],
+      "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13-game1"
+    },
+    {
+      "signal_id": "dota2-ts8-xtreme-2026-08-13-game2::Team Spirit",
+      "market": "Dota 2: Team Spirit vs Xtreme Gaming - Game 2 Winner",
+      "slug": "dota2-ts8-xtreme-2026-08-13-game2",
+      "side": "Team Spirit",
+      "alerted_at": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 36074.81,
+      "traders": [
+        "canoflanagan",
+        "Skritopoolniy",
+        "DOLBAEB1"
+      ],
+      "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13-game2"
     }
   ],
-  "updated_at": "2026-08-13T08:58:07.438470+00:00"
+  "updated_at": "2026-08-13T10:16:45.045986+00:00"
 }
