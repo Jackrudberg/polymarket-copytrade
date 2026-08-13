@@ -1,12 +1,69 @@
 {
   "seen_ids": [
-    "mlb-kc-lad-2026-08-12::Los Angeles Dodgers",
-    "lib-cru-fla-2026-08-12-total-2pt5::Under",
-    "wnba-tor-dal-2026-08-12::Dallas Wings",
-    "atp-tomic-winter-2026-08-11::Edward Winter",
-    "dota2-flc-lgd-2026-08-12::LGD Gaming"
+    "wta-gauff-rybakin-2026-08-12::Elena Rybakina",
+    "wta-gauff-rybakin-2026-08-12::Coco Gauff"
   ],
   "signals": [
+    {
+      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
+      "slug": "wta-gauff-rybakin-2026-08-12",
+      "outcome": "Elena Rybakina",
+      "num_traders": 3,
+      "total_value": 19068.88,
+      "holders": [
+        {
+          "trader": "danielwolfmorales3pddb6dl6",
+          "roi": 0.1914,
+          "value": 10008.18,
+          "avg_price": 0.4389,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.2723,
+          "value": 8175,
+          "avg_price": 0.45,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "flatbarrel",
+          "roi": 0.2665,
+          "value": 885.7,
+          "avg_price": 0.4496,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
+      "slug": "wta-gauff-rybakin-2026-08-12",
+      "outcome": "Coco Gauff",
+      "num_traders": 3,
+      "total_value": 2983.0,
+      "holders": [
+        {
+          "trader": "danielwolfmorales3pddb6dl6",
+          "roi": 0.1914,
+          "value": 2730,
+          "avg_price": 0.44,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "TRCM",
+          "roi": 0.1814,
+          "value": 131.24,
+          "avg_price": 0.5947,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "flatbarrel",
+          "roi": 0.2665,
+          "value": 121.76,
+          "avg_price": 0.597,
+          "cur_price": 0.455
+        }
+      ]
+    },
     {
       "market": "Kansas City Royals vs. Los Angeles Dodgers",
       "slug": "mlb-kc-lad-2026-08-12",
@@ -871,10 +928,15 @@
     "usc-psg-av-2026-08-12-psg::Yes": 3,
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes": 1,
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes": 1,
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702::Yes": 1,
-    "mlb-cle-det-2026-08-12::Detroit Tigers": 1
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes": 2,
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes": 2,
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702::Yes": 2,
+    "mlb-cle-det-2026-08-12::Detroit Tigers": 2,
+    "mlb-kc-lad-2026-08-12::Los Angeles Dodgers": 1,
+    "lib-cru-fla-2026-08-12-total-2pt5::Under": 1,
+    "wnba-tor-dal-2026-08-12::Dallas Wings": 1,
+    "atp-tomic-winter-2026-08-11::Edward Winter": 1,
+    "dota2-flc-lgd-2026-08-12::LGD Gaming": 1
   },
-  "updated_at": "2026-08-13T02:45:11.089906+00:00"
+  "updated_at": "2026-08-13T04:32:42.607100+00:00"
 }

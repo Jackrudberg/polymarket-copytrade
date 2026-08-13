@@ -13130,7 +13130,7 @@
       "current_value": 124.16,
       "paper_pnl": 24.16,
       "return_percent": 24.16,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 234576.09,
       "traders": [
@@ -13139,7 +13139,8 @@
         "Electricy",
         "PEYZ-BIGGEST-FAN"
       ],
-      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706"
+      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706",
+      "consensus_lost_at": "2026-08-13T04:32:42.597947+00:00"
     },
     {
       "signal_id": "cs2-vit-100t-2026-08-12::Vitality",
@@ -13180,7 +13181,7 @@
       "current_value": 338.81,
       "paper_pnl": 238.81,
       "return_percent": 238.81,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7362.49,
       "traders": [
@@ -13188,7 +13189,8 @@
         "Anjun",
         "Electricy"
       ],
-      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701"
+      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701",
+      "consensus_lost_at": "2026-08-13T04:32:42.597947+00:00"
     },
     {
       "signal_id": "usc-psg-av-2026-08-12-psg::Yes",
@@ -13230,7 +13232,7 @@
       "current_value": 114.23,
       "paper_pnl": 14.23,
       "return_percent": 14.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 64992.22,
       "traders": [
@@ -13238,7 +13240,8 @@
         "wwarden",
         "Electricy"
       ],
-      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702"
+      "url": "https://polymarket.com/event/will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702",
+      "consensus_lost_at": "2026-08-13T04:32:42.597947+00:00"
     },
     {
       "signal_id": "mlb-cle-det-2026-08-12::Detroit Tigers",
@@ -13254,7 +13257,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4722.82,
       "traders": [
@@ -13262,7 +13265,8 @@
         "wr0ngw4yb3tt0r",
         "hi774c"
       ],
-      "url": "https://polymarket.com/event/mlb-cle-det-2026-08-12"
+      "url": "https://polymarket.com/event/mlb-cle-det-2026-08-12",
+      "consensus_lost_at": "2026-08-13T04:32:42.597947+00:00"
     },
     {
       "signal_id": "mlb-kc-lad-2026-08-12::Los Angeles Dodgers",
@@ -13384,7 +13388,55 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/dota2-flc-lgd-2026-08-12"
+    },
+    {
+      "signal_id": "wta-gauff-rybakin-2026-08-12::Elena Rybakina",
+      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
+      "slug": "wta-gauff-rybakin-2026-08-12",
+      "side": "Elena Rybakina",
+      "alerted_at": "2026-08-13T04:32:42.597947+00:00",
+      "last_seen": "2026-08-13T04:32:42.597947+00:00",
+      "entry_price": 0.545,
+      "current_price": 0.545,
+      "stake": 100.0,
+      "shares": 183.486239,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 19068.88,
+      "traders": [
+        "danielwolfmorales3pddb6dl6",
+        "monkeymashingkeyboard",
+        "flatbarrel"
+      ],
+      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12"
+    },
+    {
+      "signal_id": "wta-gauff-rybakin-2026-08-12::Coco Gauff",
+      "market": "National Bank Open: Coco Gauff vs Elena Rybakina",
+      "slug": "wta-gauff-rybakin-2026-08-12",
+      "side": "Coco Gauff",
+      "alerted_at": "2026-08-13T04:32:42.597947+00:00",
+      "last_seen": "2026-08-13T04:32:42.597947+00:00",
+      "entry_price": 0.455,
+      "current_price": 0.455,
+      "stake": 100.0,
+      "shares": 219.78022,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2983.0,
+      "traders": [
+        "danielwolfmorales3pddb6dl6",
+        "TRCM",
+        "flatbarrel"
+      ],
+      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-08-12"
     }
   ],
-  "updated_at": "2026-08-13T02:45:11.077500+00:00"
+  "updated_at": "2026-08-13T04:32:42.597947+00:00"
 }
