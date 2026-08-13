@@ -7957,14 +7957,14 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-13T13:39:11.471892+00:00",
+      "last_seen": "2026-08-13T15:41:44.496928+00:00",
       "entry_price": 0.425,
-      "current_price": 0.725,
+      "current_price": 0.715,
       "stake": 100.0,
       "shares": 235.294118,
-      "current_value": 170.59,
-      "paper_pnl": 70.59,
-      "return_percent": 70.59,
+      "current_value": 168.24,
+      "paper_pnl": 68.24,
+      "return_percent": 68.24,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 14848.81,
@@ -13662,7 +13662,7 @@
       "current_value": 190.38,
       "paper_pnl": 90.38,
       "return_percent": 90.38,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20509.52,
       "traders": [
@@ -13670,7 +13670,8 @@
         "danielwolfmorales3pddb6dl6",
         "thecomplicatedguy"
       ],
-      "url": "https://polymarket.com/event/lol-wb-nip-2026-08-13"
+      "url": "https://polymarket.com/event/lol-wb-nip-2026-08-13",
+      "consensus_lost_at": "2026-08-13T15:41:44.496928+00:00"
     },
     {
       "signal_id": "lol-drx-fox1-2026-08-13::Kiwoom DRX",
@@ -13910,7 +13911,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 30930.72,
       "traders": [
@@ -13918,7 +13919,8 @@
         "DOLBAEB1",
         "momijidan"
       ],
-      "url": "https://polymarket.com/event/dota2-lgd-tr7-2026-08-13-game1"
+      "url": "https://polymarket.com/event/dota2-lgd-tr7-2026-08-13-game1",
+      "consensus_lost_at": "2026-08-13T15:41:44.496928+00:00"
     },
     {
       "signal_id": "dota2-lgd-tr7-2026-08-13-game2::LGD Gaming",
@@ -14026,14 +14028,14 @@
       "slug": "dota2-lgd-tr7-2026-08-13",
       "side": "LGD Gaming",
       "alerted_at": "2026-08-13T13:39:11.471892+00:00",
-      "last_seen": "2026-08-13T13:39:11.471892+00:00",
+      "last_seen": "2026-08-13T15:41:44.496928+00:00",
       "entry_price": 0.925,
-      "current_price": 0.925,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 108.108108,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 108.05,
+      "paper_pnl": 8.05,
+      "return_percent": 8.05,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 30026.91,
@@ -14044,7 +14046,56 @@
         "momijidan"
       ],
       "url": "https://polymarket.com/event/dota2-lgd-tr7-2026-08-13"
+    },
+    {
+      "signal_id": "cs2-big5-g2-2026-08-13::G2",
+      "market": "Counter-Strike: BIG vs G2 (BO3) - Esports World Cup Group A",
+      "slug": "cs2-big5-g2-2026-08-13",
+      "side": "G2",
+      "alerted_at": "2026-08-13T15:41:44.496928+00:00",
+      "last_seen": "2026-08-13T15:41:44.496928+00:00",
+      "entry_price": 0.765,
+      "current_price": 0.765,
+      "stake": 100.0,
+      "shares": 130.718954,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 59051.11,
+      "traders": [
+        "basementdweller3000",
+        "kotikizy",
+        "TrumpFaather",
+        "Nooserac"
+      ],
+      "url": "https://polymarket.com/event/cs2-big5-g2-2026-08-13"
+    },
+    {
+      "signal_id": "dota2-vsn2-flc-2026-08-13::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage",
+      "slug": "dota2-vsn2-flc-2026-08-13",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-13T15:41:44.496928+00:00",
+      "last_seen": "2026-08-13T15:41:44.496928+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 30953.45,
+      "traders": [
+        "canoflanagan",
+        "Skritopoolniy",
+        "TrumpFaather"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-flc-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-13T13:39:11.471892+00:00"
+  "updated_at": "2026-08-13T15:41:44.496928+00:00"
 }
