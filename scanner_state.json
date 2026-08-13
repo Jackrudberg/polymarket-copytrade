@@ -1,11 +1,169 @@
 {
   "seen_ids": [
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes",
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes",
-    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702::Yes",
-    "mlb-cle-det-2026-08-12::Detroit Tigers"
+    "mlb-kc-lad-2026-08-12::Los Angeles Dodgers",
+    "lib-cru-fla-2026-08-12-total-2pt5::Under",
+    "wnba-tor-dal-2026-08-12::Dallas Wings",
+    "atp-tomic-winter-2026-08-11::Edward Winter",
+    "dota2-flc-lgd-2026-08-12::LGD Gaming"
   ],
   "signals": [
+    {
+      "market": "Kansas City Royals vs. Los Angeles Dodgers",
+      "slug": "mlb-kc-lad-2026-08-12",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 4,
+      "total_value": 31599.22,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1685,
+          "value": 21333.33,
+          "avg_price": 0.6799,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.6439,
+          "value": 7125.74,
+          "avg_price": 0.6599,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.4878,
+          "value": 2489.28,
+          "avg_price": 0.6946,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "curie",
+          "roi": 0.2551,
+          "value": 650.87,
+          "avg_price": 0.5987,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Cruzeiro EC vs. CR Flamengo: O/U 2.5",
+      "slug": "lib-cru-fla-2026-08-12-total-2pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 61607.99,
+      "holders": [
+        {
+          "trader": "GoldenAlpha168",
+          "roi": 0.3914,
+          "value": 57485.08,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.21,
+          "value": 3468.27,
+          "avg_price": 0.575,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.4878,
+          "value": 654.64,
+          "avg_price": 0.555,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Toronto Tempo vs. Dallas Wings",
+      "slug": "wnba-tor-dal-2026-08-12",
+      "outcome": "Dallas Wings",
+      "num_traders": 3,
+      "total_value": 8785.73,
+      "holders": [
+        {
+          "trader": "0x076daa",
+          "roi": 0.4878,
+          "value": 5227.46,
+          "avg_price": 0.9653,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "curie",
+          "roi": 0.2551,
+          "value": 2520.75,
+          "avg_price": 0.9042,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3352,
+          "value": 1037.52,
+          "avg_price": 0.78,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Brownsburg: Bernard Tomic vs Edward Winter",
+      "slug": "atp-tomic-winter-2026-08-11",
+      "outcome": "Edward Winter",
+      "num_traders": 3,
+      "total_value": 8770.35,
+      "holders": [
+        {
+          "trader": "0x076daa",
+          "roi": 0.4878,
+          "value": 5356.03,
+          "avg_price": 0.4895,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "flatbarrel",
+          "roi": 0.4293,
+          "value": 1723.4,
+          "avg_price": 0.6479,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "TRCM",
+          "roi": 0.2887,
+          "value": 1690.92,
+          "avg_price": 0.6594,
+          "cur_price": 0.42
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Falcons vs LGD Gaming (BO3) - The International Group Stage",
+      "slug": "dota2-flc-lgd-2026-08-12",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 2097.02,
+      "holders": [
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.6439,
+          "value": 1442.31,
+          "avg_price": 0.1799,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.4878,
+          "value": 457.64,
+          "avg_price": 0.1799,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1685,
+          "value": 197.07,
+          "avg_price": 0.2099,
+          "cur_price": 0.215
+        }
+      ]
+    },
     {
       "market": "Will Kai and Speed beat the Minecraft challenge by August 12?",
       "slug": "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701",
@@ -130,96 +288,6 @@
           "value": 210.09,
           "avg_price": 0.53,
           "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Will Paris Saint-Germain win on 2026-08-12?",
-      "slug": "usc-psg-av-2026-08-12-psg",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 570734.72,
-      "holders": [
-        {
-          "trader": "HongYunX",
-          "roi": 0.4776,
-          "value": 300230.75,
-          "avg_price": 0.5759,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "bigspending",
-          "roi": 0.4105,
-          "value": 235408.18,
-          "avg_price": 0.5889,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1813,
-          "value": 35095.79,
-          "avg_price": 0.4809,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Billionaire one-time wealth tax passes in California election 2026?",
-      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 28781.75,
-      "holders": [
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.1749,
-          "value": 18014.9,
-          "avg_price": 0.5634,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.5214,
-          "value": 10330.48,
-          "avg_price": 0.5324,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "coali10",
-          "roi": 0.1607,
-          "value": 436.37,
-          "avg_price": 0.6292,
-          "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8773.18,
-      "holders": [
-        {
-          "trader": "coali10",
-          "roi": 0.1607,
-          "value": 6276.72,
-          "avg_price": 0.585,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2335,
-          "value": 1687.58,
-          "avg_price": 0.5012,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "cowcat",
-          "roi": 0.5214,
-          "value": 808.88,
-          "avg_price": 0.5281,
-          "cur_price": 0.605
         }
       ]
     }
@@ -800,9 +868,13 @@
     "will-david-crowley-win-the-2026-wisconsin-governor-democratic-primary-election::Yes": 3,
     "cs2-vit-100t-2026-08-12::Vitality": 3,
     "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends::No": 3,
-    "usc-psg-av-2026-08-12-psg::Yes": 2,
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 2,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2
+    "usc-psg-av-2026-08-12-psg::Yes": 3,
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-12-20260807213124701::Yes": 1,
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-17-20260807213124706::Yes": 1,
+    "will-kai-and-speed-beat-the-minecraft-challenge-by-august-13-20260807213124702::Yes": 1,
+    "mlb-cle-det-2026-08-12::Detroit Tigers": 1
   },
-  "updated_at": "2026-08-13T00:07:53.186049+00:00"
+  "updated_at": "2026-08-13T02:45:11.089906+00:00"
 }
