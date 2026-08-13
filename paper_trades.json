@@ -13484,7 +13484,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 107108.13,
       "traders": [
@@ -13495,7 +13495,8 @@
         "zb8",
         "Skritopoolniy"
       ],
-      "url": "https://polymarket.com/event/dota2-liquid-vg-2026-08-13-game1"
+      "url": "https://polymarket.com/event/dota2-liquid-vg-2026-08-13-game1",
+      "consensus_lost_at": "2026-08-13T11:14:05.382603+00:00"
     },
     {
       "signal_id": "dota2-boombo-og-2026-08-12::BoomBoys",
@@ -13612,7 +13613,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 32692.22,
       "traders": [
@@ -13620,7 +13621,8 @@
         "Skritopoolniy",
         "canoflanagan"
       ],
-      "url": "https://polymarket.com/event/dota2-aur1-gl-2026-08-13-game1"
+      "url": "https://polymarket.com/event/dota2-aur1-gl-2026-08-13-game1",
+      "consensus_lost_at": "2026-08-13T11:14:05.382603+00:00"
     },
     {
       "signal_id": "lol-gen-hle1-2026-08-13::Gen.G",
@@ -13628,7 +13630,7 @@
       "slug": "lol-gen-hle1-2026-08-13",
       "side": "Gen.G",
       "alerted_at": "2026-08-13T08:58:07.438470+00:00",
-      "last_seen": "2026-08-13T08:58:07.438470+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
       "entry_price": 0.555,
       "current_price": 0.555,
       "stake": 100.0,
@@ -13701,7 +13703,7 @@
       "slug": "dota2-ts8-xtreme-2026-08-13",
       "side": "Team Spirit",
       "alerted_at": "2026-08-13T10:16:45.045986+00:00",
-      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -13773,7 +13775,7 @@
       "slug": "dota2-ts8-xtreme-2026-08-13-game2",
       "side": "Team Spirit",
       "alerted_at": "2026-08-13T10:16:45.045986+00:00",
-      "last_seen": "2026-08-13T10:16:45.045986+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -13790,7 +13792,103 @@
         "DOLBAEB1"
       ],
       "url": "https://polymarket.com/event/dota2-ts8-xtreme-2026-08-13-game2"
+    },
+    {
+      "signal_id": "lol-tes-lgd-2026-08-13-game1::LGD Gaming",
+      "market": "LoL: Top Esports vs LGD Gaming - Game 1 Winner",
+      "slug": "lol-tes-lgd-2026-08-13-game1",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-13T11:14:05.382603+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 36898.83,
+      "traders": [
+        "Prelode",
+        "BBQChickenisthebesttt",
+        "Lakersfan111"
+      ],
+      "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-13-game1"
+    },
+    {
+      "signal_id": "dota2-vsn2-flc-2026-08-13-game1::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs Team Falcons - Game 1 Winner",
+      "slug": "dota2-vsn2-flc-2026-08-13-game1",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-13T11:14:05.382603+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
+      "entry_price": 0.845,
+      "current_price": 0.845,
+      "stake": 100.0,
+      "shares": 118.343195,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 23585.16,
+      "traders": [
+        "Skritopoolniy",
+        "canoflanagan",
+        "DOLBAEB1"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-flc-2026-08-13-game1"
+    },
+    {
+      "signal_id": "lol-tes-lgd-2026-08-13::LGD Gaming",
+      "market": "LoL: Top Esports vs LGD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-tes-lgd-2026-08-13",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-13T11:14:05.382603+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
+      "entry_price": 0.465,
+      "current_price": 0.465,
+      "stake": 100.0,
+      "shares": 215.053763,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 17439.36,
+      "traders": [
+        "Lakersfan111",
+        "BBQChickenisthebesttt",
+        "Nooserac"
+      ],
+      "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-13"
+    },
+    {
+      "signal_id": "dota2-ngx-og-2026-08-13-game2::Nigma Galaxy",
+      "market": "Dota 2: Nigma Galaxy vs OG - Game 2 Winner",
+      "slug": "dota2-ngx-og-2026-08-13-game2",
+      "side": "Nigma Galaxy",
+      "alerted_at": "2026-08-13T11:14:05.382603+00:00",
+      "last_seen": "2026-08-13T11:14:05.382603+00:00",
+      "entry_price": 0.555,
+      "current_price": 0.555,
+      "stake": 100.0,
+      "shares": 180.18018,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 17420.59,
+      "traders": [
+        "Skritopoolniy",
+        "canoflanagan",
+        "TrumpFaather"
+      ],
+      "url": "https://polymarket.com/event/dota2-ngx-og-2026-08-13-game2"
     }
   ],
-  "updated_at": "2026-08-13T10:16:45.045986+00:00"
+  "updated_at": "2026-08-13T11:14:05.382603+00:00"
 }
