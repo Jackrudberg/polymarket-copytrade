@@ -14069,7 +14069,7 @@
       "current_value": 130.65,
       "paper_pnl": 30.65,
       "return_percent": 30.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 59051.11,
       "traders": [
@@ -14078,7 +14078,8 @@
         "TrumpFaather",
         "Nooserac"
       ],
-      "url": "https://polymarket.com/event/cs2-big5-g2-2026-08-13"
+      "url": "https://polymarket.com/event/cs2-big5-g2-2026-08-13",
+      "consensus_lost_at": "2026-08-13T19:43:35.718855+00:00"
     },
     {
       "signal_id": "dota2-vsn2-flc-2026-08-13::TEAM VISION",
@@ -14130,5 +14131,5 @@
       "url": "https://polymarket.com/event/cs2-lgc-faze-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-13T18:38:03.960265+00:00"
+  "updated_at": "2026-08-13T19:43:35.718855+00:00"
 }
