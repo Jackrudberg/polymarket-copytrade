@@ -5299,7 +5299,7 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-14T12:04:48.094721+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
       "entry_price": 0.48,
       "current_price": 0.46,
       "stake": 100.0,
@@ -5862,7 +5862,7 @@
       "current_value": 107.23,
       "paper_pnl": 7.23,
       "return_percent": 7.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4254.94,
       "traders": [
@@ -5871,7 +5871,7 @@
         "LlamaLoco0000"
       ],
       "url": "https://polymarket.com/event/will-marco-rubio-win-the-2028-us-presidential-election",
-      "consensus_lost_at": "2026-08-04T18:16:19.463666+00:00"
+      "consensus_lost_at": "2026-08-14T13:36:09.085935+00:00"
     },
     {
       "signal_id": "atp-nakashi-etcheve-2026-07-27::Tomas Etcheverry",
@@ -14145,7 +14145,7 @@
       "current_value": 172.33,
       "paper_pnl": 72.33,
       "return_percent": 72.33,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 92607.25,
       "traders": [
@@ -14154,7 +14154,8 @@
         "defillama7",
         "Mustafalafel"
       ],
-      "url": "https://polymarket.com/event/will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124"
+      "url": "https://polymarket.com/event/will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
+      "consensus_lost_at": "2026-08-14T13:36:09.085935+00:00"
     },
     {
       "signal_id": "nfl-lac-hou-2026-08-14::Chargers",
@@ -14347,7 +14348,7 @@
       "current_value": 102.3,
       "paper_pnl": 2.3,
       "return_percent": 2.3,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5333.24,
       "traders": [
@@ -14355,7 +14356,8 @@
         "failstober",
         "LlamaLoco0000"
       ],
-      "url": "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election"
+      "url": "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election",
+      "consensus_lost_at": "2026-08-14T13:36:09.085935+00:00"
     },
     {
       "signal_id": "lol-t1-dk-2026-08-14::Dplus KIA",
@@ -14363,7 +14365,7 @@
       "slug": "lol-t1-dk-2026-08-14",
       "side": "Dplus KIA",
       "alerted_at": "2026-08-14T11:21:47.493073+00:00",
-      "last_seen": "2026-08-14T12:04:48.094721+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -14387,14 +14389,14 @@
       "slug": "lol-al-jdg-2026-08-14-game1",
       "side": "JD Gaming",
       "alerted_at": "2026-08-14T12:04:48.094721+00:00",
-      "last_seen": "2026-08-14T12:04:48.094721+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
       "entry_price": 0.735,
-      "current_price": 0.735,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 136.054422,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 135.99,
+      "paper_pnl": 35.99,
+      "return_percent": 35.99,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 34552.19,
@@ -14477,7 +14479,201 @@
         "lzh1"
       ],
       "url": "https://polymarket.com/event/lol-t1a-dkc-2026-08-13"
+    },
+    {
+      "signal_id": "cs2-tyloo-lvg-2026-08-14::Lynn Vision",
+      "market": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
+      "slug": "cs2-tyloo-lvg-2026-08-14",
+      "side": "Lynn Vision",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 128644.47,
+      "traders": [
+        "Zywoo123",
+        "0x29b52d98ac9ef9414b04164246c95BC63d7",
+        "Lakersfan111",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "kibanachi"
+      ],
+      "url": "https://polymarket.com/event/cs2-tyloo-lvg-2026-08-14"
+    },
+    {
+      "signal_id": "cs2-nip-bb3-2026-08-14::NIP",
+      "market": "Counter-Strike: NIP vs BetBoom Team (BO3) - Esports World Cup Group B",
+      "slug": "cs2-nip-bb3-2026-08-14",
+      "side": "NIP",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 421802.62,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "ExplosiveNinja",
+        "0x29b52d98ac9ef9414b04164246c95BC63d7"
+      ],
+      "url": "https://polymarket.com/event/cs2-nip-bb3-2026-08-14"
+    },
+    {
+      "signal_id": "cs2-b8-vit-2026-08-14::Vitality",
+      "market": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+      "slug": "cs2-b8-vit-2026-08-14",
+      "side": "Vitality",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.877564,
+      "current_price": 0.877564,
+      "stake": 100.0,
+      "shares": 113.951802,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 172580.85,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Lakersfan111",
+        "ExplosiveNinja"
+      ],
+      "url": "https://polymarket.com/event/cs2-b8-vit-2026-08-14"
+    },
+    {
+      "signal_id": "lol-ns-bro2-2026-08-14::Nongshim Red Force",
+      "market": "LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-ns-bro2-2026-08-14",
+      "side": "Nongshim Red Force",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 40621.03,
+      "traders": [
+        "lzh1",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Lakersfan111"
+      ],
+      "url": "https://polymarket.com/event/lol-ns-bro2-2026-08-14"
+    },
+    {
+      "signal_id": "dota2-aur1-ty-2026-08-14::Team Yandex",
+      "market": "Dota 2: Aurora vs Team Yandex (BO3) - The International Group Stage",
+      "slug": "dota2-aur1-ty-2026-08-14",
+      "side": "Team Yandex",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.425,
+      "current_price": 0.425,
+      "stake": 100.0,
+      "shares": 235.294118,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10867.08,
+      "traders": [
+        "kibanachi",
+        "lzh1",
+        "sdfqq1"
+      ],
+      "url": "https://polymarket.com/event/dota2-aur1-ty-2026-08-14"
+    },
+    {
+      "signal_id": "lol-al-jdg-2026-08-14::JD Gaming",
+      "market": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-al-jdg-2026-08-14",
+      "side": "JD Gaming",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.414166,
+      "current_price": 0.414166,
+      "stake": 100.0,
+      "shares": 241.44892,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9175.21,
+      "traders": [
+        "lzh1",
+        "kedaya8888",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/lol-al-jdg-2026-08-14"
+    },
+    {
+      "signal_id": "lol-al-jdg-2026-08-14-game2::Anyone's Legend",
+      "market": "LoL: Anyone's Legend vs JD Gaming - Game 2 Winner",
+      "slug": "lol-al-jdg-2026-08-14-game2",
+      "side": "Anyone's Legend",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8745.33,
+      "traders": [
+        "sdfqq1",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "kedaya8888"
+      ],
+      "url": "https://polymarket.com/event/lol-al-jdg-2026-08-14-game2"
+    },
+    {
+      "signal_id": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5::B8",
+      "market": "Map Handicap: VIT (-1.5) vs B8 (+1.5)",
+      "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
+      "side": "B8",
+      "alerted_at": "2026-08-14T13:36:09.085935+00:00",
+      "last_seen": "2026-08-14T13:36:09.085935+00:00",
+      "entry_price": 0.32,
+      "current_price": 0.32,
+      "stake": 100.0,
+      "shares": 312.5,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8133.3,
+      "traders": [
+        "0x29b52d98ac9ef9414b04164246c95BC63d7",
+        "Zywoo123",
+        "Lakersfan111"
+      ],
+      "url": "https://polymarket.com/event/cs2-b8-vit-2026-08-14-map-handicap-home-1pt5"
     }
   ],
-  "updated_at": "2026-08-14T12:04:48.094721+00:00"
+  "updated_at": "2026-08-14T13:36:09.085935+00:00"
 }
