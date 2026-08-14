@@ -14398,7 +14398,7 @@
       "current_value": 135.99,
       "paper_pnl": 35.99,
       "return_percent": 35.99,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 34552.19,
       "traders": [
@@ -14407,7 +14407,8 @@
         "Lakersfan111",
         "Zywoo123"
       ],
-      "url": "https://polymarket.com/event/lol-al-jdg-2026-08-14-game1"
+      "url": "https://polymarket.com/event/lol-al-jdg-2026-08-14-game1",
+      "consensus_lost_at": "2026-08-14T17:30:28.753492+00:00"
     },
     {
       "signal_id": "dota2-liquid-ts8-2026-08-14::Team Spirit",
@@ -14667,7 +14668,7 @@
       "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
       "side": "B8",
       "alerted_at": "2026-08-14T13:36:09.085935+00:00",
-      "last_seen": "2026-08-14T16:26:55.597796+00:00",
+      "last_seen": "2026-08-14T17:30:28.753492+00:00",
       "entry_price": 0.32,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -14715,14 +14716,14 @@
       "slug": "cs2-fut-mouz-2026-08-14",
       "side": "FUT Esports",
       "alerted_at": "2026-08-14T14:37:12.283631+00:00",
-      "last_seen": "2026-08-14T15:29:09.813329+00:00",
+      "last_seen": "2026-08-14T17:30:28.753492+00:00",
       "entry_price": 0.645,
-      "current_price": 0.665,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 155.03876,
-      "current_value": 103.1,
-      "paper_pnl": 3.1,
-      "return_percent": 3.1,
+      "current_value": 154.96,
+      "paper_pnl": 54.96,
+      "return_percent": 54.96,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 31836.29,
@@ -14739,7 +14740,7 @@
       "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
       "side": "Over",
       "alerted_at": "2026-08-14T15:29:09.813329+00:00",
-      "last_seen": "2026-08-14T16:26:55.597796+00:00",
+      "last_seen": "2026-08-14T17:30:28.753492+00:00",
       "entry_price": 0.525,
       "current_price": 0.525,
       "stake": 100.0,
@@ -14771,7 +14772,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8380.5,
       "traders": [
@@ -14779,7 +14780,8 @@
         "madwish355",
         "Lakersfan111"
       ],
-      "url": "https://polymarket.com/event/lol-shft-sk-2026-08-14-game1"
+      "url": "https://polymarket.com/event/lol-shft-sk-2026-08-14-game1",
+      "consensus_lost_at": "2026-08-14T17:30:28.753492+00:00"
     },
     {
       "signal_id": "lol-shft-sk-2026-08-14-game2::Shifters",
@@ -14804,7 +14806,31 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/lol-shft-sk-2026-08-14-game2"
+    },
+    {
+      "signal_id": "cs2-b8-vit-2026-08-14::B8",
+      "market": "Counter-Strike: B8 vs Vitality (BO3) - Esports World Cup Group C",
+      "slug": "cs2-b8-vit-2026-08-14",
+      "side": "B8",
+      "alerted_at": "2026-08-14T17:30:28.753492+00:00",
+      "last_seen": "2026-08-14T17:30:28.753492+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 76556.56,
+      "traders": [
+        "sulumos",
+        "0x29b52d98ac9ef9414b04164246c95BC63d7",
+        "PendulumExchange"
+      ],
+      "url": "https://polymarket.com/event/cs2-b8-vit-2026-08-14"
     }
   ],
-  "updated_at": "2026-08-14T16:26:55.597796+00:00"
+  "updated_at": "2026-08-14T17:30:28.753492+00:00"
 }
