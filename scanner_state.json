@@ -2,14 +2,12 @@
   "seen_ids": [
     "lol-t1-dk-2026-08-14::Dplus KIA",
     "cs2-tyloo-lvg-2026-08-14::Lynn Vision",
-    "lol-al-jdg-2026-08-14-game1::JD Gaming",
     "cs2-nip-bb3-2026-08-14::NIP",
     "cs2-b8-vit-2026-08-14::Vitality",
+    "lol-al-jdg-2026-08-14::Anyone's Legend",
+    "lol-al-jdg-2026-08-14-game1::JD Gaming",
     "lol-ns-bro2-2026-08-14::Nongshim Red Force",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "dota2-aur1-ty-2026-08-14::Team Yandex",
-    "lol-al-jdg-2026-08-14::JD Gaming",
-    "lol-al-jdg-2026-08-14-game2::Anyone's Legend",
+    "cs2-fut-mouz-2026-08-14::FUT Esports",
     "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5::B8"
   ],
   "signals": [
@@ -17,49 +15,42 @@
       "market": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-t1-dk-2026-08-14",
       "outcome": "Dplus KIA",
-      "num_traders": 6,
-      "total_value": 149420.88,
+      "num_traders": 5,
+      "total_value": 119188.62,
       "holders": [
         {
           "trader": "Lakersfan111",
-          "roi": 0.2775,
+          "roi": 0.2084,
           "value": 39979.73,
           "avg_price": 0.41,
           "cur_price": 0.9995
         },
         {
           "trader": "GhostOfJupiter",
-          "roi": 0.3542,
+          "roi": 0.3533,
           "value": 29984.9,
           "avg_price": 0.4083,
           "cur_price": 0.9995
         },
         {
-          "trader": "kedaya8888",
-          "roi": 0.1754,
-          "value": 25829.55,
-          "avg_price": 0.4926,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
-          "value": 25009.57,
-          "avg_price": 0.9848,
+          "roi": 0.2037,
+          "value": 29234.09,
+          "avg_price": 0.9869,
           "cur_price": 0.9995
         },
         {
           "trader": "lzh1",
-          "roi": 0.3362,
+          "roi": 0.2344,
           "value": 17990.9,
           "avg_price": 0.4544,
           "cur_price": 0.9995
         },
         {
-          "trader": "sdfqq1",
-          "roi": 0.1749,
-          "value": 10626.23,
-          "avg_price": 0.9395,
+          "trader": "madwish355",
+          "roi": 0.179,
+          "value": 1999,
+          "avg_price": 0.45,
           "cur_price": 0.9995
         }
       ]
@@ -68,79 +59,35 @@
       "market": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
       "slug": "cs2-tyloo-lvg-2026-08-14",
       "outcome": "Lynn Vision",
-      "num_traders": 5,
-      "total_value": 128644.47,
+      "num_traders": 4,
+      "total_value": 115221.19,
       "holders": [
         {
           "trader": "Zywoo123",
-          "roi": 0.2217,
+          "roi": 0.2215,
           "value": 34982.46,
           "avg_price": 0.5942,
           "cur_price": 0.9995
         },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.2679,
+          "roi": 0.3334,
           "value": 33650.03,
           "avg_price": 0.3621,
           "cur_price": 0.9995
         },
         {
           "trader": "Lakersfan111",
-          "roi": 0.2775,
+          "roi": 0.2084,
           "value": 29984.83,
           "avg_price": 0.35,
           "cur_price": 0.9995
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
+          "roi": 0.2037,
           "value": 16603.87,
           "avg_price": 0.5995,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kibanachi",
-          "roi": 0.2655,
-          "value": 13423.28,
-          "avg_price": 0.3499,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
-      "slug": "lol-al-jdg-2026-08-14-game1",
-      "outcome": "JD Gaming",
-      "num_traders": 4,
-      "total_value": 87670.66,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
-          "value": 66482.41,
-          "avg_price": 0.7606,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sdfqq1",
-          "roi": 0.1749,
-          "value": 11359.8,
-          "avg_price": 0.7467,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2775,
-          "value": 6185.27,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.2217,
-          "value": 3643.18,
-          "avg_price": 0.3599,
           "cur_price": 0.9995
         }
       ]
@@ -150,25 +97,25 @@
       "slug": "cs2-nip-bb3-2026-08-14",
       "outcome": "NIP",
       "num_traders": 3,
-      "total_value": 421802.62,
+      "total_value": 424263.22,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
-          "value": 254826.04,
-          "avg_price": 0.8717,
+          "roi": 0.2037,
+          "value": 257286.64,
+          "avg_price": 0.8729,
           "cur_price": 0.9995
         },
         {
           "trader": "ExplosiveNinja",
-          "roi": 0.2303,
+          "roi": 0.1921,
           "value": 124937.37,
           "avg_price": 0.4099,
           "cur_price": 0.9995
         },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.2679,
+          "roi": 0.3334,
           "value": 42039.21,
           "avg_price": 0.3439,
           "cur_price": 0.9995
@@ -180,28 +127,88 @@
       "slug": "cs2-b8-vit-2026-08-14",
       "outcome": "Vitality",
       "num_traders": 3,
-      "total_value": 172580.85,
+      "total_value": 180509.12,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
-          "value": 128331,
+          "roi": 0.2037,
+          "value": 133259.28,
           "avg_price": 0.87,
-          "cur_price": 0.875
+          "cur_price": 0.945
         },
         {
           "trader": "Lakersfan111",
-          "roi": 0.2775,
-          "value": 26549.97,
+          "roi": 0.2084,
+          "value": 28349.97,
           "avg_price": 0.87,
-          "cur_price": 0.885
+          "cur_price": 0.945
         },
         {
           "trader": "ExplosiveNinja",
-          "roi": 0.2303,
-          "value": 17699.88,
+          "roi": 0.1921,
+          "value": 18899.87,
           "avg_price": 0.88,
-          "cur_price": 0.885
+          "cur_price": 0.945
+        }
+      ]
+    },
+    {
+      "market": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-al-jdg-2026-08-14",
+      "outcome": "Anyone's Legend",
+      "num_traders": 3,
+      "total_value": 112331.7,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.6092,
+          "value": 43772.95,
+          "avg_price": 0.5905,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2037,
+          "value": 39573.27,
+          "avg_price": 0.5504,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.179,
+          "value": 28985.48,
+          "avg_price": 0.2899,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
+      "slug": "lol-al-jdg-2026-08-14-game1",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 101175.31,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2037,
+          "value": 91346.86,
+          "avg_price": 0.8236,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.2084,
+          "value": 6185.27,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.2215,
+          "value": 3643.18,
+          "avg_price": 0.3599,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -214,24 +221,84 @@
       "holders": [
         {
           "trader": "lzh1",
-          "roi": 0.3362,
+          "roi": 0.2344,
           "value": 26790.52,
           "avg_price": 0.5099,
           "cur_price": 0.9995
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2749,
+          "roi": 0.2037,
           "value": 7433.03,
           "avg_price": 0.7499,
           "cur_price": 0.9995
         },
         {
           "trader": "Lakersfan111",
-          "roi": 0.2775,
+          "roi": 0.2084,
           "value": 6397.48,
           "avg_price": 0.49,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
+      "slug": "cs2-fut-mouz-2026-08-14",
+      "outcome": "FUT Esports",
+      "num_traders": 3,
+      "total_value": 31836.29,
+      "holders": [
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.3334,
+          "value": 21524.79,
+          "avg_price": 0.3556,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2037,
+          "value": 10190.34,
+          "avg_price": 0.5887,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "GhostOfJupiter",
+          "roi": 0.3533,
+          "value": 121.16,
+          "avg_price": 0.33,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Map Handicap: VIT (-1.5) vs B8 (+1.5)",
+      "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
+      "outcome": "B8",
+      "num_traders": 3,
+      "total_value": 4574.98,
+      "holders": [
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.3334,
+          "value": 3570.62,
+          "avg_price": 0.3499,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.2215,
+          "value": 562.68,
+          "avg_price": 0.36,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.2084,
+          "value": 441.68,
+          "avg_price": 0.34,
+          "cur_price": 0.18
         }
       ]
     },
@@ -356,36 +423,6 @@
       ]
     },
     {
-      "market": "Map Handicap: VIT (-1.5) vs B8 (+1.5)",
-      "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
-      "outcome": "B8",
-      "num_traders": 3,
-      "total_value": 8133.3,
-      "holders": [
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.2679,
-          "value": 6347.77,
-          "avg_price": 0.3499,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.2217,
-          "value": 1000.32,
-          "avg_price": 0.36,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2775,
-          "value": 785.21,
-          "avg_price": 0.34,
-          "cur_price": 0.32
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage",
       "slug": "dota2-liquid-ts8-2026-08-14",
       "outcome": "Team Spirit",
@@ -472,103 +509,6 @@
           "value": 990.64,
           "avg_price": 0.3304,
           "cur_price": 0.9955
-        }
-      ]
-    },
-    {
-      "market": "Will Nigel Farage win 60\u201370% of votes in the Clacton parliamentary by-election?",
-      "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 195227.69,
-      "holders": [
-        {
-          "trader": "Flipadelphia",
-          "roi": 0.5539,
-          "value": 110118.73,
-          "avg_price": 0.1056,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "lomneivan",
-          "roi": 0.2959,
-          "value": 46810.69,
-          "avg_price": 0.4269,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "VeganCyclist",
-          "roi": 0.6886,
-          "value": 22777.55,
-          "avg_price": 0.0784,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "defillama7",
-          "roi": 0.6749,
-          "value": 15520.72,
-          "avg_price": 0.2324,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Marco Rubio win the 2028 US Presidential Election?",
-      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13391.92,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5054,
-          "value": 12511.37,
-          "avg_price": 0.4977,
-          "cur_price": 0.1335
-        },
-        {
-          "trader": "LlamaLoco0000",
-          "roi": 0.9514,
-          "value": 667.52,
-          "avg_price": 0.1349,
-          "cur_price": 0.1335
-        },
-        {
-          "trader": "failstober",
-          "roi": 0.517,
-          "value": 213.03,
-          "avg_price": 0.4999,
-          "cur_price": 0.1335
-        }
-      ]
-    },
-    {
-      "market": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
-      "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5455.84,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5054,
-          "value": 4754.83,
-          "avg_price": 0.4938,
-          "cur_price": 0.1335
-        },
-        {
-          "trader": "failstober",
-          "roi": 0.517,
-          "value": 495.42,
-          "avg_price": 0.4924,
-          "cur_price": 0.1335
-        },
-        {
-          "trader": "LlamaLoco0000",
-          "roi": 0.9514,
-          "value": 205.59,
-          "avg_price": 0.0791,
-          "cur_price": 0.1335
         }
       ]
     }
@@ -1195,12 +1135,16 @@
     "dota2-ty-liquid-2026-08-13::Team Liquid": 3,
     "will-count-binface-win-2030-of-votes-in-the-clacton-parliamentary-by-election-20260708142507721::Yes": 3,
     "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No": 3,
-    "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes": 2,
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 2,
-    "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election::Yes": 2,
-    "dota2-liquid-ts8-2026-08-14::Team Spirit": 1,
-    "lol-we-tes-2026-08-14-game1::Team WE": 1,
-    "lol-t1a-dkc-2026-08-13::Dplus KIA Challengers": 1
+    "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes": 3,
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
+    "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election::Yes": 3,
+    "dota2-liquid-ts8-2026-08-14::Team Spirit": 2,
+    "lol-we-tes-2026-08-14-game1::Team WE": 2,
+    "lol-t1a-dkc-2026-08-13::Dplus KIA Challengers": 2,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
+    "dota2-aur1-ty-2026-08-14::Team Yandex": 1,
+    "lol-al-jdg-2026-08-14::JD Gaming": 1,
+    "lol-al-jdg-2026-08-14-game2::Anyone's Legend": 1
   },
-  "updated_at": "2026-08-14T13:36:09.097249+00:00"
+  "updated_at": "2026-08-14T14:37:12.294096+00:00"
 }
