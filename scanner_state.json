@@ -2,7 +2,6 @@
   "seen_ids": [
     "cs2-fut-mouz-2026-08-14::FUT Esports",
     "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5::B8",
-    "cs2-b8-vit-2026-08-14::B8",
     "mlb-mia-cin-2026-08-14-total-7pt5::Over"
   ],
   "signals": [
@@ -10,35 +9,21 @@
       "market": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Group C",
       "slug": "cs2-fut-mouz-2026-08-14",
       "outcome": "FUT Esports",
-      "num_traders": 5,
-      "total_value": 232982.37,
+      "num_traders": 3,
+      "total_value": 196566.59,
       "holders": [
         {
           "trader": "111111111115",
-          "roi": 0.1557,
+          "roi": 0.1632,
           "value": 163023.76,
           "avg_price": 0.3555,
           "cur_price": 0.9995
         },
         {
-          "trader": "PendulumExchange",
-          "roi": 0.3915,
-          "value": 34982.5,
-          "avg_price": 0.36,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.3956,
+          "roi": 0.3994,
           "value": 33355.08,
           "avg_price": 0.3556,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.5787,
-          "value": 1433.28,
-          "avg_price": 0.36,
           "cur_price": 0.9995
         },
         {
@@ -59,24 +44,54 @@
       "holders": [
         {
           "trader": "111111111115",
-          "roi": 0.1557,
+          "roi": 0.1632,
           "value": 55895.49,
           "avg_price": 0.35,
           "cur_price": 0.9995
         },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.3956,
+          "roi": 0.3994,
           "value": 19826.87,
           "avg_price": 0.3499,
           "cur_price": 0.9995
         },
         {
           "trader": "Zywoo123",
-          "roi": 0.2276,
+          "roi": 0.1835,
           "value": 3124.44,
           "avg_price": 0.36,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
+      "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 23478.15,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.4047,
+          "value": 19798.33,
+          "avg_price": 0.5292,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Flipadelphia",
+          "roi": 0.387,
+          "value": 3150,
+          "avg_price": 0.53,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2219,
+          "value": 529.82,
+          "avg_price": 0.52,
+          "cur_price": 0.525
         }
       ]
     },
@@ -107,36 +122,6 @@
           "value": 2471.56,
           "avg_price": 0.12,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Miami Marlins vs. Cincinnati Reds: O/U 7.5",
-      "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 23478.15,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.4661,
-          "value": 19798.33,
-          "avg_price": 0.5292,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Flipadelphia",
-          "roi": 0.4203,
-          "value": 3150,
-          "avg_price": 0.53,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2509,
-          "value": 529.82,
-          "avg_price": 0.52,
-          "cur_price": 0.525
         }
       ]
     },
@@ -197,66 +182,6 @@
           "value": 359.78,
           "avg_price": 0.2599,
           "cur_price": 0.275
-        }
-      ]
-    },
-    {
-      "market": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
-      "slug": "lol-al-jdg-2026-08-14-game1",
-      "outcome": "JD Gaming",
-      "num_traders": 3,
-      "total_value": 101615.6,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2136,
-          "value": 91787.15,
-          "avg_price": 0.8263,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2053,
-          "value": 6185.27,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.2161,
-          "value": 3643.18,
-          "avg_price": 0.3599,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Shifters vs SK Gaming - Game 1 Winner",
-      "slug": "lol-shft-sk-2026-08-14-game1",
-      "outcome": "Shifters",
-      "num_traders": 3,
-      "total_value": 8380.5,
-      "holders": [
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 0.2276,
-          "value": 7362.56,
-          "avg_price": 0.5064,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "madwish355",
-          "roi": 0.1829,
-          "value": 870,
-          "avg_price": 0.44,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2053,
-          "value": 147.94,
-          "avg_price": 0.46,
-          "cur_price": 0.51
         }
       ]
     }
@@ -898,10 +823,11 @@
     "cs2-nip-bb3-2026-08-14::NIP": 3,
     "cs2-b8-vit-2026-08-14::Vitality": 3,
     "lol-ns-bro2-2026-08-14::Nongshim Red Force": 3,
-    "lol-al-jdg-2026-08-14-game1::JD Gaming": 2,
-    "lol-shft-sk-2026-08-14-game1::Shifters": 2,
-    "lol-al-jdg-2026-08-14::Anyone's Legend": 1,
-    "lol-shft-sk-2026-08-14-game2::Shifters": 1
+    "lol-al-jdg-2026-08-14-game1::JD Gaming": 3,
+    "lol-shft-sk-2026-08-14-game1::Shifters": 3,
+    "lol-al-jdg-2026-08-14::Anyone's Legend": 2,
+    "lol-shft-sk-2026-08-14-game2::Shifters": 2,
+    "cs2-b8-vit-2026-08-14::B8": 1
   },
-  "updated_at": "2026-08-14T17:30:28.763334+00:00"
+  "updated_at": "2026-08-14T18:28:09.672851+00:00"
 }
