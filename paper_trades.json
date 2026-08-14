@@ -5126,7 +5126,7 @@
       "current_value": 127.18,
       "paper_pnl": 27.18,
       "return_percent": 27.18,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1681.72,
       "traders": [
@@ -5135,7 +5135,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-07-30T06:11:37.140536+00:00"
+      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-27::Miami Marlins",
@@ -5811,7 +5811,7 @@
       "current_value": 106.4,
       "paper_pnl": 6.4,
       "return_percent": 6.4,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8705.58,
       "traders": [
@@ -5820,7 +5820,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "consensus_lost_at": "2026-08-13T00:07:53.174020+00:00"
+      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-28::Miami Marlins",
@@ -5988,7 +5988,7 @@
       "current_value": 78.95,
       "paper_pnl": -21.05,
       "return_percent": -21.05,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3146.88,
       "traders": [
@@ -5997,7 +5997,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-rodri-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-07-31T04:38:22.979967+00:00"
+      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
     },
     {
       "signal_id": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes",
@@ -7965,7 +7965,7 @@
       "current_value": 165.88,
       "paper_pnl": 65.88,
       "return_percent": 65.88,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14848.81,
       "traders": [
@@ -7974,7 +7974,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "consensus_lost_at": "2026-08-13T17:40:26.827522+00:00"
+      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
     },
     {
       "signal_id": "cs2-mouzn-mis-2026-08-03::MOUZ NXT",
@@ -14137,14 +14137,14 @@
       "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
       "side": "Yes",
       "alerted_at": "2026-08-14T03:30:50.157041+00:00",
-      "last_seen": "2026-08-14T03:30:50.157041+00:00",
+      "last_seen": "2026-08-14T05:18:12.356503+00:00",
       "entry_price": 0.58,
-      "current_price": 0.58,
+      "current_price": 0.999,
       "stake": 100.0,
       "shares": 172.413793,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 172.24,
+      "paper_pnl": 72.24,
+      "return_percent": 72.24,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 92607.25,
@@ -14277,7 +14277,31 @@
         "monkeymashingkeyboard"
       ],
       "url": "https://polymarket.com/event/mlb-tex-laa-2026-08-13-total-7pt5"
+    },
+    {
+      "signal_id": "dota2-ty-liquid-2026-08-13::Team Liquid",
+      "market": "Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ty-liquid-2026-08-13",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-14T05:18:12.356503+00:00",
+      "last_seen": "2026-08-14T05:18:12.356503+00:00",
+      "entry_price": 0.53,
+      "current_price": 0.53,
+      "stake": 100.0,
+      "shares": 188.679245,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 34626.71,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "Dota2winner",
+        "Skyfker"
+      ],
+      "url": "https://polymarket.com/event/dota2-ty-liquid-2026-08-13"
     }
   ],
-  "updated_at": "2026-08-14T03:30:50.157041+00:00"
+  "updated_at": "2026-08-14T05:18:12.356503+00:00"
 }

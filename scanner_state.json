@@ -1,47 +1,66 @@
 {
   "seen_ids": [
     "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes",
-    "nfl-lac-hou-2026-08-14::Chargers",
-    "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes",
-    "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No",
-    "mlb-tex-laa-2026-08-13::Los Angeles Angels",
-    "mlb-tex-laa-2026-08-13-total-7pt5::Under"
+    "dota2-ty-liquid-2026-08-13::Team Liquid"
   ],
   "signals": [
     {
       "market": "Will Nigel Farage win 60\u201370% of votes in the Clacton parliamentary by-election?",
       "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 92607.25,
+      "num_traders": 3,
+      "total_value": 148337.76,
       "holders": [
         {
           "trader": "Flipadelphia",
-          "roi": 0.5779,
-          "value": 60724.07,
-          "avg_price": 0.0827,
-          "cur_price": 0.58
+          "roi": 0.4407,
+          "value": 110058.65,
+          "avg_price": 0.1055,
+          "cur_price": 0.999
         },
         {
           "trader": "VeganCyclist",
-          "roi": 0.5698,
-          "value": 19715.37,
+          "roi": 0.4956,
+          "value": 22766.15,
           "avg_price": 0.0784,
-          "cur_price": 0.58
+          "cur_price": 0.999
         },
         {
           "trader": "defillama7",
-          "roi": 0.6389,
-          "value": 8752.88,
-          "avg_price": 0.2225,
-          "cur_price": 0.58
+          "roi": 0.5432,
+          "value": 15512.96,
+          "avg_price": 0.2324,
+          "cur_price": 0.999
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ty-liquid-2026-08-13",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 34626.71,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5206,
+          "value": 22144.35,
+          "avg_price": 0.4148,
+          "cur_price": 0.53
         },
         {
-          "trader": "Mustafalafel",
-          "roi": 0.1967,
-          "value": 3414.93,
-          "avg_price": 0.0424,
-          "cur_price": 0.58
+          "trader": "Dota2winner",
+          "roi": 0.1529,
+          "value": 9832.36,
+          "avg_price": 0.4159,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.235,
+          "value": 2650.0,
+          "avg_price": 0.3899,
+          "cur_price": 0.53
         }
       ]
     },
@@ -943,10 +962,15 @@
     "dota2-vsn2-flc-2026-08-13::TEAM VISION": 3,
     "cs2-big5-g2-2026-08-13::G2": 3,
     "cs2-lgc-faze-2026-08-13::Legacy": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
+    "nfl-lac-hou-2026-08-14::Chargers": 1,
+    "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes": 1,
+    "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No": 1,
+    "mlb-tex-laa-2026-08-13::Los Angeles Angels": 1,
+    "mlb-tex-laa-2026-08-13-total-7pt5::Under": 1
   },
-  "updated_at": "2026-08-14T03:30:50.169995+00:00"
+  "updated_at": "2026-08-14T05:18:12.369704+00:00"
 }
