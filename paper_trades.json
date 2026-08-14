@@ -14373,7 +14373,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 42087.26,
       "traders": [
@@ -14381,7 +14381,8 @@
         "sdfqq1",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/lol-t1-dk-2026-08-14"
+      "url": "https://polymarket.com/event/lol-t1-dk-2026-08-14",
+      "consensus_lost_at": "2026-08-14T16:26:55.597796+00:00"
     },
     {
       "signal_id": "lol-al-jdg-2026-08-14-game1::JD Gaming",
@@ -14497,7 +14498,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 128644.47,
       "traders": [
@@ -14507,7 +14508,8 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
         "kibanachi"
       ],
-      "url": "https://polymarket.com/event/cs2-tyloo-lvg-2026-08-14"
+      "url": "https://polymarket.com/event/cs2-tyloo-lvg-2026-08-14",
+      "consensus_lost_at": "2026-08-14T16:26:55.597796+00:00"
     },
     {
       "signal_id": "cs2-nip-bb3-2026-08-14::NIP",
@@ -14523,7 +14525,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 421802.62,
       "traders": [
@@ -14531,7 +14533,8 @@
         "ExplosiveNinja",
         "0x29b52d98ac9ef9414b04164246c95BC63d7"
       ],
-      "url": "https://polymarket.com/event/cs2-nip-bb3-2026-08-14"
+      "url": "https://polymarket.com/event/cs2-nip-bb3-2026-08-14",
+      "consensus_lost_at": "2026-08-14T16:26:55.597796+00:00"
     },
     {
       "signal_id": "cs2-b8-vit-2026-08-14::Vitality",
@@ -14547,7 +14550,7 @@
       "current_value": 107.68,
       "paper_pnl": 7.68,
       "return_percent": 7.68,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 172580.85,
       "traders": [
@@ -14555,7 +14558,8 @@
         "Lakersfan111",
         "ExplosiveNinja"
       ],
-      "url": "https://polymarket.com/event/cs2-b8-vit-2026-08-14"
+      "url": "https://polymarket.com/event/cs2-b8-vit-2026-08-14",
+      "consensus_lost_at": "2026-08-14T16:26:55.597796+00:00"
     },
     {
       "signal_id": "lol-ns-bro2-2026-08-14::Nongshim Red Force",
@@ -14571,7 +14575,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 40621.03,
       "traders": [
@@ -14579,7 +14583,8 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
         "Lakersfan111"
       ],
-      "url": "https://polymarket.com/event/lol-ns-bro2-2026-08-14"
+      "url": "https://polymarket.com/event/lol-ns-bro2-2026-08-14",
+      "consensus_lost_at": "2026-08-14T16:26:55.597796+00:00"
     },
     {
       "signal_id": "dota2-aur1-ty-2026-08-14::Team Yandex",
@@ -14662,14 +14667,14 @@
       "slug": "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5",
       "side": "B8",
       "alerted_at": "2026-08-14T13:36:09.085935+00:00",
-      "last_seen": "2026-08-14T15:29:09.813329+00:00",
+      "last_seen": "2026-08-14T16:26:55.597796+00:00",
       "entry_price": 0.32,
-      "current_price": 0.13,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 312.5,
-      "current_value": 40.63,
-      "paper_pnl": -59.37,
-      "return_percent": -59.37,
+      "current_value": 312.34,
+      "paper_pnl": 212.34,
+      "return_percent": 212.34,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 8133.3,
@@ -14686,7 +14691,7 @@
       "slug": "lol-al-jdg-2026-08-14",
       "side": "Anyone's Legend",
       "alerted_at": "2026-08-14T14:37:12.283631+00:00",
-      "last_seen": "2026-08-14T15:29:09.813329+00:00",
+      "last_seen": "2026-08-14T16:26:55.597796+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -14734,7 +14739,7 @@
       "slug": "mlb-mia-cin-2026-08-14-total-7pt5",
       "side": "Over",
       "alerted_at": "2026-08-14T15:29:09.813329+00:00",
-      "last_seen": "2026-08-14T15:29:09.813329+00:00",
+      "last_seen": "2026-08-14T16:26:55.597796+00:00",
       "entry_price": 0.525,
       "current_price": 0.525,
       "stake": 100.0,
@@ -14775,7 +14780,31 @@
         "Lakersfan111"
       ],
       "url": "https://polymarket.com/event/lol-shft-sk-2026-08-14-game1"
+    },
+    {
+      "signal_id": "lol-shft-sk-2026-08-14-game2::Shifters",
+      "market": "LoL: Shifters vs SK Gaming - Game 2 Winner",
+      "slug": "lol-shft-sk-2026-08-14-game2",
+      "side": "Shifters",
+      "alerted_at": "2026-08-14T16:26:55.597796+00:00",
+      "last_seen": "2026-08-14T16:26:55.597796+00:00",
+      "entry_price": 0.275,
+      "current_price": 0.275,
+      "stake": 100.0,
+      "shares": 363.636364,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4897.45,
+      "traders": [
+        "IMAREALPERSON",
+        "madwish355",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/lol-shft-sk-2026-08-14-game2"
     }
   ],
-  "updated_at": "2026-08-14T15:29:09.813329+00:00"
+  "updated_at": "2026-08-14T16:26:55.597796+00:00"
 }
