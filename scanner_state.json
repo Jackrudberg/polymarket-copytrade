@@ -1,12 +1,221 @@
 {
   "seen_ids": [
-    "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes",
     "lol-t1-dk-2026-08-14::Dplus KIA",
+    "lol-al-jdg-2026-08-14-game1::JD Gaming",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes",
-    "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election::Yes"
+    "dota2-liquid-ts8-2026-08-14::Team Spirit",
+    "lol-we-tes-2026-08-14-game1::Team WE",
+    "lol-t1a-dkc-2026-08-13::Dplus KIA Challengers"
   ],
   "signals": [
+    {
+      "market": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-t1-dk-2026-08-14",
+      "outcome": "Dplus KIA",
+      "num_traders": 6,
+      "total_value": 125887.44,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.164,
+          "value": 39979.73,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GhostOfJupiter",
+          "roi": 0.3946,
+          "value": 29984.9,
+          "avg_price": 0.4083,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.1515,
+          "value": 25829.55,
+          "avg_price": 0.4926,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.2642,
+          "value": 17990.9,
+          "avg_price": 0.4544,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sdfqq1",
+          "roi": 0.2115,
+          "value": 10626.23,
+          "avg_price": 0.9395,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.38,
+          "value": 1476.13,
+          "avg_price": 0.7599,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Anyone's Legend vs JD Gaming - Game 1 Winner",
+      "slug": "lol-al-jdg-2026-08-14-game1",
+      "outcome": "JD Gaming",
+      "num_traders": 4,
+      "total_value": 34552.19,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.38,
+          "value": 18236.04,
+          "avg_price": 0.3599,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "sdfqq1",
+          "roi": 0.2115,
+          "value": 9088.63,
+          "avg_price": 0.6829,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.164,
+          "value": 4548.45,
+          "avg_price": 0.45,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.1757,
+          "value": 2679.07,
+          "avg_price": 0.3599,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 22722.45,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.38,
+          "value": 12749.17,
+          "avg_price": 0.4899,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.169,
+          "value": 8306.89,
+          "avg_price": 0.5,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4815,
+          "value": 1666.39,
+          "avg_price": 0.5139,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Spirit (BO3) - The International Group Stage",
+      "slug": "dota2-liquid-ts8-2026-08-14",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 21512.67,
+      "holders": [
+        {
+          "trader": "787-HUEV-W-ZOPE",
+          "roi": 0.1759,
+          "value": 9994.54,
+          "avg_price": 0.5671,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hff.",
+          "roi": 0.1759,
+          "value": 6615.66,
+          "avg_price": 0.7163,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sdfqq1",
+          "roi": 0.2115,
+          "value": 4902.47,
+          "avg_price": 0.6672,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs Top Esports - Game 1 Winner",
+      "slug": "lol-we-tes-2026-08-14-game1",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 19134.82,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.38,
+          "value": 16432.66,
+          "avg_price": 0.3075,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.164,
+          "value": 2378.79,
+          "avg_price": 0.35,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kedaya8888",
+          "roi": 0.1515,
+          "value": 323.37,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 Academy vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "slug": "lol-t1a-dkc-2026-08-13",
+      "outcome": "Dplus KIA Challengers",
+      "num_traders": 3,
+      "total_value": 7503.23,
+      "holders": [
+        {
+          "trader": "Elaran1993",
+          "roi": 0.2829,
+          "value": 4977.47,
+          "avg_price": 0.33,
+          "cur_price": 0.9955
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.38,
+          "value": 1535.12,
+          "avg_price": 0.6799,
+          "cur_price": 0.9955
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.2642,
+          "value": 990.64,
+          "avg_price": 0.3304,
+          "cur_price": 0.9955
+        }
+      ]
+    },
     {
       "market": "Will Nigel Farage win 60\u201370% of votes in the Clacton parliamentary by-election?",
       "slug": "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124",
@@ -41,66 +250,6 @@
           "value": 15520.72,
           "avg_price": 0.2324,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
-      "slug": "lol-t1-dk-2026-08-14",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 42087.26,
-      "holders": [
-        {
-          "trader": "GhostOfJupiter",
-          "roi": 0.3197,
-          "value": 29984.9,
-          "avg_price": 0.4083,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sdfqq1",
-          "roi": 0.2161,
-          "value": 10626.23,
-          "avg_price": 0.9395,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.415,
-          "value": 1476.13,
-          "avg_price": 0.7599,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 22722.45,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.415,
-          "value": 12749.17,
-          "avg_price": 0.4899,
-          "cur_price": 0.46
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.169,
-          "value": 8306.89,
-          "avg_price": 0.5,
-          "cur_price": 0.46
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5054,
-          "value": 1666.39,
-          "avg_price": 0.5139,
-          "cur_price": 0.46
         }
       ]
     },
@@ -190,36 +339,6 @@
           "roi": 0.2959,
           "value": 14762.15,
           "avg_price": 0.87,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Count Binface win 20\u201330% of votes in the Clacton parliamentary by-election?",
-      "slug": "will-count-binface-win-2030-of-votes-in-the-clacton-parliamentary-by-election-20260708142507721",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5236.63,
-      "holders": [
-        {
-          "trader": "VeganCyclist",
-          "roi": 0.6839,
-          "value": 4505.57,
-          "avg_price": 0.1985,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4475,
-          "value": 515.3,
-          "avg_price": 1.3922,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Flipadelphia",
-          "roi": 0.5629,
-          "value": 215.76,
-          "avg_price": 0.9578,
           "cur_price": 0.9995
         }
       ]
@@ -845,8 +964,11 @@
     "mlb-tex-laa-2026-08-13::Los Angeles Angels": 3,
     "mlb-tex-laa-2026-08-13-total-7pt5::Under": 3,
     "dota2-ty-liquid-2026-08-13::Team Liquid": 3,
-    "will-count-binface-win-2030-of-votes-in-the-clacton-parliamentary-by-election-20260708142507721::Yes": 2,
-    "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No": 1
+    "will-count-binface-win-2030-of-votes-in-the-clacton-parliamentary-by-election-20260708142507721::Yes": 3,
+    "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No": 2,
+    "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes": 1,
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 1,
+    "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election::Yes": 1
   },
-  "updated_at": "2026-08-14T11:21:47.502753+00:00"
+  "updated_at": "2026-08-14T12:04:48.107746+00:00"
 }
