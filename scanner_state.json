@@ -1,6 +1,7 @@
 {
   "seen_ids": [
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-harry-kane-win-the-2026-ballon-dor::Yes",
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
     "will-rodri-win-the-2026-ballon-dor::Yes"
   ],
@@ -14,24 +15,54 @@
       "holders": [
         {
           "trader": "coali10",
-          "roi": 0.272,
+          "roi": 0.2694,
           "value": 94690.76,
           "avg_price": 0.5999,
           "cur_price": 0.705
         },
         {
           "trader": "cigarettes",
-          "roi": 1.0571,
+          "roi": 1.0324,
           "value": 2321.54,
           "avg_price": 0.6071,
           "cur_price": 0.705
         },
         {
           "trader": "donthackme",
-          "roi": 0.5418,
+          "roi": 0.5361,
           "value": 382.94,
           "avg_price": 0.5,
           "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 35854.3,
+      "holders": [
+        {
+          "trader": "cigarettes",
+          "roi": 1.0324,
+          "value": 23295.64,
+          "avg_price": 0.4263,
+          "cur_price": 0.586
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.4271,
+          "value": 11811.07,
+          "avg_price": 0.4083,
+          "cur_price": 0.586
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.255,
+          "value": 747.59,
+          "avg_price": 0.162,
+          "cur_price": 0.586
         }
       ]
     },
@@ -40,28 +71,28 @@
       "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 9159.03,
+      "total_value": 8890.34,
       "holders": [
         {
           "trader": "coali10",
-          "roi": 0.272,
-          "value": 7002.95,
+          "roi": 0.2694,
+          "value": 6899.2,
           "avg_price": 0.585,
-          "cur_price": 0.675
+          "cur_price": 0.665
         },
         {
           "trader": "donthackme",
-          "roi": 0.5418,
-          "value": 1545.34,
+          "roi": 0.5361,
+          "value": 1522.44,
           "avg_price": 0.5012,
-          "cur_price": 0.675
+          "cur_price": 0.665
         },
         {
           "trader": "balthazar",
-          "roi": 0.257,
-          "value": 610.74,
+          "roi": 0.255,
+          "value": 468.7,
           "avg_price": 0.5021,
-          "cur_price": 0.675
+          "cur_price": 0.665
         }
       ]
     },
@@ -74,21 +105,21 @@
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.5418,
+          "roi": 0.5361,
           "value": 409.0,
           "avg_price": 0.5,
           "cur_price": 0.075
         },
         {
           "trader": "balthazar",
-          "roi": 0.257,
+          "roi": 0.255,
           "value": 369.18,
           "avg_price": 0.4112,
           "cur_price": 0.075
         },
         {
           "trader": "cigarettes",
-          "roi": 1.0571,
+          "roi": 1.0324,
           "value": 286.73,
           "avg_price": 0.4999,
           "cur_price": 0.075
@@ -330,7 +361,6 @@
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138601::Yes": 3,
     "wnba-gsv-phx-2026-07-29::Phoenix Mercury": 3,
     "mlb-mil-sf-2026-07-29::San Francisco Giants": 3,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291::Yes": 3,
     "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes": 3,
     "lol-nip-wb-2026-07-30::Ninjas in Pyjamas": 3,
@@ -712,5 +742,5 @@
     "cs2-lgc-faze-2026-08-13::Legacy": 3,
     "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes": 3
   },
-  "updated_at": "2026-08-13T23:52:12.689481+00:00"
+  "updated_at": "2026-08-14T01:13:43.655759+00:00"
 }
