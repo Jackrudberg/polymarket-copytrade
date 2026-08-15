@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "cs2-furia-9z-2026-08-15::FURIA",
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2498.98,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2641,
+          "value": 1545.34,
+          "avg_price": 0.5012,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1522,
+          "value": 477.9,
+          "avg_price": 0.722,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.243,
+          "value": 475.74,
+          "avg_price": 0.5021,
+          "cur_price": 0.675
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
       "slug": "cs2-furia-9z-2026-08-15",
@@ -31,36 +60,6 @@
           "value": 16494.72,
           "avg_price": 0.6375,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2498.98,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.2613,
-          "value": 1545.34,
-          "avg_price": 0.5012,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1512,
-          "value": 477.9,
-          "avg_price": 0.722,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2327,
-          "value": 475.74,
-          "avg_price": 0.5021,
-          "cur_price": 0.675
         }
       ]
     }
@@ -749,7 +748,8 @@
     "dota2-ironwi-ty-2026-08-15::Iron Wing": 3,
     "dota2-liquid-aur1-2026-08-15::Team Liquid": 3,
     "lol-blg-we-2026-08-15::Bilibili Gaming": 3,
-    "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3
+    "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3,
+    "cs2-furia-9z-2026-08-15::FURIA": 1
   },
-  "updated_at": "2026-08-15T19:11:14.146169+00:00"
+  "updated_at": "2026-08-15T19:35:19.538669+00:00"
 }
