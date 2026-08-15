@@ -1,6 +1,7 @@
 {
   "seen_ids": [
     "cs2-mglz-navi-2026-08-15::Natus Vincere",
+    "cs2-wc1-pain-2026-08-15::paiN",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
     "mlb-atl-cws-2026-06-11::Atlanta Braves",
     "mlb-atl-cws-2026-06-11::Chicago White Sox",
@@ -11,29 +12,66 @@
       "market": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
       "slug": "cs2-mglz-navi-2026-08-15",
       "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 55196.96,
+      "num_traders": 4,
+      "total_value": 78609.82,
       "holders": [
         {
           "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
           "roi": 0.4331,
-          "value": 33303.08,
-          "avg_price": 0.7198,
-          "cur_price": 0.625
+          "value": 45460.03,
+          "avg_price": 0.7195,
+          "cur_price": 0.85
         },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
           "roi": 0.1544,
-          "value": 14956.38,
+          "value": 18067.3,
           "avg_price": 0.7099,
-          "cur_price": 0.625
+          "cur_price": 0.755
         },
         {
           "trader": "steevenseakael",
           "roi": 0.5988,
-          "value": 6937.5,
+          "value": 9435,
           "avg_price": 0.73,
-          "cur_price": 0.625
+          "cur_price": 0.85
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.6767,
+          "value": 5647.49,
+          "avg_price": 0.7186,
+          "cur_price": 0.755
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Wildcard vs paiN (BO3) - Esports World Cup Group D",
+      "slug": "cs2-wc1-pain-2026-08-15",
+      "outcome": "paiN",
+      "num_traders": 3,
+      "total_value": 64769.92,
+      "holders": [
+        {
+          "trader": "mirotvorets",
+          "roi": 0.3812,
+          "value": 33476.94,
+          "avg_price": 0.59,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.6767,
+          "value": 19396.42,
+          "avg_price": 0.3992,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "GreatestTrader",
+          "roi": 0.2213,
+          "value": 11896.56,
+          "avg_price": 0.5899,
+          "cur_price": 0.815
         }
       ]
     },
@@ -132,65 +170,28 @@
       "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 2498.98,
+      "total_value": 2517.5,
       "holders": [
         {
           "trader": "donthackme",
           "roi": 0.3578,
-          "value": 1545.34,
+          "value": 1556.79,
           "avg_price": 0.5012,
-          "cur_price": 0.675
+          "cur_price": 0.68
         },
         {
           "trader": "Zzzz87",
           "roi": 0.1744,
-          "value": 477.9,
+          "value": 481.44,
           "avg_price": 0.722,
-          "cur_price": 0.675
+          "cur_price": 0.68
         },
         {
           "trader": "balthazar",
           "roi": 0.2507,
-          "value": 475.74,
+          "value": 479.27,
           "avg_price": 0.5021,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
-      "slug": "dota2-ironwi-liquid-2026-08-15",
-      "outcome": "Team Liquid",
-      "num_traders": 4,
-      "total_value": 146296.07,
-      "holders": [
-        {
-          "trader": "spreadcorearb",
-          "roi": 0.3327,
-          "value": 55427.23,
-          "avg_price": 0.4447,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GreatestTrader",
-          "roi": 0.2727,
-          "value": 36781.5,
-          "avg_price": 0.5057,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "mirotvorets",
-          "roi": 0.3808,
-          "value": 34097.34,
-          "avg_price": 0.5479,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.2535,
-          "value": 19990.0,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
+          "cur_price": 0.68
         }
       ]
     }
@@ -864,7 +865,7 @@
     "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 3,
     "lol-tt-al-2026-08-15-game1::Anyone's Legend": 3,
     "lol-hle1-kt-2026-08-15-game1::KT Rolster": 3,
-    "dota2-ironwi-liquid-2026-08-15::Team Liquid": 2
+    "dota2-ironwi-liquid-2026-08-15::Team Liquid": 3
   },
-  "updated_at": "2026-08-15T12:49:26.218340+00:00"
+  "updated_at": "2026-08-15T13:20:31.205743+00:00"
 }
