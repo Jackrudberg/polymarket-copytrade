@@ -4,9 +4,7 @@
     "cs2-furia-9z-2026-08-15::FURIA",
     "dota2-ironwi-ty-2026-08-15::Iron Wing",
     "dota2-liquid-aur1-2026-08-15::Team Liquid",
-    "lol-sk-fnc-2026-08-15::SK Gaming",
     "lol-blg-we-2026-08-15::Bilibili Gaming",
-    "lol-sk-fnc-2026-08-15-game2::SK Gaming",
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
   ],
   "signals": [
@@ -52,35 +50,35 @@
       "slug": "cs2-furia-9z-2026-08-15",
       "outcome": "FURIA",
       "num_traders": 4,
-      "total_value": 63410.53,
+      "total_value": 78481.47,
       "holders": [
         {
           "trader": "Lakersfan111",
           "roi": 0.1548,
-          "value": 26448.58,
+          "value": 30722.22,
           "avg_price": 0.6332,
-          "cur_price": 0.6065
+          "cur_price": 0.7045
         },
         {
           "trader": "KingOfEsports",
           "roi": 0.1945,
-          "value": 18194.88,
+          "value": 21134.86,
           "avg_price": 0.65,
-          "cur_price": 0.6065
-        },
-        {
-          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
-          "roi": 0.4941,
-          "value": 10009.05,
-          "avg_price": 0.6375,
-          "cur_price": 0.6065
+          "cur_price": 0.7045
         },
         {
           "trader": "Wiretransferxyz",
           "roi": 0.277,
-          "value": 8758.02,
-          "avg_price": 0.5801,
-          "cur_price": 0.6065
+          "value": 14998.05,
+          "avg_price": 0.58,
+          "cur_price": 0.7045
+        },
+        {
+          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+          "roi": 0.4941,
+          "value": 11626.34,
+          "avg_price": 0.6375,
+          "cur_price": 0.7045
         }
       ]
     },
@@ -159,6 +157,66 @@
       ]
     },
     {
+      "market": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+      "slug": "lol-blg-we-2026-08-15",
+      "outcome": "Bilibili Gaming",
+      "num_traders": 3,
+      "total_value": 45960.46,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1548,
+          "value": 44952.02,
+          "avg_price": 0.7547,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3445,
+          "value": 636.63,
+          "avg_price": 0.7599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1924,
+          "value": 371.81,
+          "avg_price": 0.7895,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2498.98,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3286,
+          "value": 1545.34,
+          "avg_price": 0.5012,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1924,
+          "value": 477.9,
+          "avg_price": 0.722,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2534,
+          "value": 475.74,
+          "avg_price": 0.5021,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
       "market": "LoL: SK Gaming vs Fnatic (BO3) - LEC Regular Season",
       "slug": "lol-sk-fnc-2026-08-15",
       "outcome": "SK Gaming",
@@ -196,36 +254,6 @@
       ]
     },
     {
-      "market": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
-      "slug": "lol-blg-we-2026-08-15",
-      "outcome": "Bilibili Gaming",
-      "num_traders": 3,
-      "total_value": 45960.46,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.1548,
-          "value": 44952.02,
-          "avg_price": 0.7547,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.3445,
-          "value": 636.63,
-          "avg_price": 0.7599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1924,
-          "value": 371.81,
-          "avg_price": 0.7895,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "LoL: SK Gaming vs Fnatic - Game 2 Winner",
       "slug": "lol-sk-fnc-2026-08-15-game2",
       "outcome": "SK Gaming",
@@ -252,36 +280,6 @@
           "value": 2467.0,
           "avg_price": 0.4678,
           "cur_price": 0.149
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2498.98,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3286,
-          "value": 1545.34,
-          "avg_price": 0.5012,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1924,
-          "value": 477.9,
-          "avg_price": 0.722,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2534,
-          "value": 475.74,
-          "avg_price": 0.5021,
-          "cur_price": 0.675
         }
       ]
     },
@@ -1081,10 +1079,12 @@
     "cs2-wc1-pain-2026-08-15::paiN": 3,
     "cs2-mglz-navi-2026-08-15::Natus Vincere": 3,
     "dota2-liquid-aur1-2026-08-15-game2::Team Liquid": 3,
-    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 1,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
-    "mlb-atl-cws-2026-06-11::Atlanta Braves": 1,
-    "mlb-atl-cws-2026-06-11::Chicago White Sox": 1
+    "mlb-atl-cws-2026-06-11-total-8pt5::Under": 2,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
+    "mlb-atl-cws-2026-06-11::Atlanta Braves": 2,
+    "mlb-atl-cws-2026-06-11::Chicago White Sox": 2,
+    "lol-sk-fnc-2026-08-15::SK Gaming": 1,
+    "lol-sk-fnc-2026-08-15-game2::SK Gaming": 1
   },
-  "updated_at": "2026-08-15T16:39:55.217073+00:00"
+  "updated_at": "2026-08-15T17:00:38.321884+00:00"
 }
