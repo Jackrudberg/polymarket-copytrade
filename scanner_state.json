@@ -1,10 +1,131 @@
 {
   "seen_ids": [
-    "lol-hle1-kt-2026-08-15-game1::Hanwha Life Esports",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
-    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
+    "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION",
+    "dota2-ironwi-liquid-2026-08-15-game1::Iron Wing",
+    "dota2-vsn2-ts8-2026-08-15::TEAM VISION",
+    "dota2-ngx-vg-2026-08-15-game2::Nigma Galaxy"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-15-game2",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 301080.33,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.1826,
+          "value": 272166.95,
+          "avg_price": 0.6675,
+          "cur_price": 0.961
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1614,
+          "value": 16464.97,
+          "avg_price": 0.6413,
+          "cur_price": 0.961
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.2134,
+          "value": 12448.41,
+          "avg_price": 0.6578,
+          "cur_price": 0.961
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-ironwi-liquid-2026-08-15-game1",
+      "outcome": "Iron Wing",
+      "num_traders": 3,
+      "total_value": 193915.05,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.1826,
+          "value": 158789.77,
+          "avg_price": 0.5335,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Dota2winner",
+          "roi": 0.2116,
+          "value": 24987.49,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.2134,
+          "value": 10137.79,
+          "avg_price": 0.4899,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage",
+      "slug": "dota2-vsn2-ts8-2026-08-15",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 136305.57,
+      "holders": [
+        {
+          "trader": "S-Works",
+          "roi": 0.2453,
+          "value": 73116.45,
+          "avg_price": 0.5999,
+          "cur_price": 0.9765
+        },
+        {
+          "trader": "coupedegrace",
+          "roi": 0.235,
+          "value": 39060,
+          "avg_price": 0.61,
+          "cur_price": 0.9765
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2593,
+          "value": 24129.12,
+          "avg_price": 0.61,
+          "cur_price": 0.9765
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 2 Winner",
+      "slug": "dota2-ngx-vg-2026-08-15-game2",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 3,
+      "total_value": 56778.56,
+      "holders": [
+        {
+          "trader": "GreatestTrader",
+          "roi": 0.3046,
+          "value": 32483.75,
+          "avg_price": 0.4999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "111111111115",
+          "roi": 0.1826,
+          "value": 17865.33,
+          "avg_price": 0.4899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.2134,
+          "value": 6429.48,
+          "avg_price": 0.5199,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
       "slug": "lol-hle1-kt-2026-08-15-game1",
@@ -143,36 +264,6 @@
           "value": 4997.48,
           "avg_price": 0.6299,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
-      "slug": "dota2-vsn2-ts8-2026-08-15-game1",
-      "outcome": "Team Spirit",
-      "num_traders": 3,
-      "total_value": 3693.34,
-      "holders": [
-        {
-          "trader": "Dota2winner",
-          "roi": 0.1702,
-          "value": 1650,
-          "avg_price": 0.4199,
-          "cur_price": 0.055
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.2392,
-          "value": 1080.84,
-          "avg_price": 0.4099,
-          "cur_price": 0.055
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1548,
-          "value": 962.5,
-          "avg_price": 0.4271,
-          "cur_price": 0.055
         }
       ]
     }
@@ -832,8 +923,11 @@
     "dota2-tr7-ty-2026-08-14::Team Resilience": 3,
     "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 3,
     "dota2-ironwi-liquid-2026-08-15-game1::Team Liquid": 3,
-    "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit": 2,
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 1
+    "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit": 3,
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 2,
+    "lol-hle1-kt-2026-08-15-game1::Hanwha Life Esports": 1,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1,
+    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 1
   },
-  "updated_at": "2026-08-15T08:17:06.341056+00:00"
+  "updated_at": "2026-08-15T08:49:14.154819+00:00"
 }
