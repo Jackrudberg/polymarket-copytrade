@@ -1,40 +1,9 @@
 {
   "seen_ids": [
-    "mlb-mil-lad-2026-08-14::Los Angeles Dodgers",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
     "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
   ],
   "signals": [
-    {
-      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
-      "slug": "mlb-mil-lad-2026-08-14",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 156732.08,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.6017,
-          "value": 106353.82,
-          "avg_price": 0.6227,
-          "cur_price": 0.931
-        },
-        {
-          "trader": "Feromont",
-          "roi": 0.1939,
-          "value": 37240,
-          "avg_price": 0.63,
-          "cur_price": 0.931
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3071,
-          "value": 13138.26,
-          "avg_price": 0.62,
-          "cur_price": 0.931
-        }
-      ]
-    },
     {
       "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
       "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
@@ -70,28 +39,58 @@
       "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 1467.96,
+      "total_value": 1484.27,
       "holders": [
         {
           "trader": "AnonymousUsername",
           "roi": 0.3071,
-          "value": 531.7,
+          "value": 537.61,
           "avg_price": 0.4736,
-          "cur_price": 0.45
+          "cur_price": 0.455
         },
         {
           "trader": "mooseborzoi",
           "roi": 0.2064,
-          "value": 471.85,
+          "value": 477.09,
           "avg_price": 0.3986,
-          "cur_price": 0.45
+          "cur_price": 0.455
         },
         {
           "trader": "Nooserac",
           "roi": 0.4351,
-          "value": 464.41,
+          "value": 469.57,
           "avg_price": 0.4226,
-          "cur_price": 0.45
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-08-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 156732.08,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.6017,
+          "value": 106353.82,
+          "avg_price": 0.6227,
+          "cur_price": 0.931
+        },
+        {
+          "trader": "Feromont",
+          "roi": 0.1939,
+          "value": 37240,
+          "avg_price": 0.63,
+          "cur_price": 0.931
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3071,
+          "value": 13138.26,
+          "avg_price": 0.62,
+          "cur_price": 0.931
         }
       ]
     },
@@ -242,36 +241,6 @@
           "value": 546.8,
           "avg_price": 0.4489,
           "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Dolphins vs. Commanders",
-      "slug": "nfl-mia-was-2026-08-14",
-      "outcome": "Commanders",
-      "num_traders": 3,
-      "total_value": 80730.17,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2717,
-          "value": 73029.44,
-          "avg_price": 0.3668,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2073,
-          "value": 7272.87,
-          "avg_price": 0.3585,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2151,
-          "value": 427.86,
-          "avg_price": 0.36,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -924,12 +893,13 @@
     "mlb-kc-laa-2026-08-14::Kansas City Royals": 3,
     "mlb-sea-hou-2026-08-14::Houston Astros": 3,
     "mlb-mil-lad-2026-08-14::Milwaukee Brewers": 3,
-    "nfl-mia-was-2026-08-14::Commanders": 2,
-    "mlb-tex-oak-2026-08-14::Athletics": 1,
-    "wnba-por-sea-2026-08-14::Portland Fire": 1,
-    "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic": 1,
-    "dota2-tr7-ty-2026-08-14::Team Resilience": 1,
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 1
+    "nfl-mia-was-2026-08-14::Commanders": 3,
+    "mlb-tex-oak-2026-08-14::Athletics": 2,
+    "wnba-por-sea-2026-08-14::Portland Fire": 2,
+    "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic": 2,
+    "dota2-tr7-ty-2026-08-14::Team Resilience": 2,
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 2,
+    "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 1
   },
-  "updated_at": "2026-08-15T04:42:40.372292+00:00"
+  "updated_at": "2026-08-15T05:04:42.394893+00:00"
 }
