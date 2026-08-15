@@ -1,9 +1,10 @@
 {
   "seen_ids": [
-    "lol-fox1-dnf-2026-08-15-game2::DN SOOPers",
     "cs2-wc1-pain-2026-08-15::paiN",
-    "lol-tt-al-2026-08-15-game2::Anyone's Legend",
-    "lol-tt-al-2026-08-15::Anyone's Legend",
+    "cs2-mglz-navi-2026-08-15::Natus Vincere",
+    "dota2-liquid-aur1-2026-08-15-game2::Team Liquid",
+    "lol-fox1-dnf-2026-08-15-game2::DN SOOPers",
+    "cs2-furia-9z-2026-08-15::FURIA",
     "mlb-atl-cws-2026-06-11-total-8pt5::Under",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
     "mlb-atl-cws-2026-06-11::Atlanta Braves",
@@ -12,29 +13,140 @@
   ],
   "signals": [
     {
-      "market": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
-      "slug": "lol-fox1-dnf-2026-08-15-game2",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 166244.8,
+      "market": "Counter-Strike: Wildcard vs paiN (BO3) - Esports World Cup Group D",
+      "slug": "cs2-wc1-pain-2026-08-15",
+      "outcome": "paiN",
+      "num_traders": 6,
+      "total_value": 159499.45,
       "holders": [
         {
-          "trader": "111111111115",
-          "roi": 0.1509,
-          "value": 106872.15,
-          "avg_price": 0.6069,
+          "trader": "happywater",
+          "roi": 0.4613,
+          "value": 44977.5,
+          "avg_price": 0.59,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mirotvorets",
+          "roi": 0.3952,
+          "value": 41055.46,
+          "avg_price": 0.59,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.412,
+          "value": 34982.24,
+          "avg_price": 0.5742,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5832,
+          "value": 23787.39,
+          "avg_price": 0.3992,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GreatestTrader",
+          "roi": 0.2274,
+          "value": 14589.7,
+          "avg_price": 0.5899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+          "roi": 0.5059,
+          "value": 107.16,
+          "avg_price": 0.6,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
+      "slug": "cs2-mglz-navi-2026-08-15",
+      "outcome": "Natus Vincere",
+      "num_traders": 4,
+      "total_value": 107008.93,
+      "holders": [
+        {
+          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+          "roi": 0.5059,
+          "value": 53455.65,
+          "avg_price": 0.7195,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.412,
+          "value": 34982.45,
+          "avg_price": 0.737,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "steevenseakael",
+          "roi": 0.6452,
+          "value": 11094.45,
+          "avg_price": 0.73,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5832,
+          "value": 7476.38,
+          "avg_price": 0.7186,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Aurora - Game 2 Winner",
+      "slug": "dota2-liquid-aur1-2026-08-15-game2",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 72484.53,
+      "holders": [
+        {
+          "trader": "Dota2winner",
+          "roi": 0.1766,
+          "value": 49974.95,
+          "avg_price": 0.4919,
           "cur_price": 0.9995
         },
         {
           "trader": "Sunshine.Smile",
-          "roi": 0.2151,
+          "roi": 0.2064,
+          "value": 12093.94,
+          "avg_price": 0.5168,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.2652,
+          "value": 10415.64,
+          "avg_price": 0.5003,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: BNK FEARX vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-fox1-dnf-2026-08-15-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 59372.65,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.2064,
           "value": 21589.19,
           "avg_price": 0.5365,
           "cur_price": 0.9995
         },
         {
           "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.2313,
+          "roi": 0.2038,
           "value": 20574.43,
           "avg_price": 0.4898,
           "cur_price": 0.9995
@@ -49,32 +161,182 @@
       ]
     },
     {
-      "market": "Counter-Strike: Wildcard vs paiN (BO3) - Esports World Cup Group D",
-      "slug": "cs2-wc1-pain-2026-08-15",
-      "outcome": "paiN",
+      "market": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+      "slug": "cs2-furia-9z-2026-08-15",
+      "outcome": "FURIA",
       "num_traders": 3,
-      "total_value": 79432.55,
+      "total_value": 31505.93,
       "holders": [
         {
-          "trader": "mirotvorets",
-          "roi": 0.1908,
-          "value": 41055.46,
-          "avg_price": 0.59,
-          "cur_price": 0.9995
+          "trader": "KingOfEsports",
+          "roi": 0.1661,
+          "value": 20249.87,
+          "avg_price": 0.65,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+          "roi": 0.5059,
+          "value": 11139.51,
+          "avg_price": 0.6375,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.412,
+          "value": 116.55,
+          "avg_price": 0.63,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 12423.3,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1681,
+          "value": 9635.78,
+          "avg_price": 0.48,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2296,
+          "value": 1719.96,
+          "avg_price": 0.48,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.363,
+          "value": 1067.56,
+          "avg_price": 0.3899,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 10233.28,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1681,
+          "value": 8397.18,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2296,
+          "value": 1684.5,
+          "avg_price": 0.5139,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2242,
+          "value": 151.6,
+          "avg_price": 0.5112,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9595.72,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2296,
+          "value": 9030.26,
+          "avg_price": 0.51,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2529,
+          "value": 409.99,
+          "avg_price": 0.3212,
+          "cur_price": 0.535
         },
         {
           "trader": "sbsigner",
-          "roi": 0.5231,
-          "value": 23787.39,
-          "avg_price": 0.3992,
-          "cur_price": 0.9995
+          "roi": 0.5832,
+          "value": 155.47,
+          "avg_price": 0.5212,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 6309.8,
+      "holders": [
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2242,
+          "value": 3704.16,
+          "avg_price": 0.4899,
+          "cur_price": 0.465
         },
         {
-          "trader": "GreatestTrader",
-          "roi": 0.168,
-          "value": 14589.7,
-          "avg_price": 0.5899,
-          "cur_price": 0.9995
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1681,
+          "value": 2293.54,
+          "avg_price": 0.4732,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.5832,
+          "value": 312.1,
+          "avg_price": 0.5062,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2498.98,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3706,
+          "value": 1545.34,
+          "avg_price": 0.5012,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2242,
+          "value": 477.9,
+          "avg_price": 0.722,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2529,
+          "value": 475.74,
+          "avg_price": 0.5021,
+          "cur_price": 0.675
         }
       ]
     },
@@ -135,193 +397,6 @@
           "value": 5138.16,
           "avg_price": 0.6591,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-atl-cws-2026-06-11-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 12423.3,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1731,
-          "value": 9635.78,
-          "avg_price": 0.48,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.261,
-          "value": 1719.96,
-          "avg_price": 0.48,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.3626,
-          "value": 1067.56,
-          "avg_price": 0.3899,
-          "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10233.28,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1731,
-          "value": 8397.18,
-          "avg_price": 0.5,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.261,
-          "value": 1684.5,
-          "avg_price": 0.5139,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2374,
-          "value": 151.6,
-          "avg_price": 0.5112,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 9595.72,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.261,
-          "value": 9030.26,
-          "avg_price": 0.51,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2744,
-          "value": 409.99,
-          "avg_price": 0.3212,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5231,
-          "value": 155.47,
-          "avg_price": 0.5212,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Chicago White Sox",
-      "slug": "mlb-atl-cws-2026-06-11",
-      "outcome": "Chicago White Sox",
-      "num_traders": 3,
-      "total_value": 6309.8,
-      "holders": [
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2374,
-          "value": 3704.16,
-          "avg_price": 0.4899,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1731,
-          "value": 2293.54,
-          "avg_price": 0.4732,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.5231,
-          "value": 312.1,
-          "avg_price": 0.5062,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2498.98,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3814,
-          "value": 1545.34,
-          "avg_price": 0.5012,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2374,
-          "value": 477.9,
-          "avg_price": 0.722,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2744,
-          "value": 475.74,
-          "avg_price": 0.5021,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
-      "slug": "cs2-mglz-navi-2026-08-15",
-      "outcome": "Natus Vincere",
-      "num_traders": 4,
-      "total_value": 78609.82,
-      "holders": [
-        {
-          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
-          "roi": 0.4331,
-          "value": 45460.03,
-          "avg_price": 0.7195,
-          "cur_price": 0.85
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.1544,
-          "value": 18067.3,
-          "avg_price": 0.7099,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "steevenseakael",
-          "roi": 0.5988,
-          "value": 9435,
-          "avg_price": 0.73,
-          "cur_price": 0.85
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.6767,
-          "value": 5647.49,
-          "avg_price": 0.7186,
-          "cur_price": 0.755
         }
       ]
     }
@@ -995,7 +1070,8 @@
     "lol-tt-al-2026-08-15-game1::Anyone's Legend": 3,
     "lol-hle1-kt-2026-08-15-game1::KT Rolster": 3,
     "dota2-ironwi-liquid-2026-08-15::Team Liquid": 3,
-    "cs2-mglz-navi-2026-08-15::Natus Vincere": 2
+    "lol-tt-al-2026-08-15-game2::Anyone's Legend": 1,
+    "lol-tt-al-2026-08-15::Anyone's Legend": 1
   },
-  "updated_at": "2026-08-15T14:08:17.896596+00:00"
+  "updated_at": "2026-08-15T14:38:11.492383+00:00"
 }
