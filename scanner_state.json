@@ -1,6 +1,162 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "cs2-mglz-navi-2026-08-15::Natus Vincere",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "mlb-atl-cws-2026-06-11::Atlanta Braves",
+    "mlb-atl-cws-2026-06-11::Chicago White Sox",
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
+  ],
   "signals": [
+    {
+      "market": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - Esports World Cup Group D",
+      "slug": "cs2-mglz-navi-2026-08-15",
+      "outcome": "Natus Vincere",
+      "num_traders": 3,
+      "total_value": 55196.96,
+      "holders": [
+        {
+          "trader": "0xA9C4b118095A4F67BA9ba461aAdF6a9cfE5e7433-1721318888203",
+          "roi": 0.4331,
+          "value": 33303.08,
+          "avg_price": 0.7198,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.1544,
+          "value": 14956.38,
+          "avg_price": 0.7099,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "steevenseakael",
+          "roi": 0.5988,
+          "value": 6937.5,
+          "avg_price": 0.73,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 10233.28,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1731,
+          "value": 8397.18,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.268,
+          "value": 1684.5,
+          "avg_price": 0.5139,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1744,
+          "value": 151.6,
+          "avg_price": 0.5112,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9595.72,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.268,
+          "value": 9030.26,
+          "avg_price": 0.51,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2507,
+          "value": 409.99,
+          "avg_price": 0.3212,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.6767,
+          "value": 155.47,
+          "avg_price": 0.5212,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Chicago White Sox",
+      "slug": "mlb-atl-cws-2026-06-11",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 6309.8,
+      "holders": [
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1744,
+          "value": 3704.16,
+          "avg_price": 0.4899,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1731,
+          "value": 2293.54,
+          "avg_price": 0.4732,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.6767,
+          "value": 312.1,
+          "avg_price": 0.5062,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2498.98,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3578,
+          "value": 1545.34,
+          "avg_price": 0.5012,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1744,
+          "value": 477.9,
+          "avg_price": 0.722,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2507,
+          "value": 475.74,
+          "avg_price": 0.5021,
+          "cur_price": 0.675
+        }
+      ]
+    },
     {
       "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
       "slug": "dota2-ironwi-liquid-2026-08-15",
@@ -35,96 +191,6 @@
           "value": 19990.0,
           "avg_price": 0.46,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
-      "slug": "lol-hle1-kt-2026-08-15-game1",
-      "outcome": "KT Rolster",
-      "num_traders": 3,
-      "total_value": 40639.78,
-      "holders": [
-        {
-          "trader": "Iamnobody.Nobody",
-          "roi": 0.3607,
-          "value": 21747.53,
-          "avg_price": 0.5823,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "DanNgl",
-          "roi": 0.388,
-          "value": 11995.7,
-          "avg_price": 0.3366,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1576,
-          "value": 6896.55,
-          "avg_price": 0.3426,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10233.28,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1753,
-          "value": 8397.18,
-          "avg_price": 0.5,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2924,
-          "value": 1684.5,
-          "avg_price": 0.5139,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1772,
-          "value": 151.6,
-          "avg_price": 0.5112,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2498.98,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3706,
-          "value": 1545.34,
-          "avg_price": 0.5012,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1772,
-          "value": 477.9,
-          "avg_price": 0.722,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2357,
-          "value": 475.74,
-          "avg_price": 0.5021,
-          "cur_price": 0.675
         }
       ]
     }
@@ -463,13 +529,11 @@
     "wta-podlins-valdman-2026-08-04::Vendula Valdmannova": 3,
     "atp-atmane-draper-2026-08-03::Terence Atmane": 3,
     "arg-cac-slo-2026-08-03-cac::Yes": 3,
-    "mlb-atl-cws-2026-06-11::Chicago White Sox": 3,
     "wta-podlins-valdman-2026-08-04::Marcelina Podlinska": 3,
     "ucl-usg-bog-2026-08-04-bog::No": 3,
     "ucl-hbs-crv-2026-08-04-crv::No": 3,
     "lol-t1-hle1-2026-08-04-game2::T1": 3,
     "ucl-din-kau-2026-08-04-kau::No": 3,
-    "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
     "mlb-oak-cin-2026-08-04::Cincinnati Reds": 3,
     "atp-gomez-squire-2026-08-03::Henri Squire": 3,
     "lol-t1-hle1-2026-08-04::T1": 3,
@@ -799,10 +863,8 @@
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 3,
     "lol-tt-al-2026-08-15-game1::Anyone's Legend": 3,
-    "lol-hle1-kt-2026-08-15-game1::KT Rolster": 2,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
-    "dota2-ironwi-liquid-2026-08-15::Team Liquid": 1
+    "lol-hle1-kt-2026-08-15-game1::KT Rolster": 3,
+    "dota2-ironwi-liquid-2026-08-15::Team Liquid": 2
   },
-  "updated_at": "2026-08-15T11:57:20.455888+00:00"
+  "updated_at": "2026-08-15T12:49:26.218340+00:00"
 }
