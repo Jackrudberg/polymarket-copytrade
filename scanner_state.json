@@ -1,6 +1,208 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "nfl-mia-was-2026-08-14::Commanders",
+    "mlb-kc-laa-2026-08-14-total-8pt5::Under",
+    "mlb-kc-laa-2026-08-14::Kansas City Royals",
+    "mlb-sea-hou-2026-08-14::Houston Astros",
+    "mlb-mil-lad-2026-08-14::Los Angeles Dodgers",
+    "mlb-mil-lad-2026-08-14::Milwaukee Brewers"
+  ],
+  "signals": [
+    {
+      "market": "Dolphins vs. Commanders",
+      "slug": "nfl-mia-was-2026-08-14",
+      "outcome": "Commanders",
+      "num_traders": 4,
+      "total_value": 81199.93,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4487,
+          "value": 73029.44,
+          "avg_price": 0.3668,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2029,
+          "value": 7272.87,
+          "avg_price": 0.3585,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 469.76,
+          "avg_price": 0.8499,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2005,
+          "value": 427.86,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Kansas City Royals vs. Los Angeles Angels: O/U 8.5",
+      "slug": "mlb-kc-laa-2026-08-14-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 18852.07,
+      "holders": [
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.1506,
+          "value": 11725.34,
+          "avg_price": 0.4998,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2005,
+          "value": 5625.67,
+          "avg_price": 0.5,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.2208,
+          "value": 784.27,
+          "avg_price": 0.5,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 716.79,
+          "avg_price": 0.4983,
+          "cur_price": 0.42
+        }
+      ]
+    },
+    {
+      "market": "Kansas City Royals vs. Los Angeles Angels",
+      "slug": "mlb-kc-laa-2026-08-14",
+      "outcome": "Kansas City Royals",
+      "num_traders": 3,
+      "total_value": 133615.03,
+      "holders": [
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.1506,
+          "value": 125648.68,
+          "avg_price": 0.5775,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4487,
+          "value": 6264.87,
+          "avg_price": 0.6759,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 1701.48,
+          "avg_price": 0.4969,
+          "cur_price": 0.745
+        }
+      ]
+    },
+    {
+      "market": "Seattle Mariners vs. Houston Astros",
+      "slug": "mlb-sea-hou-2026-08-14",
+      "outcome": "Houston Astros",
+      "num_traders": 3,
+      "total_value": 120978.0,
+      "holders": [
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.1506,
+          "value": 117749.01,
+          "avg_price": 0.5085,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2005,
+          "value": 2804.59,
+          "avg_price": 0.53,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 424.4,
+          "avg_price": 0.8036,
+          "cur_price": 0.905
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-08-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 10977.69,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2005,
+          "value": 9384.47,
+          "avg_price": 0.62,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 1333.35,
+          "avg_price": 0.6308,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.1506,
+          "value": 259.87,
+          "avg_price": 0.7383,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-08-14",
+      "outcome": "Milwaukee Brewers",
+      "num_traders": 3,
+      "total_value": 10525.74,
+      "holders": [
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.1506,
+          "value": 8401.92,
+          "avg_price": 0.368,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "swisstony",
+          "roi": 0.1586,
+          "value": 1094.13,
+          "avg_price": 0.3791,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4487,
+          "value": 1029.69,
+          "avg_price": 0.37,
+          "cur_price": 0.335
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -648,5 +850,5 @@
     "mlb-mia-cin-2026-08-14-total-7pt5::Over": 3,
     "cs2-prv-100t-2026-08-14::PARIVISION": 3
   },
-  "updated_at": "2026-08-15T01:46:15.105799+00:00"
+  "updated_at": "2026-08-15T02:40:10.492105+00:00"
 }
