@@ -1,14 +1,100 @@
 {
   "seen_ids": [
-    "mlb-tex-oak-2026-08-14::Athletics",
     "mlb-mil-lad-2026-08-14::Los Angeles Dodgers",
-    "wnba-por-sea-2026-08-14::Portland Fire",
-    "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic",
-    "dota2-tr7-ty-2026-08-14::Team Resilience",
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming",
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
     "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
   ],
   "signals": [
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-08-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 156732.08,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.6017,
+          "value": 106353.82,
+          "avg_price": 0.6227,
+          "cur_price": 0.931
+        },
+        {
+          "trader": "Feromont",
+          "roi": 0.1939,
+          "value": 37240,
+          "avg_price": 0.63,
+          "cur_price": 0.931
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3071,
+          "value": 13138.26,
+          "avg_price": 0.62,
+          "cur_price": 0.931
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3532.79,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.467,
+          "value": 1402.77,
+          "avg_price": 0.4982,
+          "cur_price": 0.7455
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.4351,
+          "value": 1158.25,
+          "avg_price": 0.58,
+          "cur_price": 0.7455
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.354,
+          "value": 971.77,
+          "avg_price": 0.5002,
+          "cur_price": 0.7455
+        }
+      ]
+    },
+    {
+      "market": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
+      "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1467.96,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3071,
+          "value": 531.7,
+          "avg_price": 0.4736,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2064,
+          "value": 471.85,
+          "avg_price": 0.3986,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.4351,
+          "value": 464.41,
+          "avg_price": 0.4226,
+          "cur_price": 0.45
+        }
+      ]
+    },
     {
       "market": "Texas Rangers vs. Athletics",
       "slug": "mlb-tex-oak-2026-08-14",
@@ -36,36 +122,6 @@
           "value": 927.5,
           "avg_price": 0.9099,
           "cur_price": 0.735
-        }
-      ]
-    },
-    {
-      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
-      "slug": "mlb-mil-lad-2026-08-14",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 118870.03,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.4747,
-          "value": 103383.68,
-          "avg_price": 0.6227,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2151,
-          "value": 12771.35,
-          "avg_price": 0.62,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3271,
-          "value": 2715,
-          "avg_price": 0.62,
-          "cur_price": 0.905
         }
       ]
     },
@@ -190,36 +246,6 @@
       ]
     },
     {
-      "market": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
-      "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1467.96,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2151,
-          "value": 531.7,
-          "avg_price": 0.4736,
-          "cur_price": 0.45
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2073,
-          "value": 471.85,
-          "avg_price": 0.3986,
-          "cur_price": 0.45
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.2772,
-          "value": 464.41,
-          "avg_price": 0.4226,
-          "cur_price": 0.45
-        }
-      ]
-    },
-    {
       "market": "Dolphins vs. Commanders",
       "slug": "nfl-mia-was-2026-08-14",
       "outcome": "Commanders",
@@ -246,133 +272,6 @@
           "value": 427.86,
           "avg_price": 0.36,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Kansas City Royals vs. Los Angeles Angels: O/U 8.5",
-      "slug": "mlb-kc-laa-2026-08-14-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 18852.07,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1506,
-          "value": 11725.34,
-          "avg_price": 0.4998,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2005,
-          "value": 5625.67,
-          "avg_price": 0.5,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.2208,
-          "value": 784.27,
-          "avg_price": 0.5,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 716.79,
-          "avg_price": 0.4983,
-          "cur_price": 0.42
-        }
-      ]
-    },
-    {
-      "market": "Kansas City Royals vs. Los Angeles Angels",
-      "slug": "mlb-kc-laa-2026-08-14",
-      "outcome": "Kansas City Royals",
-      "num_traders": 3,
-      "total_value": 133615.03,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1506,
-          "value": 125648.68,
-          "avg_price": 0.5775,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4487,
-          "value": 6264.87,
-          "avg_price": 0.6759,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 1701.48,
-          "avg_price": 0.4969,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
-      "market": "Seattle Mariners vs. Houston Astros",
-      "slug": "mlb-sea-hou-2026-08-14",
-      "outcome": "Houston Astros",
-      "num_traders": 3,
-      "total_value": 120978.0,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1506,
-          "value": 117749.01,
-          "avg_price": 0.5085,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2005,
-          "value": 2804.59,
-          "avg_price": 0.53,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 424.4,
-          "avg_price": 0.8036,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
-      "slug": "mlb-mil-lad-2026-08-14",
-      "outcome": "Milwaukee Brewers",
-      "num_traders": 3,
-      "total_value": 10525.74,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1506,
-          "value": 8401.92,
-          "avg_price": 0.368,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 1094.13,
-          "avg_price": 0.3791,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4487,
-          "value": 1029.69,
-          "avg_price": 0.37,
-          "cur_price": 0.335
         }
       ]
     }
@@ -629,7 +528,6 @@
     "mlb-chc-stl-2026-07-30::Chicago Cubs": 3,
     "mlb-nyy-cws-2026-07-30-total-7pt5::Under": 3,
     "cs2-bst-gls1-2026-07-30-map-handicap-away-1pt5::Galorys": 3,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244::Yes": 3,
     "mlb-pit-cin-2026-07-30::Cincinnati Reds": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes": 3,
@@ -1022,11 +920,16 @@
     "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5::B8": 3,
     "mlb-mia-cin-2026-08-14-total-7pt5::Over": 3,
     "cs2-prv-100t-2026-08-14::PARIVISION": 3,
-    "mlb-kc-laa-2026-08-14-total-8pt5::Under": 2,
-    "mlb-kc-laa-2026-08-14::Kansas City Royals": 2,
-    "mlb-sea-hou-2026-08-14::Houston Astros": 2,
-    "mlb-mil-lad-2026-08-14::Milwaukee Brewers": 2,
-    "nfl-mia-was-2026-08-14::Commanders": 1
+    "mlb-kc-laa-2026-08-14-total-8pt5::Under": 3,
+    "mlb-kc-laa-2026-08-14::Kansas City Royals": 3,
+    "mlb-sea-hou-2026-08-14::Houston Astros": 3,
+    "mlb-mil-lad-2026-08-14::Milwaukee Brewers": 3,
+    "nfl-mia-was-2026-08-14::Commanders": 2,
+    "mlb-tex-oak-2026-08-14::Athletics": 1,
+    "wnba-por-sea-2026-08-14::Portland Fire": 1,
+    "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic": 1,
+    "dota2-tr7-ty-2026-08-14::Team Resilience": 1,
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 1
   },
-  "updated_at": "2026-08-15T04:03:22.024969+00:00"
+  "updated_at": "2026-08-15T04:42:40.372292+00:00"
 }
