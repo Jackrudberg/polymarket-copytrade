@@ -1,10 +1,107 @@
 {
   "seen_ids": [
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming",
+    "lol-hle1-kt-2026-08-15-game1::Hanwha Life Esports",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
     "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
+      "slug": "lol-hle1-kt-2026-08-15-game1",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 4,
+      "total_value": 36606.06,
+      "holders": [
+        {
+          "trader": "zb8",
+          "roi": 0.2392,
+          "value": 12900,
+          "avg_price": 0.64,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.6045,
+          "value": 12900,
+          "avg_price": 0.6399,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1659,
+          "value": 6450,
+          "avg_price": 0.66,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1548,
+          "value": 4356.06,
+          "avg_price": 0.63,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3535.16,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.5049,
+          "value": 1403.71,
+          "avg_price": 0.4982,
+          "cur_price": 0.746
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1548,
+          "value": 1159.03,
+          "avg_price": 0.58,
+          "cur_price": 0.746
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3336,
+          "value": 972.42,
+          "avg_price": 0.5002,
+          "cur_price": 0.746
+        }
+      ]
+    },
+    {
+      "market": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
+      "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1467.96,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3194,
+          "value": 531.7,
+          "avg_price": 0.4736,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2098,
+          "value": 471.85,
+          "avg_price": 0.3986,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1548,
+          "value": 464.41,
+          "avg_price": 0.4226,
+          "cur_price": 0.45
+        }
+      ]
+    },
     {
       "market": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
       "slug": "dota2-lgd-xtreme-2026-08-14",
@@ -50,66 +147,6 @@
       ]
     },
     {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3535.16,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.5049,
-          "value": 1403.71,
-          "avg_price": 0.4982,
-          "cur_price": 0.746
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1548,
-          "value": 1159.03,
-          "avg_price": 0.58,
-          "cur_price": 0.746
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3336,
-          "value": 972.42,
-          "avg_price": 0.5002,
-          "cur_price": 0.746
-        }
-      ]
-    },
-    {
-      "market": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
-      "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1484.27,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3194,
-          "value": 537.61,
-          "avg_price": 0.4736,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2098,
-          "value": 477.09,
-          "avg_price": 0.3986,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1548,
-          "value": 469.57,
-          "avg_price": 0.4226,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
       "market": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
       "slug": "dota2-vsn2-ts8-2026-08-15-game1",
       "outcome": "Team Spirit",
@@ -136,36 +173,6 @@
           "value": 962.5,
           "avg_price": 0.4271,
           "cur_price": 0.055
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
-      "slug": "dota2-ironwi-liquid-2026-08-15-game1",
-      "outcome": "Team Liquid",
-      "num_traders": 3,
-      "total_value": 20630.49,
-      "holders": [
-        {
-          "trader": "Nooserac",
-          "roi": 0.1734,
-          "value": 9377.49,
-          "avg_price": 0.4616,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "Skyfker",
-          "roi": 0.1558,
-          "value": 6050,
-          "avg_price": 0.4399,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1995,
-          "value": 5203,
-          "avg_price": 0.5175,
-          "cur_price": 0.605
         }
       ]
     }
@@ -824,8 +831,9 @@
     "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic": 3,
     "dota2-tr7-ty-2026-08-14::Team Resilience": 3,
     "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 3,
-    "dota2-ironwi-liquid-2026-08-15-game1::Team Liquid": 2,
-    "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit": 1
+    "dota2-ironwi-liquid-2026-08-15-game1::Team Liquid": 3,
+    "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit": 2,
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 1
   },
-  "updated_at": "2026-08-15T07:51:55.343408+00:00"
+  "updated_at": "2026-08-15T08:17:06.341056+00:00"
 }
