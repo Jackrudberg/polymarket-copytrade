@@ -1,35 +1,134 @@
 {
   "seen_ids": [
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming"
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming",
+    "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit",
+    "dota2-ironwi-liquid-2026-08-15-game1::Team Liquid",
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
+    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
   ],
   "signals": [
     {
       "market": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
       "slug": "dota2-lgd-xtreme-2026-08-14",
       "outcome": "LGD Gaming",
-      "num_traders": 3,
-      "total_value": 54664.13,
+      "num_traders": 7,
+      "total_value": 128101.89,
       "holders": [
         {
+          "trader": "Nooserac",
+          "roi": 0.1734,
+          "value": 34982.5,
+          "avg_price": 0.7571,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "CORGI8",
-          "roi": 0.2658,
-          "value": 28952.27,
+          "roi": 0.2132,
+          "value": 34656.04,
           "avg_price": 0.459,
-          "cur_price": 0.835
+          "cur_price": 0.9995
         },
         {
           "trader": "Dota2winner",
-          "roi": 0.2839,
-          "value": 16699.98,
+          "roi": 0.2124,
+          "value": 19989.98,
           "avg_price": 0.42,
-          "cur_price": 0.835
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1995,
+          "value": 12693.63,
+          "avg_price": 0.5041,
+          "cur_price": 0.9995
         },
         {
           "trader": "KingOfEsports",
-          "roi": 0.7188,
-          "value": 9011.88,
+          "roi": 0.7308,
+          "value": 10787.28,
           "avg_price": 0.4224,
-          "cur_price": 0.835
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1558,
+          "value": 9994.98,
+          "avg_price": 0.5049,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.5598,
+          "value": 4997.48,
+          "avg_price": 0.6299,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-15-game1",
+      "outcome": "Team Spirit",
+      "num_traders": 4,
+      "total_value": 48086.56,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2132,
+          "value": 18875.57,
+          "avg_price": 0.4331,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "Dota2winner",
+          "roi": 0.2124,
+          "value": 13050,
+          "avg_price": 0.4199,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.4769,
+          "value": 8548.49,
+          "avg_price": 0.4099,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1734,
+          "value": 7612.5,
+          "avg_price": 0.4271,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Iron Wing vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-ironwi-liquid-2026-08-15-game1",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 20630.49,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.1734,
+          "value": 9377.49,
+          "avg_price": 0.4616,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1558,
+          "value": 6050,
+          "avg_price": 0.4399,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1995,
+          "value": 5203,
+          "avg_price": 0.5175,
+          "cur_price": 0.605
         }
       ]
     },
@@ -38,28 +137,28 @@
       "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 3532.79,
+      "total_value": 3535.16,
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.467,
-          "value": 1402.77,
+          "roi": 0.3491,
+          "value": 1403.71,
           "avg_price": 0.4982,
-          "cur_price": 0.7455
+          "cur_price": 0.746
         },
         {
           "trader": "Nooserac",
-          "roi": 0.4351,
-          "value": 1158.25,
+          "roi": 0.1734,
+          "value": 1159.03,
           "avg_price": 0.58,
-          "cur_price": 0.7455
+          "cur_price": 0.746
         },
         {
           "trader": "balthazar",
-          "roi": 0.354,
-          "value": 971.77,
+          "roi": 0.3659,
+          "value": 972.42,
           "avg_price": 0.5002,
-          "cur_price": 0.7455
+          "cur_price": 0.746
         }
       ]
     },
@@ -72,7 +171,7 @@
       "holders": [
         {
           "trader": "AnonymousUsername",
-          "roi": 0.3071,
+          "roi": 0.3378,
           "value": 537.61,
           "avg_price": 0.4736,
           "cur_price": 0.455
@@ -86,7 +185,7 @@
         },
         {
           "trader": "Nooserac",
-          "roi": 0.4351,
+          "roi": 0.1734,
           "value": 469.57,
           "avg_price": 0.4226,
           "cur_price": 0.455
@@ -747,9 +846,7 @@
     "wnba-por-sea-2026-08-14::Portland Fire": 3,
     "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic": 3,
     "dota2-tr7-ty-2026-08-14::Team Resilience": 3,
-    "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 3,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
-    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 2
+    "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 3
   },
-  "updated_at": "2026-08-15T05:58:52.874363+00:00"
+  "updated_at": "2026-08-15T06:52:26.934438+00:00"
 }
