@@ -1,47 +1,221 @@
 {
   "seen_ids": [
-    "nfl-mia-was-2026-08-14::Commanders",
-    "mlb-kc-laa-2026-08-14-total-8pt5::Under",
-    "mlb-kc-laa-2026-08-14::Kansas City Royals",
-    "mlb-sea-hou-2026-08-14::Houston Astros",
+    "mlb-tex-oak-2026-08-14::Athletics",
     "mlb-mil-lad-2026-08-14::Los Angeles Dodgers",
-    "mlb-mil-lad-2026-08-14::Milwaukee Brewers"
+    "nfl-mia-was-2026-08-14::Commanders",
+    "atp-kovacev-khachan-2026-08-13::Aleksandar Kovacevic",
+    "dota2-tr7-ty-2026-08-14::Team Resilience",
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming",
+    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes"
   ],
   "signals": [
+    {
+      "market": "Texas Rangers vs. Athletics",
+      "slug": "mlb-tex-oak-2026-08-14",
+      "outcome": "Athletics",
+      "num_traders": 3,
+      "total_value": 182312.6,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.2961,
+          "value": 172448.45,
+          "avg_price": 0.4899,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2151,
+          "value": 8797.84,
+          "avg_price": 0.48,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2105,
+          "value": 1066.31,
+          "avg_price": 0.9099,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-08-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 104421.74,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.4747,
+          "value": 90817.71,
+          "avg_price": 0.6227,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2151,
+          "value": 11219.03,
+          "avg_price": 0.62,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3271,
+          "value": 2385,
+          "avg_price": 0.62,
+          "cur_price": 0.795
+        }
+      ]
+    },
     {
       "market": "Dolphins vs. Commanders",
       "slug": "nfl-mia-was-2026-08-14",
       "outcome": "Commanders",
-      "num_traders": 4,
-      "total_value": 81199.93,
+      "num_traders": 3,
+      "total_value": 80730.17,
       "holders": [
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4487,
+          "roi": 0.2717,
           "value": 73029.44,
           "avg_price": 0.3668,
           "cur_price": 0.9995
         },
         {
           "trader": "mooseborzoi",
-          "roi": 0.2029,
+          "roi": 0.2073,
           "value": 7272.87,
           "avg_price": 0.3585,
           "cur_price": 0.9995
         },
         {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 469.76,
-          "avg_price": 0.8499,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "AnonymousUsername",
-          "roi": 0.2005,
+          "roi": 0.2151,
           "value": 427.86,
           "avg_price": 0.36,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Aleksandar Kovacevic vs Karen Khachanov",
+      "slug": "atp-kovacev-khachan-2026-08-13",
+      "outcome": "Aleksandar Kovacevic",
+      "num_traders": 3,
+      "total_value": 11943.48,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1818,
+          "value": 6825.46,
+          "avg_price": 0.4068,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2772,
+          "value": 3640.23,
+          "avg_price": 0.2999,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3271,
+          "value": 1477.79,
+          "avg_price": 0.3,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Resilience vs Team Yandex (BO3) - The International Group Stage",
+      "slug": "dota2-tr7-ty-2026-08-14",
+      "outcome": "Team Resilience",
+      "num_traders": 3,
+      "total_value": 10450.61,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2607,
+          "value": 6097.98,
+          "avg_price": 0.1499,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "KingOfEsports",
+          "roi": 0.3693,
+          "value": 4189.4,
+          "avg_price": 0.1299,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2105,
+          "value": 163.23,
+          "avg_price": 0.1311,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
+      "slug": "dota2-lgd-xtreme-2026-08-14",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 7450.64,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2607,
+          "value": 4558.03,
+          "avg_price": 0.4299,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "KingOfEsports",
+          "roi": 0.3693,
+          "value": 2428.35,
+          "avg_price": 0.4224,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2105,
+          "value": 464.26,
+          "avg_price": 0.4489,
+          "cur_price": 0.225
+        }
+      ]
+    },
+    {
+      "market": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
+      "slug": "will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1467.96,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2151,
+          "value": 531.7,
+          "avg_price": 0.4736,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.2073,
+          "value": 471.85,
+          "avg_price": 0.3986,
+          "cur_price": 0.45
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2772,
+          "value": 464.41,
+          "avg_price": 0.4226,
+          "cur_price": 0.45
         }
       ]
     },
@@ -139,36 +313,6 @@
           "value": 424.4,
           "avg_price": 0.8036,
           "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
-      "slug": "mlb-mil-lad-2026-08-14",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 10977.69,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2005,
-          "value": 9384.47,
-          "avg_price": 0.62,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "swisstony",
-          "roi": 0.1586,
-          "value": 1333.35,
-          "avg_price": 0.6308,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1506,
-          "value": 259.87,
-          "avg_price": 0.7383,
-          "cur_price": 0.665
         }
       ]
     },
@@ -760,7 +904,6 @@
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "will-the-philadelphia-phillies-win-the-2026-world-series::Yes": 3,
     "will-the-boston-red-sox-win-the-2026-world-series::Yes": 3,
-    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 3,
     "will-the-houston-astros-win-the-2026-world-series::Yes": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "cs2-bb3-faze-2026-08-12::FaZe": 3,
@@ -848,7 +991,11 @@
     "cs2-fut-mouz-2026-08-14::FUT Esports": 3,
     "cs2-b8-vit-2026-08-14-map-handicap-home-1pt5::B8": 3,
     "mlb-mia-cin-2026-08-14-total-7pt5::Over": 3,
-    "cs2-prv-100t-2026-08-14::PARIVISION": 3
+    "cs2-prv-100t-2026-08-14::PARIVISION": 3,
+    "mlb-kc-laa-2026-08-14-total-8pt5::Under": 1,
+    "mlb-kc-laa-2026-08-14::Kansas City Royals": 1,
+    "mlb-sea-hou-2026-08-14::Houston Astros": 1,
+    "mlb-mil-lad-2026-08-14::Milwaukee Brewers": 1
   },
-  "updated_at": "2026-08-15T02:40:10.492105+00:00"
+  "updated_at": "2026-08-15T03:23:35.411047+00:00"
 }
