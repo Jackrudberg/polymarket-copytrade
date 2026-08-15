@@ -6575,7 +6575,7 @@
       "current_value": 99.53,
       "paper_pnl": -0.47,
       "return_percent": -0.47,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3551.75,
       "traders": [
@@ -6584,7 +6584,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "consensus_lost_at": "2026-08-15T05:58:52.866699+00:00"
+      "consensus_lost_at": "2026-08-15T09:12:57.500906+00:00"
     },
     {
       "signal_id": "mlb-tex-tb-2026-07-30::Tampa Bay Rays",
@@ -12623,7 +12623,7 @@
       "current_value": 96.77,
       "paper_pnl": -3.23,
       "return_percent": -3.23,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2126.49,
       "traders": [
@@ -12632,7 +12632,7 @@
         "mooseborzoi"
       ],
       "url": "https://polymarket.com/event/will-los-angeles-dodgers-win-the-2026-national-league-championship-series",
-      "consensus_lost_at": "2026-08-15T05:58:52.866699+00:00"
+      "consensus_lost_at": "2026-08-15T09:12:57.500906+00:00"
     },
     {
       "signal_id": "will-the-houston-astros-win-the-2026-world-series::Yes",
@@ -15052,7 +15052,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 36606.06,
       "traders": [
@@ -15061,7 +15061,8 @@
         "Skyfker",
         "Nooserac"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-kt-2026-08-15-game1"
+      "url": "https://polymarket.com/event/lol-hle1-kt-2026-08-15-game1",
+      "consensus_lost_at": "2026-08-15T09:12:57.500906+00:00"
     },
     {
       "signal_id": "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION",
@@ -15141,7 +15142,7 @@
       "slug": "dota2-ngx-vg-2026-08-15-game2",
       "side": "Nigma Galaxy",
       "alerted_at": "2026-08-15T08:49:14.140819+00:00",
-      "last_seen": "2026-08-15T08:49:14.140819+00:00",
+      "last_seen": "2026-08-15T09:12:57.500906+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -15158,7 +15159,32 @@
         "0xf3ce7f"
       ],
       "url": "https://polymarket.com/event/dota2-ngx-vg-2026-08-15-game2"
+    },
+    {
+      "signal_id": "dota2-ironwi-liquid-2026-08-15::Iron Wing",
+      "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ironwi-liquid-2026-08-15",
+      "side": "Iron Wing",
+      "alerted_at": "2026-08-15T09:12:57.500906+00:00",
+      "last_seen": "2026-08-15T09:12:57.500906+00:00",
+      "entry_price": 0.345,
+      "current_price": 0.345,
+      "stake": 100.0,
+      "shares": 289.855072,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 125245.94,
+      "traders": [
+        "111111111115",
+        "Dota2winner",
+        "Sunshine.Smile",
+        "0xf3ce7f"
+      ],
+      "url": "https://polymarket.com/event/dota2-ironwi-liquid-2026-08-15"
     }
   ],
-  "updated_at": "2026-08-15T08:49:14.140819+00:00"
+  "updated_at": "2026-08-15T09:12:57.500906+00:00"
 }

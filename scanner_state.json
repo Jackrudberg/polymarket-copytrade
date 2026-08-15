@@ -1,11 +1,76 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION",
-    "dota2-ironwi-liquid-2026-08-15-game1::Iron Wing",
-    "dota2-vsn2-ts8-2026-08-15::TEAM VISION",
+    "dota2-ironwi-liquid-2026-08-15::Iron Wing",
     "dota2-ngx-vg-2026-08-15-game2::Nigma Galaxy"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ironwi-liquid-2026-08-15",
+      "outcome": "Iron Wing",
+      "num_traders": 4,
+      "total_value": 125245.94,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.1826,
+          "value": 106969.65,
+          "avg_price": 0.513,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "Dota2winner",
+          "roi": 0.2116,
+          "value": 10349.98,
+          "avg_price": 0.5299,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1614,
+          "value": 4455.45,
+          "avg_price": 0.4743,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.2134,
+          "value": 3470.86,
+          "avg_price": 0.4299,
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 2 Winner",
+      "slug": "dota2-ngx-vg-2026-08-15-game2",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 3,
+      "total_value": 43785.06,
+      "holders": [
+        {
+          "trader": "GreatestTrader",
+          "roi": 0.3046,
+          "value": 19490.25,
+          "avg_price": 0.4999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "111111111115",
+          "roi": 0.1826,
+          "value": 17865.33,
+          "avg_price": 0.4899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.2134,
+          "value": 6429.48,
+          "avg_price": 0.5199,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
       "slug": "dota2-vsn2-ts8-2026-08-15-game2",
@@ -93,36 +158,6 @@
           "value": 24129.12,
           "avg_price": 0.61,
           "cur_price": 0.9765
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 2 Winner",
-      "slug": "dota2-ngx-vg-2026-08-15-game2",
-      "outcome": "Nigma Galaxy",
-      "num_traders": 3,
-      "total_value": 56778.56,
-      "holders": [
-        {
-          "trader": "GreatestTrader",
-          "roi": 0.3046,
-          "value": 32483.75,
-          "avg_price": 0.4999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "111111111115",
-          "roi": 0.1826,
-          "value": 17865.33,
-          "avg_price": 0.4899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.2134,
-          "value": 6429.48,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
         }
       ]
     },
@@ -220,50 +255,6 @@
           "value": 464.41,
           "avg_price": 0.4226,
           "cur_price": 0.45
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - The International Group Stage",
-      "slug": "dota2-lgd-xtreme-2026-08-14",
-      "outcome": "LGD Gaming",
-      "num_traders": 5,
-      "total_value": 83450.87,
-      "holders": [
-        {
-          "trader": "Nooserac",
-          "roi": 0.1548,
-          "value": 34982.5,
-          "avg_price": 0.7571,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Dota2winner",
-          "roi": 0.1702,
-          "value": 19989.98,
-          "avg_price": 0.42,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.2158,
-          "value": 12693.63,
-          "avg_price": 0.5041,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.7662,
-          "value": 10787.28,
-          "avg_price": 0.4224,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.6045,
-          "value": 4997.48,
-          "avg_price": 0.6299,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -924,10 +915,13 @@
     "mlb-mil-lad-2026-08-14::Los Angeles Dodgers": 3,
     "dota2-ironwi-liquid-2026-08-15-game1::Team Liquid": 3,
     "dota2-vsn2-ts8-2026-08-15-game1::Team Spirit": 3,
-    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 2,
-    "lol-hle1-kt-2026-08-15-game1::Hanwha Life Esports": 1,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1,
-    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 1
+    "dota2-lgd-xtreme-2026-08-14::LGD Gaming": 3,
+    "lol-hle1-kt-2026-08-15-game1::Hanwha Life Esports": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
+    "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 2,
+    "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION": 1,
+    "dota2-ironwi-liquid-2026-08-15-game1::Iron Wing": 1,
+    "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 1
   },
-  "updated_at": "2026-08-15T08:49:14.154819+00:00"
+  "updated_at": "2026-08-15T09:12:57.514772+00:00"
 }
