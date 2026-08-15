@@ -1,28 +1,25 @@
 {
   "seen_ids": [
-    "dota2-ironwi-liquid-2026-08-15::Team Liquid",
-    "lol-hle1-kt-2026-08-15-game1::KT Rolster",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
+    "dota2-ironwi-liquid-2026-08-15::Team Liquid"
   ],
   "signals": [
     {
       "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
       "slug": "dota2-ironwi-liquid-2026-08-15",
       "outcome": "Team Liquid",
-      "num_traders": 5,
-      "total_value": 147012.71,
+      "num_traders": 4,
+      "total_value": 146296.07,
       "holders": [
         {
           "trader": "spreadcorearb",
-          "roi": 0.3345,
+          "roi": 0.3327,
           "value": 55427.23,
           "avg_price": 0.4447,
           "cur_price": 0.9995
         },
         {
           "trader": "GreatestTrader",
-          "roi": 0.2841,
+          "roi": 0.2727,
           "value": 36781.5,
           "avg_price": 0.5057,
           "cur_price": 0.9995
@@ -36,16 +33,9 @@
         },
         {
           "trader": "0xheavy888",
-          "roi": 0.1924,
+          "roi": 0.2535,
           "value": 19990.0,
           "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1772,
-          "value": 716.64,
-          "avg_price": 0.56,
           "cur_price": 0.9995
         }
       ]
@@ -137,66 +127,6 @@
           "value": 475.74,
           "avg_price": 0.5021,
           "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage",
-      "slug": "dota2-vsn2-ts8-2026-08-15",
-      "outcome": "TEAM VISION",
-      "num_traders": 3,
-      "total_value": 102985.3,
-      "holders": [
-        {
-          "trader": "S-Works",
-          "roi": 0.3539,
-          "value": 74838.59,
-          "avg_price": 0.5999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.1924,
-          "value": 24697.44,
-          "avg_price": 0.61,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1772,
-          "value": 3449.27,
-          "avg_price": 0.6212,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
-      "slug": "lol-tt-al-2026-08-15-game1",
-      "outcome": "Anyone's Legend",
-      "num_traders": 3,
-      "total_value": 13579.71,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1576,
-          "value": 6697.5,
-          "avg_price": 0.7661,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Iamnobody.Nobody",
-          "roi": 0.3607,
-          "value": 5287.5,
-          "avg_price": 0.7299,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1772,
-          "value": 1594.71,
-          "avg_price": 0.7543,
-          "cur_price": 0.705
         }
       ]
     }
@@ -869,8 +799,11 @@
     "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
-    "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 2,
-    "lol-tt-al-2026-08-15-game1::Anyone's Legend": 2
+    "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 3,
+    "lol-tt-al-2026-08-15-game1::Anyone's Legend": 3,
+    "lol-hle1-kt-2026-08-15-game1::KT Rolster": 1,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
   },
-  "updated_at": "2026-08-15T11:19:13.987048+00:00"
+  "updated_at": "2026-08-15T11:39:45.011555+00:00"
 }
