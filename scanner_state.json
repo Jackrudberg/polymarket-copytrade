@@ -1,61 +1,211 @@
 {
   "seen_ids": [
+    "dota2-ironwi-liquid-2026-08-15::Team Liquid",
+    "dota2-vsn2-ts8-2026-08-15::TEAM VISION",
     "lol-hle1-kt-2026-08-15-game1::KT Rolster",
-    "lol-nip-lng-2026-08-15-game2::LNG Esports",
-    "lol-nip-lng-2026-08-15::Ninjas in Pyjamas",
-    "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION",
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes",
-    "dota2-tr7-xtreme-2026-08-15-game1::Team Resilience",
-    "lol-hle1-kt-2026-08-15::KT Rolster",
-    "lol-hle1-kt-2026-08-15::Hanwha Life Esports",
-    "will-the-los-angeles-dodgers-win-the-2026-world-series::Yes",
+    "lol-tt-al-2026-08-15-game1::Anyone's Legend",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes",
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes",
-    "will-jannik-sinner-win-the-2026-mens-us-open::Yes"
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ironwi-liquid-2026-08-15",
+      "outcome": "Team Liquid",
+      "num_traders": 6,
+      "total_value": 167732.86,
+      "holders": [
+        {
+          "trader": "spreadcorearb",
+          "roi": 0.3345,
+          "value": 55427.23,
+          "avg_price": 0.4447,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GreatestTrader",
+          "roi": 0.2841,
+          "value": 36781.5,
+          "avg_price": 0.5057,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mirotvorets",
+          "roi": 0.3808,
+          "value": 34097.34,
+          "avg_price": 0.5479,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PIKALEVSKIY-MONSTR",
+          "roi": 0.2913,
+          "value": 20720.15,
+          "avg_price": 0.3765,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.1924,
+          "value": 19990.0,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1772,
+          "value": 716.64,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO3) - The International Group Stage",
+      "slug": "dota2-vsn2-ts8-2026-08-15",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 102985.3,
+      "holders": [
+        {
+          "trader": "S-Works",
+          "roi": 0.3539,
+          "value": 74838.59,
+          "avg_price": 0.5999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.1924,
+          "value": 24697.44,
+          "avg_price": 0.61,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1772,
+          "value": 3449.27,
+          "avg_price": 0.6212,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Hanwha Life Esports vs KT Rolster - Game 1 Winner",
       "slug": "lol-hle1-kt-2026-08-15-game1",
       "outcome": "KT Rolster",
-      "num_traders": 5,
-      "total_value": 144421.19,
+      "num_traders": 3,
+      "total_value": 40639.78,
       "holders": [
         {
-          "trader": "111111111115",
-          "roi": 0.2297,
-          "value": 111100.89,
-          "avg_price": 0.3563,
+          "trader": "Iamnobody.Nobody",
+          "roi": 0.3607,
+          "value": 21747.53,
+          "avg_price": 0.5823,
           "cur_price": 0.9995
         },
         {
           "trader": "DanNgl",
-          "roi": 0.4442,
+          "roi": 0.388,
           "value": 11995.7,
           "avg_price": 0.3366,
           "cur_price": 0.9995
         },
         {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2411,
-          "value": 8635.95,
-          "avg_price": 0.8109,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "Sunshine.Smile",
-          "roi": 0.2329,
+          "roi": 0.1576,
           "value": 6896.55,
           "avg_price": 0.3426,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
+      "slug": "lol-tt-al-2026-08-15-game1",
+      "outcome": "Anyone's Legend",
+      "num_traders": 3,
+      "total_value": 13579.71,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.1576,
+          "value": 6697.5,
+          "avg_price": 0.7661,
+          "cur_price": 0.705
         },
         {
-          "trader": "purplegatto",
-          "roi": 0.1601,
-          "value": 5792.1,
-          "avg_price": 0.34,
-          "cur_price": 0.9995
+          "trader": "Iamnobody.Nobody",
+          "roi": 0.3607,
+          "value": 5287.5,
+          "avg_price": 0.7299,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1772,
+          "value": 1594.71,
+          "avg_price": 0.7543,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 10233.28,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1753,
+          "value": 8397.18,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2924,
+          "value": 1684.5,
+          "avg_price": 0.5139,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1772,
+          "value": 151.6,
+          "avg_price": 0.5112,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2517.5,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3706,
+          "value": 1556.79,
+          "avg_price": 0.5012,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1772,
+          "value": 481.44,
+          "avg_price": 0.722,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2357,
+          "value": 479.27,
+          "avg_price": 0.5021,
+          "cur_price": 0.68
         }
       ]
     },
@@ -178,43 +328,6 @@
       ]
     },
     {
-      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 2737.93,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.4822,
-          "value": 1545.34,
-          "avg_price": 0.5012,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.185,
-          "value": 477.9,
-          "avg_price": 0.722,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2345,
-          "value": 475.74,
-          "avg_price": 0.5021,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.1601,
-          "value": 238.95,
-          "avg_price": 0.6385,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
       "slug": "dota2-tr7-xtreme-2026-08-15-game1",
       "outcome": "Team Resilience",
@@ -331,36 +444,6 @@
           "value": 818.68,
           "avg_price": 0.3643,
           "cur_price": 0.345
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 10233.28,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1758,
-          "value": 8397.18,
-          "avg_price": 0.5,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3121,
-          "value": 1684.5,
-          "avg_price": 0.5139,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.185,
-          "value": 151.6,
-          "avg_price": 0.5112,
-          "cur_price": 0.465
         }
       ]
     },
@@ -502,36 +585,6 @@
           "value": 726.27,
           "avg_price": 0.4599,
           "cur_price": 0.15
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Vici Gaming - Game 2 Winner",
-      "slug": "dota2-ngx-vg-2026-08-15-game2",
-      "outcome": "Nigma Galaxy",
-      "num_traders": 3,
-      "total_value": 43785.06,
-      "holders": [
-        {
-          "trader": "GreatestTrader",
-          "roi": 0.3046,
-          "value": 19490.25,
-          "avg_price": 0.4999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "111111111115",
-          "roi": 0.1826,
-          "value": 17865.33,
-          "avg_price": 0.4899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.2134,
-          "value": 6429.48,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1192,9 +1245,18 @@
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "will-los-angeles-dodgers-win-the-2026-national-league-championship-series::Yes": 3,
     "dota2-ironwi-liquid-2026-08-15-game1::Iron Wing": 3,
-    "dota2-vsn2-ts8-2026-08-15::TEAM VISION": 3,
-    "dota2-ngx-vg-2026-08-15-game2::Nigma Galaxy": 2,
-    "dota2-ironwi-liquid-2026-08-15::Iron Wing": 1
+    "dota2-ngx-vg-2026-08-15-game2::Nigma Galaxy": 3,
+    "dota2-ironwi-liquid-2026-08-15::Iron Wing": 2,
+    "lol-nip-lng-2026-08-15-game2::LNG Esports": 1,
+    "lol-nip-lng-2026-08-15::Ninjas in Pyjamas": 1,
+    "dota2-vsn2-ts8-2026-08-15-game2::TEAM VISION": 1,
+    "dota2-tr7-xtreme-2026-08-15-game1::Team Resilience": 1,
+    "lol-hle1-kt-2026-08-15::KT Rolster": 1,
+    "lol-hle1-kt-2026-08-15::Hanwha Life Esports": 1,
+    "will-the-los-angeles-dodgers-win-the-2026-world-series::Yes": 1,
+    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 1,
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 1,
+    "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 1
   },
-  "updated_at": "2026-08-15T10:01:58.106717+00:00"
+  "updated_at": "2026-08-15T10:33:30.089344+00:00"
 }

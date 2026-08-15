@@ -5299,7 +5299,7 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-15T10:01:58.092629+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
       "entry_price": 0.48,
       "current_price": 0.465,
       "stake": 100.0,
@@ -5803,14 +5803,14 @@
       "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
       "side": "Yes",
       "alerted_at": "2026-07-28T18:59:55.685211+00:00",
-      "last_seen": "2026-08-15T10:01:58.092629+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
       "entry_price": 0.625,
-      "current_price": 0.675,
+      "current_price": 0.68,
       "stake": 100.0,
       "shares": 160.0,
-      "current_value": 108.0,
-      "paper_pnl": 8.0,
-      "return_percent": 8.0,
+      "current_value": 108.8,
+      "paper_pnl": 8.8,
+      "return_percent": 8.8,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 8705.58,
@@ -15119,15 +15119,15 @@
       "slug": "dota2-vsn2-ts8-2026-08-15",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-15T08:49:14.140819+00:00",
-      "last_seen": "2026-08-15T08:49:14.140819+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
       "entry_price": 0.9765,
-      "current_price": 0.9765,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 102.406554,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 102.36,
+      "paper_pnl": 2.36,
+      "return_percent": 2.36,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 136305.57,
       "traders": [
@@ -15177,7 +15177,7 @@
       "current_value": 43.79,
       "paper_pnl": -56.21,
       "return_percent": -56.21,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 125245.94,
       "traders": [
@@ -15186,7 +15186,8 @@
         "Sunshine.Smile",
         "0xf3ce7f"
       ],
-      "url": "https://polymarket.com/event/dota2-ironwi-liquid-2026-08-15"
+      "url": "https://polymarket.com/event/dota2-ironwi-liquid-2026-08-15",
+      "consensus_lost_at": "2026-08-15T10:33:30.077899+00:00"
     },
     {
       "signal_id": "lol-hle1-kt-2026-08-15-game1::KT Rolster",
@@ -15194,7 +15195,7 @@
       "slug": "lol-hle1-kt-2026-08-15-game1",
       "side": "KT Rolster",
       "alerted_at": "2026-08-15T09:43:29.508305+00:00",
-      "last_seen": "2026-08-15T10:01:58.092629+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -15360,7 +15361,58 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/lol-hle1-kt-2026-08-15"
+    },
+    {
+      "signal_id": "dota2-ironwi-liquid-2026-08-15::Team Liquid",
+      "market": "Dota 2: Iron Wing vs Team Liquid (BO3) - The International Group Stage",
+      "slug": "dota2-ironwi-liquid-2026-08-15",
+      "side": "Team Liquid",
+      "alerted_at": "2026-08-15T10:33:30.077899+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 167732.86,
+      "traders": [
+        "spreadcorearb",
+        "GreatestTrader",
+        "mirotvorets",
+        "PIKALEVSKIY-MONSTR",
+        "0xheavy888",
+        "Zzzz87"
+      ],
+      "url": "https://polymarket.com/event/dota2-ironwi-liquid-2026-08-15"
+    },
+    {
+      "signal_id": "lol-tt-al-2026-08-15-game1::Anyone's Legend",
+      "market": "LoL: ThunderTalk Gaming vs Anyone's Legend - Game 1 Winner",
+      "slug": "lol-tt-al-2026-08-15-game1",
+      "side": "Anyone's Legend",
+      "alerted_at": "2026-08-15T10:33:30.077899+00:00",
+      "last_seen": "2026-08-15T10:33:30.077899+00:00",
+      "entry_price": 0.705,
+      "current_price": 0.705,
+      "stake": 100.0,
+      "shares": 141.843972,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 13579.71,
+      "traders": [
+        "Sunshine.Smile",
+        "Iamnobody.Nobody",
+        "Zzzz87"
+      ],
+      "url": "https://polymarket.com/event/lol-tt-al-2026-08-15-game1"
     }
   ],
-  "updated_at": "2026-08-15T10:01:58.092629+00:00"
+  "updated_at": "2026-08-15T10:33:30.077899+00:00"
 }
