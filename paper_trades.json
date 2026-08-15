@@ -5307,7 +5307,7 @@
       "current_value": 96.87,
       "paper_pnl": -3.13,
       "return_percent": -3.13,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10601.21,
       "traders": [
@@ -5316,7 +5316,7 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/mlb-bos-nyy-2026-06-06",
-      "consensus_lost_at": "2026-08-14T15:29:09.813329+00:00"
+      "consensus_lost_at": "2026-08-15T11:57:20.441643+00:00"
     },
     {
       "signal_id": "mlb-cle-cin-2026-07-27::Cincinnati Reds",
@@ -5811,7 +5811,7 @@
       "current_value": 108.0,
       "paper_pnl": 8.0,
       "return_percent": 8.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8705.58,
       "traders": [
@@ -5820,7 +5820,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
+      "consensus_lost_at": "2026-08-15T11:57:20.441643+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-28::Miami Marlins",
@@ -15204,7 +15204,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 144421.19,
       "traders": [
@@ -15214,7 +15214,8 @@
         "Sunshine.Smile",
         "purplegatto"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-kt-2026-08-15-game1"
+      "url": "https://polymarket.com/event/lol-hle1-kt-2026-08-15-game1",
+      "consensus_lost_at": "2026-08-15T11:57:20.441643+00:00"
     },
     {
       "signal_id": "lol-nip-lng-2026-08-15-game2::LNG Esports",
@@ -15422,5 +15423,5 @@
       "consensus_lost_at": "2026-08-15T11:19:13.975128+00:00"
     }
   ],
-  "updated_at": "2026-08-15T11:39:44.997499+00:00"
+  "updated_at": "2026-08-15T11:57:20.441643+00:00"
 }
