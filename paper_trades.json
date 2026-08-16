@@ -5076,7 +5076,7 @@
       "current_value": 100.27,
       "paper_pnl": 0.27,
       "return_percent": 0.27,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 35180.58,
       "traders": [
@@ -5085,7 +5085,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-xavier-becerra-win-the-california-governor-election-in-2026",
-      "consensus_lost_at": "2026-07-29T18:40:12.060565+00:00"
+      "consensus_lost_at": "2026-08-16T02:48:30.146142+00:00"
     },
     {
       "signal_id": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
@@ -5988,7 +5988,7 @@
       "current_value": 89.47,
       "paper_pnl": -10.53,
       "return_percent": -10.53,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3146.88,
       "traders": [
@@ -5997,7 +5997,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-rodri-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-08-14T05:18:12.356503+00:00"
+      "consensus_lost_at": "2026-08-16T02:48:30.146142+00:00"
     },
     {
       "signal_id": "will-anthropic-have-the-best-ai-model-at-the-end-of-december-2026::Yes",
@@ -15782,14 +15782,14 @@
       "slug": "wta-boisson-bencic-2026-08-15",
       "side": "Belinda Bencic",
       "alerted_at": "2026-08-16T01:46:57.194228+00:00",
-      "last_seen": "2026-08-16T01:46:57.194228+00:00",
+      "last_seen": "2026-08-16T02:48:30.146142+00:00",
       "entry_price": 0.815,
-      "current_price": 0.815,
+      "current_price": 0.885,
       "stake": 100.0,
       "shares": 122.699387,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 108.59,
+      "paper_pnl": 8.59,
+      "return_percent": 8.59,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 51610.38,
@@ -15872,7 +15872,55 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/mlb-phi-min-2026-08-15"
+    },
+    {
+      "signal_id": "mlb-tex-oak-2026-08-15::Athletics",
+      "market": "Texas Rangers vs. Athletics",
+      "slug": "mlb-tex-oak-2026-08-15",
+      "side": "Athletics",
+      "alerted_at": "2026-08-16T02:48:30.146142+00:00",
+      "last_seen": "2026-08-16T02:48:30.146142+00:00",
+      "entry_price": 0.775,
+      "current_price": 0.775,
+      "stake": 100.0,
+      "shares": 129.032258,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 59253.25,
+      "traders": [
+        "Sassy-Bucket",
+        "wr0ngw4yb3tt0r",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mlb-tex-oak-2026-08-15"
+    },
+    {
+      "signal_id": "mls-nas-mia-2026-08-15-mia::No",
+      "market": "Will Inter Miami CF win on 2026-08-15?",
+      "slug": "mls-nas-mia-2026-08-15-mia",
+      "side": "No",
+      "alerted_at": "2026-08-16T02:48:30.146142+00:00",
+      "last_seen": "2026-08-16T02:48:30.146142+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12770.6,
+      "traders": [
+        "VeryLucky888",
+        "dv-pm",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/mls-nas-mia-2026-08-15-mia"
     }
   ],
-  "updated_at": "2026-08-16T01:46:57.194228+00:00"
+  "updated_at": "2026-08-16T02:48:30.146142+00:00"
 }

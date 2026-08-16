@@ -1,12 +1,107 @@
 {
   "seen_ids": [
-    "mls-clt-clb-2026-08-15-clt::Yes",
     "wta-boisson-bencic-2026-08-15::Belinda Bencic",
-    "nfl-car-buf-2026-08-15::Bills",
-    "atp-jodar-shapova-2026-08-15::Denis Shapovalov",
-    "mlb-phi-min-2026-08-15::Philadelphia Phillies"
+    "mlb-tex-oak-2026-08-15::Athletics",
+    "mls-nas-mia-2026-08-15-mia::No"
   ],
   "signals": [
+    {
+      "market": "Cincinnati Open: Lois Boisson vs Belinda Bencic",
+      "slug": "wta-boisson-bencic-2026-08-15",
+      "outcome": "Belinda Bencic",
+      "num_traders": 4,
+      "total_value": 31405.6,
+      "holders": [
+        {
+          "trader": "sentrio",
+          "roi": 0.2452,
+          "value": 11301.43,
+          "avg_price": 0.7805,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1994,
+          "value": 9606.12,
+          "avg_price": 0.7803,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "Zenhack",
+          "roi": 0.2194,
+          "value": 8742.03,
+          "avg_price": 0.79,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.6391,
+          "value": 1756.02,
+          "avg_price": 0.8,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Texas Rangers vs. Athletics",
+      "slug": "mlb-tex-oak-2026-08-15",
+      "outcome": "Athletics",
+      "num_traders": 3,
+      "total_value": 59253.25,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.4952,
+          "value": 53718.61,
+          "avg_price": 0.39,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.3207,
+          "value": 4407.43,
+          "avg_price": 0.4032,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2452,
+          "value": 1127.21,
+          "avg_price": 0.43,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Will Inter Miami CF win on 2026-08-15?",
+      "slug": "mls-nas-mia-2026-08-15-mia",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 12770.6,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1994,
+          "value": 5734.51,
+          "avg_price": 0.6324,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.6391,
+          "value": 4128.93,
+          "avg_price": 0.6299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2452,
+          "value": 2907.16,
+          "avg_price": 0.6242,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Charlotte FC win on 2026-08-15?",
       "slug": "mls-clt-clb-2026-08-15-clt",
@@ -41,43 +136,6 @@
           "value": 106.95,
           "avg_price": 0.61,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Lois Boisson vs Belinda Bencic",
-      "slug": "wta-boisson-bencic-2026-08-15",
-      "outcome": "Belinda Bencic",
-      "num_traders": 4,
-      "total_value": 51610.38,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.279,
-          "value": 24305.97,
-          "avg_price": 0.7899,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1999,
-          "value": 10407.53,
-          "avg_price": 0.7805,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.4639,
-          "value": 8846.31,
-          "avg_price": 0.7803,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "Zenhack",
-          "roi": 0.2615,
-          "value": 8050.57,
-          "avg_price": 0.79,
-          "cur_price": 0.815
         }
       ]
     },
@@ -917,8 +975,12 @@
     "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3,
     "cs2-furia-9z-2026-08-15::FURIA": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 1,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 1
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 2,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
+    "mls-clt-clb-2026-08-15-clt::Yes": 1,
+    "nfl-car-buf-2026-08-15::Bills": 1,
+    "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 1,
+    "mlb-phi-min-2026-08-15::Philadelphia Phillies": 1
   },
-  "updated_at": "2026-08-16T01:46:57.208525+00:00"
+  "updated_at": "2026-08-16T02:48:30.160192+00:00"
 }
