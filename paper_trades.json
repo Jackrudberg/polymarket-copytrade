@@ -16173,7 +16173,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 38984.32,
       "traders": [
@@ -16181,7 +16181,8 @@
         "12354",
         "purplegatto"
       ],
-      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game1"
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game1",
+      "consensus_lost_at": "2026-08-16T13:39:17.990282+00:00"
     },
     {
       "signal_id": "dota2-lgd-ty-2026-08-16-game2::LGD Gaming",
@@ -16222,7 +16223,7 @@
       "current_value": 121.89,
       "paper_pnl": 21.89,
       "return_percent": 21.89,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 12287.51,
       "traders": [
@@ -16230,7 +16231,8 @@
         "coupedegrace",
         "purplegatto"
       ],
-      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game2"
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game2",
+      "consensus_lost_at": "2026-08-16T13:39:17.990282+00:00"
     },
     {
       "signal_id": "lol-t1-gen-2026-08-16-game2::Gen.G",
@@ -16246,7 +16248,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 66247.94,
       "traders": [
@@ -16255,7 +16257,8 @@
         "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
         "madwish355"
       ],
-      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game2"
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game2",
+      "consensus_lost_at": "2026-08-16T13:39:17.990282+00:00"
     },
     {
       "signal_id": "lol-lgd-jdg-2026-08-16::LGD Gaming",
@@ -16288,7 +16291,7 @@
       "slug": "dota2-lgd-ty-2026-08-16",
       "side": "Team Yandex",
       "alerted_at": "2026-08-16T10:38:20.523870+00:00",
-      "last_seen": "2026-08-16T13:01:35.265057+00:00",
+      "last_seen": "2026-08-16T13:39:17.990282+00:00",
       "entry_price": 0.615,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16404,5 +16407,5 @@
       "url": "https://polymarket.com/event/lol-wb-ig1-2026-08-16"
     }
   ],
-  "updated_at": "2026-08-16T13:01:35.265057+00:00"
+  "updated_at": "2026-08-16T13:39:17.990282+00:00"
 }
