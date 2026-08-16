@@ -16070,7 +16070,7 @@
       "current_value": 141.77,
       "paper_pnl": 41.77,
       "return_percent": 41.77,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7696.67,
       "traders": [
@@ -16078,7 +16078,8 @@
         "purplegatto",
         "coupedegrace"
       ],
-      "url": "https://polymarket.com/event/dota2-ironwi-gl-2026-08-16-game2"
+      "url": "https://polymarket.com/event/dota2-ironwi-gl-2026-08-16-game2",
+      "consensus_lost_at": "2026-08-16T10:38:20.523870+00:00"
     },
     {
       "signal_id": "dota2-ts8-tr7-2026-08-16::Team Spirit",
@@ -16111,7 +16112,7 @@
       "slug": "dota2-lgd-ty-2026-08-16-game1",
       "side": "LGD Gaming",
       "alerted_at": "2026-08-16T08:52:04.877434+00:00",
-      "last_seen": "2026-08-16T10:08:34.864373+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
       "entry_price": 0.317789,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16163,7 +16164,7 @@
       "slug": "lol-t1-gen-2026-08-16-game1",
       "side": "Gen.G",
       "alerted_at": "2026-08-16T09:19:31.154549+00:00",
-      "last_seen": "2026-08-16T09:47:24.248760+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16211,14 +16212,14 @@
       "slug": "dota2-lgd-ty-2026-08-16-game2",
       "side": "Team Yandex",
       "alerted_at": "2026-08-16T10:08:34.864373+00:00",
-      "last_seen": "2026-08-16T10:08:34.864373+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
       "entry_price": 0.82,
-      "current_price": 0.82,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 121.95122,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 121.89,
+      "paper_pnl": 21.89,
+      "return_percent": 21.89,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 12287.51,
@@ -16228,7 +16229,80 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game2"
+    },
+    {
+      "signal_id": "lol-t1-gen-2026-08-16-game2::Gen.G",
+      "market": "LoL: T1 vs Gen.G - Game 2 Winner",
+      "slug": "lol-t1-gen-2026-08-16-game2",
+      "side": "Gen.G",
+      "alerted_at": "2026-08-16T10:38:20.523870+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 66247.94,
+      "traders": [
+        "laopilao",
+        "12354",
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "madwish355"
+      ],
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game2"
+    },
+    {
+      "signal_id": "lol-lgd-jdg-2026-08-16::LGD Gaming",
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-lgd-jdg-2026-08-16",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-16T10:38:20.523870+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 170397.81,
+      "traders": [
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "laopilao",
+        "madwish355"
+      ],
+      "url": "https://polymarket.com/event/lol-lgd-jdg-2026-08-16"
+    },
+    {
+      "signal_id": "dota2-lgd-ty-2026-08-16::Team Yandex",
+      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+      "slug": "dota2-lgd-ty-2026-08-16",
+      "side": "Team Yandex",
+      "alerted_at": "2026-08-16T10:38:20.523870+00:00",
+      "last_seen": "2026-08-16T10:38:20.523870+00:00",
+      "entry_price": 0.615,
+      "current_price": 0.615,
+      "stake": 100.0,
+      "shares": 162.601626,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 29971.71,
+      "traders": [
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "0xf3ce7f",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16"
     }
   ],
-  "updated_at": "2026-08-16T10:08:34.864373+00:00"
+  "updated_at": "2026-08-16T10:38:20.523870+00:00"
 }

@@ -1,8 +1,11 @@
 {
   "seen_ids": [
     "dota2-lgd-ty-2026-08-16-game1::LGD Gaming",
+    "lol-t1-gen-2026-08-16-game1::Gen.G",
+    "lol-t1-gen-2026-08-16-game2::Gen.G",
     "dota2-lgd-ty-2026-08-16-game2::Team Yandex",
-    "dota2-lgd-ty-2026-08-16-game2::LGD Gaming"
+    "lol-lgd-jdg-2026-08-16::LGD Gaming",
+    "dota2-lgd-ty-2026-08-16::Team Yandex"
   ],
   "signals": [
     {
@@ -10,41 +13,115 @@
       "slug": "dota2-lgd-ty-2026-08-16-game1",
       "outcome": "LGD Gaming",
       "num_traders": 5,
-      "total_value": 85605.43,
+      "total_value": 90971.12,
       "holders": [
         {
           "trader": "coupedegrace",
-          "roi": 0.4176,
+          "roi": 0.311,
           "value": 38612.36,
           "avg_price": 0.33,
           "cur_price": 0.9995
         },
         {
           "trader": "Dota2winner",
-          "roi": 0.3501,
+          "roi": 0.3547,
           "value": 24987.41,
           "avg_price": 0.3799,
           "cur_price": 0.9995
         },
         {
+          "trader": "Barbozaaa321",
+          "roi": 0.5082,
+          "value": 9995,
+          "avg_price": 0.37,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0xf3ce7f",
-          "roi": 0.3277,
+          "roi": 0.3318,
           "value": 9002.54,
           "avg_price": 0.3243,
           "cur_price": 0.9995
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2614,
+          "roi": 0.2623,
           "value": 8373.81,
           "avg_price": 0.32,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
+      "slug": "lol-t1-gen-2026-08-16-game1",
+      "outcome": "Gen.G",
+      "num_traders": 4,
+      "total_value": 95836.48,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.284,
+          "value": 52827.12,
+          "avg_price": 0.6034,
+          "cur_price": 0.9995
         },
         {
-          "trader": "FvckMachine",
-          "roi": 0.1615,
-          "value": 4629.31,
-          "avg_price": 0.4676,
+          "trader": "laopilao",
+          "roi": 0.26,
+          "value": 21516.04,
+          "avg_price": 0.6212,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "12354",
+          "roi": 0.4305,
+          "value": 14297.92,
+          "avg_price": 0.3963,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2623,
+          "value": 7195.4,
+          "avg_price": 0.62,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Gen.G - Game 2 Winner",
+      "slug": "lol-t1-gen-2026-08-16-game2",
+      "outcome": "Gen.G",
+      "num_traders": 4,
+      "total_value": 66247.94,
+      "holders": [
+        {
+          "trader": "laopilao",
+          "roi": 0.26,
+          "value": 30031.68,
+          "avg_price": 0.5358,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "12354",
+          "roi": 0.4305,
+          "value": 24038.91,
+          "avg_price": 0.4636,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.284,
+          "value": 9178.85,
+          "avg_price": 0.9276,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.3702,
+          "value": 2998.5,
+          "avg_price": 0.4999,
           "cur_price": 0.9995
         }
       ]
@@ -53,29 +130,96 @@
       "market": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
       "slug": "dota2-lgd-ty-2026-08-16-game2",
       "outcome": "Team Yandex",
-      "num_traders": 3,
-      "total_value": 12287.51,
+      "num_traders": 4,
+      "total_value": 22973.28,
       "holders": [
         {
           "trader": "Dota2winner",
-          "roi": 0.3501,
-          "value": 8749.77,
+          "roi": 0.3547,
+          "value": 10665.11,
           "avg_price": 0.5499,
-          "cur_price": 0.82
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.5082,
+          "value": 7996.0,
+          "avg_price": 0.5176,
+          "cur_price": 0.9995
         },
         {
           "trader": "coupedegrace",
-          "roi": 0.4176,
-          "value": 3420.48,
+          "roi": 0.311,
+          "value": 4169.24,
           "avg_price": 0.59,
-          "cur_price": 0.82
+          "cur_price": 0.9995
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2614,
-          "value": 117.26,
+          "roi": 0.2623,
+          "value": 142.93,
           "avg_price": 0.56,
-          "cur_price": 0.82
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-lgd-jdg-2026-08-16",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 170397.81,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.284,
+          "value": 123239.4,
+          "avg_price": 0.2466,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "laopilao",
+          "roi": 0.26,
+          "value": 29966.62,
+          "avg_price": 0.475,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "madwish355",
+          "roi": 0.3702,
+          "value": 17191.79,
+          "avg_price": 0.319,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+      "slug": "dota2-lgd-ty-2026-08-16",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 29971.71,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.284,
+          "value": 17942.77,
+          "avg_price": 0.605,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.3318,
+          "value": 7369.7,
+          "avg_price": 0,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2623,
+          "value": 4659.24,
+          "avg_price": 0.5234,
+          "cur_price": 0.615
         }
       ]
     },
@@ -110,36 +254,6 @@
       ]
     },
     {
-      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
-      "slug": "lol-t1-gen-2026-08-16-game1",
-      "outcome": "Gen.G",
-      "num_traders": 3,
-      "total_value": 38984.32,
-      "holders": [
-        {
-          "trader": "Iamnobody.Nobody",
-          "roi": 0.1951,
-          "value": 17491.0,
-          "avg_price": 0.6375,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "12354",
-          "roi": 0.3829,
-          "value": 14297.92,
-          "avg_price": 0.3963,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2614,
-          "value": 7195.4,
-          "avg_price": 0.62,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Iron Wing vs GamerLegion - Game 2 Winner",
       "slug": "dota2-ironwi-gl-2026-08-16-game2",
       "outcome": "Iron Wing",
@@ -165,36 +279,6 @@
           "roi": 0.4176,
           "value": 258.66,
           "avg_price": 0.7,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
-      "slug": "dota2-ts8-tr7-2026-08-16",
-      "outcome": "Team Spirit",
-      "num_traders": 3,
-      "total_value": 57893.41,
-      "holders": [
-        {
-          "trader": "Zywoo123",
-          "roi": 0.1647,
-          "value": 41979,
-          "avg_price": 0.72,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "FvckMachine",
-          "roi": 0.1615,
-          "value": 15803.47,
-          "avg_price": 0.6704,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2614,
-          "value": 110.94,
-          "avg_price": 0.7499,
           "cur_price": 0.9995
         }
       ]
@@ -902,9 +986,9 @@
     "dota2-ironwi-gl-2026-08-16-game1::Iron Wing": 3,
     "dota2-ts8-tr7-2026-08-16-game2::Team Resilience": 3,
     "dota2-lgd-ty-2026-08-16-game1::Team Yandex": 3,
-    "dota2-ts8-tr7-2026-08-16::Team Spirit": 2,
-    "lol-t1-gen-2026-08-16-game1::Gen.G": 1,
-    "dota2-ironwi-gl-2026-08-16-game2::Iron Wing": 1
+    "dota2-ts8-tr7-2026-08-16::Team Spirit": 3,
+    "dota2-ironwi-gl-2026-08-16-game2::Iron Wing": 2,
+    "dota2-lgd-ty-2026-08-16-game2::LGD Gaming": 1
   },
-  "updated_at": "2026-08-16T10:08:34.878298+00:00"
+  "updated_at": "2026-08-16T10:38:20.538502+00:00"
 }
