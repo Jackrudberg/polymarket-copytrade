@@ -1,9 +1,176 @@
 {
   "seen_ids": [
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes",
-    "will-rodri-win-the-2026-ballon-dor::Yes"
+    "mls-clt-clb-2026-08-15-clt::Yes",
+    "wta-boisson-bencic-2026-08-15::Belinda Bencic",
+    "nfl-car-buf-2026-08-15::Bills",
+    "atp-jodar-shapova-2026-08-15::Denis Shapovalov",
+    "mlb-phi-min-2026-08-15::Philadelphia Phillies"
   ],
   "signals": [
+    {
+      "market": "Will Charlotte FC win on 2026-08-15?",
+      "slug": "mls-clt-clb-2026-08-15-clt",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 71384.46,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.279,
+          "value": 38321.48,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5521,
+          "value": 31594.19,
+          "avg_price": 0.4536,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1999,
+          "value": 1361.84,
+          "avg_price": 0.6799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "alpheclabs",
+          "roi": 0.1587,
+          "value": 106.95,
+          "avg_price": 0.61,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Lois Boisson vs Belinda Bencic",
+      "slug": "wta-boisson-bencic-2026-08-15",
+      "outcome": "Belinda Bencic",
+      "num_traders": 4,
+      "total_value": 51610.38,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.279,
+          "value": 24305.97,
+          "avg_price": 0.7899,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1999,
+          "value": 10407.53,
+          "avg_price": 0.7805,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.4639,
+          "value": 8846.31,
+          "avg_price": 0.7803,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "Zenhack",
+          "roi": 0.2615,
+          "value": 8050.57,
+          "avg_price": 0.79,
+          "cur_price": 0.815
+        }
+      ]
+    },
+    {
+      "market": "Panthers vs. Bills",
+      "slug": "nfl-car-buf-2026-08-15",
+      "outcome": "Bills",
+      "num_traders": 3,
+      "total_value": 24836.57,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.279,
+          "value": 17581.19,
+          "avg_price": 0.7499,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.4639,
+          "value": 5997.01,
+          "avg_price": 0.5749,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5521,
+          "value": 1258.37,
+          "avg_price": 0.6072,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Rafael Jodar vs Denis Shapovalov",
+      "slug": "atp-jodar-shapova-2026-08-15",
+      "outcome": "Denis Shapovalov",
+      "num_traders": 3,
+      "total_value": 20714.62,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.4639,
+          "value": 11793.82,
+          "avg_price": 0.2999,
+          "cur_price": 0.962
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.279,
+          "value": 6358.09,
+          "avg_price": 0.3538,
+          "cur_price": 0.962
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1999,
+          "value": 2562.71,
+          "avg_price": 0.4895,
+          "cur_price": 0.962
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Minnesota Twins",
+      "slug": "mlb-phi-min-2026-08-15",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 14728.41,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.4639,
+          "value": 9914.34,
+          "avg_price": 0.5618,
+          "cur_price": 0.998
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1999,
+          "value": 3324.27,
+          "avg_price": 0.5593,
+          "cur_price": 0.998
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.279,
+          "value": 1489.8,
+          "avg_price": 0.7199,
+          "cur_price": 0.998
+        }
+      ]
+    },
     {
       "market": "Will Xavier Becerra win the California Governor Election in 2026?",
       "slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
@@ -749,7 +916,9 @@
     "lol-blg-we-2026-08-15::Bilibili Gaming": 3,
     "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3,
     "cs2-furia-9z-2026-08-15::FURIA": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 1,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 1
   },
-  "updated_at": "2026-08-15T23:57:43.235289+00:00"
+  "updated_at": "2026-08-16T01:46:57.208525+00:00"
 }
