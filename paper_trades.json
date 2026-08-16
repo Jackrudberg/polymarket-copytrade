@@ -15791,7 +15791,7 @@
       "current_value": 108.59,
       "paper_pnl": 8.59,
       "return_percent": 8.59,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 51610.38,
       "traders": [
@@ -15800,7 +15800,8 @@
         "VeryLucky888",
         "Zenhack"
       ],
-      "url": "https://polymarket.com/event/wta-boisson-bencic-2026-08-15"
+      "url": "https://polymarket.com/event/wta-boisson-bencic-2026-08-15",
+      "consensus_lost_at": "2026-08-16T04:19:52.893827+00:00"
     },
     {
       "signal_id": "nfl-car-buf-2026-08-15::Bills",
@@ -15883,14 +15884,14 @@
       "slug": "mlb-tex-oak-2026-08-15",
       "side": "Athletics",
       "alerted_at": "2026-08-16T02:48:30.146142+00:00",
-      "last_seen": "2026-08-16T03:36:04.945538+00:00",
+      "last_seen": "2026-08-16T04:19:52.893827+00:00",
       "entry_price": 0.775,
-      "current_price": 0.275,
+      "current_price": 0.035,
       "stake": 100.0,
       "shares": 129.032258,
-      "current_value": 35.48,
-      "paper_pnl": -64.52,
-      "return_percent": -64.52,
+      "current_value": 4.52,
+      "paper_pnl": -95.48,
+      "return_percent": -95.48,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 59253.25,
@@ -15915,7 +15916,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 12770.6,
       "traders": [
@@ -15923,7 +15924,8 @@
         "dv-pm",
         "sentrio"
       ],
-      "url": "https://polymarket.com/event/mls-nas-mia-2026-08-15-mia"
+      "url": "https://polymarket.com/event/mls-nas-mia-2026-08-15-mia",
+      "consensus_lost_at": "2026-08-16T04:19:52.893827+00:00"
     },
     {
       "signal_id": "ufc-mac1-gil-2026-08-15::Mackenzie Dern",
@@ -15955,14 +15957,14 @@
       "slug": "ufc-isl-ian1-2026-08-15",
       "side": "Ian Machado Garry",
       "alerted_at": "2026-08-16T03:36:04.945538+00:00",
-      "last_seen": "2026-08-16T03:36:04.945538+00:00",
+      "last_seen": "2026-08-16T04:19:52.893827+00:00",
       "entry_price": 0.265,
-      "current_price": 0.265,
+      "current_price": 0.315,
       "stake": 100.0,
       "shares": 377.358491,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 118.87,
+      "paper_pnl": 18.87,
+      "return_percent": 18.87,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 44406.56,
@@ -15972,7 +15974,57 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/ufc-isl-ian1-2026-08-15"
+    },
+    {
+      "signal_id": "ufc-isl-ian1-2026-08-15::Islam Makhachev",
+      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "slug": "ufc-isl-ian1-2026-08-15",
+      "side": "Islam Makhachev",
+      "alerted_at": "2026-08-16T04:19:52.893827+00:00",
+      "last_seen": "2026-08-16T04:19:52.893827+00:00",
+      "entry_price": 0.685,
+      "current_price": 0.685,
+      "stake": 100.0,
+      "shares": 145.985401,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 78014.69,
+      "traders": [
+        "C63AMG",
+        "Painfulvoid",
+        "User1244322",
+        "Vladooos",
+        "wr0ngw4yb3tt0r"
+      ],
+      "url": "https://polymarket.com/event/ufc-isl-ian1-2026-08-15"
+    },
+    {
+      "signal_id": "dota2-aur1-boombo-2026-08-15-game1::BoomBoys",
+      "market": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
+      "slug": "dota2-aur1-boombo-2026-08-15-game1",
+      "side": "BoomBoys",
+      "alerted_at": "2026-08-16T04:19:52.893827+00:00",
+      "last_seen": "2026-08-16T04:19:52.893827+00:00",
+      "entry_price": 0.9545,
+      "current_price": 0.9545,
+      "stake": 100.0,
+      "shares": 104.766894,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 69752.45,
+      "traders": [
+        "coupedegrace",
+        "Vladooos",
+        "Dota2winner"
+      ],
+      "url": "https://polymarket.com/event/dota2-aur1-boombo-2026-08-15-game1"
     }
   ],
-  "updated_at": "2026-08-16T03:36:04.945538+00:00"
+  "updated_at": "2026-08-16T04:19:52.893827+00:00"
 }

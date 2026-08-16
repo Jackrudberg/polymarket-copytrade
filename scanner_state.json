@@ -1,10 +1,152 @@
 {
   "seen_ids": [
-    "ufc-mac1-gil-2026-08-15::Mackenzie Dern",
-    "ufc-isl-ian1-2026-08-15::Ian Machado Garry",
-    "mlb-tex-oak-2026-08-15::Athletics"
+    "ufc-isl-ian1-2026-08-15::Islam Makhachev",
+    "mlb-tex-oak-2026-08-15::Athletics",
+    "dota2-aur1-boombo-2026-08-15-game1::BoomBoys",
+    "ufc-isl-ian1-2026-08-15::Ian Machado Garry"
   ],
   "signals": [
+    {
+      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "slug": "ufc-isl-ian1-2026-08-15",
+      "outcome": "Islam Makhachev",
+      "num_traders": 5,
+      "total_value": 78014.69,
+      "holders": [
+        {
+          "trader": "C63AMG",
+          "roi": 0.5194,
+          "value": 32879.97,
+          "avg_price": 0.7487,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.5444,
+          "value": 17125,
+          "avg_price": 0.75,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "User1244322",
+          "roi": 0.3392,
+          "value": 12846.49,
+          "avg_price": 0.7499,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Vladooos",
+          "roi": 0.5765,
+          "value": 12177.25,
+          "avg_price": 0.74,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.0216,
+          "value": 2985.98,
+          "avg_price": 0.6896,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Texas Rangers vs. Athletics",
+      "slug": "mlb-tex-oak-2026-08-15",
+      "outcome": "Athletics",
+      "num_traders": 4,
+      "total_value": 3189.85,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.4382,
+          "value": 2426.0,
+          "avg_price": 0.39,
+          "cur_price": 0.035
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3255,
+          "value": 406.8,
+          "avg_price": 0.4088,
+          "cur_price": 0.035
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.0216,
+          "value": 199.71,
+          "avg_price": 0.4026,
+          "cur_price": 0.035
+        },
+        {
+          "trader": "12354",
+          "roi": 0.4497,
+          "value": 157.34,
+          "avg_price": 0.4291,
+          "cur_price": 0.035
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Aurora vs BoomBoys - Game 1 Winner",
+      "slug": "dota2-aur1-boombo-2026-08-15-game1",
+      "outcome": "BoomBoys",
+      "num_traders": 3,
+      "total_value": 69752.45,
+      "holders": [
+        {
+          "trader": "coupedegrace",
+          "roi": 0.3781,
+          "value": 33407.45,
+          "avg_price": 0.41,
+          "cur_price": 0.9545
+        },
+        {
+          "trader": "Vladooos",
+          "roi": 0.5765,
+          "value": 20750.0,
+          "avg_price": 0.4599,
+          "cur_price": 0.9545
+        },
+        {
+          "trader": "Dota2winner",
+          "roi": 0.1711,
+          "value": 15595.0,
+          "avg_price": 0.3985,
+          "cur_price": 0.9545
+        }
+      ]
+    },
+    {
+      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "slug": "ufc-isl-ian1-2026-08-15",
+      "outcome": "Ian Machado Garry",
+      "num_traders": 3,
+      "total_value": 58419.75,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 0.4655,
+          "value": 28886.14,
+          "avg_price": 0.2587,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.0216,
+          "value": 27786.77,
+          "avg_price": 0.2301,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "007theone1",
+          "roi": 0.1716,
+          "value": 1746.84,
+          "avg_price": 0.2169,
+          "cur_price": 0.315
+        }
+      ]
+    },
     {
       "market": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
       "slug": "ufc-mac1-gil-2026-08-15",
@@ -32,66 +174,6 @@
           "value": 37510.02,
           "avg_price": 0.6499,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
-      "slug": "ufc-isl-ian1-2026-08-15",
-      "outcome": "Ian Machado Garry",
-      "num_traders": 3,
-      "total_value": 44406.56,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 1.1964,
-          "value": 23075.73,
-          "avg_price": 0.23,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "bands1",
-          "roi": 0.849,
-          "value": 21199.92,
-          "avg_price": 0.26,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.1503,
-          "value": 130.91,
-          "avg_price": 0.27,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Athletics",
-      "slug": "mlb-tex-oak-2026-08-15",
-      "outcome": "Athletics",
-      "num_traders": 3,
-      "total_value": 23821.68,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.4635,
-          "value": 19061.44,
-          "avg_price": 0.39,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3114,
-          "value": 3196.31,
-          "avg_price": 0.4088,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 1.1964,
-          "value": 1563.93,
-          "avg_price": 0.4032,
-          "cur_price": 0.275
         }
       ]
     },
@@ -159,133 +241,6 @@
           "value": 2907.16,
           "avg_price": 0.6242,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Charlotte FC win on 2026-08-15?",
-      "slug": "mls-clt-clb-2026-08-15-clt",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 71384.46,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.279,
-          "value": 38321.48,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.5521,
-          "value": 31594.19,
-          "avg_price": 0.4536,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1999,
-          "value": 1361.84,
-          "avg_price": 0.6799,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1587,
-          "value": 106.95,
-          "avg_price": 0.61,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Panthers vs. Bills",
-      "slug": "nfl-car-buf-2026-08-15",
-      "outcome": "Bills",
-      "num_traders": 3,
-      "total_value": 24836.57,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.279,
-          "value": 17581.19,
-          "avg_price": 0.7499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.4639,
-          "value": 5997.01,
-          "avg_price": 0.5749,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.5521,
-          "value": 1258.37,
-          "avg_price": 0.6072,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Rafael Jodar vs Denis Shapovalov",
-      "slug": "atp-jodar-shapova-2026-08-15",
-      "outcome": "Denis Shapovalov",
-      "num_traders": 3,
-      "total_value": 20714.62,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.4639,
-          "value": 11793.82,
-          "avg_price": 0.2999,
-          "cur_price": 0.962
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.279,
-          "value": 6358.09,
-          "avg_price": 0.3538,
-          "cur_price": 0.962
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1999,
-          "value": 2562.71,
-          "avg_price": 0.4895,
-          "cur_price": 0.962
-        }
-      ]
-    },
-    {
-      "market": "Philadelphia Phillies vs. Minnesota Twins",
-      "slug": "mlb-phi-min-2026-08-15",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 14728.41,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.4639,
-          "value": 9914.34,
-          "avg_price": 0.5618,
-          "cur_price": 0.998
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1999,
-          "value": 3324.27,
-          "avg_price": 0.5593,
-          "cur_price": 0.998
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.279,
-          "value": 1489.8,
-          "avg_price": 0.7199,
-          "cur_price": 0.998
         }
       ]
     }
@@ -977,12 +932,13 @@
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
     "will-rodri-win-the-2026-ballon-dor::Yes": 3,
-    "mls-clt-clb-2026-08-15-clt::Yes": 2,
-    "nfl-car-buf-2026-08-15::Bills": 2,
-    "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 2,
-    "mlb-phi-min-2026-08-15::Philadelphia Phillies": 2,
-    "wta-boisson-bencic-2026-08-15::Belinda Bencic": 1,
-    "mls-nas-mia-2026-08-15-mia::No": 1
+    "mls-clt-clb-2026-08-15-clt::Yes": 3,
+    "nfl-car-buf-2026-08-15::Bills": 3,
+    "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 3,
+    "mlb-phi-min-2026-08-15::Philadelphia Phillies": 3,
+    "wta-boisson-bencic-2026-08-15::Belinda Bencic": 2,
+    "mls-nas-mia-2026-08-15-mia::No": 2,
+    "ufc-mac1-gil-2026-08-15::Mackenzie Dern": 1
   },
-  "updated_at": "2026-08-16T03:36:04.988396+00:00"
+  "updated_at": "2026-08-16T04:19:52.908225+00:00"
 }
