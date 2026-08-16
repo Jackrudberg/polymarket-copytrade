@@ -1,52 +1,149 @@
 {
   "seen_ids": [
     "dota2-lgd-ty-2026-08-16::Team Yandex",
-    "lol-t1-gen-2026-08-16-game1::Gen.G",
-    "lol-t1-gen-2026-08-16-game2::Gen.G",
-    "dota2-lgd-ty-2026-08-16-game2::Team Yandex"
+    "lol-drx-bro2-2026-08-16::Kiwoom DRX",
+    "lol-drx-bro2-2026-08-16-game1::HANJIN BRION",
+    "lol-wb-ig1-2026-08-16::Weibo Gaming"
   ],
   "signals": [
     {
       "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
       "slug": "dota2-lgd-ty-2026-08-16",
       "outcome": "Team Yandex",
-      "num_traders": 5,
-      "total_value": 112824.49,
+      "num_traders": 6,
+      "total_value": 162799.43,
       "holders": [
         {
+          "trader": "SineNooneEI",
+          "roi": 0.2367,
+          "value": 49974.94,
+          "avg_price": 0.6849,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2008,
+          "roi": 0.2011,
           "value": 43100.26,
           "avg_price": 0.5434,
           "cur_price": 0.9995
         },
         {
           "trader": "Dota2winner",
-          "roi": 0.3389,
+          "roi": 0.3541,
           "value": 39979.9,
           "avg_price": 0.4399,
           "cur_price": 0.9995
         },
         {
           "trader": "0xf3ce7f",
-          "roi": 0.3002,
+          "roi": 0.3392,
           "value": 11977.25,
           "avg_price": 0.6136,
           "cur_price": 0.9995
         },
         {
           "trader": "Barbozaaa321",
-          "roi": 0.5242,
+          "roi": 0.5033,
           "value": 9994.97,
           "avg_price": 0.58,
           "cur_price": 0.9995
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2255,
+          "roi": 0.1711,
           "value": 7772.11,
           "avg_price": 0.6212,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+      "slug": "lol-drx-bro2-2026-08-16",
+      "outcome": "Kiwoom DRX",
+      "num_traders": 3,
+      "total_value": 58013.42,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2011,
+          "value": 51855.14,
+          "avg_price": 0.3089,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1711,
+          "value": 3383.28,
+          "avg_price": 0.57,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "solo88888",
+          "roi": 0.1787,
+          "value": 2775,
+          "avg_price": 0.57,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner",
+      "slug": "lol-drx-bro2-2026-08-16-game1",
+      "outcome": "HANJIN BRION",
+      "num_traders": 3,
+      "total_value": 36130.76,
+      "holders": [
+        {
+          "trader": "laopilao",
+          "roi": 0.2173,
+          "value": 20006.29,
+          "avg_price": 0.5792,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2367,
+          "value": 14992.5,
+          "avg_price": 0.5099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2011,
+          "value": 1131.97,
+          "avg_price": 0.5183,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+      "slug": "lol-wb-ig1-2026-08-16",
+      "outcome": "Weibo Gaming",
+      "num_traders": 3,
+      "total_value": 9522.27,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2011,
+          "value": 7117.34,
+          "avg_price": 0.1894,
+          "cur_price": 0.14
+        },
+        {
+          "trader": "solo88888",
+          "roi": 0.1787,
+          "value": 1940.02,
+          "avg_price": 0.4223,
+          "cur_price": 0.14
+        },
+        {
+          "trader": "laopilao",
+          "roi": 0.2173,
+          "value": 464.91,
+          "avg_price": 0.6199,
+          "cur_price": 0.14
         }
       ]
     },
@@ -188,36 +285,6 @@
           "value": 17191.79,
           "avg_price": 0.319,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
-      "slug": "dota2-lgd-ty-2026-08-16",
-      "outcome": "LGD Gaming",
-      "num_traders": 3,
-      "total_value": 14781.16,
-      "holders": [
-        {
-          "trader": "coupedegrace",
-          "roi": 0.2908,
-          "value": 7770.12,
-          "avg_price": 0.2799,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "Dota2winner",
-          "roi": 0.3389,
-          "value": 4574.98,
-          "avg_price": 0.2599,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "Vladooos",
-          "roi": 0.2917,
-          "value": 2436.06,
-          "avg_price": 0.6441,
-          "cur_price": 0.305
         }
       ]
     }
@@ -928,8 +995,11 @@
     "dota2-ironwi-gl-2026-08-16-game2::Iron Wing": 3,
     "dota2-lgd-ty-2026-08-16-game2::LGD Gaming": 3,
     "dota2-lgd-ty-2026-08-16-game1::LGD Gaming": 3,
-    "dota2-lgd-ty-2026-08-16::LGD Gaming": 2,
-    "lol-lgd-jdg-2026-08-16::LGD Gaming": 1
+    "dota2-lgd-ty-2026-08-16::LGD Gaming": 3,
+    "lol-lgd-jdg-2026-08-16::LGD Gaming": 2,
+    "lol-t1-gen-2026-08-16-game1::Gen.G": 1,
+    "lol-t1-gen-2026-08-16-game2::Gen.G": 1,
+    "dota2-lgd-ty-2026-08-16-game2::Team Yandex": 1
   },
-  "updated_at": "2026-08-16T12:10:50.897601+00:00"
+  "updated_at": "2026-08-16T13:01:35.279790+00:00"
 }
