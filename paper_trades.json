@@ -16044,7 +16044,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 67292.98,
       "traders": [
@@ -16053,7 +16053,8 @@
         "cat3xsosal",
         "0xf3ce7f"
       ],
-      "url": "https://polymarket.com/event/dota2-ts8-tr7-2026-08-16-game2"
+      "url": "https://polymarket.com/event/dota2-ts8-tr7-2026-08-16-game2",
+      "consensus_lost_at": "2026-08-16T09:19:31.154549+00:00"
     },
     {
       "signal_id": "dota2-ironwi-gl-2026-08-16-game2::Iron Wing",
@@ -16061,7 +16062,7 @@
       "slug": "dota2-ironwi-gl-2026-08-16-game2",
       "side": "Iron Wing",
       "alerted_at": "2026-08-16T07:20:59.014681+00:00",
-      "last_seen": "2026-08-16T08:52:04.877434+00:00",
+      "last_seen": "2026-08-16T09:19:31.154549+00:00",
       "entry_price": 0.705,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16085,7 +16086,7 @@
       "slug": "dota2-ts8-tr7-2026-08-16",
       "side": "Team Spirit",
       "alerted_at": "2026-08-16T07:52:08.379615+00:00",
-      "last_seen": "2026-08-16T08:52:04.877434+00:00",
+      "last_seen": "2026-08-16T09:19:31.154549+00:00",
       "entry_price": 0.975,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16109,14 +16110,14 @@
       "slug": "dota2-lgd-ty-2026-08-16-game1",
       "side": "LGD Gaming",
       "alerted_at": "2026-08-16T08:52:04.877434+00:00",
-      "last_seen": "2026-08-16T08:52:04.877434+00:00",
+      "last_seen": "2026-08-16T09:19:31.154549+00:00",
       "entry_price": 0.317789,
-      "current_price": 0.317789,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 314.673899,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 314.52,
+      "paper_pnl": 214.52,
+      "return_percent": 214.52,
       "status": "OPEN",
       "num_traders": 5,
       "combined_value": 27113.46,
@@ -16153,7 +16154,31 @@
         "meoooow"
       ],
       "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game1"
+    },
+    {
+      "signal_id": "lol-t1-gen-2026-08-16-game1::Gen.G",
+      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
+      "slug": "lol-t1-gen-2026-08-16-game1",
+      "side": "Gen.G",
+      "alerted_at": "2026-08-16T09:19:31.154549+00:00",
+      "last_seen": "2026-08-16T09:19:31.154549+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 38984.32,
+      "traders": [
+        "Iamnobody.Nobody",
+        "12354",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/lol-t1-gen-2026-08-16-game1"
     }
   ],
-  "updated_at": "2026-08-16T08:52:04.877434+00:00"
+  "updated_at": "2026-08-16T09:19:31.154549+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "seen_ids": [
     "dota2-lgd-ty-2026-08-16-game1::LGD Gaming",
-    "dota2-lgd-ty-2026-08-16-game1::Team Yandex",
     "dota2-ts8-tr7-2026-08-16::Team Spirit",
+    "lol-t1-gen-2026-08-16-game1::Gen.G",
     "dota2-ironwi-gl-2026-08-16-game2::Iron Wing"
   ],
   "signals": [
@@ -11,42 +11,132 @@
       "slug": "dota2-lgd-ty-2026-08-16-game1",
       "outcome": "LGD Gaming",
       "num_traders": 5,
-      "total_value": 27113.46,
+      "total_value": 85605.43,
       "holders": [
         {
           "trader": "coupedegrace",
-          "roi": 0.305,
-          "value": 11782.66,
+          "roi": 0.4176,
+          "value": 38612.36,
           "avg_price": 0.33,
-          "cur_price": 0.305
+          "cur_price": 0.9995
         },
         {
           "trader": "Dota2winner",
-          "roi": 0.3213,
-          "value": 7624.97,
+          "roi": 0.3501,
+          "value": 24987.41,
           "avg_price": 0.3799,
-          "cur_price": 0.305
+          "cur_price": 0.9995
         },
         {
           "trader": "0xf3ce7f",
-          "roi": 0.2862,
-          "value": 3152.46,
+          "roi": 0.3277,
+          "value": 9002.54,
           "avg_price": 0.3243,
-          "cur_price": 0.35
+          "cur_price": 0.9995
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2192,
-          "value": 2932.3,
+          "roi": 0.2614,
+          "value": 8373.81,
           "avg_price": 0.32,
-          "cur_price": 0.35
+          "cur_price": 0.9995
         },
         {
-          "trader": "Ekaraine",
-          "roi": 0.1877,
-          "value": 1621.07,
+          "trader": "FvckMachine",
+          "roi": 0.1615,
+          "value": 4629.31,
           "avg_price": 0.4676,
-          "cur_price": 0.35
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
+      "slug": "dota2-ts8-tr7-2026-08-16",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 57893.41,
+      "holders": [
+        {
+          "trader": "Zywoo123",
+          "roi": 0.1647,
+          "value": 41979,
+          "avg_price": 0.72,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "FvckMachine",
+          "roi": 0.1615,
+          "value": 15803.47,
+          "avg_price": 0.6704,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2614,
+          "value": 110.94,
+          "avg_price": 0.7499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs Gen.G - Game 1 Winner",
+      "slug": "lol-t1-gen-2026-08-16-game1",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 38984.32,
+      "holders": [
+        {
+          "trader": "Iamnobody.Nobody",
+          "roi": 0.1951,
+          "value": 17491.0,
+          "avg_price": 0.6375,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "12354",
+          "roi": 0.3829,
+          "value": 14297.92,
+          "avg_price": 0.3963,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2614,
+          "value": 7195.4,
+          "avg_price": 0.62,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Iron Wing vs GamerLegion - Game 2 Winner",
+      "slug": "dota2-ironwi-gl-2026-08-16-game2",
+      "outcome": "Iron Wing",
+      "num_traders": 3,
+      "total_value": 10911.79,
+      "holders": [
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.3277,
+          "value": 9781.57,
+          "avg_price": 0.7347,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2614,
+          "value": 871.56,
+          "avg_price": 0.7711,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "coupedegrace",
+          "roi": 0.4176,
+          "value": 258.66,
+          "avg_price": 0.7,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -84,66 +174,6 @@
           "value": 1162.2,
           "avg_price": 0.66,
           "cur_price": 0.65
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Resilience (BO3) - The International Elimination Round",
-      "slug": "dota2-ts8-tr7-2026-08-16",
-      "outcome": "Team Spirit",
-      "num_traders": 3,
-      "total_value": 63818.22,
-      "holders": [
-        {
-          "trader": "junifund1",
-          "roi": 0.2051,
-          "value": 47903.81,
-          "avg_price": 0.6879,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Ekaraine",
-          "roi": 0.1877,
-          "value": 15803.47,
-          "avg_price": 0.6704,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2192,
-          "value": 110.94,
-          "avg_price": 0.7499,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs GamerLegion - Game 2 Winner",
-      "slug": "dota2-ironwi-gl-2026-08-16-game2",
-      "outcome": "Iron Wing",
-      "num_traders": 3,
-      "total_value": 10911.79,
-      "holders": [
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.2862,
-          "value": 9781.57,
-          "avg_price": 0.7347,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2192,
-          "value": 871.56,
-          "avg_price": 0.7711,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "coupedegrace",
-          "roi": 0.305,
-          "value": 258.66,
-          "avg_price": 0.7,
-          "cur_price": 0.9995
         }
       ]
     },
@@ -914,8 +944,9 @@
     "dota2-aur1-boombo-2026-08-15-game1::BoomBoys": 3,
     "ufc-isl-ian1-2026-08-15::Ian Machado Garry": 3,
     "dota2-aur1-boombo-2026-08-15-game2::BoomBoys": 3,
-    "dota2-ironwi-gl-2026-08-16-game1::Iron Wing": 1,
-    "dota2-ts8-tr7-2026-08-16-game2::Team Resilience": 1
+    "dota2-ironwi-gl-2026-08-16-game1::Iron Wing": 2,
+    "dota2-ts8-tr7-2026-08-16-game2::Team Resilience": 2,
+    "dota2-lgd-ty-2026-08-16-game1::Team Yandex": 1
   },
-  "updated_at": "2026-08-16T08:52:04.894395+00:00"
+  "updated_at": "2026-08-16T09:19:31.168890+00:00"
 }
