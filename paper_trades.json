@@ -16120,7 +16120,7 @@
       "current_value": 314.52,
       "paper_pnl": 214.52,
       "return_percent": 214.52,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 27113.46,
       "traders": [
@@ -16130,7 +16130,8 @@
         "purplegatto",
         "Ekaraine"
       ],
-      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game1"
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16-game1",
+      "consensus_lost_at": "2026-08-16T11:28:41.355467+00:00"
     },
     {
       "signal_id": "dota2-lgd-ty-2026-08-16-game1::Team Yandex",
@@ -16164,7 +16165,7 @@
       "slug": "lol-t1-gen-2026-08-16-game1",
       "side": "Gen.G",
       "alerted_at": "2026-08-16T09:19:31.154549+00:00",
-      "last_seen": "2026-08-16T10:58:54.677234+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16213,7 +16214,7 @@
       "slug": "dota2-lgd-ty-2026-08-16-game2",
       "side": "Team Yandex",
       "alerted_at": "2026-08-16T10:08:34.864373+00:00",
-      "last_seen": "2026-08-16T10:58:54.677234+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
       "entry_price": 0.82,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16237,7 +16238,7 @@
       "slug": "lol-t1-gen-2026-08-16-game2",
       "side": "Gen.G",
       "alerted_at": "2026-08-16T10:38:20.523870+00:00",
-      "last_seen": "2026-08-16T10:58:54.677234+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16262,7 +16263,7 @@
       "slug": "lol-lgd-jdg-2026-08-16",
       "side": "LGD Gaming",
       "alerted_at": "2026-08-16T10:38:20.523870+00:00",
-      "last_seen": "2026-08-16T10:58:54.677234+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16286,14 +16287,14 @@
       "slug": "dota2-lgd-ty-2026-08-16",
       "side": "Team Yandex",
       "alerted_at": "2026-08-16T10:38:20.523870+00:00",
-      "last_seen": "2026-08-16T10:58:54.677234+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
       "entry_price": 0.615,
-      "current_price": 0.655,
+      "current_price": 0.608825,
       "stake": 100.0,
       "shares": 162.601626,
-      "current_value": 106.5,
-      "paper_pnl": 6.5,
-      "return_percent": 6.5,
+      "current_value": 99.0,
+      "paper_pnl": -1.0,
+      "return_percent": -1.0,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 29971.71,
@@ -16303,7 +16304,31 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16"
+    },
+    {
+      "signal_id": "dota2-lgd-ty-2026-08-16::LGD Gaming",
+      "market": "Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round",
+      "slug": "dota2-lgd-ty-2026-08-16",
+      "side": "LGD Gaming",
+      "alerted_at": "2026-08-16T11:28:41.355467+00:00",
+      "last_seen": "2026-08-16T11:28:41.355467+00:00",
+      "entry_price": 0.305,
+      "current_price": 0.305,
+      "stake": 100.0,
+      "shares": 327.868852,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 14781.16,
+      "traders": [
+        "coupedegrace",
+        "Dota2winner",
+        "Vladooos"
+      ],
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16"
     }
   ],
-  "updated_at": "2026-08-16T10:58:54.677234+00:00"
+  "updated_at": "2026-08-16T11:28:41.355467+00:00"
 }
