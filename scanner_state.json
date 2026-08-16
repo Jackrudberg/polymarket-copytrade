@@ -1,6 +1,77 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "dota2-aur1-boombo-2026-08-15-game2::BoomBoys",
+    "dota2-ironwi-gl-2026-08-16-game1::Iron Wing"
+  ],
+  "signals": [
+    {
+      "market": "Dota 2: Aurora vs BoomBoys - Game 2 Winner",
+      "slug": "dota2-aur1-boombo-2026-08-15-game2",
+      "outcome": "BoomBoys",
+      "num_traders": 4,
+      "total_value": 88408.86,
+      "holders": [
+        {
+          "trader": "Dota2winner",
+          "roi": 0.2667,
+          "value": 39979.97,
+          "avg_price": 0.4299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.5371,
+          "value": 28542.85,
+          "avg_price": 0.4624,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "coupedegrace",
+          "roi": 0.3173,
+          "value": 15042.46,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2211,
+          "value": 4843.58,
+          "avg_price": 0.5071,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Iron Wing vs GamerLegion - Game 1 Winner",
+      "slug": "dota2-ironwi-gl-2026-08-16-game1",
+      "outcome": "Iron Wing",
+      "num_traders": 3,
+      "total_value": 29004.09,
+      "holders": [
+        {
+          "trader": "Vladooos",
+          "roi": 0.2209,
+          "value": 15769.73,
+          "avg_price": 0.7499,
+          "cur_price": 0.9845
+        },
+        {
+          "trader": "coupedegrace",
+          "roi": 0.3173,
+          "value": 10884.36,
+          "avg_price": 0.7115,
+          "cur_price": 0.9845
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2211,
+          "value": 2350.0,
+          "avg_price": 0.7299,
+          "cur_price": 0.9845
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -700,5 +771,5 @@
     "dota2-aur1-boombo-2026-08-15-game1::BoomBoys": 3,
     "ufc-isl-ian1-2026-08-15::Ian Machado Garry": 3
   },
-  "updated_at": "2026-08-16T05:56:59.918957+00:00"
+  "updated_at": "2026-08-16T06:48:48.928471+00:00"
 }
