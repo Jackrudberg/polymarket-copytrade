@@ -1,10 +1,100 @@
 {
   "seen_ids": [
-    "wta-boisson-bencic-2026-08-15::Belinda Bencic",
-    "mlb-tex-oak-2026-08-15::Athletics",
-    "mls-nas-mia-2026-08-15-mia::No"
+    "ufc-mac1-gil-2026-08-15::Mackenzie Dern",
+    "ufc-isl-ian1-2026-08-15::Ian Machado Garry",
+    "mlb-tex-oak-2026-08-15::Athletics"
   ],
   "signals": [
+    {
+      "market": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
+      "slug": "ufc-mac1-gil-2026-08-15",
+      "outcome": "Mackenzie Dern",
+      "num_traders": 3,
+      "total_value": 331177.14,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.4635,
+          "value": 211490.34,
+          "avg_price": 0.6399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.3866,
+          "value": 82176.78,
+          "avg_price": 0.6479,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "brokemaxdegen",
+          "roi": 0.6716,
+          "value": 37510.02,
+          "avg_price": 0.6499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "slug": "ufc-isl-ian1-2026-08-15",
+      "outcome": "Ian Machado Garry",
+      "num_traders": 3,
+      "total_value": 44406.56,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.1964,
+          "value": 23075.73,
+          "avg_price": 0.23,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.849,
+          "value": 21199.92,
+          "avg_price": 0.26,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1503,
+          "value": 130.91,
+          "avg_price": 0.27,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "Texas Rangers vs. Athletics",
+      "slug": "mlb-tex-oak-2026-08-15",
+      "outcome": "Athletics",
+      "num_traders": 3,
+      "total_value": 23821.68,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.4635,
+          "value": 19061.44,
+          "avg_price": 0.39,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3114,
+          "value": 3196.31,
+          "avg_price": 0.4088,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 1.1964,
+          "value": 1563.93,
+          "avg_price": 0.4032,
+          "cur_price": 0.275
+        }
+      ]
+    },
     {
       "market": "Cincinnati Open: Lois Boisson vs Belinda Bencic",
       "slug": "wta-boisson-bencic-2026-08-15",
@@ -39,36 +129,6 @@
           "value": 1756.02,
           "avg_price": 0.8,
           "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Athletics",
-      "slug": "mlb-tex-oak-2026-08-15",
-      "outcome": "Athletics",
-      "num_traders": 3,
-      "total_value": 59253.25,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.4952,
-          "value": 53718.61,
-          "avg_price": 0.39,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 1.3207,
-          "value": 4407.43,
-          "avg_price": 0.4032,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2452,
-          "value": 1127.21,
-          "avg_price": 0.43,
-          "cur_price": 0.775
         }
       ]
     },
@@ -226,66 +286,6 @@
           "value": 1489.8,
           "avg_price": 0.7199,
           "cur_price": 0.998
-        }
-      ]
-    },
-    {
-      "market": "Will Xavier Becerra win the California Governor Election in 2026?",
-      "slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 11459.49,
-      "holders": [
-        {
-          "trader": "DonaldinhoTrumpito",
-          "roi": 0.3466,
-          "value": 9295,
-          "avg_price": 0.94,
-          "cur_price": 0.9295
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2519,
-          "value": 1513.84,
-          "avg_price": 0.5164,
-          "cur_price": 0.9295
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2598,
-          "value": 650.65,
-          "avg_price": 0.5212,
-          "cur_price": 0.9295
-        }
-      ]
-    },
-    {
-      "market": "Will Rodri win the 2026 Ballon d'Or?",
-      "slug": "will-rodri-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4075.57,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.3815,
-          "value": 3177.82,
-          "avg_price": 0.4888,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2519,
-          "value": 481.57,
-          "avg_price": 0.4537,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2598,
-          "value": 416.18,
-          "avg_price": 0.3185,
-          "cur_price": 0.085
         }
       ]
     }
@@ -975,12 +975,14 @@
     "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3,
     "cs2-furia-9z-2026-08-15::FURIA": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 2,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
-    "mls-clt-clb-2026-08-15-clt::Yes": 1,
-    "nfl-car-buf-2026-08-15::Bills": 1,
-    "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 1,
-    "mlb-phi-min-2026-08-15::Philadelphia Phillies": 1
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
+    "mls-clt-clb-2026-08-15-clt::Yes": 2,
+    "nfl-car-buf-2026-08-15::Bills": 2,
+    "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 2,
+    "mlb-phi-min-2026-08-15::Philadelphia Phillies": 2,
+    "wta-boisson-bencic-2026-08-15::Belinda Bencic": 1,
+    "mls-nas-mia-2026-08-15-mia::No": 1
   },
-  "updated_at": "2026-08-16T02:48:30.160192+00:00"
+  "updated_at": "2026-08-16T03:36:04.988396+00:00"
 }

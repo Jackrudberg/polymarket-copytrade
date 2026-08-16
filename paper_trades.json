@@ -15765,7 +15765,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 71384.46,
       "traders": [
@@ -15774,7 +15774,8 @@
         "sentrio",
         "alpheclabs"
       ],
-      "url": "https://polymarket.com/event/mls-clt-clb-2026-08-15-clt"
+      "url": "https://polymarket.com/event/mls-clt-clb-2026-08-15-clt",
+      "consensus_lost_at": "2026-08-16T03:36:04.945538+00:00"
     },
     {
       "signal_id": "wta-boisson-bencic-2026-08-15::Belinda Bencic",
@@ -15815,7 +15816,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 24836.57,
       "traders": [
@@ -15823,7 +15824,8 @@
         "VeryLucky888",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/nfl-car-buf-2026-08-15"
+      "url": "https://polymarket.com/event/nfl-car-buf-2026-08-15",
+      "consensus_lost_at": "2026-08-16T03:36:04.945538+00:00"
     },
     {
       "signal_id": "atp-jodar-shapova-2026-08-15::Denis Shapovalov",
@@ -15839,7 +15841,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20714.62,
       "traders": [
@@ -15847,7 +15849,8 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
         "sentrio"
       ],
-      "url": "https://polymarket.com/event/atp-jodar-shapova-2026-08-15"
+      "url": "https://polymarket.com/event/atp-jodar-shapova-2026-08-15",
+      "consensus_lost_at": "2026-08-16T03:36:04.945538+00:00"
     },
     {
       "signal_id": "mlb-phi-min-2026-08-15::Philadelphia Phillies",
@@ -15863,7 +15866,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14728.41,
       "traders": [
@@ -15871,7 +15874,8 @@
         "sentrio",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-15"
+      "url": "https://polymarket.com/event/mlb-phi-min-2026-08-15",
+      "consensus_lost_at": "2026-08-16T03:36:04.945538+00:00"
     },
     {
       "signal_id": "mlb-tex-oak-2026-08-15::Athletics",
@@ -15879,14 +15883,14 @@
       "slug": "mlb-tex-oak-2026-08-15",
       "side": "Athletics",
       "alerted_at": "2026-08-16T02:48:30.146142+00:00",
-      "last_seen": "2026-08-16T02:48:30.146142+00:00",
+      "last_seen": "2026-08-16T03:36:04.945538+00:00",
       "entry_price": 0.775,
-      "current_price": 0.775,
+      "current_price": 0.275,
       "stake": 100.0,
       "shares": 129.032258,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 35.48,
+      "paper_pnl": -64.52,
+      "return_percent": -64.52,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 59253.25,
@@ -15920,7 +15924,55 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/mls-nas-mia-2026-08-15-mia"
+    },
+    {
+      "signal_id": "ufc-mac1-gil-2026-08-15::Mackenzie Dern",
+      "market": "UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",
+      "slug": "ufc-mac1-gil-2026-08-15",
+      "side": "Mackenzie Dern",
+      "alerted_at": "2026-08-16T03:36:04.945538+00:00",
+      "last_seen": "2026-08-16T03:36:04.945538+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 331177.14,
+      "traders": [
+        "Sassy-Bucket",
+        "Painfulvoid",
+        "brokemaxdegen"
+      ],
+      "url": "https://polymarket.com/event/ufc-mac1-gil-2026-08-15"
+    },
+    {
+      "signal_id": "ufc-isl-ian1-2026-08-15::Ian Machado Garry",
+      "market": "UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",
+      "slug": "ufc-isl-ian1-2026-08-15",
+      "side": "Ian Machado Garry",
+      "alerted_at": "2026-08-16T03:36:04.945538+00:00",
+      "last_seen": "2026-08-16T03:36:04.945538+00:00",
+      "entry_price": 0.265,
+      "current_price": 0.265,
+      "stake": 100.0,
+      "shares": 377.358491,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 44406.56,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "bands1",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/ufc-isl-ian1-2026-08-15"
     }
   ],
-  "updated_at": "2026-08-16T02:48:30.146142+00:00"
+  "updated_at": "2026-08-16T03:36:04.945538+00:00"
 }
