@@ -1,9 +1,8 @@
 {
   "seen_ids": [
     "dota2-lgd-ty-2026-08-16-game1::LGD Gaming",
-    "lol-t1-gen-2026-08-16-game1::Gen.G",
-    "dota2-lgd-ty-2026-08-16-game2::LGD Gaming",
-    "dota2-ironwi-gl-2026-08-16-game2::Iron Wing"
+    "dota2-lgd-ty-2026-08-16-game2::Team Yandex",
+    "dota2-lgd-ty-2026-08-16-game2::LGD Gaming"
   ],
   "signals": [
     {
@@ -51,6 +50,66 @@
       ]
     },
     {
+      "market": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+      "slug": "dota2-lgd-ty-2026-08-16-game2",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 12287.51,
+      "holders": [
+        {
+          "trader": "Dota2winner",
+          "roi": 0.3501,
+          "value": 8749.77,
+          "avg_price": 0.5499,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "coupedegrace",
+          "roi": 0.4176,
+          "value": 3420.48,
+          "avg_price": 0.59,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.2614,
+          "value": 117.26,
+          "avg_price": 0.56,
+          "cur_price": 0.82
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+      "slug": "dota2-lgd-ty-2026-08-16-game2",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 10407.12,
+      "holders": [
+        {
+          "trader": "coupedegrace",
+          "roi": 0.4176,
+          "value": 6463.99,
+          "avg_price": 0.4467,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.1647,
+          "value": 2700,
+          "avg_price": 0.46,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "FvckMachine",
+          "roi": 0.1615,
+          "value": 1243.13,
+          "avg_price": 0.3619,
+          "cur_price": 0.18
+        }
+      ]
+    },
+    {
       "market": "LoL: T1 vs Gen.G - Game 1 Winner",
       "slug": "lol-t1-gen-2026-08-16-game1",
       "outcome": "Gen.G",
@@ -77,36 +136,6 @@
           "value": 7195.4,
           "avg_price": 0.62,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
-      "slug": "dota2-lgd-ty-2026-08-16-game2",
-      "outcome": "LGD Gaming",
-      "num_traders": 3,
-      "total_value": 24572.39,
-      "holders": [
-        {
-          "trader": "coupedegrace",
-          "roi": 0.4176,
-          "value": 15262.21,
-          "avg_price": 0.4467,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.1647,
-          "value": 6375,
-          "avg_price": 0.46,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "FvckMachine",
-          "roi": 0.1615,
-          "value": 2935.18,
-          "avg_price": 0.3619,
-          "cur_price": 0.425
         }
       ]
     },
@@ -167,43 +196,6 @@
           "value": 110.94,
           "avg_price": 0.7499,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: LGD Gaming vs Team Yandex - Game 1 Winner",
-      "slug": "dota2-lgd-ty-2026-08-16-game1",
-      "outcome": "Team Yandex",
-      "num_traders": 4,
-      "total_value": 48501.11,
-      "holders": [
-        {
-          "trader": "junifund1",
-          "roi": 0.2051,
-          "value": 23666.24,
-          "avg_price": 0.6649,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "cat3xsosal",
-          "roi": 0.2553,
-          "value": 17522.79,
-          "avg_price": 0.5492,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "Ekaraine",
-          "roi": 0.1877,
-          "value": 6149.88,
-          "avg_price": 0.3276,
-          "cur_price": 0.65
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.3852,
-          "value": 1162.2,
-          "avg_price": 0.66,
-          "cur_price": 0.65
         }
       ]
     }
@@ -909,8 +901,10 @@
     "dota2-aur1-boombo-2026-08-15-game2::BoomBoys": 3,
     "dota2-ironwi-gl-2026-08-16-game1::Iron Wing": 3,
     "dota2-ts8-tr7-2026-08-16-game2::Team Resilience": 3,
-    "dota2-lgd-ty-2026-08-16-game1::Team Yandex": 2,
-    "dota2-ts8-tr7-2026-08-16::Team Spirit": 1
+    "dota2-lgd-ty-2026-08-16-game1::Team Yandex": 3,
+    "dota2-ts8-tr7-2026-08-16::Team Spirit": 2,
+    "lol-t1-gen-2026-08-16-game1::Gen.G": 1,
+    "dota2-ironwi-gl-2026-08-16-game2::Iron Wing": 1
   },
-  "updated_at": "2026-08-16T09:47:24.263461+00:00"
+  "updated_at": "2026-08-16T10:08:34.878298+00:00"
 }
