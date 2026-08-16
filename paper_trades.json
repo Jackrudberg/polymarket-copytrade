@@ -15941,7 +15941,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 331177.14,
       "traders": [
@@ -15949,7 +15949,8 @@
         "Painfulvoid",
         "brokemaxdegen"
       ],
-      "url": "https://polymarket.com/event/ufc-mac1-gil-2026-08-15"
+      "url": "https://polymarket.com/event/ufc-mac1-gil-2026-08-15",
+      "consensus_lost_at": "2026-08-16T04:55:35.126007+00:00"
     },
     {
       "signal_id": "ufc-isl-ian1-2026-08-15::Ian Machado Garry",
@@ -16026,5 +16027,5 @@
       "url": "https://polymarket.com/event/dota2-aur1-boombo-2026-08-15-game1"
     }
   ],
-  "updated_at": "2026-08-16T04:19:52.893827+00:00"
+  "updated_at": "2026-08-16T04:55:35.126007+00:00"
 }
