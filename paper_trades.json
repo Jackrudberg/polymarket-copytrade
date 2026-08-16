@@ -16299,7 +16299,7 @@
       "current_value": 162.52,
       "paper_pnl": 62.52,
       "return_percent": 62.52,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 29971.71,
       "traders": [
@@ -16307,7 +16307,8 @@
         "0xf3ce7f",
         "purplegatto"
       ],
-      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16"
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-08-16",
+      "consensus_lost_at": "2026-08-16T14:32:15.997048+00:00"
     },
     {
       "signal_id": "dota2-lgd-ty-2026-08-16::LGD Gaming",
@@ -16410,5 +16411,5 @@
       "consensus_lost_at": "2026-08-16T13:59:40.125374+00:00"
     }
   ],
-  "updated_at": "2026-08-16T13:59:40.125374+00:00"
+  "updated_at": "2026-08-16T14:32:15.997048+00:00"
 }
