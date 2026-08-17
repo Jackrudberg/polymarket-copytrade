@@ -2,8 +2,10 @@
   "seen_ids": [
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
-    "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes"
+    "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes",
+    "will-rodri-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
     {
@@ -15,21 +17,21 @@
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2136,
+          "roi": 0.2023,
           "value": 505375.57,
           "avg_price": 0.7933,
           "cur_price": 0.8515
         },
         {
           "trader": "RememberAmalek",
-          "roi": 0.9628,
+          "roi": 1.0669,
           "value": 2341.61,
           "avg_price": 0.5678,
           "cur_price": 0.8515
         },
         {
           "trader": "donthackme",
-          "roi": 0.203,
+          "roi": 0.2536,
           "value": 550.28,
           "avg_price": 0.5,
           "cur_price": 0.8515
@@ -45,24 +47,54 @@
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2136,
+          "roi": 0.2023,
           "value": 246420.16,
           "avg_price": 0.4251,
           "cur_price": 0.295
         },
         {
           "trader": "RememberAmalek",
-          "roi": 0.9628,
+          "roi": 1.0669,
           "value": 3687.49,
           "avg_price": 0.5079,
           "cur_price": 0.295
         },
         {
           "trader": "donthackme",
-          "roi": 0.203,
+          "roi": 0.2536,
           "value": 901.91,
           "avg_price": 0.5038,
           "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 11408.09,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.4728,
+          "value": 9396.93,
+          "avg_price": 0.7442,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0669,
+          "value": 1392.03,
+          "avg_price": 0.3185,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "C03B",
+          "roi": 0.4726,
+          "value": 619.13,
+          "avg_price": 0.333,
+          "cur_price": 0.8255
         }
       ]
     },
@@ -75,21 +107,21 @@
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2136,
+          "roi": 0.2023,
           "value": 4425.12,
           "avg_price": 0.7533,
           "cur_price": 0.885
         },
         {
           "trader": "donthackme",
-          "roi": 0.203,
+          "roi": 0.2536,
           "value": 1919.15,
           "avg_price": 0.5058,
           "cur_price": 0.885
         },
         {
           "trader": "balthazar",
-          "roi": 0.4891,
+          "roi": 0.4728,
           "value": 974.98,
           "avg_price": 0.5,
           "cur_price": 0.885
@@ -101,28 +133,58 @@
       "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 2789.45,
+      "total_value": 2792.08,
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.203,
-          "value": 1358.99,
+          "roi": 0.2536,
+          "value": 1360.27,
           "avg_price": 0.4973,
-          "cur_price": 0.5295
+          "cur_price": 0.53
         },
         {
           "trader": "RememberAmalek",
-          "roi": 0.9628,
-          "value": 1058.99,
+          "roi": 1.0669,
+          "value": 1059.99,
           "avg_price": 0.1299,
-          "cur_price": 0.5295
+          "cur_price": 0.53
         },
         {
           "trader": "balthazar",
-          "roi": 0.4891,
-          "value": 371.47,
+          "roi": 0.4728,
+          "value": 371.82,
           "avg_price": 0.4972,
-          "cur_price": 0.5295
+          "cur_price": 0.53
+        }
+      ]
+    },
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1565.75,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2536,
+          "value": 594.88,
+          "avg_price": 0.4093,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "norrisfan",
+          "roi": 0.3131,
+          "value": 504,
+          "avg_price": 0.5,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4728,
+          "value": 466.87,
+          "avg_price": 0.2934,
+          "cur_price": 0.105
         }
       ]
     },
@@ -544,7 +606,6 @@
     "mlb-lad-chc-2026-08-04::Chicago Cubs": 3,
     "iran-leadership-change-by-december-31-974-976-658-482-568-685::No": 3,
     "will-nicols-maduro-be-the-leader-of-venezuela-end-of-2026::Yes": 3,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "us-iran-60-day-negotiation-period-extended-20260624044855448::Yes": 3,
     "atp-darderi-diallo-2026-08-04::Luciano Darderi": 3,
     "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693::Yes": 3,
@@ -899,7 +960,6 @@
     "lol-g2-fnc-2026-08-16::G2 Esports": 3,
     "lol-g2-fnc-2026-08-16-game2::G2 Esports": 3,
     "will-pablo-marcal-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "val-c9-eg2-2026-08-16::Cloud9": 3,
     "lol-ly-sen-2026-08-16::Sentinels": 3,
     "wta-valento-svitoli-2026-08-16::Elina Svitolina": 3,
@@ -920,8 +980,8 @@
     "lol-navi-th-2026-08-17::Natus Vincere": 3,
     "lol-navi-th-2026-08-17-game1::Natus Vincere": 3,
     "lol-gx-kc-2026-08-17::Karmine Corp": 3,
-    "lol-gx-kc-2026-08-17-game2::Karmine Corp": 1,
-    "lol-gx-kc-2026-08-17-game1::Karmine Corp": 1
+    "lol-gx-kc-2026-08-17-game2::Karmine Corp": 2,
+    "lol-gx-kc-2026-08-17-game1::Karmine Corp": 2
   },
-  "updated_at": "2026-08-17T21:12:48.482608+00:00"
+  "updated_at": "2026-08-17T21:44:15.006313+00:00"
 }
