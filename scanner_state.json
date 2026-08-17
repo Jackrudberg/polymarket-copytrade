@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "lol-t1-dnf-2026-08-17-game1::DN SOOPers",
     "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers"
   ],
   "signals": [
+    {
+      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
+      "slug": "lol-dkc-ktc-2026-08-17-game1",
+      "outcome": "KT Rolster Challengers",
+      "num_traders": 3,
+      "total_value": 7808.26,
+      "holders": [
+        {
+          "trader": "pauleta23",
+          "roi": 0.2784,
+          "value": 5860.23,
+          "avg_price": 0.6349,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MaoZeDonK",
+          "roi": 0.4025,
+          "value": 1459.6,
+          "avg_price": 0.4418,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.9842,
+          "value": 488.43,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs DN SOOPers - Game 1 Winner",
       "slug": "lol-t1-dnf-2026-08-17-game1",
@@ -38,36 +67,6 @@
           "value": 300.38,
           "avg_price": 0.4399,
           "cur_price": 0.435
-        }
-      ]
-    },
-    {
-      "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
-      "slug": "lol-dkc-ktc-2026-08-17-game1",
-      "outcome": "KT Rolster Challengers",
-      "num_traders": 3,
-      "total_value": 7808.26,
-      "holders": [
-        {
-          "trader": "pauleta23",
-          "roi": 0.2784,
-          "value": 5860.23,
-          "avg_price": 0.6349,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MaoZeDonK",
-          "roi": 0.4025,
-          "value": 1459.6,
-          "avg_price": 0.4418,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.9842,
-          "value": 488.43,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -796,7 +795,8 @@
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
-    "lol-t1-dnf-2026-08-17::T1": 3
+    "lol-t1-dnf-2026-08-17::T1": 3,
+    "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 1
   },
-  "updated_at": "2026-08-17T09:46:16.538830+00:00"
+  "updated_at": "2026-08-17T10:16:59.840310+00:00"
 }
