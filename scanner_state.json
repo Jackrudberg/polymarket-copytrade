@@ -1,47 +1,156 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
+    "lol-t1-dnf-2026-08-17::DN SOOPers",
+    "lol-t1-dnf-2026-08-17-game3::DN SOOPers",
+    "lol-t1-dnf-2026-08-17-game4::DN SOOPers"
+  ],
   "signals": [
     {
       "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
       "slug": "lol-t1-dnf-2026-08-17-game2",
       "outcome": "DN SOOPers",
-      "num_traders": 5,
-      "total_value": 18843.64,
+      "num_traders": 6,
+      "total_value": 51800.86,
       "holders": [
         {
-          "trader": "theodyssey",
-          "roi": 0.1969,
-          "value": 5910.41,
-          "avg_price": 0.431,
+          "trader": "GarlickDemon",
+          "roi": 0.3233,
+          "value": 20989.98,
+          "avg_price": 0.51,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "joshjosh",
+          "roi": 0.2306,
+          "value": 10430.8,
+          "avg_price": 0.548,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1698,
+          "value": 9040.33,
+          "avg_price": 0.4199,
           "cur_price": 0.9995
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1571,
+          "roi": 0.1727,
           "value": 5795.22,
           "avg_price": 0.6599,
           "cur_price": 0.9995
         },
         {
           "trader": "IMAREALPERSON",
-          "roi": 1.0375,
+          "roi": 1.0312,
           "value": 5359.89,
           "avg_price": 0.4754,
           "cur_price": 0.9995
         },
         {
-          "trader": "Arisham",
-          "roi": 0.2949,
-          "value": 1593.48,
-          "avg_price": 0.4859,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "MaoZeDonK",
-          "roi": 0.3896,
+          "roi": 0.2603,
           "value": 184.64,
           "avg_price": 0.5413,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "slug": "lol-t1-dnf-2026-08-17",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 127455.68,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.4297,
+          "value": 69348.07,
+          "avg_price": 0.3953,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1727,
+          "value": 29215.52,
+          "avg_price": 0.4297,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "Uniform123",
+          "roi": 0.2934,
+          "value": 21764.93,
+          "avg_price": 0.4635,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1698,
+          "value": 7127.16,
+          "avg_price": 0.6332,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 3 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game3",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 19526.43,
+      "holders": [
+        {
+          "trader": "xytest",
+          "roi": 0.1698,
+          "value": 8995.5,
+          "avg_price": 0.6866,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1727,
+          "value": 7348.38,
+          "avg_price": 0.9699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "joshjosh",
+          "roi": 0.2306,
+          "value": 3182.55,
+          "avg_price": 0.6799,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 4 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game4",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 9065.26,
+      "holders": [
+        {
+          "trader": "MaoZeDonK",
+          "roi": 0.2603,
+          "value": 6492.1,
+          "avg_price": 0.6016,
+          "cur_price": 0.63
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1698,
+          "value": 2113.51,
+          "avg_price": 0.6806,
+          "cur_price": 0.63
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1727,
+          "value": 459.65,
+          "avg_price": 0.6499,
+          "cur_price": 0.63
         }
       ]
     },
@@ -840,9 +949,8 @@
     "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 3,
     "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers": 3,
     "lol-t1-dnf-2026-08-17-game1::T1": 3,
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 1,
-    "lol-t1-dnf-2026-08-17::T1": 1,
-    "lol-t1-dnf-2026-08-17-game3::T1": 1
+    "lol-t1-dnf-2026-08-17::T1": 2,
+    "lol-t1-dnf-2026-08-17-game3::T1": 2
   },
-  "updated_at": "2026-08-17T13:02:27.703380+00:00"
+  "updated_at": "2026-08-17T13:49:27.232804+00:00"
 }

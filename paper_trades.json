@@ -16525,7 +16525,7 @@
       "current_value": 50.33,
       "paper_pnl": -49.67,
       "return_percent": -49.67,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 175986.23,
       "traders": [
@@ -16535,7 +16535,8 @@
         "theodyssey",
         "pauleta23"
       ],
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17"
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17",
+      "consensus_lost_at": "2026-08-17T13:49:27.211537+00:00"
     },
     {
       "signal_id": "lol-t1-dnf-2026-08-17-game1::T1",
@@ -16569,7 +16570,7 @@
       "slug": "lol-t1-dnf-2026-08-17-game2",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-17T10:52:27.034456+00:00",
-      "last_seen": "2026-08-17T12:03:15.595266+00:00",
+      "last_seen": "2026-08-17T13:49:27.211537+00:00",
       "entry_price": 0.23,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -16602,7 +16603,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 85995.04,
       "traders": [
@@ -16610,8 +16611,9 @@
         "Lakersfan111",
         "theodyssey"
       ],
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game3"
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game3",
+      "consensus_lost_at": "2026-08-17T13:49:27.211537+00:00"
     }
   ],
-  "updated_at": "2026-08-17T13:02:27.690336+00:00"
+  "updated_at": "2026-08-17T13:49:27.211537+00:00"
 }
