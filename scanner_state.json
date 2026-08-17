@@ -1,14 +1,169 @@
 {
   "seen_ids": [
-    "lol-t1-dnf-2026-08-17::DN SOOPers",
     "lol-navi-th-2026-08-17::Natus Vincere",
-    "lol-t1-dnf-2026-08-17-game4::DN SOOPers",
-    "lol-navi-th-2026-08-17-game1::Natus Vincere",
     "lol-gx-kc-2026-08-17-game2::Karmine Corp",
+    "lol-navi-th-2026-08-17-game1::Natus Vincere",
     "lol-gx-kc-2026-08-17-game1::Karmine Corp",
     "lol-gx-kc-2026-08-17::Karmine Corp"
   ],
   "signals": [
+    {
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season",
+      "slug": "lol-navi-th-2026-08-17",
+      "outcome": "Natus Vincere",
+      "num_traders": 4,
+      "total_value": 50611.58,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.3429,
+          "value": 32418.89,
+          "avg_price": 0.6899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1807,
+          "value": 6531.91,
+          "avg_price": 0.7011,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vibing123",
+          "roi": 0.1776,
+          "value": 6228.94,
+          "avg_price": 0.6792,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1684,
+          "value": 5431.84,
+          "avg_price": 0.7,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game2",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 26005.4,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.163,
+          "value": 14992.48,
+          "avg_price": 0.77,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1807,
+          "value": 5997,
+          "avg_price": 0.8249,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1684,
+          "value": 5015.92,
+          "avg_price": 0.8278,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
+      "slug": "lol-navi-th-2026-08-17-game1",
+      "outcome": "Natus Vincere",
+      "num_traders": 3,
+      "total_value": 23358.97,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.3429,
+          "value": 14420.65,
+          "avg_price": 0.6199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1684,
+          "value": 8001.03,
+          "avg_price": 0.6355,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1807,
+          "value": 937.29,
+          "avg_price": 0.6475,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 19887.6,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.163,
+          "value": 11967.71,
+          "avg_price": 0.7523,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1684,
+          "value": 4921.39,
+          "avg_price": 0.8054,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1807,
+          "value": 2998.5,
+          "avg_price": 0.77,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season",
+      "slug": "lol-gx-kc-2026-08-17",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 13319.65,
+      "holders": [
+        {
+          "trader": "xytest",
+          "roi": 0.1807,
+          "value": 5997,
+          "avg_price": 0.88,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1684,
+          "value": 5676.41,
+          "avg_price": 0.88,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "vibing123",
+          "roi": 0.1776,
+          "value": 1646.24,
+          "avg_price": 0.84,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-t1-dnf-2026-08-17",
@@ -61,43 +216,6 @@
       ]
     },
     {
-      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season",
-      "slug": "lol-navi-th-2026-08-17",
-      "outcome": "Natus Vincere",
-      "num_traders": 4,
-      "total_value": 50611.58,
-      "holders": [
-        {
-          "trader": "sulumos",
-          "roi": 0.3429,
-          "value": 32418.89,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 6531.91,
-          "avg_price": 0.7011,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.1696,
-          "value": 6228.94,
-          "avg_price": 0.6792,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 5431.84,
-          "avg_price": 0.7,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "LoL: T1 vs DN SOOPers - Game 4 Winner",
       "slug": "lol-t1-dnf-2026-08-17-game4",
       "outcome": "DN SOOPers",
@@ -131,126 +249,6 @@
           "value": 614.85,
           "avg_price": 0.6099,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
-      "slug": "lol-navi-th-2026-08-17-game1",
-      "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 23358.97,
-      "holders": [
-        {
-          "trader": "sulumos",
-          "roi": 0.3429,
-          "value": 14420.65,
-          "avg_price": 0.6199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 8001.03,
-          "avg_price": 0.6355,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 937.29,
-          "avg_price": 0.6475,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
-      "slug": "lol-gx-kc-2026-08-17-game2",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 19904.08,
-      "holders": [
-        {
-          "trader": "GreenBerry1337",
-          "roi": 0.1522,
-          "value": 11474.98,
-          "avg_price": 0.77,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 4590,
-          "avg_price": 0.8249,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 3839.1,
-          "avg_price": 0.8278,
-          "cur_price": 0.765
-        }
-      ]
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
-      "slug": "lol-gx-kc-2026-08-17-game1",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 19887.6,
-      "holders": [
-        {
-          "trader": "GreenBerry1337",
-          "roi": 0.1522,
-          "value": 11967.71,
-          "avg_price": 0.7523,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 4921.39,
-          "avg_price": 0.8054,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 2998.5,
-          "avg_price": 0.77,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp (BO3) - LEC Regular Season",
-      "slug": "lol-gx-kc-2026-08-17",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 12460.1,
-      "holders": [
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 5610,
-          "avg_price": 0.88,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 5310.1,
-          "avg_price": 0.88,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.1696,
-          "value": 1540.0,
-          "avg_price": 0.84,
-          "cur_price": 0.935
         }
       ]
     },
@@ -1022,7 +1020,9 @@
     "lol-t1-dnf-2026-08-17::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::DN SOOPers": 3,
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 1
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 2,
+    "lol-t1-dnf-2026-08-17::DN SOOPers": 1,
+    "lol-t1-dnf-2026-08-17-game4::DN SOOPers": 1
   },
-  "updated_at": "2026-08-17T18:03:13.608829+00:00"
+  "updated_at": "2026-08-17T18:54:16.762333+00:00"
 }
