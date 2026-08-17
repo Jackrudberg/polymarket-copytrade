@@ -1,14 +1,162 @@
 {
   "seen_ids": [
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes",
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
     "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes",
-    "will-rodri-win-the-2026-ballon-dor::Yes"
+    "will-rodri-win-the-2026-ballon-dor::Yes",
+    "wta-cirstea-kalinsk-2026-08-17::Anna Kalinskaya"
   ],
   "signals": [
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 11408.09,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.4602,
+          "value": 9396.93,
+          "avg_price": 0.7442,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0767,
+          "value": 1392.03,
+          "avg_price": 0.3185,
+          "cur_price": 0.8255
+        },
+        {
+          "trader": "C03B",
+          "roi": 0.212,
+          "value": 619.13,
+          "avg_price": 0.333,
+          "cur_price": 0.8255
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7432.54,
+      "holders": [
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0767,
+          "value": 6338.32,
+          "avg_price": 0.3444,
+          "cur_price": 0.3115
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2582,
+          "value": 845.01,
+          "avg_price": 0.4933,
+          "cur_price": 0.3115
+        },
+        {
+          "trader": "betterfasterstronger",
+          "roi": 0.2032,
+          "value": 249.21,
+          "avg_price": 0.0312,
+          "cur_price": 0.3115
+        }
+      ]
+    },
+    {
+      "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2792.08,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2582,
+          "value": 1360.27,
+          "avg_price": 0.4973,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0767,
+          "value": 1059.99,
+          "avg_price": 0.1299,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4602,
+          "value": 371.82,
+          "avg_price": 0.4972,
+          "cur_price": 0.53
+        }
+      ]
+    },
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1565.75,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2582,
+          "value": 594.88,
+          "avg_price": 0.4093,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "norrisfan",
+          "roi": 0.3526,
+          "value": 504,
+          "avg_price": 0.5,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4602,
+          "value": 466.87,
+          "avg_price": 0.2934,
+          "cur_price": 0.105
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+      "slug": "wta-cirstea-kalinsk-2026-08-17",
+      "outcome": "Anna Kalinskaya",
+      "num_traders": 3,
+      "total_value": 1296.8,
+      "holders": [
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.4063,
+          "value": 858.5,
+          "avg_price": 0.3742,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "Netrol",
+          "roi": 0.3254,
+          "value": 306.07,
+          "avg_price": 0.4399,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "olegio",
+          "roi": 0.4356,
+          "value": 132.23,
+          "avg_price": 0.5499,
+          "cur_price": 0.085
+        }
+      ]
+    },
     {
       "market": "Will no Fed rate cuts happen in 2026?",
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
@@ -70,66 +218,6 @@
       ]
     },
     {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 11408.09,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.4728,
-          "value": 9396.93,
-          "avg_price": 0.7442,
-          "cur_price": 0.8255
-        },
-        {
-          "trader": "RememberAmalek",
-          "roi": 1.0669,
-          "value": 1392.03,
-          "avg_price": 0.3185,
-          "cur_price": 0.8255
-        },
-        {
-          "trader": "C03B",
-          "roi": 0.4726,
-          "value": 619.13,
-          "avg_price": 0.333,
-          "cur_price": 0.8255
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7504.13,
-      "holders": [
-        {
-          "trader": "RememberAmalek",
-          "roi": 1.0669,
-          "value": 6399.37,
-          "avg_price": 0.3444,
-          "cur_price": 0.3145
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2536,
-          "value": 853.15,
-          "avg_price": 0.4933,
-          "cur_price": 0.3145
-        },
-        {
-          "trader": "betterfasterstronger",
-          "roi": 0.207,
-          "value": 251.61,
-          "avg_price": 0.0312,
-          "cur_price": 0.3145
-        }
-      ]
-    },
-    {
       "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
       "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
       "outcome": "Yes",
@@ -156,66 +244,6 @@
           "value": 974.98,
           "avg_price": 0.5,
           "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2792.08,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.2536,
-          "value": 1360.27,
-          "avg_price": 0.4973,
-          "cur_price": 0.53
-        },
-        {
-          "trader": "RememberAmalek",
-          "roi": 1.0669,
-          "value": 1059.99,
-          "avg_price": 0.1299,
-          "cur_price": 0.53
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4728,
-          "value": 371.82,
-          "avg_price": 0.4972,
-          "cur_price": 0.53
-        }
-      ]
-    },
-    {
-      "market": "Will Rodri win the 2026 Ballon d'Or?",
-      "slug": "will-rodri-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1565.75,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.2536,
-          "value": 594.88,
-          "avg_price": 0.4093,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "norrisfan",
-          "roi": 0.3131,
-          "value": 504,
-          "avg_price": 0.5,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4728,
-          "value": 466.87,
-          "avg_price": 0.2934,
-          "cur_price": 0.105
         }
       ]
     }
@@ -951,7 +979,10 @@
     "lol-navi-th-2026-08-17-game1::Natus Vincere": 3,
     "lol-gx-kc-2026-08-17::Karmine Corp": 3,
     "lol-gx-kc-2026-08-17-game2::Karmine Corp": 3,
-    "lol-gx-kc-2026-08-17-game1::Karmine Corp": 3
+    "lol-gx-kc-2026-08-17-game1::Karmine Corp": 3,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1
   },
-  "updated_at": "2026-08-17T22:02:00.814690+00:00"
+  "updated_at": "2026-08-17T22:35:39.467136+00:00"
 }
