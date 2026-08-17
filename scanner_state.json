@@ -1,9 +1,5 @@
 {
-  "seen_ids": [
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
-    "lol-t1-dnf-2026-08-17::T1",
-    "lol-t1-dnf-2026-08-17-game3::T1"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
@@ -113,43 +109,6 @@
           "value": 4480.9,
           "avg_price": 0.3965,
           "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers - Game 1 Winner",
-      "slug": "lol-t1-dnf-2026-08-17-game1",
-      "outcome": "T1",
-      "num_traders": 4,
-      "total_value": 234165.42,
-      "holders": [
-        {
-          "trader": "111111111115",
-          "roi": 0.2879,
-          "value": 219034.32,
-          "avg_price": 0.543,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "theodyssey",
-          "roi": 0.2012,
-          "value": 9994.93,
-          "avg_price": 0.4083,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1884,
-          "value": 4817.1,
-          "avg_price": 0.6376,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "pauleta23",
-          "roi": 0.2094,
-          "value": 319.07,
-          "avg_price": 0.5773,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -880,7 +839,10 @@
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
     "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 3,
     "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers": 3,
-    "lol-t1-dnf-2026-08-17-game1::T1": 2
+    "lol-t1-dnf-2026-08-17-game1::T1": 3,
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 1,
+    "lol-t1-dnf-2026-08-17::T1": 1,
+    "lol-t1-dnf-2026-08-17-game3::T1": 1
   },
-  "updated_at": "2026-08-17T12:03:15.610229+00:00"
+  "updated_at": "2026-08-17T13:02:27.703380+00:00"
 }
