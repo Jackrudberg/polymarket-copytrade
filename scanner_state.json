@@ -2,9 +2,9 @@
   "seen_ids": [
     "lol-t1-dnf-2026-08-17::DN SOOPers",
     "lol-navi-th-2026-08-17::Natus Vincere",
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
     "lol-t1-dnf-2026-08-17-game4::DN SOOPers",
     "lol-navi-th-2026-08-17-game1::Natus Vincere",
+    "lol-gx-kc-2026-08-17-game2::Karmine Corp",
     "lol-gx-kc-2026-08-17-game1::Karmine Corp",
     "lol-gx-kc-2026-08-17::Karmine Corp"
   ],
@@ -98,43 +98,6 @@
       ]
     },
     {
-      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
-      "slug": "lol-t1-dnf-2026-08-17-game2",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 24100.63,
-      "holders": [
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 9515.77,
-          "avg_price": 0.4239,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 9040.33,
-          "avg_price": 0.4199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 0.5272,
-          "value": 5359.89,
-          "avg_price": 0.4754,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MaoZeDonK",
-          "roi": 0.2209,
-          "value": 184.64,
-          "avg_price": 0.5413,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "LoL: T1 vs DN SOOPers - Game 4 Winner",
       "slug": "lol-t1-dnf-2026-08-17-game4",
       "outcome": "DN SOOPers",
@@ -202,32 +165,62 @@
       ]
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
-      "slug": "lol-gx-kc-2026-08-17-game1",
+      "market": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game2",
       "outcome": "Karmine Corp",
       "num_traders": 3,
-      "total_value": 19748.32,
+      "total_value": 19904.08,
       "holders": [
         {
           "trader": "GreenBerry1337",
           "roi": 0.1522,
-          "value": 11883.9,
-          "avg_price": 0.7523,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 4886.92,
-          "avg_price": 0.8054,
-          "cur_price": 0.9925
+          "value": 11474.98,
+          "avg_price": 0.77,
+          "cur_price": 0.765
         },
         {
           "trader": "xytest",
           "roi": 0.1758,
-          "value": 2977.5,
+          "value": 4590,
+          "avg_price": 0.8249,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1619,
+          "value": 3839.1,
+          "avg_price": 0.8278,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 19887.6,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.1522,
+          "value": 11967.71,
+          "avg_price": 0.7523,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1619,
+          "value": 4921.39,
+          "avg_price": 0.8054,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1758,
+          "value": 2998.5,
           "avg_price": 0.77,
-          "cur_price": 0.9925
+          "cur_price": 0.9995
         }
       ]
     },
@@ -236,28 +229,65 @@
       "slug": "lol-gx-kc-2026-08-17",
       "outcome": "Karmine Corp",
       "num_traders": 3,
-      "total_value": 12593.36,
+      "total_value": 12460.1,
       "holders": [
         {
           "trader": "xytest",
           "roi": 0.1758,
-          "value": 5670,
+          "value": 5610,
           "avg_price": 0.88,
-          "cur_price": 0.945
+          "cur_price": 0.935
         },
         {
           "trader": "minji",
           "roi": 0.1619,
-          "value": 5366.89,
+          "value": 5310.1,
           "avg_price": 0.88,
-          "cur_price": 0.945
+          "cur_price": 0.935
         },
         {
           "trader": "vibing123",
           "roi": 0.1696,
-          "value": 1556.47,
+          "value": 1540.0,
           "avg_price": 0.84,
-          "cur_price": 0.945
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 24100.63,
+      "holders": [
+        {
+          "trader": "minji",
+          "roi": 0.1619,
+          "value": 9515.77,
+          "avg_price": 0.4239,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1758,
+          "value": 9040.33,
+          "avg_price": 0.4199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "IMAREALPERSON",
+          "roi": 0.5272,
+          "value": 5359.89,
+          "avg_price": 0.4754,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MaoZeDonK",
+          "roi": 0.2209,
+          "value": 184.64,
+          "avg_price": 0.5413,
+          "cur_price": 0.9995
         }
       ]
     }
@@ -991,7 +1021,8 @@
     "lol-t1-dnf-2026-08-17-game1::T1": 3,
     "lol-t1-dnf-2026-08-17::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::T1": 3,
-    "lol-t1-dnf-2026-08-17-game3::DN SOOPers": 3
+    "lol-t1-dnf-2026-08-17-game3::DN SOOPers": 3,
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 1
   },
-  "updated_at": "2026-08-17T17:39:03.324364+00:00"
+  "updated_at": "2026-08-17T18:03:13.608829+00:00"
 }
