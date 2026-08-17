@@ -1,8 +1,128 @@
 {
   "seen_ids": [
-    "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers"
+    "lol-t1-dnf-2026-08-17::T1",
+    "lol-t1-dnf-2026-08-17-game1::T1",
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers"
   ],
   "signals": [
+    {
+      "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "slug": "lol-t1-dnf-2026-08-17",
+      "outcome": "T1",
+      "num_traders": 5,
+      "total_value": 175986.23,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.2879,
+          "value": 144347.08,
+          "avg_price": 0.39,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "thecomplicatedguy",
+          "roi": 0.3729,
+          "value": 21071.61,
+          "avg_price": 0.3916,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1884,
+          "value": 8142.72,
+          "avg_price": 0.49,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "theodyssey",
+          "roi": 0.2012,
+          "value": 2295.24,
+          "avg_price": 0.3937,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "pauleta23",
+          "roi": 0.2094,
+          "value": 129.58,
+          "avg_price": 0.4979,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 1 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game1",
+      "outcome": "T1",
+      "num_traders": 4,
+      "total_value": 234165.42,
+      "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.2879,
+          "value": 219034.32,
+          "avg_price": 0.543,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "theodyssey",
+          "roi": 0.2012,
+          "value": 9994.93,
+          "avg_price": 0.4083,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1884,
+          "value": 4817.1,
+          "avg_price": 0.6376,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "pauleta23",
+          "roi": 0.2094,
+          "value": 319.07,
+          "avg_price": 0.5773,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 4,
+      "total_value": 4658.41,
+      "holders": [
+        {
+          "trader": "xytest",
+          "roi": 0.1884,
+          "value": 2080.32,
+          "avg_price": 0.4199,
+          "cur_price": 0.23
+        },
+        {
+          "trader": "IMAREALPERSON",
+          "roi": 1.2469,
+          "value": 1282.05,
+          "avg_price": 0.4354,
+          "cur_price": 0.23
+        },
+        {
+          "trader": "theodyssey",
+          "roi": 0.2012,
+          "value": 759.09,
+          "avg_price": 0.4319,
+          "cur_price": 0.23
+        },
+        {
+          "trader": "pauleta23",
+          "roi": 0.2094,
+          "value": 536.95,
+          "avg_price": 0.5895,
+          "cur_price": 0.23
+        }
+      ]
+    },
     {
       "market": "LoL: Dplus KIA Challengers vs KT Rolster Challengers - Game 1 Winner",
       "slug": "lol-dkc-ktc-2026-08-17-game1",
@@ -795,8 +915,8 @@
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
-    "lol-t1-dnf-2026-08-17::T1": 3,
-    "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 1
+    "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 2,
+    "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers": 1
   },
-  "updated_at": "2026-08-17T10:16:59.840310+00:00"
+  "updated_at": "2026-08-17T10:52:27.049317+00:00"
 }
