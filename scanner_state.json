@@ -1,7 +1,9 @@
 {
   "seen_ids": [
     "lol-t1-dnf-2026-08-17::DN SOOPers",
+    "lol-navi-th-2026-08-17-game1::Natus Vincere",
     "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
+    "lol-navi-th-2026-08-17::Natus Vincere",
     "lol-t1-dnf-2026-08-17-game4::DN SOOPers"
   ],
   "signals": [
@@ -14,7 +16,7 @@
       "holders": [
         {
           "trader": "BrotherObama",
-          "roi": 0.4081,
+          "roi": 0.2656,
           "value": 82027.69,
           "avg_price": 0.3953,
           "cur_price": 0.9995
@@ -28,23 +30,60 @@
         },
         {
           "trader": "Uniform123",
-          "roi": 0.4109,
+          "roi": 0.4085,
           "value": 25744.43,
           "avg_price": 0.4635,
           "cur_price": 0.9995
         },
         {
           "trader": "minji",
-          "roi": 0.1532,
+          "roi": 0.1666,
           "value": 11279.6,
           "avg_price": 0.6199,
           "cur_price": 0.9995
         },
         {
           "trader": "xytest",
-          "roi": 0.1843,
+          "roi": 0.1789,
           "value": 8430.29,
           "avg_price": 0.6332,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
+      "slug": "lol-navi-th-2026-08-17-game1",
+      "outcome": "Natus Vincere",
+      "num_traders": 4,
+      "total_value": 38607.53,
+      "holders": [
+        {
+          "trader": "BajaBlaster",
+          "roi": 0.2298,
+          "value": 15248.56,
+          "avg_price": 0.6628,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.1979,
+          "value": 14420.65,
+          "avg_price": 0.6199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1666,
+          "value": 8001.03,
+          "avg_price": 0.6355,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1789,
+          "value": 937.29,
+          "avg_price": 0.6475,
           "cur_price": 0.9995
         }
       ]
@@ -58,28 +97,28 @@
       "holders": [
         {
           "trader": "minji",
-          "roi": 0.1532,
+          "roi": 0.1666,
           "value": 9515.77,
           "avg_price": 0.4239,
           "cur_price": 0.9995
         },
         {
           "trader": "xytest",
-          "roi": 0.1843,
+          "roi": 0.1789,
           "value": 9040.33,
           "avg_price": 0.4199,
           "cur_price": 0.9995
         },
         {
           "trader": "IMAREALPERSON",
-          "roi": 1.031,
+          "roi": 0.778,
           "value": 5359.89,
           "avg_price": 0.4754,
           "cur_price": 0.9995
         },
         {
           "trader": "MaoZeDonK",
-          "roi": 0.3081,
+          "roi": 0.2448,
           "value": 184.64,
           "avg_price": 0.5413,
           "cur_price": 0.9995
@@ -87,38 +126,61 @@
       ]
     },
     {
+      "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season",
+      "slug": "lol-navi-th-2026-08-17",
+      "outcome": "Natus Vincere",
+      "num_traders": 3,
+      "total_value": 44160.62,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.1979,
+          "value": 32256.71,
+          "avg_price": 0.6899,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1789,
+          "value": 6499.24,
+          "avg_price": 0.7011,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1666,
+          "value": 5404.67,
+          "avg_price": 0.7,
+          "cur_price": 0.9945
+        }
+      ]
+    },
+    {
       "market": "LoL: T1 vs DN SOOPers - Game 4 Winner",
       "slug": "lol-t1-dnf-2026-08-17-game4",
       "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 20159.6,
+      "num_traders": 3,
+      "total_value": 19544.75,
       "holders": [
         {
           "trader": "MaoZeDonK",
-          "roi": 0.3081,
+          "roi": 0.2448,
           "value": 10301.01,
           "avg_price": 0.6016,
           "cur_price": 0.9995
         },
         {
           "trader": "minji",
-          "roi": 0.1532,
+          "roi": 0.1666,
           "value": 5890.64,
           "avg_price": 0.699,
           "cur_price": 0.9995
         },
         {
           "trader": "xytest",
-          "roi": 0.1843,
+          "roi": 0.1789,
           "value": 3353.1,
           "avg_price": 0.6806,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GreenBerry1337",
-          "roi": 0.1735,
-          "value": 614.85,
-          "avg_price": 0.6099,
           "cur_price": 0.9995
         }
       ]
@@ -855,5 +917,5 @@
     "lol-t1-dnf-2026-08-17-game3::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::DN SOOPers": 3
   },
-  "updated_at": "2026-08-17T16:00:38.968136+00:00"
+  "updated_at": "2026-08-17T16:38:43.077228+00:00"
 }
