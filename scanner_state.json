@@ -1,12 +1,193 @@
 {
   "seen_ids": [
-    "lol-navi-th-2026-08-17::Natus Vincere",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "lol-gx-kc-2026-08-17-game2::Karmine Corp",
-    "lol-navi-th-2026-08-17-game1::Natus Vincere",
     "lol-gx-kc-2026-08-17-game1::Karmine Corp",
-    "lol-gx-kc-2026-08-17::Karmine Corp"
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
+    "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes"
   ],
   "signals": [
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 508267.46,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2128,
+          "value": 505375.57,
+          "avg_price": 0.7933,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0751,
+          "value": 2341.61,
+          "avg_price": 0.5678,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2108,
+          "value": 550.28,
+          "avg_price": 0.5,
+          "cur_price": 0.8515
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 248687.72,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2128,
+          "value": 244099.15,
+          "avg_price": 0.4264,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0751,
+          "value": 3687.49,
+          "avg_price": 0.5079,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2108,
+          "value": 901.08,
+          "avg_price": 0.5012,
+          "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game2",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 26005.4,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.1681,
+          "value": 14992.48,
+          "avg_price": 0.77,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1839,
+          "value": 5997,
+          "avg_price": 0.8249,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.171,
+          "value": 5015.92,
+          "avg_price": 0.8278,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
+      "slug": "lol-gx-kc-2026-08-17-game1",
+      "outcome": "Karmine Corp",
+      "num_traders": 3,
+      "total_value": 19887.6,
+      "holders": [
+        {
+          "trader": "GreenBerry1337",
+          "roi": 0.1681,
+          "value": 11967.71,
+          "avg_price": 0.7523,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.171,
+          "value": 4921.39,
+          "avg_price": 0.8054,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xytest",
+          "roi": 0.1839,
+          "value": 2998.5,
+          "avg_price": 0.77,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7319.25,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2128,
+          "value": 4425.12,
+          "avg_price": 0.7533,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2108,
+          "value": 1919.15,
+          "avg_price": 0.5058,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4964,
+          "value": 974.98,
+          "avg_price": 0.5,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2789.45,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2108,
+          "value": 1358.99,
+          "avg_price": 0.4973,
+          "cur_price": 0.5295
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 1.0751,
+          "value": 1058.99,
+          "avg_price": 0.1299,
+          "cur_price": 0.5295
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4964,
+          "value": 371.47,
+          "avg_price": 0.4972,
+          "cur_price": 0.5295
+        }
+      ]
+    },
     {
       "market": "LoL: Natus Vincere vs Team Heretics (BO3) - LEC Regular Season",
       "slug": "lol-navi-th-2026-08-17",
@@ -45,36 +226,6 @@
       ]
     },
     {
-      "market": "LoL: GIANTX vs Karmine Corp - Game 2 Winner",
-      "slug": "lol-gx-kc-2026-08-17-game2",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 26005.4,
-      "holders": [
-        {
-          "trader": "GreenBerry1337",
-          "roi": 0.163,
-          "value": 14992.48,
-          "avg_price": 0.77,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1807,
-          "value": 5997,
-          "avg_price": 0.8249,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1684,
-          "value": 5015.92,
-          "avg_price": 0.8278,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "LoL: Natus Vincere vs Team Heretics - Game 1 Winner",
       "slug": "lol-navi-th-2026-08-17-game1",
       "outcome": "Natus Vincere",
@@ -100,36 +251,6 @@
           "roi": 0.1807,
           "value": 937.29,
           "avg_price": 0.6475,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: GIANTX vs Karmine Corp - Game 1 Winner",
-      "slug": "lol-gx-kc-2026-08-17-game1",
-      "outcome": "Karmine Corp",
-      "num_traders": 3,
-      "total_value": 19887.6,
-      "holders": [
-        {
-          "trader": "GreenBerry1337",
-          "roi": 0.163,
-          "value": 11967.71,
-          "avg_price": 0.7523,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "minji",
-          "roi": 0.1684,
-          "value": 4921.39,
-          "avg_price": 0.8054,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1807,
-          "value": 2998.5,
-          "avg_price": 0.77,
           "cur_price": 0.9995
         }
       ]
@@ -248,43 +369,6 @@
           "roi": 0.1522,
           "value": 614.85,
           "avg_price": 0.6099,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
-      "slug": "lol-t1-dnf-2026-08-17-game2",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 24100.63,
-      "holders": [
-        {
-          "trader": "minji",
-          "roi": 0.1619,
-          "value": 9515.77,
-          "avg_price": 0.4239,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "xytest",
-          "roi": 0.1758,
-          "value": 9040.33,
-          "avg_price": 0.4199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 0.5272,
-          "value": 5359.89,
-          "avg_price": 0.4754,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MaoZeDonK",
-          "roi": 0.2209,
-          "value": 184.64,
-          "avg_price": 0.5413,
           "cur_price": 0.9995
         }
       ]
@@ -471,7 +555,6 @@
     "will-lebron-james-play-for-the-miami-heat-in-2026-27::Yes": 3,
     "mlb-min-cle-2026-07-23-spread-home-1pt5::Cleveland Guardians": 3,
     "val-gm-navi1-2026-07-23::Gentle Mates": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-1-fed-rate-cut-happen-in-2026::Yes": 3,
     "mlb-ari-stl-2026-06-25::St. Louis Cardinals": 3,
     "mlb-ari-stl-2026-06-25-total-8pt5::Under": 3,
@@ -515,7 +598,6 @@
     "lol-t1-kt-2026-07-29-game2::KT Rolster": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::No": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting::Yes": 3,
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-july-2026-meeting::Yes": 3,
     "mlb-ari-pit-2026-07-29-total-8pt5::Under": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting::Yes": 3,
@@ -807,7 +889,6 @@
     "will-the-new-york-yankees-win-the-2026-world-series::Yes": 3,
     "will-tampa-bay-rays-win-the-2026-american-league-championship-series::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::No": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-carlos-alcaraz-win-the-2026-mens-us-open::Yes": 3,
     "will-renan-santos-win-the-2026-brazilian-presidential-election::No": 3,
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
@@ -1020,9 +1101,12 @@
     "lol-t1-dnf-2026-08-17::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::T1": 3,
     "lol-t1-dnf-2026-08-17-game3::DN SOOPers": 3,
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 2,
-    "lol-t1-dnf-2026-08-17::DN SOOPers": 1,
-    "lol-t1-dnf-2026-08-17-game4::DN SOOPers": 1
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers": 3,
+    "lol-t1-dnf-2026-08-17::DN SOOPers": 2,
+    "lol-t1-dnf-2026-08-17-game4::DN SOOPers": 2,
+    "lol-navi-th-2026-08-17::Natus Vincere": 1,
+    "lol-navi-th-2026-08-17-game1::Natus Vincere": 1,
+    "lol-gx-kc-2026-08-17::Karmine Corp": 1
   },
-  "updated_at": "2026-08-17T18:54:16.762333+00:00"
+  "updated_at": "2026-08-17T19:25:51.706919+00:00"
 }
