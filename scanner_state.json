@@ -1,80 +1,118 @@
 {
   "seen_ids": [
+    "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
     "lol-t1-dnf-2026-08-17::T1",
-    "lol-t1-dnf-2026-08-17-game2::DN SOOPers"
+    "lol-t1-dnf-2026-08-17-game3::T1"
   ],
   "signals": [
+    {
+      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 5,
+      "total_value": 18843.64,
+      "holders": [
+        {
+          "trader": "theodyssey",
+          "roi": 0.1969,
+          "value": 5910.41,
+          "avg_price": 0.431,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1571,
+          "value": 5795.22,
+          "avg_price": 0.6599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "IMAREALPERSON",
+          "roi": 1.0375,
+          "value": 5359.89,
+          "avg_price": 0.4754,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Arisham",
+          "roi": 0.2949,
+          "value": 1593.48,
+          "avg_price": 0.4859,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MaoZeDonK",
+          "roi": 0.3896,
+          "value": 184.64,
+          "avg_price": 0.5413,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-t1-dnf-2026-08-17",
       "outcome": "T1",
       "num_traders": 4,
-      "total_value": 134520.6,
+      "total_value": 86958.79,
       "holders": [
         {
           "trader": "111111111115",
           "roi": 0.3622,
-          "value": 113213.4,
+          "value": 72645.26,
           "avg_price": 0.39,
-          "cur_price": 0.6
+          "cur_price": 0.385
         },
         {
           "trader": "thecomplicatedguy",
           "roi": 0.485,
-          "value": 16526.75,
+          "value": 10604.67,
           "avg_price": 0.3916,
-          "cur_price": 0.6
+          "cur_price": 0.385
         },
         {
           "trader": "theodyssey",
           "roi": 0.1969,
-          "value": 3000.19,
-          "avg_price": 0.3922,
-          "cur_price": 0.6
+          "value": 2566.53,
+          "avg_price": 0.3891,
+          "cur_price": 0.385
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
           "roi": 0.1571,
-          "value": 1780.26,
+          "value": 1142.33,
           "avg_price": 0.5556,
-          "cur_price": 0.6
+          "cur_price": 0.385
         }
       ]
     },
     {
-      "market": "LoL: T1 vs DN SOOPers - Game 2 Winner",
-      "slug": "lol-t1-dnf-2026-08-17-game2",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 9427.51,
+      "market": "LoL: T1 vs DN SOOPers - Game 3 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game3",
+      "outcome": "T1",
+      "num_traders": 3,
+      "total_value": 85995.04,
       "holders": [
+        {
+          "trader": "111111111115",
+          "roi": 0.3622,
+          "value": 51871.39,
+          "avg_price": 0.3199,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1506,
+          "value": 29642.75,
+          "avg_price": 0.3211,
+          "cur_price": 0.445
+        },
         {
           "trader": "theodyssey",
           "roi": 0.1969,
-          "value": 2986.25,
-          "avg_price": 0.431,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1571,
-          "value": 2928.05,
-          "avg_price": 0.6599,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 1.0375,
-          "value": 2708.1,
-          "avg_price": 0.4754,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Arisham",
-          "roi": 0.2949,
-          "value": 805.11,
-          "avg_price": 0.4859,
-          "cur_price": 0.505
+          "value": 4480.9,
+          "avg_price": 0.3965,
+          "cur_price": 0.445
         }
       ]
     },
@@ -842,7 +880,7 @@
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
     "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 3,
     "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers": 3,
-    "lol-t1-dnf-2026-08-17-game1::T1": 1
+    "lol-t1-dnf-2026-08-17-game1::T1": 2
   },
-  "updated_at": "2026-08-17T11:45:48.301457+00:00"
+  "updated_at": "2026-08-17T12:03:15.610229+00:00"
 }

@@ -16517,14 +16517,14 @@
       "slug": "lol-t1-dnf-2026-08-17",
       "side": "T1",
       "alerted_at": "2026-08-17T10:52:27.034456+00:00",
-      "last_seen": "2026-08-17T11:45:48.286616+00:00",
+      "last_seen": "2026-08-17T12:03:15.595266+00:00",
       "entry_price": 0.765,
-      "current_price": 0.6,
+      "current_price": 0.385,
       "stake": 100.0,
       "shares": 130.718954,
-      "current_value": 78.43,
-      "paper_pnl": -21.57,
-      "return_percent": -21.57,
+      "current_value": 50.33,
+      "paper_pnl": -49.67,
+      "return_percent": -49.67,
       "status": "OPEN",
       "num_traders": 5,
       "combined_value": 175986.23,
@@ -16551,7 +16551,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 234165.42,
       "traders": [
@@ -16560,7 +16560,8 @@
         "xytest",
         "pauleta23"
       ],
-      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game1"
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game1",
+      "consensus_lost_at": "2026-08-17T12:03:15.595266+00:00"
     },
     {
       "signal_id": "lol-t1-dnf-2026-08-17-game2::DN SOOPers",
@@ -16568,14 +16569,14 @@
       "slug": "lol-t1-dnf-2026-08-17-game2",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-17T10:52:27.034456+00:00",
-      "last_seen": "2026-08-17T11:45:48.286616+00:00",
+      "last_seen": "2026-08-17T12:03:15.595266+00:00",
       "entry_price": 0.23,
-      "current_price": 0.505,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 434.782609,
-      "current_value": 219.57,
-      "paper_pnl": 119.57,
-      "return_percent": 119.57,
+      "current_value": 434.57,
+      "paper_pnl": 334.57,
+      "return_percent": 334.57,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 4658.41,
@@ -16586,7 +16587,31 @@
         "pauleta23"
       ],
       "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game2"
+    },
+    {
+      "signal_id": "lol-t1-dnf-2026-08-17-game3::T1",
+      "market": "LoL: T1 vs DN SOOPers - Game 3 Winner",
+      "slug": "lol-t1-dnf-2026-08-17-game3",
+      "side": "T1",
+      "alerted_at": "2026-08-17T12:03:15.595266+00:00",
+      "last_seen": "2026-08-17T12:03:15.595266+00:00",
+      "entry_price": 0.445,
+      "current_price": 0.445,
+      "stake": 100.0,
+      "shares": 224.719101,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 85995.04,
+      "traders": [
+        "111111111115",
+        "Lakersfan111",
+        "theodyssey"
+      ],
+      "url": "https://polymarket.com/event/lol-t1-dnf-2026-08-17-game3"
     }
   ],
-  "updated_at": "2026-08-17T11:45:48.286616+00:00"
+  "updated_at": "2026-08-17T12:03:15.595266+00:00"
 }
