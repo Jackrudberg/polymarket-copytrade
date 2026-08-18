@@ -5126,7 +5126,7 @@
       "current_value": 132.28,
       "paper_pnl": 32.28,
       "return_percent": 32.28,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1681.72,
       "traders": [
@@ -5135,7 +5135,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-08-17T06:03:30.187427+00:00"
+      "consensus_lost_at": "2026-08-18T23:18:22.819437+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-27::Miami Marlins",
@@ -17623,14 +17623,14 @@
       "slug": "atp-faria-walton-2026-08-18",
       "side": "Jaime Faria",
       "alerted_at": "2026-08-18T21:36:38.358229+00:00",
-      "last_seen": "2026-08-18T22:53:39.183369+00:00",
+      "last_seen": "2026-08-18T23:18:22.819437+00:00",
       "entry_price": 0.575,
-      "current_price": 0.515,
+      "current_price": 0.77,
       "stake": 100.0,
       "shares": 173.913043,
-      "current_value": 89.57,
-      "paper_pnl": -10.43,
-      "return_percent": -10.43,
+      "current_value": 133.91,
+      "paper_pnl": 33.91,
+      "return_percent": 33.91,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 18895.67,
@@ -17655,7 +17655,7 @@
       "current_value": 101.77,
       "paper_pnl": 1.77,
       "return_percent": 1.77,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 9515.03,
       "traders": [
@@ -17663,7 +17663,8 @@
         "SDTrading",
         "0F62"
       ],
-      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18"
+      "url": "https://polymarket.com/event/mlb-atl-min-2026-08-18",
+      "consensus_lost_at": "2026-08-18T23:18:22.819437+00:00"
     },
     {
       "signal_id": "atp-tien-tiafoe-2026-08-18::Learner Tien",
@@ -17671,7 +17672,7 @@
       "slug": "atp-tien-tiafoe-2026-08-18",
       "side": "Learner Tien",
       "alerted_at": "2026-08-18T22:53:39.183369+00:00",
-      "last_seen": "2026-08-18T22:53:39.183369+00:00",
+      "last_seen": "2026-08-18T23:18:22.819437+00:00",
       "entry_price": 0.535,
       "current_price": 0.535,
       "stake": 100.0,
@@ -17688,7 +17689,31 @@
         "kingflop"
       ],
       "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18"
+    },
+    {
+      "signal_id": "mlb-det-pit-2026-08-18::Detroit Tigers",
+      "market": "Detroit Tigers vs. Pittsburgh Pirates",
+      "slug": "mlb-det-pit-2026-08-18",
+      "side": "Detroit Tigers",
+      "alerted_at": "2026-08-18T23:18:22.819437+00:00",
+      "last_seen": "2026-08-18T23:18:22.819437+00:00",
+      "entry_price": 0.435,
+      "current_price": 0.435,
+      "stake": 100.0,
+      "shares": 229.885057,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 41925.08,
+      "traders": [
+        "SDTrading",
+        "wr0ngw4yb3tt0r",
+        "sbsigner"
+      ],
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T22:53:39.183369+00:00"
+  "updated_at": "2026-08-18T23:18:22.819437+00:00"
 }

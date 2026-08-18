@@ -1,8 +1,8 @@
 {
   "seen_ids": [
     "atp-faria-walton-2026-08-18::Jaime Faria",
-    "atp-tien-tiafoe-2026-08-18::Learner Tien",
-    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova"
+    "mlb-det-pit-2026-08-18::Detroit Tigers",
+    "atp-tien-tiafoe-2026-08-18::Learner Tien"
   ],
   "signals": [
     {
@@ -10,28 +10,58 @@
       "slug": "atp-faria-walton-2026-08-18",
       "outcome": "Jaime Faria",
       "num_traders": 3,
-      "total_value": 26012.19,
+      "total_value": 50825.79,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
           "roi": 0.1714,
-          "value": 18006.34,
-          "avg_price": 0.5039,
-          "cur_price": 0.515
+          "value": 38855.88,
+          "avg_price": 0.466,
+          "cur_price": 0.77
         },
         {
           "trader": "dv-pm",
           "roi": 0.2404,
-          "value": 7285.7,
+          "value": 10893.19,
           "avg_price": 0.5699,
-          "cur_price": 0.515
+          "cur_price": 0.77
         },
         {
           "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
           "roi": 0.2578,
-          "value": 720.15,
+          "value": 1076.72,
           "avg_price": 0.5699,
-          "cur_price": 0.515
+          "cur_price": 0.77
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Pittsburgh Pirates",
+      "slug": "mlb-det-pit-2026-08-18",
+      "outcome": "Detroit Tigers",
+      "num_traders": 3,
+      "total_value": 41925.08,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.7023,
+          "value": 21750,
+          "avg_price": 0.42,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3034,
+          "value": 18368.61,
+          "avg_price": 0.4082,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3656,
+          "value": 1806.47,
+          "avg_price": 0.3899,
+          "cur_price": 0.435
         }
       ]
     },
@@ -40,12 +70,12 @@
       "slug": "atp-tien-tiafoe-2026-08-18",
       "outcome": "Learner Tien",
       "num_traders": 3,
-      "total_value": 3226.9,
+      "total_value": 6178.85,
       "holders": [
         {
           "trader": "Greedo",
           "roi": 0.3581,
-          "value": 2398.03,
+          "value": 5349.98,
           "avg_price": 0.53,
           "cur_price": 0.535
         },
@@ -152,50 +182,6 @@
           "value": 198.28,
           "avg_price": 0.5699,
           "cur_price": 0.575
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-      "slug": "atp-nakashi-medvede-2026-08-18",
-      "outcome": "Brandon Nakashima",
-      "num_traders": 5,
-      "total_value": 190334.81,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1569,
-          "value": 156388.26,
-          "avg_price": 0.6264,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2339,
-          "value": 16048.28,
-          "avg_price": 0.4405,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2011,
-          "value": 14268.86,
-          "avg_price": 0.43,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1769,
-          "value": 2580.93,
-          "avg_price": 0.424,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.2597,
-          "value": 1048.48,
-          "avg_price": 0.4299,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -973,9 +959,10 @@
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "ucl-fen-lyo-2026-08-18-fen::No": 3,
     "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 3,
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 2,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
-    "mlb-atl-min-2026-08-18::Atlanta Braves": 1
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "mlb-atl-min-2026-08-18::Atlanta Braves": 2,
+    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 1
   },
-  "updated_at": "2026-08-18T22:53:39.195798+00:00"
+  "updated_at": "2026-08-18T23:18:22.830995+00:00"
 }
