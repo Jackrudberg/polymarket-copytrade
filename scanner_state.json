@@ -1,6 +1,107 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-cws-chc-2026-08-17::Chicago Cubs",
+    "wta-eala-anisimo-2026-08-17::Alexandra Eala",
+    "wnba-dal-gsv-2026-08-17::Dallas Wings"
+  ],
   "signals": [
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs",
+      "slug": "mlb-cws-chc-2026-08-17",
+      "outcome": "Chicago Cubs",
+      "num_traders": 4,
+      "total_value": 10772.33,
+      "holders": [
+        {
+          "trader": "jarosbill",
+          "roi": 0.2214,
+          "value": 3655.15,
+          "avg_price": 0.6619,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.2597,
+          "value": 3525,
+          "avg_price": 0.59,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2102,
+          "value": 2708.4,
+          "avg_price": 0.5249,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3721,
+          "value": 883.78,
+          "avg_price": 0.5652,
+          "cur_price": 0.235
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+      "slug": "wta-eala-anisimo-2026-08-17",
+      "outcome": "Alexandra Eala",
+      "num_traders": 3,
+      "total_value": 11398.77,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.191,
+          "value": 7784.3,
+          "avg_price": 0.47,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2102,
+          "value": 2874.85,
+          "avg_price": 0.4799,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2131,
+          "value": 739.62,
+          "avg_price": 0.4579,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Dallas Wings vs. Golden State Valkyries",
+      "slug": "wnba-dal-gsv-2026-08-17",
+      "outcome": "Dallas Wings",
+      "num_traders": 3,
+      "total_value": 3503.45,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3721,
+          "value": 1666.91,
+          "avg_price": 0.2992,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.2597,
+          "value": 1425.0,
+          "avg_price": 0.2856,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2131,
+          "value": 411.54,
+          "avg_price": 0.3008,
+          "cur_price": 0.285
+        }
+      ]
+    },
     {
       "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
       "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
@@ -88,36 +189,6 @@
           "value": 466.87,
           "avg_price": 0.2934,
           "cur_price": 0.105
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7480.27,
-      "holders": [
-        {
-          "trader": "RememberAmalek",
-          "roi": 1.2729,
-          "value": 6379.02,
-          "avg_price": 0.3444,
-          "cur_price": 0.3135
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2391,
-          "value": 850.44,
-          "avg_price": 0.4933,
-          "cur_price": 0.3135
-        },
-        {
-          "trader": "betterfasterstronger",
-          "roi": 0.2014,
-          "value": 250.81,
-          "avg_price": 0.0312,
-          "cur_price": 0.3135
         }
       ]
     }
@@ -858,10 +929,10 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "wta-cirstea-kalinsk-2026-08-17::Anna Kalinskaya": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1,
-    "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes": 1,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 1
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
+    "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes": 2,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 2
   },
-  "updated_at": "2026-08-18T01:58:57.621438+00:00"
+  "updated_at": "2026-08-18T03:03:35.163957+00:00"
 }
