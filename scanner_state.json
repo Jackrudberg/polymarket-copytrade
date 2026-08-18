@@ -1,11 +1,69 @@
 {
   "seen_ids": [
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "wta-tjen-andreev-2026-08-18::Janice Tjen"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 70711.59,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.1607,
+          "value": 62465.21,
+          "avg_price": 0.6666,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3811,
+          "value": 7863.53,
+          "avg_price": 0.4846,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3733,
+          "value": 382.85,
+          "avg_price": 0.5,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+      "slug": "wta-tjen-andreev-2026-08-18",
+      "outcome": "Janice Tjen",
+      "num_traders": 3,
+      "total_value": 4208.64,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1808,
+          "value": 2671.69,
+          "avg_price": 0.0799,
+          "cur_price": 0.0685
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.4748,
+          "value": 803.04,
+          "avg_price": 0.12,
+          "cur_price": 0.0685
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.3125,
+          "value": 733.91,
+          "avg_price": 0.13,
+          "cur_price": 0.0685
+        }
+      ]
+    },
     {
       "market": "Will no Fed rate cuts happen in 2026?",
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
@@ -67,66 +125,6 @@
       ]
     },
     {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 70711.59,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.4894,
-          "value": 62465.21,
-          "avg_price": 0.6666,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3845,
-          "value": 7863.53,
-          "avg_price": 0.4846,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4571,
-          "value": 382.85,
-          "avg_price": 0.5,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
-      "slug": "wta-tjen-andreev-2026-08-18",
-      "outcome": "Janice Tjen",
-      "num_traders": 3,
-      "total_value": 3779.31,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1892,
-          "value": 2535.18,
-          "avg_price": 0.0799,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.5657,
-          "value": 762.0,
-          "avg_price": 0.12,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2902,
-          "value": 482.13,
-          "avg_price": 0.13,
-          "cur_price": 0.045
-        }
-      ]
-    },
-    {
       "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
       "slug": "atp-rublev-borges-2026-08-18",
       "outcome": "Nuno Borges",
@@ -153,103 +151,6 @@
           "value": 5674.31,
           "avg_price": 0.36,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
-      "slug": "atp-rublev-borges-2026-08-18",
-      "outcome": "Andrey Rublev",
-      "num_traders": 4,
-      "total_value": 69860.2,
-      "holders": [
-        {
-          "trader": "Kulilun",
-          "roi": 0.3761,
-          "value": 43924.69,
-          "avg_price": 0.6337,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1894,
-          "value": 12165.72,
-          "avg_price": 0.3943,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.6059,
-          "value": 11125,
-          "avg_price": 0.64,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1662,
-          "value": 2644.79,
-          "avg_price": 0.3998,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "slug": "lol-genga-bro1-2026-08-18",
-      "outcome": "HANJIN BRION Challengers",
-      "num_traders": 3,
-      "total_value": 31413.74,
-      "holders": [
-        {
-          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.2067,
-          "value": 14992.22,
-          "avg_price": 0.6602,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3566,
-          "value": 9295.34,
-          "avg_price": 0.6666,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1894,
-          "value": 7126.18,
-          "avg_price": 0.6749,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 22156.3,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1894,
-          "value": 13164.91,
-          "avg_price": 0.4899,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4005,
-          "value": 8577.77,
-          "avg_price": 0.5,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1662,
-          "value": 413.62,
-          "avg_price": 0.514,
-          "cur_price": 0.475
         }
       ]
     }
@@ -1018,10 +919,12 @@
     "wnba-la-conn-2026-08-18-total-170pt5::Over": 3,
     "mlb-oak-kc-2026-08-18::Kansas City Royals": 3,
     "lol-ns-dnf-2026-08-18::DN SOOPers": 3,
-    "atp-rublev-borges-2026-08-18::Andrey Rublev": 2,
-    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 2,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
-    "atp-rublev-borges-2026-08-18::Nuno Borges": 1
+    "atp-rublev-borges-2026-08-18::Andrey Rublev": 3,
+    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 3,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
+    "atp-rublev-borges-2026-08-18::Nuno Borges": 2,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1
   },
-  "updated_at": "2026-08-18T17:13:31.378736+00:00"
+  "updated_at": "2026-08-18T17:46:45.334949+00:00"
 }

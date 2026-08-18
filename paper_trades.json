@@ -7957,7 +7957,7 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-18T17:13:31.362696+00:00",
+      "last_seen": "2026-08-18T17:46:45.319421+00:00",
       "entry_price": 0.425,
       "current_price": 0.705,
       "stake": 100.0,
@@ -17356,7 +17356,7 @@
       "current_value": 273.84,
       "paper_pnl": 173.84,
       "return_percent": 173.84,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 22629.38,
       "traders": [
@@ -17364,7 +17364,8 @@
         "kingflop",
         "sentrio"
       ],
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18"
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "consensus_lost_at": "2026-08-18T17:46:45.319421+00:00"
     },
     {
       "signal_id": "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers",
@@ -17497,14 +17498,14 @@
       "slug": "wta-tjen-andreev-2026-08-18",
       "side": "Janice Tjen",
       "alerted_at": "2026-08-18T17:13:31.362696+00:00",
-      "last_seen": "2026-08-18T17:13:31.362696+00:00",
+      "last_seen": "2026-08-18T17:46:45.319421+00:00",
       "entry_price": 0.062449,
-      "current_price": 0.062449,
+      "current_price": 0.0685,
       "stake": 100.0,
       "shares": 1601.317388,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 109.69,
+      "paper_pnl": 9.69,
+      "return_percent": 9.69,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 3779.31,
@@ -17516,5 +17517,5 @@
       "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T17:13:31.362696+00:00"
+  "updated_at": "2026-08-18T17:46:45.319421+00:00"
 }
