@@ -1,42 +1,111 @@
 {
   "seen_ids": [
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima"
+    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima",
+    "ucl-fen-lyo-2026-08-18-fen::No"
   ],
   "signals": [
     {
       "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
       "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Daniil Medvedev",
+      "num_traders": 4,
+      "total_value": 216365.84,
+      "holders": [
+        {
+          "trader": "TennisLove",
+          "roi": 0.6391,
+          "value": 121744.47,
+          "avg_price": 0.5584,
+          "cur_price": 0.8705
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.2573,
+          "value": 37652.79,
+          "avg_price": 0.5779,
+          "cur_price": 0.8705
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1606,
+          "value": 34046.32,
+          "avg_price": 0.5274,
+          "cur_price": 0.8705
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.2264,
+          "value": 22922.26,
+          "avg_price": 0.5696,
+          "cur_price": 0.8705
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
       "outcome": "Brandon Nakashima",
       "num_traders": 4,
-      "total_value": 23296.19,
+      "total_value": 12439.57,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1705,
-          "value": 12935.43,
+          "roi": 0.1606,
+          "value": 8375.69,
           "avg_price": 0.4586,
-          "cur_price": 0.2
-        },
-        {
-          "trader": "0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719",
-          "roi": 0.1825,
-          "value": 4294.3,
-          "avg_price": 0.652,
-          "cur_price": 0.2
+          "cur_price": 0.1295
         },
         {
           "trader": "kingflop",
-          "roi": 0.3371,
-          "value": 3211.26,
+          "roi": 0.2374,
+          "value": 2079.29,
           "avg_price": 0.4405,
-          "cur_price": 0.2
+          "cur_price": 0.1295
         },
         {
           "trader": "dv-pm",
-          "roi": 0.2469,
-          "value": 2855.2,
+          "roi": 0.1766,
+          "value": 1848.74,
           "avg_price": 0.43,
-          "cur_price": 0.2
+          "cur_price": 0.1295
+        },
+        {
+          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+          "roi": 0.1736,
+          "value": 135.85,
+          "avg_price": 0.4299,
+          "cur_price": 0.1295
+        }
+      ]
+    },
+    {
+      "market": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
+      "slug": "ucl-fen-lyo-2026-08-18-fen",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 79739.49,
+      "holders": [
+        {
+          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+          "roi": 0.1736,
+          "value": 42945.03,
+          "avg_price": 0.5122,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "cnyek",
+          "roi": 0.1593,
+          "value": 30549.11,
+          "avg_price": 0.5457,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.1766,
+          "value": 6245.35,
+          "avg_price": 0.52,
+          "cur_price": 0.855
         }
       ]
     }
@@ -812,8 +881,7 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "wta-tjen-andreev-2026-08-18::Janice Tjen": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
-    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 3
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 3
   },
-  "updated_at": "2026-08-18T20:21:08.089420+00:00"
+  "updated_at": "2026-08-18T20:45:41.736804+00:00"
 }
