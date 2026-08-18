@@ -7965,7 +7965,7 @@
       "current_value": 165.88,
       "paper_pnl": 65.88,
       "return_percent": 65.88,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14848.81,
       "traders": [
@@ -7974,7 +7974,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "consensus_lost_at": "2026-08-18T07:48:11.580455+00:00"
+      "consensus_lost_at": "2026-08-18T19:35:17.816423+00:00"
     },
     {
       "signal_id": "cs2-mouzn-mis-2026-08-03::MOUZ NXT",
@@ -17148,14 +17148,14 @@
       "slug": "atp-nakashi-medvede-2026-08-18",
       "side": "Brandon Nakashima",
       "alerted_at": "2026-08-18T05:42:11.579573+00:00",
-      "last_seen": "2026-08-18T19:01:19.287117+00:00",
+      "last_seen": "2026-08-18T19:35:17.816423+00:00",
       "entry_price": 0.425,
-      "current_price": 0.485,
+      "current_price": 0.695,
       "stake": 100.0,
       "shares": 235.294118,
-      "current_value": 114.12,
-      "paper_pnl": 14.12,
-      "return_percent": 14.12,
+      "current_value": 163.53,
+      "paper_pnl": 63.53,
+      "return_percent": 63.53,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10616.81,
@@ -17506,7 +17506,7 @@
       "current_value": 120.9,
       "paper_pnl": 20.9,
       "return_percent": 20.9,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3779.31,
       "traders": [
@@ -17514,7 +17514,8 @@
         "kingflop",
         "dv-pm"
       ],
-      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18"
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18",
+      "consensus_lost_at": "2026-08-18T19:35:17.816423+00:00"
     },
     {
       "signal_id": "2026-balance-of-power-d-senate-d-house-949::Yes",
@@ -17565,5 +17566,5 @@
       "url": "https://polymarket.com/event/atp-nakashi-medvede-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T19:01:19.287117+00:00"
+  "updated_at": "2026-08-18T19:35:17.816423+00:00"
 }

@@ -1,10 +1,45 @@
 {
   "seen_ids": [
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima"
   ],
   "signals": [
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Brandon Nakashima",
+      "num_traders": 4,
+      "total_value": 80954.24,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1705,
+          "value": 44950.61,
+          "avg_price": 0.4586,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "0x772f8865fB93e6D0EB1D41DDa3711589114A8145-1781445006719",
+          "roi": 0.1825,
+          "value": 14922.68,
+          "avg_price": 0.652,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.3371,
+          "value": 11159.13,
+          "avg_price": 0.4405,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2469,
+          "value": 9921.82,
+          "avg_price": 0.43,
+          "cur_price": 0.695
+        }
+      ]
+    },
     {
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "2026-balance-of-power-d-senate-d-house-949",
@@ -62,36 +97,6 @@
           "value": 8467.89,
           "avg_price": 0.5464,
           "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-      "slug": "atp-nakashi-medvede-2026-08-18",
-      "outcome": "Brandon Nakashima",
-      "num_traders": 3,
-      "total_value": 41742.17,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1813,
-          "value": 27031.0,
-          "avg_price": 0.4247,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.3869,
-          "value": 7787.31,
-          "avg_price": 0.4405,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.3046,
-          "value": 6923.86,
-          "avg_price": 0.43,
-          "cur_price": 0.485
         }
       ]
     },
@@ -925,8 +930,10 @@
     "atp-rublev-borges-2026-08-18::Nuno Borges": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "wta-tjen-andreev-2026-08-18::Janice Tjen": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "wta-tjen-andreev-2026-08-18::Janice Tjen": 2,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 1
   },
-  "updated_at": "2026-08-18T19:01:19.303208+00:00"
+  "updated_at": "2026-08-18T19:35:17.832015+00:00"
 }
