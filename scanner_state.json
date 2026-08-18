@@ -1,82 +1,53 @@
 {
   "seen_ids": [
-    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima",
     "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova",
-    "ucl-fen-lyo-2026-08-18-fen::No"
+    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
+    "will-harry-kane-win-the-2026-ballon-dor::Yes",
+    "atp-faria-walton-2026-08-18::Jaime Faria"
   ],
   "signals": [
     {
       "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
       "slug": "atp-nakashi-medvede-2026-08-18",
-      "outcome": "Daniil Medvedev",
-      "num_traders": 4,
-      "total_value": 149734.15,
-      "holders": [
-        {
-          "trader": "TennisLove",
-          "roi": 0.6391,
-          "value": 79787.73,
-          "avg_price": 0.5584,
-          "cur_price": 0.5705
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.2573,
-          "value": 24676.53,
-          "avg_price": 0.5779,
-          "cur_price": 0.5705
-        },
-        {
-          "trader": "alaskabaked",
-          "roi": 0.2264,
-          "value": 22956.94,
-          "avg_price": 0.5715,
-          "cur_price": 0.5705
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1606,
-          "value": 22312.95,
-          "avg_price": 0.5274,
-          "cur_price": 0.5705
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
-      "slug": "atp-nakashi-medvede-2026-08-18",
       "outcome": "Brandon Nakashima",
-      "num_traders": 4,
-      "total_value": 41257.1,
+      "num_traders": 5,
+      "total_value": 145707.86,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1606,
-          "value": 27778.83,
-          "avg_price": 0.4586,
-          "cur_price": 0.4295
+          "roi": 0.1569,
+          "value": 116465.25,
+          "avg_price": 0.5839,
+          "cur_price": 0.861
         },
         {
           "trader": "kingflop",
-          "roi": 0.2374,
-          "value": 6896.18,
+          "roi": 0.2339,
+          "value": 13824.48,
           "avg_price": 0.4405,
-          "cur_price": 0.4295
+          "cur_price": 0.861
         },
         {
           "trader": "dv-pm",
-          "roi": 0.1766,
-          "value": 6131.54,
+          "roi": 0.2011,
+          "value": 12291.64,
           "avg_price": 0.43,
-          "cur_price": 0.4295
+          "cur_price": 0.861
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 2223.3,
+          "avg_price": 0.424,
+          "cur_price": 0.861
         },
         {
           "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.1736,
-          "value": 450.55,
+          "roi": 0.2597,
+          "value": 903.19,
           "avg_price": 0.4299,
-          "cur_price": 0.4295
+          "cur_price": 0.861
         }
       ]
     },
@@ -84,36 +55,147 @@
       "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
       "slug": "wta-bejlek-alexand-2026-08-18",
       "outcome": "Ekaterina Alexandrova",
-      "num_traders": 4,
-      "total_value": 29168.88,
+      "num_traders": 5,
+      "total_value": 48995.86,
       "holders": [
         {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1606,
-          "value": 12977.98,
-          "avg_price": 0.4899,
-          "cur_price": 0.485
+          "trader": "alaskabaked",
+          "roi": 0.1749,
+          "value": 21728.23,
+          "avg_price": 0.5464,
+          "cur_price": 0.635
         },
         {
-          "trader": "alaskabaked",
-          "roi": 0.2264,
-          "value": 9897.96,
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1569,
+          "value": 16991.79,
           "avg_price": 0.4899,
-          "cur_price": 0.485
+          "cur_price": 0.635
         },
         {
           "trader": "dv-pm",
-          "roi": 0.1766,
-          "value": 3955.66,
+          "roi": 0.2011,
+          "value": 5179.06,
           "avg_price": 0.49,
-          "cur_price": 0.485
+          "cur_price": 0.635
         },
         {
           "trader": "kingflop",
-          "roi": 0.2374,
-          "value": 2337.28,
+          "roi": 0.2339,
+          "value": 3060.15,
           "avg_price": 0.49,
-          "cur_price": 0.485
+          "cur_price": 0.635
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 2036.63,
+          "avg_price": 0.48,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Daniil Medvedev",
+      "num_traders": 5,
+      "total_value": 33601.16,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1569,
+          "value": 13776.46,
+          "avg_price": 0.2807,
+          "cur_price": 0.139
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.2656,
+          "value": 6012.34,
+          "avg_price": 0.5779,
+          "cur_price": 0.139
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.1749,
+          "value": 5593.37,
+          "avg_price": 0.5715,
+          "cur_price": 0.139
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 5321.84,
+          "avg_price": 0.5252,
+          "cur_price": 0.139
+        },
+        {
+          "trader": "kamloic",
+          "roi": 0.2139,
+          "value": 2897.15,
+          "avg_price": 0.5191,
+          "cur_price": 0.139
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21693.99,
+      "holders": [
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 12284.72,
+          "avg_price": 0.4083,
+          "cur_price": 0.6095
+        },
+        {
+          "trader": "wigglew",
+          "roi": 0.4928,
+          "value": 9165.47,
+          "avg_price": 0.4069,
+          "cur_price": 0.6095
+        },
+        {
+          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+          "roi": 0.36,
+          "value": 243.8,
+          "avg_price": 0.151,
+          "cur_price": 0.6095
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
+      "slug": "atp-faria-walton-2026-08-18",
+      "outcome": "Jaime Faria",
+      "num_traders": 3,
+      "total_value": 18895.67,
+      "holders": [
+        {
+          "trader": "alaskabaked",
+          "roi": 0.1749,
+          "value": 9957.1,
+          "avg_price": 0.5774,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2011,
+          "value": 8134.52,
+          "avg_price": 0.5699,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+          "roi": 0.2597,
+          "value": 804.05,
+          "avg_price": 0.5699,
+          "cur_price": 0.575
         }
       ]
     },
@@ -862,7 +944,6 @@
     "val-c9-eg2-2026-08-16::Evil Geniuses": 3,
     "will-apple-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602574::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
     "lol-t1-dnf-2026-08-17-game1::DN SOOPers": 3,
     "lol-dkc-ktc-2026-08-17-game1::KT Rolster Challengers": 3,
@@ -919,7 +1000,8 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "wta-tjen-andreev-2026-08-18::Janice Tjen": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
+    "ucl-fen-lyo-2026-08-18-fen::No": 1
   },
-  "updated_at": "2026-08-18T21:07:06.945109+00:00"
+  "updated_at": "2026-08-18T21:36:38.374146+00:00"
 }
