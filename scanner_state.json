@@ -1,12 +1,38 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima"
+    "mlb-bos-nyy-2026-06-06::New York Yankees"
   ],
   "signals": [
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 22156.3,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2341,
+          "value": 13164.91,
+          "avg_price": 0.4899,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4342,
+          "value": 8577.77,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.3384,
+          "value": 413.62,
+          "avg_price": 0.514,
+          "cur_price": 0.475
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -105,36 +131,6 @@
       ]
     },
     {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 21923.08,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.291,
-          "value": 13026.33,
-          "avg_price": 0.4899,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4342,
-          "value": 8487.48,
-          "avg_price": 0.5,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.4361,
-          "value": 409.27,
-          "avg_price": 0.514,
-          "cur_price": 0.47
-        }
-      ]
-    },
-    {
       "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
       "slug": "atp-nakashi-medvede-2026-08-18",
       "outcome": "Brandon Nakashima",
@@ -161,66 +157,6 @@
           "value": 274.98,
           "avg_price": 0.4299,
           "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-      "slug": "wta-eala-anisimo-2026-08-17",
-      "outcome": "Amanda Anisimova",
-      "num_traders": 3,
-      "total_value": 10594.98,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3372,
-          "value": 5278.55,
-          "avg_price": 0.7481,
-          "cur_price": 0.987
-        },
-        {
-          "trader": "RawrRawr",
-          "roi": 0.1647,
-          "value": 4875.22,
-          "avg_price": 0.4638,
-          "cur_price": 0.987
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.6342,
-          "value": 441.21,
-          "avg_price": 0.4331,
-          "cur_price": 0.987
-        }
-      ]
-    },
-    {
-      "market": "Will CF Pachuca win on 2026-08-17?",
-      "slug": "mex-pac-pue-2026-08-17-pac",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4518.71,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.3591,
-          "value": 2875.84,
-          "avg_price": 0.6176,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "RawrRawr",
-          "roi": 0.1647,
-          "value": 1525,
-          "avg_price": 0.2654,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.6342,
-          "value": 117.87,
-          "avg_price": 0.25,
-          "cur_price": 0.305
         }
       ]
     }
@@ -976,8 +912,12 @@
     "wnba-dal-gsv-2026-08-17-total-161pt5::Under": 3,
     "wnba-dal-gsv-2026-08-17-spread-home-6pt5::Golden State Valkyries": 3,
     "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 3,
-    "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 2,
-    "mex-pac-pue-2026-08-17-pac::Yes": 2
+    "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 3,
+    "mex-pac-pue-2026-08-17-pac::Yes": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 1
   },
-  "updated_at": "2026-08-18T06:03:31.313145+00:00"
+  "updated_at": "2026-08-18T07:00:24.287782+00:00"
 }
