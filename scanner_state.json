@@ -1,12 +1,152 @@
 {
   "seen_ids": [
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima",
     "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova",
+    "atp-faria-walton-2026-08-18::Jaime Faria",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "mlb-atl-min-2026-08-18::Atlanta Braves",
-    "atp-faria-walton-2026-08-18::Jaime Faria"
+    "mlb-atl-min-2026-08-18::Atlanta Braves"
   ],
   "signals": [
+    {
+      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+      "slug": "wta-bejlek-alexand-2026-08-18",
+      "outcome": "Ekaterina Alexandrova",
+      "num_traders": 5,
+      "total_value": 37514.17,
+      "holders": [
+        {
+          "trader": "alaskabaked",
+          "roi": 0.1749,
+          "value": 20123.01,
+          "avg_price": 0.5756,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1569,
+          "value": 10837.28,
+          "avg_price": 0.4899,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2011,
+          "value": 3303.18,
+          "avg_price": 0.49,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.2339,
+          "value": 1951.75,
+          "avg_price": 0.49,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 1298.95,
+          "avg_price": 0.48,
+          "cur_price": 0.405
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
+      "slug": "atp-faria-walton-2026-08-18",
+      "outcome": "Jaime Faria",
+      "num_traders": 4,
+      "total_value": 36652.56,
+      "holders": [
+        {
+          "trader": "kamloic",
+          "roi": 0.2139,
+          "value": 17099.65,
+          "avg_price": 0.3764,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.1749,
+          "value": 10303.43,
+          "avg_price": 0.5774,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2011,
+          "value": 8417.47,
+          "avg_price": 0.5699,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+          "roi": 0.2597,
+          "value": 832.01,
+          "avg_price": 0.5699,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21693.99,
+      "holders": [
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1769,
+          "value": 12284.72,
+          "avg_price": 0.4083,
+          "cur_price": 0.6095
+        },
+        {
+          "trader": "wigglew",
+          "roi": 0.4928,
+          "value": 9165.47,
+          "avg_price": 0.4069,
+          "cur_price": 0.6095
+        },
+        {
+          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+          "roi": 0.36,
+          "value": 243.8,
+          "avg_price": 0.151,
+          "cur_price": 0.6095
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Minnesota Twins",
+      "slug": "mlb-atl-min-2026-08-18",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 9683.44,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.6982,
+          "value": 6674.49,
+          "avg_price": 0.5399,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.7094,
+          "value": 2810.67,
+          "avg_price": 0.5399,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "0F62",
+          "roi": 0.213,
+          "value": 198.28,
+          "avg_price": 0.5699,
+          "cur_price": 0.575
+        }
+      ]
+    },
     {
       "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
       "slug": "atp-nakashi-medvede-2026-08-18",
@@ -52,140 +192,6 @@
       ]
     },
     {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
-      "slug": "wta-bejlek-alexand-2026-08-18",
-      "outcome": "Ekaterina Alexandrova",
-      "num_traders": 5,
-      "total_value": 67154.99,
-      "holders": [
-        {
-          "trader": "alaskabaked",
-          "roi": 0.1749,
-          "value": 36022.67,
-          "avg_price": 0.5756,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1569,
-          "value": 19400.07,
-          "avg_price": 0.4899,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2011,
-          "value": 5913.1,
-          "avg_price": 0.49,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2339,
-          "value": 3493.87,
-          "avg_price": 0.49,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1769,
-          "value": 2325.28,
-          "avg_price": 0.48,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 21693.99,
-      "holders": [
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1769,
-          "value": 12284.72,
-          "avg_price": 0.4083,
-          "cur_price": 0.6095
-        },
-        {
-          "trader": "wigglew",
-          "roi": 0.4928,
-          "value": 9165.47,
-          "avg_price": 0.4069,
-          "cur_price": 0.6095
-        },
-        {
-          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
-          "roi": 0.36,
-          "value": 243.8,
-          "avg_price": 0.151,
-          "cur_price": 0.6095
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins",
-      "slug": "mlb-atl-min-2026-08-18",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 9515.03,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.6982,
-          "value": 6558.41,
-          "avg_price": 0.5399,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.7094,
-          "value": 2761.79,
-          "avg_price": 0.5399,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "0F62",
-          "roi": 0.213,
-          "value": 194.83,
-          "avg_price": 0.5699,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
-      "slug": "atp-faria-walton-2026-08-18",
-      "outcome": "Jaime Faria",
-      "num_traders": 3,
-      "total_value": 9037.06,
-      "holders": [
-        {
-          "trader": "alaskabaked",
-          "roi": 0.1749,
-          "value": 4762.09,
-          "avg_price": 0.5774,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2011,
-          "value": 3890.43,
-          "avg_price": 0.5699,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.2597,
-          "value": 384.54,
-          "avg_price": 0.5699,
-          "cur_price": 0.275
-        }
-      ]
-    },
-    {
       "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
       "slug": "atp-nakashi-medvede-2026-08-18",
       "outcome": "Daniil Medvedev",
@@ -226,36 +232,6 @@
           "value": 2897.15,
           "avg_price": 0.5191,
           "cur_price": 0.139
-        }
-      ]
-    },
-    {
-      "market": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
-      "slug": "ucl-fen-lyo-2026-08-18-fen",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 93215.92,
-      "holders": [
-        {
-          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.1736,
-          "value": 50202.99,
-          "avg_price": 0.5122,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "cnyek",
-          "roi": 0.1593,
-          "value": 35712.08,
-          "avg_price": 0.5457,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.1766,
-          "value": 7300.85,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1031,8 +1007,9 @@
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "wta-tjen-andreev-2026-08-18::Janice Tjen": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
-    "ucl-fen-lyo-2026-08-18-fen::No": 2,
-    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 1
+    "ucl-fen-lyo-2026-08-18-fen::No": 3,
+    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 2,
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 1
   },
-  "updated_at": "2026-08-18T21:56:26.081110+00:00"
+  "updated_at": "2026-08-18T22:27:19.289981+00:00"
 }
