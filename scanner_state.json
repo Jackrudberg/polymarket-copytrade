@@ -2,44 +2,62 @@
   "seen_ids": [
     "lol-ns-dnf-2026-08-18::DN SOOPers",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "lol-ns-dnf-2026-08-18-game3::DN SOOPers",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "atp-bruncli-kumstat-2026-08-17::Jan Kumstat",
+    "lol-ns-dnf-2026-08-18-game2::DN SOOPers",
     "lol-dnsc-nsea-2026-08-18::DN SOOPers Challengers",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "wnba-la-conn-2026-08-18-total-170pt5::Over"
   ],
   "signals": [
     {
       "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-ns-dnf-2026-08-18",
       "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 116182.03,
+      "num_traders": 6,
+      "total_value": 131020.3,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2357,
+          "roi": 0.231,
           "value": 54431.15,
           "avg_price": 0.5091,
           "cur_price": 0.9995
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.0529,
+          "roi": 1.2105,
           "value": 25932.02,
           "avg_price": 0.501,
           "cur_price": 0.9995
         },
         {
           "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.1775,
+          "roi": 0.2714,
           "value": 19990,
           "avg_price": 0.52,
           "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.2617,
+          "roi": 0.2623,
           "value": 15828.86,
           "avg_price": 0.5131,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.4941,
+          "value": 12339.52,
+          "avg_price": 0.5099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.2558,
+          "value": 2498.75,
+          "avg_price": 0.84,
           "cur_price": 0.9995
         }
       ]
@@ -49,35 +67,65 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
       "num_traders": 4,
-      "total_value": 86369.91,
+      "total_value": 85161.95,
       "holders": [
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.0529,
-          "value": 63351.24,
+          "roi": 1.2105,
+          "value": 62465.21,
           "avg_price": 0.6666,
-          "cur_price": 0.715
+          "cur_price": 0.705
         },
         {
           "trader": "quavoo",
-          "roi": 0.1931,
-          "value": 14655.33,
+          "roi": 0.1729,
+          "value": 14450.36,
           "avg_price": 0.4021,
-          "cur_price": 0.715
+          "cur_price": 0.705
         },
         {
           "trader": "HolyMoses7",
-          "roi": 0.734,
-          "value": 7975.06,
+          "roi": 0.5581,
+          "value": 7863.53,
           "avg_price": 0.4846,
-          "cur_price": 0.715
+          "cur_price": 0.705
         },
         {
           "trader": "donthackme",
-          "roi": 0.4487,
-          "value": 388.28,
+          "roi": 0.496,
+          "value": 382.85,
           "avg_price": 0.5,
-          "cur_price": 0.715
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner",
+      "slug": "lol-ns-dnf-2026-08-18-game3",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 136941.12,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.4941,
+          "value": 111806.74,
+          "avg_price": 0.4999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+          "roi": 0.2714,
+          "value": 19989.75,
+          "avg_price": 0.6047,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.2558,
+          "value": 5144.63,
+          "avg_price": 0.5092,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -90,24 +138,84 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2357,
+          "roi": 0.231,
           "value": 13164.91,
           "avg_price": 0.4899,
           "cur_price": 0.475
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4355,
+          "roi": 0.4337,
           "value": 8577.77,
           "avg_price": 0.5,
           "cur_price": 0.475
         },
         {
           "trader": "sentrio",
-          "roi": 0.2617,
+          "roi": 0.2623,
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Prague 2: Petr Brunclik vs Jan Kumstat",
+      "slug": "atp-bruncli-kumstat-2026-08-17",
+      "outcome": "Jan Kumstat",
+      "num_traders": 3,
+      "total_value": 19906.11,
+      "holders": [
+        {
+          "trader": "bigoon",
+          "roi": 0.2751,
+          "value": 17711.39,
+          "avg_price": 0.5,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.6693,
+          "value": 1905.0,
+          "avg_price": 0.5699,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2623,
+          "value": 289.72,
+          "avg_price": 0.5652,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-ns-dnf-2026-08-18-game2",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 18278.16,
+      "holders": [
+        {
+          "trader": "Skyfker",
+          "roi": 0.2558,
+          "value": 9995,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+          "roi": 0.4311,
+          "value": 6160.1,
+          "avg_price": 0.4951,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.4941,
+          "value": 2123.06,
+          "avg_price": 0.4844,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -120,21 +228,21 @@
       "holders": [
         {
           "trader": "Sunshine.Smile",
-          "roi": 0.3681,
+          "roi": 0.3537,
           "value": 14513.18,
           "avg_price": 0.4361,
           "cur_price": 0.9995
         },
         {
           "trader": "quavoo",
-          "roi": 0.1931,
+          "roi": 0.1729,
           "value": 1727.14,
           "avg_price": 0.4253,
           "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.2617,
+          "roi": 0.2623,
           "value": 395.06,
           "avg_price": 0.4623,
           "cur_price": 0.9995
@@ -150,21 +258,21 @@
       "holders": [
         {
           "trader": "quavoo",
-          "roi": 0.1931,
+          "roi": 0.1729,
           "value": 2325.03,
           "avg_price": 0.3249,
           "cur_price": 0.285
         },
         {
           "trader": "HolyMoses7",
-          "roi": 0.734,
+          "roi": 0.5581,
           "value": 1802.6,
           "avg_price": 0.3847,
           "cur_price": 0.285
         },
         {
           "trader": "donthackme",
-          "roi": 0.4487,
+          "roi": 0.496,
           "value": 871.33,
           "avg_price": 0.5038,
           "cur_price": 0.285
@@ -172,32 +280,32 @@
       ]
     },
     {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
+      "market": "Los Angeles Sparks vs. Connecticut Sun: O/U 170.5",
+      "slug": "wnba-la-conn-2026-08-18-total-170pt5",
+      "outcome": "Over",
       "num_traders": 3,
-      "total_value": 506347.34,
+      "total_value": 1566.01,
       "holders": [
         {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2893,
-          "value": 505375.57,
-          "avg_price": 0.7933,
-          "cur_price": 0.8515
+          "trader": "quavoo",
+          "roi": 0.1729,
+          "value": 950,
+          "avg_price": 0.5279,
+          "cur_price": 0.475
         },
         {
-          "trader": "donthackme",
-          "roi": 0.4462,
-          "value": 550.28,
-          "avg_price": 0.5,
-          "cur_price": 0.8515
+          "trader": "sentrio",
+          "roi": 0.2623,
+          "value": 433.38,
+          "avg_price": 0.5367,
+          "cur_price": 0.475
         },
         {
-          "trader": "HolyMoses7",
-          "roi": 0.735,
-          "value": 421.49,
-          "avg_price": 0.6685,
-          "cur_price": 0.8515
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4337,
+          "value": 182.63,
+          "avg_price": 0.46,
+          "cur_price": 0.475
         }
       ]
     }
@@ -957,8 +1065,7 @@
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
     "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 3,
-    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 2
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3
   },
-  "updated_at": "2026-08-18T11:59:16.887951+00:00"
+  "updated_at": "2026-08-18T13:01:42.617973+00:00"
 }
