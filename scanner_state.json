@@ -1,16 +1,100 @@
 {
   "seen_ids": [
-    "wnba-dal-gsv-2026-08-17::Golden State Valkyries",
-    "wnba-dal-gsv-2026-08-17-total-162pt5::Under",
-    "wta-eala-anisimo-2026-08-17::Alexandra Eala",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "wnba-dal-gsv-2026-08-17-total-161pt5::Under",
-    "wnba-dal-gsv-2026-08-17-spread-home-6pt5::Golden State Valkyries",
-    "wnba-dal-gsv-2026-08-17-total-163pt5::Under",
-    "mex-pac-pue-2026-08-17-pac::Yes",
-    "wta-eala-anisimo-2026-08-17::Amanda Anisimova"
+    "wta-eala-anisimo-2026-08-17::Amanda Anisimova",
+    "mex-pac-pue-2026-08-17-pac::Yes"
   ],
   "signals": [
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 21923.08,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3372,
+          "value": 13026.33,
+          "avg_price": 0.4899,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4325,
+          "value": 8487.48,
+          "avg_price": 0.5,
+          "cur_price": 0.47
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.6342,
+          "value": 409.27,
+          "avg_price": 0.514,
+          "cur_price": 0.47
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+      "slug": "wta-eala-anisimo-2026-08-17",
+      "outcome": "Amanda Anisimova",
+      "num_traders": 3,
+      "total_value": 10594.98,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3372,
+          "value": 5278.55,
+          "avg_price": 0.7481,
+          "cur_price": 0.987
+        },
+        {
+          "trader": "RawrRawr",
+          "roi": 0.1647,
+          "value": 4875.22,
+          "avg_price": 0.4638,
+          "cur_price": 0.987
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.6342,
+          "value": 441.21,
+          "avg_price": 0.4331,
+          "cur_price": 0.987
+        }
+      ]
+    },
+    {
+      "market": "Will CF Pachuca win on 2026-08-17?",
+      "slug": "mex-pac-pue-2026-08-17-pac",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4518.71,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.3591,
+          "value": 2875.84,
+          "avg_price": 0.6176,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "RawrRawr",
+          "roi": 0.1647,
+          "value": 1525,
+          "avg_price": 0.2654,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.6342,
+          "value": 117.87,
+          "avg_price": 0.25,
+          "cur_price": 0.305
+        }
+      ]
+    },
     {
       "market": "Dallas Wings vs. Golden State Valkyries",
       "slug": "wnba-dal-gsv-2026-08-17",
@@ -123,36 +207,6 @@
       ]
     },
     {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 21923.08,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3372,
-          "value": 13026.33,
-          "avg_price": 0.4899,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4325,
-          "value": 8487.48,
-          "avg_price": 0.5,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.6342,
-          "value": 409.27,
-          "avg_price": 0.514,
-          "cur_price": 0.47
-        }
-      ]
-    },
-    {
       "market": "Dallas Wings vs. Golden State Valkyries: O/U 161.5",
       "slug": "wnba-dal-gsv-2026-08-17-total-161pt5",
       "outcome": "Under",
@@ -239,66 +293,6 @@
           "value": 164.92,
           "avg_price": 0.5381,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will CF Pachuca win on 2026-08-17?",
-      "slug": "mex-pac-pue-2026-08-17-pac",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3926.09,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.3591,
-          "value": 2498.68,
-          "avg_price": 0.6176,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "RawrRawr",
-          "roi": 0.1647,
-          "value": 1325,
-          "avg_price": 0.2654,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.6342,
-          "value": 102.41,
-          "avg_price": 0.25,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-      "slug": "wta-eala-anisimo-2026-08-17",
-      "outcome": "Amanda Anisimova",
-      "num_traders": 3,
-      "total_value": 3111.01,
-      "holders": [
-        {
-          "trader": "RawrRawr",
-          "roi": 0.1647,
-          "value": 2741.38,
-          "avg_price": 0.4638,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.6342,
-          "value": 248.1,
-          "avg_price": 0.4331,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3372,
-          "value": 121.53,
-          "avg_price": 0.4699,
-          "cur_price": 0.555
         }
       ]
     },
@@ -509,73 +503,6 @@
           "value": 139.8,
           "avg_price": 0.3317,
           "cur_price": 0.355
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs",
-      "slug": "mlb-cws-chc-2026-08-17",
-      "outcome": "Chicago Cubs",
-      "num_traders": 4,
-      "total_value": 10772.33,
-      "holders": [
-        {
-          "trader": "jarosbill",
-          "roi": 0.2214,
-          "value": 3655.15,
-          "avg_price": 0.6619,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2597,
-          "value": 3525,
-          "avg_price": 0.59,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "kkookkoo",
-          "roi": 0.2102,
-          "value": 2708.4,
-          "avg_price": 0.5249,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3721,
-          "value": 883.78,
-          "avg_price": 0.5652,
-          "cur_price": 0.235
-        }
-      ]
-    },
-    {
-      "market": "Dallas Wings vs. Golden State Valkyries",
-      "slug": "wnba-dal-gsv-2026-08-17",
-      "outcome": "Dallas Wings",
-      "num_traders": 3,
-      "total_value": 3503.45,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3721,
-          "value": 1666.91,
-          "avg_price": 0.2992,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2597,
-          "value": 1425.0,
-          "avg_price": 0.2856,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.2131,
-          "value": 411.54,
-          "avg_price": 0.3008,
-          "cur_price": 0.285
         }
       ]
     }
@@ -1319,15 +1246,21 @@
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes": 3,
     "will-rodri-win-the-2026-ballon-dor::Yes": 3,
-    "mlb-cws-chc-2026-08-17::Chicago Cubs": 2,
-    "wnba-dal-gsv-2026-08-17::Dallas Wings": 2,
-    "mex-nec-leo-2026-08-17-leo::Yes": 1,
-    "mex-pac-pue-2026-08-17-total-2pt5::Over": 1,
-    "mex-pac-pue-2026-08-17-draw::No": 1,
-    "mex-pac-pue-2026-08-17-pue::Yes": 1,
-    "atp-paul-vallejo-2026-08-17::Adolfo Vallejo": 1,
-    "mex-pac-pue-2026-08-17-total-1pt5::Over": 1,
-    "mex-pac-pue-2026-08-17-total-3pt5::Over": 1
+    "mlb-cws-chc-2026-08-17::Chicago Cubs": 3,
+    "wnba-dal-gsv-2026-08-17::Dallas Wings": 3,
+    "mex-nec-leo-2026-08-17-leo::Yes": 2,
+    "mex-pac-pue-2026-08-17-total-2pt5::Over": 2,
+    "mex-pac-pue-2026-08-17-draw::No": 2,
+    "mex-pac-pue-2026-08-17-pue::Yes": 2,
+    "atp-paul-vallejo-2026-08-17::Adolfo Vallejo": 2,
+    "mex-pac-pue-2026-08-17-total-1pt5::Over": 2,
+    "mex-pac-pue-2026-08-17-total-3pt5::Over": 2,
+    "wnba-dal-gsv-2026-08-17::Golden State Valkyries": 1,
+    "wnba-dal-gsv-2026-08-17-total-162pt5::Under": 1,
+    "wta-eala-anisimo-2026-08-17::Alexandra Eala": 1,
+    "wnba-dal-gsv-2026-08-17-total-161pt5::Under": 1,
+    "wnba-dal-gsv-2026-08-17-spread-home-6pt5::Golden State Valkyries": 1,
+    "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 1
   },
-  "updated_at": "2026-08-18T04:32:17.278842+00:00"
+  "updated_at": "2026-08-18T05:05:38.895551+00:00"
 }
