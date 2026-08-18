@@ -2,7 +2,10 @@
   "seen_ids": [
     "lol-ns-dnf-2026-08-18::DN SOOPers",
     "atp-rublev-borges-2026-08-18::Nuno Borges",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "atp-rublev-borges-2026-08-18::Andrey Rublev",
     "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers",
     "mlb-bos-nyy-2026-06-06::New York Yankees"
   ],
@@ -16,14 +19,14 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1962,
+          "roi": 0.1894,
           "value": 54431.15,
           "avg_price": 0.5091,
           "cur_price": 0.9995
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.1637,
+          "roi": 0.6059,
           "value": 25932.02,
           "avg_price": 0.501,
           "cur_price": 0.9995
@@ -37,7 +40,7 @@
         },
         {
           "trader": "sentrio",
-          "roi": 0.1774,
+          "roi": 0.1662,
           "value": 15828.86,
           "avg_price": 0.5131,
           "cur_price": 0.9995
@@ -56,35 +59,95 @@
       "slug": "atp-rublev-borges-2026-08-18",
       "outcome": "Nuno Borges",
       "num_traders": 4,
-      "total_value": 21657.19,
+      "total_value": 46020.36,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1962,
-          "value": 13390.02,
-          "avg_price": 0.35,
-          "cur_price": 0.355
+          "roi": 0.1894,
+          "value": 27555.89,
+          "avg_price": 0.3982,
+          "cur_price": 0.6
         },
         {
           "trader": "dv-pm",
-          "roi": 0.6013,
-          "value": 6003.94,
+          "roi": 0.3088,
+          "value": 10147.5,
           "avg_price": 0.36,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.6836,
-          "value": 2015.39,
-          "avg_price": 0.36,
-          "cur_price": 0.355
+          "cur_price": 0.6
         },
         {
           "trader": "sentrio",
-          "roi": 0.1774,
-          "value": 247.84,
-          "avg_price": 0.3699,
-          "cur_price": 0.355
+          "roi": 0.1662,
+          "value": 4910.68,
+          "avg_price": 0.5861,
+          "cur_price": 0.6
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.6822,
+          "value": 3406.29,
+          "avg_price": 0.36,
+          "cur_price": 0.6
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 506941.99,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.4316,
+          "value": 505969.08,
+          "avg_price": 0.7933,
+          "cur_price": 0.8525
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4595,
+          "value": 550.92,
+          "avg_price": 0.5,
+          "cur_price": 0.8525
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3545,
+          "value": 421.99,
+          "avg_price": 0.6685,
+          "cur_price": 0.8525
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 240740.87,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.4316,
+          "value": 238066.94,
+          "avg_price": 0.4251,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3545,
+          "value": 1802.6,
+          "avg_price": 0.3847,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4595,
+          "value": 871.33,
+          "avg_price": 0.5038,
+          "cur_price": 0.285
         }
       ]
     },
@@ -97,24 +160,54 @@
       "holders": [
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.1637,
+          "roi": 0.6059,
           "value": 62465.21,
           "avg_price": 0.6666,
           "cur_price": 0.705
         },
         {
           "trader": "HolyMoses7",
-          "roi": 0.3683,
+          "roi": 0.3545,
           "value": 7863.53,
           "avg_price": 0.4846,
           "cur_price": 0.705
         },
         {
           "trader": "donthackme",
-          "roi": 0.4487,
+          "roi": 0.4595,
           "value": 382.85,
           "avg_price": 0.5,
           "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+      "slug": "atp-rublev-borges-2026-08-18",
+      "outcome": "Andrey Rublev",
+      "num_traders": 3,
+      "total_value": 49944.39,
+      "holders": [
+        {
+          "trader": "Kulilun",
+          "roi": 0.3761,
+          "value": 39482.87,
+          "avg_price": 0.6337,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.6059,
+          "value": 10000,
+          "avg_price": 0.64,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1894,
+          "value": 461.52,
+          "avg_price": 0.4345,
+          "cur_price": 0.4
         }
       ]
     },
@@ -141,7 +234,7 @@
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1962,
+          "roi": 0.1894,
           "value": 7126.18,
           "avg_price": 0.6749,
           "cur_price": 0.9995
@@ -157,91 +250,24 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1962,
+          "roi": 0.1894,
           "value": 13164.91,
           "avg_price": 0.4899,
           "cur_price": 0.475
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4064,
+          "roi": 0.4005,
           "value": 8577.77,
           "avg_price": 0.5,
           "cur_price": 0.475
         },
         {
           "trader": "sentrio",
-          "roi": 0.1774,
+          "roi": 0.1662,
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 243065.9,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3155,
-          "value": 238066.94,
-          "avg_price": 0.4251,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1563,
-          "value": 2325.03,
-          "avg_price": 0.3249,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3699,
-          "value": 1802.6,
-          "avg_price": 0.3847,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.5026,
-          "value": 871.33,
-          "avg_price": 0.5038,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 506941.99,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3155,
-          "value": 505969.08,
-          "avg_price": 0.7933,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.5026,
-          "value": 550.92,
-          "avg_price": 0.5,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3699,
-          "value": 421.99,
-          "avg_price": 0.6685,
-          "cur_price": 0.8525
         }
       ]
     },
@@ -452,36 +478,6 @@
           "value": 126.06,
           "avg_price": 0,
           "cur_price": 0.575
-        }
-      ]
-    },
-    {
-      "market": "Prague 2: Petr Brunclik vs Jan Kumstat",
-      "slug": "atp-bruncli-kumstat-2026-08-17",
-      "outcome": "Jan Kumstat",
-      "num_traders": 3,
-      "total_value": 31427.22,
-      "holders": [
-        {
-          "trader": "bigoon",
-          "roi": 0.1608,
-          "value": 27957.65,
-          "avg_price": 0.5,
-          "cur_price": 0.955
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.5734,
-          "value": 3007.07,
-          "avg_price": 0.5699,
-          "cur_price": 0.955
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2159,
-          "value": 462.5,
-          "avg_price": 0.5682,
-          "cur_price": 0.955
         }
       ]
     }
@@ -1241,16 +1237,14 @@
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
     "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 3,
     "lol-dnsc-nsea-2026-08-18::DN SOOPers Challengers": 3,
-    "atp-bruncli-kumstat-2026-08-17::Jan Kumstat": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
-    "lol-ns-dnf-2026-08-18-game3::DN SOOPers": 1,
-    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 1,
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 1,
-    "cs2-msc-bbp-2026-08-18::MASONIC": 1,
-    "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 1,
-    "wnba-la-conn-2026-08-18-total-170pt5::Over": 1,
-    "mlb-oak-kc-2026-08-18::Kansas City Royals": 1
+    "atp-bruncli-kumstat-2026-08-17::Jan Kumstat": 3,
+    "lol-ns-dnf-2026-08-18-game3::DN SOOPers": 2,
+    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 2,
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 2,
+    "cs2-msc-bbp-2026-08-18::MASONIC": 2,
+    "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 2,
+    "wnba-la-conn-2026-08-18-total-170pt5::Over": 2,
+    "mlb-oak-kc-2026-08-18::Kansas City Royals": 2
   },
-  "updated_at": "2026-08-18T15:01:36.451020+00:00"
+  "updated_at": "2026-08-18T15:40:49.085204+00:00"
 }
