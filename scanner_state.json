@@ -3,7 +3,7 @@
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "atp-rublev-borges-2026-08-18::Nuno Borges"
+    "wta-tjen-andreev-2026-08-18::Janice Tjen"
   ],
   "signals": [
     {
@@ -93,6 +93,36 @@
           "value": 382.85,
           "avg_price": 0.5,
           "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+      "slug": "wta-tjen-andreev-2026-08-18",
+      "outcome": "Janice Tjen",
+      "num_traders": 3,
+      "total_value": 3779.31,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1892,
+          "value": 2535.18,
+          "avg_price": 0.0799,
+          "cur_price": 0.065
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.5657,
+          "value": 762.0,
+          "avg_price": 0.12,
+          "cur_price": 0.065
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2902,
+          "value": 482.13,
+          "avg_price": 0.13,
+          "cur_price": 0.045
         }
       ]
     },
@@ -220,50 +250,6 @@
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-      "slug": "lol-ns-dnf-2026-08-18",
-      "outcome": "DN SOOPers",
-      "num_traders": 5,
-      "total_value": 128521.55,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1894,
-          "value": 54431.15,
-          "avg_price": 0.5091,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.6059,
-          "value": 25932.02,
-          "avg_price": 0.501,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.2067,
-          "value": 19990,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1662,
-          "value": 15828.86,
-          "avg_price": 0.5131,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.4099,
-          "value": 12339.52,
-          "avg_price": 0.5099,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1031,10 +1017,11 @@
     "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 3,
     "wnba-la-conn-2026-08-18-total-170pt5::Over": 3,
     "mlb-oak-kc-2026-08-18::Kansas City Royals": 3,
-    "lol-ns-dnf-2026-08-18::DN SOOPers": 2,
-    "atp-rublev-borges-2026-08-18::Andrey Rublev": 1,
-    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 1,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 1
+    "lol-ns-dnf-2026-08-18::DN SOOPers": 3,
+    "atp-rublev-borges-2026-08-18::Andrey Rublev": 2,
+    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 2,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
+    "atp-rublev-borges-2026-08-18::Nuno Borges": 1
   },
-  "updated_at": "2026-08-18T16:45:48.799036+00:00"
+  "updated_at": "2026-08-18T17:13:31.378736+00:00"
 }

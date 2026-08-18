@@ -3532,7 +3532,7 @@
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "side": "Yes",
       "alerted_at": "2026-07-22T16:06:58.948618+00:00",
-      "last_seen": "2026-08-18T16:45:48.787520+00:00",
+      "last_seen": "2026-08-18T17:13:31.362696+00:00",
       "entry_price": 0.8475,
       "current_price": 0.8525,
       "stake": 100.0,
@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-18T16:45:48.787520+00:00",
+      "last_seen": "2026-08-18T17:13:31.362696+00:00",
       "entry_price": 0.505,
       "current_price": 0.285,
       "stake": 100.0,
@@ -5307,7 +5307,7 @@
       "current_value": 98.96,
       "paper_pnl": -1.04,
       "return_percent": -1.04,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10601.21,
       "traders": [
@@ -5316,7 +5316,7 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/mlb-bos-nyy-2026-06-06",
-      "consensus_lost_at": "2026-08-15T17:00:38.307507+00:00"
+      "consensus_lost_at": "2026-08-18T17:13:31.362696+00:00"
     },
     {
       "signal_id": "mlb-cle-cin-2026-07-27::Cincinnati Reds",
@@ -7957,7 +7957,7 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-18T16:45:48.787520+00:00",
+      "last_seen": "2026-08-18T17:13:31.362696+00:00",
       "entry_price": 0.425,
       "current_price": 0.705,
       "stake": 100.0,
@@ -17380,7 +17380,7 @@
       "current_value": 156.17,
       "paper_pnl": 56.17,
       "return_percent": 56.17,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20114.84,
       "traders": [
@@ -17388,7 +17388,8 @@
         "Sunshine.Smile",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18"
+      "url": "https://polymarket.com/event/lol-genga-bro1-2026-08-18",
+      "consensus_lost_at": "2026-08-18T17:13:31.362696+00:00"
     },
     {
       "signal_id": "cs2-msc-bbp-2026-08-18::MASONIC",
@@ -17479,7 +17480,7 @@
       "current_value": 111.25,
       "paper_pnl": 11.25,
       "return_percent": 11.25,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 49944.39,
       "traders": [
@@ -17487,8 +17488,33 @@
         "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18"
+      "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18",
+      "consensus_lost_at": "2026-08-18T17:13:31.362696+00:00"
+    },
+    {
+      "signal_id": "wta-tjen-andreev-2026-08-18::Janice Tjen",
+      "market": "Cincinnati Open: Janice Tjen vs Mirra Andreeva",
+      "slug": "wta-tjen-andreev-2026-08-18",
+      "side": "Janice Tjen",
+      "alerted_at": "2026-08-18T17:13:31.362696+00:00",
+      "last_seen": "2026-08-18T17:13:31.362696+00:00",
+      "entry_price": 0.062449,
+      "current_price": 0.062449,
+      "stake": 100.0,
+      "shares": 1601.317388,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 3779.31,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "kingflop",
+        "dv-pm"
+      ],
+      "url": "https://polymarket.com/event/wta-tjen-andreev-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T16:45:48.787520+00:00"
+  "updated_at": "2026-08-18T17:13:31.362696+00:00"
 }
