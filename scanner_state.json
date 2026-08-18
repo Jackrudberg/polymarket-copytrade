@@ -1,37 +1,98 @@
 {
   "seen_ids": [
+    "mlb-ari-bos-2026-08-18::Boston Red Sox",
+    "mlb-oak-kc-2026-08-18::Kansas City Royals",
     "atp-faria-walton-2026-08-18::Jaime Faria",
-    "mlb-det-pit-2026-08-18::Detroit Tigers",
-    "atp-tien-tiafoe-2026-08-18::Learner Tien"
+    "mlb-det-pit-2026-08-18::Detroit Tigers"
   ],
   "signals": [
+    {
+      "market": "Arizona Diamondbacks vs. Boston Red Sox",
+      "slug": "mlb-ari-bos-2026-08-18",
+      "outcome": "Boston Red Sox",
+      "num_traders": 3,
+      "total_value": 87113.27,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.2437,
+          "value": 79650,
+          "avg_price": 0.6,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.2665,
+          "value": 7160.66,
+          "avg_price": 0.6,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2676,
+          "value": 302.61,
+          "avg_price": 0.6199,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Athletics vs. Kansas City Royals",
+      "slug": "mlb-oak-kc-2026-08-18",
+      "outcome": "Kansas City Royals",
+      "num_traders": 3,
+      "total_value": 71592.67,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.2437,
+          "value": 59500,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3351,
+          "value": 11900,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.6536,
+          "value": 192.67,
+          "avg_price": 0.5699,
+          "cur_price": 0.595
+        }
+      ]
+    },
     {
       "market": "Cincinnati Open: Jaime Faria vs Adam Walton",
       "slug": "atp-faria-walton-2026-08-18",
       "outcome": "Jaime Faria",
       "num_traders": 3,
-      "total_value": 50825.79,
+      "total_value": 65974.52,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1714,
-          "value": 38855.88,
+          "roi": 0.1538,
+          "value": 50436.95,
           "avg_price": 0.466,
-          "cur_price": 0.77
+          "cur_price": 0.9995
         },
         {
           "trader": "dv-pm",
-          "roi": 0.2404,
-          "value": 10893.19,
+          "roi": 0.2151,
+          "value": 14139.93,
           "avg_price": 0.5699,
-          "cur_price": 0.77
+          "cur_price": 0.9995
         },
         {
           "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.2578,
-          "value": 1076.72,
+          "roi": 0.2727,
+          "value": 1397.64,
           "avg_price": 0.5699,
-          "cur_price": 0.77
+          "cur_price": 0.9995
         }
       ]
     },
@@ -40,28 +101,28 @@
       "slug": "mlb-det-pit-2026-08-18",
       "outcome": "Detroit Tigers",
       "num_traders": 3,
-      "total_value": 41925.08,
+      "total_value": 20347.84,
       "holders": [
         {
           "trader": "SDTrading",
-          "roi": 0.7023,
-          "value": 21750,
+          "roi": 0.6536,
+          "value": 10750,
           "avg_price": 0.42,
-          "cur_price": 0.435
+          "cur_price": 0.215
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3034,
-          "value": 18368.61,
+          "roi": 0.2676,
+          "value": 9078.74,
           "avg_price": 0.4082,
-          "cur_price": 0.435
+          "cur_price": 0.215
         },
         {
           "trader": "sbsigner",
-          "roi": 0.3656,
-          "value": 1806.47,
+          "roi": 0.3538,
+          "value": 519.1,
           "avg_price": 0.3899,
-          "cur_price": 0.435
+          "cur_price": 0.125
         }
       ]
     },
@@ -122,66 +183,6 @@
           "value": 216.86,
           "avg_price": 0.49,
           "cur_price": 0.045
-        }
-      ]
-    },
-    {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 21693.99,
-      "holders": [
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1769,
-          "value": 12284.72,
-          "avg_price": 0.4083,
-          "cur_price": 0.6095
-        },
-        {
-          "trader": "wigglew",
-          "roi": 0.4928,
-          "value": 9165.47,
-          "avg_price": 0.4069,
-          "cur_price": 0.6095
-        },
-        {
-          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
-          "roi": 0.36,
-          "value": 243.8,
-          "avg_price": 0.151,
-          "cur_price": 0.6095
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Minnesota Twins",
-      "slug": "mlb-atl-min-2026-08-18",
-      "outcome": "Atlanta Braves",
-      "num_traders": 3,
-      "total_value": 9683.44,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.6982,
-          "value": 6674.49,
-          "avg_price": 0.5399,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.7094,
-          "value": 2810.67,
-          "avg_price": 0.5399,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "0F62",
-          "roi": 0.213,
-          "value": 198.28,
-          "avg_price": 0.5699,
-          "cur_price": 0.575
         }
       ]
     }
@@ -946,7 +947,6 @@
     "cs2-msc-bbp-2026-08-18::MASONIC": 3,
     "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 3,
     "wnba-la-conn-2026-08-18-total-170pt5::Over": 3,
-    "mlb-oak-kc-2026-08-18::Kansas City Royals": 3,
     "lol-ns-dnf-2026-08-18::DN SOOPers": 3,
     "atp-rublev-borges-2026-08-18::Andrey Rublev": 3,
     "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 3,
@@ -960,9 +960,10 @@
     "ucl-fen-lyo-2026-08-18-fen::No": 3,
     "atp-nakashi-medvede-2026-08-18::Daniil Medvedev": 3,
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
-    "mlb-atl-min-2026-08-18::Atlanta Braves": 2,
-    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 1
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
+    "mlb-atl-min-2026-08-18::Atlanta Braves": 3,
+    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 2,
+    "atp-tien-tiafoe-2026-08-18::Learner Tien": 1
   },
-  "updated_at": "2026-08-18T23:18:22.830995+00:00"
+  "updated_at": "2026-08-18T23:41:58.262499+00:00"
 }

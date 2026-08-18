@@ -17448,15 +17448,15 @@
       "slug": "mlb-oak-kc-2026-08-18",
       "side": "Kansas City Royals",
       "alerted_at": "2026-08-18T14:24:02.914371+00:00",
-      "last_seen": "2026-08-18T14:24:02.914371+00:00",
+      "last_seen": "2026-08-18T23:41:58.246774+00:00",
       "entry_price": 0.575,
-      "current_price": 0.575,
+      "current_price": 0.595,
       "stake": 100.0,
       "shares": 173.913043,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 103.48,
+      "paper_pnl": 3.48,
+      "return_percent": 3.48,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 599.76,
       "traders": [
@@ -17606,7 +17606,7 @@
       "current_value": 9.28,
       "paper_pnl": -90.72,
       "return_percent": -90.72,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 29168.88,
       "traders": [
@@ -17615,7 +17615,8 @@
         "dv-pm",
         "kingflop"
       ],
-      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18"
+      "url": "https://polymarket.com/event/wta-bejlek-alexand-2026-08-18",
+      "consensus_lost_at": "2026-08-18T23:41:58.246774+00:00"
     },
     {
       "signal_id": "atp-faria-walton-2026-08-18::Jaime Faria",
@@ -17623,14 +17624,14 @@
       "slug": "atp-faria-walton-2026-08-18",
       "side": "Jaime Faria",
       "alerted_at": "2026-08-18T21:36:38.358229+00:00",
-      "last_seen": "2026-08-18T23:18:22.819437+00:00",
+      "last_seen": "2026-08-18T23:41:58.246774+00:00",
       "entry_price": 0.575,
-      "current_price": 0.77,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 173.913043,
-      "current_value": 133.91,
-      "paper_pnl": 33.91,
-      "return_percent": 33.91,
+      "current_value": 173.83,
+      "paper_pnl": 73.83,
+      "return_percent": 73.83,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 18895.67,
@@ -17696,14 +17697,14 @@
       "slug": "mlb-det-pit-2026-08-18",
       "side": "Detroit Tigers",
       "alerted_at": "2026-08-18T23:18:22.819437+00:00",
-      "last_seen": "2026-08-18T23:18:22.819437+00:00",
+      "last_seen": "2026-08-18T23:41:58.246774+00:00",
       "entry_price": 0.435,
-      "current_price": 0.435,
+      "current_price": 0.212704,
       "stake": 100.0,
       "shares": 229.885057,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 48.9,
+      "paper_pnl": -51.1,
+      "return_percent": -51.1,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 41925.08,
@@ -17713,7 +17714,31 @@
         "sbsigner"
       ],
       "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18"
+    },
+    {
+      "signal_id": "mlb-ari-bos-2026-08-18::Boston Red Sox",
+      "market": "Arizona Diamondbacks vs. Boston Red Sox",
+      "slug": "mlb-ari-bos-2026-08-18",
+      "side": "Boston Red Sox",
+      "alerted_at": "2026-08-18T23:41:58.246774+00:00",
+      "last_seen": "2026-08-18T23:41:58.246774+00:00",
+      "entry_price": 0.885,
+      "current_price": 0.885,
+      "stake": 100.0,
+      "shares": 112.99435,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 87113.27,
+      "traders": [
+        "texaskid",
+        "kingflop",
+        "wr0ngw4yb3tt0r"
+      ],
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T23:18:22.819437+00:00"
+  "updated_at": "2026-08-18T23:41:58.246774+00:00"
 }
