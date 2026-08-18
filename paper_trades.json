@@ -3532,7 +3532,7 @@
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "side": "Yes",
       "alerted_at": "2026-07-22T16:06:58.948618+00:00",
-      "last_seen": "2026-08-18T16:03:36.717719+00:00",
+      "last_seen": "2026-08-18T16:45:48.787520+00:00",
       "entry_price": 0.8475,
       "current_price": 0.8525,
       "stake": 100.0,
@@ -4943,7 +4943,7 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-18T16:03:36.717719+00:00",
+      "last_seen": "2026-08-18T16:45:48.787520+00:00",
       "entry_price": 0.505,
       "current_price": 0.285,
       "stake": 100.0,
@@ -7957,7 +7957,7 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-18T16:03:36.717719+00:00",
+      "last_seen": "2026-08-18T16:45:48.787520+00:00",
       "entry_price": 0.425,
       "current_price": 0.705,
       "stake": 100.0,
@@ -17206,7 +17206,7 @@
       "current_value": 206.08,
       "paper_pnl": 106.08,
       "return_percent": 106.08,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 46676.47,
       "traders": [
@@ -17214,7 +17214,8 @@
         "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
         "sentrio"
       ],
-      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18"
+      "url": "https://polymarket.com/event/lol-ns-dnf-2026-08-18",
+      "consensus_lost_at": "2026-08-18T16:45:48.787520+00:00"
     },
     {
       "signal_id": "lol-ns-dnf-2026-08-18-game2::DN SOOPers",
@@ -17347,14 +17348,14 @@
       "slug": "atp-rublev-borges-2026-08-18",
       "side": "Nuno Borges",
       "alerted_at": "2026-08-18T13:51:57.809731+00:00",
-      "last_seen": "2026-08-18T16:03:36.717719+00:00",
+      "last_seen": "2026-08-18T16:45:48.787520+00:00",
       "entry_price": 0.365,
-      "current_price": 0.555,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 273.972603,
-      "current_value": 152.05,
-      "paper_pnl": 52.05,
-      "return_percent": 52.05,
+      "current_value": 273.84,
+      "paper_pnl": 173.84,
+      "return_percent": 173.84,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 22629.38,
@@ -17489,5 +17490,5 @@
       "url": "https://polymarket.com/event/atp-rublev-borges-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-18T16:03:36.717719+00:00"
+  "updated_at": "2026-08-18T16:45:48.787520+00:00"
 }

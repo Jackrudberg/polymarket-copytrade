@@ -1,14 +1,131 @@
 {
   "seen_ids": [
-    "atp-rublev-borges-2026-08-18::Andrey Rublev",
-    "atp-rublev-borges-2026-08-18::Nuno Borges",
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers",
-    "mlb-bos-nyy-2026-06-06::New York Yankees"
+    "atp-rublev-borges-2026-08-18::Nuno Borges"
   ],
   "signals": [
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 506941.99,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.3775,
+          "value": 505969.08,
+          "avg_price": 0.7933,
+          "cur_price": 0.8525
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4571,
+          "value": 550.92,
+          "avg_price": 0.5,
+          "cur_price": 0.8525
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3845,
+          "value": 421.99,
+          "avg_price": 0.6685,
+          "cur_price": 0.8525
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 240740.87,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.3775,
+          "value": 238066.94,
+          "avg_price": 0.4251,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3845,
+          "value": 1802.6,
+          "avg_price": 0.3847,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4571,
+          "value": 871.33,
+          "avg_price": 0.5038,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 70711.59,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.4894,
+          "value": 62465.21,
+          "avg_price": 0.6666,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3845,
+          "value": 7863.53,
+          "avg_price": 0.4846,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4571,
+          "value": 382.85,
+          "avg_price": 0.5,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+      "slug": "atp-rublev-borges-2026-08-18",
+      "outcome": "Nuno Borges",
+      "num_traders": 3,
+      "total_value": 68481.87,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1892,
+          "value": 45903.52,
+          "avg_price": 0.3982,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.2902,
+          "value": 16904.04,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.5657,
+          "value": 5674.31,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
       "slug": "atp-rublev-borges-2026-08-18",
@@ -43,133 +160,6 @@
           "value": 2644.79,
           "avg_price": 0.3998,
           "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
-      "slug": "atp-rublev-borges-2026-08-18",
-      "outcome": "Nuno Borges",
-      "num_traders": 4,
-      "total_value": 46423.76,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1894,
-          "value": 25489.2,
-          "avg_price": 0.3982,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.3088,
-          "value": 9386.44,
-          "avg_price": 0.36,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.1662,
-          "value": 8397.3,
-          "avg_price": 0.5925,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.6822,
-          "value": 3150.82,
-          "avg_price": 0.36,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 506941.99,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.4316,
-          "value": 505969.08,
-          "avg_price": 0.7933,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4595,
-          "value": 550.92,
-          "avg_price": 0.5,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3545,
-          "value": 421.99,
-          "avg_price": 0.6685,
-          "cur_price": 0.8525
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 240740.87,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.4316,
-          "value": 238066.94,
-          "avg_price": 0.4251,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3545,
-          "value": 1802.6,
-          "avg_price": 0.3847,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4595,
-          "value": 871.33,
-          "avg_price": 0.5038,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 70711.59,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.6059,
-          "value": 62465.21,
-          "avg_price": 0.6666,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3545,
-          "value": 7863.53,
-          "avg_price": 0.4846,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4595,
-          "value": 382.85,
-          "avg_price": 0.5,
-          "cur_price": 0.705
         }
       ]
     },
@@ -1041,7 +1031,10 @@
     "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 3,
     "wnba-la-conn-2026-08-18-total-170pt5::Over": 3,
     "mlb-oak-kc-2026-08-18::Kansas City Royals": 3,
-    "lol-ns-dnf-2026-08-18::DN SOOPers": 1
+    "lol-ns-dnf-2026-08-18::DN SOOPers": 2,
+    "atp-rublev-borges-2026-08-18::Andrey Rublev": 1,
+    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 1,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1
   },
-  "updated_at": "2026-08-18T16:03:36.730691+00:00"
+  "updated_at": "2026-08-18T16:45:48.799036+00:00"
 }
