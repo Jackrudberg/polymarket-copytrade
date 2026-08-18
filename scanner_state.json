@@ -1,83 +1,46 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "lol-ns-dnf-2026-08-18::DN SOOPers",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "mlb-bos-nyy-2026-06-06::New York Yankees"
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "lol-dnsc-nsea-2026-08-18::DN SOOPers Challengers",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
   ],
   "signals": [
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 243065.9,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.2893,
-          "value": 238066.94,
-          "avg_price": 0.4251,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1971,
-          "value": 2325.03,
-          "avg_price": 0.3249,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.735,
-          "value": 1802.6,
-          "avg_price": 0.3847,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4462,
-          "value": 871.33,
-          "avg_price": 0.5038,
-          "cur_price": 0.285
-        }
-      ]
-    },
     {
       "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-ns-dnf-2026-08-18",
       "outcome": "DN SOOPers",
       "num_traders": 4,
-      "total_value": 99385.32,
+      "total_value": 113043.53,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2245,
-          "value": 46561.91,
+          "roi": 0.2357,
+          "value": 52960.77,
           "avg_price": 0.5091,
-          "cur_price": 0.855
+          "cur_price": 0.9725
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.8579,
-          "value": 22182.97,
+          "roi": 1.0529,
+          "value": 25231.5,
           "avg_price": 0.501,
-          "cur_price": 0.855
+          "cur_price": 0.9725
         },
         {
           "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.1612,
-          "value": 17100,
+          "roi": 0.1775,
+          "value": 19450,
           "avg_price": 0.52,
-          "cur_price": 0.855
+          "cur_price": 0.9725
         },
         {
           "trader": "sentrio",
-          "roi": 0.2566,
-          "value": 13540.44,
+          "roi": 0.2617,
+          "value": 15401.26,
           "avg_price": 0.5131,
-          "cur_price": 0.855
+          "cur_price": 0.9725
         }
       ]
     },
@@ -90,31 +53,121 @@
       "holders": [
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.8579,
+          "roi": 1.0529,
           "value": 63351.24,
           "avg_price": 0.6666,
           "cur_price": 0.715
         },
         {
           "trader": "quavoo",
-          "roi": 0.1971,
+          "roi": 0.1931,
           "value": 14655.33,
           "avg_price": 0.4021,
           "cur_price": 0.715
         },
         {
           "trader": "HolyMoses7",
-          "roi": 0.735,
+          "roi": 0.734,
           "value": 7975.06,
           "avg_price": 0.4846,
           "cur_price": 0.715
         },
         {
           "trader": "donthackme",
-          "roi": 0.4462,
+          "roi": 0.4487,
           "value": 388.28,
           "avg_price": 0.5,
           "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 22156.3,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2357,
+          "value": 13164.91,
+          "avg_price": 0.4899,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4355,
+          "value": 8577.77,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2617,
+          "value": 413.62,
+          "avg_price": 0.514,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "slug": "lol-dnsc-nsea-2026-08-18",
+      "outcome": "DN SOOPers Challengers",
+      "num_traders": 3,
+      "total_value": 16635.38,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3681,
+          "value": 14513.18,
+          "avg_price": 0.4361,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1931,
+          "value": 1727.14,
+          "avg_price": 0.4253,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2617,
+          "value": 395.06,
+          "avg_price": 0.4623,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4998.96,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.1931,
+          "value": 2325.03,
+          "avg_price": 0.3249,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.734,
+          "value": 1802.6,
+          "avg_price": 0.3847,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4487,
+          "value": 871.33,
+          "avg_price": 0.5038,
+          "cur_price": 0.285
         }
       ]
     },
@@ -145,36 +198,6 @@
           "value": 421.49,
           "avg_price": 0.6685,
           "cur_price": 0.8515
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 22156.3,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2245,
-          "value": 13164.91,
-          "avg_price": 0.4899,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4361,
-          "value": 8577.77,
-          "avg_price": 0.5,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2566,
-          "value": 413.62,
-          "avg_price": 0.514,
-          "cur_price": 0.475
         }
       ]
     },
@@ -964,7 +987,8 @@
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
     "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 3,
-    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 1
+    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 2,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1
   },
-  "updated_at": "2026-08-18T11:04:57.185250+00:00"
+  "updated_at": "2026-08-18T11:36:32.939021+00:00"
 }
