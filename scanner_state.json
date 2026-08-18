@@ -1,6 +1,7 @@
 {
   "seen_ids": [
-    "mlb-bos-nyy-2026-06-06::New York Yankees"
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No"
   ],
   "signals": [
     {
@@ -12,24 +13,54 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2331,
+          "roi": 0.2318,
           "value": 13164.91,
           "avg_price": 0.4899,
           "cur_price": 0.475
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4345,
+          "roi": 0.4362,
           "value": 8577.77,
           "avg_price": 0.5,
           "cur_price": 0.475
         },
         {
           "trader": "sentrio",
-          "roi": 0.3195,
+          "roi": 0.3179,
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
+      "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 630.86,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3168,
+          "value": 307.9,
+          "avg_price": 0.8968,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "merod",
+          "roi": 0.4229,
+          "value": 161.87,
+          "avg_price": 0.9198,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "korda77",
+          "roi": 0.4563,
+          "value": 161.09,
+          "avg_price": 0.9199,
+          "cur_price": 0.905
         }
       ]
     }
@@ -792,5 +823,5 @@
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3
   },
-  "updated_at": "2026-08-18T08:18:12.806667+00:00"
+  "updated_at": "2026-08-18T08:58:45.185411+00:00"
 }
