@@ -1,9 +1,100 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "wta-tjen-andreev-2026-08-18::Janice Tjen"
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima"
   ],
   "signals": [
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4837288.44,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1813,
+          "value": 4650000,
+          "avg_price": 0.4999,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.3452,
+          "value": 162750,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "LlamaLoco0000",
+          "roi": 0.3618,
+          "value": 24538.44,
+          "avg_price": 0.4564,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Daniil Medvedev",
+      "num_traders": 3,
+      "total_value": 44304.94,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.1522,
+          "value": 22275.92,
+          "avg_price": 0.5779,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.228,
+          "value": 13561.13,
+          "avg_price": 0.5696,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1813,
+          "value": 8467.89,
+          "avg_price": 0.5464,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Brandon Nakashima",
+      "num_traders": 3,
+      "total_value": 41742.17,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1813,
+          "value": 27031.0,
+          "avg_price": 0.4247,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.3869,
+          "value": 7787.31,
+          "avg_price": 0.4405,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.3046,
+          "value": 6923.86,
+          "avg_price": 0.43,
+          "cur_price": 0.485
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -61,66 +152,6 @@
           "value": 808.91,
           "avg_price": 0.13,
           "cur_price": 0.0755
-        }
-      ]
-    },
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 506941.99,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3775,
-          "value": 505969.08,
-          "avg_price": 0.7933,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4571,
-          "value": 550.92,
-          "avg_price": 0.5,
-          "cur_price": 0.8525
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3845,
-          "value": 421.99,
-          "avg_price": 0.6685,
-          "cur_price": 0.8525
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 240740.87,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3775,
-          "value": 238066.94,
-          "avg_price": 0.4251,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3845,
-          "value": 1802.6,
-          "avg_price": 0.3847,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4571,
-          "value": 871.33,
-          "avg_price": 0.5038,
-          "cur_price": 0.285
         }
       ]
     }
@@ -883,7 +914,6 @@
     "atp-bruncli-kumstat-2026-08-17::Jan Kumstat": 3,
     "lol-ns-dnf-2026-08-18-game3::DN SOOPers": 3,
     "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 3,
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
     "cs2-msc-bbp-2026-08-18::MASONIC": 3,
     "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 3,
     "wnba-la-conn-2026-08-18-total-170pt5::Over": 3,
@@ -893,8 +923,10 @@
     "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "atp-rublev-borges-2026-08-18::Nuno Borges": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "wta-tjen-andreev-2026-08-18::Janice Tjen": 1
   },
-  "updated_at": "2026-08-18T18:15:22.197805+00:00"
+  "updated_at": "2026-08-18T19:01:19.303208+00:00"
 }
