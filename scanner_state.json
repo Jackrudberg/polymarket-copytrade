@@ -1,69 +1,180 @@
 {
   "seen_ids": [
     "lol-ns-dnf-2026-08-18::DN SOOPers",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "lol-ns-dnf-2026-08-18-game3::DN SOOPers",
-    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers",
     "atp-rublev-borges-2026-08-18::Nuno Borges",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "lol-ns-dnf-2026-08-18-game2::DN SOOPers",
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima",
-    "cs2-msc-bbp-2026-08-18::MASONIC",
-    "mlb-det-pit-2026-08-18::Pittsburgh Pirates",
-    "wnba-la-conn-2026-08-18-total-170pt5::Over",
-    "mlb-oak-kc-2026-08-18::Kansas City Royals"
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers",
+    "mlb-bos-nyy-2026-06-06::New York Yankees"
   ],
   "signals": [
     {
       "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-ns-dnf-2026-08-18",
       "outcome": "DN SOOPers",
-      "num_traders": 6,
-      "total_value": 131020.3,
+      "num_traders": 5,
+      "total_value": 128521.55,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.22,
+          "roi": 0.1962,
           "value": 54431.15,
           "avg_price": 0.5091,
           "cur_price": 0.9995
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.1588,
+          "roi": 1.1637,
           "value": 25932.02,
           "avg_price": 0.501,
           "cur_price": 0.9995
         },
         {
           "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.1959,
+          "roi": 0.2067,
           "value": 19990,
           "avg_price": 0.52,
           "cur_price": 0.9995
         },
         {
           "trader": "sentrio",
-          "roi": 0.2159,
+          "roi": 0.1774,
           "value": 15828.86,
           "avg_price": 0.5131,
           "cur_price": 0.9995
         },
         {
           "trader": "Lakersfan111",
-          "roi": 0.4943,
+          "roi": 0.4099,
           "value": 12339.52,
           "avg_price": 0.5099,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+      "slug": "atp-rublev-borges-2026-08-18",
+      "outcome": "Nuno Borges",
+      "num_traders": 4,
+      "total_value": 21657.19,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1962,
+          "value": 13390.02,
+          "avg_price": 0.35,
+          "cur_price": 0.355
         },
         {
-          "trader": "Skyfker",
-          "roi": 0.2558,
-          "value": 2498.75,
-          "avg_price": 0.84,
+          "trader": "dv-pm",
+          "roi": 0.6013,
+          "value": 6003.94,
+          "avg_price": 0.36,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.6836,
+          "value": 2015.39,
+          "avg_price": 0.36,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1774,
+          "value": 247.84,
+          "avg_price": 0.3699,
+          "cur_price": 0.355
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 70711.59,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 1.1637,
+          "value": 62465.21,
+          "avg_price": 0.6666,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.3683,
+          "value": 7863.53,
+          "avg_price": 0.4846,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4487,
+          "value": 382.85,
+          "avg_price": 0.5,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "slug": "lol-genga-bro1-2026-08-18",
+      "outcome": "HANJIN BRION Challengers",
+      "num_traders": 3,
+      "total_value": 31413.74,
+      "holders": [
+        {
+          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+          "roi": 0.2067,
+          "value": 14992.22,
+          "avg_price": 0.6602,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3566,
+          "value": 9295.34,
+          "avg_price": 0.6666,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1962,
+          "value": 7126.18,
+          "avg_price": 0.6749,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 22156.3,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1962,
+          "value": 13164.91,
+          "avg_price": 0.4899,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4064,
+          "value": 8577.77,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1774,
+          "value": 413.62,
+          "avg_price": 0.514,
+          "cur_price": 0.475
         }
       ]
     },
@@ -101,43 +212,6 @@
           "value": 871.33,
           "avg_price": 0.5038,
           "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 85161.95,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.1588,
-          "value": 62465.21,
-          "avg_price": 0.6666,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1563,
-          "value": 14450.36,
-          "avg_price": 0.4021,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "HolyMoses7",
-          "roi": 0.3699,
-          "value": 7863.53,
-          "avg_price": 0.4846,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.5026,
-          "value": 382.85,
-          "avg_price": 0.5,
-          "cur_price": 0.705
         }
       ]
     },
@@ -198,96 +272,6 @@
           "value": 5144.63,
           "avg_price": 0.5092,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
-      "slug": "lol-genga-bro1-2026-08-18",
-      "outcome": "HANJIN BRION Challengers",
-      "num_traders": 3,
-      "total_value": 31413.74,
-      "holders": [
-        {
-          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-          "roi": 0.1959,
-          "value": 14992.22,
-          "avg_price": 0.6602,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3603,
-          "value": 9295.34,
-          "avg_price": 0.6666,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.22,
-          "value": 7126.18,
-          "avg_price": 0.6749,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
-      "slug": "atp-rublev-borges-2026-08-18",
-      "outcome": "Nuno Borges",
-      "num_traders": 3,
-      "total_value": 22629.38,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.1563,
-          "value": 20302.4,
-          "avg_price": 0.3841,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.68,
-          "value": 2072.16,
-          "avg_price": 0.36,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2159,
-          "value": 254.82,
-          "avg_price": 0.3699,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 22156.3,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.22,
-          "value": 13164.91,
-          "avg_price": 0.4899,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4328,
-          "value": 8577.77,
-          "avg_price": 0.5,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2159,
-          "value": 413.62,
-          "avg_price": 0.514,
-          "cur_price": 0.475
         }
       ]
     },
@@ -498,36 +482,6 @@
           "value": 462.5,
           "avg_price": 0.5682,
           "cur_price": 0.955
-        }
-      ]
-    },
-    {
-      "market": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
-      "slug": "lol-dnsc-nsea-2026-08-18",
-      "outcome": "DN SOOPers Challengers",
-      "num_traders": 3,
-      "total_value": 16635.38,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3537,
-          "value": 14513.18,
-          "avg_price": 0.4361,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1729,
-          "value": 1727.14,
-          "avg_price": 0.4253,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2623,
-          "value": 395.06,
-          "avg_price": 0.4623,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1286,8 +1240,17 @@
     "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 3,
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
     "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 3,
-    "lol-dnsc-nsea-2026-08-18::DN SOOPers Challengers": 2,
-    "atp-bruncli-kumstat-2026-08-17::Jan Kumstat": 1
+    "lol-dnsc-nsea-2026-08-18::DN SOOPers Challengers": 3,
+    "atp-bruncli-kumstat-2026-08-17::Jan Kumstat": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "lol-ns-dnf-2026-08-18-game3::DN SOOPers": 1,
+    "lol-ns-dnf-2026-08-18-game2::DN SOOPers": 1,
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 1,
+    "cs2-msc-bbp-2026-08-18::MASONIC": 1,
+    "mlb-det-pit-2026-08-18::Pittsburgh Pirates": 1,
+    "wnba-la-conn-2026-08-18-total-170pt5::Over": 1,
+    "mlb-oak-kc-2026-08-18::Kansas City Royals": 1
   },
-  "updated_at": "2026-08-18T14:24:02.924210+00:00"
+  "updated_at": "2026-08-18T15:01:36.451020+00:00"
 }
