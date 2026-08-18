@@ -1,9 +1,78 @@
 {
   "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "lol-ns-dnf-2026-08-18::DN SOOPers",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 86369.91,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.686,
+          "value": 63351.24,
+          "avg_price": 0.6666,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.2034,
+          "value": 14655.33,
+          "avg_price": 0.4021,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.7622,
+          "value": 7975.06,
+          "avg_price": 0.4846,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4619,
+          "value": 388.28,
+          "avg_price": 0.5,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+      "slug": "lol-ns-dnf-2026-08-18",
+      "outcome": "DN SOOPers",
+      "num_traders": 3,
+      "total_value": 46676.47,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2291,
+          "value": 26412.31,
+          "avg_price": 0.5091,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.686,
+          "value": 12583.32,
+          "avg_price": 0.501,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.3102,
+          "value": 7680.84,
+          "avg_price": 0.5131,
+          "cur_price": 0.485
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
@@ -13,24 +82,54 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2318,
+          "roi": 0.2291,
           "value": 13164.91,
           "avg_price": 0.4899,
           "cur_price": 0.475
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4362,
+          "roi": 0.4361,
           "value": 8577.77,
           "avg_price": 0.5,
           "cur_price": 0.475
         },
         {
           "trader": "sentrio",
-          "roi": 0.3179,
+          "roi": 0.3102,
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4998.96,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2034,
+          "value": 2325.03,
+          "avg_price": 0.3249,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.7622,
+          "value": 1802.6,
+          "avg_price": 0.3847,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4619,
+          "value": 871.33,
+          "avg_price": 0.5038,
+          "cur_price": 0.285
         }
       ]
     },
@@ -818,10 +917,9 @@
     "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 3,
     "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 3,
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
+    "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 1
   },
-  "updated_at": "2026-08-18T08:58:45.185411+00:00"
+  "updated_at": "2026-08-18T09:41:26.755197+00:00"
 }
