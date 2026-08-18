@@ -1,10 +1,109 @@
 {
   "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "wta-eala-anisimo-2026-08-17::Amanda Anisimova",
-    "mex-pac-pue-2026-08-17-pac::Yes"
+    "atp-nakashi-medvede-2026-08-18::Brandon Nakashima"
   ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 434331.79,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.3858,
+          "value": 246420.16,
+          "avg_price": 0.4251,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2182,
+          "value": 184603.11,
+          "avg_price": 0.3767,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3242,
+          "value": 2406.61,
+          "avg_price": 0.3249,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3365,
+          "value": 901.91,
+          "avg_price": 0.5038,
+          "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 514440.94,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.3858,
+          "value": 505375.57,
+          "avg_price": 0.7933,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2182,
+          "value": 8515.09,
+          "avg_price": 0.8574,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3365,
+          "value": 550.28,
+          "avg_price": 0.5,
+          "cur_price": 0.8515
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 22193.62,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.3242,
+          "value": 14655.33,
+          "avg_price": 0.4021,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2182,
+          "value": 7150.01,
+          "avg_price": 0.7499,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3365,
+          "value": 388.28,
+          "avg_price": 0.5,
+          "cur_price": 0.715
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-06-06",
@@ -14,24 +113,54 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3372,
+          "roi": 0.291,
           "value": 13026.33,
           "avg_price": 0.4899,
           "cur_price": 0.47
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4325,
+          "roi": 0.4342,
           "value": 8487.48,
           "avg_price": 0.5,
           "cur_price": 0.47
         },
         {
           "trader": "sentrio",
-          "roi": 0.6342,
+          "roi": 0.4361,
           "value": 409.27,
           "avg_price": 0.514,
           "cur_price": 0.47
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+      "slug": "atp-nakashi-medvede-2026-08-18",
+      "outcome": "Brandon Nakashima",
+      "num_traders": 3,
+      "total_value": 10616.81,
+      "holders": [
+        {
+          "trader": "sentrio",
+          "roi": 0.4361,
+          "value": 6601.84,
+          "avg_price": 0.4382,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1896,
+          "value": 3825,
+          "avg_price": 0.46,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3242,
+          "value": 189.97,
+          "avg_price": 0.4299,
+          "cur_price": 0.425
         }
       ]
     },
@@ -293,216 +422,6 @@
           "value": 164.92,
           "avg_price": 0.5381,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Club Le\u00f3n FC win on 2026-08-17?",
-      "slug": "mex-nec-leo-2026-08-17-leo",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 70395.87,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 39500.24,
-          "avg_price": 0.3675,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 27076.05,
-          "avg_price": 0.453,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 3819.58,
-          "avg_price": 0.3658,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla: O/U 2.5",
-      "slug": "mex-pac-pue-2026-08-17-total-2pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 15302.96,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 12904.51,
-          "avg_price": 0.5699,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 1458.35,
-          "avg_price": 0.5699,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 940.1,
-          "avg_price": 0.5596,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Will CF Pachuca vs. Club Puebla end in a draw?",
-      "slug": "mex-pac-pue-2026-08-17-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 13226.23,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 9654.39,
-          "avg_price": 0.8094,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 3423.09,
-          "avg_price": 0.7699,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 148.75,
-          "avg_price": 0.7699,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "Will Club Puebla win on 2026-08-17?",
-      "slug": "mex-pac-pue-2026-08-17-pue",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10313.38,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 9979.91,
-          "avg_price": 0.4707,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 173.62,
-          "avg_price": 0.14,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 159.85,
-          "avg_price": 0.1599,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Tommy Paul vs Adolfo Vallejo",
-      "slug": "atp-paul-vallejo-2026-08-17",
-      "outcome": "Adolfo Vallejo",
-      "num_traders": 3,
-      "total_value": 5057.01,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.5021,
-          "value": 3491.38,
-          "avg_price": 0.2,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.5519,
-          "value": 1270.36,
-          "avg_price": 0.47,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 295.27,
-          "avg_price": 0.2099,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla: O/U 1.5",
-      "slug": "mex-pac-pue-2026-08-17-total-1pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 2163.56,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 1026.91,
-          "avg_price": 0.7942,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 739.27,
-          "avg_price": 0.8,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3154,
-          "value": 397.38,
-          "avg_price": 0.8,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "CF Pachuca vs. Club Puebla: O/U 3.5",
-      "slug": "mex-pac-pue-2026-08-17-total-3pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 1099.94,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1807,
-          "value": 690.34,
-          "avg_price": 0.7055,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3254,
-          "value": 269.8,
-          "avg_price": 0.3499,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.5519,
-          "value": 139.8,
-          "avg_price": 0.3317,
-          "cur_price": 0.355
         }
       ]
     }
@@ -1104,7 +1023,6 @@
     "dota2-vsn2-flc-2026-08-13::TEAM VISION": 3,
     "cs2-big5-g2-2026-08-13::G2": 3,
     "cs2-lgc-faze-2026-08-13::Legacy": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "nfl-lac-hou-2026-08-14::Chargers": 3,
     "will-nigel-farage-win-7080-of-votes-in-the-clacton-parliamentary-by-election-20260708151424125::Yes": 3,
     "mlb-tex-laa-2026-08-13::Los Angeles Angels": 3,
@@ -1238,8 +1156,6 @@
     "lol-gx-kc-2026-08-17::Karmine Corp": 3,
     "lol-gx-kc-2026-08-17-game2::Karmine Corp": 3,
     "lol-gx-kc-2026-08-17-game1::Karmine Corp": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "wta-cirstea-kalinsk-2026-08-17::Anna Kalinskaya": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
@@ -1248,19 +1164,21 @@
     "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "mlb-cws-chc-2026-08-17::Chicago Cubs": 3,
     "wnba-dal-gsv-2026-08-17::Dallas Wings": 3,
-    "mex-nec-leo-2026-08-17-leo::Yes": 2,
-    "mex-pac-pue-2026-08-17-total-2pt5::Over": 2,
-    "mex-pac-pue-2026-08-17-draw::No": 2,
-    "mex-pac-pue-2026-08-17-pue::Yes": 2,
-    "atp-paul-vallejo-2026-08-17::Adolfo Vallejo": 2,
-    "mex-pac-pue-2026-08-17-total-1pt5::Over": 2,
-    "mex-pac-pue-2026-08-17-total-3pt5::Over": 2,
-    "wnba-dal-gsv-2026-08-17::Golden State Valkyries": 1,
-    "wnba-dal-gsv-2026-08-17-total-162pt5::Under": 1,
-    "wta-eala-anisimo-2026-08-17::Alexandra Eala": 1,
-    "wnba-dal-gsv-2026-08-17-total-161pt5::Under": 1,
-    "wnba-dal-gsv-2026-08-17-spread-home-6pt5::Golden State Valkyries": 1,
-    "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 1
+    "mex-nec-leo-2026-08-17-leo::Yes": 3,
+    "mex-pac-pue-2026-08-17-total-2pt5::Over": 3,
+    "mex-pac-pue-2026-08-17-draw::No": 3,
+    "mex-pac-pue-2026-08-17-pue::Yes": 3,
+    "atp-paul-vallejo-2026-08-17::Adolfo Vallejo": 3,
+    "mex-pac-pue-2026-08-17-total-1pt5::Over": 3,
+    "mex-pac-pue-2026-08-17-total-3pt5::Over": 3,
+    "wnba-dal-gsv-2026-08-17::Golden State Valkyries": 2,
+    "wnba-dal-gsv-2026-08-17-total-162pt5::Under": 2,
+    "wta-eala-anisimo-2026-08-17::Alexandra Eala": 2,
+    "wnba-dal-gsv-2026-08-17-total-161pt5::Under": 2,
+    "wnba-dal-gsv-2026-08-17-spread-home-6pt5::Golden State Valkyries": 2,
+    "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 2,
+    "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 1,
+    "mex-pac-pue-2026-08-17-pac::Yes": 1
   },
-  "updated_at": "2026-08-18T05:05:38.895551+00:00"
+  "updated_at": "2026-08-18T05:42:11.596179+00:00"
 }
