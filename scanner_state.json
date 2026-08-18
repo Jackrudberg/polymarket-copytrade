@@ -1,68 +1,104 @@
 {
   "seen_ids": [
-    "mlb-ari-bos-2026-08-18::Boston Red Sox",
     "mlb-oak-kc-2026-08-18::Kansas City Royals",
-    "atp-faria-walton-2026-08-18::Jaime Faria",
+    "mlb-ari-bos-2026-08-18::Boston Red Sox",
     "mlb-det-pit-2026-08-18::Detroit Tigers"
   ],
   "signals": [
+    {
+      "market": "Athletics vs. Kansas City Royals",
+      "slug": "mlb-oak-kc-2026-08-18",
+      "outcome": "Kansas City Royals",
+      "num_traders": 4,
+      "total_value": 70411.28,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.2437,
+          "value": 48500,
+          "avg_price": 0.59,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2676,
+          "value": 12054.23,
+          "avg_price": 0.5622,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3351,
+          "value": 9700,
+          "avg_price": 0.59,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.6536,
+          "value": 157.05,
+          "avg_price": 0.5699,
+          "cur_price": 0.485
+        }
+      ]
+    },
     {
       "market": "Arizona Diamondbacks vs. Boston Red Sox",
       "slug": "mlb-ari-bos-2026-08-18",
       "outcome": "Boston Red Sox",
       "num_traders": 3,
-      "total_value": 87113.27,
+      "total_value": 84304.2,
       "holders": [
         {
           "trader": "texaskid",
           "roi": 0.2437,
-          "value": 79650,
+          "value": 76050,
           "avg_price": 0.6,
-          "cur_price": 0.885
+          "cur_price": 0.845
         },
         {
           "trader": "kingflop",
           "roi": 0.2665,
-          "value": 7160.66,
+          "value": 6837.01,
           "avg_price": 0.6,
-          "cur_price": 0.885
+          "cur_price": 0.845
         },
         {
           "trader": "wr0ngw4yb3tt0r",
           "roi": 0.2676,
-          "value": 302.61,
-          "avg_price": 0.6199,
-          "cur_price": 0.885
+          "value": 1417.19,
+          "avg_price": 0.7804,
+          "cur_price": 0.845
         }
       ]
     },
     {
-      "market": "Athletics vs. Kansas City Royals",
-      "slug": "mlb-oak-kc-2026-08-18",
-      "outcome": "Kansas City Royals",
+      "market": "Detroit Tigers vs. Pittsburgh Pirates",
+      "slug": "mlb-det-pit-2026-08-18",
+      "outcome": "Detroit Tigers",
       "num_traders": 3,
-      "total_value": 71592.67,
+      "total_value": 14938.83,
       "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.2437,
-          "value": 59500,
-          "avg_price": 0.59,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3351,
-          "value": 11900,
-          "avg_price": 0.59,
-          "cur_price": 0.595
-        },
         {
           "trader": "SDTrading",
           "roi": 0.6536,
-          "value": 192.67,
-          "avg_price": 0.5699,
-          "cur_price": 0.595
+          "value": 7750,
+          "avg_price": 0.42,
+          "cur_price": 0.155
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2676,
+          "value": 6545.14,
+          "avg_price": 0.4082,
+          "cur_price": 0.155
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3538,
+          "value": 643.69,
+          "avg_price": 0.3899,
+          "cur_price": 0.155
         }
       ]
     },
@@ -97,36 +133,6 @@
       ]
     },
     {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates",
-      "slug": "mlb-det-pit-2026-08-18",
-      "outcome": "Detroit Tigers",
-      "num_traders": 3,
-      "total_value": 20347.84,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.6536,
-          "value": 10750,
-          "avg_price": 0.42,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2676,
-          "value": 9078.74,
-          "avg_price": 0.4082,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.3538,
-          "value": 519.1,
-          "avg_price": 0.3899,
-          "cur_price": 0.125
-        }
-      ]
-    },
-    {
       "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
       "slug": "atp-tien-tiafoe-2026-08-18",
       "outcome": "Learner Tien",
@@ -153,36 +159,6 @@
           "value": 130.21,
           "avg_price": 0.54,
           "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
-      "slug": "wta-bejlek-alexand-2026-08-18",
-      "outcome": "Ekaterina Alexandrova",
-      "num_traders": 3,
-      "total_value": 1788.02,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1714,
-          "value": 1204.14,
-          "avg_price": 0.4899,
-          "cur_price": 0.045
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2404,
-          "value": 367.02,
-          "avg_price": 0.49,
-          "cur_price": 0.045
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.3599,
-          "value": 216.86,
-          "avg_price": 0.49,
-          "cur_price": 0.045
         }
       ]
     }
@@ -962,8 +938,9 @@
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "mlb-atl-min-2026-08-18::Atlanta Braves": 3,
-    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 2,
-    "atp-tien-tiafoe-2026-08-18::Learner Tien": 1
+    "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 3,
+    "atp-tien-tiafoe-2026-08-18::Learner Tien": 2,
+    "atp-faria-walton-2026-08-18::Jaime Faria": 1
   },
-  "updated_at": "2026-08-18T23:41:58.262499+00:00"
+  "updated_at": "2026-08-18T23:59:47.885807+00:00"
 }
