@@ -1,11 +1,50 @@
 {
   "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "lol-ns-dnf-2026-08-18::DN SOOPers",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
+    "lol-ns-dnf-2026-08-18-game2::DN SOOPers"
   ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 243065.9,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2893,
+          "value": 238066.94,
+          "avg_price": 0.4251,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1971,
+          "value": 2325.03,
+          "avg_price": 0.3249,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.735,
+          "value": 1802.6,
+          "avg_price": 0.3847,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4462,
+          "value": 871.33,
+          "avg_price": 0.5038,
+          "cur_price": 0.285
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -15,28 +54,28 @@
       "holders": [
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.686,
+          "roi": 0.8579,
           "value": 63351.24,
           "avg_price": 0.6666,
           "cur_price": 0.715
         },
         {
           "trader": "quavoo",
-          "roi": 0.2034,
+          "roi": 0.1971,
           "value": 14655.33,
           "avg_price": 0.4021,
           "cur_price": 0.715
         },
         {
           "trader": "HolyMoses7",
-          "roi": 0.7622,
+          "roi": 0.735,
           "value": 7975.06,
           "avg_price": 0.4846,
           "cur_price": 0.715
         },
         {
           "trader": "donthackme",
-          "roi": 0.4619,
+          "roi": 0.4462,
           "value": 388.28,
           "avg_price": 0.5,
           "cur_price": 0.715
@@ -47,29 +86,66 @@
       "market": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
       "slug": "lol-ns-dnf-2026-08-18",
       "outcome": "DN SOOPers",
-      "num_traders": 3,
-      "total_value": 62074.9,
+      "num_traders": 4,
+      "total_value": 79624.5,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2291,
-          "value": 35125.66,
+          "roi": 0.2245,
+          "value": 37303.99,
           "avg_price": 0.5091,
-          "cur_price": 0.645
+          "cur_price": 0.685
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.686,
-          "value": 16734.52,
+          "roi": 0.8579,
+          "value": 17772.32,
           "avg_price": 0.501,
-          "cur_price": 0.645
+          "cur_price": 0.685
+        },
+        {
+          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+          "roi": 0.1612,
+          "value": 13700,
+          "avg_price": 0.52,
+          "cur_price": 0.685
         },
         {
           "trader": "sentrio",
-          "roi": 0.3102,
-          "value": 10214.72,
+          "roi": 0.2566,
+          "value": 10848.19,
           "avg_price": 0.5131,
-          "cur_price": 0.645
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 506347.34,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2893,
+          "value": 505375.57,
+          "avg_price": 0.7933,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4462,
+          "value": 550.28,
+          "avg_price": 0.5,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "HolyMoses7",
+          "roi": 0.735,
+          "value": 421.49,
+          "avg_price": 0.6685,
+          "cur_price": 0.8515
         }
       ]
     },
@@ -82,7 +158,7 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2291,
+          "roi": 0.2245,
           "value": 13164.91,
           "avg_price": 0.4899,
           "cur_price": 0.475
@@ -96,7 +172,7 @@
         },
         {
           "trader": "sentrio",
-          "roi": 0.3102,
+          "roi": 0.2566,
           "value": 413.62,
           "avg_price": 0.514,
           "cur_price": 0.475
@@ -104,62 +180,32 @@
       ]
     },
     {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
+      "market": "LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner",
+      "slug": "lol-ns-dnf-2026-08-18-game2",
+      "outcome": "DN SOOPers",
       "num_traders": 3,
-      "total_value": 4998.96,
+      "total_value": 20003.48,
       "holders": [
         {
-          "trader": "quavoo",
-          "roi": 0.2034,
-          "value": 2325.03,
-          "avg_price": 0.3249,
-          "cur_price": 0.285
+          "trader": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+          "roi": 0.1612,
+          "value": 12299.99,
+          "avg_price": 0.5145,
+          "cur_price": 0.615
         },
         {
-          "trader": "HolyMoses7",
-          "roi": 0.7622,
-          "value": 1802.6,
-          "avg_price": 0.3847,
-          "cur_price": 0.285
+          "trader": "111111111115",
+          "roi": 0.2644,
+          "value": 3913.13,
+          "avg_price": 0.4999,
+          "cur_price": 0.615
         },
         {
-          "trader": "donthackme",
-          "roi": 0.4619,
-          "value": 871.33,
-          "avg_price": 0.5038,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will Alphabet be the second-largest company in the world by market cap on August 31?",
-      "slug": "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 630.86,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3168,
-          "value": 307.9,
-          "avg_price": 0.8968,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "merod",
-          "roi": 0.4229,
-          "value": 161.87,
-          "avg_price": 0.9198,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "korda77",
-          "roi": 0.4563,
-          "value": 161.09,
-          "avg_price": 0.9199,
-          "cur_price": 0.905
+          "trader": "0x7986576408b65a9805AC85553Be33Ad0B044BAa5-1781719173927",
+          "roi": 0.4284,
+          "value": 3790.36,
+          "avg_price": 0.4951,
+          "cur_price": 0.615
         }
       ]
     }
@@ -917,9 +963,8 @@
     "wnba-dal-gsv-2026-08-17-total-163pt5::Under": 3,
     "wta-eala-anisimo-2026-08-17::Amanda Anisimova": 3,
     "mex-pac-pue-2026-08-17-pac::Yes": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "atp-nakashi-medvede-2026-08-18::Brandon Nakashima": 3,
-    "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 2
+    "will-alphabet-be-the-second-largest-company-in-the-world-by-market-cap-on-august-31-20260715202602575::No": 3
   },
-  "updated_at": "2026-08-18T10:04:34.566903+00:00"
+  "updated_at": "2026-08-18T10:42:44.246477+00:00"
 }
