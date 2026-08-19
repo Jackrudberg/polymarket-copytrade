@@ -1,11 +1,10 @@
 {
   "seen_ids": [
     "mlb-lad-col-2026-08-18::Los Angeles Dodgers",
-    "mlb-cws-chc-2026-08-18-total-9pt5::Over",
-    "mlb-wsh-tex-2026-08-18-total-8pt5::Under",
-    "wnba-nyl-chi-2026-08-18-spread-away-4pt5::Chicago Sky",
-    "atp-tien-tiafoe-2026-08-18::Frances Tiafoe",
     "wnba-nyl-chi-2026-08-18::Chicago Sky",
+    "mlb-cws-chc-2026-08-18-total-9pt5::Over",
+    "wnba-nyl-chi-2026-08-18-spread-away-4pt5::Chicago Sky",
+    "wnba-atl-las-2026-08-18-total-179pt5::Under",
     "mlb-cws-chc-2026-08-18::Chicago White Sox"
   ],
   "signals": [
@@ -14,35 +13,72 @@
       "slug": "mlb-lad-col-2026-08-18",
       "outcome": "Los Angeles Dodgers",
       "num_traders": 4,
-      "total_value": 62812.63,
+      "total_value": 65302.55,
       "holders": [
         {
           "trader": "0F62",
           "roi": 0.1946,
-          "value": 58933.26,
+          "value": 60824.17,
           "avg_price": 0.6936,
-          "cur_price": 0.935
+          "cur_price": 0.965
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
           "roi": 0.1901,
-          "value": 2613.38,
-          "avg_price": 0.7099,
-          "cur_price": 0.935
+          "value": 3152.47,
+          "avg_price": 0.7229,
+          "cur_price": 0.965
         },
         {
           "trader": "quavoo",
           "roi": 0.3618,
-          "value": 897.6,
+          "value": 926.4,
           "avg_price": 0.64,
-          "cur_price": 0.935
+          "cur_price": 0.965
         },
         {
           "trader": "purplegatto",
           "roi": 0.5488,
-          "value": 368.39,
-          "avg_price": 0.9629,
-          "cur_price": 0.935
+          "value": 399.51,
+          "avg_price": 0.9618,
+          "cur_price": 0.965
+        }
+      ]
+    },
+    {
+      "market": "New York Liberty vs. Chicago Sky",
+      "slug": "wnba-nyl-chi-2026-08-18",
+      "outcome": "Chicago Sky",
+      "num_traders": 4,
+      "total_value": 27720.37,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.5703,
+          "value": 13992.99,
+          "avg_price": 0.35,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.1891,
+          "value": 10556.11,
+          "avg_price": 0.4738,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1901,
+          "value": 2820.45,
+          "avg_price": 0.8838,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3618,
+          "value": 350.82,
+          "avg_price": 0.3677,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -51,35 +87,125 @@
       "slug": "mlb-cws-chc-2026-08-18-total-9pt5",
       "outcome": "Over",
       "num_traders": 4,
-      "total_value": 2545.9,
+      "total_value": 2437.56,
       "holders": [
         {
           "trader": "purplegatto",
           "roi": 0.5488,
-          "value": 1596.51,
+          "value": 1528.57,
           "avg_price": 0.4701,
-          "cur_price": 0.235
+          "cur_price": 0.225
         },
         {
           "trader": "quavoo",
           "roi": 0.3618,
-          "value": 553.18,
+          "value": 529.64,
           "avg_price": 0.4619,
-          "cur_price": 0.235
+          "cur_price": 0.225
         },
         {
           "trader": "torta.tech",
           "roi": 0.1891,
-          "value": 248.87,
+          "value": 238.28,
           "avg_price": 0.6231,
-          "cur_price": 0.235
+          "cur_price": 0.225
         },
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
           "roi": 0.1901,
-          "value": 147.34,
+          "value": 141.07,
           "avg_price": 0.4699,
-          "cur_price": 0.235
+          "cur_price": 0.225
+        }
+      ]
+    },
+    {
+      "market": "Spread: New York Liberty (-4.5)",
+      "slug": "wnba-nyl-chi-2026-08-18-spread-away-4pt5",
+      "outcome": "Chicago Sky",
+      "num_traders": 3,
+      "total_value": 25641.99,
+      "holders": [
+        {
+          "trader": "feelingsuicidal",
+          "roi": 0.2242,
+          "value": 21199.4,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "paquitomillonario",
+          "roi": 0.2901,
+          "value": 2477.57,
+          "avg_price": 0.5799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3618,
+          "value": 1965.02,
+          "avg_price": 0.5122,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces: O/U 179.5",
+      "slug": "wnba-atl-las-2026-08-18-total-179pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 9782.7,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.3618,
+          "value": 5538.23,
+          "avg_price": 0.5221,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.5488,
+          "value": 4098.83,
+          "avg_price": 0.4939,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.1891,
+          "value": 145.64,
+          "avg_price": 0.403,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Chicago White Sox vs. Chicago Cubs",
+      "slug": "mlb-cws-chc-2026-08-18",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 9031.71,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1901,
+          "value": 8051.91,
+          "avg_price": 0.3799,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.1891,
+          "value": 729.88,
+          "avg_price": 0.5419,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3618,
+          "value": 249.92,
+          "avg_price": 0.38,
+          "cur_price": 0.355
         }
       ]
     },
@@ -114,36 +240,6 @@
       ]
     },
     {
-      "market": "Spread: New York Liberty (-4.5)",
-      "slug": "wnba-nyl-chi-2026-08-18-spread-away-4pt5",
-      "outcome": "Chicago Sky",
-      "num_traders": 3,
-      "total_value": 18343.19,
-      "holders": [
-        {
-          "trader": "feelingsuicidal",
-          "roi": 0.2242,
-          "value": 15165.15,
-          "avg_price": 0.49,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "paquitomillonario",
-          "roi": 0.2901,
-          "value": 1772.35,
-          "avg_price": 0.5799,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3618,
-          "value": 1405.69,
-          "avg_price": 0.5122,
-          "cur_price": 0.715
-        }
-      ]
-    },
-    {
       "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
       "slug": "atp-tien-tiafoe-2026-08-18",
       "outcome": "Frances Tiafoe",
@@ -170,66 +266,6 @@
           "value": 1232.57,
           "avg_price": 0.6962,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "New York Liberty vs. Chicago Sky",
-      "slug": "wnba-nyl-chi-2026-08-18",
-      "outcome": "Chicago Sky",
-      "num_traders": 3,
-      "total_value": 14733.03,
-      "holders": [
-        {
-          "trader": "Nooserac",
-          "roi": 0.5703,
-          "value": 8330.0,
-          "avg_price": 0.35,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "torta.tech",
-          "roi": 0.1891,
-          "value": 6284.03,
-          "avg_price": 0.4738,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1901,
-          "value": 119,
-          "avg_price": 0.54,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Chicago Cubs",
-      "slug": "mlb-cws-chc-2026-08-18",
-      "outcome": "Chicago White Sox",
-      "num_traders": 3,
-      "total_value": 10558.2,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1901,
-          "value": 9412.8,
-          "avg_price": 0.3799,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "torta.tech",
-          "roi": 0.1891,
-          "value": 853.24,
-          "avg_price": 0.5419,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3618,
-          "value": 292.16,
-          "avg_price": 0.38,
-          "cur_price": 0.415
         }
       ]
     },
@@ -290,103 +326,6 @@
           "value": 111.98,
           "avg_price": 0.4757,
           "cur_price": 0.52
-        }
-      ]
-    },
-    {
-      "market": "Athletics vs. Kansas City Royals",
-      "slug": "mlb-oak-kc-2026-08-18",
-      "outcome": "Kansas City Royals",
-      "num_traders": 4,
-      "total_value": 70411.28,
-      "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.2437,
-          "value": 48500,
-          "avg_price": 0.59,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2676,
-          "value": 12054.23,
-          "avg_price": 0.5622,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3351,
-          "value": 9700,
-          "avg_price": 0.59,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "SDTrading",
-          "roi": 0.6536,
-          "value": 157.05,
-          "avg_price": 0.5699,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Arizona Diamondbacks vs. Boston Red Sox",
-      "slug": "mlb-ari-bos-2026-08-18",
-      "outcome": "Boston Red Sox",
-      "num_traders": 3,
-      "total_value": 84304.2,
-      "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.2437,
-          "value": 76050,
-          "avg_price": 0.6,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2665,
-          "value": 6837.01,
-          "avg_price": 0.6,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2676,
-          "value": 1417.19,
-          "avg_price": 0.7804,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Detroit Tigers vs. Pittsburgh Pirates",
-      "slug": "mlb-det-pit-2026-08-18",
-      "outcome": "Detroit Tigers",
-      "num_traders": 3,
-      "total_value": 14938.83,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 0.6536,
-          "value": 7750,
-          "avg_price": 0.42,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2676,
-          "value": 6545.14,
-          "avg_price": 0.4082,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.3538,
-          "value": 643.69,
-          "avg_price": 0.3899,
-          "cur_price": 0.155
         }
       ]
     }
@@ -1169,11 +1108,13 @@
     "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 3,
     "atp-tien-tiafoe-2026-08-18::Learner Tien": 3,
     "atp-faria-walton-2026-08-18::Jaime Faria": 3,
-    "mlb-oak-kc-2026-08-18::Kansas City Royals": 2,
-    "mlb-ari-bos-2026-08-18::Boston Red Sox": 2,
-    "mlb-det-pit-2026-08-18::Detroit Tigers": 2,
-    "mlb-mia-phi-2026-08-18::Philadelphia Phillies": 1,
-    "wnba-atl-las-2026-08-18-total-178pt5::Over": 1
+    "mlb-oak-kc-2026-08-18::Kansas City Royals": 3,
+    "mlb-ari-bos-2026-08-18::Boston Red Sox": 3,
+    "mlb-det-pit-2026-08-18::Detroit Tigers": 3,
+    "mlb-mia-phi-2026-08-18::Philadelphia Phillies": 2,
+    "wnba-atl-las-2026-08-18-total-178pt5::Over": 2,
+    "mlb-wsh-tex-2026-08-18-total-8pt5::Under": 1,
+    "atp-tien-tiafoe-2026-08-18::Frances Tiafoe": 1
   },
-  "updated_at": "2026-08-19T02:45:17.461589+00:00"
+  "updated_at": "2026-08-19T03:33:26.304676+00:00"
 }
