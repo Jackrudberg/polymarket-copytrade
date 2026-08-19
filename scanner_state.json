@@ -1,10 +1,69 @@
 {
   "seen_ids": [
-    "mlb-oak-kc-2026-08-18::Kansas City Royals",
-    "mlb-ari-bos-2026-08-18::Boston Red Sox",
-    "mlb-det-pit-2026-08-18::Detroit Tigers"
+    "mlb-mia-phi-2026-08-18::Philadelphia Phillies",
+    "wnba-atl-las-2026-08-18-total-178pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Miami Marlins vs. Philadelphia Phillies",
+      "slug": "mlb-mia-phi-2026-08-18",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 10425.25,
+      "holders": [
+        {
+          "trader": "torta.tech",
+          "roi": 0.1701,
+          "value": 4831.66,
+          "avg_price": 0.61,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2117,
+          "value": 4678.05,
+          "avg_price": 0.6799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1826,
+          "value": 915.54,
+          "avg_price": 0.68,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
+      "slug": "wnba-atl-las-2026-08-18-total-178pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 2967.3,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.1826,
+          "value": 2370.16,
+          "avg_price": 0.5059,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.1701,
+          "value": 485.16,
+          "avg_price": 0.5048,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.2117,
+          "value": 111.98,
+          "avg_price": 0.4757,
+          "cur_price": 0.52
+        }
+      ]
+    },
     {
       "market": "Athletics vs. Kansas City Royals",
       "slug": "mlb-oak-kc-2026-08-18",
@@ -129,36 +188,6 @@
           "value": 1397.64,
           "avg_price": 0.5699,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
-      "slug": "atp-tien-tiafoe-2026-08-18",
-      "outcome": "Learner Tien",
-      "num_traders": 3,
-      "total_value": 6178.85,
-      "holders": [
-        {
-          "trader": "Greedo",
-          "roi": 0.3581,
-          "value": 5349.98,
-          "avg_price": 0.53,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.2578,
-          "value": 698.66,
-          "avg_price": 0.5399,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.3599,
-          "value": 130.21,
-          "avg_price": 0.54,
-          "cur_price": 0.535
         }
       ]
     }
@@ -939,8 +968,11 @@
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "mlb-atl-min-2026-08-18::Atlanta Braves": 3,
     "wta-bejlek-alexand-2026-08-18::Ekaterina Alexandrova": 3,
-    "atp-tien-tiafoe-2026-08-18::Learner Tien": 2,
-    "atp-faria-walton-2026-08-18::Jaime Faria": 1
+    "atp-tien-tiafoe-2026-08-18::Learner Tien": 3,
+    "atp-faria-walton-2026-08-18::Jaime Faria": 2,
+    "mlb-oak-kc-2026-08-18::Kansas City Royals": 1,
+    "mlb-ari-bos-2026-08-18::Boston Red Sox": 1,
+    "mlb-det-pit-2026-08-18::Detroit Tigers": 1
   },
-  "updated_at": "2026-08-18T23:59:47.885807+00:00"
+  "updated_at": "2026-08-19T01:46:45.225014+00:00"
 }

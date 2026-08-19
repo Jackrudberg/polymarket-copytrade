@@ -17632,7 +17632,7 @@
       "current_value": 173.83,
       "paper_pnl": 73.83,
       "return_percent": 73.83,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 18895.67,
       "traders": [
@@ -17640,7 +17640,8 @@
         "dv-pm",
         "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
       ],
-      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18"
+      "url": "https://polymarket.com/event/atp-faria-walton-2026-08-18",
+      "consensus_lost_at": "2026-08-19T01:46:45.208902+00:00"
     },
     {
       "signal_id": "mlb-atl-min-2026-08-18::Atlanta Braves",
@@ -17739,7 +17740,55 @@
         "wr0ngw4yb3tt0r"
       ],
       "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18"
+    },
+    {
+      "signal_id": "mlb-mia-phi-2026-08-18::Philadelphia Phillies",
+      "market": "Miami Marlins vs. Philadelphia Phillies",
+      "slug": "mlb-mia-phi-2026-08-18",
+      "side": "Philadelphia Phillies",
+      "alerted_at": "2026-08-19T01:46:45.208902+00:00",
+      "last_seen": "2026-08-19T01:46:45.208902+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10425.25,
+      "traders": [
+        "torta.tech",
+        "sentrio",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mlb-mia-phi-2026-08-18"
+    },
+    {
+      "signal_id": "wnba-atl-las-2026-08-18-total-178pt5::Over",
+      "market": "Atlanta Dream vs. Las Vegas Aces: O/U 178.5",
+      "slug": "wnba-atl-las-2026-08-18-total-178pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-19T01:46:45.208902+00:00",
+      "last_seen": "2026-08-19T01:46:45.208902+00:00",
+      "entry_price": 0.52,
+      "current_price": 0.52,
+      "stake": 100.0,
+      "shares": 192.307692,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2967.3,
+      "traders": [
+        "quavoo",
+        "torta.tech",
+        "sentrio"
+      ],
+      "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18-total-178pt5"
     }
   ],
-  "updated_at": "2026-08-18T23:59:47.869807+00:00"
+  "updated_at": "2026-08-19T01:46:45.208902+00:00"
 }
