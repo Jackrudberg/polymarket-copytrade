@@ -17456,7 +17456,7 @@
       "current_value": 84.35,
       "paper_pnl": -15.65,
       "return_percent": -15.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 599.76,
       "traders": [
@@ -17465,7 +17465,7 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/mlb-oak-kc-2026-08-18",
-      "consensus_lost_at": "2026-08-18T15:40:49.069076+00:00"
+      "consensus_lost_at": "2026-08-19T02:45:17.445440+00:00"
     },
     {
       "signal_id": "atp-rublev-borges-2026-08-18::Andrey Rublev",
@@ -17707,7 +17707,7 @@
       "current_value": 35.63,
       "paper_pnl": -64.37,
       "return_percent": -64.37,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 41925.08,
       "traders": [
@@ -17715,7 +17715,8 @@
         "wr0ngw4yb3tt0r",
         "sbsigner"
       ],
-      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18"
+      "url": "https://polymarket.com/event/mlb-det-pit-2026-08-18",
+      "consensus_lost_at": "2026-08-19T02:45:17.445440+00:00"
     },
     {
       "signal_id": "mlb-ari-bos-2026-08-18::Boston Red Sox",
@@ -17731,7 +17732,7 @@
       "current_value": 95.48,
       "paper_pnl": -4.52,
       "return_percent": -4.52,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 87113.27,
       "traders": [
@@ -17739,7 +17740,8 @@
         "kingflop",
         "wr0ngw4yb3tt0r"
       ],
-      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18"
+      "url": "https://polymarket.com/event/mlb-ari-bos-2026-08-18",
+      "consensus_lost_at": "2026-08-19T02:45:17.445440+00:00"
     },
     {
       "signal_id": "mlb-mia-phi-2026-08-18::Philadelphia Phillies",
@@ -17788,7 +17790,177 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/wnba-atl-las-2026-08-18-total-178pt5"
+    },
+    {
+      "signal_id": "mlb-lad-col-2026-08-18::Los Angeles Dodgers",
+      "market": "Los Angeles Dodgers vs. Colorado Rockies",
+      "slug": "mlb-lad-col-2026-08-18",
+      "side": "Los Angeles Dodgers",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.935,
+      "current_price": 0.935,
+      "stake": 100.0,
+      "shares": 106.951872,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 62812.63,
+      "traders": [
+        "0F62",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "quavoo",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/mlb-lad-col-2026-08-18"
+    },
+    {
+      "signal_id": "mlb-cws-chc-2026-08-18-total-9pt5::Over",
+      "market": "Chicago White Sox vs. Chicago Cubs: O/U 9.5",
+      "slug": "mlb-cws-chc-2026-08-18-total-9pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.235,
+      "current_price": 0.235,
+      "stake": 100.0,
+      "shares": 425.531915,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 2545.9,
+      "traders": [
+        "purplegatto",
+        "quavoo",
+        "torta.tech",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18-total-9pt5"
+    },
+    {
+      "signal_id": "mlb-wsh-tex-2026-08-18-total-8pt5::Under",
+      "market": "Washington Nationals vs. Texas Rangers: O/U 8.5",
+      "slug": "mlb-wsh-tex-2026-08-18-total-8pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 85904.39,
+      "traders": [
+        "quavoo",
+        "purplegatto",
+        "Nooserac"
+      ],
+      "url": "https://polymarket.com/event/mlb-wsh-tex-2026-08-18-total-8pt5"
+    },
+    {
+      "signal_id": "wnba-nyl-chi-2026-08-18-spread-away-4pt5::Chicago Sky",
+      "market": "Spread: New York Liberty (-4.5)",
+      "slug": "wnba-nyl-chi-2026-08-18-spread-away-4pt5",
+      "side": "Chicago Sky",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.715,
+      "current_price": 0.715,
+      "stake": 100.0,
+      "shares": 139.86014,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 18343.19,
+      "traders": [
+        "feelingsuicidal",
+        "paquitomillonario",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18-spread-away-4pt5"
+    },
+    {
+      "signal_id": "atp-tien-tiafoe-2026-08-18::Frances Tiafoe",
+      "market": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+      "slug": "atp-tien-tiafoe-2026-08-18",
+      "side": "Frances Tiafoe",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 16202.2,
+      "traders": [
+        "quavoo",
+        "paquitomillonario",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/atp-tien-tiafoe-2026-08-18"
+    },
+    {
+      "signal_id": "wnba-nyl-chi-2026-08-18::Chicago Sky",
+      "market": "New York Liberty vs. Chicago Sky",
+      "slug": "wnba-nyl-chi-2026-08-18",
+      "side": "Chicago Sky",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.595,
+      "current_price": 0.595,
+      "stake": 100.0,
+      "shares": 168.067227,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 14733.03,
+      "traders": [
+        "Nooserac",
+        "torta.tech",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/wnba-nyl-chi-2026-08-18"
+    },
+    {
+      "signal_id": "mlb-cws-chc-2026-08-18::Chicago White Sox",
+      "market": "Chicago White Sox vs. Chicago Cubs",
+      "slug": "mlb-cws-chc-2026-08-18",
+      "side": "Chicago White Sox",
+      "alerted_at": "2026-08-19T02:45:17.445440+00:00",
+      "last_seen": "2026-08-19T02:45:17.445440+00:00",
+      "entry_price": 0.415,
+      "current_price": 0.415,
+      "stake": 100.0,
+      "shares": 240.963855,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10558.2,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "torta.tech",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/mlb-cws-chc-2026-08-18"
     }
   ],
-  "updated_at": "2026-08-19T01:46:45.208902+00:00"
+  "updated_at": "2026-08-19T02:45:17.445440+00:00"
 }
