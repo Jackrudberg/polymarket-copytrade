@@ -1,43 +1,128 @@
 {
   "seen_ids": [
     "dota2-ironwi-boombo-2026-08-20::Iron Wing",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
+    "will-bitcoin-reach-75k-in-august-2026::Yes",
+    "will-bitcoin-reach-80k-in-august-2026::Yes",
+    "will-bitcoin-reach-82pt5k-in-august-2026::Yes"
   ],
   "signals": [
     {
       "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
       "slug": "dota2-ironwi-boombo-2026-08-20",
       "outcome": "Iron Wing",
-      "num_traders": 4,
-      "total_value": 90362.18,
+      "num_traders": 3,
+      "total_value": 73903.48,
       "holders": [
         {
-          "trader": "Nooserac",
-          "roi": 0.2767,
-          "value": 44980.06,
-          "avg_price": 0.3988,
+          "trader": "aenews2",
+          "roi": 0.6286,
+          "value": 29050,
+          "avg_price": 0.4099,
           "cur_price": 0.415
         },
         {
           "trader": "casualbet2020",
-          "roi": 0.4504,
+          "roi": 0.3616,
           "value": 28253.48,
           "avg_price": 0.4099,
           "cur_price": 0.415
         },
         {
           "trader": "itwillallbeok",
-          "roi": 0.3112,
+          "roi": 0.2731,
           "value": 16600,
           "avg_price": 0.41,
           "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $75,000 in August?",
+      "slug": "will-bitcoin-reach-75k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 62564.85,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1593,
+          "value": 34696.87,
+          "avg_price": 0.1047,
+          "cur_price": 0.6225
         },
         {
-          "trader": "0x076daa",
-          "roi": 0.1528,
-          "value": 528.64,
-          "avg_price": 0.407,
-          "cur_price": 0.415
+          "trader": "frozenriver",
+          "roi": 2.2025,
+          "value": 27023.25,
+          "avg_price": 0.0306,
+          "cur_price": 0.6225
+        },
+        {
+          "trader": "0x765550C1F0Af33254a2Ac826710D33A4410c1Fa8-1773641069670",
+          "roi": 1.0695,
+          "value": 844.73,
+          "avg_price": 0.1139,
+          "cur_price": 0.6225
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $80,000 in August?",
+      "slug": "will-bitcoin-reach-80k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 10889.36,
+      "holders": [
+        {
+          "trader": "frozenriver",
+          "roi": 2.2025,
+          "value": 7974.74,
+          "avg_price": 0.0086,
+          "cur_price": 0.1595
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1593,
+          "value": 2662.45,
+          "avg_price": 0.0728,
+          "cur_price": 0.1595
+        },
+        {
+          "trader": "0x765550C1F0Af33254a2Ac826710D33A4410c1Fa8-1773641069670",
+          "roi": 1.0695,
+          "value": 252.17,
+          "avg_price": 0.0298,
+          "cur_price": 0.1595
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $82,500 in August?",
+      "slug": "will-bitcoin-reach-82pt5k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3757.51,
+      "holders": [
+        {
+          "trader": "frozenriver",
+          "roi": 2.2025,
+          "value": 1988.05,
+          "avg_price": 0.0042,
+          "cur_price": 0.0765
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1593,
+          "value": 1302.81,
+          "avg_price": 0.0331,
+          "cur_price": 0.0765
+        },
+        {
+          "trader": "0x765550C1F0Af33254a2Ac826710D33A4410c1Fa8-1773641069670",
+          "roi": 1.0695,
+          "value": 466.65,
+          "avg_price": 0.0189,
+          "cur_price": 0.0765
         }
       ]
     },
@@ -961,9 +1046,7 @@
     "cs2-furia-aur1-2026-08-19-game2::Aurora Gaming": 3,
     "will-bitcoin-reach-70000-by-december-31-2026-from-june-8::Yes": 3,
     "will-bitcoin-reach-72pt5k-in-august-2026::Yes": 3,
-    "will-bitcoin-reach-75k-in-august-2026::Yes": 3,
     "will-bitcoin-reach-77pt5k-in-august-2026::Yes": 3,
-    "will-bitcoin-reach-80k-in-august-2026::Yes": 3,
     "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 3,
     "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 3,
     "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 3,
@@ -1013,7 +1096,8 @@
     "cs2-faze-vit-2026-08-20-game2::Vitality": 3,
     "dota2-ngx-flc-2026-08-20-game2::Nigma Galaxy": 3,
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 3,
-    "cs2-g2-furia-2026-08-20::FURIA": 1
+    "cs2-g2-furia-2026-08-20::FURIA": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
   },
-  "updated_at": "2026-08-20T21:03:28.419066+00:00"
+  "updated_at": "2026-08-20T21:38:38.805414+00:00"
 }
