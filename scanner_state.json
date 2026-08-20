@@ -1,10 +1,38 @@
 {
   "seen_ids": [
-    "mlb-nyy-bal-2026-08-19-total-9pt5::Under",
-    "mls-col-laf-2026-08-19-col::No",
-    "mls-vwh-hou-2026-08-19-spread-home-1pt5::Houston Dynamo"
+    "mls-col-laf-2026-08-19-col::No"
   ],
   "signals": [
+    {
+      "market": "Will Colorado Rapids SC win on 2026-08-19?",
+      "slug": "mls-col-laf-2026-08-19-col",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 56104.61,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2134,
+          "value": 28500,
+          "avg_price": 0.53,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2485,
+          "value": 27278.5,
+          "avg_price": 0.5509,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "NordhavenCap",
+          "roi": 0.2614,
+          "value": 326.11,
+          "avg_price": 0.3931,
+          "cur_price": 0.285
+        }
+      ]
+    },
     {
       "market": "New York Yankees vs. Baltimore Orioles: O/U 9.5",
       "slug": "mlb-nyy-bal-2026-08-19-total-9pt5",
@@ -32,36 +60,6 @@
           "value": 2569.71,
           "avg_price": 0.5219,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Colorado Rapids SC win on 2026-08-19?",
-      "slug": "mls-col-laf-2026-08-19-col",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 62700.26,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1505,
-          "value": 55035.58,
-          "avg_price": 0.5509,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "Flipadelphia",
-          "roi": 0.4193,
-          "value": 6037.43,
-          "avg_price": 0.6338,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1799,
-          "value": 1627.25,
-          "avg_price": 0.57,
-          "cur_price": 0.575
         }
       ]
     },
@@ -589,36 +587,6 @@
           "value": 108.68,
           "avg_price": 0.2999,
           "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $70,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-70000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 20096.39,
-      "holders": [
-        {
-          "trader": "tsihkodiives",
-          "roi": 1.3623,
-          "value": 17556.03,
-          "avg_price": 0.7096,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2358,
-          "value": 1686.58,
-          "avg_price": 0.9008,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.251,
-          "value": 853.78,
-          "avg_price": 0.8699,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1463,21 +1431,23 @@
     "mlb-atl-cws-2026-06-11::Atlanta Braves": 3,
     "will-bitcoin-reach-70k-in-august-2026::Yes": 3,
     "cs2-furia-aur1-2026-08-19-game2::Aurora Gaming": 3,
-    "will-bitcoin-reach-70000-by-december-31-2026-from-june-8::Yes": 2,
-    "will-bitcoin-reach-72pt5k-in-august-2026::Yes": 1,
-    "will-bitcoin-reach-75k-in-august-2026::Yes": 1,
-    "will-bitcoin-reach-77pt5k-in-august-2026::Yes": 1,
-    "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 1,
-    "will-bitcoin-reach-80k-in-august-2026::Yes": 1,
-    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 1,
-    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 1,
-    "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 1,
-    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 1,
-    "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 1,
-    "will-bitcoin-reach-75000-by-december-31-2026-from-june-8::Yes": 1,
-    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 1,
-    "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes": 1,
-    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 1
+    "will-bitcoin-reach-70000-by-december-31-2026-from-june-8::Yes": 3,
+    "will-bitcoin-reach-72pt5k-in-august-2026::Yes": 2,
+    "will-bitcoin-reach-75k-in-august-2026::Yes": 2,
+    "will-bitcoin-reach-77pt5k-in-august-2026::Yes": 2,
+    "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 2,
+    "will-bitcoin-reach-80k-in-august-2026::Yes": 2,
+    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 2,
+    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 2,
+    "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 2,
+    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 2,
+    "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 2,
+    "will-bitcoin-reach-75000-by-december-31-2026-from-june-8::Yes": 2,
+    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 2,
+    "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes": 2,
+    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 2,
+    "mlb-nyy-bal-2026-08-19-total-9pt5::Under": 1,
+    "mls-vwh-hou-2026-08-19-spread-home-1pt5::Houston Dynamo": 1
   },
-  "updated_at": "2026-08-20T01:58:35.702557+00:00"
+  "updated_at": "2026-08-20T03:05:03.328133+00:00"
 }
