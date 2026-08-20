@@ -19794,7 +19794,7 @@
       "current_value": 259.61,
       "paper_pnl": 159.61,
       "return_percent": 159.61,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 45364.71,
       "traders": [
@@ -19804,7 +19804,8 @@
         "Skyfker",
         "Lakersfan111"
       ],
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19-game2"
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19-game2",
+      "consensus_lost_at": "2026-08-20T08:50:44.244190+00:00"
     },
     {
       "signal_id": "mls-lag-sje-2026-08-19-lag::No",
@@ -19846,7 +19847,7 @@
       "current_value": 80.0,
       "paper_pnl": -20.0,
       "return_percent": -20.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 102575.61,
       "traders": [
@@ -19854,7 +19855,8 @@
         "Lakersfan111",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20"
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20",
+      "consensus_lost_at": "2026-08-20T08:50:44.244190+00:00"
     },
     {
       "signal_id": "dota2-ironwi-ts8-2026-08-19-game2::Iron Wing",
@@ -20012,7 +20014,7 @@
       "slug": "dota2-vsn2-boombo-2026-08-20-game1",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-20T06:20:46.132797+00:00",
-      "last_seen": "2026-08-20T07:59:31.447159+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
       "entry_price": 0.795,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -20037,14 +20039,14 @@
       "slug": "lol-dk-hle1-2026-08-20",
       "side": "Dplus KIA",
       "alerted_at": "2026-08-20T07:59:31.447159+00:00",
-      "last_seen": "2026-08-20T07:59:31.447159+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
       "entry_price": 0.465,
-      "current_price": 0.465,
+      "current_price": 0.235,
       "stake": 100.0,
       "shares": 215.053763,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 50.54,
+      "paper_pnl": -49.46,
+      "return_percent": -49.46,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 47363.37,
@@ -20062,14 +20064,14 @@
       "slug": "dota2-vsn2-boombo-2026-08-20-game2",
       "side": "BoomBoys",
       "alerted_at": "2026-08-20T07:59:31.447159+00:00",
-      "last_seen": "2026-08-20T07:59:31.447159+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
       "entry_price": 0.335,
-      "current_price": 0.335,
+      "current_price": 0.785,
       "stake": 100.0,
       "shares": 298.507463,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 234.33,
+      "paper_pnl": 134.33,
+      "return_percent": 134.33,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 21399.56,
@@ -20086,14 +20088,14 @@
       "slug": "dota2-vsn2-boombo-2026-08-20",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-20T07:59:31.447159+00:00",
-      "last_seen": "2026-08-20T07:59:31.447159+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
       "entry_price": 0.885,
-      "current_price": 0.885,
+      "current_price": 0.7195,
       "stake": 100.0,
       "shares": 112.99435,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 81.3,
+      "paper_pnl": -18.7,
+      "return_percent": -18.7,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 18172.64,
@@ -20127,7 +20129,59 @@
         "0x076daa"
       ],
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5"
+    },
+    {
+      "signal_id": "dota2-vsn2-boombo-2026-08-20-game2::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game2",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-20T08:50:44.244190+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
+      "entry_price": 0.215,
+      "current_price": 0.215,
+      "stake": 100.0,
+      "shares": 465.116279,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 7,
+      "combined_value": 25158.84,
+      "traders": [
+        "cdgsv",
+        "canoflanagan",
+        "Skritopoolniy",
+        "eanvanezygv",
+        "hurrican",
+        "thatguythatguy",
+        "gpkashka"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20-game2"
+    },
+    {
+      "signal_id": "lol-bro1-drxc-2026-08-20-game2::HANJIN BRION Challengers",
+      "market": "LoL: HANJIN BRION Challengers vs Kiwoom DRX Challengers - Game 2 Winner",
+      "slug": "lol-bro1-drxc-2026-08-20-game2",
+      "side": "HANJIN BRION Challengers",
+      "alerted_at": "2026-08-20T08:50:44.244190+00:00",
+      "last_seen": "2026-08-20T08:50:44.244190+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11888.46,
+      "traders": [
+        "hurrican",
+        "mpyh",
+        "0x076daa"
+      ],
+      "url": "https://polymarket.com/event/lol-bro1-drxc-2026-08-20-game2"
     }
   ],
-  "updated_at": "2026-08-20T07:59:31.447159+00:00"
+  "updated_at": "2026-08-20T08:50:44.244190+00:00"
 }
