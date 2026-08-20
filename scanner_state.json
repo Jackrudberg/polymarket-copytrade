@@ -1,10 +1,221 @@
 {
   "seen_ids": [
-    "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit",
     "dota2-vsn2-boombo-2026-08-20-game1::TEAM VISION",
-    "dota2-vsn2-boombo-2026-08-20::BoomBoys"
+    "lol-dk-hle1-2026-08-20::Dplus KIA",
+    "dota2-vsn2-boombo-2026-08-20-game2::BoomBoys",
+    "dota2-vsn2-boombo-2026-08-20::TEAM VISION",
+    "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5::BoomBoys",
+    "cs2-faze-vit-2026-08-20::FaZe"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+      "outcome": "TEAM VISION",
+      "num_traders": 6,
+      "total_value": 98149.03,
+      "holders": [
+        {
+          "trader": "canoflanagan",
+          "roi": 0.1749,
+          "value": 36224.11,
+          "avg_price": 0.4274,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1859,
+          "value": 23884.34,
+          "avg_price": 0.6549,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.1875,
+          "value": 22536.71,
+          "avg_price": 0.4658,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "VibeDoter",
+          "roi": 0.2028,
+          "value": 7996.96,
+          "avg_price": 0.7275,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 5710.9,
+          "avg_price": 0.5062,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.2701,
+          "value": 1796.01,
+          "avg_price": 0.3211,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-dk-hle1-2026-08-20",
+      "outcome": "Dplus KIA",
+      "num_traders": 4,
+      "total_value": 47363.37,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1859,
+          "value": 36974.82,
+          "avg_price": 0.4707,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.553,
+          "value": 9300.0,
+          "avg_price": 0.4749,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+          "roi": 0.303,
+          "value": 704.62,
+          "avg_price": 0.4799,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 383.93,
+          "avg_price": 0.4899,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game2",
+      "outcome": "BoomBoys",
+      "num_traders": 3,
+      "total_value": 21399.56,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2701,
+          "value": 11416.35,
+          "avg_price": 0.3499,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1859,
+          "value": 7360.17,
+          "avg_price": 0.3261,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 2623.04,
+          "avg_price": 0.3153,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
+      "slug": "dota2-vsn2-boombo-2026-08-20",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 18172.64,
+      "holders": [
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.553,
+          "value": 10790.18,
+          "avg_price": 0.7699,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "spiced",
+          "roi": 0.2385,
+          "value": 6456.61,
+          "avg_price": 0.88,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 925.85,
+          "avg_price": 0.8467,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5",
+      "outcome": "BoomBoys",
+      "num_traders": 3,
+      "total_value": 13691.82,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1859,
+          "value": 9074.97,
+          "avg_price": 0.5345,
+          "cur_price": 0.33
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.3264,
+          "value": 4314.48,
+          "avg_price": 0.5458,
+          "cur_price": 0.33
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 302.37,
+          "avg_price": 0.5299,
+          "cur_price": 0.33
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-faze-vit-2026-08-20",
+      "outcome": "FaZe",
+      "num_traders": 3,
+      "total_value": 1919.48,
+      "holders": [
+        {
+          "trader": "Lakersfan111",
+          "roi": 0.1859,
+          "value": 835.53,
+          "avg_price": 0.22,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.553,
+          "value": 734.25,
+          "avg_price": 0.2299,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3798,
+          "value": 349.7,
+          "avg_price": 0.2497,
+          "cur_price": 0.235
+        }
+      ]
+    },
     {
       "market": "Dota 2: Iron Wing vs Team Spirit - Game 2 Winner",
       "slug": "dota2-ironwi-ts8-2026-08-19-game2",
@@ -64,57 +275,6 @@
       ]
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
-      "slug": "dota2-vsn2-boombo-2026-08-20-game1",
-      "outcome": "TEAM VISION",
-      "num_traders": 6,
-      "total_value": 89953.17,
-      "holders": [
-        {
-          "trader": "cdgsv",
-          "roi": 0.2113,
-          "value": 34598.29,
-          "avg_price": 0.6746,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.2415,
-          "value": 27000.46,
-          "avg_price": 0.4274,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.3283,
-          "value": 16798.25,
-          "avg_price": 0.4658,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "VibeDoter",
-          "roi": 0.3333,
-          "value": 5960.72,
-          "avg_price": 0.7275,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.4512,
-          "value": 4256.75,
-          "avg_price": 0.5062,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.2043,
-          "value": 1338.7,
-          "avg_price": 0.3211,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
       "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
       "slug": "dota2-vsn2-boombo-2026-08-20",
       "outcome": "BoomBoys",
@@ -141,87 +301,6 @@
           "value": 146.07,
           "avg_price": 0.2459,
           "cur_price": 0.22
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit - Game 1 Winner",
-      "slug": "dota2-ironwi-ts8-2026-08-19-game1",
-      "outcome": "Team Spirit",
-      "num_traders": 6,
-      "total_value": 89140.09,
-      "holders": [
-        {
-          "trader": "IMAREALPERSON",
-          "roi": 0.1854,
-          "value": 28947.67,
-          "avg_price": 0.4491,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.314,
-          "value": 27683.48,
-          "avg_price": 0.5336,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.5097,
-          "value": 17021.0,
-          "avg_price": 0.4918,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.5859,
-          "value": 14322.42,
-          "avg_price": 0.5399,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2063,
-          "value": 1005.29,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.5,
-          "value": 160.23,
-          "avg_price": 0.6099,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs",
-      "slug": "dota2-ironwi-ts8-2026-08-19",
-      "outcome": "Team Spirit",
-      "num_traders": 3,
-      "total_value": 50200.2,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.2063,
-          "value": 41672.47,
-          "avg_price": 0.4591,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "JUSTINHERBERTMVP",
-          "roi": 0.1559,
-          "value": 7365.88,
-          "avg_price": 0.4802,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.5,
-          "value": 1161.85,
-          "avg_price": 0.6626,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1090,10 +1169,11 @@
     "dota2-liquid-ty-2026-08-20::Team Yandex": 3,
     "dota2-liquid-ty-2026-08-20::Team Liquid": 3,
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 3,
-    "cs2-faze-vit-2026-08-20::FaZe": 3,
     "dota2-ironwi-ts8-2026-08-19-game2::Iron Wing": 3,
-    "dota2-ironwi-ts8-2026-08-19-game1::Team Spirit": 2,
-    "dota2-ironwi-ts8-2026-08-19::Team Spirit": 2
+    "dota2-ironwi-ts8-2026-08-19-game1::Team Spirit": 3,
+    "dota2-ironwi-ts8-2026-08-19::Team Spirit": 3,
+    "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit": 1,
+    "dota2-vsn2-boombo-2026-08-20::BoomBoys": 1
   },
-  "updated_at": "2026-08-20T07:14:11.331948+00:00"
+  "updated_at": "2026-08-20T07:59:31.465643+00:00"
 }
