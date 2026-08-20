@@ -19735,7 +19735,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 10,
       "combined_value": 279466.61,
       "traders": [
@@ -19750,7 +19750,8 @@
         "CAcap",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19-game1"
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19-game1",
+      "consensus_lost_at": "2026-08-20T07:14:11.313070+00:00"
     },
     {
       "signal_id": "dota2-ironwi-ts8-2026-08-19::Team Spirit",
@@ -19766,7 +19767,7 @@
       "current_value": 154.96,
       "paper_pnl": 54.96,
       "return_percent": 54.96,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 54020.42,
       "traders": [
@@ -19776,7 +19777,8 @@
         "0x076daa",
         "Skyfker"
       ],
-      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19"
+      "url": "https://polymarket.com/event/dota2-ironwi-ts8-2026-08-19",
+      "consensus_lost_at": "2026-08-20T07:14:11.313070+00:00"
     },
     {
       "signal_id": "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit",
@@ -19784,7 +19786,7 @@
       "slug": "dota2-ironwi-ts8-2026-08-19-game2",
       "side": "Team Spirit",
       "alerted_at": "2026-08-20T04:37:27.810311+00:00",
-      "last_seen": "2026-08-20T06:20:46.132797+00:00",
+      "last_seen": "2026-08-20T07:14:11.313070+00:00",
       "entry_price": 0.385,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -19836,14 +19838,14 @@
       "slug": "dota2-vsn2-boombo-2026-08-20",
       "side": "BoomBoys",
       "alerted_at": "2026-08-20T04:37:27.810311+00:00",
-      "last_seen": "2026-08-20T05:49:39.160629+00:00",
+      "last_seen": "2026-08-20T07:14:11.313070+00:00",
       "entry_price": 0.275,
-      "current_price": 0.245,
+      "current_price": 0.22,
       "stake": 100.0,
       "shares": 363.636364,
-      "current_value": 89.09,
-      "paper_pnl": -10.91,
-      "return_percent": -10.91,
+      "current_value": 80.0,
+      "paper_pnl": -20.0,
+      "return_percent": -20.0,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 102575.61,
@@ -20010,14 +20012,14 @@
       "slug": "dota2-vsn2-boombo-2026-08-20-game1",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-20T06:20:46.132797+00:00",
-      "last_seen": "2026-08-20T06:20:46.132797+00:00",
+      "last_seen": "2026-08-20T07:14:11.313070+00:00",
       "entry_price": 0.795,
-      "current_price": 0.795,
+      "current_price": 0.745,
       "stake": 100.0,
       "shares": 125.786164,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 93.71,
+      "paper_pnl": -6.29,
+      "return_percent": -6.29,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 51421.81,
@@ -20030,5 +20032,5 @@
       "url": "https://polymarket.com/event/dota2-vsn2-boombo-2026-08-20-game1"
     }
   ],
-  "updated_at": "2026-08-20T06:20:46.132797+00:00"
+  "updated_at": "2026-08-20T07:14:11.313070+00:00"
 }
