@@ -1,13 +1,159 @@
 {
   "seen_ids": [
-    "dota2-ngx-flc-2026-08-20::Team Falcons",
     "cs2-g2-furia-2026-08-20::FURIA",
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy",
-    "cs2-faze-vit-2026-08-20-game2::Vitality",
     "dota2-ngx-flc-2026-08-20-game2::Nigma Galaxy",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-g2-furia-2026-08-20",
+      "outcome": "FURIA",
+      "num_traders": 5,
+      "total_value": 161933.17,
+      "holders": [
+        {
+          "trader": "itwillallbeok",
+          "roi": 0.3182,
+          "value": 53624.96,
+          "avg_price": 0.5599,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "ExplosiveNinja",
+          "roi": 0.5156,
+          "value": 50049.92,
+          "avg_price": 0.58,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "casualbet2020",
+          "roi": 0.3675,
+          "value": 50049.89,
+          "avg_price": 0.56,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5182,
+          "value": 6435,
+          "avg_price": 0.56,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1777,
+          "value": 1773.4,
+          "avg_price": 0.5599,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+      "slug": "dota2-ngx-flc-2026-08-20",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 5,
+      "total_value": 33304.55,
+      "holders": [
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.216,
+          "value": 14992.5,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.1777,
+          "value": 6672.62,
+          "avg_price": 0.3225,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2214,
+          "value": 4236.93,
+          "avg_price": 0.3303,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.3097,
+          "value": 3761.35,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5182,
+          "value": 3641.15,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner",
+      "slug": "dota2-ngx-flc-2026-08-20-game2",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 3,
+      "total_value": 30538.89,
+      "holders": [
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.216,
+          "value": 14992.5,
+          "avg_price": 0.37,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.3097,
+          "value": 14992.41,
+          "avg_price": 0.36,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2214,
+          "value": 553.98,
+          "avg_price": 0.7145,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3525.69,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.725,
+          "value": 1399.95,
+          "avg_price": 0.4982,
+          "cur_price": 0.744
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5182,
+          "value": 1155.92,
+          "avg_price": 0.58,
+          "cur_price": 0.744
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3498,
+          "value": 969.82,
+          "avg_price": 0.5002,
+          "cur_price": 0.744
+        }
+      ]
+    },
     {
       "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
       "slug": "dota2-ngx-flc-2026-08-20",
@@ -53,94 +199,6 @@
       ]
     },
     {
-      "market": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
-      "slug": "cs2-g2-furia-2026-08-20",
-      "outcome": "FURIA",
-      "num_traders": 5,
-      "total_value": 184581.18,
-      "holders": [
-        {
-          "trader": "itwillallbeok",
-          "roi": 0.2029,
-          "value": 61124.96,
-          "avg_price": 0.5599,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "ExplosiveNinja",
-          "roi": 0.4426,
-          "value": 57049.91,
-          "avg_price": 0.58,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "casualbet2020",
-          "roi": 0.2523,
-          "value": 57049.88,
-          "avg_price": 0.56,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.7231,
-          "value": 7335,
-          "avg_price": 0.56,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.1765,
-          "value": 2021.43,
-          "avg_price": 0.5599,
-          "cur_price": 0.815
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
-      "slug": "dota2-ngx-flc-2026-08-20",
-      "outcome": "Nigma Galaxy",
-      "num_traders": 5,
-      "total_value": 9996.36,
-      "holders": [
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.2424,
-          "value": 4500,
-          "avg_price": 0.42,
-          "cur_price": 0.3
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.1765,
-          "value": 2002.79,
-          "avg_price": 0.3225,
-          "cur_price": 0.3
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.2592,
-          "value": 1271.71,
-          "avg_price": 0.3303,
-          "cur_price": 0.3
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.3418,
-          "value": 1128.97,
-          "avg_price": 0.42,
-          "cur_price": 0.3
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.7231,
-          "value": 1092.89,
-          "avg_price": 0.41,
-          "cur_price": 0.3
-        }
-      ]
-    },
-    {
       "market": "Counter-Strike: FaZe vs Vitality - Map 2 Winner",
       "slug": "cs2-faze-vit-2026-08-20-game2",
       "outcome": "Vitality",
@@ -167,66 +225,6 @@
           "value": 1137.47,
           "avg_price": 0.6016,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner",
-      "slug": "dota2-ngx-flc-2026-08-20-game2",
-      "outcome": "Nigma Galaxy",
-      "num_traders": 3,
-      "total_value": 30538.89,
-      "holders": [
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.2424,
-          "value": 14992.5,
-          "avg_price": 0.37,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ARI100KRAT",
-          "roi": 0.3418,
-          "value": 14992.41,
-          "avg_price": 0.36,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.2592,
-          "value": 553.98,
-          "avg_price": 0.7145,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3525.69,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.7982,
-          "value": 1399.95,
-          "avg_price": 0.4982,
-          "cur_price": 0.744
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.7231,
-          "value": 1155.92,
-          "avg_price": 0.58,
-          "cur_price": 0.744
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3641,
-          "value": 969.82,
-          "avg_price": 0.5002,
-          "cur_price": 0.744
         }
       ]
     }
@@ -1116,7 +1114,9 @@
     "dota2-liquid-ty-2026-08-20-game2::Team Yandex": 3,
     "cs2-faze-vit-2026-08-20::FaZe": 3,
     "lol-jdg-tt-2026-08-20::JD Gaming": 3,
-    "cs2-faze-vit-2026-08-20-game2::FaZe": 3
+    "cs2-faze-vit-2026-08-20-game2::FaZe": 3,
+    "dota2-ngx-flc-2026-08-20::Team Falcons": 1,
+    "cs2-faze-vit-2026-08-20-game2::Vitality": 1
   },
-  "updated_at": "2026-08-20T17:02:26.070624+00:00"
+  "updated_at": "2026-08-20T17:39:45.683336+00:00"
 }
