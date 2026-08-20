@@ -1,9 +1,7 @@
 {
   "seen_ids": [
-    "dota2-vsn2-boombo-2026-08-20-game2::BoomBoys",
-    "dota2-vsn2-boombo-2026-08-20-game1::TEAM VISION",
-    "dota2-vsn2-boombo-2026-08-20::BoomBoys",
     "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No",
+    "dota2-vsn2-boombo-2026-08-20-game2::BoomBoys",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
     "will-bitcoin-dip-to-15000-by-december-31-2026-416-954-417-853-885-363-335-458-585-275-615-269-479-379-516-218-918-374-598-429-212::No",
     "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No",
@@ -12,26 +10,42 @@
   ],
   "signals": [
     {
+      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 315329.61,
+      "holders": [
+        {
+          "trader": "JnStTrdrBnusFnd",
+          "roi": 0.7436,
+          "value": 297743.44,
+          "avg_price": 0.7185,
+          "cur_price": 0.83
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1941,
+          "value": 14692.81,
+          "avg_price": 0.7488,
+          "cur_price": 0.83
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.2081,
+          "value": 2893.36,
+          "avg_price": 0.7374,
+          "cur_price": 0.83
+        }
+      ]
+    },
+    {
       "market": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
       "slug": "dota2-vsn2-boombo-2026-08-20-game2",
       "outcome": "BoomBoys",
-      "num_traders": 5,
-      "total_value": 120695.35,
+      "num_traders": 3,
+      "total_value": 39966.02,
       "holders": [
-        {
-          "trader": "CORGI8",
-          "roi": 0.1783,
-          "value": 47560.3,
-          "avg_price": 0.2857,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "KARTEROR",
-          "roi": 0.7062,
-          "value": 33169.03,
-          "avg_price": 0.2932,
-          "cur_price": 0.9995
-        },
         {
           "trader": "IMAREALPERSON",
           "roi": 0.1788,
@@ -56,134 +70,16 @@
       ]
     },
     {
-      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
-      "slug": "dota2-vsn2-boombo-2026-08-20-game1",
-      "outcome": "TEAM VISION",
-      "num_traders": 5,
-      "total_value": 94253.69,
-      "holders": [
-        {
-          "trader": "canoflanagan",
-          "roi": 0.1977,
-          "value": 36224.11,
-          "avg_price": 0.4274,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.3219,
-          "value": 27985.96,
-          "avg_price": 0.4589,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skritopoolniy",
-          "roi": 0.2226,
-          "value": 22536.71,
-          "avg_price": 0.4658,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.3408,
-          "value": 5710.9,
-          "avg_price": 0.5062,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.1783,
-          "value": 1796.01,
-          "avg_price": 0.3211,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
-      "slug": "dota2-vsn2-boombo-2026-08-20",
-      "outcome": "BoomBoys",
-      "num_traders": 5,
-      "total_value": 46522.97,
-      "holders": [
-        {
-          "trader": "CORGI8",
-          "roi": 0.1783,
-          "value": 28431.37,
-          "avg_price": 0.2866,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.3219,
-          "value": 6877.5,
-          "avg_price": 0.37,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "tb102",
-          "roi": 0.199,
-          "value": 5643.43,
-          "avg_price": 0.1744,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "canoflanagan",
-          "roi": 0.1977,
-          "value": 4444.12,
-          "avg_price": 0.3515,
-          "cur_price": 0.4585
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.3408,
-          "value": 1126.55,
-          "avg_price": 0.2551,
-          "cur_price": 0.4585
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 307731.31,
-      "holders": [
-        {
-          "trader": "JnStTrdrBnusFnd",
-          "roi": 0.7436,
-          "value": 290568.9,
-          "avg_price": 0.7185,
-          "cur_price": 0.81
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1941,
-          "value": 14338.77,
-          "avg_price": 0.7488,
-          "cur_price": 0.81
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2081,
-          "value": 2823.64,
-          "avg_price": 0.7374,
-          "cur_price": 0.81
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
       "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 49429.79,
+      "total_value": 25183.29,
       "holders": [
         {
           "trader": "JnStTrdrBnusFnd",
           "roi": 0.7436,
-          "value": 40317.05,
+          "value": 16070.55,
           "avg_price": 0.8605,
           "cur_price": 0.935
         },
@@ -298,28 +194,116 @@
       "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 6009.6,
+      "total_value": 6696.42,
       "holders": [
         {
           "trader": "0xf705fa",
           "roi": 0.2081,
-          "value": 4485.79,
+          "value": 4998.46,
           "avg_price": 0.1162,
-          "cur_price": 0.175
+          "cur_price": 0.195
         },
         {
           "trader": "justdance",
           "roi": 0.1941,
-          "value": 1086.75,
+          "value": 1210.95,
           "avg_price": 0.1495,
-          "cur_price": 0.175
+          "cur_price": 0.195
         },
         {
           "trader": "balthazar",
           "roi": 0.5295,
-          "value": 437.06,
+          "value": 487.01,
           "avg_price": 0.08,
-          "cur_price": 0.175
+          "cur_price": 0.195
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+      "outcome": "TEAM VISION",
+      "num_traders": 5,
+      "total_value": 94253.69,
+      "holders": [
+        {
+          "trader": "canoflanagan",
+          "roi": 0.1977,
+          "value": 36224.11,
+          "avg_price": 0.4274,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.3219,
+          "value": 27985.96,
+          "avg_price": 0.4589,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Skritopoolniy",
+          "roi": 0.2226,
+          "value": 22536.71,
+          "avg_price": 0.4658,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3408,
+          "value": 5710.9,
+          "avg_price": 0.5062,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.1783,
+          "value": 1796.01,
+          "avg_price": 0.3211,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
+      "slug": "dota2-vsn2-boombo-2026-08-20",
+      "outcome": "BoomBoys",
+      "num_traders": 5,
+      "total_value": 46522.97,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.1783,
+          "value": 28431.37,
+          "avg_price": 0.2866,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.3219,
+          "value": 6877.5,
+          "avg_price": 0.37,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "tb102",
+          "roi": 0.199,
+          "value": 5643.43,
+          "avg_price": 0.1744,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.1977,
+          "value": 4444.12,
+          "avg_price": 0.3515,
+          "cur_price": 0.4585
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.3408,
+          "value": 1126.55,
+          "avg_price": 0.2551,
+          "cur_price": 0.4585
         }
       ]
     },
@@ -481,66 +465,6 @@
           "roi": 0.3239,
           "value": 240.3,
           "avg_price": 0.5054,
-          "cur_price": 0.235
-        }
-      ]
-    },
-    {
-      "market": "Game Handicap: VSN (-1.5) vs BoomBoys (+1.5)",
-      "slug": "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5",
-      "outcome": "BoomBoys",
-      "num_traders": 3,
-      "total_value": 13691.82,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.1859,
-          "value": 9074.97,
-          "avg_price": 0.5345,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "sofa88888",
-          "roi": 0.3264,
-          "value": 4314.48,
-          "avg_price": 0.5458,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.3798,
-          "value": 302.37,
-          "avg_price": 0.5299,
-          "cur_price": 0.33
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs",
-      "slug": "cs2-faze-vit-2026-08-20",
-      "outcome": "FaZe",
-      "num_traders": 3,
-      "total_value": 1919.48,
-      "holders": [
-        {
-          "trader": "Lakersfan111",
-          "roi": 0.1859,
-          "value": 835.53,
-          "avg_price": 0.22,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "thatguythatguy",
-          "roi": 0.553,
-          "value": 734.25,
-          "avg_price": 0.2299,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.3798,
-          "value": 349.7,
-          "avg_price": 0.2497,
           "cur_price": 0.235
         }
       ]
@@ -1408,12 +1332,14 @@
     "dota2-ironwi-ts8-2026-08-19-game1::Team Spirit": 3,
     "dota2-ironwi-ts8-2026-08-19::Team Spirit": 3,
     "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit": 3,
-    "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5::BoomBoys": 2,
-    "cs2-faze-vit-2026-08-20::FaZe": 2,
-    "dota2-vsn2-boombo-2026-08-20-game2::TEAM VISION": 1,
-    "dota2-vsn2-boombo-2026-08-20::TEAM VISION": 1,
-    "lol-bro1-drxc-2026-08-20-game2::HANJIN BRION Challengers": 1,
-    "lol-dk-hle1-2026-08-20::Dplus KIA": 1
+    "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5::BoomBoys": 3,
+    "cs2-faze-vit-2026-08-20::FaZe": 3,
+    "dota2-vsn2-boombo-2026-08-20-game2::TEAM VISION": 2,
+    "dota2-vsn2-boombo-2026-08-20::TEAM VISION": 2,
+    "lol-bro1-drxc-2026-08-20-game2::HANJIN BRION Challengers": 2,
+    "lol-dk-hle1-2026-08-20::Dplus KIA": 2,
+    "dota2-vsn2-boombo-2026-08-20-game1::TEAM VISION": 1,
+    "dota2-vsn2-boombo-2026-08-20::BoomBoys": 1
   },
-  "updated_at": "2026-08-20T09:22:01.849146+00:00"
+  "updated_at": "2026-08-20T09:58:18.759348+00:00"
 }
