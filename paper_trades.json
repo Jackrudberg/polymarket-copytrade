@@ -19635,7 +19635,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 81283.62,
       "traders": [
@@ -19643,7 +19643,8 @@
         "purplegatto",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-19-total-9pt5"
+      "url": "https://polymarket.com/event/mlb-nyy-bal-2026-08-19-total-9pt5",
+      "consensus_lost_at": "2026-08-20T03:55:18.930646+00:00"
     },
     {
       "signal_id": "mls-col-laf-2026-08-19-col::No",
@@ -19683,7 +19684,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7045.54,
       "traders": [
@@ -19691,8 +19692,33 @@
         "purplegatto",
         "Flipadelphia"
       ],
-      "url": "https://polymarket.com/event/mls-vwh-hou-2026-08-19-spread-home-1pt5"
+      "url": "https://polymarket.com/event/mls-vwh-hou-2026-08-19-spread-home-1pt5",
+      "consensus_lost_at": "2026-08-20T03:55:18.930646+00:00"
+    },
+    {
+      "signal_id": "mls-col-laf-2026-08-19-col::Yes",
+      "market": "Will Colorado Rapids SC win on 2026-08-19?",
+      "slug": "mls-col-laf-2026-08-19-col",
+      "side": "Yes",
+      "alerted_at": "2026-08-20T03:55:18.930646+00:00",
+      "last_seen": "2026-08-20T03:55:18.930646+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 273663.32,
+      "traders": [
+        "kekasaur",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "0x076daa"
+      ],
+      "url": "https://polymarket.com/event/mls-col-laf-2026-08-19-col"
     }
   ],
-  "updated_at": "2026-08-20T03:05:03.311066+00:00"
+  "updated_at": "2026-08-20T03:55:18.930646+00:00"
 }
