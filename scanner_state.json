@@ -1,17 +1,21 @@
 {
   "seen_ids": [
     "dota2-liquid-ty-2026-08-20::Team Yandex",
-    "dota2-liquid-ty-2026-08-20-game1::Team Yandex",
     "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No",
-    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes",
+    "cs2-navi-lgc-2026-08-20::Legacy",
+    "dota2-ngx-flc-2026-08-20::Team Falcons",
+    "cs2-g2-furia-2026-08-20::FURIA",
     "dota2-liquid-ty-2026-08-20-game2::Team Yandex",
-    "will-bitcoin-hit-150k-by-december-31-2026::No",
+    "lol-lgd-blg-2026-08-20-game1::LGD Gaming",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
     "will-bitcoin-dip-to-15000-by-december-31-2026-416-954-417-853-885-363-335-458-585-275-615-269-479-379-516-218-918-374-598-429-212::No",
     "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No",
+    "cs2-faze-vit-2026-08-20::FaZe",
     "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487-176-555::No",
+    "lol-lgd-blg-2026-08-20::LGD Gaming",
     "lol-jdg-tt-2026-08-20::JD Gaming",
     "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes",
+    "dota2-ngx-flc-2026-08-20-game1::Nigma Galaxy",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
@@ -20,35 +24,515 @@
       "slug": "dota2-liquid-ty-2026-08-20",
       "outcome": "Team Yandex",
       "num_traders": 4,
-      "total_value": 126366.33,
+      "total_value": 186188.96,
       "holders": [
         {
           "trader": "S-Works",
-          "roi": 0.2443,
+          "roi": 0.5726,
           "value": 99950,
           "avg_price": 0.42,
           "cur_price": 0.9995
         },
         {
+          "trader": "CORGI8",
+          "roi": 0.1641,
+          "value": 61251.46,
+          "avg_price": 0.4419,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "sofa88888",
-          "roi": 0.2392,
+          "roi": 0.244,
           "value": 14992.5,
           "avg_price": 0.43,
           "cur_price": 0.9995
         },
         {
           "trader": "lzh1",
-          "roi": 0.3254,
+          "roi": 0.3867,
           "value": 9995,
           "avg_price": 0.42,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 313430.04,
+      "holders": [
+        {
+          "trader": "JnStTrdrBnusFnd",
+          "roi": 0.2295,
+          "value": 295949.81,
+          "avg_price": 0.7185,
+          "cur_price": 0.825
         },
         {
-          "trader": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
-          "roi": 0.2839,
-          "value": 1428.83,
-          "avg_price": 0.4299,
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 14604.3,
+          "avg_price": 0.7488,
+          "cur_price": 0.825
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1658,
+          "value": 2875.93,
+          "avg_price": 0.7374,
+          "cur_price": 0.825
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-navi-lgc-2026-08-20",
+      "outcome": "Legacy",
+      "num_traders": 3,
+      "total_value": 222795.63,
+      "holders": [
+        {
+          "trader": "ExplosiveNinja",
+          "roi": 0.3818,
+          "value": 149924.62,
+          "avg_price": 0.2999,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "itwillallbeok",
+          "roi": 0.2692,
+          "value": 49974.58,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 22896.43,
+          "avg_price": 0.2999,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+      "slug": "dota2-ngx-flc-2026-08-20",
+      "outcome": "Team Falcons",
+      "num_traders": 3,
+      "total_value": 216096.3,
+      "holders": [
+        {
+          "trader": "S-Works",
+          "roi": 0.5726,
+          "value": 208499.95,
+          "avg_price": 0.63,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.3867,
+          "value": 6950,
+          "avg_price": 0.65,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 646.35,
+          "avg_price": 0.65,
+          "cur_price": 0.695
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-g2-furia-2026-08-20",
+      "outcome": "FURIA",
+      "num_traders": 3,
+      "total_value": 82993.14,
+      "holders": [
+        {
+          "trader": "itwillallbeok",
+          "roi": 0.2692,
+          "value": 42374.97,
+          "avg_price": 0.5599,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "ExplosiveNinja",
+          "roi": 0.3818,
+          "value": 39549.94,
+          "avg_price": 0.58,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 1068.23,
+          "avg_price": 0.5599,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Liquid vs Team Yandex - Game 2 Winner",
+      "slug": "dota2-liquid-ty-2026-08-20-game2",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 64516.71,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.1641,
+          "value": 35531.22,
+          "avg_price": 0.4758,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Barbozaaa321",
+          "roi": 0.1988,
+          "value": 14992.5,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.244,
+          "value": 13992.99,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming - Game 1 Winner",
+      "slug": "lol-lgd-blg-2026-08-20-game1",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 40844.83,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.2748,
+          "value": 33968.68,
+          "avg_price": 0.2368,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mpyh",
+          "roi": 0.3492,
+          "value": 6717.67,
+          "avg_price": 0.4055,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2165,
+          "value": 158.48,
+          "avg_price": 0.2233,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 25183.29,
+      "holders": [
+        {
+          "trader": "JnStTrdrBnusFnd",
+          "roi": 0.2295,
+          "value": 16070.55,
+          "avg_price": 0.8605,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 8488.17,
+          "avg_price": 0.8344,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 624.57,
+          "avg_price": 0.9284,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $15,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-15000-by-december-31-2026-416-954-417-853-885-363-335-458-585-275-615-269-479-379-516-218-918-374-598-429-212",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 24680.05,
+      "holders": [
+        {
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 20784.97,
+          "avg_price": 0.9389,
+          "cur_price": 0.9825
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1658,
+          "value": 3403.84,
+          "avg_price": 0.9706,
+          "cur_price": 0.9825
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 491.24,
+          "avg_price": 0.9694,
+          "cur_price": 0.9825
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $120,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 17353.09,
+      "holders": [
+        {
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 13451.71,
+          "avg_price": 0.645,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1658,
+          "value": 2031.38,
+          "avg_price": 0.9315,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 1870,
+          "avg_price": 0.5425,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: FaZe vs Vitality (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-faze-vit-2026-08-20",
+      "outcome": "FaZe",
+      "num_traders": 3,
+      "total_value": 16729.13,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.1641,
+          "value": 14713.56,
+          "avg_price": 0.2399,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 1665.87,
+          "avg_price": 0.23,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2165,
+          "value": 349.7,
+          "avg_price": 0.2497,
+          "cur_price": 0.235
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $5,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487-176-555",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 15988.96,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1658,
+          "value": 8042.01,
+          "avg_price": 0.9788,
+          "cur_price": 0.9905
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 7204.07,
+          "avg_price": 0.9623,
+          "cur_price": 0.9905
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 742.88,
+          "avg_price": 0.9793,
+          "cur_price": 0.9905
+        }
+      ]
+    },
+    {
+      "market": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-lgd-blg-2026-08-20",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 14321.65,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.2748,
+          "value": 7711.47,
+          "avg_price": 0.3887,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.244,
+          "value": 3709.98,
+          "avg_price": 0.46,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "lzh1",
+          "roi": 0.3867,
+          "value": 2900.2,
+          "avg_price": 0.2522,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-jdg-tt-2026-08-20",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 13899.99,
+      "holders": [
+        {
+          "trader": "lzh1",
+          "roi": 0.3867,
+          "value": 9894.6,
+          "avg_price": 0.4099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.7719,
+          "value": 2984.9,
+          "avg_price": 0.71,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 1020.49,
+          "avg_price": 0.6188,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6696.42,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.1658,
+          "value": 4998.46,
+          "avg_price": 0.1162,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1817,
+          "value": 1210.95,
+          "avg_price": 0.1495,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 487.01,
+          "avg_price": 0.08,
+          "cur_price": 0.195
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner",
+      "slug": "dota2-ngx-flc-2026-08-20-game1",
+      "outcome": "Nigma Galaxy",
+      "num_traders": 3,
+      "total_value": 5114.3,
+      "holders": [
+        {
+          "trader": "TheVeteran77",
+          "roi": 0.2161,
+          "value": 4724.99,
+          "avg_price": 0.35,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "CORGI8",
+          "roi": 0.1641,
+          "value": 202.2,
+          "avg_price": 0.3499,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2802,
+          "value": 187.11,
+          "avg_price": 0.4,
+          "cur_price": 0.315
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3523.31,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.8955,
+          "value": 1399.01,
+          "avg_price": 0.4982,
+          "cur_price": 0.7435
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.7719,
+          "value": 1155.14,
+          "avg_price": 0.58,
+          "cur_price": 0.7435
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.4479,
+          "value": 969.16,
+          "avg_price": 0.5002,
+          "cur_price": 0.7435
         }
       ]
     },
@@ -90,36 +574,6 @@
       ]
     },
     {
-      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 313430.04,
-      "holders": [
-        {
-          "trader": "JnStTrdrBnusFnd",
-          "roi": 0.3601,
-          "value": 295949.81,
-          "avg_price": 0.7185,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 14604.3,
-          "avg_price": 0.7488,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.1832,
-          "value": 2875.93,
-          "avg_price": 0.7374,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin reach $80,000 by December 31, 2026?",
       "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
@@ -150,36 +604,6 @@
       ]
     },
     {
-      "market": "Dota 2: Team Liquid vs Team Yandex - Game 2 Winner",
-      "slug": "dota2-liquid-ty-2026-08-20-game2",
-      "outcome": "Team Yandex",
-      "num_traders": 3,
-      "total_value": 44977.49,
-      "holders": [
-        {
-          "trader": "canoflanagan",
-          "roi": 0.1665,
-          "value": 15992,
-          "avg_price": 0.4999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.1606,
-          "value": 14992.5,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sofa88888",
-          "roi": 0.2392,
-          "value": 13992.99,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin hit $150k by December 31, 2026?",
       "slug": "will-bitcoin-hit-150k-by-december-31-2026",
       "outcome": "No",
@@ -206,216 +630,6 @@
           "value": 3460.34,
           "avg_price": 0.8964,
           "cur_price": 0.9765
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 25183.29,
-      "holders": [
-        {
-          "trader": "JnStTrdrBnusFnd",
-          "roi": 0.3601,
-          "value": 16070.55,
-          "avg_price": 0.8605,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 8488.17,
-          "avg_price": 0.8344,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 624.57,
-          "avg_price": 0.9284,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $15,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-15000-by-december-31-2026-416-954-417-853-885-363-335-458-585-275-615-269-479-379-516-218-918-374-598-429-212",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 24680.05,
-      "holders": [
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 20784.97,
-          "avg_price": 0.9389,
-          "cur_price": 0.9825
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.1832,
-          "value": 3403.84,
-          "avg_price": 0.9706,
-          "cur_price": 0.9825
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 491.24,
-          "avg_price": 0.9694,
-          "cur_price": 0.9825
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $120,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 17353.09,
-      "holders": [
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 13451.71,
-          "avg_price": 0.645,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.1832,
-          "value": 2031.38,
-          "avg_price": 0.9315,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 1870,
-          "avg_price": 0.5425,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $5,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487-176-555",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 15988.96,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.1832,
-          "value": 8042.01,
-          "avg_price": 0.9788,
-          "cur_price": 0.9905
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 7204.07,
-          "avg_price": 0.9623,
-          "cur_price": 0.9905
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 742.88,
-          "avg_price": 0.9793,
-          "cur_price": 0.9905
-        }
-      ]
-    },
-    {
-      "market": "LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend",
-      "slug": "lol-jdg-tt-2026-08-20",
-      "outcome": "JD Gaming",
-      "num_traders": 3,
-      "total_value": 13899.99,
-      "holders": [
-        {
-          "trader": "lzh1",
-          "roi": 0.3254,
-          "value": 9894.6,
-          "avg_price": 0.4099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 1.1478,
-          "value": 2984.9,
-          "avg_price": 0.71,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2615,
-          "value": 1020.49,
-          "avg_price": 0.6188,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6696.42,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.1832,
-          "value": 4998.46,
-          "avg_price": 0.1162,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1878,
-          "value": 1210.95,
-          "avg_price": 0.1495,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 487.01,
-          "avg_price": 0.08,
-          "cur_price": 0.195
-        }
-      ]
-    },
-    {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3523.31,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.7034,
-          "value": 1399.01,
-          "avg_price": 0.4982,
-          "cur_price": 0.7435
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 1.1478,
-          "value": 1155.14,
-          "avg_price": 0.58,
-          "cur_price": 0.7435
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4514,
-          "value": 969.16,
-          "avg_price": 0.5002,
-          "cur_price": 0.7435
         }
       ]
     },
@@ -490,80 +704,6 @@
           "value": 579.78,
           "avg_price": 0.3447,
           "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
-      "slug": "dota2-vsn2-boombo-2026-08-20",
-      "outcome": "TEAM VISION",
-      "num_traders": 5,
-      "total_value": 111230.87,
-      "holders": [
-        {
-          "trader": "MeiGuNiuBi",
-          "roi": 0.2376,
-          "value": 47789.22,
-          "avg_price": 0.7461,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "thatguythatguy",
-          "roi": 0.2364,
-          "value": 37173.69,
-          "avg_price": 0.6952,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 1.1063,
-          "value": 17491.25,
-          "avg_price": 0.69,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "spiced",
-          "roi": 0.1845,
-          "value": 7731.07,
-          "avg_price": 0.7898,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.2551,
-          "value": 1045.64,
-          "avg_price": 0.8467,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
-      "slug": "dota2-liquid-ty-2026-08-20-game1",
-      "outcome": "Team Liquid",
-      "num_traders": 3,
-      "total_value": 33760.86,
-      "holders": [
-        {
-          "trader": "KARTEROR",
-          "roi": 0.1608,
-          "value": 24359.93,
-          "avg_price": 0.4777,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "Barbozaaa321",
-          "roi": 0.1966,
-          "value": 9249.99,
-          "avg_price": 0.5499,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "spiced",
-          "roi": 0.1845,
-          "value": 150.94,
-          "avg_price": 0.53,
-          "cur_price": 0.925
         }
       ]
     }
@@ -1426,7 +1566,6 @@
     "dota2-ironwi-ts8-2026-08-19::Team Spirit": 3,
     "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit": 3,
     "dota2-vsn2-boombo-2026-08-20-game-handicap-away-1pt5::BoomBoys": 3,
-    "cs2-faze-vit-2026-08-20::FaZe": 3,
     "dota2-vsn2-boombo-2026-08-20-game2::TEAM VISION": 3,
     "lol-bro1-drxc-2026-08-20-game2::HANJIN BRION Challengers": 3,
     "lol-dk-hle1-2026-08-20::Dplus KIA": 3,
@@ -1434,10 +1573,13 @@
     "dota2-vsn2-boombo-2026-08-20::BoomBoys": 3,
     "dota2-vsn2-boombo-2026-08-20-game2::BoomBoys": 3,
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 3,
-    "dota2-vsn2-boombo-2026-08-20::TEAM VISION": 2,
-    "dota2-liquid-ty-2026-08-20-game1::Team Liquid": 2,
-    "lol-dk-hle1-2026-08-20::Hanwha Life Esports": 1,
-    "dota2-liquid-ty-2026-08-20::Team Liquid": 1
+    "dota2-vsn2-boombo-2026-08-20::TEAM VISION": 3,
+    "dota2-liquid-ty-2026-08-20-game1::Team Liquid": 3,
+    "lol-dk-hle1-2026-08-20::Hanwha Life Esports": 2,
+    "dota2-liquid-ty-2026-08-20::Team Liquid": 2,
+    "dota2-liquid-ty-2026-08-20-game1::Team Yandex": 1,
+    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 1,
+    "will-bitcoin-hit-150k-by-december-31-2026::No": 1
   },
-  "updated_at": "2026-08-20T13:05:57.389376+00:00"
+  "updated_at": "2026-08-20T13:56:33.607625+00:00"
 }
