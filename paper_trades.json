@@ -6567,7 +6567,7 @@
       "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
       "side": "Yes",
       "alerted_at": "2026-07-30T16:53:38.560898+00:00",
-      "last_seen": "2026-08-20T17:39:45.665467+00:00",
+      "last_seen": "2026-08-20T18:02:39.096823+00:00",
       "entry_price": 0.7495,
       "current_price": 0.744,
       "stake": 100.0,
@@ -19964,7 +19964,7 @@
       "slug": "dota2-ngx-flc-2026-08-20",
       "side": "Nigma Galaxy",
       "alerted_at": "2026-08-20T04:37:27.810311+00:00",
-      "last_seen": "2026-08-20T17:39:45.665467+00:00",
+      "last_seen": "2026-08-20T18:02:39.096823+00:00",
       "entry_price": 0.315,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -20379,7 +20379,7 @@
       "current_value": 100.72,
       "paper_pnl": 0.72,
       "return_percent": 0.72,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 216096.3,
       "traders": [
@@ -20387,7 +20387,8 @@
         "lzh1",
         "MeiGuNiuBi"
       ],
-      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20"
+      "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20",
+      "consensus_lost_at": "2026-08-20T18:02:39.096823+00:00"
     },
     {
       "signal_id": "cs2-g2-furia-2026-08-20::FURIA",
@@ -20395,14 +20396,14 @@
       "slug": "cs2-g2-furia-2026-08-20",
       "side": "FURIA",
       "alerted_at": "2026-08-20T13:56:33.597191+00:00",
-      "last_seen": "2026-08-20T17:39:45.665467+00:00",
+      "last_seen": "2026-08-20T18:02:39.096823+00:00",
       "entry_price": 0.565,
-      "current_price": 0.715,
+      "current_price": 0.575,
       "stake": 100.0,
       "shares": 176.99115,
-      "current_value": 126.55,
-      "paper_pnl": 26.55,
-      "return_percent": 26.55,
+      "current_value": 101.77,
+      "paper_pnl": 1.77,
+      "return_percent": 1.77,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 82993.14,
@@ -20527,7 +20528,7 @@
       "current_value": 111.06,
       "paper_pnl": 11.06,
       "return_percent": 11.06,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 62821.94,
       "traders": [
@@ -20535,7 +20536,8 @@
         "xytest",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20-game2"
+      "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20-game2",
+      "consensus_lost_at": "2026-08-20T18:02:39.096823+00:00"
     },
     {
       "signal_id": "dota2-ngx-flc-2026-08-20-game2::Nigma Galaxy",
@@ -20562,5 +20564,5 @@
       "url": "https://polymarket.com/event/dota2-ngx-flc-2026-08-20-game2"
     }
   ],
-  "updated_at": "2026-08-20T17:39:45.665467+00:00"
+  "updated_at": "2026-08-20T18:02:39.096823+00:00"
 }
