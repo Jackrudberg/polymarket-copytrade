@@ -19922,7 +19922,7 @@
       "current_value": 224.61,
       "paper_pnl": 124.61,
       "return_percent": 124.61,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 31556.52,
       "traders": [
@@ -19931,7 +19931,7 @@
         "Lakersfan111"
       ],
       "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20",
-      "consensus_lost_at": "2026-08-20T06:20:46.132797+00:00"
+      "consensus_lost_at": "2026-08-20T15:52:49.633923+00:00"
     },
     {
       "signal_id": "dota2-liquid-ty-2026-08-20::Team Liquid",
@@ -19997,7 +19997,7 @@
       "current_value": 60.0,
       "paper_pnl": -40.0,
       "return_percent": -40.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1434.82,
       "traders": [
@@ -20006,7 +20006,7 @@
         "0x076daa"
       ],
       "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20",
-      "consensus_lost_at": "2026-08-20T09:22:01.831376+00:00"
+      "consensus_lost_at": "2026-08-20T15:52:49.633923+00:00"
     },
     {
       "signal_id": "dota2-vsn2-boombo-2026-08-20-game1::TEAM VISION",
@@ -20328,7 +20328,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 44977.49,
       "traders": [
@@ -20336,7 +20336,8 @@
         "Barbozaaa321",
         "sofa88888"
       ],
-      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20-game2"
+      "url": "https://polymarket.com/event/dota2-liquid-ty-2026-08-20-game2",
+      "consensus_lost_at": "2026-08-20T15:52:49.633923+00:00"
     },
     {
       "signal_id": "cs2-navi-lgc-2026-08-20::Legacy",
@@ -20352,7 +20353,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 222795.63,
       "traders": [
@@ -20360,7 +20361,8 @@
         "itwillallbeok",
         "MeiGuNiuBi"
       ],
-      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20"
+      "url": "https://polymarket.com/event/cs2-navi-lgc-2026-08-20",
+      "consensus_lost_at": "2026-08-20T15:52:49.633923+00:00"
     },
     {
       "signal_id": "dota2-ngx-flc-2026-08-20::Team Falcons",
@@ -20368,14 +20370,14 @@
       "slug": "dota2-ngx-flc-2026-08-20",
       "side": "Team Falcons",
       "alerted_at": "2026-08-20T13:56:33.597191+00:00",
-      "last_seen": "2026-08-20T15:16:41.108105+00:00",
+      "last_seen": "2026-08-20T15:52:49.633923+00:00",
       "entry_price": 0.695,
-      "current_price": 0.685,
+      "current_price": 0.585,
       "stake": 100.0,
       "shares": 143.884892,
-      "current_value": 98.56,
-      "paper_pnl": -1.44,
-      "return_percent": -1.44,
+      "current_value": 84.17,
+      "paper_pnl": -15.83,
+      "return_percent": -15.83,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 216096.3,
@@ -20534,5 +20536,5 @@
       "url": "https://polymarket.com/event/cs2-faze-vit-2026-08-20-game2"
     }
   ],
-  "updated_at": "2026-08-20T15:16:41.108105+00:00"
+  "updated_at": "2026-08-20T15:52:49.633923+00:00"
 }
