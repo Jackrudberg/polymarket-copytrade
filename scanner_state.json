@@ -1,9 +1,7 @@
 {
   "seen_ids": [
     "dota2-ironwi-ts8-2026-08-19-game2::Team Spirit",
-    "dota2-ironwi-ts8-2026-08-19-game1::Team Spirit",
-    "dota2-vsn2-boombo-2026-08-20::BoomBoys",
-    "dota2-ironwi-ts8-2026-08-19::Team Spirit"
+    "dota2-vsn2-boombo-2026-08-20-game1::TEAM VISION"
   ],
   "signals": [
     {
@@ -11,56 +9,93 @@
       "slug": "dota2-ironwi-ts8-2026-08-19-game2",
       "outcome": "Team Spirit",
       "num_traders": 7,
-      "total_value": 143490.93,
+      "total_value": 149008.97,
       "holders": [
         {
-          "trader": "cdgsv",
-          "roi": 0.4736,
-          "value": 34982.34,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "IMAREALPERSON",
-          "roi": 0.1854,
+          "roi": 0.1862,
           "value": 33388.72,
           "avg_price": 0.528,
           "cur_price": 0.9995
         },
         {
           "trader": "canoflanagan",
-          "roi": 0.314,
+          "roi": 0.2415,
           "value": 33151.07,
           "avg_price": 0.4645,
           "cur_price": 0.9995
         },
         {
           "trader": "gpkashka",
-          "roi": 0.4379,
+          "roi": 0.5299,
           "value": 29855.08,
           "avg_price": 0.4552,
           "cur_price": 0.9995
         },
         {
+          "trader": "VibeDoter",
+          "roi": 0.3333,
+          "value": 24487.64,
+          "avg_price": 0.4548,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cdgsv",
+          "roi": 0.2113,
+          "value": 17491.18,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "Skritopoolniy",
-          "roi": 0.5097,
+          "roi": 0.3283,
           "value": 10274.49,
           "avg_price": 0.35,
           "cur_price": 0.9995
         },
         {
-          "trader": "Lakersfan111",
-          "roi": 0.2063,
-          "value": 1478.44,
-          "avg_price": 0.47,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "0x076daa",
-          "roi": 0.5,
+          "roi": 0.4512,
           "value": 360.79,
           "avg_price": 0.387,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+      "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+      "outcome": "TEAM VISION",
+      "num_traders": 4,
+      "total_value": 51421.81,
+      "holders": [
+        {
+          "trader": "cdgsv",
+          "roi": 0.2113,
+          "value": 36920.33,
+          "avg_price": 0.6746,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "canoflanagan",
+          "roi": 0.2415,
+          "value": 7949.98,
+          "avg_price": 0.6199,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "VibeDoter",
+          "roi": 0.3333,
+          "value": 6360.76,
+          "avg_price": 0.7275,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.4512,
+          "value": 190.74,
+          "avg_price": 0.776,
+          "cur_price": 0.795
         }
       ]
     },
@@ -329,73 +364,6 @@
           "value": 173.13,
           "avg_price": 0.3997,
           "cur_price": 0.007
-        }
-      ]
-    },
-    {
-      "market": "Will Los Angeles Galaxy win on 2026-08-19?",
-      "slug": "mls-lag-sje-2026-08-19-lag",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 4172.15,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2356,
-          "value": 3095.6,
-          "avg_price": 0.4299,
-          "cur_price": 0.005
-        },
-        {
-          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
-          "roi": 0.365,
-          "value": 449.12,
-          "avg_price": 0.4299,
-          "cur_price": 0.005
-        },
-        {
-          "trader": "BoggsFromShawshank",
-          "roi": 0.308,
-          "value": 388.59,
-          "avg_price": 0.4786,
-          "cur_price": 0.005
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2997,
-          "value": 238.84,
-          "avg_price": 0.4587,
-          "cur_price": 0.005
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Lynx vs. Golden State Valkyries: O/U 163.5",
-      "slug": "wnba-min-gsv-2026-08-19-total-163pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 63938.08,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.4671,
-          "value": 53070.55,
-          "avg_price": 0.5399,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2997,
-          "value": 10177.29,
-          "avg_price": 0.5299,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CAcap",
-          "roi": 0.1873,
-          "value": 690.24,
-          "avg_price": 0.51,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1259,13 +1227,16 @@
     "mls-vwh-hou-2026-08-19-spread-home-1pt5::Houston Dynamo": 3,
     "mls-col-laf-2026-08-19-col::No": 3,
     "mls-col-laf-2026-08-19-col::Yes": 3,
-    "mls-lag-sje-2026-08-19-lag::No": 2,
-    "wnba-min-gsv-2026-08-19-total-163pt5::Under": 2,
-    "dota2-liquid-ty-2026-08-20::Team Yandex": 1,
-    "dota2-liquid-ty-2026-08-20::Team Liquid": 1,
-    "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 1,
-    "cs2-faze-vit-2026-08-20::FaZe": 1,
-    "dota2-ironwi-ts8-2026-08-19-game2::Iron Wing": 1
+    "mls-lag-sje-2026-08-19-lag::No": 3,
+    "wnba-min-gsv-2026-08-19-total-163pt5::Under": 3,
+    "dota2-liquid-ty-2026-08-20::Team Yandex": 2,
+    "dota2-liquid-ty-2026-08-20::Team Liquid": 2,
+    "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 2,
+    "cs2-faze-vit-2026-08-20::FaZe": 2,
+    "dota2-ironwi-ts8-2026-08-19-game2::Iron Wing": 2,
+    "dota2-ironwi-ts8-2026-08-19-game1::Team Spirit": 1,
+    "dota2-vsn2-boombo-2026-08-20::BoomBoys": 1,
+    "dota2-ironwi-ts8-2026-08-19::Team Spirit": 1
   },
-  "updated_at": "2026-08-20T05:49:39.178666+00:00"
+  "updated_at": "2026-08-20T06:20:46.146564+00:00"
 }
