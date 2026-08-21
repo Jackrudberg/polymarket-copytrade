@@ -1,7 +1,6 @@
 {
   "seen_ids": [
     "cs2-vit-ts7-2026-08-21::Spirit",
-    "cs2-vit-ts7-2026-08-21::Vitality",
     "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
     "will-bitcoin-reach-85k-in-august-2026::Yes"
@@ -12,58 +11,28 @@
       "slug": "cs2-vit-ts7-2026-08-21",
       "outcome": "Spirit",
       "num_traders": 3,
-      "total_value": 61443.83,
+      "total_value": 135072.9,
       "holders": [
+        {
+          "trader": "dsasdaas",
+          "roi": 0.2904,
+          "value": 59679.01,
+          "avg_price": 0.8205,
+          "cur_price": 0.9995
+        },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
           "roi": 0.3259,
-          "value": 25269.76,
+          "value": 40411.39,
           "avg_price": 0.4325,
-          "cur_price": 0.625
+          "cur_price": 0.9995
         },
         {
           "trader": "Wiretransferxyz",
           "roi": 0.5237,
-          "value": 21875,
+          "value": 34982.5,
           "avg_price": 0.44,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "dsasdaas",
-          "roi": 0.2904,
-          "value": 14299.07,
-          "avg_price": 0.6121,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
-      "slug": "cs2-vit-ts7-2026-08-21",
-      "outcome": "Vitality",
-      "num_traders": 3,
-      "total_value": 38590.84,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.212,
-          "value": 19087.38,
-          "avg_price": 0.5893,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "dsasdaas",
-          "roi": 0.2904,
-          "value": 10958.25,
-          "avg_price": 0.56,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.1932,
-          "value": 8545.21,
-          "avg_price": 0.5565,
-          "cur_price": 0.375
+          "cur_price": 0.9995
         }
       ]
     },
@@ -102,7 +71,7 @@
       "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 23916.46,
+      "total_value": 23951.53,
       "holders": [
         {
           "trader": "justdance",
@@ -114,16 +83,16 @@
         {
           "trader": "0xf705fa",
           "roi": 0.2252,
-          "value": 9772.89,
+          "value": 9798.38,
           "avg_price": 0.9498,
-          "cur_price": 0.9585
+          "cur_price": 0.961
         },
         {
           "trader": "JnStrtPrdctnMrkts",
           "roi": 0.693,
-          "value": 3676.0,
+          "value": 3685.58,
           "avg_price": 0.875,
-          "cur_price": 0.9585
+          "cur_price": 0.961
         }
       ]
     },
@@ -132,28 +101,58 @@
       "slug": "will-bitcoin-reach-85k-in-august-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 15920.81,
+      "total_value": 16281.61,
       "holders": [
         {
           "trader": "0xf705fa",
           "roi": 0.2252,
-          "value": 9230.84,
+          "value": 9440.03,
           "avg_price": 0.1499,
-          "cur_price": 0.1765
+          "cur_price": 0.1805
         },
         {
           "trader": "frozenriver",
           "roi": 3.4642,
-          "value": 5293.92,
+          "value": 5413.89,
           "avg_price": 0.0041,
-          "cur_price": 0.1765
+          "cur_price": 0.1805
         },
         {
           "trader": "justdance",
           "roi": 0.1562,
-          "value": 1396.05,
+          "value": 1427.69,
           "avg_price": 0.1977,
-          "cur_price": 0.1765
+          "cur_price": 0.1805
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-vit-ts7-2026-08-21",
+      "outcome": "Vitality",
+      "num_traders": 3,
+      "total_value": 38590.84,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.212,
+          "value": 19087.38,
+          "avg_price": 0.5893,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "dsasdaas",
+          "roi": 0.2904,
+          "value": 10958.25,
+          "avg_price": 0.56,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "KingOfEsports",
+          "roi": 0.1932,
+          "value": 8545.21,
+          "avg_price": 0.5565,
+          "cur_price": 0.375
         }
       ]
     },
@@ -214,80 +213,6 @@
           "value": 171.31,
           "avg_price": 0.6499,
           "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
-      "slug": "dota2-ty-ngx-2026-08-21",
-      "outcome": "Team Yandex",
-      "num_traders": 5,
-      "total_value": 305981.75,
-      "holders": [
-        {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.154,
-          "value": 84466.79,
-          "avg_price": 0.6216,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "casualbet2020",
-          "roi": 0.1727,
-          "value": 79959.98,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "dsasdaas",
-          "roi": 0.2008,
-          "value": 57436.81,
-          "avg_price": 0.6177,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NO-GOD-PLEASE-NO",
-          "roi": 0.2482,
-          "value": 54972.17,
-          "avg_price": 0.63,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Bettong",
-          "roi": 0.169,
-          "value": 29146.0,
-          "avg_price": 0.7552,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Vitality vs Spirit - Map 2 Winner",
-      "slug": "cs2-vit-ts7-2026-08-21-game2",
-      "outcome": "Spirit",
-      "num_traders": 3,
-      "total_value": 20336.68,
-      "holders": [
-        {
-          "trader": "basementdweller3000",
-          "roi": 0.4429,
-          "value": 19974.94,
-          "avg_price": 0.4099,
-          "cur_price": 0.3995
-        },
-        {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.154,
-          "value": 207.93,
-          "avg_price": 0.41,
-          "cur_price": 0.3995
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.3395,
-          "value": 153.81,
-          "avg_price": 0.4299,
-          "cur_price": 0.3995
         }
       ]
     }
@@ -1207,10 +1132,11 @@
     "will-bitcoin-dip-to-67pt5k-in-august-2026::No": 3,
     "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 3,
     "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 3,
-    "dota2-ty-ngx-2026-08-21::Team Yandex": 2,
-    "cs2-vit-ts7-2026-08-21-game2::Spirit": 2,
-    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 1,
-    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 1
+    "dota2-ty-ngx-2026-08-21::Team Yandex": 3,
+    "cs2-vit-ts7-2026-08-21-game2::Spirit": 3,
+    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 2,
+    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 2,
+    "cs2-vit-ts7-2026-08-21::Vitality": 1
   },
-  "updated_at": "2026-08-21T19:43:01.527884+00:00"
+  "updated_at": "2026-08-21T20:00:25.444440+00:00"
 }
