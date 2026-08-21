@@ -1,11 +1,100 @@
 {
   "seen_ids": [
-    "cs2-vit-ts7-2026-08-21::Spirit",
     "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
     "will-bitcoin-reach-85k-in-august-2026::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 26943.34,
+      "holders": [
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.6617,
+          "value": 20491.82,
+          "avg_price": 0.4877,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1501,
+          "value": 6002.66,
+          "avg_price": 0.508,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.225,
+          "value": 448.86,
+          "avg_price": 0.6199,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 23876.77,
+      "holders": [
+        {
+          "trader": "justdance",
+          "roi": 0.1501,
+          "value": 10434.9,
+          "avg_price": 0.8553,
+          "cur_price": 0.958
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.225,
+          "value": 9767.79,
+          "avg_price": 0.9498,
+          "cur_price": 0.958
+        },
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.6617,
+          "value": 3674.08,
+          "avg_price": 0.875,
+          "cur_price": 0.958
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $85,000 in August?",
+      "slug": "will-bitcoin-reach-85k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 18175.87,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.225,
+          "value": 10538.32,
+          "avg_price": 0.1499,
+          "cur_price": 0.2015
+        },
+        {
+          "trader": "frozenriver",
+          "roi": 3.4458,
+          "value": 6043.76,
+          "avg_price": 0.0041,
+          "cur_price": 0.2015
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1501,
+          "value": 1593.79,
+          "avg_price": 0.1977,
+          "cur_price": 0.2015
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
       "slug": "cs2-vit-ts7-2026-08-21",
@@ -37,96 +126,6 @@
       ]
     },
     {
-      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 26943.34,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.693,
-          "value": 20491.82,
-          "avg_price": 0.4877,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1562,
-          "value": 6002.66,
-          "avg_price": 0.508,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2252,
-          "value": 448.86,
-          "avg_price": 0.6199,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 23951.53,
-      "holders": [
-        {
-          "trader": "justdance",
-          "roi": 0.1562,
-          "value": 10467.57,
-          "avg_price": 0.8553,
-          "cur_price": 0.961
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2252,
-          "value": 9798.38,
-          "avg_price": 0.9498,
-          "cur_price": 0.961
-        },
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.693,
-          "value": 3685.58,
-          "avg_price": 0.875,
-          "cur_price": 0.961
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $85,000 in August?",
-      "slug": "will-bitcoin-reach-85k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 16281.61,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2252,
-          "value": 9440.03,
-          "avg_price": 0.1499,
-          "cur_price": 0.1805
-        },
-        {
-          "trader": "frozenriver",
-          "roi": 3.4642,
-          "value": 5413.89,
-          "avg_price": 0.0041,
-          "cur_price": 0.1805
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1562,
-          "value": 1427.69,
-          "avg_price": 0.1977,
-          "cur_price": 0.1805
-        }
-      ]
-    },
-    {
       "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
       "slug": "cs2-vit-ts7-2026-08-21",
       "outcome": "Vitality",
@@ -153,66 +152,6 @@
           "value": 8545.21,
           "avg_price": 0.5565,
           "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
-      "slug": "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 32867.84,
-      "holders": [
-        {
-          "trader": "Melody626",
-          "roi": 0.6531,
-          "value": 29989.08,
-          "avg_price": 0.5608,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "abdkxrhxr",
-          "roi": 0.6439,
-          "value": 2372.14,
-          "avg_price": 0.4506,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3442,
-          "value": 506.62,
-          "avg_price": 0.5119,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies",
-      "slug": "mlb-stl-phi-2026-08-21",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 2910.89,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4142,
-          "value": 2126.12,
-          "avg_price": 0.6655,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.4359,
-          "value": 613.46,
-          "avg_price": 0.6899,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1815,
-          "value": 171.31,
-          "avg_price": 0.6499,
-          "cur_price": 0.705
         }
       ]
     }
@@ -1134,9 +1073,10 @@
     "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 3,
     "dota2-ty-ngx-2026-08-21::Team Yandex": 3,
     "cs2-vit-ts7-2026-08-21-game2::Spirit": 3,
-    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 2,
-    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 2,
-    "cs2-vit-ts7-2026-08-21::Vitality": 1
+    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 3,
+    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 3,
+    "cs2-vit-ts7-2026-08-21::Vitality": 2,
+    "cs2-vit-ts7-2026-08-21::Spirit": 1
   },
-  "updated_at": "2026-08-21T20:00:25.444440+00:00"
+  "updated_at": "2026-08-21T20:34:53.388864+00:00"
 }
