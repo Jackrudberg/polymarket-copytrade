@@ -1,117 +1,42 @@
 {
   "seen_ids": [
-    "will-bitcoin-reach-80k-in-august-2026::Yes",
-    "will-bitcoin-reach-82pt5k-in-august-2026::Yes",
     "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes",
     "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No",
-    "will-bitcoin-reach-77pt5k-in-august-2026::Yes",
     "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes",
     "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes",
+    "will-bitcoin-reach-80k-in-august-2026::Yes",
+    "will-bitcoin-reach-82pt5k-in-august-2026::Yes",
     "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes",
     "will-bitcoin-dip-to-67pt5k-in-august-2026::No"
   ],
   "signals": [
     {
-      "market": "Will Bitcoin reach $80,000 in August?",
-      "slug": "will-bitcoin-reach-80k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 17316.32,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 9532.49,
-          "avg_price": 0.1079,
-          "cur_price": 0.3095
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 5095.54,
-          "avg_price": 0.0952,
-          "cur_price": 0.3095
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 1703.2,
-          "avg_price": 0.0771,
-          "cur_price": 0.3095
-        },
-        {
-          "trader": "Nonurbusines",
-          "roi": 0.2181,
-          "value": 985.09,
-          "avg_price": 0.0403,
-          "cur_price": 0.3095
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $82,500 in August?",
-      "slug": "will-bitcoin-reach-82pt5k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 11702.02,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 5642.64,
-          "avg_price": 0.0802,
-          "cur_price": 0.163
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 4335.55,
-          "avg_price": 0.011,
-          "cur_price": 0.163
-        },
-        {
-          "trader": "Nonurbusines",
-          "roi": 0.2181,
-          "value": 1358.01,
-          "avg_price": 0.007,
-          "cur_price": 0.163
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 365.82,
-          "avg_price": 0.0658,
-          "cur_price": 0.163
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin reach $80,000 by December 31, 2026?",
       "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 105756.83,
+      "total_value": 104277.72,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 57023.08,
+          "roi": 0.7615,
+          "value": 56225.56,
           "avg_price": 0.3399,
-          "cur_price": 0.715
+          "cur_price": 0.705
         },
         {
           "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 41583.79,
+          "roi": 0.222,
+          "value": 41002.2,
           "avg_price": 0.3874,
-          "cur_price": 0.715
+          "cur_price": 0.705
         },
         {
           "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 7149.96,
+          "roi": 0.4442,
+          "value": 7049.96,
           "avg_price": 0.3065,
-          "cur_price": 0.715
+          "cur_price": 0.705
         }
       ]
     },
@@ -124,24 +49,204 @@
       "holders": [
         {
           "trader": "tsihkodiives",
-          "roi": 0.6291,
+          "roi": 0.4442,
           "value": 43721.55,
           "avg_price": 0.7755,
           "cur_price": 0.875
         },
         {
           "trader": "Tokor",
-          "roi": 0.3158,
+          "roi": 0.222,
           "value": 14997.01,
           "avg_price": 0.8105,
           "cur_price": 0.875
         },
         {
           "trader": "0xf705fa",
-          "roi": 1.7965,
+          "roi": 0.7615,
           "value": 3050.23,
           "avg_price": 0.7374,
           "cur_price": 0.875
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 36352.64,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 21808.92,
+          "avg_price": 0.2664,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 9343.58,
+          "avg_price": 0.4412,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 5200.14,
+          "avg_price": 0.2168,
+          "cur_price": 0.52
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 18423.47,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 11106.73,
+          "avg_price": 0.1925,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 5066.58,
+          "avg_price": 0.355,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 2250.16,
+          "avg_price": 0.1584,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $80,000 in August?",
+      "slug": "will-bitcoin-reach-80k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15133.92,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 8839.5,
+          "avg_price": 0.1079,
+          "cur_price": 0.287
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 4725.11,
+          "avg_price": 0.0952,
+          "cur_price": 0.287
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 1569.31,
+          "avg_price": 0.0771,
+          "cur_price": 0.287
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $82,500 in August?",
+      "slug": "will-bitcoin-reach-82pt5k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 9169.99,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 5002.21,
+          "avg_price": 0.0802,
+          "cur_price": 0.1445
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 3843.48,
+          "avg_price": 0.011,
+          "cur_price": 0.1445
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 324.3,
+          "avg_price": 0.0658,
+          "cur_price": 0.1445
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8075.68,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 6967.55,
+          "avg_price": 0.1162,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 626.54,
+          "avg_price": 0.1024,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 481.59,
+          "avg_price": 0.1382,
+          "cur_price": 0.275
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $67,500 in August?",
+      "slug": "will-bitcoin-dip-to-67pt5k-in-august-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 4593.86,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.7615,
+          "value": 2328.05,
+          "avg_price": 0.6162,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "tsihkodiives",
+          "roi": 0.4442,
+          "value": 1457.82,
+          "avg_price": 0.6499,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.222,
+          "value": 807.99,
+          "avg_price": 0.6899,
+          "cur_price": 0.835
         }
       ]
     },
@@ -172,186 +277,6 @@
           "value": 2296.21,
           "avg_price": 0.1502,
           "cur_price": 0.5685
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 36702.18,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 22018.62,
-          "avg_price": 0.2664,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 9433.42,
-          "avg_price": 0.4412,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 5250.14,
-          "avg_price": 0.2168,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 17932.18,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 10810.55,
-          "avg_price": 0.1925,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 4931.47,
-          "avg_price": 0.355,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 2190.16,
-          "avg_price": 0.1584,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8369.36,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 7220.92,
-          "avg_price": 0.1162,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 649.33,
-          "avg_price": 0.1024,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 499.11,
-          "avg_price": 0.1382,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $67,500 in August?",
-      "slug": "will-bitcoin-dip-to-67pt5k-in-august-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 5822.26,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 1.7965,
-          "value": 2802.76,
-          "avg_price": 0.6162,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.3158,
-          "value": 1526.76,
-          "avg_price": 0.6899,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "tsihkodiives",
-          "roi": 0.6291,
-          "value": 1492.74,
-          "avg_price": 0.6499,
-          "cur_price": 0.855
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
-      "slug": "dota2-ironwi-boombo-2026-08-20",
-      "outcome": "Iron Wing",
-      "num_traders": 3,
-      "total_value": 73903.48,
-      "holders": [
-        {
-          "trader": "aenews2",
-          "roi": 0.5976,
-          "value": 29050,
-          "avg_price": 0.4099,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "casualbet2020",
-          "roi": 0.36,
-          "value": 28253.48,
-          "avg_price": 0.4099,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "itwillallbeok",
-          "roi": 0.2652,
-          "value": 16600,
-          "avg_price": 0.41,
-          "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $75,000 in August?",
-      "slug": "will-bitcoin-reach-75k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 66255.28,
-      "holders": [
-        {
-          "trader": "Thalantyr",
-          "roi": 0.5212,
-          "value": 37109.51,
-          "avg_price": 0.0274,
-          "cur_price": 0.647
-        },
-        {
-          "trader": "frozenriver",
-          "roi": 2.165,
-          "value": 28260.33,
-          "avg_price": 0.0306,
-          "cur_price": 0.6525
-        },
-        {
-          "trader": "0x765550C1F0Af33254a2Ac826710D33A4410c1Fa8-1773641069670",
-          "roi": 1.0613,
-          "value": 885.44,
-          "avg_price": 0.1139,
-          "cur_price": 0.6525
         }
       ]
     }
@@ -1240,8 +1165,9 @@
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 3,
     "cs2-g2-furia-2026-08-20::FURIA": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
-    "dota2-ironwi-boombo-2026-08-20::Iron Wing": 2,
-    "will-bitcoin-reach-75k-in-august-2026::Yes": 2
+    "dota2-ironwi-boombo-2026-08-20::Iron Wing": 3,
+    "will-bitcoin-reach-75k-in-august-2026::Yes": 3,
+    "will-bitcoin-reach-77pt5k-in-august-2026::Yes": 1
   },
-  "updated_at": "2026-08-21T02:49:23.137645+00:00"
+  "updated_at": "2026-08-21T03:38:38.286740+00:00"
 }
