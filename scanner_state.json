@@ -1,47 +1,159 @@
 {
   "seen_ids": [
     "cs2-vit-ts7-2026-08-21::Spirit",
-    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No",
+    "cs2-vit-ts7-2026-08-21::Vitality",
     "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
-    "will-bitcoin-reach-85k-in-august-2026::Yes",
-    "mlb-stl-phi-2026-08-21::Philadelphia Phillies"
+    "will-bitcoin-reach-85k-in-august-2026::Yes"
   ],
   "signals": [
     {
       "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
       "slug": "cs2-vit-ts7-2026-08-21",
       "outcome": "Spirit",
-      "num_traders": 4,
-      "total_value": 349303.16,
+      "num_traders": 3,
+      "total_value": 61443.83,
       "holders": [
         {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.154,
-          "value": 315283.79,
-          "avg_price": 0.5422,
-          "cur_price": 0.445
-        },
-        {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.3395,
-          "value": 17992.07,
+          "roi": 0.3259,
+          "value": 25269.76,
           "avg_price": 0.4325,
-          "cur_price": 0.445
+          "cur_price": 0.625
         },
         {
           "trader": "Wiretransferxyz",
-          "roi": 0.521,
-          "value": 15575,
+          "roi": 0.5237,
+          "value": 21875,
           "avg_price": 0.44,
-          "cur_price": 0.445
+          "cur_price": 0.625
         },
         {
           "trader": "dsasdaas",
-          "roi": 0.2008,
-          "value": 452.3,
-          "avg_price": 0.41,
-          "cur_price": 0.445
+          "roi": 0.2904,
+          "value": 14299.07,
+          "avg_price": 0.6121,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-vit-ts7-2026-08-21",
+      "outcome": "Vitality",
+      "num_traders": 3,
+      "total_value": 38590.84,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.212,
+          "value": 19087.38,
+          "avg_price": 0.5893,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "dsasdaas",
+          "roi": 0.2904,
+          "value": 10958.25,
+          "avg_price": 0.56,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "KingOfEsports",
+          "roi": 0.1932,
+          "value": 8545.21,
+          "avg_price": 0.5565,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 26943.34,
+      "holders": [
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.693,
+          "value": 20491.82,
+          "avg_price": 0.4877,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1562,
+          "value": 6002.66,
+          "avg_price": 0.508,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.2252,
+          "value": 448.86,
+          "avg_price": 0.6199,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 23916.46,
+      "holders": [
+        {
+          "trader": "justdance",
+          "roi": 0.1562,
+          "value": 10467.57,
+          "avg_price": 0.8553,
+          "cur_price": 0.961
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.2252,
+          "value": 9772.89,
+          "avg_price": 0.9498,
+          "cur_price": 0.9585
+        },
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.693,
+          "value": 3676.0,
+          "avg_price": 0.875,
+          "cur_price": 0.9585
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $85,000 in August?",
+      "slug": "will-bitcoin-reach-85k-in-august-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15920.81,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.2252,
+          "value": 9230.84,
+          "avg_price": 0.1499,
+          "cur_price": 0.1765
+        },
+        {
+          "trader": "frozenriver",
+          "roi": 3.4642,
+          "value": 5293.92,
+          "avg_price": 0.0041,
+          "cur_price": 0.1765
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1562,
+          "value": 1396.05,
+          "avg_price": 0.1977,
+          "cur_price": 0.1765
         }
       ]
     },
@@ -72,96 +184,6 @@
           "value": 506.62,
           "avg_price": 0.5119,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 26943.34,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7269,
-          "value": 20491.82,
-          "avg_price": 0.4877,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1679,
-          "value": 6002.66,
-          "avg_price": 0.508,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2612,
-          "value": 448.86,
-          "avg_price": 0.6199,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $30,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 23876.77,
-      "holders": [
-        {
-          "trader": "justdance",
-          "roi": 0.1679,
-          "value": 10434.9,
-          "avg_price": 0.8553,
-          "cur_price": 0.958
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2612,
-          "value": 9767.79,
-          "avg_price": 0.9498,
-          "cur_price": 0.958
-        },
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7269,
-          "value": 3674.08,
-          "avg_price": 0.875,
-          "cur_price": 0.958
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $85,000 in August?",
-      "slug": "will-bitcoin-reach-85k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15199.18,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2612,
-          "value": 8812.44,
-          "avg_price": 0.1499,
-          "cur_price": 0.1685
-        },
-        {
-          "trader": "frozenriver",
-          "roi": 3.6564,
-          "value": 5053.97,
-          "avg_price": 0.0041,
-          "cur_price": 0.1685
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1679,
-          "value": 1332.77,
-          "avg_price": 0.1977,
-          "cur_price": 0.1685
         }
       ]
     },
@@ -266,426 +288,6 @@
           "value": 153.81,
           "avg_price": 0.4299,
           "cur_price": 0.3995
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 482467.25,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7368,
-          "value": 460060.62,
-          "avg_price": 0.4976,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 19460.56,
-          "avg_price": 0.4899,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 2946.07,
-          "avg_price": 0.5543,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 448363.87,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7368,
-          "value": 430802.07,
-          "avg_price": 0.6331,
-          "cur_price": 0.81
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 16415.04,
-          "avg_price": 0.5896,
-          "cur_price": 0.81
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 1146.76,
-          "avg_price": 0.6455,
-          "cur_price": 0.81
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 342408.97,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7368,
-          "value": 325552.97,
-          "avg_price": 0.719,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 13701.19,
-          "avg_price": 0.8105,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 3154.81,
-          "avg_price": 0.7374,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $40,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 170486.31,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7368,
-          "value": 165292.28,
-          "avg_price": 0.7952,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 4799.03,
-          "avg_price": 0.8067,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 395.0,
-          "avg_price": 0.8399,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $80,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 150535.94,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 76202.02,
-          "avg_price": 0.3759,
-          "cur_price": 0.88
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 57041.94,
-          "avg_price": 0.4401,
-          "cur_price": 0.88
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 17291.98,
-          "avg_price": 0.4282,
-          "cur_price": 0.88
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 59470.19,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 26632.05,
-          "avg_price": 0.2664,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 16965.88,
-          "avg_price": 0.5043,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 15872.26,
-          "avg_price": 0.4278,
-          "cur_price": 0.635
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $2,500 in August?",
-      "slug": "will-ethereum-reach-2500-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 49197.78,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 36952.94,
-          "avg_price": 0.1663,
-          "cur_price": 0.7195
-        },
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7368,
-          "value": 11629.36,
-          "avg_price": 0.406,
-          "cur_price": 0.7195
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 615.48,
-          "avg_price": 0.1301,
-          "cur_price": 0.7195
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
-      "slug": "cs2-vit-ts7-2026-08-21",
-      "outcome": "Vitality",
-      "num_traders": 3,
-      "total_value": 36403.8,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.1805,
-          "value": 22141.36,
-          "avg_price": 0.5893,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.1974,
-          "value": 9912.44,
-          "avg_price": 0.5565,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "TheMafiaa",
-          "roi": 0.1628,
-          "value": 4350,
-          "avg_price": 0.57,
-          "cur_price": 0.435
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 31513.85,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 14068.52,
-          "avg_price": 0.1925,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 10411.16,
-          "avg_price": 0.2871,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 7034.17,
-          "avg_price": 0.3674,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 25152.17,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1676,
-          "value": 13500.0,
-          "avg_price": 0.7049,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.1805,
-          "value": 11285.61,
-          "avg_price": 0.6666,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3462,
-          "value": 366.56,
-          "avg_price": 0.5,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 18422.37,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 6984.45,
-          "avg_price": 0.1062,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 5997.54,
-          "avg_price": 0.2481,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 5440.38,
-          "avg_price": 0.1815,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $67,500 in August?",
-      "slug": "will-bitcoin-dip-to-67pt5k-in-august-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16659.14,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 7682.5,
-          "avg_price": 0.8323,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 7356.61,
-          "avg_price": 0.6862,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 1620.03,
-          "avg_price": 0.8859,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $120,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 12536.26,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 10849.27,
-          "avg_price": 0.9039,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 1581.84,
-          "avg_price": 0.6785,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 105.15,
-          "avg_price": 0.2999,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 11626.29,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.2598,
-          "value": 6970.59,
-          "avg_price": 0.1162,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1713,
-          "value": 3750.04,
-          "avg_price": 0.2109,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1521,
-          "value": 905.66,
-          "avg_price": 0.1888,
-          "cur_price": 0.365
         }
       ]
     }
@@ -1592,22 +1194,23 @@
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "putin-out-before-2027-346::No": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
-    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 2,
-    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 2,
-    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 2,
-    "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 2,
-    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 2,
-    "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 2,
-    "will-ethereum-reach-2500-in-august-2026::Yes": 2,
-    "cs2-vit-ts7-2026-08-21::Vitality": 2,
-    "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "will-bitcoin-reach-100000-by-december-31-2026-571-361-361::Yes": 2,
-    "will-bitcoin-dip-to-67pt5k-in-august-2026::No": 2,
-    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 2,
-    "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 2,
-    "dota2-ty-ngx-2026-08-21::Team Yandex": 1,
-    "cs2-vit-ts7-2026-08-21-game2::Spirit": 1
+    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
+    "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 3,
+    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 3,
+    "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 3,
+    "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 3,
+    "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 3,
+    "will-ethereum-reach-2500-in-august-2026::Yes": 3,
+    "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "will-bitcoin-reach-100000-by-december-31-2026-571-361-361::Yes": 3,
+    "will-bitcoin-dip-to-67pt5k-in-august-2026::No": 3,
+    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 3,
+    "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes": 3,
+    "dota2-ty-ngx-2026-08-21::Team Yandex": 2,
+    "cs2-vit-ts7-2026-08-21-game2::Spirit": 2,
+    "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 1,
+    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 1
   },
-  "updated_at": "2026-08-21T19:17:21.157538+00:00"
+  "updated_at": "2026-08-21T19:43:01.527884+00:00"
 }
