@@ -1,27 +1,104 @@
 {
   "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "cs2-lgc-fal2-2026-08-21::Legacy",
     "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5::Legacy",
     "will-bitcoin-reach-85k-in-august-2026::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No",
     "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No",
     "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No",
-    "cs2-lgc-fal2-2026-08-21::Legacy",
     "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No",
     "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes",
-    "will-the-us-invade-iran-before-2027::No",
     "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes",
+    "putin-out-before-2027-346::No",
+    "will-the-us-invade-iran-before-2027::No",
     "will-ethereum-reach-2500-in-august-2026::Yes",
     "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes",
-    "will-bitcoin-dip-to-67pt5k-in-august-2026::No",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-bitcoin-reach-82pt5k-in-august-2026::Yes",
+    "will-bitcoin-dip-to-67pt5k-in-august-2026::No",
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No",
     "will-bitcoin-reach-100000-by-december-31-2026-571-361-361::Yes",
-    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No",
     "will-bitcoin-reach-95000-by-december-31-2026-from-june-8::Yes",
-    "us-strike-on-cuba-by-december-31::No",
+    "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No",
     "mlb-stl-phi-2026-08-21::Philadelphia Phillies"
   ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 737458.8,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.277,
+          "value": 356064.55,
+          "avg_price": 0.3926,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2719,
+          "value": 213126.3,
+          "avg_price": 0.3722,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "TheyAreTakingTheHobitsToIsengard",
+          "roi": 0.6784,
+          "value": 167274.33,
+          "avg_price": 0.3522,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4538,
+          "value": 993.62,
+          "avg_price": 0.5038,
+          "cur_price": 0.325
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-lgc-fal2-2026-08-21",
+      "outcome": "Legacy",
+      "num_traders": 4,
+      "total_value": 435033.28,
+      "holders": [
+        {
+          "trader": "BOOMBOYS.Kiritych",
+          "roi": 0.1993,
+          "value": 348406.37,
+          "avg_price": 0.2953,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.2279,
+          "value": 36267.51,
+          "avg_price": 0.2599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.3489,
+          "value": 34982.48,
+          "avg_price": 0.5099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.2895,
+          "value": 15376.92,
+          "avg_price": 0.6499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
       "slug": "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5",
@@ -31,28 +108,28 @@
       "holders": [
         {
           "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.1616,
+          "roi": 0.1993,
           "value": 54064.23,
           "avg_price": 0.5599,
           "cur_price": 0.9995
         },
         {
           "trader": "Wiretransferxyz",
-          "roi": 0.238,
+          "roi": 0.3489,
           "value": 24987.43,
           "avg_price": 0.54,
           "cur_price": 0.9995
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.2003,
+          "roi": 0.2895,
           "value": 23080.73,
           "avg_price": 0.5629,
           "cur_price": 0.9995
         },
         {
           "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.1698,
+          "roi": 0.2279,
           "value": 20142.27,
           "avg_price": 0.5557,
           "cur_price": 0.9995
@@ -64,35 +141,65 @@
       "slug": "will-bitcoin-reach-85k-in-august-2026",
       "outcome": "Yes",
       "num_traders": 4,
-      "total_value": 19449.77,
+      "total_value": 20216.92,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 9817.25,
+          "roi": 0.277,
+          "value": 10204.47,
           "avg_price": 0.1425,
-          "cur_price": 0.2155
+          "cur_price": 0.224
         },
         {
           "trader": "frozenriver",
-          "roi": 3.741,
-          "value": 6463.68,
+          "roi": 3.6446,
+          "value": 6718.63,
           "avg_price": 0.0041,
-          "cur_price": 0.2155
+          "cur_price": 0.224
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 2304.7,
+          "roi": 0.1769,
+          "value": 2395.6,
           "avg_price": 0.1977,
-          "cur_price": 0.2155
+          "cur_price": 0.224
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 864.14,
+          "roi": 0.1737,
+          "value": 898.22,
           "avg_price": 0.168,
-          "cur_price": 0.2155
+          "cur_price": 0.224
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 511980.83,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.277,
+          "value": 507156.11,
+          "avg_price": 0.7933,
+          "cur_price": 0.8545
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2719,
+          "value": 4272.51,
+          "avg_price": 0.8574,
+          "cur_price": 0.8545
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4538,
+          "value": 552.21,
+          "avg_price": 0.5,
+          "cur_price": 0.8545
         }
       ]
     },
@@ -105,21 +212,21 @@
       "holders": [
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
+          "roi": 0.5885,
           "value": 453863.26,
           "avg_price": 0.4976,
           "cur_price": 0.735
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
+          "roi": 0.1769,
           "value": 19199.35,
           "avg_price": 0.4899,
           "cur_price": 0.735
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
+          "roi": 0.1737,
           "value": 2557.4,
           "avg_price": 0.5317,
           "cur_price": 0.735
@@ -135,21 +242,21 @@
       "holders": [
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
+          "roi": 0.5885,
           "value": 432843.24,
           "avg_price": 0.6328,
           "cur_price": 0.815
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
+          "roi": 0.1769,
           "value": 16248.59,
           "avg_price": 0.5881,
           "cur_price": 0.815
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
+          "roi": 0.1737,
           "value": 1113.88,
           "avg_price": 0.6399,
           "cur_price": 0.815
@@ -161,58 +268,28 @@
       "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 340123.87,
+      "total_value": 340387.2,
       "holders": [
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
-          "value": 323360.99,
-          "avg_price": 0.7188,
+          "roi": 0.5885,
+          "value": 323624.32,
+          "avg_price": 0.7189,
           "cur_price": 0.9
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
+          "roi": 0.1737,
           "value": 13625.5,
           "avg_price": 0.8105,
           "cur_price": 0.9
         },
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
+          "roi": 0.277,
           "value": 3137.38,
           "avg_price": 0.7374,
           "cur_price": 0.9
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
-      "slug": "cs2-lgc-fal2-2026-08-21",
-      "outcome": "Legacy",
-      "num_traders": 3,
-      "total_value": 203635.15,
-      "holders": [
-        {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.1616,
-          "value": 169061.62,
-          "avg_price": 0.2953,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.1698,
-          "value": 17598.54,
-          "avg_price": 0.2599,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Wiretransferxyz",
-          "roi": 0.238,
-          "value": 16974.99,
-          "avg_price": 0.5099,
-          "cur_price": 0.485
         }
       ]
     },
@@ -225,21 +302,21 @@
       "holders": [
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
+          "roi": 0.5885,
           "value": 165109.94,
           "avg_price": 0.7951,
           "cur_price": 0.935
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
+          "roi": 0.1769,
           "value": 4799.03,
           "avg_price": 0.8067,
           "cur_price": 0.935
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
+          "roi": 0.1737,
           "value": 395.0,
           "avg_price": 0.8399,
           "cur_price": 0.935
@@ -251,58 +328,28 @@
       "slug": "will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 149680.62,
+      "total_value": 150535.94,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 75769.05,
+          "roi": 0.277,
+          "value": 76202.02,
           "avg_price": 0.3759,
-          "cur_price": 0.875
+          "cur_price": 0.88
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 56717.84,
+          "roi": 0.1737,
+          "value": 57041.94,
           "avg_price": 0.4401,
-          "cur_price": 0.875
+          "cur_price": 0.88
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 17193.73,
+          "roi": 0.1769,
+          "value": 17291.98,
           "avg_price": 0.4282,
-          "cur_price": 0.875
-        }
-      ]
-    },
-    {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 64294.96,
-      "holders": [
-        {
-          "trader": "abdkxrhxr",
-          "roi": 0.664,
-          "value": 35069.96,
-          "avg_price": 0.7498,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.1532,
-          "value": 25050.0,
-          "avg_price": 0.7799,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.3736,
-          "value": 4175,
-          "avg_price": 0.73,
-          "cur_price": 0.835
+          "cur_price": 0.88
         }
       ]
     },
@@ -311,28 +358,88 @@
       "slug": "will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 59470.19,
+      "total_value": 60406.73,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 26632.05,
+          "roi": 0.277,
+          "value": 27051.45,
           "avg_price": 0.2664,
-          "cur_price": 0.635
+          "cur_price": 0.645
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 16965.88,
+          "roi": 0.1737,
+          "value": 17233.06,
           "avg_price": 0.5043,
-          "cur_price": 0.635
+          "cur_price": 0.645
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 15872.26,
+          "roi": 0.1769,
+          "value": 16122.22,
           "avg_price": 0.4278,
-          "cur_price": 0.635
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027-346",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 58604.84,
+      "holders": [
+        {
+          "trader": "abdkxrhxr",
+          "roi": 0.6746,
+          "value": 48099.98,
+          "avg_price": 0.843,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2719,
+          "value": 5879.86,
+          "avg_price": 0.9199,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.277,
+          "value": 4625,
+          "avg_price": 0.9159,
+          "cur_price": 0.925
+        }
+      ]
+    },
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 50560.72,
+      "holders": [
+        {
+          "trader": "abdkxrhxr",
+          "roi": 0.6746,
+          "value": 35069.96,
+          "avg_price": 0.7498,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2719,
+          "value": 11315.76,
+          "avg_price": 0.7328,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.277,
+          "value": 4175,
+          "avg_price": 0.73,
+          "cur_price": 0.835
         }
       ]
     },
@@ -341,28 +448,28 @@
       "slug": "will-ethereum-reach-2500-in-august-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 43270.67,
+      "total_value": 44135.39,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 32125.17,
+          "roi": 0.277,
+          "value": 32767.16,
           "avg_price": 0.1663,
-          "cur_price": 0.6255
+          "cur_price": 0.638
         },
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
-          "value": 10110.03,
+          "roi": 0.5885,
+          "value": 10312.06,
           "avg_price": 0.406,
-          "cur_price": 0.6255
+          "cur_price": 0.638
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 1035.47,
+          "roi": 0.1737,
+          "value": 1056.17,
           "avg_price": 0.1301,
-          "cur_price": 0.6255
+          "cur_price": 0.638
         }
       ]
     },
@@ -371,58 +478,58 @@
       "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 31182.12,
+      "total_value": 32177.29,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 13920.43,
+          "roi": 0.277,
+          "value": 14364.7,
           "avg_price": 0.1925,
-          "cur_price": 0.47
+          "cur_price": 0.485
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 10301.57,
+          "roi": 0.1769,
+          "value": 10630.34,
           "avg_price": 0.2871,
-          "cur_price": 0.47
+          "cur_price": 0.485
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 6960.12,
+          "roi": 0.1737,
+          "value": 7182.25,
           "avg_price": 0.3674,
-          "cur_price": 0.47
+          "cur_price": 0.485
         }
       ]
     },
     {
-      "market": "Will Bitcoin dip to $67,500 in August?",
-      "slug": "will-bitcoin-dip-to-67pt5k-in-august-2026",
-      "outcome": "No",
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 27209.83,
+      "total_value": 31902.17,
       "holders": [
         {
-          "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 17355.99,
-          "avg_price": 0.8323,
-          "cur_price": 0.92
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2719,
+          "value": 20250.0,
+          "avg_price": 0.7049,
+          "cur_price": 0.675
         },
         {
-          "trader": "justdance",
-          "roi": 0.1803,
-          "value": 8259.79,
-          "avg_price": 0.6862,
-          "cur_price": 0.92
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.2895,
+          "value": 11285.61,
+          "avg_price": 0.6666,
+          "cur_price": 0.675
         },
         {
-          "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 1594.05,
-          "avg_price": 0.8859,
-          "cur_price": 0.92
+          "trader": "donthackme",
+          "roi": 0.4538,
+          "value": 366.56,
+          "avg_price": 0.5,
+          "cur_price": 0.675
         }
       ]
     },
@@ -431,28 +538,58 @@
       "slug": "will-bitcoin-reach-82pt5k-in-august-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 24587.52,
+      "total_value": 27604.17,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 16043.83,
-          "avg_price": 0.1355,
-          "cur_price": 0.386
+          "roi": 0.277,
+          "value": 18915.4,
+          "avg_price": 0.1619,
+          "cur_price": 0.4105
         },
         {
           "trader": "frozenriver",
-          "roi": 3.741,
-          "value": 7831.03,
+          "roi": 3.6446,
+          "value": 8328.07,
           "avg_price": 0.0042,
-          "cur_price": 0.386
+          "cur_price": 0.4105
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 712.66,
+          "roi": 0.1737,
+          "value": 360.7,
           "avg_price": 0.3029,
-          "cur_price": 0.386
+          "cur_price": 0.4105
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $67,500 in August?",
+      "slug": "will-bitcoin-dip-to-67pt5k-in-august-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 26330.96,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.277,
+          "value": 17450.32,
+          "avg_price": 0.8323,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1769,
+          "value": 7277.93,
+          "avg_price": 0.6862,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.1737,
+          "value": 1602.71,
+          "avg_price": 0.8859,
+          "cur_price": 0.925
         }
       ]
     },
@@ -465,21 +602,21 @@
       "holders": [
         {
           "trader": "justdance",
-          "roi": 0.1803,
+          "roi": 0.1769,
           "value": 10440.34,
           "avg_price": 0.8553,
           "cur_price": 0.9585
         },
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
+          "roi": 0.277,
           "value": 9772.89,
           "avg_price": 0.9498,
           "cur_price": 0.9585
         },
         {
           "trader": "JnStrtPrdctnMrkts",
-          "roi": 1.3472,
+          "roi": 0.5885,
           "value": 3676.0,
           "avg_price": 0.875,
           "cur_price": 0.9585
@@ -491,58 +628,28 @@
       "slug": "will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 18555.94,
+      "total_value": 19905.42,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 7070.63,
+          "roi": 0.277,
+          "value": 7604.26,
           "avg_price": 0.1062,
-          "cur_price": 0.265
+          "cur_price": 0.285
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 5997.54,
+          "roi": 0.1737,
+          "value": 6450.18,
           "avg_price": 0.2481,
-          "cur_price": 0.265
+          "cur_price": 0.285
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 5487.77,
+          "roi": 0.1769,
+          "value": 5850.98,
           "avg_price": 0.1815,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $120,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 10880.24,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 9212.1,
-          "avg_price": 0.9063,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1803,
-          "value": 1564.16,
-          "avg_price": 0.6785,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 103.98,
-          "avg_price": 0.2999,
-          "cur_price": 0.885
+          "cur_price": 0.285
         }
       ]
     },
@@ -551,28 +658,88 @@
       "slug": "will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 10670.7,
+      "total_value": 10989.23,
       "holders": [
         {
           "trader": "0xf705fa",
-          "roi": 0.3012,
-          "value": 6397.66,
+          "roi": 0.277,
+          "value": 6588.64,
           "avg_price": 0.1162,
-          "cur_price": 0.335
+          "cur_price": 0.345
         },
         {
           "trader": "justdance",
-          "roi": 0.1803,
-          "value": 3441.82,
+          "roi": 0.1769,
+          "value": 3544.56,
           "avg_price": 0.2109,
-          "cur_price": 0.335
+          "cur_price": 0.345
         },
         {
           "trader": "Tokor",
-          "roi": 0.1621,
-          "value": 831.22,
+          "roi": 0.1737,
+          "value": 856.03,
           "avg_price": 0.1888,
-          "cur_price": 0.335
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $120,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 10907.76,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.277,
+          "value": 9249.04,
+          "avg_price": 0.906,
+          "cur_price": 0.88
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.1769,
+          "value": 1555.33,
+          "avg_price": 0.6785,
+          "cur_price": 0.88
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.1737,
+          "value": 103.39,
+          "avg_price": 0.2999,
+          "cur_price": 0.88
+        }
+      ]
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies",
+      "slug": "mlb-stl-phi-2026-08-21",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 2890.25,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4257,
+          "value": 2111.05,
+          "avg_price": 0.6655,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.7302,
+          "value": 609.11,
+          "avg_price": 0.6899,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1986,
+          "value": 170.09,
+          "avg_price": 0.6499,
+          "cur_price": 0.7
         }
       ]
     },
@@ -603,36 +770,6 @@
           "value": 167,
           "avg_price": 0.3549,
           "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "St. Louis Cardinals vs. Philadelphia Phillies",
-      "slug": "mlb-stl-phi-2026-08-21",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 2860.64,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4325,
-          "value": 2095.97,
-          "avg_price": 0.6655,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.8834,
-          "value": 595.79,
-          "avg_price": 0.6899,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1978,
-          "value": 168.88,
-          "avg_price": 0.6499,
-          "cur_price": 0.695
         }
       ]
     },
@@ -676,36 +813,6 @@
           "roi": 0.1616,
           "value": 19634.68,
           "avg_price": 0.3899,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs",
-      "slug": "dota2-ts8-vsn2-2026-08-21",
-      "outcome": "TEAM VISION",
-      "num_traders": 3,
-      "total_value": 117616.29,
-      "holders": [
-        {
-          "trader": "NO-GOD-PLEASE-NO",
-          "roi": 0.2584,
-          "value": 50872.55,
-          "avg_price": 0.6383,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GEAEW",
-          "roi": 0.2066,
-          "value": 35013.58,
-          "avg_price": 0.5799,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PendulumExchange",
-          "roi": 0.2505,
-          "value": 31730.16,
-          "avg_price": 0.6299,
           "cur_price": 0.9995
         }
       ]
@@ -1001,7 +1108,6 @@
     "will-hamas-agree-to-disarm-by-december-31::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-august-4::Yes": 3,
     "fed-rate-hike-in-2026::No": 3,
-    "putin-out-before-2027-346::No": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-july-31::No": 3,
     "dota2-rnx-yb1-2026-08-02-game2::Yakult Brothers": 3,
     "iran-agrees-to-surrender-enriched-uranium-stockpile-by-december-31-2026-752-299::No": 3,
@@ -1463,7 +1569,6 @@
     "lol-genga-bro1-2026-08-18::HANJIN BRION Challengers": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
     "atp-rublev-borges-2026-08-18::Nuno Borges": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "wta-tjen-andreev-2026-08-18::Janice Tjen": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "ucl-fen-lyo-2026-08-18-fen::No": 3,
@@ -1490,7 +1595,6 @@
     "lal-mad-mala-2026-08-19-mala::No": 3,
     "lol-bro2-dnf-2026-08-19::DN SOOPers": 3,
     "lol-al-tes-2026-08-19::Anyone's Legend": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
@@ -1504,7 +1608,6 @@
     "cs2-fut-mgc-2026-08-19::magic": 3,
     "cs2-g2-ast10-2026-08-19::Astralis": 3,
     "lol-we-edg-2026-08-19-game-handicap-away-1pt5::EDward Gaming": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "mlb-det-pit-2026-08-19-total-7pt5::Under": 3,
     "mlb-sea-mil-2026-08-19-total-7pt5::Under": 3,
     "mlb-atl-min-2026-08-19::Atlanta Braves": 3,
@@ -1609,8 +1712,9 @@
     "will-bitcoin-reach-80k-in-august-2026::Yes": 3,
     "dota2-ts8-vsn2-2026-08-21::Team Spirit": 3,
     "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 3,
-    "dota2-ts8-vsn2-2026-08-21::TEAM VISION": 2,
-    "cs2-fut-mouz-2026-08-21::FUT Esports": 1
+    "dota2-ts8-vsn2-2026-08-21::TEAM VISION": 3,
+    "cs2-fut-mouz-2026-08-21::FUT Esports": 2,
+    "us-strike-on-cuba-by-december-31::No": 1
   },
-  "updated_at": "2026-08-21T15:07:39.369876+00:00"
+  "updated_at": "2026-08-21T15:47:02.126551+00:00"
 }
