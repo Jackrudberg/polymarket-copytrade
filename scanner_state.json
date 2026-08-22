@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "lol-sen-fly-2026-08-22-game1::Sentinels",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13213.28,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.4934,
+          "value": 11452.8,
+          "avg_price": 0.6666,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.1557,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4469,
+          "value": 371.99,
+          "avg_price": 0.5,
+          "cur_price": 0.685
+        }
+      ]
+    },
     {
       "market": "LoL: Sentinels vs FlyQuest - Game 1 Winner",
       "slug": "lol-sen-fly-2026-08-22-game1",
@@ -31,36 +60,6 @@
           "value": 2387.23,
           "avg_price": 0.5856,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13213.28,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.494,
-          "value": 11452.8,
-          "avg_price": 0.6666,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Haradwaith",
-          "roi": 0.1589,
-          "value": 1388.49,
-          "avg_price": 0.714,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4475,
-          "value": 371.99,
-          "avg_price": 0.5,
-          "cur_price": 0.685
         }
       ]
     }
@@ -1023,7 +1022,8 @@
     "epl-bre-tot-2026-08-22-bre::No": 3,
     "lol-fnc-shft-2026-08-22-game1::Fnatic": 3,
     "mlb-atl-mil-2026-08-22::Atlanta Braves": 3,
-    "lol-fnc-shft-2026-08-22-game2::Fnatic": 3
+    "lol-fnc-shft-2026-08-22-game2::Fnatic": 3,
+    "lol-sen-fly-2026-08-22-game1::Sentinels": 1
   },
-  "updated_at": "2026-08-22T22:00:23.644822+00:00"
+  "updated_at": "2026-08-22T22:32:33.844952+00:00"
 }
