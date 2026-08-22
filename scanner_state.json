@@ -1,38 +1,46 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ty-2026-08-22-game1::TEAM VISION",
+    "lol-dk-gen-2026-08-22::Dplus KIA",
     "lol-we-lgd-2026-08-22-game1::Team WE",
     "lol-dk-gen-2026-08-22-game1::Gen.G",
+    "lol-nip-ig1-2026-08-22-game1::Ninjas in Pyjamas",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
     {
-      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
-      "slug": "dota2-vsn2-ty-2026-08-22-game1",
-      "outcome": "TEAM VISION",
-      "num_traders": 3,
-      "total_value": 101626.04,
+      "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+      "slug": "lol-dk-gen-2026-08-22",
+      "outcome": "Dplus KIA",
+      "num_traders": 4,
+      "total_value": 63466.65,
       "holders": [
-        {
-          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-          "roi": 0.2809,
-          "value": 73439.18,
-          "avg_price": 0.6214,
-          "cur_price": 0.9995
-        },
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
           "roi": 0.3404,
-          "value": 14993.47,
-          "avg_price": 0.402,
-          "cur_price": 0.9995
+          "value": 36486.5,
+          "avg_price": 0.3709,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2664,
+          "value": 9952.61,
+          "avg_price": 0.3799,
+          "cur_price": 0.995
         },
         {
           "trader": "Sunshine.Smile",
           "roi": 0.3235,
-          "value": 13193.39,
-          "avg_price": 0.4637,
-          "cur_price": 0.9995
+          "value": 8955,
+          "avg_price": 0.3724,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "sdfqq1",
+          "roi": 0.1645,
+          "value": 8072.54,
+          "avg_price": 0.8313,
+          "cur_price": 0.995
         }
       ]
     },
@@ -97,6 +105,36 @@
       ]
     },
     {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+      "slug": "lol-nip-ig1-2026-08-22-game1",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 3,
+      "total_value": 24865.37,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3404,
+          "value": 18950.33,
+          "avg_price": 0.4368,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3235,
+          "value": 4723.5,
+          "avg_price": 0.5199,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2664,
+          "value": 1191.54,
+          "avg_price": 0.6699,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
@@ -123,6 +161,36 @@
           "value": 371.99,
           "avg_price": 0.5,
           "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+      "slug": "dota2-vsn2-ty-2026-08-22-game1",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 101626.04,
+      "holders": [
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.2809,
+          "value": 73439.18,
+          "avg_price": 0.6214,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3404,
+          "value": 14993.47,
+          "avg_price": 0.402,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3235,
+          "value": 13193.39,
+          "avg_price": 0.4637,
+          "cur_price": 0.9995
         }
       ]
     }
@@ -1062,7 +1130,8 @@
     "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3,
     "dota2-ngx-boombo-2026-08-22::BoomBoys": 3,
     "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
+    "dota2-vsn2-ty-2026-08-22-game1::TEAM VISION": 1
   },
-  "updated_at": "2026-08-22T09:58:43.888531+00:00"
+  "updated_at": "2026-08-22T10:32:28.542515+00:00"
 }
