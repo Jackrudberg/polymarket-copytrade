@@ -2,9 +2,7 @@
   "seen_ids": [
     "epl-bre-tot-2026-08-22-bre::No",
     "lol-fnc-shft-2026-08-22-game1::Fnatic",
-    "cs2-furia-fut-2026-08-22::FUT Esports",
-    "cs2-furia-fut-2026-08-22::FURIA",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
+    "lol-fnc-shft-2026-08-22-game2::Fnatic"
   ],
   "signals": [
     {
@@ -12,35 +10,35 @@
       "slug": "epl-bre-tot-2026-08-22-bre",
       "outcome": "No",
       "num_traders": 4,
-      "total_value": 347836.49,
+      "total_value": 610003.26,
       "holders": [
         {
           "trader": "BreakTheBank",
-          "roi": 0.2899,
-          "value": 277499.99,
-          "avg_price": 0.54,
-          "cur_price": 0.555
+          "roi": 0.2058,
+          "value": 524999.99,
+          "avg_price": 0.5349,
+          "cur_price": 0.525
         },
         {
           "trader": "Weaseloftheweek",
-          "roi": 0.5287,
-          "value": 56887.5,
+          "roi": 0.177,
+          "value": 53812.5,
           "avg_price": 0.5599,
-          "cur_price": 0.555
+          "cur_price": 0.525
         },
         {
           "trader": "1xx3",
-          "roi": 0.2792,
-          "value": 11100,
-          "avg_price": 0.55,
-          "cur_price": 0.555
+          "roi": 0.3311,
+          "value": 20059.72,
+          "avg_price": 0.5408,
+          "cur_price": 0.525
         },
         {
-          "trader": "sbsigner",
-          "roi": 0.1534,
-          "value": 2349.0,
-          "avg_price": 0.5549,
-          "cur_price": 0.555
+          "trader": "1xx2",
+          "roi": 0.3169,
+          "value": 11131.05,
+          "avg_price": 0.55,
+          "cur_price": 0.525
         }
       ]
     },
@@ -53,31 +51,61 @@
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2146,
+          "roi": 0.2123,
           "value": 66237.86,
           "avg_price": 0.846,
           "cur_price": 0.9995
         },
         {
           "trader": "Sunshine.Smile",
-          "roi": 0.3319,
+          "roi": 0.329,
           "value": 8795.59,
           "avg_price": 0.7289,
           "cur_price": 0.9995
         },
         {
           "trader": "laopilao",
-          "roi": 0.2218,
+          "roi": 0.2208,
           "value": 3997.99,
           "avg_price": 0.7299,
           "cur_price": 0.9995
         },
         {
           "trader": "48binn",
-          "roi": 0.2544,
+          "roi": 0.2514,
           "value": 2600.11,
           "avg_price": 0.9346,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Fnatic vs Shifters - Game 2 Winner",
+      "slug": "lol-fnc-shft-2026-08-22-game2",
+      "outcome": "Fnatic",
+      "num_traders": 3,
+      "total_value": 11819.46,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2123,
+          "value": 8055.2,
+          "avg_price": 0.5167,
+          "cur_price": 0.57
+        },
+        {
+          "trader": "laopilao",
+          "roi": 0.2208,
+          "value": 2849.99,
+          "avg_price": 0.7211,
+          "cur_price": 0.57
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.2514,
+          "value": 914.27,
+          "avg_price": 0,
+          "cur_price": 0.57
         }
       ]
     },
@@ -168,140 +196,6 @@
           "value": 371.99,
           "avg_price": 0.5,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
-      "slug": "lol-dnf-drx-2026-08-22",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 68611.17,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.5018,
-          "value": 40226.18,
-          "avg_price": 0.551,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PetsViljandist",
-          "roi": 0.2707,
-          "value": 14592.7,
-          "avg_price": 0.5499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.2088,
-          "value": 13486.89,
-          "avg_price": 0.5373,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.268,
-          "value": 305.4,
-          "avg_price": 0.8,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner",
-      "slug": "lol-dnf-drx-2026-08-22-game1",
-      "outcome": "DN SOOPers",
-      "num_traders": 4,
-      "total_value": 64076.47,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.268,
-          "value": 21681.53,
-          "avg_price": 0.4046,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "urobang",
-          "roi": 0.2662,
-          "value": 19990,
-          "avg_price": 0.38,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.2542,
-          "value": 11596.3,
-          "avg_price": 0.7532,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3321,
-          "value": 10808.64,
-          "avg_price": 0.5796,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: BoomBoys vs Team Spirit (BO3) - The International Playoffs",
-      "slug": "dota2-boombo-ts8-2026-08-22",
-      "outcome": "BoomBoys",
-      "num_traders": 3,
-      "total_value": 24215.15,
-      "holders": [
-        {
-          "trader": "Djdjdjekekek",
-          "roi": 0.1506,
-          "value": 23662.26,
-          "avg_price": 0.3096,
-          "cur_price": 0.0115
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.2088,
-          "value": 402.5,
-          "avg_price": 0.3757,
-          "cur_price": 0.0115
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.268,
-          "value": 150.39,
-          "avg_price": 0.0213,
-          "cur_price": 0.0115
-        }
-      ]
-    },
-    {
-      "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season",
-      "slug": "lol-fnc-shft-2026-08-22",
-      "outcome": "Shifters",
-      "num_traders": 3,
-      "total_value": 12770.81,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.5018,
-          "value": 7561.84,
-          "avg_price": 0.238,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "PetsViljandist",
-          "roi": 0.2707,
-          "value": 4500,
-          "avg_price": 0.23,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "KingOfEsports",
-          "roi": 0.2088,
-          "value": 708.97,
-          "avg_price": 0.22,
-          "cur_price": 0.225
         }
       ]
     }
@@ -1255,10 +1149,13 @@
     "lol-dk-gen-2026-08-22-game2::Dplus KIA": 3,
     "lol-nip-ig1-2026-08-22-game1::Ninjas in Pyjamas": 3,
     "epl-hul-mun-2026-08-22-hul::Yes": 3,
-    "lol-dnf-drx-2026-08-22::DN SOOPers": 2,
-    "lol-dnf-drx-2026-08-22-game1::DN SOOPers": 2,
-    "dota2-boombo-ts8-2026-08-22::BoomBoys": 2,
-    "lol-fnc-shft-2026-08-22::Shifters": 2
+    "lol-dnf-drx-2026-08-22::DN SOOPers": 3,
+    "lol-dnf-drx-2026-08-22-game1::DN SOOPers": 3,
+    "dota2-boombo-ts8-2026-08-22::BoomBoys": 3,
+    "lol-fnc-shft-2026-08-22::Shifters": 3,
+    "cs2-furia-fut-2026-08-22::FUT Esports": 1,
+    "cs2-furia-fut-2026-08-22::FURIA": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
   },
-  "updated_at": "2026-08-22T15:52:02.502214+00:00"
+  "updated_at": "2026-08-22T16:13:43.586578+00:00"
 }
