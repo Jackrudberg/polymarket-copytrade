@@ -1,5 +1,6 @@
 {
   "seen_ids": [
+    "epl-bre-tot-2026-08-22-bre::No",
     "lol-fnc-shft-2026-08-22-game1::Fnatic",
     "cs2-furia-fut-2026-08-22::FUT Esports",
     "cs2-furia-fut-2026-08-22::FURIA",
@@ -7,39 +8,76 @@
   ],
   "signals": [
     {
+      "market": "Will Brentford FC win on 2026-08-22?",
+      "slug": "epl-bre-tot-2026-08-22-bre",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 347836.49,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2899,
+          "value": 277499.99,
+          "avg_price": 0.54,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "Weaseloftheweek",
+          "roi": 0.5287,
+          "value": 56887.5,
+          "avg_price": 0.5599,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "1xx3",
+          "roi": 0.2792,
+          "value": 11100,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.1534,
+          "value": 2349.0,
+          "avg_price": 0.5549,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
       "market": "LoL: Fnatic vs Shifters - Game 1 Winner",
       "slug": "lol-fnc-shft-2026-08-22-game1",
       "outcome": "Fnatic",
       "num_traders": 4,
-      "total_value": 47629.3,
+      "total_value": 81631.55,
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
           "roi": 0.2146,
-          "value": 33074.99,
-          "avg_price": 0.71,
-          "cur_price": 0.945
+          "value": 66237.86,
+          "avg_price": 0.846,
+          "cur_price": 0.9995
         },
         {
           "trader": "Sunshine.Smile",
           "roi": 0.3319,
-          "value": 8315.99,
+          "value": 8795.59,
           "avg_price": 0.7289,
-          "cur_price": 0.945
+          "cur_price": 0.9995
         },
         {
           "trader": "laopilao",
           "roi": 0.2218,
-          "value": 3779.99,
+          "value": 3997.99,
           "avg_price": 0.7299,
-          "cur_price": 0.945
+          "cur_price": 0.9995
         },
         {
           "trader": "48binn",
           "roi": 0.2544,
-          "value": 2458.33,
+          "value": 2600.11,
           "avg_price": 0.9346,
-          "cur_price": 0.945
+          "cur_price": 0.9995
         }
       ]
     },
@@ -48,28 +86,28 @@
       "slug": "cs2-furia-fut-2026-08-22",
       "outcome": "FUT Esports",
       "num_traders": 3,
-      "total_value": 1212767.89,
+      "total_value": 1041553.6,
       "holders": [
         {
           "trader": "Djdjdjekekek",
           "roi": 0.1593,
-          "value": 1205522.9,
+          "value": 1035331.43,
           "avg_price": 0.4465,
-          "cur_price": 0.425
+          "cur_price": 0.365
         },
         {
           "trader": "pmesport",
           "roi": 0.5612,
-          "value": 6426.44,
+          "value": 5519.18,
           "avg_price": 0.529,
-          "cur_price": 0.425
+          "cur_price": 0.365
         },
         {
           "trader": "quavoo",
           "roi": 0.1714,
-          "value": 818.55,
+          "value": 702.99,
           "avg_price": 0.4099,
-          "cur_price": 0.425
+          "cur_price": 0.365
         }
       ]
     },
@@ -78,28 +116,28 @@
       "slug": "cs2-furia-fut-2026-08-22",
       "outcome": "FURIA",
       "num_traders": 3,
-      "total_value": 96973.35,
+      "total_value": 107092.3,
       "holders": [
         {
           "trader": "jjj1984",
           "roi": 0.2905,
-          "value": 58927.02,
+          "value": 65075.92,
           "avg_price": 0.5854,
-          "cur_price": 0.575
+          "cur_price": 0.635
         },
         {
           "trader": "sbsigner",
           "roi": 0.1534,
-          "value": 32296.33,
+          "value": 35666.38,
           "avg_price": 0.5261,
-          "cur_price": 0.575
+          "cur_price": 0.635
         },
         {
           "trader": "jtwyslljy",
           "roi": 0.646,
-          "value": 5750,
+          "value": 6350,
           "avg_price": 0.478,
-          "cur_price": 0.575
+          "cur_price": 0.635
         }
       ]
     },
@@ -1217,10 +1255,10 @@
     "lol-dk-gen-2026-08-22-game2::Dplus KIA": 3,
     "lol-nip-ig1-2026-08-22-game1::Ninjas in Pyjamas": 3,
     "epl-hul-mun-2026-08-22-hul::Yes": 3,
-    "lol-dnf-drx-2026-08-22::DN SOOPers": 1,
-    "lol-dnf-drx-2026-08-22-game1::DN SOOPers": 1,
-    "dota2-boombo-ts8-2026-08-22::BoomBoys": 1,
-    "lol-fnc-shft-2026-08-22::Shifters": 1
+    "lol-dnf-drx-2026-08-22::DN SOOPers": 2,
+    "lol-dnf-drx-2026-08-22-game1::DN SOOPers": 2,
+    "dota2-boombo-ts8-2026-08-22::BoomBoys": 2,
+    "lol-fnc-shft-2026-08-22::Shifters": 2
   },
-  "updated_at": "2026-08-22T15:31:22.638569+00:00"
+  "updated_at": "2026-08-22T15:52:02.502214+00:00"
 }
