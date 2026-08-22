@@ -1,6 +1,7 @@
 {
   "seen_ids": [
-    "wnba-por-tor-2026-08-21::Toronto Tempo"
+    "wnba-por-tor-2026-08-21::Toronto Tempo",
+    "mlb-pit-lad-2026-08-21::Los Angeles Dodgers"
   ],
   "signals": [
     {
@@ -8,28 +9,58 @@
       "slug": "wnba-por-tor-2026-08-21",
       "outcome": "Toronto Tempo",
       "num_traders": 3,
-      "total_value": 69797.34,
+      "total_value": 95593.67,
       "holders": [
         {
           "trader": "monkeymashingkeyboard",
-          "roi": 0.3522,
-          "value": 54374.84,
+          "roi": 0.7392,
+          "value": 74962.29,
           "avg_price": 0.4279,
-          "cur_price": 0.725
+          "cur_price": 0.9995
         },
         {
           "trader": "takeormake",
-          "roi": 0.2888,
-          "value": 13660.24,
+          "roi": 0.2192,
+          "value": 18832.28,
           "avg_price": 0.5229,
-          "cur_price": 0.725
+          "cur_price": 0.9995
         },
         {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2264,
-          "value": 1762.26,
-          "avg_price": 0.38,
-          "cur_price": 0.725
+          "trader": "Painfulvoid",
+          "roi": 0.3513,
+          "value": 1799.1,
+          "avg_price": 0.39,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "slug": "mlb-pit-lad-2026-08-21",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 86163.94,
+      "holders": [
+        {
+          "trader": "Kosherlocks",
+          "roi": 0.3521,
+          "value": 47836.96,
+          "avg_price": 0.6899,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.5184,
+          "value": 28876.98,
+          "avg_price": 0.683,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "kotik7",
+          "roi": 0.2859,
+          "value": 9450,
+          "avg_price": 0.62,
+          "cur_price": 0.675
         }
       ]
     },
@@ -134,66 +165,6 @@
           "value": 995.5,
           "avg_price": 0.5099,
           "cur_price": 0.9965
-        }
-      ]
-    },
-    {
-      "market": "Detroit Tigers vs. Kansas City Royals: O/U 7.5",
-      "slug": "mlb-det-kc-2026-08-21-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 103120.3,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1899,
-          "value": 76095.44,
-          "avg_price": 0.436,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3538,
-          "value": 25800,
-          "avg_price": 0.435,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.4582,
-          "value": 1224.86,
-          "avg_price": 0.4314,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Portland Fire vs. Toronto Tempo",
-      "slug": "wnba-por-tor-2026-08-21",
-      "outcome": "Portland Fire",
-      "num_traders": 3,
-      "total_value": 42244.92,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3538,
-          "value": 38932.05,
-          "avg_price": 0.5699,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "takeormake",
-          "roi": 0.2292,
-          "value": 1788.48,
-          "avg_price": 0.6307,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.4582,
-          "value": 1524.39,
-          "avg_price": 0.5772,
-          "cur_price": 0.735
         }
       ]
     }
@@ -1126,11 +1097,11 @@
     "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
-    "mlb-det-kc-2026-08-21-total-7pt5::Under": 2,
-    "wnba-por-tor-2026-08-21::Portland Fire": 2,
-    "wta-gauff-kostyuk-2026-08-21::Coco Gauff": 1,
-    "dota2-ts8-liquid-2026-08-21-game1::Team Spirit": 1,
-    "mlb-cle-col-2026-08-21::Cleveland Guardians": 1
+    "mlb-det-kc-2026-08-21-total-7pt5::Under": 3,
+    "wnba-por-tor-2026-08-21::Portland Fire": 3,
+    "wta-gauff-kostyuk-2026-08-21::Coco Gauff": 2,
+    "dota2-ts8-liquid-2026-08-21-game1::Team Spirit": 2,
+    "mlb-cle-col-2026-08-21::Cleveland Guardians": 2
   },
-  "updated_at": "2026-08-22T04:07:22.775305+00:00"
+  "updated_at": "2026-08-22T04:47:29.791003+00:00"
 }

@@ -21538,7 +21538,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 125715.47,
       "traders": [
@@ -21548,7 +21548,8 @@
         "NiNo999",
         "0x9b1186"
       ],
-      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21"
+      "url": "https://polymarket.com/event/wta-gauff-kostyuk-2026-08-21",
+      "consensus_lost_at": "2026-08-22T04:47:29.771501+00:00"
     },
     {
       "signal_id": "dota2-ts8-liquid-2026-08-21-game1::Team Spirit",
@@ -21564,7 +21565,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 133149.41,
       "traders": [
@@ -21572,7 +21573,8 @@
         "GEAEW",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21-game1"
+      "url": "https://polymarket.com/event/dota2-ts8-liquid-2026-08-21-game1",
+      "consensus_lost_at": "2026-08-22T04:47:29.771501+00:00"
     },
     {
       "signal_id": "mlb-cle-col-2026-08-21::Cleveland Guardians",
@@ -21588,7 +21590,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 95237.23,
       "traders": [
@@ -21596,7 +21598,8 @@
         "alaskabaked",
         "0x9b1186"
       ],
-      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21"
+      "url": "https://polymarket.com/event/mlb-cle-col-2026-08-21",
+      "consensus_lost_at": "2026-08-22T04:47:29.771501+00:00"
     },
     {
       "signal_id": "wnba-por-tor-2026-08-21::Toronto Tempo",
@@ -21604,14 +21607,14 @@
       "slug": "wnba-por-tor-2026-08-21",
       "side": "Toronto Tempo",
       "alerted_at": "2026-08-22T04:07:22.756181+00:00",
-      "last_seen": "2026-08-22T04:07:22.756181+00:00",
+      "last_seen": "2026-08-22T04:47:29.771501+00:00",
       "entry_price": 0.725,
-      "current_price": 0.725,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 137.931034,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 137.86,
+      "paper_pnl": 37.86,
+      "return_percent": 37.86,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 69797.34,
@@ -21621,7 +21624,31 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/wnba-por-tor-2026-08-21"
+    },
+    {
+      "signal_id": "mlb-pit-lad-2026-08-21::Los Angeles Dodgers",
+      "market": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "slug": "mlb-pit-lad-2026-08-21",
+      "side": "Los Angeles Dodgers",
+      "alerted_at": "2026-08-22T04:47:29.771501+00:00",
+      "last_seen": "2026-08-22T04:47:29.771501+00:00",
+      "entry_price": 0.675,
+      "current_price": 0.675,
+      "stake": 100.0,
+      "shares": 148.148148,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 86163.94,
+      "traders": [
+        "Kosherlocks",
+        "thatguythatguy",
+        "kotik7"
+      ],
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-21"
     }
   ],
-  "updated_at": "2026-08-22T04:07:22.756181+00:00"
+  "updated_at": "2026-08-22T04:47:29.771501+00:00"
 }
