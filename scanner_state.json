@@ -1,6 +1,8 @@
 {
   "seen_ids": [
     "lol-fnc-shft-2026-08-22-game1::Fnatic",
+    "mlb-atl-mil-2026-08-22::Atlanta Braves",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "lol-fnc-shft-2026-08-22-game2::Fnatic"
   ],
   "signals": [
@@ -8,19 +10,26 @@
       "market": "LoL: Fnatic vs Shifters - Game 1 Winner",
       "slug": "lol-fnc-shft-2026-08-22-game1",
       "outcome": "Fnatic",
-      "num_traders": 4,
-      "total_value": 81631.55,
+      "num_traders": 5,
+      "total_value": 91519.23,
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2086,
+          "roi": 0.2113,
           "value": 66237.86,
           "avg_price": 0.846,
           "cur_price": 0.9995
         },
         {
+          "trader": "MisterVision",
+          "roi": 0.1619,
+          "value": 9887.68,
+          "avg_price": 0.6899,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "Sunshine.Smile",
-          "roi": 0.3027,
+          "roi": 0.2966,
           "value": 8795.59,
           "avg_price": 0.7289,
           "cur_price": 0.9995
@@ -34,10 +43,70 @@
         },
         {
           "trader": "48binn",
-          "roi": 0.2481,
+          "roi": 0.2126,
           "value": 2600.11,
           "avg_price": 0.9346,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers",
+      "slug": "mlb-atl-mil-2026-08-22",
+      "outcome": "Atlanta Braves",
+      "num_traders": 3,
+      "total_value": 73815.48,
+      "holders": [
+        {
+          "trader": "xifutloong3",
+          "roi": 0.6694,
+          "value": 41884.62,
+          "avg_price": 0.5199,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.4446,
+          "value": 25880.86,
+          "avg_price": 0.3899,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "abura2025",
+          "roi": 0.414,
+          "value": 6050,
+          "avg_price": 0.39,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13213.28,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.4933,
+          "value": 11452.8,
+          "avg_price": 0.6666,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.1729,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.5448,
+          "value": 371.99,
+          "avg_price": 0.5,
+          "cur_price": 0.685
         }
       ]
     },
@@ -50,7 +119,7 @@
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2086,
+          "roi": 0.2113,
           "value": 7007.68,
           "avg_price": 0.5191,
           "cur_price": 0.9995
@@ -64,7 +133,7 @@
         },
         {
           "trader": "48binn",
-          "roi": 0.2481,
+          "roi": 0.2126,
           "value": 517.93,
           "avg_price": 0.5495,
           "cur_price": 0.9995
@@ -1027,8 +1096,7 @@
     "lol-fnc-shft-2026-08-22::Shifters": 3,
     "cs2-furia-fut-2026-08-22::FUT Esports": 3,
     "cs2-furia-fut-2026-08-22::FURIA": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "epl-bre-tot-2026-08-22-bre::No": 3
   },
-  "updated_at": "2026-08-22T18:25:26.501289+00:00"
+  "updated_at": "2026-08-22T18:53:57.352641+00:00"
 }
