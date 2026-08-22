@@ -1,8 +1,39 @@
 {
   "seen_ids": [
+    "lol-sen-fly-2026-08-22-game1::Sentinels",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Sentinels vs FlyQuest - Game 1 Winner",
+      "slug": "lol-sen-fly-2026-08-22-game1",
+      "outcome": "Sentinels",
+      "num_traders": 3,
+      "total_value": 32652.01,
+      "holders": [
+        {
+          "trader": "MisterVision",
+          "roi": 0.1507,
+          "value": 17047.31,
+          "avg_price": 0.6048,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "bloodmaster",
+          "roi": 0.3914,
+          "value": 13217.47,
+          "avg_price": 0.8467,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2019,
+          "value": 2387.23,
+          "avg_price": 0.5856,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -12,21 +43,21 @@
       "holders": [
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.4937,
+          "roi": 0.494,
           "value": 11452.8,
           "avg_price": 0.6666,
           "cur_price": 0.685
         },
         {
           "trader": "Haradwaith",
-          "roi": 0.1657,
+          "roi": 0.1589,
           "value": 1388.49,
           "avg_price": 0.714,
           "cur_price": 0.685
         },
         {
           "trader": "donthackme",
-          "roi": 0.4503,
+          "roi": 0.4475,
           "value": 371.99,
           "avg_price": 0.5,
           "cur_price": 0.685
@@ -994,5 +1025,5 @@
     "mlb-atl-mil-2026-08-22::Atlanta Braves": 3,
     "lol-fnc-shft-2026-08-22-game2::Fnatic": 3
   },
-  "updated_at": "2026-08-22T20:55:24.007429+00:00"
+  "updated_at": "2026-08-22T21:22:11.206578+00:00"
 }
