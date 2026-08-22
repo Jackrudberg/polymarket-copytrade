@@ -1,8 +1,101 @@
 {
   "seen_ids": [
+    "dota2-vsn2-ty-2026-08-22-game1::TEAM VISION",
+    "lol-we-lgd-2026-08-22-game1::Team WE",
+    "lol-dk-gen-2026-08-22-game1::Gen.G",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+      "slug": "dota2-vsn2-ty-2026-08-22-game1",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 87986.18,
+      "holders": [
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.2809,
+          "value": 62087.15,
+          "avg_price": 0.6214,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3404,
+          "value": 14745.04,
+          "avg_price": 0.4017,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3235,
+          "value": 11153.99,
+          "avg_price": 0.4637,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
+      "slug": "lol-we-lgd-2026-08-22-game1",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 40184.2,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3404,
+          "value": 24464.01,
+          "avg_price": 0.1624,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3235,
+          "value": 14557.38,
+          "avg_price": 0.5807,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.1993,
+          "value": 1162.81,
+          "avg_price": 0.2353,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G - Game 1 Winner",
+      "slug": "lol-dk-gen-2026-08-22-game1",
+      "outcome": "Gen.G",
+      "num_traders": 3,
+      "total_value": 30676.21,
+      "holders": [
+        {
+          "trader": "MisterVision",
+          "roi": 0.2664,
+          "value": 18887.55,
+          "avg_price": 0.6457,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.1993,
+          "value": 11588.76,
+          "avg_price": 0.6299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sdfqq1",
+          "roi": 0.1645,
+          "value": 199.9,
+          "avg_price": 0.8,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -12,151 +105,24 @@
       "holders": [
         {
           "trader": "quavoo",
-          "roi": 0.2972,
+          "roi": 0.2731,
           "value": 14040.42,
           "avg_price": 0.4021,
           "cur_price": 0.685
         },
         {
           "trader": "Haradwaith",
-          "roi": 0.2688,
+          "roi": 0.2422,
           "value": 1388.49,
           "avg_price": 0.714,
           "cur_price": 0.685
         },
         {
           "trader": "donthackme",
-          "roi": 1.5958,
+          "roi": 0.9593,
           "value": 371.99,
           "avg_price": 0.5,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
-      "slug": "lol-we-lgd-2026-08-22-game1",
-      "outcome": "Team WE",
-      "num_traders": 3,
-      "total_value": 77379.38,
-      "holders": [
-        {
-          "trader": "pilotlady",
-          "roi": 0.4014,
-          "value": 38357.99,
-          "avg_price": 0.165,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.408,
-          "value": 24464.01,
-          "avg_price": 0.1624,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3078,
-          "value": 14557.38,
-          "avg_price": 0.5807,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
-      "slug": "dota2-ngx-boombo-2026-08-22",
-      "outcome": "BoomBoys",
-      "num_traders": 4,
-      "total_value": 351651.46,
-      "holders": [
-        {
-          "trader": "vd777bond",
-          "roi": 0.1984,
-          "value": 262962.18,
-          "avg_price": 0.6327,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-          "roi": 0.3058,
-          "value": 53108.34,
-          "avg_price": 0.5932,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3025,
-          "value": 26550.33,
-          "avg_price": 0.5983,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "Skyfker",
-          "roi": 0.2225,
-          "value": 9030.61,
-          "avg_price": 0.6,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Spread: Manchester United FC (-1.5)",
-      "slug": "epl-hul-mun-2026-08-22-spread-away-1pt5",
-      "outcome": "Manchester United FC",
-      "num_traders": 3,
-      "total_value": 60353.4,
-      "holders": [
-        {
-          "trader": "plonker2026",
-          "roi": 0.6199,
-          "value": 46637.99,
-          "avg_price": 0.4796,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3134,
-          "value": 12882.87,
-          "avg_price": 0.4975,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.1576,
-          "value": 832.54,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14110.04,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.1576,
-          "value": 10693.95,
-          "avg_price": 0.3046,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.3134,
-          "value": 2483.61,
-          "avg_price": 0.3249,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.9249,
-          "value": 932.48,
-          "avg_price": 0.5038,
-          "cur_price": 0.305
         }
       ]
     }
@@ -1094,10 +1060,9 @@
     "mlb-cle-col-2026-08-21::Cleveland Guardians": 3,
     "wnba-por-tor-2026-08-21::Toronto Tempo": 3,
     "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3,
-    "dota2-ngx-boombo-2026-08-22::BoomBoys": 2,
-    "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
-    "lol-we-lgd-2026-08-22-game1::Team WE": 1
+    "dota2-ngx-boombo-2026-08-22::BoomBoys": 3,
+    "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3
   },
-  "updated_at": "2026-08-22T09:03:36.368290+00:00"
+  "updated_at": "2026-08-22T09:37:42.765671+00:00"
 }
