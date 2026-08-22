@@ -7965,7 +7965,7 @@
       "current_value": 161.18,
       "paper_pnl": 61.18,
       "return_percent": 61.18,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14848.81,
       "traders": [
@@ -7974,7 +7974,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "consensus_lost_at": "2026-08-22T03:26:22.292827+00:00"
+      "consensus_lost_at": "2026-08-22T16:43:46.751158+00:00"
     },
     {
       "signal_id": "cs2-mouzn-mis-2026-08-03::MOUZ NXT",
@@ -22094,7 +22094,7 @@
       "current_value": 69.52,
       "paper_pnl": -30.48,
       "return_percent": -30.48,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1498125.04,
       "traders": [
@@ -22102,7 +22102,8 @@
         "pmesport",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22"
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
+      "consensus_lost_at": "2026-08-22T16:43:46.751158+00:00"
     },
     {
       "signal_id": "lol-fnc-shft-2026-08-22::Shifters",
@@ -22135,7 +22136,7 @@
       "slug": "lol-fnc-shft-2026-08-22-game1",
       "side": "Fnatic",
       "alerted_at": "2026-08-22T15:31:22.618908+00:00",
-      "last_seen": "2026-08-22T16:13:43.566752+00:00",
+      "last_seen": "2026-08-22T16:43:46.751158+00:00",
       "entry_price": 0.945,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -22168,7 +22169,7 @@
       "current_value": 110.43,
       "paper_pnl": 10.43,
       "return_percent": 10.43,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 96973.35,
       "traders": [
@@ -22176,7 +22177,8 @@
         "sbsigner",
         "jtwyslljy"
       ],
-      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22"
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22",
+      "consensus_lost_at": "2026-08-22T16:43:46.751158+00:00"
     },
     {
       "signal_id": "epl-bre-tot-2026-08-22-bre::No",
@@ -22184,14 +22186,14 @@
       "slug": "epl-bre-tot-2026-08-22-bre",
       "side": "No",
       "alerted_at": "2026-08-22T15:52:02.482394+00:00",
-      "last_seen": "2026-08-22T16:13:43.566752+00:00",
+      "last_seen": "2026-08-22T16:43:46.751158+00:00",
       "entry_price": 0.555,
-      "current_price": 0.525,
+      "current_price": 0.485,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 94.59,
-      "paper_pnl": -5.41,
-      "return_percent": -5.41,
+      "current_value": 87.39,
+      "paper_pnl": -12.61,
+      "return_percent": -12.61,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 347836.49,
@@ -22209,14 +22211,14 @@
       "slug": "lol-fnc-shft-2026-08-22-game2",
       "side": "Fnatic",
       "alerted_at": "2026-08-22T16:13:43.566752+00:00",
-      "last_seen": "2026-08-22T16:13:43.566752+00:00",
+      "last_seen": "2026-08-22T16:43:46.751158+00:00",
       "entry_price": 0.57,
-      "current_price": 0.57,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 175.438596,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 175.35,
+      "paper_pnl": 75.35,
+      "return_percent": 75.35,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 11819.46,
@@ -22228,5 +22230,5 @@
       "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22-game2"
     }
   ],
-  "updated_at": "2026-08-22T16:13:43.566752+00:00"
+  "updated_at": "2026-08-22T16:43:46.751158+00:00"
 }
