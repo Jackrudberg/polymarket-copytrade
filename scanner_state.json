@@ -1,9 +1,331 @@
 {
   "seen_ids": [
-    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No",
-    "will-bitcoin-reach-85k-in-august-2026::Yes"
+    "wnba-min-wsh-2026-08-21::Minnesota Lynx",
+    "atp-musetti-tiafoe-2026-08-21::Frances Tiafoe",
+    "dota2-ts8-liquid-2026-08-21::Team Liquid",
+    "mlb-det-kc-2026-08-21-total-7pt5::Under",
+    "mlb-wsh-mia-2026-08-21::Miami Marlins",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No",
+    "wnba-por-tor-2026-08-21::Portland Fire",
+    "mlb-stl-phi-2026-08-21::Philadelphia Phillies",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
+    {
+      "market": "Minnesota Lynx vs. Washington Mystics",
+      "slug": "wnba-min-wsh-2026-08-21",
+      "outcome": "Minnesota Lynx",
+      "num_traders": 4,
+      "total_value": 36319.28,
+      "holders": [
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 23123.97,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.1509,
+          "value": 9383.4,
+          "avg_price": 0.5499,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 2539.55,
+          "avg_price": 0.5599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 1272.36,
+          "avg_price": 0.5945,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Open: Lorenzo Musetti vs Frances Tiafoe",
+      "slug": "atp-musetti-tiafoe-2026-08-21",
+      "outcome": "Frances Tiafoe",
+      "num_traders": 4,
+      "total_value": 22343.01,
+      "holders": [
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1907,
+          "value": 18446.73,
+          "avg_price": 0.6076,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 2597.7,
+          "avg_price": 0.4899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 834.6,
+          "avg_price": 0.7776,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 463.98,
+          "avg_price": 0.792,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
+      "slug": "dota2-ts8-liquid-2026-08-21",
+      "outcome": "Team Liquid",
+      "num_traders": 3,
+      "total_value": 404255.75,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 399767.09,
+          "avg_price": 0.3693,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 4141.12,
+          "avg_price": 0.4267,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 347.54,
+          "avg_price": 0.3796,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Kansas City Royals: O/U 7.5",
+      "slug": "mlb-det-kc-2026-08-21-total-7pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 121489.67,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1703,
+          "value": 88389.46,
+          "avg_price": 0.4299,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 31600,
+          "avg_price": 0.435,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 1500.21,
+          "avg_price": 0.4314,
+          "cur_price": 0.79
+        }
+      ]
+    },
+    {
+      "market": "Washington Nationals vs. Miami Marlins",
+      "slug": "mlb-wsh-mia-2026-08-21",
+      "outcome": "Miami Marlins",
+      "num_traders": 3,
+      "total_value": 109230.7,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1703,
+          "value": 99443.43,
+          "avg_price": 0.5549,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 9200.04,
+          "avg_price": 0.6099,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1907,
+          "value": 587.23,
+          "avg_price": 0.6749,
+          "cur_price": 0.895
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 61956.62,
+      "holders": [
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 57578.86,
+          "avg_price": 0.632,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.6051,
+          "value": 2878.77,
+          "avg_price": 0.7109,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1907,
+          "value": 1498.99,
+          "avg_price": 0.6213,
+          "cur_price": 0.695
+        }
+      ]
+    },
+    {
+      "market": "Portland Fire vs. Toronto Tempo",
+      "slug": "wnba-por-tor-2026-08-21",
+      "outcome": "Portland Fire",
+      "num_traders": 3,
+      "total_value": 31646.33,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.5835,
+          "value": 30457.05,
+          "avg_price": 0.5699,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 991.88,
+          "avg_price": 0.5725,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 197.4,
+          "avg_price": 0.5713,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "St. Louis Cardinals vs. Philadelphia Phillies",
+      "slug": "mlb-stl-phi-2026-08-21",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 29724.39,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1703,
+          "value": 28454.57,
+          "avg_price": 0.4687,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1907,
+          "value": 709.96,
+          "avg_price": 0.6788,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 559.86,
+          "avg_price": 0.667,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 26752.88,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.5902,
+          "value": 14040.42,
+          "avg_price": 0.4021,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 11323.97,
+          "avg_price": 0.6601,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.6051,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5742.83,
+      "holders": [
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.1907,
+          "value": 2195.21,
+          "avg_price": 0.7177,
+          "cur_price": 0.7375
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2177,
+          "value": 1971.2,
+          "avg_price": 0.638,
+          "cur_price": 0.7375
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.6051,
+          "value": 1576.42,
+          "avg_price": 0.7447,
+          "cur_price": 0.7375
+        }
+      ]
+    },
     {
       "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
       "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
@@ -578,7 +900,6 @@
     "will-carlos-alcaraz-win-the-2026-mens-us-open::Yes": 3,
     "will-renan-santos-win-the-2026-brazilian-presidential-election::No": 3,
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 3,
     "will-russell-fry-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628831::No": 3,
     "will-marco-rubio-win-the-2028-republican-presidential-nomination::Yes": 3,
     "lol-dnf-ns-2026-08-12::Nongshim Red Force": 3,
@@ -936,7 +1257,6 @@
     "dota2-ngx-flc-2026-08-20-game2::Nigma Galaxy": 3,
     "dota2-ngx-flc-2026-08-20::Nigma Galaxy": 3,
     "cs2-g2-furia-2026-08-20::FURIA": 3,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "will-bitcoin-reach-75k-in-august-2026::Yes": 3,
     "dota2-ironwi-boombo-2026-08-20::Iron Wing": 3,
     "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes": 3,
@@ -974,7 +1294,6 @@
     "will-bitcoin-reach-85000-by-december-31-2026-from-june-8::Yes": 3,
     "will-ethereum-reach-2500-in-august-2026::Yes": 3,
     "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-bitcoin-reach-100000-by-december-31-2026-571-361-361::Yes": 3,
     "will-bitcoin-dip-to-67pt5k-in-august-2026::No": 3,
     "will-bitcoin-reach-120000-by-december-31-2026-625-425-562::No": 3,
@@ -982,11 +1301,12 @@
     "dota2-ty-ngx-2026-08-21::Team Yandex": 3,
     "cs2-vit-ts7-2026-08-21-game2::Spirit": 3,
     "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 3,
-    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 3,
     "cs2-vit-ts7-2026-08-21::Vitality": 3,
     "cs2-vit-ts7-2026-08-21::Spirit": 3,
     "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 3,
-    "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No": 3
+    "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No": 3,
+    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 1,
+    "will-bitcoin-reach-85k-in-august-2026::Yes": 1
   },
-  "updated_at": "2026-08-21T23:58:41.817672+00:00"
+  "updated_at": "2026-08-22T01:43:29.467585+00:00"
 }
