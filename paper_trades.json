@@ -7957,7 +7957,7 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-22T14:21:22.635092+00:00",
+      "last_seen": "2026-08-22T14:44:57.690654+00:00",
       "entry_price": 0.425,
       "current_price": 0.685,
       "stake": 100.0,
@@ -21792,7 +21792,7 @@
       "current_value": 298.36,
       "paper_pnl": 198.36,
       "return_percent": 198.36,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 24865.37,
       "traders": [
@@ -21800,7 +21800,8 @@
         "Sunshine.Smile",
         "MisterVision"
       ],
-      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22-game1"
+      "url": "https://polymarket.com/event/lol-nip-ig1-2026-08-22-game1",
+      "consensus_lost_at": "2026-08-22T14:44:57.690654+00:00"
     },
     {
       "signal_id": "lol-we-lgd-2026-08-22::LGD Gaming",
@@ -21985,7 +21986,7 @@
       "slug": "lol-dnf-drx-2026-08-22-game1",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-22T11:41:36.035008+00:00",
-      "last_seen": "2026-08-22T14:21:22.635092+00:00",
+      "last_seen": "2026-08-22T14:44:57.690654+00:00",
       "entry_price": 0.355,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -22009,7 +22010,7 @@
       "slug": "lol-dnf-drx-2026-08-22",
       "side": "DN SOOPers",
       "alerted_at": "2026-08-22T12:54:54.507143+00:00",
-      "last_seen": "2026-08-22T14:21:22.635092+00:00",
+      "last_seen": "2026-08-22T14:44:57.690654+00:00",
       "entry_price": 0.985,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -22066,7 +22067,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 11241.81,
       "traders": [
@@ -22074,8 +22075,57 @@
         "beg-for-private-vps",
         "quavoo"
       ],
-      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-hul"
+      "url": "https://polymarket.com/event/epl-hul-mun-2026-08-22-hul",
+      "consensus_lost_at": "2026-08-22T14:44:57.690654+00:00"
+    },
+    {
+      "signal_id": "cs2-furia-fut-2026-08-22::FUT Esports",
+      "market": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+      "slug": "cs2-furia-fut-2026-08-22",
+      "side": "FUT Esports",
+      "alerted_at": "2026-08-22T14:44:57.690654+00:00",
+      "last_seen": "2026-08-22T14:44:57.690654+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1498125.04,
+      "traders": [
+        "Djdjdjekekek",
+        "pmesport",
+        "quavoo"
+      ],
+      "url": "https://polymarket.com/event/cs2-furia-fut-2026-08-22"
+    },
+    {
+      "signal_id": "lol-fnc-shft-2026-08-22::Shifters",
+      "market": "LoL: Fnatic vs Shifters (BO3) - LEC Regular Season",
+      "slug": "lol-fnc-shft-2026-08-22",
+      "side": "Shifters",
+      "alerted_at": "2026-08-22T14:44:57.690654+00:00",
+      "last_seen": "2026-08-22T14:44:57.690654+00:00",
+      "entry_price": 0.225,
+      "current_price": 0.225,
+      "stake": 100.0,
+      "shares": 444.444444,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12305.82,
+      "traders": [
+        "BrotherObama",
+        "PetsViljandist",
+        "KingOfEsports"
+      ],
+      "url": "https://polymarket.com/event/lol-fnc-shft-2026-08-22"
     }
   ],
-  "updated_at": "2026-08-22T14:21:22.635092+00:00"
+  "updated_at": "2026-08-22T14:44:57.690654+00:00"
 }
