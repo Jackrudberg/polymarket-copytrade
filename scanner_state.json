@@ -1,10 +1,48 @@
 {
   "seen_ids": [
+    "dota2-ngx-boombo-2026-08-22::BoomBoys",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
+      "slug": "dota2-ngx-boombo-2026-08-22",
+      "outcome": "BoomBoys",
+      "num_traders": 4,
+      "total_value": 217012.54,
+      "holders": [
+        {
+          "trader": "vd777bond",
+          "roi": 0.1984,
+          "value": 173822.46,
+          "avg_price": 0.6327,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.3058,
+          "value": 19670.47,
+          "avg_price": 0.5845,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.3025,
+          "value": 17550.22,
+          "avg_price": 0.596,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.2225,
+          "value": 5969.39,
+          "avg_price": 0.6,
+          "cur_price": 0.585
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -14,28 +52,28 @@
       "holders": [
         {
           "trader": "quavoo",
-          "roi": 0.3431,
+          "roi": 0.3134,
           "value": 14040.42,
           "avg_price": 0.4021,
           "cur_price": 0.685
         },
         {
           "trader": "purplegatto",
-          "roi": 0.1805,
+          "roi": 0.1576,
           "value": 10982.6,
           "avg_price": 0.4815,
           "cur_price": 0.685
         },
         {
           "trader": "Haradwaith",
-          "roi": 0.3332,
+          "roi": 0.2913,
           "value": 1388.49,
           "avg_price": 0.714,
           "cur_price": 0.685
         },
         {
           "trader": "donthackme",
-          "roi": 2.1452,
+          "roi": 1.9249,
           "value": 371.99,
           "avg_price": 0.5,
           "cur_price": 0.685
@@ -47,25 +85,25 @@
       "slug": "epl-hul-mun-2026-08-22-spread-away-1pt5",
       "outcome": "Manchester United FC",
       "num_traders": 3,
-      "total_value": 54335.68,
+      "total_value": 60168.27,
       "holders": [
         {
           "trader": "plonker2026",
-          "roi": 0.7252,
+          "roi": 0.6199,
           "value": 46637.99,
           "avg_price": 0.4796,
           "cur_price": 0.495
         },
         {
           "trader": "quavoo",
-          "roi": 0.3431,
-          "value": 6865.15,
-          "avg_price": 0.4955,
+          "roi": 0.3134,
+          "value": 12697.74,
+          "avg_price": 0.4975,
           "cur_price": 0.495
         },
         {
           "trader": "purplegatto",
-          "roi": 0.1805,
+          "roi": 0.1576,
           "value": 832.54,
           "avg_price": 0.4899,
           "cur_price": 0.495
@@ -81,21 +119,21 @@
       "holders": [
         {
           "trader": "purplegatto",
-          "roi": 0.1805,
+          "roi": 0.1576,
           "value": 10693.95,
           "avg_price": 0.3046,
           "cur_price": 0.305
         },
         {
           "trader": "quavoo",
-          "roi": 0.3431,
+          "roi": 0.3134,
           "value": 2483.61,
           "avg_price": 0.3249,
           "cur_price": 0.305
         },
         {
           "trader": "donthackme",
-          "roi": 2.1452,
+          "roi": 1.9249,
           "value": 932.48,
           "avg_price": 0.5038,
           "cur_price": 0.305
@@ -1037,5 +1075,5 @@
     "wnba-por-tor-2026-08-21::Toronto Tempo": 3,
     "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3
   },
-  "updated_at": "2026-08-22T06:56:24.744813+00:00"
+  "updated_at": "2026-08-22T07:34:38.439709+00:00"
 }
