@@ -2,11 +2,13 @@
   "seen_ids": [
     "lol-dk-gen-2026-08-22::Dplus KIA",
     "lol-we-lgd-2026-08-22::LGD Gaming",
-    "dota2-vsn2-ty-2026-08-22-game2::TEAM VISION",
-    "lol-dk-gen-2026-08-22-game2::Dplus KIA",
     "lol-nip-ig1-2026-08-22-game1::Ninjas in Pyjamas",
-    "lol-we-lgd-2026-08-22-game1::Team WE",
+    "lol-nip-ig1-2026-08-22-game2::Ninjas in Pyjamas",
+    "dota2-vsn2-ty-2026-08-22::TEAM VISION",
+    "lol-dk-gen-2026-08-22-game2::Dplus KIA",
     "dota2-vsn2-ty-2026-08-22-game2::Team Yandex",
+    "lol-we-lgd-2026-08-22-game1::Team WE",
+    "dota2-vsn2-ty-2026-08-22::Team Yandex",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
@@ -14,35 +16,49 @@
       "market": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
       "slug": "lol-dk-gen-2026-08-22",
       "outcome": "Dplus KIA",
-      "num_traders": 4,
-      "total_value": 191258.07,
+      "num_traders": 6,
+      "total_value": 322816.71,
       "holders": [
         {
           "trader": "BrotherObama",
-          "roi": 0.1563,
+          "roi": 0.5097,
           "value": 137727.02,
           "avg_price": 0.2918,
           "cur_price": 0.9995
         },
         {
+          "trader": "pmesport",
+          "roi": 0.6595,
+          "value": 74188.06,
+          "avg_price": 0.3399,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
+          "roi": 0.4007,
           "value": 36651.51,
           "avg_price": 0.3709,
           "cur_price": 0.9995
         },
         {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3226,
-          "value": 8995.5,
-          "avg_price": 0.3724,
+          "trader": "SineNooneEI",
+          "roi": 0.1698,
+          "value": 34982.5,
+          "avg_price": 0.3614,
           "cur_price": 0.9995
         },
         {
-          "trader": "Zenhack",
-          "roi": 0.2464,
-          "value": 7884.04,
-          "avg_price": 0.4,
+          "trader": "sofa88888",
+          "roi": 0.1624,
+          "value": 30272.12,
+          "avg_price": 0.3309,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3488,
+          "value": 8995.5,
+          "avg_price": 0.3724,
           "cur_price": 0.9995
         }
       ]
@@ -51,36 +67,304 @@
       "market": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend",
       "slug": "lol-we-lgd-2026-08-22",
       "outcome": "LGD Gaming",
-      "num_traders": 4,
-      "total_value": 59225.57,
+      "num_traders": 6,
+      "total_value": 89210.57,
       "holders": [
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
+          "roi": 0.4007,
           "value": 37863.49,
           "avg_price": 0.4147,
           "cur_price": 0.9995
         },
         {
+          "trader": "urobang",
+          "roi": 0.6295,
+          "value": 19990,
+          "avg_price": 0.3799,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "48binn",
-          "roi": 0.3261,
+          "roi": 0.3576,
           "value": 19908.75,
           "avg_price": 0.7795,
           "cur_price": 0.9995
         },
         {
+          "trader": "SineNooneEI",
+          "roi": 0.1698,
+          "value": 9995,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "Zenhack",
-          "roi": 0.2464,
+          "roi": 0.1722,
           "value": 940.59,
           "avg_price": 0.41,
           "cur_price": 0.9995
         },
         {
           "trader": "quavoo",
-          "roi": 0.2634,
+          "roi": 0.2641,
           "value": 512.74,
           "avg_price": 0.42,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+      "slug": "lol-nip-ig1-2026-08-22-game1",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 4,
+      "total_value": 121037.4,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.4007,
+          "value": 51907.77,
+          "avg_price": 0.4457,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "solo88888",
+          "roi": 0.1763,
+          "value": 47845.49,
+          "avg_price": 0.4456,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3488,
+          "value": 14092.95,
+          "avg_price": 0.5199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.3576,
+          "value": 7191.19,
+          "avg_price": 0.3122,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 2 Winner",
+      "slug": "lol-nip-ig1-2026-08-22-game2",
+      "outcome": "Ninjas in Pyjamas",
+      "num_traders": 4,
+      "total_value": 57490.59,
+      "holders": [
+        {
+          "trader": "48binn",
+          "roi": 0.3576,
+          "value": 28640.49,
+          "avg_price": 0.5336,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "laopilao",
+          "roi": 0.4047,
+          "value": 15099.99,
+          "avg_price": 0.5499,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.1624,
+          "value": 9975.12,
+          "avg_price": 0.46,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "solo88888",
+          "roi": 0.1763,
+          "value": 3774.99,
+          "avg_price": 0.5646,
+          "cur_price": 0.755
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+      "slug": "dota2-vsn2-ty-2026-08-22",
+      "outcome": "TEAM VISION",
+      "num_traders": 3,
+      "total_value": 663175.97,
+      "holders": [
+        {
+          "trader": "vd777bond",
+          "roi": 0.1933,
+          "value": 463088.34,
+          "avg_price": 0.7323,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "Djdjdjekekek",
+          "roi": 1.3568,
+          "value": 198094.94,
+          "avg_price": 0.8056,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.4007,
+          "value": 1992.69,
+          "avg_price": 0.8999,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
+      "slug": "lol-dk-gen-2026-08-22-game2",
+      "outcome": "Dplus KIA",
+      "num_traders": 3,
+      "total_value": 152081.37,
+      "holders": [
+        {
+          "trader": "laopilao",
+          "roi": 0.4047,
+          "value": 121960.87,
+          "avg_price": 0.3928,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.3576,
+          "value": 15127.11,
+          "avg_price": 0.5081,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.4007,
+          "value": 14993.39,
+          "avg_price": 0.5954,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
+      "slug": "dota2-vsn2-ty-2026-08-22-game2",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 45376.22,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.4007,
+          "value": 24987.46,
+          "avg_price": 0.4319,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3488,
+          "value": 10394.77,
+          "avg_price": 0.4191,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Zenhack",
+          "roi": 0.1722,
+          "value": 9993.99,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
+      "slug": "lol-we-lgd-2026-08-22-game1",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 44135.42,
+      "holders": [
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.4007,
+          "value": 24464.01,
+          "avg_price": 0.1624,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3488,
+          "value": 14557.38,
+          "avg_price": 0.5807,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.3576,
+          "value": 5114.03,
+          "avg_price": 0.289,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+      "slug": "dota2-vsn2-ty-2026-08-22",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 23896.87,
+      "holders": [
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.1698,
+          "value": 10280.41,
+          "avg_price": 0.2599,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.1624,
+          "value": 8375,
+          "avg_price": 0.34,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Zenhack",
+          "roi": 0.1722,
+          "value": 5241.46,
+          "avg_price": 0.1209,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15800.9,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2641,
+          "value": 14040.42,
+          "avg_price": 0.4021,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.2228,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.7942,
+          "value": 371.99,
+          "avg_price": 0.5,
+          "cur_price": 0.685
         }
       ]
     },
@@ -115,156 +399,6 @@
       ]
     },
     {
-      "market": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
-      "slug": "lol-dk-gen-2026-08-22-game2",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 152081.37,
-      "holders": [
-        {
-          "trader": "laopilao",
-          "roi": 0.4047,
-          "value": 121960.87,
-          "avg_price": 0.3928,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.3261,
-          "value": 15127.11,
-          "avg_price": 0.5081,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
-          "value": 14993.39,
-          "avg_price": 0.5954,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
-      "slug": "lol-nip-ig1-2026-08-22-game1",
-      "outcome": "Ninjas in Pyjamas",
-      "num_traders": 3,
-      "total_value": 73191.91,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
-          "value": 51907.77,
-          "avg_price": 0.4457,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3226,
-          "value": 14092.95,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.3261,
-          "value": 7191.19,
-          "avg_price": 0.3122,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
-      "slug": "lol-we-lgd-2026-08-22-game1",
-      "outcome": "Team WE",
-      "num_traders": 3,
-      "total_value": 44135.42,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
-          "value": 24464.01,
-          "avg_price": 0.1624,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3226,
-          "value": 14557.38,
-          "avg_price": 0.5807,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.3261,
-          "value": 5114.03,
-          "avg_price": 0.289,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
-      "slug": "dota2-vsn2-ty-2026-08-22-game2",
-      "outcome": "Team Yandex",
-      "num_traders": 3,
-      "total_value": 17478.58,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3681,
-          "value": 9624.98,
-          "avg_price": 0.4319,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3226,
-          "value": 4003.99,
-          "avg_price": 0.4191,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Zenhack",
-          "roi": 0.2464,
-          "value": 3849.61,
-          "avg_price": 0.42,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15800.9,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.2634,
-          "value": 14040.42,
-          "avg_price": 0.4021,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Haradwaith",
-          "roi": 0.232,
-          "value": 1388.49,
-          "avg_price": 0.714,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.8353,
-          "value": 371.99,
-          "avg_price": 0.5,
-          "cur_price": 0.685
-        }
-      ]
-    },
-    {
       "market": "LoL: Dplus KIA vs Gen.G - Game 1 Winner",
       "slug": "lol-dk-gen-2026-08-22-game1",
       "outcome": "Gen.G",
@@ -290,36 +424,6 @@
           "roi": 0.1645,
           "value": 199.9,
           "avg_price": 0.8,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
-      "slug": "dota2-vsn2-ty-2026-08-22-game1",
-      "outcome": "TEAM VISION",
-      "num_traders": 3,
-      "total_value": 101626.04,
-      "holders": [
-        {
-          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-          "roi": 0.2809,
-          "value": 73439.18,
-          "avg_price": 0.6214,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.3404,
-          "value": 14993.47,
-          "avg_price": 0.402,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3235,
-          "value": 13193.39,
-          "avg_price": 0.4637,
           "cur_price": 0.9995
         }
       ]
@@ -1261,8 +1365,9 @@
     "dota2-ngx-boombo-2026-08-22::BoomBoys": 3,
     "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "dota2-vsn2-ty-2026-08-22-game1::TEAM VISION": 2,
-    "lol-dk-gen-2026-08-22-game1::Gen.G": 1
+    "dota2-vsn2-ty-2026-08-22-game1::TEAM VISION": 3,
+    "lol-dk-gen-2026-08-22-game1::Gen.G": 2,
+    "dota2-vsn2-ty-2026-08-22-game2::TEAM VISION": 1
   },
-  "updated_at": "2026-08-22T10:55:01.383141+00:00"
+  "updated_at": "2026-08-22T11:20:06.156512+00:00"
 }
