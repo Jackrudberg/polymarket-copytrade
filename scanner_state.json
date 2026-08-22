@@ -1,11 +1,69 @@
 {
   "seen_ids": [
-    "dota2-ngx-boombo-2026-08-22::BoomBoys",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
+    "lol-we-lgd-2026-08-22-game1::Team WE",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
+      "slug": "lol-we-lgd-2026-08-22-game1",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 77379.38,
+      "holders": [
+        {
+          "trader": "pilotlady",
+          "roi": 0.4014,
+          "value": 38357.99,
+          "avg_price": 0.165,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.408,
+          "value": 24464.01,
+          "avg_price": 0.1624,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3078,
+          "value": 14557.38,
+          "avg_price": 0.5807,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15800.9,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.2972,
+          "value": 14040.42,
+          "avg_price": 0.4021,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.2688,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "donthackme",
+          "roi": 1.5958,
+          "value": 371.99,
+          "avg_price": 0.5,
+          "cur_price": 0.685
+        }
+      ]
+    },
     {
       "market": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
       "slug": "dota2-ngx-boombo-2026-08-22",
@@ -40,43 +98,6 @@
           "value": 9030.61,
           "avg_price": 0.6,
           "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 26783.5,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.3134,
-          "value": 14040.42,
-          "avg_price": 0.4021,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.1576,
-          "value": 10982.6,
-          "avg_price": 0.4815,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Haradwaith",
-          "roi": 0.2913,
-          "value": 1388.49,
-          "avg_price": 0.714,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.9249,
-          "value": 371.99,
-          "avg_price": 0.5,
-          "cur_price": 0.685
         }
       ]
     },
@@ -1073,7 +1094,10 @@
     "dota2-ts8-liquid-2026-08-21-game1::Team Spirit": 3,
     "mlb-cle-col-2026-08-21::Cleveland Guardians": 3,
     "wnba-por-tor-2026-08-21::Toronto Tempo": 3,
-    "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3
+    "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3,
+    "dota2-ngx-boombo-2026-08-22::BoomBoys": 1,
+    "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1
   },
-  "updated_at": "2026-08-22T07:58:39.976294+00:00"
+  "updated_at": "2026-08-22T08:39:56.778766+00:00"
 }
