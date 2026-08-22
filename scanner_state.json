@@ -1,6 +1,108 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "epl-hul-mun-2026-08-22-spread-away-1pt5::Manchester United FC",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
+  ],
+  "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 26783.5,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.3431,
+          "value": 14040.42,
+          "avg_price": 0.4021,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1805,
+          "value": 10982.6,
+          "avg_price": 0.4815,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Haradwaith",
+          "roi": 0.3332,
+          "value": 1388.49,
+          "avg_price": 0.714,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "donthackme",
+          "roi": 2.1452,
+          "value": 371.99,
+          "avg_price": 0.5,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Spread: Manchester United FC (-1.5)",
+      "slug": "epl-hul-mun-2026-08-22-spread-away-1pt5",
+      "outcome": "Manchester United FC",
+      "num_traders": 3,
+      "total_value": 54335.68,
+      "holders": [
+        {
+          "trader": "plonker2026",
+          "roi": 0.7252,
+          "value": 46637.99,
+          "avg_price": 0.4796,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3431,
+          "value": 6865.15,
+          "avg_price": 0.4955,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1805,
+          "value": 832.54,
+          "avg_price": 0.4899,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14110.04,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.1805,
+          "value": 10693.95,
+          "avg_price": 0.3046,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.3431,
+          "value": 2483.61,
+          "avg_price": 0.3249,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "donthackme",
+          "roi": 2.1452,
+          "value": 932.48,
+          "avg_price": 0.5038,
+          "cur_price": 0.305
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -897,7 +999,6 @@
     "cs2-lgc-fal2-2026-08-21::Legacy": 3,
     "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5::Legacy": 3,
     "will-bitcoin-reach-82pt5k-in-august-2026::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "putin-out-before-2027-346::No": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
@@ -927,7 +1028,6 @@
     "mlb-wsh-mia-2026-08-21::Miami Marlins": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 3,
     "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "mlb-det-kc-2026-08-21-total-7pt5::Under": 3,
     "wnba-por-tor-2026-08-21::Portland Fire": 3,
@@ -937,5 +1037,5 @@
     "wnba-por-tor-2026-08-21::Toronto Tempo": 3,
     "mlb-pit-lad-2026-08-21::Los Angeles Dodgers": 3
   },
-  "updated_at": "2026-08-22T06:03:58.980637+00:00"
+  "updated_at": "2026-08-22T06:56:24.744813+00:00"
 }
