@@ -1,9 +1,114 @@
 {
   "seen_ids": [
-    "mlb-det-kc-2026-08-21-total-7pt5::Under",
-    "wnba-por-tor-2026-08-21::Portland Fire"
+    "wta-gauff-kostyuk-2026-08-21::Coco Gauff",
+    "dota2-ts8-liquid-2026-08-21-game1::Team Spirit",
+    "mlb-cle-col-2026-08-21::Cleveland Guardians"
   ],
   "signals": [
+    {
+      "market": "Cincinnati Open: Coco Gauff vs Marta Kostyuk",
+      "slug": "wta-gauff-kostyuk-2026-08-21",
+      "outcome": "Coco Gauff",
+      "num_traders": 5,
+      "total_value": 125715.47,
+      "holders": [
+        {
+          "trader": "tennischamp",
+          "roi": 0.1702,
+          "value": 75996.34,
+          "avg_price": 0.8239,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.4167,
+          "value": 23582.0,
+          "avg_price": 0.5799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2264,
+          "value": 16003.85,
+          "avg_price": 0.5502,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NiNo999",
+          "roi": 0.494,
+          "value": 6137.28,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9b1186",
+          "roi": 0.2474,
+          "value": 3996.0,
+          "avg_price": 0.5499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
+      "slug": "dota2-ts8-liquid-2026-08-21-game1",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 133149.41,
+      "holders": [
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.1945,
+          "value": 90142.49,
+          "avg_price": 0.5543,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GEAEW",
+          "roi": 0.2067,
+          "value": 41000.81,
+          "avg_price": 0.5483,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2264,
+          "value": 2006.11,
+          "avg_price": 0.562,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cleveland Guardians vs. Colorado Rockies",
+      "slug": "mlb-cle-col-2026-08-21",
+      "outcome": "Cleveland Guardians",
+      "num_traders": 3,
+      "total_value": 95237.23,
+      "holders": [
+        {
+          "trader": "xifutloong3",
+          "roi": 0.6589,
+          "value": 75524.2,
+          "avg_price": 0.4884,
+          "cur_price": 0.9965
+        },
+        {
+          "trader": "alaskabaked",
+          "roi": 0.4167,
+          "value": 18717.53,
+          "avg_price": 0.5799,
+          "cur_price": 0.9965
+        },
+        {
+          "trader": "0x9b1186",
+          "roi": 0.2474,
+          "value": 995.5,
+          "avg_price": 0.5099,
+          "cur_price": 0.9965
+        }
+      ]
+    },
     {
       "market": "Detroit Tigers vs. Kansas City Royals: O/U 7.5",
       "slug": "mlb-det-kc-2026-08-21-total-7pt5",
@@ -315,66 +420,6 @@
           "value": 1576.42,
           "avg_price": 0.7447,
           "cur_price": 0.7375
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 344300.74,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.7018,
-          "value": 327351.61,
-          "avg_price": 0.719,
-          "cur_price": 0.91
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1545,
-          "value": 13776.89,
-          "avg_price": 0.8105,
-          "cur_price": 0.91
-        },
-        {
-          "trader": "0xf705fa",
-          "roi": 0.3019,
-          "value": 3172.24,
-          "avg_price": 0.7374,
-          "cur_price": 0.91
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $85,000 in August?",
-      "slug": "will-bitcoin-reach-85k-in-august-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 23132.02,
-      "holders": [
-        {
-          "trader": "0xf705fa",
-          "roi": 0.3019,
-          "value": 14654.23,
-          "avg_price": 0.157,
-          "cur_price": 0.2635
-        },
-        {
-          "trader": "frozenriver",
-          "roi": 3.6134,
-          "value": 7903.38,
-          "avg_price": 0.0041,
-          "cur_price": 0.2635
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.1545,
-          "value": 574.41,
-          "avg_price": 0.168,
-          "cur_price": 0.2635
         }
       ]
     }
@@ -1297,16 +1342,18 @@
     "cs2-vit-ts7-2026-08-21::Spirit": 3,
     "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 3,
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No": 3,
-    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 2,
-    "will-bitcoin-reach-85k-in-august-2026::Yes": 2,
-    "wnba-min-wsh-2026-08-21::Minnesota Lynx": 1,
-    "atp-musetti-tiafoe-2026-08-21::Frances Tiafoe": 1,
-    "dota2-ts8-liquid-2026-08-21::Team Liquid": 1,
-    "mlb-wsh-mia-2026-08-21::Miami Marlins": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 1,
-    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
+    "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 3,
+    "will-bitcoin-reach-85k-in-august-2026::Yes": 3,
+    "wnba-min-wsh-2026-08-21::Minnesota Lynx": 2,
+    "atp-musetti-tiafoe-2026-08-21::Frances Tiafoe": 2,
+    "dota2-ts8-liquid-2026-08-21::Team Liquid": 2,
+    "mlb-wsh-mia-2026-08-21::Miami Marlins": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 2,
+    "mlb-stl-phi-2026-08-21::Philadelphia Phillies": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
+    "mlb-det-kc-2026-08-21-total-7pt5::Under": 1,
+    "wnba-por-tor-2026-08-21::Portland Fire": 1
   },
-  "updated_at": "2026-08-22T02:41:05.524655+00:00"
+  "updated_at": "2026-08-22T03:26:22.307856+00:00"
 }
