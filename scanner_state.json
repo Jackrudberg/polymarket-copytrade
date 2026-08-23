@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
-    "dota2-vsn2-ts8-2026-08-23-game1::TEAM VISION"
+    "dota2-vsn2-ts8-2026-08-23-game1::Team Spirit"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game1",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 51088.17,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.403,
+          "value": 19989.99,
+          "avg_price": 0.517,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.3932,
+          "value": 15915.53,
+          "avg_price": 0.5299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GEAEW",
+          "roi": 0.3151,
+          "value": 15182.65,
+          "avg_price": 0.5782,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
       "slug": "dota2-vsn2-ts8-2026-08-23",
@@ -1122,7 +1151,9 @@
     "dota2-ty-ts8-2026-08-22-game2::Team Spirit": 3,
     "dota2-ty-ts8-2026-08-22::Team Spirit": 3,
     "wnba-atl-phx-2026-08-22::Atlanta Dream": 3,
-    "will-team-vision-win-the-international-2026-20260629212053622::Yes": 3
+    "will-team-vision-win-the-international-2026-20260629212053622::Yes": 3,
+    "dota2-vsn2-ts8-2026-08-23::TEAM VISION": 1,
+    "dota2-vsn2-ts8-2026-08-23-game1::TEAM VISION": 1
   },
-  "updated_at": "2026-08-23T06:56:55.223959+00:00"
+  "updated_at": "2026-08-23T07:37:20.222552+00:00"
 }
