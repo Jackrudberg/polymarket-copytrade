@@ -23715,7 +23715,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 161917.92,
       "traders": [
@@ -23723,7 +23723,8 @@
         "Sunshine.Smile",
         "MisterVision"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23-game1"
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23-game1",
+      "consensus_lost_at": "2026-08-23T13:34:24.149572+00:00"
     },
     {
       "signal_id": "lol-tt-lgd-2026-08-23-game2::LGD Gaming",
@@ -23764,7 +23765,7 @@
       "current_value": 144.26,
       "paper_pnl": 44.26,
       "return_percent": 44.26,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 8,
       "combined_value": 265081.75,
       "traders": [
@@ -23777,7 +23778,8 @@
         "Barbozaaa321",
         "what-the-dog-doin"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game4"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game4",
+      "consensus_lost_at": "2026-08-23T13:34:24.149572+00:00"
     },
     {
       "signal_id": "lol-cfo-tsw-2026-08-23-game3::CTBC Flying Oyster",
@@ -23843,7 +23845,7 @@
       "current_value": 125.72,
       "paper_pnl": 25.72,
       "return_percent": 25.72,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 21536.07,
       "traders": [
@@ -23851,7 +23853,8 @@
         "MisterVision",
         "StasPanda"
       ],
-      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23"
+      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23",
+      "consensus_lost_at": "2026-08-23T13:34:24.149572+00:00"
     },
     {
       "signal_id": "dota2-vsn2-ts8-2026-08-23::Team Spirit",
@@ -23859,14 +23862,14 @@
       "slug": "dota2-vsn2-ts8-2026-08-23",
       "side": "Team Spirit",
       "alerted_at": "2026-08-23T12:56:09.683790+00:00",
-      "last_seen": "2026-08-23T12:56:09.683790+00:00",
+      "last_seen": "2026-08-23T13:34:24.149572+00:00",
       "entry_price": 0.32,
-      "current_price": 0.32,
+      "current_price": 0.995,
       "stake": 100.0,
       "shares": 312.5,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 310.94,
+      "paper_pnl": 210.94,
+      "return_percent": 210.94,
       "status": "OPEN",
       "num_traders": 5,
       "combined_value": 129493.9,
@@ -23928,5 +23931,5 @@
       "url": "https://polymarket.com/event/lol-blg-al-2026-08-23-game1"
     }
   ],
-  "updated_at": "2026-08-23T12:56:09.683790+00:00"
+  "updated_at": "2026-08-23T13:34:24.149572+00:00"
 }

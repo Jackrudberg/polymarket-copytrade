@@ -1,11 +1,38 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
-    "dota2-vsn2-ts8-2026-08-23::Team Spirit",
-    "cs2-fut-ts7-2026-08-23::FUT Esports",
-    "lol-blg-al-2026-08-23-game1::Anyone's Legend"
+    "dota2-vsn2-ts8-2026-08-23::Team Spirit"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "slug": "dota2-vsn2-ts8-2026-08-23",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 214498.64,
+      "holders": [
+        {
+          "trader": "Hdisllbsj",
+          "roi": 0.1622,
+          "value": 152246.29,
+          "avg_price": 0.5159,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "mamo4ka",
+          "roi": 0.1663,
+          "value": 48087.93,
+          "avg_price": 0.5379,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.387,
+          "value": 14164.42,
+          "avg_price": 0.537,
+          "cur_price": 0.995
+        }
+      ]
+    },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
       "slug": "dota2-vsn2-ts8-2026-08-23",
@@ -68,50 +95,6 @@
           "value": 6799.99,
           "avg_price": 0.4899,
           "cur_price": 0.68
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
-      "slug": "dota2-vsn2-ts8-2026-08-23",
-      "outcome": "Team Spirit",
-      "num_traders": 5,
-      "total_value": 129493.9,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1529,
-          "value": 57231.56,
-          "avg_price": 0.4823,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "Hdisllbsj",
-          "roi": 0.179,
-          "value": 48963.63,
-          "avg_price": 0.5159,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "mamo4ka",
-          "roi": 0.194,
-          "value": 15465.46,
-          "avg_price": 0.5379,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.441,
-          "value": 4555.39,
-          "avg_price": 0.537,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "maytopmay",
-          "roi": 0.4349,
-          "value": 3277.86,
-          "avg_price": 0.5495,
-          "cur_price": 0.32
         }
       ]
     },
@@ -1312,9 +1295,12 @@
     "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit": 3,
     "lol-cfo-tsw-2026-08-23-game3::CTBC Flying Oyster": 3,
     "lol-fox1-ns-2026-08-23-game2::BNK FEARX": 3,
-    "dota2-vsn2-ts8-2026-08-23-game4::TEAM VISION": 1,
-    "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports": 1,
-    "lol-edg-jdg-2026-08-23::JD Gaming": 1
+    "dota2-vsn2-ts8-2026-08-23-game4::TEAM VISION": 2,
+    "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports": 2,
+    "lol-edg-jdg-2026-08-23::JD Gaming": 2,
+    "dota2-vsn2-ts8-2026-08-23::TEAM VISION": 1,
+    "cs2-fut-ts7-2026-08-23::FUT Esports": 1,
+    "lol-blg-al-2026-08-23-game1::Anyone's Legend": 1
   },
-  "updated_at": "2026-08-23T12:56:09.704852+00:00"
+  "updated_at": "2026-08-23T13:34:24.164856+00:00"
 }
