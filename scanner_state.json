@@ -1,7 +1,6 @@
 {
   "seen_ids": [
     "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
-    "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit",
     "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports"
   ],
   "signals": [
@@ -10,49 +9,79 @@
       "slug": "dota2-vsn2-ts8-2026-08-23",
       "outcome": "TEAM VISION",
       "num_traders": 6,
-      "total_value": 137328.12,
+      "total_value": 152777.76,
       "holders": [
         {
           "trader": "ndb1",
           "roi": 0.2349,
-          "value": 69318.18,
+          "value": 71590.91,
           "avg_price": 0.56,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "avia.",
-          "roi": 0.1797,
-          "value": 24476.24,
-          "avg_price": 0.5749,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "ivantoney",
-          "roi": 0.1751,
-          "value": 15249.69,
-          "avg_price": 0.56,
-          "cur_price": 0.305
+          "cur_price": 0.315
         },
         {
           "trader": "meoooow",
           "roi": 0.2216,
-          "value": 10560.07,
-          "avg_price": 0.5052,
-          "cur_price": 0.305
+          "value": 25934.9,
+          "avg_price": 0.3964,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "avia.",
+          "roi": 0.1797,
+          "value": 25278.74,
+          "avg_price": 0.5749,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "ivantoney",
+          "roi": 0.1751,
+          "value": 15749.68,
+          "avg_price": 0.56,
+          "cur_price": 0.315
         },
         {
           "trader": "GrokEnjoyer",
           "roi": 0.21,
-          "value": 9544.45,
+          "value": 9857.38,
           "avg_price": 0.5754,
-          "cur_price": 0.305
+          "cur_price": 0.315
         },
         {
           "trader": "ethBELIVER",
           "roi": 0.1658,
-          "value": 8179.49,
+          "value": 4366.15,
           "avg_price": 0.561,
-          "cur_price": 0.305
+          "cur_price": 0.315
+        }
+      ]
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+      "slug": "lol-hle1-t1-2026-08-23-game1",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 3,
+      "total_value": 161917.92,
+      "holders": [
+        {
+          "trader": "BOOMBOYS.Kiritych",
+          "roi": 0.2733,
+          "value": 132850.78,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.2175,
+          "value": 15892.03,
+          "avg_price": 0.5399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2097,
+          "value": 13175.11,
+          "avg_price": 0.5911,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -89,66 +118,6 @@
           "roi": 0.3672,
           "value": 11734.56,
           "avg_price": 0.3725,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
-      "slug": "lol-hle1-t1-2026-08-23-game1",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 161917.92,
-      "holders": [
-        {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.2733,
-          "value": 132850.78,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.2175,
-          "value": 15892.03,
-          "avg_price": 0.5399,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MisterVision",
-          "roi": 0.2097,
-          "value": 13175.11,
-          "avg_price": 0.5911,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
-      "slug": "lol-tt-lgd-2026-08-23-game2",
-      "outcome": "LGD Gaming",
-      "num_traders": 3,
-      "total_value": 83324.66,
-      "holders": [
-        {
-          "trader": "meoooow",
-          "roi": 0.3256,
-          "value": 44254.54,
-          "avg_price": 0.5393,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hurrican",
-          "roi": 0.6246,
-          "value": 32983.48,
-          "avg_price": 0.85,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MisterVision",
-          "roi": 0.2979,
-          "value": 6086.64,
-          "avg_price": 0.55,
           "cur_price": 0.9995
         }
       ]
@@ -1168,7 +1137,8 @@
     "lol-tt-lgd-2026-08-23-game2::ThunderTalk Gaming": 3,
     "dota2-vsn2-ts8-2026-08-23-game2::Team Spirit": 3,
     "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION": 3,
-    "lol-tt-lgd-2026-08-23-game2::LGD Gaming": 2
+    "lol-tt-lgd-2026-08-23-game2::LGD Gaming": 3,
+    "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit": 1
   },
-  "updated_at": "2026-08-23T10:33:03.286131+00:00"
+  "updated_at": "2026-08-23T10:55:27.663995+00:00"
 }
