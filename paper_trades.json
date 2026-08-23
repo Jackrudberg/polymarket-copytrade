@@ -23508,7 +23508,7 @@
       "current_value": 71.68,
       "paper_pnl": -28.32,
       "return_percent": -28.32,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 231385.43,
       "traders": [
@@ -23519,7 +23519,8 @@
         "GrokEnjoyer",
         "spreadcorearb"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "consensus_lost_at": "2026-08-23T08:00:28.234025+00:00"
     },
     {
       "signal_id": "will-team-vision-win-the-international-2026-20260629212053622::Yes",
@@ -23560,7 +23561,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 14968.86,
       "traders": [
@@ -23569,7 +23570,8 @@
         "Nooserac",
         "thatguythatguy"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game1"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game1",
+      "consensus_lost_at": "2026-08-23T08:00:28.234025+00:00"
     },
     {
       "signal_id": "dota2-vsn2-ts8-2026-08-23-game1::Team Spirit",
@@ -23594,7 +23596,56 @@
         "GEAEW"
       ],
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game1"
+    },
+    {
+      "signal_id": "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game2",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-23T08:00:28.234025+00:00",
+      "last_seen": "2026-08-23T08:00:28.234025+00:00",
+      "entry_price": 0.56,
+      "current_price": 0.56,
+      "stake": 100.0,
+      "shares": 178.571429,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 61562.37,
+      "traders": [
+        "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+        "Sunshine.Smile",
+        "BOOMBOYS.Kiritych",
+        "0xf3ce7f"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game2"
+    },
+    {
+      "signal_id": "dota2-vsn2-ts8-2026-08-23-game2::Team Spirit",
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game2",
+      "side": "Team Spirit",
+      "alerted_at": "2026-08-23T08:00:28.234025+00:00",
+      "last_seen": "2026-08-23T08:00:28.234025+00:00",
+      "entry_price": 0.44,
+      "current_price": 0.44,
+      "stake": 100.0,
+      "shares": 227.272727,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 35281.41,
+      "traders": [
+        "GEAEW",
+        "n0tTODAY",
+        "0xf3ce7f"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game2"
     }
   ],
-  "updated_at": "2026-08-23T07:37:20.209854+00:00"
+  "updated_at": "2026-08-23T08:00:28.234025+00:00"
 }
