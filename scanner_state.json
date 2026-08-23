@@ -1,6 +1,39 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "lal-elc-bar-2026-08-23-bar::Yes"
+  ],
+  "signals": [
+    {
+      "market": "Will FC Barcelona win on 2026-08-23?",
+      "slug": "lal-elc-bar-2026-08-23-bar",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 60340.24,
+      "holders": [
+        {
+          "trader": "RegardedMoney",
+          "roi": 0.1521,
+          "value": 36356.18,
+          "avg_price": 0.7299,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "hurrican",
+          "roi": 0.1836,
+          "value": 23660.28,
+          "avg_price": 0.8774,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.159,
+          "value": 323.78,
+          "avg_price": 0.7199,
+          "cur_price": 0.865
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -1030,5 +1063,5 @@
     "cs2-fut-ts7-2026-08-23::Spirit": 3,
     "epl-new-liv-2026-08-23-liv::No": 3
   },
-  "updated_at": "2026-08-23T19:37:13.188843+00:00"
+  "updated_at": "2026-08-23T19:54:36.636534+00:00"
 }
