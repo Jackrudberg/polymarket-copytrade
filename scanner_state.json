@@ -1,47 +1,393 @@
 {
   "seen_ids": [
-    "mls-vwh-dal-2026-08-22-vwh::No",
-    "mlb-pit-lad-2026-08-22::Los Angeles Dodgers",
-    "mls-laf-por-2026-08-22-total-3pt5::Over",
-    "mex-gua-tij-2026-08-22-gua::No",
-    "mls-vwh-dal-2026-08-22-spread-home-1pt5::FC Dallas",
     "mls-aus-phi-2026-08-22-phi::No",
-    "mls-stl-hou-2026-08-22-stl::No",
-    "mls-mia-tor-2026-08-22-spread-home-1pt5::Toronto FC",
+    "wnba-atl-phx-2026-08-22::Atlanta Dream",
     "mlb-min-sd-2026-08-22::Minnesota Twins",
-    "bra-int-cam-2026-08-22-int::No",
-    "bra-cru-fla-2026-08-22-fla::No",
-    "mex-gua-tij-2026-08-22-spread-home-1pt5::Club Tijuana",
-    "mex-gua-tij-2026-08-22-tij::No",
-    "mlb-cin-ari-2026-08-22::Cincinnati Reds",
-    "wnba-atl-phx-2026-08-22-spread-away-7pt5::Phoenix Mercury",
-    "bra-cru-fla-2026-08-22-cru::Yes",
-    "mls-mim-lag-2026-08-22-lag::No",
-    "mlb-nym-cws-2026-08-22::Chicago White Sox",
-    "mlb-chc-sea-2026-08-22-total-7pt5::Under",
-    "chi1-cuc-cdu-2026-08-22-cuc::No",
-    "mlb-tb-bal-2026-08-22::Baltimore Orioles",
-    "mls-mia-tor-2026-08-22-tor::Yes",
-    "col1-isf-ad1-2026-08-22-ad1::No",
-    "mls-orl-rsl-2026-08-22-orl::Yes",
-    "bra-int-cam-2026-08-22-cam::No",
-    "mlb-oak-hou-2026-08-22::Athletics",
-    "bol1-aur-pot-2026-08-22-pot::No",
-    "mls-mim-lag-2026-08-22-mim::No",
-    "mlb-chc-sea-2026-08-22::Chicago Cubs",
+    "dota2-ty-ts8-2026-08-22::Team Yandex",
+    "nfl-phi-ne-2026-08-22::Patriots",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "mls-mia-tor-2026-08-22-draw::No",
-    "mls-vwh-dal-2026-08-22-dal::No",
-    "por-spo-alv-2026-08-22-spo::Yes",
-    "mls-clt-dcu-2026-08-22-dcu::No",
-    "wnba-conn-la-2026-08-22-total-169pt5::Over",
-    "mls-nyr-chi-2026-08-22-chi::No",
-    "mls-stl-hou-2026-08-22-hou::No",
-    "per1-cdg-cuf-2026-08-22-cuf::No",
-    "fl1-psg-ren-2026-08-23-spread-home-2pt5::Paris Saint-Germain FC",
-    "mls-nas-clb-2026-08-22-nas::No"
+    "nfl-chi-cin-2026-08-22::Bengals",
+    "mlb-cin-ari-2026-08-22::Cincinnati Reds",
+    "mls-vwh-dal-2026-08-22-spread-home-1pt5::FC Dallas",
+    "mls-laf-por-2026-08-22-total-3pt5::Over",
+    "wnba-atl-phx-2026-08-22-spread-away-7pt5::Phoenix Mercury",
+    "mlb-min-sd-2026-08-22::San Diego Padres"
   ],
   "signals": [
+    {
+      "market": "Will Philadelphia Union win on 2026-08-22?",
+      "slug": "mls-aus-phi-2026-08-22-phi",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 68723.86,
+      "holders": [
+        {
+          "trader": "wigglew",
+          "roi": 0.1789,
+          "value": 54621.86,
+          "avg_price": 0.4411,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.4575,
+          "value": 7826.01,
+          "avg_price": 0.4683,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 4332.5,
+          "avg_price": 0.4583,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 1943.49,
+          "avg_price": 0.5299,
+          "cur_price": 0.755
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury",
+      "slug": "wnba-atl-phx-2026-08-22",
+      "outcome": "Atlanta Dream",
+      "num_traders": 4,
+      "total_value": 9793.46,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 3433.41,
+          "avg_price": 0.6867,
+          "cur_price": 0.945
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 2607.68,
+          "avg_price": 0.74,
+          "cur_price": 0.945
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 2240.37,
+          "avg_price": 0.6886,
+          "cur_price": 0.945
+        },
+        {
+          "trader": "CAcap",
+          "roi": 0.4915,
+          "value": 1512,
+          "avg_price": 0.74,
+          "cur_price": 0.945
+        }
+      ]
+    },
+    {
+      "market": "Minnesota Twins vs. San Diego Padres",
+      "slug": "mlb-min-sd-2026-08-22",
+      "outcome": "Minnesota Twins",
+      "num_traders": 3,
+      "total_value": 116389.06,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 57486.28,
+          "avg_price": 0.4308,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.7043,
+          "value": 44249.84,
+          "avg_price": 0.43,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 14652.94,
+          "avg_price": 0.43,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
+      "slug": "dota2-ty-ts8-2026-08-22",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 111349.92,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 101629.82,
+          "avg_price": 0.34,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "casualbet2020",
+          "roi": 0.3335,
+          "value": 9359.98,
+          "avg_price": 0.31,
+          "cur_price": 0.18
+        },
+        {
+          "trader": "CAcap",
+          "roi": 0.4915,
+          "value": 360.12,
+          "avg_price": 0.3199,
+          "cur_price": 0.18
+        }
+      ]
+    },
+    {
+      "market": "Eagles vs. Patriots",
+      "slug": "nfl-phi-ne-2026-08-22",
+      "outcome": "Patriots",
+      "num_traders": 3,
+      "total_value": 56826.8,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 28090.29,
+          "avg_price": 0.3134,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 15445.45,
+          "avg_price": 0.3209,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 13291.06,
+          "avg_price": 0.4786,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 23710.38,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 13303.48,
+          "avg_price": 0.4899,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 8668.06,
+          "avg_price": 0.5,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 1738.84,
+          "avg_price": 0.5139,
+          "cur_price": 0.48
+        }
+      ]
+    },
+    {
+      "market": "Bears vs. Bengals",
+      "slug": "nfl-chi-cin-2026-08-22",
+      "outcome": "Bengals",
+      "num_traders": 3,
+      "total_value": 14186.28,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 5198.98,
+          "avg_price": 0.3799,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CAcap",
+          "roi": 0.4915,
+          "value": 4797.6,
+          "avg_price": 0.4033,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 4189.7,
+          "avg_price": 0.4586,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Reds vs. Arizona Diamondbacks",
+      "slug": "mlb-cin-ari-2026-08-22",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 12457.02,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 6907.23,
+          "avg_price": 0.36,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 3369.85,
+          "avg_price": 0.4399,
+          "cur_price": 0.9945
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 2179.94,
+          "avg_price": 0.37,
+          "cur_price": 0.9945
+        }
+      ]
+    },
+    {
+      "market": "Spread: Vancouver Whitecaps FC (-1.5)",
+      "slug": "mls-vwh-dal-2026-08-22-spread-home-1pt5",
+      "outcome": "FC Dallas",
+      "num_traders": 3,
+      "total_value": 7199.25,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 6781.63,
+          "avg_price": 0.4985,
+          "cur_price": 0.025
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.4575,
+          "value": 287.04,
+          "avg_price": 0.49,
+          "cur_price": 0.025
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 130.58,
+          "avg_price": 0.5023,
+          "cur_price": 0.025
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles FC vs. Portland Timbers: O/U 3.5",
+      "slug": "mls-laf-por-2026-08-22-total-3pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 4136.11,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 1875.92,
+          "avg_price": 0.41,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 1161.5,
+          "avg_price": 0.43,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.4575,
+          "value": 1098.69,
+          "avg_price": 0.42,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Spread: Atlanta Dream (-7.5)",
+      "slug": "wnba-atl-phx-2026-08-22-spread-away-7pt5",
+      "outcome": "Phoenix Mercury",
+      "num_traders": 3,
+      "total_value": 3262.79,
+      "holders": [
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 1511.25,
+          "avg_price": 0.4705,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1932,
+          "value": 1135.29,
+          "avg_price": 0.4677,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 616.25,
+          "avg_price": 0.49,
+          "cur_price": 0.205
+        }
+      ]
+    },
+    {
+      "market": "Minnesota Twins vs. San Diego Padres",
+      "slug": "mlb-min-sd-2026-08-22",
+      "outcome": "San Diego Padres",
+      "num_traders": 3,
+      "total_value": 2631.36,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3296,
+          "value": 1822.54,
+          "avg_price": 0.0351,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1721,
+          "value": 489.94,
+          "avg_price": 0.4699,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.4344,
+          "value": 318.88,
+          "avg_price": 0.57,
+          "cur_price": 0.115
+        }
+      ]
+    },
     {
       "market": "Will Vancouver Whitecaps FC win on 2026-08-22?",
       "slug": "mls-vwh-dal-2026-08-22-vwh",
@@ -152,57 +498,6 @@
       ]
     },
     {
-      "market": "Los Angeles FC vs. Portland Timbers: O/U 3.5",
-      "slug": "mls-laf-por-2026-08-22-total-3pt5",
-      "outcome": "Over",
-      "num_traders": 6,
-      "total_value": 12530.59,
-      "holders": [
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.1654,
-          "value": 7241.11,
-          "avg_price": 0.4199,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 2975,
-          "avg_price": 0.425,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1683,
-          "value": 966.02,
-          "avg_price": 0.42,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.5065,
-          "value": 829.64,
-          "avg_price": 0.43,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2358,
-          "value": 339.36,
-          "avg_price": 0.42,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 179.46,
-          "avg_price": 0.41,
-          "cur_price": 0.425
-        }
-      ]
-    },
-    {
       "market": "Will CD Guadalajara win on 2026-08-22?",
       "slug": "mex-gua-tij-2026-08-22-gua",
       "outcome": "No",
@@ -250,94 +545,6 @@
           "value": 211.33,
           "avg_price": 0.3549,
           "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Spread: Vancouver Whitecaps FC (-1.5)",
-      "slug": "mls-vwh-dal-2026-08-22-spread-home-1pt5",
-      "outcome": "FC Dallas",
-      "num_traders": 5,
-      "total_value": 155520.18,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 136988.86,
-          "avg_price": 0.4985,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.1654,
-          "value": 8005.92,
-          "avg_price": 0.4946,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 4487.57,
-          "avg_price": 0.4939,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2358,
-          "value": 3400.16,
-          "avg_price": 0.4903,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.5065,
-          "value": 2637.67,
-          "avg_price": 0.5023,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will Philadelphia Union win on 2026-08-22?",
-      "slug": "mls-aus-phi-2026-08-22-phi",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 57387.18,
-      "holders": [
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.1654,
-          "value": 40874.96,
-          "avg_price": 0.4581,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 5512.5,
-          "avg_price": 0.4633,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1683,
-          "value": 4592.7,
-          "avg_price": 0.4602,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2358,
-          "value": 3394.35,
-          "avg_price": 0.47,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.5065,
-          "value": 3012.67,
-          "avg_price": 0.4583,
-          "cur_price": 0.525
         }
       ]
     },
@@ -419,43 +626,6 @@
           "value": 10356.54,
           "avg_price": 0.4605,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Twins vs. San Diego Padres",
-      "slug": "mlb-min-sd-2026-08-22",
-      "outcome": "Minnesota Twins",
-      "num_traders": 4,
-      "total_value": 117132.32,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 56187.16,
-          "avg_price": 0.4308,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.4369,
-          "value": 43249.85,
-          "avg_price": 0.43,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2061,
-          "value": 14321.81,
-          "avg_price": 0.43,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 3373.5,
-          "avg_price": 0.59,
-          "cur_price": 0.865
         }
       ]
     },
@@ -604,80 +774,6 @@
           "value": 632.18,
           "avg_price": 0.83,
           "cur_price": 0.855
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Arizona Diamondbacks",
-      "slug": "mlb-cin-ari-2026-08-22",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 4,
-      "total_value": 12491.45,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 6250.89,
-          "avg_price": 0.36,
-          "cur_price": 0.9
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 3734.06,
-          "avg_price": 0.4899,
-          "cur_price": 0.9
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2061,
-          "value": 1972.8,
-          "avg_price": 0.37,
-          "cur_price": 0.9
-        },
-        {
-          "trader": "0xa0f21e",
-          "roi": 0.7793,
-          "value": 533.7,
-          "avg_price": 0.37,
-          "cur_price": 0.9
-        }
-      ]
-    },
-    {
-      "market": "Spread: Atlanta Dream (-7.5)",
-      "slug": "wnba-atl-phx-2026-08-22-spread-away-7pt5",
-      "outcome": "Phoenix Mercury",
-      "num_traders": 4,
-      "total_value": 9197.47,
-      "holders": [
-        {
-          "trader": "hi774c",
-          "roi": 0.5065,
-          "value": 3427.96,
-          "avg_price": 0.4705,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2061,
-          "value": 3265.7,
-          "avg_price": 0.4677,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 1397.83,
-          "avg_price": 0.49,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2358,
-          "value": 1105.98,
-          "avg_price": 0.4719,
-          "cur_price": 0.465
         }
       ]
     },
@@ -1119,36 +1215,6 @@
           "value": 275.02,
           "avg_price": 0.62,
           "cur_price": 0.965
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 11874.26,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1905,
-          "value": 8668.06,
-          "avg_price": 0.5,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2061,
-          "value": 1738.84,
-          "avg_price": 0.5139,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "RN1",
-          "roi": 0.1523,
-          "value": 1467.36,
-          "avg_price": 0.4999,
-          "cur_price": 0.48
         }
       ]
     },
@@ -2442,7 +2508,40 @@
     "mlb-atl-mil-2026-08-22::Atlanta Braves": 3,
     "lol-fnc-shft-2026-08-22-game2::Fnatic": 3,
     "lol-sen-fly-2026-08-22-game1::Sentinels": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "mls-vwh-dal-2026-08-22-vwh::No": 1,
+    "mlb-pit-lad-2026-08-22::Los Angeles Dodgers": 1,
+    "mex-gua-tij-2026-08-22-gua::No": 1,
+    "mls-stl-hou-2026-08-22-stl::No": 1,
+    "mls-mia-tor-2026-08-22-spread-home-1pt5::Toronto FC": 1,
+    "bra-int-cam-2026-08-22-int::No": 1,
+    "bra-cru-fla-2026-08-22-fla::No": 1,
+    "mex-gua-tij-2026-08-22-spread-home-1pt5::Club Tijuana": 1,
+    "mex-gua-tij-2026-08-22-tij::No": 1,
+    "bra-cru-fla-2026-08-22-cru::Yes": 1,
+    "mls-mim-lag-2026-08-22-lag::No": 1,
+    "mlb-nym-cws-2026-08-22::Chicago White Sox": 1,
+    "mlb-chc-sea-2026-08-22-total-7pt5::Under": 1,
+    "chi1-cuc-cdu-2026-08-22-cuc::No": 1,
+    "mlb-tb-bal-2026-08-22::Baltimore Orioles": 1,
+    "mls-mia-tor-2026-08-22-tor::Yes": 1,
+    "col1-isf-ad1-2026-08-22-ad1::No": 1,
+    "mls-orl-rsl-2026-08-22-orl::Yes": 1,
+    "bra-int-cam-2026-08-22-cam::No": 1,
+    "mlb-oak-hou-2026-08-22::Athletics": 1,
+    "bol1-aur-pot-2026-08-22-pot::No": 1,
+    "mls-mim-lag-2026-08-22-mim::No": 1,
+    "mlb-chc-sea-2026-08-22::Chicago Cubs": 1,
+    "mls-mia-tor-2026-08-22-draw::No": 1,
+    "mls-vwh-dal-2026-08-22-dal::No": 1,
+    "por-spo-alv-2026-08-22-spo::Yes": 1,
+    "mls-clt-dcu-2026-08-22-dcu::No": 1,
+    "wnba-conn-la-2026-08-22-total-169pt5::Over": 1,
+    "mls-nyr-chi-2026-08-22-chi::No": 1,
+    "mls-stl-hou-2026-08-22-hou::No": 1,
+    "per1-cdg-cuf-2026-08-22-cuf::No": 1,
+    "fl1-psg-ren-2026-08-23-spread-home-2pt5::Paris Saint-Germain FC": 1,
+    "mls-nas-clb-2026-08-22-nas::No": 1
   },
-  "updated_at": "2026-08-23T01:51:04.918555+00:00"
+  "updated_at": "2026-08-23T02:53:45.754722+00:00"
 }
