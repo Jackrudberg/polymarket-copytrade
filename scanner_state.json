@@ -1,8 +1,159 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION"
+    "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
+    "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit",
+    "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports",
+    "lol-tt-lgd-2026-08-23-game2::LGD Gaming"
   ],
   "signals": [
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "slug": "dota2-vsn2-ts8-2026-08-23",
+      "outcome": "TEAM VISION",
+      "num_traders": 5,
+      "total_value": 200396.07,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.2185,
+          "value": 114772.72,
+          "avg_price": 0.56,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.169,
+          "value": 27086.05,
+          "avg_price": 0.561,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "ivantoney",
+          "roi": 0.1675,
+          "value": 25249.49,
+          "avg_price": 0.56,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.3256,
+          "value": 17484.7,
+          "avg_price": 0.5052,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "GrokEnjoyer",
+          "roi": 0.1958,
+          "value": 15803.11,
+          "avg_price": 0.5754,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game3",
+      "outcome": "Team Spirit",
+      "num_traders": 5,
+      "total_value": 122473.31,
+      "holders": [
+        {
+          "trader": "BOOMBOYS.Kiritych",
+          "roi": 0.2944,
+          "value": 48676.95,
+          "avg_price": 0.4846,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2406,
+          "value": 42752.07,
+          "avg_price": 0.5256,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2979,
+          "value": 12161.04,
+          "avg_price": 0.5099,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3516,
+          "value": 12132.5,
+          "avg_price": 0.4971,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "0xf3ce7f",
+          "roi": 0.4271,
+          "value": 6750.75,
+          "avg_price": 0.3725,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+      "slug": "lol-hle1-t1-2026-08-23-game1",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 3,
+      "total_value": 161917.92,
+      "holders": [
+        {
+          "trader": "BOOMBOYS.Kiritych",
+          "roi": 0.2944,
+          "value": 132850.78,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3516,
+          "value": 15892.03,
+          "avg_price": 0.5399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2979,
+          "value": 13175.11,
+          "avg_price": 0.5911,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
+      "slug": "lol-tt-lgd-2026-08-23-game2",
+      "outcome": "LGD Gaming",
+      "num_traders": 3,
+      "total_value": 83324.66,
+      "holders": [
+        {
+          "trader": "meoooow",
+          "roi": 0.3256,
+          "value": 44254.54,
+          "avg_price": 0.5393,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hurrican",
+          "roi": 0.6246,
+          "value": 32983.48,
+          "avg_price": 0.85,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.2979,
+          "value": 6086.64,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
       "slug": "dota2-vsn2-ts8-2026-08-23-game2",
@@ -1117,11 +1268,11 @@
     "dota2-ty-ts8-2026-08-22::Team Spirit": 3,
     "wnba-atl-phx-2026-08-22::Atlanta Dream": 3,
     "will-team-vision-win-the-international-2026-20260629212053622::Yes": 3,
-    "dota2-vsn2-ts8-2026-08-23::TEAM VISION": 3,
     "dota2-vsn2-ts8-2026-08-23-game1::TEAM VISION": 3,
     "dota2-vsn2-ts8-2026-08-23-game1::Team Spirit": 3,
-    "lol-tt-lgd-2026-08-23-game2::ThunderTalk Gaming": 1,
-    "dota2-vsn2-ts8-2026-08-23-game2::Team Spirit": 1
+    "lol-tt-lgd-2026-08-23-game2::ThunderTalk Gaming": 2,
+    "dota2-vsn2-ts8-2026-08-23-game2::Team Spirit": 2,
+    "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION": 1
   },
-  "updated_at": "2026-08-23T09:05:17.567938+00:00"
+  "updated_at": "2026-08-23T09:39:07.294368+00:00"
 }
