@@ -23587,7 +23587,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 51088.17,
       "traders": [
@@ -23595,7 +23595,8 @@
         "0xf3ce7f",
         "GEAEW"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game1"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game1",
+      "consensus_lost_at": "2026-08-23T08:42:00.788954+00:00"
     },
     {
       "signal_id": "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION",
@@ -23603,14 +23604,14 @@
       "slug": "dota2-vsn2-ts8-2026-08-23-game2",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-23T08:00:28.234025+00:00",
-      "last_seen": "2026-08-23T08:00:28.234025+00:00",
+      "last_seen": "2026-08-23T08:42:00.788954+00:00",
       "entry_price": 0.56,
-      "current_price": 0.56,
+      "current_price": 0.933501,
       "stake": 100.0,
       "shares": 178.571429,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 166.7,
+      "paper_pnl": 66.7,
+      "return_percent": 66.7,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 61562.37,
@@ -23628,14 +23629,14 @@
       "slug": "dota2-vsn2-ts8-2026-08-23-game2",
       "side": "Team Spirit",
       "alerted_at": "2026-08-23T08:00:28.234025+00:00",
-      "last_seen": "2026-08-23T08:00:28.234025+00:00",
+      "last_seen": "2026-08-23T08:42:00.788954+00:00",
       "entry_price": 0.44,
-      "current_price": 0.44,
+      "current_price": 0.067712,
       "stake": 100.0,
       "shares": 227.272727,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 15.39,
+      "paper_pnl": -84.61,
+      "return_percent": -84.61,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 35281.41,
@@ -23645,7 +23646,31 @@
         "0xf3ce7f"
       ],
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game2"
+    },
+    {
+      "signal_id": "lol-tt-lgd-2026-08-23-game2::ThunderTalk Gaming",
+      "market": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
+      "slug": "lol-tt-lgd-2026-08-23-game2",
+      "side": "ThunderTalk Gaming",
+      "alerted_at": "2026-08-23T08:42:00.788954+00:00",
+      "last_seen": "2026-08-23T08:42:00.788954+00:00",
+      "entry_price": 0.123184,
+      "current_price": 0.123184,
+      "stake": 100.0,
+      "shares": 811.791761,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12694.72,
+      "traders": [
+        "BOOMBOYS.Kiritych",
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "Sunshine.Smile"
+      ],
+      "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23-game2"
     }
   ],
-  "updated_at": "2026-08-23T08:00:28.234025+00:00"
+  "updated_at": "2026-08-23T08:42:00.788954+00:00"
 }
