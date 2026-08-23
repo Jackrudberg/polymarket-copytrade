@@ -23870,7 +23870,7 @@
       "current_value": 310.94,
       "paper_pnl": 210.94,
       "return_percent": 210.94,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 129493.9,
       "traders": [
@@ -23880,7 +23880,8 @@
         "0xf3ce7f",
         "maytopmay"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
+      "consensus_lost_at": "2026-08-23T14:28:58.248799+00:00"
     },
     {
       "signal_id": "cs2-fut-ts7-2026-08-23::FUT Esports",
@@ -23933,5 +23934,5 @@
       "consensus_lost_at": "2026-08-23T13:57:11.314195+00:00"
     }
   ],
-  "updated_at": "2026-08-23T13:57:11.314195+00:00"
+  "updated_at": "2026-08-23T14:28:58.248799+00:00"
 }
