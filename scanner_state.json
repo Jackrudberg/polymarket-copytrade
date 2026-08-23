@@ -1,6 +1,77 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "cs2-fut-ts7-2026-08-23::Spirit",
+    "epl-new-liv-2026-08-23-liv::No"
+  ],
+  "signals": [
+    {
+      "market": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+      "slug": "cs2-fut-ts7-2026-08-23",
+      "outcome": "Spirit",
+      "num_traders": 4,
+      "total_value": 133636.57,
+      "holders": [
+        {
+          "trader": "0x1610DB79f753a80207E1d66716be9E91E627AE49-1778875286261",
+          "roi": 0.3221,
+          "value": 98138.48,
+          "avg_price": 0.7987,
+          "cur_price": 0.979
+        },
+        {
+          "trader": "hurrican",
+          "roi": 0.1652,
+          "value": 31775.7,
+          "avg_price": 0.8039,
+          "cur_price": 0.979
+        },
+        {
+          "trader": "StasPanda",
+          "roi": 1.1449,
+          "value": 2065.61,
+          "avg_price": 0.7405,
+          "cur_price": 0.979
+        },
+        {
+          "trader": "RegardedMoney",
+          "roi": 0.247,
+          "value": 1656.78,
+          "avg_price": 0.74,
+          "cur_price": 0.979
+        }
+      ]
+    },
+    {
+      "market": "Will Liverpool FC win on 2026-08-23?",
+      "slug": "epl-new-liv-2026-08-23-liv",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 238358.18,
+      "holders": [
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 0.1546,
+          "value": 175162.22,
+          "avg_price": 0.49,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "plonker2026",
+          "roi": 0.5115,
+          "value": 37749.42,
+          "avg_price": 0.4899,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "RegardedMoney",
+          "roi": 0.247,
+          "value": 25446.54,
+          "avg_price": 0.49,
+          "cur_price": 0.755
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -1028,5 +1099,5 @@
     "dota2-vsn2-ts8-2026-08-23::Team Spirit": 3,
     "epl-bri-ast-2026-08-23-bri::Yes": 3
   },
-  "updated_at": "2026-08-23T15:59:25.625994+00:00"
+  "updated_at": "2026-08-23T16:35:52.695877+00:00"
 }
