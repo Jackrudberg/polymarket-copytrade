@@ -23688,7 +23688,7 @@
       "current_value": 173.83,
       "paper_pnl": 73.83,
       "return_percent": 73.83,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 122473.31,
       "traders": [
@@ -23698,7 +23698,8 @@
         "Sunshine.Smile",
         "0xf3ce7f"
       ],
-      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game3"
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game3",
+      "consensus_lost_at": "2026-08-23T11:21:14.892524+00:00"
     },
     {
       "signal_id": "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports",
@@ -23706,7 +23707,7 @@
       "slug": "lol-hle1-t1-2026-08-23-game1",
       "side": "Hanwha Life Esports",
       "alerted_at": "2026-08-23T09:39:07.273360+00:00",
-      "last_seen": "2026-08-23T10:55:27.642775+00:00",
+      "last_seen": "2026-08-23T11:21:14.892524+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -23748,7 +23749,84 @@
       ],
       "url": "https://polymarket.com/event/lol-tt-lgd-2026-08-23-game2",
       "consensus_lost_at": "2026-08-23T10:33:03.264373+00:00"
+    },
+    {
+      "signal_id": "dota2-vsn2-ts8-2026-08-23-game4::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
+      "slug": "dota2-vsn2-ts8-2026-08-23-game4",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-23T11:21:14.892524+00:00",
+      "last_seen": "2026-08-23T11:21:14.892524+00:00",
+      "entry_price": 0.692862,
+      "current_price": 0.692862,
+      "stake": 100.0,
+      "shares": 144.328982,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 8,
+      "combined_value": 265081.75,
+      "traders": [
+        "Hdisllbsj",
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+        "mamo4ka",
+        "Sunshine.Smile",
+        "0xf3ce7f",
+        "Barbozaaa321",
+        "what-the-dog-doin"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23-game4"
+    },
+    {
+      "signal_id": "lol-cfo-tsw-2026-08-23-game3::CTBC Flying Oyster",
+      "market": "LoL: CTBC Flying Oyster vs Team Secret Whales - Game 3 Winner",
+      "slug": "lol-cfo-tsw-2026-08-23-game3",
+      "side": "CTBC Flying Oyster",
+      "alerted_at": "2026-08-23T11:21:14.892524+00:00",
+      "last_seen": "2026-08-23T11:21:14.892524+00:00",
+      "entry_price": 0.885,
+      "current_price": 0.885,
+      "stake": 100.0,
+      "shares": 112.99435,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11316.93,
+      "traders": [
+        "Sunshine.Smile",
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "what-the-dog-doin"
+      ],
+      "url": "https://polymarket.com/event/lol-cfo-tsw-2026-08-23-game3"
+    },
+    {
+      "signal_id": "lol-fox1-ns-2026-08-23-game2::BNK FEARX",
+      "market": "LoL: BNK FEARX vs Nongshim Red Force - Game 2 Winner",
+      "slug": "lol-fox1-ns-2026-08-23-game2",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-08-23T11:21:14.892524+00:00",
+      "last_seen": "2026-08-23T11:21:14.892524+00:00",
+      "entry_price": 0.265,
+      "current_price": 0.265,
+      "stake": 100.0,
+      "shares": 377.358491,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8169.48,
+      "traders": [
+        "Sunshine.Smile",
+        "MisterVision",
+        "what-the-dog-doin"
+      ],
+      "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23-game2"
     }
   ],
-  "updated_at": "2026-08-23T10:55:27.642775+00:00"
+  "updated_at": "2026-08-23T11:21:14.892524+00:00"
 }
