@@ -23453,7 +23453,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5237.38,
       "traders": [
@@ -23461,7 +23461,8 @@
         "AnonymousUsername",
         "takeormake"
       ],
-      "url": "https://polymarket.com/event/nfl-chi-cin-2026-08-22-total-37pt5"
+      "url": "https://polymarket.com/event/nfl-chi-cin-2026-08-22-total-37pt5",
+      "consensus_lost_at": "2026-08-23T05:01:44.703637+00:00"
     },
     {
       "signal_id": "dota2-ty-ts8-2026-08-22::Team Spirit",
@@ -23489,7 +23490,58 @@
         "VibeDoter"
       ],
       "url": "https://polymarket.com/event/dota2-ty-ts8-2026-08-22"
+    },
+    {
+      "signal_id": "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
+      "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+      "slug": "dota2-vsn2-ts8-2026-08-23",
+      "side": "TEAM VISION",
+      "alerted_at": "2026-08-23T05:01:44.703637+00:00",
+      "last_seen": "2026-08-23T05:01:44.703637+00:00",
+      "entry_price": 0.565,
+      "current_price": 0.565,
+      "stake": 100.0,
+      "shares": 176.99115,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 6,
+      "combined_value": 231385.43,
+      "traders": [
+        "ndb1",
+        "coali10",
+        "Bettong",
+        "Nooserac",
+        "GrokEnjoyer",
+        "spreadcorearb"
+      ],
+      "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23"
+    },
+    {
+      "signal_id": "will-team-vision-win-the-international-2026-20260629212053622::Yes",
+      "market": "Will TEAM VISION Win The International 2026?",
+      "slug": "will-team-vision-win-the-international-2026-20260629212053622",
+      "side": "Yes",
+      "alerted_at": "2026-08-23T05:01:44.703637+00:00",
+      "last_seen": "2026-08-23T05:01:44.703637+00:00",
+      "entry_price": 0.565,
+      "current_price": 0.565,
+      "stake": 100.0,
+      "shares": 176.99115,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 153660.29,
+      "traders": [
+        "Bettong",
+        "coali10",
+        "ethBELIVER"
+      ],
+      "url": "https://polymarket.com/event/will-team-vision-win-the-international-2026-20260629212053622"
     }
   ],
-  "updated_at": "2026-08-23T04:24:08.029657+00:00"
+  "updated_at": "2026-08-23T05:01:44.703637+00:00"
 }
