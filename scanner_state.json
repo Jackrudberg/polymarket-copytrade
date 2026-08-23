@@ -1,56 +1,76 @@
 {
   "seen_ids": [
-    "dota2-vsn2-ts8-2026-08-23::TEAM VISION",
-    "will-team-vision-win-the-international-2026-20260629212053622::Yes"
+    "dota2-vsn2-ts8-2026-08-23::TEAM VISION"
   ],
   "signals": [
     {
       "market": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
       "slug": "dota2-vsn2-ts8-2026-08-23",
       "outcome": "TEAM VISION",
-      "num_traders": 6,
-      "total_value": 231385.43,
+      "num_traders": 9,
+      "total_value": 318498.98,
       "holders": [
         {
           "trader": "ndb1",
-          "roi": 0.2447,
-          "value": 80066.37,
+          "roi": 0.2694,
+          "value": 128409.09,
           "avg_price": 0.56,
           "cur_price": 0.565
         },
         {
-          "trader": "coali10",
-          "roi": 0.1766,
-          "value": 54239.97,
-          "avg_price": 0.5752,
+          "trader": "avia.",
+          "roi": 0.1601,
+          "value": 45341.23,
+          "avg_price": 0.5749,
           "cur_price": 0.565
         },
         {
-          "trader": "Bettong",
-          "roi": 0.1833,
-          "value": 46402.37,
-          "avg_price": 0.5699,
+          "trader": "ethBELIVER",
+          "roi": 0.4701,
+          "value": 39550,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "ivantoney",
+          "roi": 0.228,
+          "value": 28249.44,
+          "avg_price": 0.56,
           "cur_price": 0.565
         },
         {
           "trader": "Nooserac",
-          "roi": 0.1977,
-          "value": 19775.02,
-          "avg_price": 0.5668,
+          "roi": 0.1688,
+          "value": 26837.52,
+          "avg_price": 0.5624,
           "cur_price": 0.565
         },
         {
           "trader": "GrokEnjoyer",
-          "roi": 0.2772,
+          "roi": 0.1994,
           "value": 17680.7,
           "avg_price": 0.5754,
           "cur_price": 0.565
         },
         {
+          "trader": "thatguythatguy",
+          "roi": 0.3604,
+          "value": 14125,
+          "avg_price": 0.57,
+          "cur_price": 0.565
+        },
+        {
           "trader": "spreadcorearb",
-          "roi": 0.1707,
+          "roi": 0.1751,
           "value": 13221,
           "avg_price": 0.57,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "GEAEW",
+          "roi": 0.383,
+          "value": 5085,
+          "avg_price": 0.56,
           "cur_price": 0.565
         }
       ]
@@ -234,36 +254,6 @@
           "roi": 0.3097,
           "value": 2758.07,
           "avg_price": 0.74,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "CHI vs. CIN: O/U 37.5",
-      "slug": "nfl-chi-cin-2026-08-22-total-37pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 5237.38,
-      "holders": [
-        {
-          "trader": "CAcap",
-          "roi": 0.5567,
-          "value": 2550.72,
-          "avg_price": 0.5049,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1935,
-          "value": 2342.83,
-          "avg_price": 0.4832,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "takeormake",
-          "roi": 0.3528,
-          "value": 343.83,
-          "avg_price": 0.29,
           "cur_price": 0.9995
         }
       ]
@@ -1273,10 +1263,11 @@
     "mls-laf-por-2026-08-22-total-3pt5::Over": 3,
     "wnba-atl-phx-2026-08-22-spread-away-7pt5::Phoenix Mercury": 3,
     "mlb-min-sd-2026-08-22::San Diego Padres": 3,
-    "nfl-chi-cin-2026-08-22-total-37pt5::Under": 2,
-    "dota2-ty-ts8-2026-08-22-game2::Team Spirit": 1,
-    "dota2-ty-ts8-2026-08-22::Team Spirit": 1,
-    "wnba-atl-phx-2026-08-22::Atlanta Dream": 1
+    "nfl-chi-cin-2026-08-22-total-37pt5::Under": 3,
+    "dota2-ty-ts8-2026-08-22-game2::Team Spirit": 2,
+    "dota2-ty-ts8-2026-08-22::Team Spirit": 2,
+    "wnba-atl-phx-2026-08-22::Atlanta Dream": 2,
+    "will-team-vision-win-the-international-2026-20260629212053622::Yes": 1
   },
-  "updated_at": "2026-08-23T05:01:44.719464+00:00"
+  "updated_at": "2026-08-23T05:38:36.279481+00:00"
 }
