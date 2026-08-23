@@ -2,8 +2,7 @@
   "seen_ids": [
     "dota2-vsn2-ts8-2026-08-23-game4::TEAM VISION",
     "lol-hle1-t1-2026-08-23-game1::Hanwha Life Esports",
-    "lol-cfo-tsw-2026-08-23-game3::CTBC Flying Oyster",
-    "lol-fox1-ns-2026-08-23-game2::BNK FEARX"
+    "lol-edg-jdg-2026-08-23::JD Gaming"
   ],
   "signals": [
     {
@@ -11,63 +10,63 @@
       "slug": "dota2-vsn2-ts8-2026-08-23-game4",
       "outcome": "TEAM VISION",
       "num_traders": 8,
-      "total_value": 265081.75,
+      "total_value": 323329.88,
       "holders": [
         {
           "trader": "Hdisllbsj",
           "roi": 0.1785,
-          "value": 119107.01,
+          "value": 145862.93,
           "avg_price": 0.6397,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
           "roi": 0.2029,
-          "value": 55200.28,
+          "value": 67600.34,
           "avg_price": 0.5904,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
           "roi": 0.1934,
-          "value": 30341.61,
+          "value": 35858.27,
           "avg_price": 0.5891,
-          "cur_price": 0.715
+          "cur_price": 0.845
         },
         {
           "trader": "mamo4ka",
           "roi": 0.2055,
-          "value": 18324.21,
+          "value": 22440.52,
           "avg_price": 0.6777,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "Sunshine.Smile",
           "roi": 0.251,
-          "value": 14123.45,
+          "value": 17296.11,
           "avg_price": 0.6107,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "0xf3ce7f",
           "roi": 0.4668,
-          "value": 13534.39,
+          "value": 16574.72,
           "avg_price": 0.6497,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "Barbozaaa321",
           "roi": 0.4904,
-          "value": 10349.92,
+          "value": 12674.9,
           "avg_price": 0.55,
-          "cur_price": 0.69
+          "cur_price": 0.845
         },
         {
           "trader": "what-the-dog-doin",
           "roi": 0.2735,
-          "value": 4100.88,
+          "value": 5022.09,
           "avg_price": 0.6239,
-          "cur_price": 0.69
+          "cur_price": 0.845
         }
       ]
     },
@@ -105,6 +104,36 @@
           "value": 4547.69,
           "avg_price": 0.5465,
           "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-edg-jdg-2026-08-23",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 21536.07,
+      "holders": [
+        {
+          "trader": "hurrican",
+          "roi": 0.2069,
+          "value": 15900,
+          "avg_price": 0.7499,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "MisterVision",
+          "roi": 0.3101,
+          "value": 4348.92,
+          "avg_price": 0.7284,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "StasPanda",
+          "roi": 1.2857,
+          "value": 1287.15,
+          "avg_price": 0.79,
+          "cur_price": 0.795
         }
       ]
     },
@@ -216,43 +245,6 @@
           "value": 4366.15,
           "avg_price": 0.561,
           "cur_price": 0.315
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
-      "slug": "dota2-vsn2-ts8-2026-08-23-game3",
-      "outcome": "Team Spirit",
-      "num_traders": 4,
-      "total_value": 138576.29,
-      "holders": [
-        {
-          "trader": "BOOMBOYS.Kiritych",
-          "roi": 0.2733,
-          "value": 84613.23,
-          "avg_price": 0.4846,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MisterVision",
-          "roi": 0.2097,
-          "value": 21139.05,
-          "avg_price": 0.5099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.2175,
-          "value": 21089.45,
-          "avg_price": 0.4971,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xf3ce7f",
-          "roi": 0.3672,
-          "value": 11734.56,
-          "avg_price": 0.3725,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1272,8 +1264,10 @@
     "dota2-vsn2-ts8-2026-08-23-game2::Team Spirit": 3,
     "dota2-vsn2-ts8-2026-08-23-game2::TEAM VISION": 3,
     "lol-tt-lgd-2026-08-23-game2::LGD Gaming": 3,
-    "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit": 2,
-    "dota2-vsn2-ts8-2026-08-23::TEAM VISION": 1
+    "dota2-vsn2-ts8-2026-08-23-game3::Team Spirit": 3,
+    "dota2-vsn2-ts8-2026-08-23::TEAM VISION": 2,
+    "lol-cfo-tsw-2026-08-23-game3::CTBC Flying Oyster": 1,
+    "lol-fox1-ns-2026-08-23-game2::BNK FEARX": 1
   },
-  "updated_at": "2026-08-23T11:21:14.913366+00:00"
+  "updated_at": "2026-08-23T11:42:14.792793+00:00"
 }

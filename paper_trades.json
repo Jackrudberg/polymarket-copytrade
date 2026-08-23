@@ -23508,7 +23508,7 @@
       "current_value": 55.75,
       "paper_pnl": -44.25,
       "return_percent": -44.25,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 231385.43,
       "traders": [
@@ -23520,7 +23520,7 @@
         "spreadcorearb"
       ],
       "url": "https://polymarket.com/event/dota2-vsn2-ts8-2026-08-23",
-      "consensus_lost_at": "2026-08-23T08:00:28.234025+00:00"
+      "consensus_lost_at": "2026-08-23T11:42:14.771810+00:00"
     },
     {
       "signal_id": "will-team-vision-win-the-international-2026-20260629212053622::Yes",
@@ -23707,7 +23707,7 @@
       "slug": "lol-hle1-t1-2026-08-23-game1",
       "side": "Hanwha Life Esports",
       "alerted_at": "2026-08-23T09:39:07.273360+00:00",
-      "last_seen": "2026-08-23T11:21:14.892524+00:00",
+      "last_seen": "2026-08-23T11:42:14.771810+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -23756,14 +23756,14 @@
       "slug": "dota2-vsn2-ts8-2026-08-23-game4",
       "side": "TEAM VISION",
       "alerted_at": "2026-08-23T11:21:14.892524+00:00",
-      "last_seen": "2026-08-23T11:21:14.892524+00:00",
+      "last_seen": "2026-08-23T11:42:14.771810+00:00",
       "entry_price": 0.692862,
-      "current_price": 0.692862,
+      "current_price": 0.845,
       "stake": 100.0,
       "shares": 144.328982,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 121.96,
+      "paper_pnl": 21.96,
+      "return_percent": 21.96,
       "status": "OPEN",
       "num_traders": 8,
       "combined_value": 265081.75,
@@ -23826,7 +23826,31 @@
         "what-the-dog-doin"
       ],
       "url": "https://polymarket.com/event/lol-fox1-ns-2026-08-23-game2"
+    },
+    {
+      "signal_id": "lol-edg-jdg-2026-08-23::JD Gaming",
+      "market": "LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+      "slug": "lol-edg-jdg-2026-08-23",
+      "side": "JD Gaming",
+      "alerted_at": "2026-08-23T11:42:14.771810+00:00",
+      "last_seen": "2026-08-23T11:42:14.771810+00:00",
+      "entry_price": 0.795,
+      "current_price": 0.795,
+      "stake": 100.0,
+      "shares": 125.786164,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 21536.07,
+      "traders": [
+        "hurrican",
+        "MisterVision",
+        "StasPanda"
+      ],
+      "url": "https://polymarket.com/event/lol-edg-jdg-2026-08-23"
     }
   ],
-  "updated_at": "2026-08-23T11:21:14.892524+00:00"
+  "updated_at": "2026-08-23T11:42:14.771810+00:00"
 }
