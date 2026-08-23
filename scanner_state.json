@@ -1,19 +1,135 @@
 {
   "seen_ids": [
-    "mls-aus-phi-2026-08-22-phi::No",
+    "dota2-ty-ts8-2026-08-22-game2::Team Spirit",
     "wnba-atl-phx-2026-08-22::Atlanta Dream",
-    "mlb-min-sd-2026-08-22::Minnesota Twins",
-    "dota2-ty-ts8-2026-08-22::Team Yandex",
-    "nfl-phi-ne-2026-08-22::Patriots",
-    "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "nfl-chi-cin-2026-08-22::Bengals",
-    "mlb-cin-ari-2026-08-22::Cincinnati Reds",
-    "mls-vwh-dal-2026-08-22-spread-home-1pt5::FC Dallas",
-    "mls-laf-por-2026-08-22-total-3pt5::Over",
-    "wnba-atl-phx-2026-08-22-spread-away-7pt5::Phoenix Mercury",
-    "mlb-min-sd-2026-08-22::San Diego Padres"
+    "nfl-chi-cin-2026-08-22-total-37pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+      "slug": "dota2-ty-ts8-2026-08-22-game2",
+      "outcome": "Team Spirit",
+      "num_traders": 6,
+      "total_value": 390367.56,
+      "holders": [
+        {
+          "trader": "BOOMBOYS.Kiritych",
+          "roi": 0.3297,
+          "value": 270568.7,
+          "avg_price": 0.5131,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "coali10",
+          "roi": 0.3138,
+          "value": 44819.39,
+          "avg_price": 0.5205,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
+          "roi": 0.2555,
+          "value": 38147.08,
+          "avg_price": 0.5882,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "Bettong",
+          "roi": 0.2793,
+          "value": 15854.65,
+          "avg_price": 0.6288,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2847,
+          "value": 13573.71,
+          "avg_price": 0.5782,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.8196,
+          "value": 7404.03,
+          "avg_price": 0.5699,
+          "cur_price": 0.44
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Dream vs. Phoenix Mercury",
+      "slug": "wnba-atl-phx-2026-08-22",
+      "outcome": "Atlanta Dream",
+      "num_traders": 5,
+      "total_value": 24930.11,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.2847,
+          "value": 14775,
+          "avg_price": 0.74,
+          "cur_price": 0.985
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.3528,
+          "value": 3525.85,
+          "avg_price": 0.8394,
+          "cur_price": 0.985
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3008,
+          "value": 2718.06,
+          "avg_price": 0.74,
+          "cur_price": 0.985
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1935,
+          "value": 2335.2,
+          "avg_price": 0.6886,
+          "cur_price": 0.985
+        },
+        {
+          "trader": "CAcap",
+          "roi": 0.5567,
+          "value": 1576,
+          "avg_price": 0.74,
+          "cur_price": 0.985
+        }
+      ]
+    },
+    {
+      "market": "CHI vs. CIN: O/U 37.5",
+      "slug": "nfl-chi-cin-2026-08-22-total-37pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 5237.38,
+      "holders": [
+        {
+          "trader": "CAcap",
+          "roi": 0.5567,
+          "value": 2550.72,
+          "avg_price": 0.5049,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1935,
+          "value": 2342.83,
+          "avg_price": 0.4832,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.3528,
+          "value": 343.83,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Philadelphia Union win on 2026-08-22?",
       "slug": "mls-aus-phi-2026-08-22-phi",
@@ -48,43 +164,6 @@
           "value": 1943.49,
           "avg_price": 0.5299,
           "cur_price": 0.755
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Dream vs. Phoenix Mercury",
-      "slug": "wnba-atl-phx-2026-08-22",
-      "outcome": "Atlanta Dream",
-      "num_traders": 4,
-      "total_value": 9793.46,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1721,
-          "value": 3433.41,
-          "avg_price": 0.6867,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.4344,
-          "value": 2607.68,
-          "avg_price": 0.74,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1932,
-          "value": 2240.37,
-          "avg_price": 0.6886,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "CAcap",
-          "roi": 0.4915,
-          "value": 1512,
-          "avg_price": 0.74,
-          "cur_price": 0.945
         }
       ]
     },
@@ -1517,36 +1596,6 @@
           "cur_price": 0.215
         }
       ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13213.28,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.4934,
-          "value": 11452.8,
-          "avg_price": 0.6666,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Haradwaith",
-          "roi": 0.1546,
-          "value": 1388.49,
-          "avg_price": 0.714,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4784,
-          "value": 371.99,
-          "avg_price": 0.5,
-          "cur_price": 0.685
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -2508,40 +2557,51 @@
     "mlb-atl-mil-2026-08-22::Atlanta Braves": 3,
     "lol-fnc-shft-2026-08-22-game2::Fnatic": 3,
     "lol-sen-fly-2026-08-22-game1::Sentinels": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "mls-vwh-dal-2026-08-22-vwh::No": 1,
-    "mlb-pit-lad-2026-08-22::Los Angeles Dodgers": 1,
-    "mex-gua-tij-2026-08-22-gua::No": 1,
-    "mls-stl-hou-2026-08-22-stl::No": 1,
-    "mls-mia-tor-2026-08-22-spread-home-1pt5::Toronto FC": 1,
-    "bra-int-cam-2026-08-22-int::No": 1,
-    "bra-cru-fla-2026-08-22-fla::No": 1,
-    "mex-gua-tij-2026-08-22-spread-home-1pt5::Club Tijuana": 1,
-    "mex-gua-tij-2026-08-22-tij::No": 1,
-    "bra-cru-fla-2026-08-22-cru::Yes": 1,
-    "mls-mim-lag-2026-08-22-lag::No": 1,
-    "mlb-nym-cws-2026-08-22::Chicago White Sox": 1,
-    "mlb-chc-sea-2026-08-22-total-7pt5::Under": 1,
-    "chi1-cuc-cdu-2026-08-22-cuc::No": 1,
-    "mlb-tb-bal-2026-08-22::Baltimore Orioles": 1,
-    "mls-mia-tor-2026-08-22-tor::Yes": 1,
-    "col1-isf-ad1-2026-08-22-ad1::No": 1,
-    "mls-orl-rsl-2026-08-22-orl::Yes": 1,
-    "bra-int-cam-2026-08-22-cam::No": 1,
-    "mlb-oak-hou-2026-08-22::Athletics": 1,
-    "bol1-aur-pot-2026-08-22-pot::No": 1,
-    "mls-mim-lag-2026-08-22-mim::No": 1,
-    "mlb-chc-sea-2026-08-22::Chicago Cubs": 1,
-    "mls-mia-tor-2026-08-22-draw::No": 1,
-    "mls-vwh-dal-2026-08-22-dal::No": 1,
-    "por-spo-alv-2026-08-22-spo::Yes": 1,
-    "mls-clt-dcu-2026-08-22-dcu::No": 1,
-    "wnba-conn-la-2026-08-22-total-169pt5::Over": 1,
-    "mls-nyr-chi-2026-08-22-chi::No": 1,
-    "mls-stl-hou-2026-08-22-hou::No": 1,
-    "per1-cdg-cuf-2026-08-22-cuf::No": 1,
-    "fl1-psg-ren-2026-08-23-spread-home-2pt5::Paris Saint-Germain FC": 1,
-    "mls-nas-clb-2026-08-22-nas::No": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "mls-vwh-dal-2026-08-22-vwh::No": 2,
+    "mlb-pit-lad-2026-08-22::Los Angeles Dodgers": 2,
+    "mex-gua-tij-2026-08-22-gua::No": 2,
+    "mls-stl-hou-2026-08-22-stl::No": 2,
+    "mls-mia-tor-2026-08-22-spread-home-1pt5::Toronto FC": 2,
+    "bra-int-cam-2026-08-22-int::No": 2,
+    "bra-cru-fla-2026-08-22-fla::No": 2,
+    "mex-gua-tij-2026-08-22-spread-home-1pt5::Club Tijuana": 2,
+    "mex-gua-tij-2026-08-22-tij::No": 2,
+    "bra-cru-fla-2026-08-22-cru::Yes": 2,
+    "mls-mim-lag-2026-08-22-lag::No": 2,
+    "mlb-nym-cws-2026-08-22::Chicago White Sox": 2,
+    "mlb-chc-sea-2026-08-22-total-7pt5::Under": 2,
+    "chi1-cuc-cdu-2026-08-22-cuc::No": 2,
+    "mlb-tb-bal-2026-08-22::Baltimore Orioles": 2,
+    "mls-mia-tor-2026-08-22-tor::Yes": 2,
+    "col1-isf-ad1-2026-08-22-ad1::No": 2,
+    "mls-orl-rsl-2026-08-22-orl::Yes": 2,
+    "bra-int-cam-2026-08-22-cam::No": 2,
+    "mlb-oak-hou-2026-08-22::Athletics": 2,
+    "bol1-aur-pot-2026-08-22-pot::No": 2,
+    "mls-mim-lag-2026-08-22-mim::No": 2,
+    "mlb-chc-sea-2026-08-22::Chicago Cubs": 2,
+    "mls-mia-tor-2026-08-22-draw::No": 2,
+    "mls-vwh-dal-2026-08-22-dal::No": 2,
+    "por-spo-alv-2026-08-22-spo::Yes": 2,
+    "mls-clt-dcu-2026-08-22-dcu::No": 2,
+    "wnba-conn-la-2026-08-22-total-169pt5::Over": 2,
+    "mls-nyr-chi-2026-08-22-chi::No": 2,
+    "mls-stl-hou-2026-08-22-hou::No": 2,
+    "per1-cdg-cuf-2026-08-22-cuf::No": 2,
+    "fl1-psg-ren-2026-08-23-spread-home-2pt5::Paris Saint-Germain FC": 2,
+    "mls-nas-clb-2026-08-22-nas::No": 2,
+    "mls-aus-phi-2026-08-22-phi::No": 1,
+    "mlb-min-sd-2026-08-22::Minnesota Twins": 1,
+    "dota2-ty-ts8-2026-08-22::Team Yandex": 1,
+    "nfl-phi-ne-2026-08-22::Patriots": 1,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 1,
+    "nfl-chi-cin-2026-08-22::Bengals": 1,
+    "mlb-cin-ari-2026-08-22::Cincinnati Reds": 1,
+    "mls-vwh-dal-2026-08-22-spread-home-1pt5::FC Dallas": 1,
+    "mls-laf-por-2026-08-22-total-3pt5::Over": 1,
+    "wnba-atl-phx-2026-08-22-spread-away-7pt5::Phoenix Mercury": 1,
+    "mlb-min-sd-2026-08-22::San Diego Padres": 1
   },
-  "updated_at": "2026-08-23T02:53:45.754722+00:00"
+  "updated_at": "2026-08-23T03:47:29.285969+00:00"
 }
