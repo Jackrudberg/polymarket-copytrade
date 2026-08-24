@@ -1,7 +1,8 @@
 {
   "seen_ids": [
     "lol-gx-g2-2026-08-24::GIANTX",
-    "will-the-republicans-win-the-iowa-governor-race-in-2026::No"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
     {
@@ -9,20 +10,13 @@
       "slug": "lol-gx-g2-2026-08-24",
       "outcome": "GIANTX",
       "num_traders": 5,
-      "total_value": 156921.17,
+      "total_value": 115788.97,
       "holders": [
         {
           "trader": "Donghui",
-          "roi": 0.333,
+          "roi": 0.2327,
           "value": 59969.99,
           "avg_price": 0.1599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sulumos",
-          "roi": 0.1751,
-          "value": 41978.76,
-          "avg_price": 0.2525,
           "cur_price": 0.9995
         },
         {
@@ -34,7 +28,7 @@
         },
         {
           "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.346,
+          "roi": 0.3476,
           "value": 8995.44,
           "avg_price": 0.2566,
           "cur_price": 0.9995
@@ -45,6 +39,73 @@
           "value": 5996.99,
           "avg_price": 0.3999,
           "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1859,
+          "value": 846.56,
+          "avg_price": 0.1526,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 460752.81,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.2436,
+          "value": 457000.7,
+          "avg_price": 0.3792,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1859,
+          "value": 2727.91,
+          "avg_price": 0.3249,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1995,
+          "value": 1024.2,
+          "avg_price": 0.5038,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 26881.21,
+      "holders": [
+        {
+          "trader": "quavoo",
+          "roi": 0.1859,
+          "value": 13425.51,
+          "avg_price": 0.4021,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3476,
+          "value": 13100,
+          "avg_price": 0.67,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1995,
+          "value": 355.7,
+          "avg_price": 0.5,
+          "cur_price": 0.655
         }
       ]
     },
@@ -1081,7 +1142,6 @@
     "mlb-atl-mil-2026-08-22::Atlanta Braves": 3,
     "lol-fnc-shft-2026-08-22-game2::Fnatic": 3,
     "lol-sen-fly-2026-08-22-game1::Sentinels": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "mls-vwh-dal-2026-08-22-vwh::No": 3,
     "mlb-pit-lad-2026-08-22::Los Angeles Dodgers": 3,
     "mex-gua-tij-2026-08-22-gua::No": 3,
@@ -1160,7 +1220,6 @@
     "lol-foxy-hle-2026-08-24-game1::BNK FearX Youth": 3,
     "lol-foxy-hle-2026-08-24-game2::BNK FearX Youth": 3,
     "lol-foxy-hle-2026-08-24-game3::BNK FearX Youth": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports": 3,
     "cs2-g1-leo2-2026-08-24::Leo Team": 3,
     "lol-navi-fnc-2026-08-24::Natus Vincere": 3,
@@ -1168,7 +1227,8 @@
     "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 3,
     "lol-gx-g2-2026-08-24-game1::G2 Esports": 3,
     "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3,
-    "epl-ful-che-2026-08-24-che::Yes": 1
+    "epl-ful-che-2026-08-24-che::Yes": 2,
+    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 1
   },
-  "updated_at": "2026-08-24T21:18:36.131499+00:00"
+  "updated_at": "2026-08-24T21:49:03.750893+00:00"
 }
