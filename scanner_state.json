@@ -2,11 +2,9 @@
   "seen_ids": [
     "lol-navi-fnc-2026-08-24::Natus Vincere",
     "lol-navi-fnc-2026-08-24-game1::Natus Vincere",
-    "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports",
     "lol-navi-fnc-2026-08-24-game2::Natus Vincere",
     "lol-gx-g2-2026-08-24-game1::G2 Esports",
     "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
-    "cs2-g1-leo2-2026-08-24::Leo Team",
     "will-the-republicans-win-the-iowa-governor-race-in-2026::No"
   ],
   "signals": [
@@ -95,43 +93,6 @@
           "value": 525.29,
           "avg_price": 0.44,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Game Handicap: G2 (-1.5) vs GIANTX (+1.5)",
-      "slug": "lol-gx-g2-2026-08-24-game-handicap-home-1pt5",
-      "outcome": "G2 Esports",
-      "num_traders": 4,
-      "total_value": 47412.24,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 32096.02,
-          "avg_price": 0.5899,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.2265,
-          "value": 5479.94,
-          "avg_price": 0.58,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "MagicalJourney",
-          "roi": 0.2269,
-          "value": 5270.07,
-          "avg_price": 0.58,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 4566.21,
-          "avg_price": 0.6,
-          "cur_price": 0.685
         }
       ]
     },
@@ -226,36 +187,6 @@
       ]
     },
     {
-      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage",
-      "slug": "cs2-g1-leo2-2026-08-24",
-      "outcome": "Leo Team",
-      "num_traders": 3,
-      "total_value": 10840.2,
-      "holders": [
-        {
-          "trader": "vibing123",
-          "roi": 0.2265,
-          "value": 7091.21,
-          "avg_price": 0.4739,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 2617.55,
-          "avg_price": 0.31,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 1131.44,
-          "avg_price": 0.3,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Will the Republicans win the Iowa governor race in 2026?",
       "slug": "will-the-republicans-win-the-iowa-governor-race-in-2026",
       "outcome": "No",
@@ -286,32 +217,69 @@
       ]
     },
     {
-      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
-      "slug": "lol-gx-g2-2026-08-24",
-      "outcome": "GIANTX",
-      "num_traders": 3,
-      "total_value": 26109.89,
+      "market": "Game Handicap: G2 (-1.5) vs GIANTX (+1.5)",
+      "slug": "lol-gx-g2-2026-08-24-game-handicap-home-1pt5",
+      "outcome": "G2 Esports",
+      "num_traders": 4,
+      "total_value": 47412.24,
       "holders": [
         {
-          "trader": "Donghui",
-          "roi": 0.2359,
-          "value": 10250.0,
-          "avg_price": 0.1799,
-          "cur_price": 0.205
+          "trader": "SPCEXBUYER",
+          "roi": 0.1595,
+          "value": 32096.02,
+          "avg_price": 0.5899,
+          "cur_price": 0.685
         },
         {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2865,
-          "value": 8200.0,
-          "avg_price": 0.16,
-          "cur_price": 0.205
+          "trader": "vibing123",
+          "roi": 0.2265,
+          "value": 5479.94,
+          "avg_price": 0.58,
+          "cur_price": 0.685
         },
         {
-          "trader": "BrotherObama",
-          "roi": 0.2041,
-          "value": 7659.89,
-          "avg_price": 0.1873,
-          "cur_price": 0.205
+          "trader": "MagicalJourney",
+          "roi": 0.2269,
+          "value": 5270.07,
+          "avg_price": 0.58,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.4316,
+          "value": 4566.21,
+          "avg_price": 0.6,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage",
+      "slug": "cs2-g1-leo2-2026-08-24",
+      "outcome": "Leo Team",
+      "num_traders": 3,
+      "total_value": 10840.2,
+      "holders": [
+        {
+          "trader": "vibing123",
+          "roi": 0.2265,
+          "value": 7091.21,
+          "avg_price": 0.4739,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SPCEXBUYER",
+          "roi": 0.1595,
+          "value": 2617.55,
+          "avg_price": 0.31,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.4316,
+          "value": 1131.44,
+          "avg_price": 0.3,
+          "cur_price": 0.9995
         }
       ]
     }
@@ -1354,7 +1322,9 @@
     "lol-foxy-hle-2026-08-24-game2::BNK FearX Youth": 3,
     "lol-foxy-hle-2026-08-24-game3::BNK FearX Youth": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "lol-gx-g2-2026-08-24::GIANTX": 2
+    "lol-gx-g2-2026-08-24::GIANTX": 3,
+    "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports": 1,
+    "cs2-g1-leo2-2026-08-24::Leo Team": 1
   },
-  "updated_at": "2026-08-24T18:30:25.605182+00:00"
+  "updated_at": "2026-08-24T19:12:04.143871+00:00"
 }
