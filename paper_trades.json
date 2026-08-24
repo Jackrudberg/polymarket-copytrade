@@ -23947,7 +23947,7 @@
       "current_value": 114.46,
       "paper_pnl": 14.46,
       "return_percent": 14.46,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 41078.38,
       "traders": [
@@ -23955,7 +23955,8 @@
         "hurrican",
         "Gooooooollllllllll"
       ],
-      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24-game3"
+      "url": "https://polymarket.com/event/lol-foxy-hle-2026-08-24-game3",
+      "consensus_lost_at": "2026-08-24T16:00:24.575508+00:00"
     },
     {
       "signal_id": "lol-navi-fnc-2026-08-24::Natus Vincere",
@@ -23963,14 +23964,14 @@
       "slug": "lol-navi-fnc-2026-08-24",
       "side": "Natus Vincere",
       "alerted_at": "2026-08-24T15:19:23.927618+00:00",
-      "last_seen": "2026-08-24T15:19:23.927618+00:00",
+      "last_seen": "2026-08-24T16:00:24.575508+00:00",
       "entry_price": 0.355,
-      "current_price": 0.355,
+      "current_price": 0.655,
       "stake": 100.0,
       "shares": 281.690141,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 184.51,
+      "paper_pnl": 84.51,
+      "return_percent": 84.51,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 31861.76,
@@ -24004,7 +24005,31 @@
         "Gooooooollllllllll"
       ],
       "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24-game1"
+    },
+    {
+      "signal_id": "will-the-republicans-win-the-iowa-governor-race-in-2026::No",
+      "market": "Will the Republicans win the Iowa governor race in 2026?",
+      "slug": "will-the-republicans-win-the-iowa-governor-race-in-2026",
+      "side": "No",
+      "alerted_at": "2026-08-24T16:00:24.575508+00:00",
+      "last_seen": "2026-08-24T16:00:24.575508+00:00",
+      "entry_price": 0.74,
+      "current_price": 0.74,
+      "stake": 100.0,
+      "shares": 135.135135,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 886.54,
+      "traders": [
+        "donthackme",
+        "e46m3",
+        "Hourglass"
+      ],
+      "url": "https://polymarket.com/event/will-the-republicans-win-the-iowa-governor-race-in-2026"
     }
   ],
-  "updated_at": "2026-08-24T15:19:23.927618+00:00"
+  "updated_at": "2026-08-24T16:00:24.575508+00:00"
 }
