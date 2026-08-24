@@ -1,93 +1,35 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA"
+  ],
   "signals": [
     {
       "market": "Spread: TEN (-3.5)",
       "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
       "outcome": "SEA",
       "num_traders": 3,
-      "total_value": 14006.05,
+      "total_value": 875.12,
       "holders": [
         {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.4165,
-          "value": 13695.62,
-          "avg_price": 0.5399,
-          "cur_price": 0.5475
-        },
-        {
           "trader": "quavoo",
-          "roi": 0.9016,
-          "value": 200.93,
+          "roi": 0.1674,
+          "value": 330.3,
           "avg_price": 0.5132,
-          "cur_price": 0.5475
+          "cur_price": 0.9
         },
         {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.5656,
-          "value": 109.5,
-          "avg_price": 0.5,
-          "cur_price": 0.5475
-        }
-      ]
-    },
-    {
-      "market": "Seahawks vs. Titans",
-      "slug": "nfl-sea-ten-2026-08-24",
-      "outcome": "Seahawks",
-      "num_traders": 3,
-      "total_value": 349592.64,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.6628,
-          "value": 223501.49,
-          "avg_price": 0.455,
-          "cur_price": 0.79
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3928,
+          "value": 323.1,
+          "avg_price": 0.5499,
+          "cur_price": 0.9
         },
         {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.448,
-          "value": 103727.83,
-          "avg_price": 0.4013,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "quavoo",
-          "roi": 1.2403,
-          "value": 22363.32,
-          "avg_price": 0.3872,
-          "cur_price": 0.79
-        }
-      ]
-    },
-    {
-      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 7.5",
-      "slug": "mlb-atl-mil-2026-08-23-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 38881.17,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.6628,
-          "value": 32844.41,
-          "avg_price": 0.4353,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.448,
-          "value": 4100.18,
-          "avg_price": 0.53,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "quavoo",
-          "roi": 1.2403,
-          "value": 1936.58,
-          "avg_price": 0.5194,
-          "cur_price": 0.285
+          "trader": "sentrio",
+          "roi": 0.2572,
+          "value": 221.72,
+          "avg_price": 0.55,
+          "cur_price": 0.9
         }
       ]
     }
@@ -1121,9 +1063,8 @@
     "cs2-fut-ts7-2026-08-23::Spirit": 3,
     "epl-new-liv-2026-08-23-liv::No": 3,
     "lal-elc-bar-2026-08-23-bar::Yes": 3,
-    "nfl-sea-ten-2026-08-24::Seahawks": 2,
-    "mlb-atl-mil-2026-08-23-total-7pt5::Over": 2,
-    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA": 1
+    "nfl-sea-ten-2026-08-24::Seahawks": 3,
+    "mlb-atl-mil-2026-08-23-total-7pt5::Over": 3
   },
-  "updated_at": "2026-08-24T04:10:47.927757+00:00"
+  "updated_at": "2026-08-24T05:02:24.576175+00:00"
 }
