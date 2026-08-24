@@ -1,220 +1,95 @@
 {
   "seen_ids": [
-    "lol-gx-g2-2026-08-24::GIANTX"
+    "epl-ful-che-2026-08-24-che::Yes",
+    "lol-gx-g2-2026-08-24::GIANTX",
+    "will-the-republicans-win-the-iowa-governor-race-in-2026::No"
   ],
   "signals": [
+    {
+      "market": "Will Chelsea FC win on 2026-08-24?",
+      "slug": "epl-ful-che-2026-08-24-che",
+      "outcome": "Yes",
+      "num_traders": 5,
+      "total_value": 1593395.13,
+      "holders": [
+        {
+          "trader": "jjj1995",
+          "roi": 0.2022,
+          "value": 1192588.29,
+          "avg_price": 0.5099,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "Sparkling8899",
+          "roi": 0.205,
+          "value": 258340.35,
+          "avg_price": 0.51,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "pingan123",
+          "roi": 0.1775,
+          "value": 106200,
+          "avg_price": 0.51,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "mikesports",
+          "roi": 0.1784,
+          "value": 26549.99,
+          "avg_price": 0.71,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "oudine2",
+          "roi": 0.6929,
+          "value": 9716.5,
+          "avg_price": 0.71,
+          "cur_price": 0.885
+        }
+      ]
+    },
     {
       "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
       "slug": "lol-gx-g2-2026-08-24",
       "outcome": "GIANTX",
-      "num_traders": 4,
-      "total_value": 114942.41,
+      "num_traders": 5,
+      "total_value": 156921.17,
       "holders": [
         {
           "trader": "Donghui",
-          "roi": 0.2019,
+          "roi": 0.333,
           "value": 59969.99,
           "avg_price": 0.1599,
           "cur_price": 0.9995
         },
         {
+          "trader": "sulumos",
+          "roi": 0.1751,
+          "value": 41978.76,
+          "avg_price": 0.2525,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.3698,
+          "roi": 0.4835,
           "value": 39979.99,
           "avg_price": 0.16,
           "cur_price": 0.9995
         },
         {
           "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.2657,
+          "roi": 0.346,
           "value": 8995.44,
           "avg_price": 0.2566,
           "cur_price": 0.9995
         },
         {
           "trader": "BrotherObama",
-          "roi": 0.1957,
+          "roi": 0.211,
           "value": 5996.99,
           "avg_price": 0.3999,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
-      "slug": "lol-navi-fnc-2026-08-24",
-      "outcome": "Natus Vincere",
-      "num_traders": 6,
-      "total_value": 293268.71,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 141710.09,
-          "avg_price": 0.4642,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2101,
-          "value": 52640.45,
-          "avg_price": 0.4373,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.1957,
-          "value": 49971.36,
-          "avg_price": 0.4505,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MagicalJourney",
-          "roi": 0.2269,
-          "value": 34982.4,
-          "avg_price": 0.4362,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.2265,
-          "value": 12041.19,
-          "avg_price": 0.4465,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 1923.22,
-          "avg_price": 0.43,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
-      "slug": "lol-navi-fnc-2026-08-24-game1",
-      "outcome": "Natus Vincere",
-      "num_traders": 4,
-      "total_value": 112555.33,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 71553.11,
-          "avg_price": 0.446,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3414,
-          "value": 29159.78,
-          "avg_price": 0.2679,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2101,
-          "value": 11317.15,
-          "avg_price": 0.4499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 525.29,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
-      "slug": "lol-navi-fnc-2026-08-24-game2",
-      "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 280757.88,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 278903.34,
-          "avg_price": 0.4484,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2101,
-          "value": 1520.7,
-          "avg_price": 0.4499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 333.84,
-          "avg_price": 0.4399,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: GIANTX vs G2 Esports - Game 1 Winner",
-      "slug": "lol-gx-g2-2026-08-24-game1",
-      "outcome": "G2 Esports",
-      "num_traders": 3,
-      "total_value": 43372.02,
-      "holders": [
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1595,
-          "value": 35911.35,
-          "avg_price": 0.8099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3414,
-          "value": 5461.67,
-          "avg_price": 0.8119,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4316,
-          "value": 1999,
-          "avg_price": 0.75,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 20057.71,
-      "holders": [
-        {
-          "trader": "Gucky-45",
-          "roi": 0.4048,
-          "value": 12470.0,
-          "avg_price": 0.5,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3414,
-          "value": 6563.52,
-          "avg_price": 0.21,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "anciano",
-          "roi": 0.2925,
-          "value": 1024.19,
-          "avg_price": 0.1541,
-          "cur_price": 0.215
         }
       ]
     },
@@ -227,21 +102,21 @@
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.2601,
+          "roi": 0.2202,
           "value": 622.42,
           "avg_price": 0.7203,
           "cur_price": 0.735
         },
         {
           "trader": "e46m3",
-          "roi": 0.8641,
+          "roi": 0.771,
           "value": 137.59,
           "avg_price": 0.75,
           "cur_price": 0.735
         },
         {
           "trader": "Hourglass",
-          "roi": 0.3625,
+          "roi": 0.3616,
           "value": 120.54,
           "avg_price": 0.76,
           "cur_price": 0.735
@@ -1289,12 +1164,11 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports": 3,
     "cs2-g1-leo2-2026-08-24::Leo Team": 3,
-    "lol-navi-fnc-2026-08-24::Natus Vincere": 2,
-    "lol-navi-fnc-2026-08-24-game1::Natus Vincere": 2,
-    "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 2,
-    "lol-gx-g2-2026-08-24-game1::G2 Esports": 2,
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 2,
-    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 2
+    "lol-navi-fnc-2026-08-24::Natus Vincere": 3,
+    "lol-navi-fnc-2026-08-24-game1::Natus Vincere": 3,
+    "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 3,
+    "lol-gx-g2-2026-08-24-game1::G2 Esports": 3,
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3
   },
-  "updated_at": "2026-08-24T20:12:50.839110+00:00"
+  "updated_at": "2026-08-24T20:50:57.023990+00:00"
 }
