@@ -24092,7 +24092,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10840.2,
       "traders": [
@@ -24100,7 +24100,8 @@
         "SPCEXBUYER",
         "Gooooooollllllllll"
       ],
-      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24"
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24",
+      "consensus_lost_at": "2026-08-24T19:46:36.646927+00:00"
     },
     {
       "signal_id": "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports",
@@ -24116,7 +24117,7 @@
       "current_value": 118.1,
       "paper_pnl": 18.1,
       "return_percent": 18.1,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 35682.42,
       "traders": [
@@ -24124,7 +24125,8 @@
         "vibing123",
         "Gooooooollllllllll"
       ],
-      "url": "https://polymarket.com/event/lol-gx-g2-2026-08-24-game-handicap-home-1pt5"
+      "url": "https://polymarket.com/event/lol-gx-g2-2026-08-24-game-handicap-home-1pt5",
+      "consensus_lost_at": "2026-08-24T19:46:36.646927+00:00"
     },
     {
       "signal_id": "lol-gx-g2-2026-08-24-game1::G2 Esports",
@@ -24156,15 +24158,15 @@
       "slug": "lol-gx-g2-2026-08-24",
       "side": "GIANTX",
       "alerted_at": "2026-08-24T17:19:28.057503+00:00",
-      "last_seen": "2026-08-24T17:19:28.057503+00:00",
+      "last_seen": "2026-08-24T19:46:36.646927+00:00",
       "entry_price": 0.205,
-      "current_price": 0.205,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 487.804878,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 487.56,
+      "paper_pnl": 387.56,
+      "return_percent": 387.56,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 26109.89,
       "traders": [
@@ -24176,5 +24178,5 @@
       "consensus_lost_at": "2026-08-24T18:30:25.583793+00:00"
     }
   ],
-  "updated_at": "2026-08-24T19:12:04.122180+00:00"
+  "updated_at": "2026-08-24T19:46:36.646927+00:00"
 }

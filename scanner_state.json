@@ -1,13 +1,45 @@
 {
   "seen_ids": [
-    "lol-navi-fnc-2026-08-24::Natus Vincere",
-    "lol-navi-fnc-2026-08-24-game1::Natus Vincere",
-    "lol-navi-fnc-2026-08-24-game2::Natus Vincere",
-    "lol-gx-g2-2026-08-24-game1::G2 Esports",
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
-    "will-the-republicans-win-the-iowa-governor-race-in-2026::No"
+    "lol-gx-g2-2026-08-24::GIANTX"
   ],
   "signals": [
+    {
+      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
+      "slug": "lol-gx-g2-2026-08-24",
+      "outcome": "GIANTX",
+      "num_traders": 4,
+      "total_value": 114942.41,
+      "holders": [
+        {
+          "trader": "Donghui",
+          "roi": 0.2019,
+          "value": 59969.99,
+          "avg_price": 0.1599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3698,
+          "value": 39979.99,
+          "avg_price": 0.16,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.2657,
+          "value": 8995.44,
+          "avg_price": 0.2566,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.1957,
+          "value": 5996.99,
+          "avg_price": 0.3999,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
       "slug": "lol-navi-fnc-2026-08-24",
@@ -1322,9 +1354,14 @@
     "lol-foxy-hle-2026-08-24-game2::BNK FearX Youth": 3,
     "lol-foxy-hle-2026-08-24-game3::BNK FearX Youth": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "lol-gx-g2-2026-08-24::GIANTX": 3,
-    "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports": 1,
-    "cs2-g1-leo2-2026-08-24::Leo Team": 1
+    "lol-gx-g2-2026-08-24-game-handicap-home-1pt5::G2 Esports": 2,
+    "cs2-g1-leo2-2026-08-24::Leo Team": 2,
+    "lol-navi-fnc-2026-08-24::Natus Vincere": 1,
+    "lol-navi-fnc-2026-08-24-game1::Natus Vincere": 1,
+    "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 1,
+    "lol-gx-g2-2026-08-24-game1::G2 Esports": 1,
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 1,
+    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 1
   },
-  "updated_at": "2026-08-24T19:12:04.143871+00:00"
+  "updated_at": "2026-08-24T19:46:36.664069+00:00"
 }
