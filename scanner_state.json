@@ -1,6 +1,101 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "nfl-sea-ten-2026-08-24::Seahawks",
+    "mlb-atl-mil-2026-08-23-total-7pt5::Over",
+    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA"
+  ],
+  "signals": [
+    {
+      "market": "Seahawks vs. Titans",
+      "slug": "nfl-sea-ten-2026-08-24",
+      "outcome": "Seahawks",
+      "num_traders": 3,
+      "total_value": 349592.64,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.6628,
+          "value": 223501.49,
+          "avg_price": 0.455,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.448,
+          "value": 103727.83,
+          "avg_price": 0.4013,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "quavoo",
+          "roi": 1.2403,
+          "value": 22363.32,
+          "avg_price": 0.3872,
+          "cur_price": 0.79
+        }
+      ]
+    },
+    {
+      "market": "Atlanta Braves vs. Milwaukee Brewers: O/U 7.5",
+      "slug": "mlb-atl-mil-2026-08-23-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 38881.17,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.6628,
+          "value": 32844.41,
+          "avg_price": 0.4353,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.448,
+          "value": 4100.18,
+          "avg_price": 0.53,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "quavoo",
+          "roi": 1.2403,
+          "value": 1936.58,
+          "avg_price": 0.5194,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Spread: TEN (-3.5)",
+      "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
+      "outcome": "SEA",
+      "num_traders": 3,
+      "total_value": 22639.93,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.6628,
+          "value": 22138.13,
+          "avg_price": 0.5399,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "quavoo",
+          "roi": 1.2403,
+          "value": 324.8,
+          "avg_price": 0.5132,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.448,
+          "value": 177,
+          "avg_price": 0.5,
+          "cur_price": 0.885
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -1031,5 +1126,5 @@
     "epl-new-liv-2026-08-23-liv::No": 3,
     "lal-elc-bar-2026-08-23-bar::Yes": 3
   },
-  "updated_at": "2026-08-24T00:34:09.899599+00:00"
+  "updated_at": "2026-08-24T02:10:12.143603+00:00"
 }
