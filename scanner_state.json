@@ -1,54 +1,9 @@
 {
   "seen_ids": [
-    "lol-gx-g2-2026-08-24::GIANTX",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
-    {
-      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
-      "slug": "lol-gx-g2-2026-08-24",
-      "outcome": "GIANTX",
-      "num_traders": 5,
-      "total_value": 115788.97,
-      "holders": [
-        {
-          "trader": "Donghui",
-          "roi": 0.2327,
-          "value": 59969.99,
-          "avg_price": 0.1599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.4835,
-          "value": 39979.99,
-          "avg_price": 0.16,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3476,
-          "value": 8995.44,
-          "avg_price": 0.2566,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.211,
-          "value": 5996.99,
-          "avg_price": 0.3999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "quavoo",
-          "roi": 0.1859,
-          "value": 846.56,
-          "avg_price": 0.1526,
-          "cur_price": 0.9995
-        }
-      ]
-    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -110,6 +65,50 @@
       ]
     },
     {
+      "market": "LoL: GIANTX vs G2 Esports (BO3) - LEC Regular Season",
+      "slug": "lol-gx-g2-2026-08-24",
+      "outcome": "GIANTX",
+      "num_traders": 5,
+      "total_value": 115788.97,
+      "holders": [
+        {
+          "trader": "Donghui",
+          "roi": 0.2327,
+          "value": 59969.99,
+          "avg_price": 0.1599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.4835,
+          "value": 39979.99,
+          "avg_price": 0.16,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3476,
+          "value": 8995.44,
+          "avg_price": 0.2566,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.211,
+          "value": 5996.99,
+          "avg_price": 0.3999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1859,
+          "value": 846.56,
+          "avg_price": 0.1526,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
       "market": "Will the Republicans win the Iowa governor race in 2026?",
       "slug": "will-the-republicans-win-the-iowa-governor-race-in-2026",
       "outcome": "No",
@@ -136,50 +135,6 @@
           "value": 120.54,
           "avg_price": 0.76,
           "cur_price": 0.735
-        }
-      ]
-    },
-    {
-      "market": "Will Chelsea FC win on 2026-08-24?",
-      "slug": "epl-ful-che-2026-08-24-che",
-      "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 1593395.13,
-      "holders": [
-        {
-          "trader": "jjj1995",
-          "roi": 0.2022,
-          "value": 1192588.29,
-          "avg_price": 0.5099,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "Sparkling8899",
-          "roi": 0.205,
-          "value": 258340.35,
-          "avg_price": 0.51,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "pingan123",
-          "roi": 0.1775,
-          "value": 106200,
-          "avg_price": 0.51,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "mikesports",
-          "roi": 0.1784,
-          "value": 26549.99,
-          "avg_price": 0.71,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "oudine2",
-          "roi": 0.6929,
-          "value": 9716.5,
-          "avg_price": 0.71,
-          "cur_price": 0.885
         }
       ]
     }
@@ -1227,8 +1182,9 @@
     "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 3,
     "lol-gx-g2-2026-08-24-game1::G2 Esports": 3,
     "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3,
-    "epl-ful-che-2026-08-24-che::Yes": 2,
-    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 1
+    "epl-ful-che-2026-08-24-che::Yes": 3,
+    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 2,
+    "lol-gx-g2-2026-08-24::GIANTX": 1
   },
-  "updated_at": "2026-08-24T21:49:03.750893+00:00"
+  "updated_at": "2026-08-24T22:11:15.708408+00:00"
 }
