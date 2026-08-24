@@ -1,9 +1,5 @@
 {
-  "seen_ids": [
-    "lol-dnsc-drxc-2026-08-24::DN SOOPers Challengers",
-    "lal-mala-dep-2026-08-24-mala::No",
-    "lal-osa-lev-2026-08-24-osa::Yes"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
@@ -92,36 +88,6 @@
           "value": 424.7,
           "avg_price": 0.5192,
           "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Spread: TEN (-3.5)",
-      "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
-      "outcome": "SEA",
-      "num_traders": 3,
-      "total_value": 875.12,
-      "holders": [
-        {
-          "trader": "quavoo",
-          "roi": 0.1674,
-          "value": 330.3,
-          "avg_price": 0.5132,
-          "cur_price": 0.9
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3928,
-          "value": 323.1,
-          "avg_price": 0.5499,
-          "cur_price": 0.9
-        },
-        {
-          "trader": "sentrio",
-          "roi": 0.2572,
-          "value": 221.72,
-          "avg_price": 0.55,
-          "cur_price": 0.9
         }
       ]
     }
@@ -1157,7 +1123,10 @@
     "lal-elc-bar-2026-08-23-bar::Yes": 3,
     "nfl-sea-ten-2026-08-24::Seahawks": 3,
     "mlb-atl-mil-2026-08-23-total-7pt5::Over": 3,
-    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA": 2
+    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA": 3,
+    "lol-dnsc-drxc-2026-08-24::DN SOOPers Challengers": 1,
+    "lal-mala-dep-2026-08-24-mala::No": 1,
+    "lal-osa-lev-2026-08-24-osa::Yes": 1
   },
-  "updated_at": "2026-08-24T06:28:19.751116+00:00"
+  "updated_at": "2026-08-24T07:40:34.379743+00:00"
 }
