@@ -1,10 +1,38 @@
 {
   "seen_ids": [
-    "nfl-sea-ten-2026-08-24::Seahawks",
-    "mlb-atl-mil-2026-08-23-total-7pt5::Over",
     "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA"
   ],
   "signals": [
+    {
+      "market": "Spread: TEN (-3.5)",
+      "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
+      "outcome": "SEA",
+      "num_traders": 3,
+      "total_value": 14006.05,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.4165,
+          "value": 13695.62,
+          "avg_price": 0.5399,
+          "cur_price": 0.5475
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.9016,
+          "value": 200.93,
+          "avg_price": 0.5132,
+          "cur_price": 0.5475
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.5656,
+          "value": 109.5,
+          "avg_price": 0.5,
+          "cur_price": 0.5475
+        }
+      ]
+    },
     {
       "market": "Seahawks vs. Titans",
       "slug": "nfl-sea-ten-2026-08-24",
@@ -62,36 +90,6 @@
           "value": 1936.58,
           "avg_price": 0.5194,
           "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Spread: TEN (-3.5)",
-      "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
-      "outcome": "SEA",
-      "num_traders": 3,
-      "total_value": 22639.93,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.6628,
-          "value": 22138.13,
-          "avg_price": 0.5399,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "quavoo",
-          "roi": 1.2403,
-          "value": 324.8,
-          "avg_price": 0.5132,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.448,
-          "value": 177,
-          "avg_price": 0.5,
-          "cur_price": 0.885
         }
       ]
     }
@@ -1124,7 +1122,9 @@
     "epl-bri-ast-2026-08-23-bri::Yes": 3,
     "cs2-fut-ts7-2026-08-23::Spirit": 3,
     "epl-new-liv-2026-08-23-liv::No": 3,
-    "lal-elc-bar-2026-08-23-bar::Yes": 3
+    "lal-elc-bar-2026-08-23-bar::Yes": 3,
+    "nfl-sea-ten-2026-08-24::Seahawks": 1,
+    "mlb-atl-mil-2026-08-23-total-7pt5::Over": 1
   },
-  "updated_at": "2026-08-24T02:10:12.143603+00:00"
+  "updated_at": "2026-08-24T03:17:14.222847+00:00"
 }
