@@ -4951,7 +4951,7 @@
       "current_value": 64.36,
       "paper_pnl": -35.64,
       "return_percent": -35.64,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 68371.59,
       "traders": [
@@ -4960,7 +4960,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "consensus_lost_at": "2026-08-22T09:03:36.354427+00:00"
+      "consensus_lost_at": "2026-08-24T16:49:21.473434+00:00"
     },
     {
       "signal_id": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329843::Yes",
@@ -23964,14 +23964,14 @@
       "slug": "lol-navi-fnc-2026-08-24",
       "side": "Natus Vincere",
       "alerted_at": "2026-08-24T15:19:23.927618+00:00",
-      "last_seen": "2026-08-24T16:00:24.575508+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
       "entry_price": 0.355,
-      "current_price": 0.655,
+      "current_price": 0.9765,
       "stake": 100.0,
       "shares": 281.690141,
-      "current_value": 184.51,
-      "paper_pnl": 84.51,
-      "return_percent": 84.51,
+      "current_value": 275.07,
+      "paper_pnl": 175.07,
+      "return_percent": 175.07,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 31861.76,
@@ -23988,14 +23988,14 @@
       "slug": "lol-navi-fnc-2026-08-24-game1",
       "side": "Natus Vincere",
       "alerted_at": "2026-08-24T15:19:23.927618+00:00",
-      "last_seen": "2026-08-24T15:19:23.927618+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
       "entry_price": 0.295,
-      "current_price": 0.295,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 338.983051,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 338.81,
+      "paper_pnl": 238.81,
+      "return_percent": 238.81,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 6887.77,
@@ -24012,7 +24012,7 @@
       "slug": "will-the-republicans-win-the-iowa-governor-race-in-2026",
       "side": "No",
       "alerted_at": "2026-08-24T16:00:24.575508+00:00",
-      "last_seen": "2026-08-24T16:00:24.575508+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
       "entry_price": 0.74,
       "current_price": 0.74,
       "stake": 100.0,
@@ -24029,7 +24029,79 @@
         "Hourglass"
       ],
       "url": "https://polymarket.com/event/will-the-republicans-win-the-iowa-governor-race-in-2026"
+    },
+    {
+      "signal_id": "lol-navi-fnc-2026-08-24-game2::Natus Vincere",
+      "market": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
+      "slug": "lol-navi-fnc-2026-08-24-game2",
+      "side": "Natus Vincere",
+      "alerted_at": "2026-08-24T16:49:21.473434+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
+      "entry_price": 0.97,
+      "current_price": 0.97,
+      "stake": 100.0,
+      "shares": 103.092784,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 272471.38,
+      "traders": [
+        "SPCEXBUYER",
+        "TAIWANNUMBERONE",
+        "Gooooooollllllllll"
+      ],
+      "url": "https://polymarket.com/event/lol-navi-fnc-2026-08-24-game2"
+    },
+    {
+      "signal_id": "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
+      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "side": "Yes",
+      "alerted_at": "2026-08-24T16:49:21.473434+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
+      "entry_price": 0.215,
+      "current_price": 0.215,
+      "stake": 100.0,
+      "shares": 465.116279,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 20057.71,
+      "traders": [
+        "Gucky-45",
+        "PEYZ-BIGGEST-FAN",
+        "anciano"
+      ],
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals"
+    },
+    {
+      "signal_id": "cs2-g1-leo2-2026-08-24::Leo Team",
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage",
+      "slug": "cs2-g1-leo2-2026-08-24",
+      "side": "Leo Team",
+      "alerted_at": "2026-08-24T16:49:21.473434+00:00",
+      "last_seen": "2026-08-24T16:49:21.473434+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10840.2,
+      "traders": [
+        "vibing123",
+        "SPCEXBUYER",
+        "Gooooooollllllllll"
+      ],
+      "url": "https://polymarket.com/event/cs2-g1-leo2-2026-08-24"
     }
   ],
-  "updated_at": "2026-08-24T16:00:24.575508+00:00"
+  "updated_at": "2026-08-24T16:49:21.473434+00:00"
 }

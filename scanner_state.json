@@ -1,6 +1,10 @@
 {
   "seen_ids": [
     "lol-navi-fnc-2026-08-24::Natus Vincere",
+    "lol-navi-fnc-2026-08-24-game1::Natus Vincere",
+    "lol-navi-fnc-2026-08-24-game2::Natus Vincere",
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
+    "cs2-g1-leo2-2026-08-24::Leo Team",
     "will-the-republicans-win-the-iowa-governor-race-in-2026::No"
   ],
   "signals": [
@@ -8,29 +12,177 @@
       "market": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
       "slug": "lol-navi-fnc-2026-08-24",
       "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 43648.01,
+      "num_traders": 6,
+      "total_value": 301177.95,
       "holders": [
         {
+          "trader": "SPCEXBUYER",
+          "roi": 0.1574,
+          "value": 138449.13,
+          "avg_price": 0.4642,
+          "cur_price": 0.9765
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.2041,
+          "value": 63322.47,
+          "avg_price": 0.4505,
+          "cur_price": 0.9765
+        },
+        {
           "trader": "TAIWANNUMBERONE",
-          "roi": 0.1817,
-          "value": 34496.74,
+          "roi": 0.2865,
+          "value": 51429.11,
           "avg_price": 0.4373,
-          "cur_price": 0.655
+          "cur_price": 0.9765
+        },
+        {
+          "trader": "Donghui",
+          "roi": 0.2359,
+          "value": 34334.18,
+          "avg_price": 0.4199,
+          "cur_price": 0.9765
         },
         {
           "trader": "vibing123",
-          "roi": 0.1592,
-          "value": 7890.93,
+          "roi": 0.1593,
+          "value": 11764.1,
           "avg_price": 0.4465,
-          "cur_price": 0.655
+          "cur_price": 0.9765
         },
         {
           "trader": "Gooooooollllllllll",
-          "roi": 0.4245,
-          "value": 1260.34,
+          "roi": 0.3825,
+          "value": 1878.96,
           "avg_price": 0.43,
-          "cur_price": 0.655
+          "cur_price": 0.9765
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
+      "slug": "lol-navi-fnc-2026-08-24-game1",
+      "outcome": "Natus Vincere",
+      "num_traders": 4,
+      "total_value": 112555.33,
+      "holders": [
+        {
+          "trader": "SPCEXBUYER",
+          "roi": 0.1574,
+          "value": 71553.11,
+          "avg_price": 0.446,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3912,
+          "value": 29159.78,
+          "avg_price": 0.2679,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2865,
+          "value": 11317.15,
+          "avg_price": 0.4499,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.3825,
+          "value": 525.29,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
+      "slug": "lol-navi-fnc-2026-08-24-game2",
+      "outcome": "Natus Vincere",
+      "num_traders": 3,
+      "total_value": 272471.38,
+      "holders": [
+        {
+          "trader": "SPCEXBUYER",
+          "roi": 0.1574,
+          "value": 270671.57,
+          "avg_price": 0.4484,
+          "cur_price": 0.97
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2865,
+          "value": 1475.82,
+          "avg_price": 0.4499,
+          "cur_price": 0.97
+        },
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.3825,
+          "value": 323.99,
+          "avg_price": 0.4399,
+          "cur_price": 0.97
+        }
+      ]
+    },
+    {
+      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 20057.71,
+      "holders": [
+        {
+          "trader": "Gucky-45",
+          "roi": 0.4731,
+          "value": 12470.0,
+          "avg_price": 0.5,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3912,
+          "value": 6563.52,
+          "avg_price": 0.21,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "anciano",
+          "roi": 0.298,
+          "value": 1024.19,
+          "avg_price": 0.1541,
+          "cur_price": 0.215
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: GenOne vs Leo Team (BO3) - NODWIN Clutch Series Group Stage",
+      "slug": "cs2-g1-leo2-2026-08-24",
+      "outcome": "Leo Team",
+      "num_traders": 3,
+      "total_value": 10840.2,
+      "holders": [
+        {
+          "trader": "vibing123",
+          "roi": 0.1593,
+          "value": 7091.21,
+          "avg_price": 0.4739,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SPCEXBUYER",
+          "roi": 0.1574,
+          "value": 2617.55,
+          "avg_price": 0.31,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.3825,
+          "value": 1131.44,
+          "avg_price": 0.3,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -43,21 +195,21 @@
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.4692,
+          "roi": 0.3524,
           "value": 626.65,
           "avg_price": 0.7203,
           "cur_price": 0.74
         },
         {
           "trader": "e46m3",
-          "roi": 0.9982,
+          "roi": 0.9725,
           "value": 138.53,
           "avg_price": 0.75,
           "cur_price": 0.74
         },
         {
           "trader": "Hourglass",
-          "roi": 0.4334,
+          "roi": 0.4103,
           "value": 121.36,
           "avg_price": 0.76,
           "cur_price": 0.74
@@ -91,66 +243,6 @@
           "value": 488.29,
           "avg_price": 0.3076,
           "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
-      "slug": "lol-navi-fnc-2026-08-24-game1",
-      "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 6887.77,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1941,
-          "value": 3392.5,
-          "avg_price": 0.458,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2007,
-          "value": 3340.23,
-          "avg_price": 0.4499,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4437,
-          "value": 155.04,
-          "avg_price": 0.44,
-          "cur_price": 0.295
-        }
-      ]
-    },
-    {
-      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 3 Winner",
-      "slug": "lol-foxy-hle-2026-08-24-game3",
-      "outcome": "BNK FearX Youth",
-      "num_traders": 3,
-      "total_value": 50219.07,
-      "holders": [
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2007,
-          "value": 31890.55,
-          "avg_price": 0.5676,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.1941,
-          "value": 18190.9,
-          "avg_price": 0.5587,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.4437,
-          "value": 137.62,
-          "avg_price": 0.62,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1191,9 +1283,8 @@
     "lal-osa-lev-2026-08-24-osa::Yes": 3,
     "lol-foxy-hle-2026-08-24-game1::BNK FearX Youth": 3,
     "lol-foxy-hle-2026-08-24-game2::BNK FearX Youth": 3,
-    "lol-foxy-hle-2026-08-24-game3::BNK FearX Youth": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "lol-navi-fnc-2026-08-24-game1::Natus Vincere": 1
+    "lol-foxy-hle-2026-08-24-game3::BNK FearX Youth": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2
   },
-  "updated_at": "2026-08-24T16:00:24.597220+00:00"
+  "updated_at": "2026-08-24T16:49:21.494829+00:00"
 }
