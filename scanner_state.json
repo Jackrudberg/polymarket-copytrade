@@ -1,6 +1,39 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "lol-foxy-hle-2026-08-24-game1::BNK FearX Youth"
+  ],
+  "signals": [
+    {
+      "market": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 1 Winner",
+      "slug": "lol-foxy-hle-2026-08-24-game1",
+      "outcome": "BNK FearX Youth",
+      "num_traders": 3,
+      "total_value": 9164.02,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.239,
+          "value": 5490.53,
+          "avg_price": 0.6158,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "johnbaster",
+          "roi": 0.1513,
+          "value": 3218.88,
+          "avg_price": 0.7193,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.2656,
+          "value": 454.61,
+          "avg_price": 0.7894,
+          "cur_price": 0.9995
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -1037,5 +1070,5 @@
     "lal-mala-dep-2026-08-24-mala::No": 3,
     "lal-osa-lev-2026-08-24-osa::Yes": 3
   },
-  "updated_at": "2026-08-24T09:25:04.046415+00:00"
+  "updated_at": "2026-08-24T10:10:45.172115+00:00"
 }
