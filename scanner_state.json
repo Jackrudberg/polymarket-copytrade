@@ -1,6 +1,100 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-dnsc-drxc-2026-08-24::DN SOOPers Challengers",
+    "lal-mala-dep-2026-08-24-mala::No",
+    "lal-osa-lev-2026-08-24-osa::Yes"
+  ],
   "signals": [
+    {
+      "market": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
+      "slug": "lol-dnsc-drxc-2026-08-24",
+      "outcome": "DN SOOPers Challengers",
+      "num_traders": 3,
+      "total_value": 35773.83,
+      "holders": [
+        {
+          "trader": "SPCEXBUYER",
+          "roi": 0.2532,
+          "value": 30617.65,
+          "avg_price": 0.7163,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1711,
+          "value": 4798.9,
+          "avg_price": 0.63,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.36,
+          "value": 357.28,
+          "avg_price": 0.6096,
+          "cur_price": 0.745
+        }
+      ]
+    },
+    {
+      "market": "Will M\u00e1laga CF win on 2026-08-24?",
+      "slug": "lal-mala-dep-2026-08-24-mala",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 20107.21,
+      "holders": [
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.2805,
+          "value": 11900,
+          "avg_price": 0.6,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3857,
+          "value": 5852.42,
+          "avg_price": 0.5975,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1711,
+          "value": 2354.79,
+          "avg_price": 0.5963,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Will CA Osasuna win on 2026-08-24?",
+      "slug": "lal-osa-lev-2026-08-24-osa",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5486.86,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3857,
+          "value": 3881.34,
+          "avg_price": 0.5095,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "sentrio",
+          "roi": 0.1711,
+          "value": 1180.82,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "quavoo",
+          "roi": 0.1501,
+          "value": 424.7,
+          "avg_price": 0.5192,
+          "cur_price": 0.505
+        }
+      ]
+    },
     {
       "market": "Spread: TEN (-3.5)",
       "slug": "nfl-sea-ten-2026-08-24-spread-home-3pt5",
@@ -1063,7 +1157,7 @@
     "lal-elc-bar-2026-08-23-bar::Yes": 3,
     "nfl-sea-ten-2026-08-24::Seahawks": 3,
     "mlb-atl-mil-2026-08-23-total-7pt5::Over": 3,
-    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA": 1
+    "nfl-sea-ten-2026-08-24-spread-home-3pt5::SEA": 2
   },
-  "updated_at": "2026-08-24T05:49:15.998132+00:00"
+  "updated_at": "2026-08-24T06:28:19.751116+00:00"
 }
