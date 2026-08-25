@@ -1,12 +1,131 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696::Yes",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "efl-sot-whu-2026-08-25-sot::No",
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes"
   ],
   "signals": [
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 320000.41,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.3834,
+          "value": 305550,
+          "avg_price": 0.5,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Valen9",
+          "roi": 0.4612,
+          "value": 14123.58,
+          "avg_price": 0.476,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "e46m3",
+          "roi": 2.5911,
+          "value": 326.83,
+          "avg_price": 0.4875,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will Southampton FC win on 2026-08-25?",
+      "slug": "efl-sot-whu-2026-08-25-sot",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 172245.81,
+      "holders": [
+        {
+          "trader": "BaronenBaron",
+          "roi": 0.4695,
+          "value": 99949.97,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "EV-Andars",
+          "roi": 0.4695,
+          "value": 66370.8,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.1603,
+          "value": 5925.04,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Anthropic have the best AI model at the end of August 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8951.84,
+      "holders": [
+        {
+          "trader": "Valen9",
+          "roi": 0.4612,
+          "value": 8009.17,
+          "avg_price": 0.922,
+          "cur_price": 0.989
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.6812,
+          "value": 695.85,
+          "avg_price": 0.0358,
+          "cur_price": 0.989
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.729,
+          "value": 246.82,
+          "avg_price": 0.2862,
+          "cur_price": 0.989
+        }
+      ]
+    },
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 761.31,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.6812,
+          "value": 503.59,
+          "avg_price": 0.0296,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Mysaria",
+          "roi": 0.4653,
+          "value": 152.02,
+          "avg_price": 0.0233,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Valen9",
+          "roi": 0.4612,
+          "value": 105.7,
+          "avg_price": 0.64,
+          "cur_price": 0.715
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -64,96 +183,6 @@
           "value": 630,
           "avg_price": 0.86,
           "cur_price": 0.63
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 16700.06,
-      "holders": [
-        {
-          "trader": "Valen9",
-          "roi": 0.3854,
-          "value": 14123.58,
-          "avg_price": 0.476,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.2179,
-          "value": 2249.65,
-          "avg_price": 0.4799,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "e46m3",
-          "roi": 2.55,
-          "value": 326.83,
-          "avg_price": 0.4875,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will Anthropic have the best AI model at the end of August 2026?",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8951.84,
-      "holders": [
-        {
-          "trader": "Valen9",
-          "roi": 0.3854,
-          "value": 8009.17,
-          "avg_price": 0.922,
-          "cur_price": 0.989
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.7296,
-          "value": 695.85,
-          "avg_price": 0.0358,
-          "cur_price": 0.989
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.5609,
-          "value": 246.82,
-          "avg_price": 0.2862,
-          "cur_price": 0.989
-        }
-      ]
-    },
-    {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 761.31,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.7296,
-          "value": 503.59,
-          "avg_price": 0.0296,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "Mysaria",
-          "roi": 0.4826,
-          "value": 152.02,
-          "avg_price": 0.0233,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.3854,
-          "value": 105.7,
-          "avg_price": 0.64,
-          "cur_price": 0.715
         }
       ]
     }
@@ -1205,7 +1234,9 @@
     "wnba-atl-la-2026-08-24::Los Angeles Sparks": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers": 3
+    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696::Yes": 1
   },
-  "updated_at": "2026-08-25T21:03:36.802454+00:00"
+  "updated_at": "2026-08-25T21:38:56.508121+00:00"
 }
