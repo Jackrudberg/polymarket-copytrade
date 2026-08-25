@@ -1,6 +1,76 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "wnba-atl-la-2026-08-24::Los Angeles Sparks",
+    "wnba-atl-la-2026-08-24-spread-away-10pt5::Los Angeles Sparks"
+  ],
   "signals": [
+    {
+      "market": "Atlanta Dream vs. Los Angeles Sparks",
+      "slug": "wnba-atl-la-2026-08-24",
+      "outcome": "Los Angeles Sparks",
+      "num_traders": 4,
+      "total_value": 15751.2,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.6134,
+          "value": 8523.59,
+          "avg_price": 0.15,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "laozishudaosan",
+          "roi": 0.151,
+          "value": 4602.61,
+          "avg_price": 0.14,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "QuentinChen",
+          "roi": 0.166,
+          "value": 1575,
+          "avg_price": 0.15,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.5801,
+          "value": 1050.0,
+          "avg_price": 0.1599,
+          "cur_price": 0.105
+        }
+      ]
+    },
+    {
+      "market": "Spread: Atlanta Dream (-10.5)",
+      "slug": "wnba-atl-la-2026-08-24-spread-away-10pt5",
+      "outcome": "Los Angeles Sparks",
+      "num_traders": 3,
+      "total_value": 19270.61,
+      "holders": [
+        {
+          "trader": "thatguythatguy",
+          "roi": 0.5801,
+          "value": 10000,
+          "avg_price": 0.5099,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "laozishudaosan",
+          "roi": 0.151,
+          "value": 7609.69,
+          "avg_price": 0.4809,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.225,
+          "value": 1660.92,
+          "avg_price": 0.4869,
+          "cur_price": 0.5
+        }
+      ]
+    },
     {
       "market": "Will the Republicans win the Iowa governor race in 2026?",
       "slug": "will-the-republicans-win-the-iowa-governor-race-in-2026",
@@ -1079,7 +1149,7 @@
     "lol-gx-g2-2026-08-24::GIANTX": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 1
+    "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 2
   },
-  "updated_at": "2026-08-25T02:33:16.426771+00:00"
+  "updated_at": "2026-08-25T03:28:43.170733+00:00"
 }
