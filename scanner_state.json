@@ -1,6 +1,101 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes",
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes"
+  ],
+  "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 428247.53,
+      "holders": [
+        {
+          "trader": "gaven-willwin",
+          "roi": 0.1987,
+          "value": 415410.15,
+          "avg_price": 0.5717,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1911,
+          "value": 12481.68,
+          "avg_price": 0.513,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.8895,
+          "value": 355.7,
+          "avg_price": 0.5,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4890.5,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 1.2332,
+          "value": 3434.98,
+          "avg_price": 0.8851,
+          "cur_price": 0.972
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.8895,
+          "value": 1300.0,
+          "avg_price": 0.2498,
+          "cur_price": 0.972
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1911,
+          "value": 155.52,
+          "avg_price": 0.8161,
+          "cur_price": 0.972
+        }
+      ]
+    },
+    {
+      "market": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+      "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2156.49,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.8895,
+          "value": 1476.66,
+          "avg_price": 0.5012,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "balthazar",
+          "roi": 1.2332,
+          "value": 451.5,
+          "avg_price": 0.5021,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1911,
+          "value": 228.33,
+          "avg_price": 0.6385,
+          "cur_price": 0.645
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -777,8 +872,6 @@
     "lol-bro2-dnf-2026-08-19::DN SOOPers": 3,
     "lol-al-tes-2026-08-19::Anyone's Legend": 3,
     "will-jannik-sinner-win-the-2026-mens-us-open::Yes": 3,
-    "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "lol-gen-kt-2026-08-19-game2::KT Rolster": 3,
     "lol-we-edg-2026-08-19-game1::Team WE": 3,
     "lol-we-edg-2026-08-19-game2::Team WE": 3,
@@ -1047,11 +1140,10 @@
     "epl-ful-che-2026-08-24-che::Yes": 3,
     "lol-gx-g2-2026-08-24::GIANTX": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 3,
     "wnba-atl-la-2026-08-24-spread-away-10pt5::Los Angeles Sparks": 3,
     "wnba-atl-la-2026-08-24::Atlanta Dream": 3,
     "wnba-atl-la-2026-08-24::Los Angeles Sparks": 3
   },
-  "updated_at": "2026-08-25T07:03:22.272333+00:00"
+  "updated_at": "2026-08-25T07:54:14.133535+00:00"
 }
