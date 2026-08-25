@@ -1,11 +1,69 @@
 {
   "seen_ids": [
-    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Anthropic have the best AI model at the end of August 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8933.74,
+      "holders": [
+        {
+          "trader": "Valen9",
+          "roi": 0.2743,
+          "value": 7992.98,
+          "avg_price": 0.922,
+          "cur_price": 0.987
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.7047,
+          "value": 694.44,
+          "avg_price": 0.0358,
+          "cur_price": 0.987
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.5575,
+          "value": 246.32,
+          "avg_price": 0.2862,
+          "cur_price": 0.987
+        }
+      ]
+    },
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 761.31,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.7047,
+          "value": 503.59,
+          "avg_price": 0.0296,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Mysaria",
+          "roi": 0.2647,
+          "value": 152.02,
+          "avg_price": 0.0233,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Valen9",
+          "roi": 0.2743,
+          "value": 105.7,
+          "avg_price": 0.64,
+          "cur_price": 0.715
+        }
+      ]
+    },
     {
       "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
       "slug": "lol-drxc-foxy-2026-08-25",
@@ -70,66 +128,6 @@
           "value": 355.7,
           "avg_price": 0.5,
           "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Will Anthropic have the best AI model at the end of August 2026?",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8933.74,
-      "holders": [
-        {
-          "trader": "Valen9",
-          "roi": 0.2314,
-          "value": 7992.98,
-          "avg_price": 0.922,
-          "cur_price": 0.987
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.7227,
-          "value": 694.44,
-          "avg_price": 0.0358,
-          "cur_price": 0.987
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.548,
-          "value": 246.32,
-          "avg_price": 0.2862,
-          "cur_price": 0.987
-        }
-      ]
-    },
-    {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 761.31,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.7227,
-          "value": 503.59,
-          "avg_price": 0.0296,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "Mysaria",
-          "roi": 0.2658,
-          "value": 152.02,
-          "avg_price": 0.0233,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.2314,
-          "value": 105.7,
-          "avg_price": 0.64,
-          "cur_price": 0.715
         }
       ]
     }
@@ -1181,7 +1179,9 @@
     "wnba-atl-la-2026-08-24::Atlanta Dream": 3,
     "wnba-atl-la-2026-08-24::Los Angeles Sparks": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
+    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
   },
-  "updated_at": "2026-08-25T13:06:59.427366+00:00"
+  "updated_at": "2026-08-25T14:01:45.206907+00:00"
 }
