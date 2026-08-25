@@ -1,36 +1,67 @@
 {
   "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes"
   ],
   "signals": [
     {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 461376.06,
+      "holders": [
+        {
+          "trader": "gaven-willwin",
+          "roi": 0.2822,
+          "value": 431754.95,
+          "avg_price": 0.5738,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "Valen9",
+          "roi": 0.2492,
+          "value": 29259.98,
+          "avg_price": 0.4281,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.5882,
+          "value": 361.13,
+          "avg_price": 0.5,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
       "market": "Will Anthropic have the best AI model at the end of August 2026?",
       "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 8933.74,
+      "total_value": 8902.06,
       "holders": [
         {
           "trader": "Valen9",
-          "roi": 0.3104,
-          "value": 7992.98,
+          "roi": 0.2492,
+          "value": 7964.63,
           "avg_price": 0.922,
-          "cur_price": 0.987
+          "cur_price": 0.9835
         },
         {
           "trader": "balthazar",
-          "roi": 0.6717,
-          "value": 694.44,
+          "roi": 0.6479,
+          "value": 691.98,
           "avg_price": 0.0358,
-          "cur_price": 0.987
+          "cur_price": 0.9835
         },
         {
           "trader": "donthackme",
-          "roi": 0.5835,
-          "value": 246.32,
+          "roi": 0.5882,
+          "value": 245.45,
           "avg_price": 0.2862,
-          "cur_price": 0.987
+          "cur_price": 0.9835
         }
       ]
     },
@@ -43,91 +74,24 @@
       "holders": [
         {
           "trader": "balthazar",
-          "roi": 0.6717,
+          "roi": 0.6479,
           "value": 503.59,
           "avg_price": 0.0296,
           "cur_price": 0.715
         },
         {
           "trader": "Mysaria",
-          "roi": 0.2692,
+          "roi": 0.2639,
           "value": 152.02,
           "avg_price": 0.0233,
           "cur_price": 0.715
         },
         {
           "trader": "Valen9",
-          "roi": 0.3104,
+          "roi": 0.2492,
           "value": 105.7,
           "avg_price": 0.64,
           "cur_price": 0.715
-        }
-      ]
-    },
-    {
-      "market": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
-      "slug": "lol-drxc-foxy-2026-08-25",
-      "outcome": "Kiwoom DRX Challengers",
-      "num_traders": 4,
-      "total_value": 65736.7,
-      "holders": [
-        {
-          "trader": "BBQChickenisthebesttt",
-          "roi": 0.5814,
-          "value": 20280.4,
-          "avg_price": 0.418,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "solo88888",
-          "roi": 0.3416,
-          "value": 19490.76,
-          "avg_price": 0.7999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.4085,
-          "value": 15270.14,
-          "avg_price": 0.3599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.3052,
-          "value": 10695.4,
-          "avg_price": 0.3287,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 444585.83,
-      "holders": [
-        {
-          "trader": "gaven-willwin",
-          "roi": 0.423,
-          "value": 415410.15,
-          "avg_price": 0.5717,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "Valen9",
-          "roi": 0.2314,
-          "value": 28819.98,
-          "avg_price": 0.4281,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.548,
-          "value": 355.7,
-          "avg_price": 0.5,
-          "cur_price": 0.655
         }
       ]
     }
@@ -1180,8 +1144,7 @@
     "wnba-atl-la-2026-08-24::Los Angeles Sparks": 3,
     "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2
+    "lol-drxc-foxy-2026-08-25::Kiwoom DRX Challengers": 3
   },
-  "updated_at": "2026-08-25T14:57:53.175464+00:00"
+  "updated_at": "2026-08-25T15:51:12.775333+00:00"
 }
