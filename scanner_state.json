@@ -1,12 +1,162 @@
 {
   "seen_ids": [
-    "mlb-cle-laa-2026-08-25::Los Angeles Angels",
-    "mlb-chc-ari-2026-08-25::Chicago Cubs",
-    "mlb-cle-laa-2026-08-25-spread-away-1pt5::Los Angeles Angels",
+    "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No",
+    "mlb-bos-nyy-2026-06-06::New York Yankees",
     "lal-rea-rso-2026-08-26-rea::No",
-    "lal-rea-rso-2026-08-26-rso::Yes"
+    "lal-rea-rso-2026-08-26-rso::Yes",
+    "mlb-cle-laa-2026-08-25-spread-away-1pt5::Los Angeles Angels"
   ],
   "signals": [
+    {
+      "market": "Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?",
+      "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 49831.12,
+      "holders": [
+        {
+          "trader": "tourists",
+          "roi": 0.2796,
+          "value": 28056.91,
+          "avg_price": 0.7279,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SnowLover7",
+          "roi": 0.2066,
+          "value": 15069.29,
+          "avg_price": 0.6134,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mrworldwide",
+          "roi": 0.1822,
+          "value": 6704.92,
+          "avg_price": 0.6476,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 11922.08,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4518,
+          "value": 8668.06,
+          "avg_price": 0.5,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.6876,
+          "value": 1738.84,
+          "avg_price": 0.5139,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.435,
+          "value": 1515.18,
+          "avg_price": 0.5219,
+          "cur_price": 0.48
+        }
+      ]
+    },
+    {
+      "market": "Will Real Madrid CF win on 2026-08-26?",
+      "slug": "lal-rea-rso-2026-08-26-rea",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 4659.34,
+      "holders": [
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.4843,
+          "value": 3674.99,
+          "avg_price": 0.25,
+          "cur_price": 0.245
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.435,
+          "value": 685.99,
+          "avg_price": 0.2522,
+          "cur_price": 0.245
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.6835,
+          "value": 298.36,
+          "avg_price": 0.26,
+          "cur_price": 0.245
+        }
+      ]
+    },
+    {
+      "market": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+      "slug": "lal-rea-rso-2026-08-26-rso",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3166.0,
+      "holders": [
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.4843,
+          "value": 1700,
+          "avg_price": 0.09,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1808,
+          "value": 1262.63,
+          "avg_price": 0.09,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.6835,
+          "value": 203.37,
+          "avg_price": 0.09,
+          "cur_price": 0.085
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cleveland Guardians (-1.5)",
+      "slug": "mlb-cle-laa-2026-08-25-spread-away-1pt5",
+      "outcome": "Los Angeles Angels",
+      "num_traders": 3,
+      "total_value": 1309.57,
+      "holders": [
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1808,
+          "value": 600,
+          "avg_price": 0.56,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.6835,
+          "value": 538.57,
+          "avg_price": 0.56,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.6876,
+          "value": 171,
+          "avg_price": 0.56,
+          "cur_price": 0.1
+        }
+      ]
+    },
     {
       "market": "Cleveland Guardians vs. Los Angeles Angels",
       "slug": "mlb-cle-laa-2026-08-25",
@@ -71,96 +221,6 @@
           "value": 1085.2,
           "avg_price": 0.5,
           "cur_price": 0.866
-        }
-      ]
-    },
-    {
-      "market": "Spread: Cleveland Guardians (-1.5)",
-      "slug": "mlb-cle-laa-2026-08-25-spread-away-1pt5",
-      "outcome": "Los Angeles Angels",
-      "num_traders": 3,
-      "total_value": 10803.96,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1789,
-          "value": 4950,
-          "avg_price": 0.56,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.6835,
-          "value": 4443.21,
-          "avg_price": 0.56,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6876,
-          "value": 1410.75,
-          "avg_price": 0.56,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "Will Real Madrid CF win on 2026-08-26?",
-      "slug": "lal-rea-rso-2026-08-26-rea",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 7928.01,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.4843,
-          "value": 3824.99,
-          "avg_price": 0.25,
-          "cur_price": 0.255
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1789,
-          "value": 3792.48,
-          "avg_price": 0.2854,
-          "cur_price": 0.255
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.6835,
-          "value": 310.54,
-          "avg_price": 0.26,
-          "cur_price": 0.255
-        }
-      ]
-    },
-    {
-      "market": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
-      "slug": "lal-rea-rso-2026-08-26-rso",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3166.0,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.4843,
-          "value": 1700,
-          "avg_price": 0.09,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1789,
-          "value": 1262.63,
-          "avg_price": 0.09,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.6835,
-          "value": 203.37,
-          "avg_price": 0.09,
-          "cur_price": 0.085
         }
       ]
     },
@@ -1267,9 +1327,9 @@
     "mlb-min-oak-2026-08-25::Athletics": 3,
     "mlb-phi-sea-2026-08-25::Seattle Mariners": 3,
     "will-mike-mazzei-win-the-2026-oklahoma-governor-republican-primary-election::Yes": 3,
-    "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No": 3,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
-    "mlb-cin-sf-2026-08-25-total-7pt5::Under": 1
+    "mlb-cin-sf-2026-08-25-total-7pt5::Under": 2,
+    "mlb-cle-laa-2026-08-25::Los Angeles Angels": 1,
+    "mlb-chc-ari-2026-08-25::Chicago Cubs": 1
   },
-  "updated_at": "2026-08-26T07:22:59.011515+00:00"
+  "updated_at": "2026-08-26T08:06:50.793643+00:00"
 }

@@ -5299,7 +5299,7 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-26T05:05:05.061115+00:00",
+      "last_seen": "2026-08-26T08:06:50.771888+00:00",
       "entry_price": 0.48,
       "current_price": 0.48,
       "stake": 100.0,
@@ -5307,7 +5307,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10601.21,
       "traders": [
@@ -24496,7 +24496,7 @@
       "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election",
       "side": "No",
       "alerted_at": "2026-08-26T02:45:02.701693+00:00",
-      "last_seen": "2026-08-26T05:05:05.061115+00:00",
+      "last_seen": "2026-08-26T08:06:50.771888+00:00",
       "entry_price": 0.9965,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -24504,7 +24504,7 @@
       "current_value": 100.3,
       "paper_pnl": 0.3,
       "return_percent": 0.3,
-      "status": "CONSENSUS_LOST",
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 49681.56,
       "traders": [
@@ -24554,7 +24554,7 @@
       "current_value": 105.8,
       "paper_pnl": 5.8,
       "return_percent": 5.8,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 41592.86,
       "traders": [
@@ -24563,7 +24563,8 @@
         "AnonymousUsername",
         "VeryLucky888"
       ],
-      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-25-total-7pt5"
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-25-total-7pt5",
+      "consensus_lost_at": "2026-08-26T08:06:50.771888+00:00"
     },
     {
       "signal_id": "mlb-cle-laa-2026-08-25::Los Angeles Angels",
@@ -24646,14 +24647,14 @@
       "slug": "mlb-cle-laa-2026-08-25-spread-away-1pt5",
       "side": "Los Angeles Angels",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T07:22:58.990106+00:00",
+      "last_seen": "2026-08-26T08:06:50.771888+00:00",
       "entry_price": 0.81,
-      "current_price": 0.825,
+      "current_price": 0.1,
       "stake": 100.0,
       "shares": 123.45679,
-      "current_value": 101.85,
-      "paper_pnl": 1.85,
-      "return_percent": 1.85,
+      "current_value": 12.35,
+      "paper_pnl": -87.65,
+      "return_percent": -87.65,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10607.53,
@@ -24694,14 +24695,14 @@
       "slug": "lal-rea-rso-2026-08-26-rea",
       "side": "No",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T07:22:58.990106+00:00",
+      "last_seen": "2026-08-26T08:06:50.771888+00:00",
       "entry_price": 0.255,
-      "current_price": 0.255,
+      "current_price": 0.245,
       "stake": 100.0,
       "shares": 392.156863,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 96.08,
+      "paper_pnl": -3.92,
+      "return_percent": -3.92,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7928.01,
@@ -24718,7 +24719,7 @@
       "slug": "lal-rea-rso-2026-08-26-rso",
       "side": "Yes",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T07:22:58.990106+00:00",
+      "last_seen": "2026-08-26T08:06:50.771888+00:00",
       "entry_price": 0.095,
       "current_price": 0.085,
       "stake": 100.0,
@@ -24788,5 +24789,5 @@
       "consensus_lost_at": "2026-08-26T05:47:08.898363+00:00"
     }
   ],
-  "updated_at": "2026-08-26T07:22:58.990106+00:00"
+  "updated_at": "2026-08-26T08:06:50.771888+00:00"
 }
