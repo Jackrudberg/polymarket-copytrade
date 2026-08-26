@@ -1,59 +1,204 @@
 {
   "seen_ids": [
     "lal-rea-rso-2026-08-26-rea::No",
-    "cs2-navi-m80-2026-08-26::M80",
-    "mlb-tb-det-2026-08-26-total-7pt5::Under",
-    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol"
+    "mlb-chc-ari-2026-08-26::Arizona Diamondbacks",
+    "mlb-pit-sd-2026-08-26-total-8pt5::Under",
+    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol",
+    "mlb-pit-sd-2026-08-26::Pittsburgh Pirates",
+    "mlb-cin-sf-2026-08-26::Cincinnati Reds"
   ],
   "signals": [
     {
       "market": "Will Real Madrid CF win on 2026-08-26?",
       "slug": "lal-rea-rso-2026-08-26-rea",
       "outcome": "No",
-      "num_traders": 6,
-      "total_value": 38964.23,
+      "num_traders": 5,
+      "total_value": 100025.57,
       "holders": [
         {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.209,
-          "value": 19250,
-          "avg_price": 0.19,
-          "cur_price": 0.175
+          "trader": "sbsigner",
+          "roi": 0.1747,
+          "value": 68428.68,
+          "avg_price": 0.2252,
+          "cur_price": 0.305
         },
         {
           "trader": "sulumos",
-          "roi": 0.3695,
-          "value": 12982.46,
+          "roi": 0.2597,
+          "value": 22626.57,
           "avg_price": 0.18,
-          "cur_price": 0.175
+          "cur_price": 0.305
         },
         {
-          "trader": "sbsigner",
-          "roi": 0.2743,
-          "value": 4006.43,
-          "avg_price": 0.2694,
-          "cur_price": 0.175
+          "trader": "GypsyFlattener",
+          "roi": 0.2563,
+          "value": 5548.89,
+          "avg_price": 0.1961,
+          "cur_price": 0.305
         },
         {
           "trader": "abura2025",
-          "roi": 1.4942,
-          "value": 1750,
+          "roi": 0.8793,
+          "value": 3050,
           "avg_price": 0.2,
-          "cur_price": 0.175
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2411,
-          "value": 762.22,
-          "avg_price": 0.18,
-          "cur_price": 0.175
+          "cur_price": 0.305
         },
         {
           "trader": "hi774c",
-          "roi": 0.3997,
-          "value": 213.12,
+          "roi": 0.3573,
+          "value": 371.43,
           "avg_price": 0.26,
-          "cur_price": 0.175
+          "cur_price": 0.305
+        }
+      ]
+    },
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks",
+      "slug": "mlb-chc-ari-2026-08-26",
+      "outcome": "Arizona Diamondbacks",
+      "num_traders": 3,
+      "total_value": 63879.38,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4188,
+          "value": 56428.47,
+          "avg_price": 0.47,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "abura2025",
+          "roi": 0.8793,
+          "value": 5400,
+          "avg_price": 0.49,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.195,
+          "value": 2050.91,
+          "avg_price": 0.4729,
+          "cur_price": 0.54
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. San Diego Padres: O/U 8.5",
+      "slug": "mlb-pit-sd-2026-08-26-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 21556.75,
+      "holders": [
+        {
+          "trader": "hi774c",
+          "roi": 0.3573,
+          "value": 10247.99,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.195,
+          "value": 6270.16,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.6305,
+          "value": 5038.6,
+          "avg_price": 0.51,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Spread: Real Madrid CF (-1.5)",
+      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
+      "outcome": "Real Sociedad de F\u00fatbol",
+      "num_traders": 3,
+      "total_value": 14940.83,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4188,
+          "value": 11216.45,
+          "avg_price": 0.3633,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3573,
+          "value": 3053.44,
+          "avg_price": 0.3881,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.195,
+          "value": 670.94,
+          "avg_price": 0.42,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. San Diego Padres",
+      "slug": "mlb-pit-sd-2026-08-26",
+      "outcome": "Pittsburgh Pirates",
+      "num_traders": 3,
+      "total_value": 10451.46,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4188,
+          "value": 4447.44,
+          "avg_price": 0.43,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "abura2025",
+          "roi": 0.8793,
+          "value": 4350,
+          "avg_price": 0.44,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.195,
+          "value": 1654.02,
+          "avg_price": 0.43,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati Reds vs. San Francisco Giants",
+      "slug": "mlb-cin-sf-2026-08-26",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 6931.5,
+      "holders": [
+        {
+          "trader": "abura2025",
+          "roi": 0.8793,
+          "value": 4050,
+          "avg_price": 0.48,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.195,
+          "value": 1464.12,
+          "avg_price": 0.4835,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.4188,
+          "value": 1417.38,
+          "avg_price": 0.3745,
+          "cur_price": 0.405
         }
       ]
     },
@@ -118,36 +263,6 @@
       ]
     },
     {
-      "market": "Spread: Real Madrid CF (-1.5)",
-      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
-      "outcome": "Real Sociedad de F\u00fatbol",
-      "num_traders": 3,
-      "total_value": 2255.21,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.5091,
-          "value": 1048.63,
-          "avg_price": 0.37,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.3997,
-          "value": 726.62,
-          "avg_price": 0.46,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2411,
-          "value": 479.96,
-          "avg_price": 0.42,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
       "market": "Counter-Strike: Natus Vincere vs M80 - Map 1 Winner",
       "slug": "cs2-navi-m80-2026-08-26-game1",
       "outcome": "Natus Vincere",
@@ -174,96 +289,6 @@
           "value": 3512.23,
           "avg_price": 0.6799,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
-      "slug": "cs2-ts7-dendel-2026-08-26-game2",
-      "outcome": "Spirit",
-      "num_traders": 3,
-      "total_value": 432049.11,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1696,
-          "value": 415869.47,
-          "avg_price": 0.9513,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wiretransferxyz",
-          "roi": 0.3807,
-          "value": 12903.04,
-          "avg_price": 0.729,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fkcvffcjt",
-          "roi": 0.2964,
-          "value": 3276.6,
-          "avg_price": 0.8499,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Real Madrid CF vs. Real Sociedad de F\u00fatbol end in a draw?",
-      "slug": "lal-rea-rso-2026-08-26-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 23930.78,
-      "holders": [
-        {
-          "trader": "sbsigner",
-          "roi": 0.3695,
-          "value": 18773.66,
-          "avg_price": 0.85,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.5296,
-          "value": 4638.99,
-          "avg_price": 0.8499,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3747,
-          "value": 518.13,
-          "avg_price": 0.8171,
-          "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 23710.38,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1696,
-          "value": 13303.48,
-          "avg_price": 0.4899,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.5957,
-          "value": 8668.06,
-          "avg_price": 0.5,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3747,
-          "value": 1738.84,
-          "avg_price": 0.5139,
-          "cur_price": 0.48
         }
       ]
     }
@@ -1342,7 +1367,6 @@
     "mlb-cle-laa-2026-08-26::Los Angeles Angels": 3,
     "ucl-lyo-fen-2026-08-26-lyo::No": 3,
     "ucl-vf-din-2026-08-26-total-2pt5::Under": 3,
-    "mlb-cin-sf-2026-08-26::Cincinnati Reds": 3,
     "lol-kt-bro2-2026-08-26-game1::KT Rolster": 3,
     "cs2-aur1-g2-2026-08-26::Aurora Gaming": 3,
     "lol-kt-bro2-2026-08-26-game2::HANJIN BRION": 3,
@@ -1352,10 +1376,12 @@
     "lol-kt-bro2-2026-08-26::KT Rolster": 3,
     "cs2-aur1-g2-2026-08-26-game2::G2": 3,
     "lol-kt-bro2-2026-08-26-game4::KT Rolster": 3,
-    "cs2-ts7-dendel-2026-08-26-game2::Spirit": 2,
-    "lal-rea-rso-2026-08-26-draw::No": 2,
-    "mlb-bos-nyy-2026-06-06::New York Yankees": 2,
-    "cs2-navi-m80-2026-08-26-game1::Natus Vincere": 1
+    "cs2-ts7-dendel-2026-08-26-game2::Spirit": 3,
+    "lal-rea-rso-2026-08-26-draw::No": 3,
+    "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
+    "cs2-navi-m80-2026-08-26-game1::Natus Vincere": 2,
+    "cs2-navi-m80-2026-08-26::M80": 1,
+    "mlb-tb-det-2026-08-26-total-7pt5::Under": 1
   },
-  "updated_at": "2026-08-26T18:15:58.022347+00:00"
+  "updated_at": "2026-08-26T20:11:38.201237+00:00"
 }
