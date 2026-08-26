@@ -1,14 +1,11 @@
 {
   "seen_ids": [
     "mlb-cin-sf-2026-08-25-total-7pt5::Under",
-    "wnba-wsh-phx-2026-08-25-spread-away-1pt5::Washington Mystics",
     "mlb-cle-laa-2026-08-25::Los Angeles Angels",
-    "mlb-min-oak-2026-08-25::Athletics",
     "mlb-cle-laa-2026-08-25-spread-away-1pt5::Los Angeles Angels",
     "lal-rea-rso-2026-08-26-rea::No",
     "will-mike-mazzei-win-the-2026-oklahoma-governor-republican-primary-election::Yes",
     "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No",
-    "mlb-phi-sea-2026-08-25::Seattle Mariners",
     "mlb-chc-ari-2026-08-25::Chicago Cubs",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
     "lal-rea-rso-2026-08-26-rso::Yes"
@@ -59,50 +56,6 @@
       ]
     },
     {
-      "market": "Spread: Washington Mystics (-1.5)",
-      "slug": "wnba-wsh-phx-2026-08-25-spread-away-1pt5",
-      "outcome": "Washington Mystics",
-      "num_traders": 5,
-      "total_value": 41296.74,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.421,
-          "value": 29461.57,
-          "avg_price": 0.4917,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1711,
-          "value": 3998.0,
-          "avg_price": 0.5099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2085,
-          "value": 2769.62,
-          "avg_price": 0.4957,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6746,
-          "value": 2543.73,
-          "avg_price": 0.4974,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.7283,
-          "value": 2523.82,
-          "avg_price": 0.4956,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
       "market": "Cleveland Guardians vs. Los Angeles Angels",
       "slug": "mlb-cle-laa-2026-08-25",
       "outcome": "Los Angeles Angels",
@@ -143,43 +96,6 @@
           "value": 1001.45,
           "avg_price": 0.4173,
           "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Twins vs. Athletics",
-      "slug": "mlb-min-oak-2026-08-25",
-      "outcome": "Athletics",
-      "num_traders": 4,
-      "total_value": 39045.58,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.205,
-          "value": 18299.94,
-          "avg_price": 0.41,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1711,
-          "value": 13725,
-          "avg_price": 0.41,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6746,
-          "value": 6158.01,
-          "avg_price": 0.41,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4176,
-          "value": 862.63,
-          "avg_price": 0.41,
-          "cur_price": 0.915
         }
       ]
     },
@@ -318,36 +234,6 @@
       ]
     },
     {
-      "market": "Philadelphia Phillies vs. Seattle Mariners",
-      "slug": "mlb-phi-sea-2026-08-25",
-      "outcome": "Seattle Mariners",
-      "num_traders": 3,
-      "total_value": 27190.32,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.205,
-          "value": 22488.32,
-          "avg_price": 0.5085,
-          "cur_price": 0.9595
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.421,
-          "value": 3923.34,
-          "avg_price": 0.4804,
-          "cur_price": 0.9595
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.4176,
-          "value": 778.66,
-          "avg_price": 0.51,
-          "cur_price": 0.9595
-        }
-      ]
-    },
-    {
       "market": "Chicago Cubs vs. Arizona Diamondbacks",
       "slug": "mlb-chc-ari-2026-08-25",
       "outcome": "Chicago Cubs",
@@ -438,6 +324,117 @@
       ]
     },
     {
+      "market": "Spread: Washington Mystics (-1.5)",
+      "slug": "wnba-wsh-phx-2026-08-25-spread-away-1pt5",
+      "outcome": "Washington Mystics",
+      "num_traders": 5,
+      "total_value": 41296.74,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.421,
+          "value": 29461.57,
+          "avg_price": 0.4917,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1711,
+          "value": 3998.0,
+          "avg_price": 0.5099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2085,
+          "value": 2769.62,
+          "avg_price": 0.4957,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.6746,
+          "value": 2543.73,
+          "avg_price": 0.4974,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.7283,
+          "value": 2523.82,
+          "avg_price": 0.4956,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Minnesota Twins vs. Athletics",
+      "slug": "mlb-min-oak-2026-08-25",
+      "outcome": "Athletics",
+      "num_traders": 4,
+      "total_value": 39045.58,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.205,
+          "value": 18299.94,
+          "avg_price": 0.41,
+          "cur_price": 0.915
+        },
+        {
+          "trader": "VeryLucky888",
+          "roi": 0.1711,
+          "value": 13725,
+          "avg_price": 0.41,
+          "cur_price": 0.915
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.6746,
+          "value": 6158.01,
+          "avg_price": 0.41,
+          "cur_price": 0.915
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4176,
+          "value": 862.63,
+          "avg_price": 0.41,
+          "cur_price": 0.915
+        }
+      ]
+    },
+    {
+      "market": "Philadelphia Phillies vs. Seattle Mariners",
+      "slug": "mlb-phi-sea-2026-08-25",
+      "outcome": "Seattle Mariners",
+      "num_traders": 3,
+      "total_value": 27190.32,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.205,
+          "value": 22488.32,
+          "avg_price": 0.5085,
+          "cur_price": 0.9595
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.421,
+          "value": 3923.34,
+          "avg_price": 0.4804,
+          "cur_price": 0.9595
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.4176,
+          "value": 778.66,
+          "avg_price": 0.51,
+          "cur_price": 0.9595
+        }
+      ]
+    },
+    {
       "market": "Pittsburgh Pirates vs. San Diego Padres",
       "slug": "mlb-pit-sd-2026-08-25",
       "outcome": "Pittsburgh Pirates",
@@ -493,110 +490,6 @@
           "roi": 0.2863,
           "value": 667.46,
           "avg_price": 0.4421,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks",
-      "slug": "mlb-chc-ari-2026-08-25",
-      "outcome": "Arizona Diamondbacks",
-      "num_traders": 4,
-      "total_value": 37579.27,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.2813,
-          "value": 25327.36,
-          "avg_price": 0.3817,
-          "cur_price": 0.125
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2173,
-          "value": 5284.33,
-          "avg_price": 0.4873,
-          "cur_price": 0.125
-        },
-        {
-          "trader": "Donghui",
-          "roi": 0.183,
-          "value": 3749.99,
-          "avg_price": 0.3299,
-          "cur_price": 0.125
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.696,
-          "value": 3217.59,
-          "avg_price": 0.5005,
-          "cur_price": 0.125
-        }
-      ]
-    },
-    {
-      "market": "Washington Mystics vs. Phoenix Mercury",
-      "slug": "wnba-wsh-phx-2026-08-25",
-      "outcome": "Phoenix Mercury",
-      "num_traders": 4,
-      "total_value": 21392.63,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.2566,
-          "value": 14620.57,
-          "avg_price": 0.46,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "Donghui",
-          "roi": 0.183,
-          "value": 5549.99,
-          "avg_price": 0.4599,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2989,
-          "value": 796.57,
-          "avg_price": 0.4533,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "IdentityV",
-          "roi": 0.2703,
-          "value": 425.5,
-          "avg_price": 0.44,
-          "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "Will CF Monterrey win on 2026-08-25?",
-      "slug": "lec-mon-chi-2026-08-25-mon",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 9480.54,
-      "holders": [
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.28,
-          "value": 8161.71,
-          "avg_price": 0.5775,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2783,
-          "value": 1212.15,
-          "avg_price": 0.5925,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x076daa",
-          "roi": 0.1525,
-          "value": 106.68,
-          "avg_price": 0.4996,
           "cur_price": 0.9995
         }
       ]
@@ -1658,11 +1551,14 @@
     "mlb-lad-atl-2026-08-25-total-8pt5::Under": 3,
     "mlb-tb-det-2026-08-25::Detroit Tigers": 3,
     "atp-mejia-draxl-2026-08-25::Liam Draxl": 3,
-    "mlb-chc-ari-2026-08-25::Arizona Diamondbacks": 2,
-    "wnba-wsh-phx-2026-08-25::Phoenix Mercury": 2,
-    "lec-mon-chi-2026-08-25-mon::Yes": 2,
-    "mlb-pit-sd-2026-08-25::Pittsburgh Pirates": 1,
-    "bol1-uvi-nap-2026-08-25-uvi::Yes": 1
+    "mlb-chc-ari-2026-08-25::Arizona Diamondbacks": 3,
+    "wnba-wsh-phx-2026-08-25::Phoenix Mercury": 3,
+    "lec-mon-chi-2026-08-25-mon::Yes": 3,
+    "mlb-pit-sd-2026-08-25::Pittsburgh Pirates": 2,
+    "bol1-uvi-nap-2026-08-25-uvi::Yes": 2,
+    "wnba-wsh-phx-2026-08-25-spread-away-1pt5::Washington Mystics": 1,
+    "mlb-min-oak-2026-08-25::Athletics": 1,
+    "mlb-phi-sea-2026-08-25::Seattle Mariners": 1
   },
-  "updated_at": "2026-08-26T04:24:39.289827+00:00"
+  "updated_at": "2026-08-26T05:05:05.082664+00:00"
 }
