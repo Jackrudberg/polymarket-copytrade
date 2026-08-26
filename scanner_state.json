@@ -2,9 +2,9 @@
   "seen_ids": [
     "lol-kt-bro2-2026-08-26-game2::HANJIN BRION",
     "lol-kt-bro2-2026-08-26-game3::HANJIN BRION",
+    "lol-kt-bro2-2026-08-26::KT Rolster",
     "lol-kt-bro2-2026-08-26::HANJIN BRION",
     "lol-kt-bro2-2026-08-26-game4::KT Rolster",
-    "lol-kt-bro2-2026-08-26::KT Rolster",
     "cs2-aur1-g2-2026-08-26::G2",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
     "lal-rea-rso-2026-08-26-rea::No"
@@ -79,8 +79,8 @@
       "market": "LoL: KT Rolster vs HANJIN BRION - Game 3 Winner",
       "slug": "lol-kt-bro2-2026-08-26-game3",
       "outcome": "HANJIN BRION",
-      "num_traders": 7,
-      "total_value": 111695.65,
+      "num_traders": 6,
+      "total_value": 106511.52,
       "holders": [
         {
           "trader": "sulumos",
@@ -118,13 +118,6 @@
           "cur_price": 0.9995
         },
         {
-          "trader": "Skyfker",
-          "roi": 0.2931,
-          "value": 5184.13,
-          "avg_price": 0.2799,
-          "cur_price": 0.9995
-        },
-        {
           "trader": "johnbaster",
           "roi": 0.2393,
           "value": 3998.1,
@@ -136,51 +129,102 @@
     {
       "market": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
       "slug": "lol-kt-bro2-2026-08-26",
-      "outcome": "HANJIN BRION",
+      "outcome": "KT Rolster",
       "num_traders": 6,
-      "total_value": 65396.03,
+      "total_value": 78262.15,
       "holders": [
         {
-          "trader": "BrotherObama",
-          "roi": 0.3986,
-          "value": 36380.88,
-          "avg_price": 0.2263,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.3521,
-          "value": 15675.3,
-          "avg_price": 0.2481,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.1834,
-          "value": 7700,
-          "avg_price": 0.27,
-          "cur_price": 0.385
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3368,
+          "value": 31144.72,
+          "avg_price": 0.6057,
+          "cur_price": 0.575
         },
         {
           "trader": "0xheavy888",
           "roi": 0.1828,
-          "value": 3450.52,
-          "avg_price": 0.5134,
-          "cur_price": 0.385
+          "value": 15215.73,
+          "avg_price": 0.5902,
+          "cur_price": 0.575
         },
         {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3368,
-          "value": 1520.13,
-          "avg_price": 0.5937,
-          "cur_price": 0.385
+          "trader": "meoooow",
+          "roi": 0.2451,
+          "value": 12400.44,
+          "avg_price": 0.61,
+          "cur_price": 0.575
         },
         {
           "trader": "minji",
           "roi": 0.1843,
-          "value": 669.2,
+          "value": 11061.27,
+          "avg_price": 0.6116,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.4094,
+          "value": 4637.08,
+          "avg_price": 0.38,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.2931,
+          "value": 3802.91,
+          "avg_price": 0.5596,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+      "slug": "lol-kt-bro2-2026-08-26",
+      "outcome": "HANJIN BRION",
+      "num_traders": 6,
+      "total_value": 59440.42,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3986,
+          "value": 18910.72,
+          "avg_price": 0.2263,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3521,
+          "value": 17303.9,
+          "avg_price": 0.2481,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.1834,
+          "value": 16999.98,
+          "avg_price": 0.3458,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.1828,
+          "value": 3809.02,
+          "avg_price": 0.5134,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3368,
+          "value": 1678.07,
+          "avg_price": 0.5937,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "minji",
+          "roi": 0.1843,
+          "value": 738.73,
           "avg_price": 0.4432,
-          "cur_price": 0.385
+          "cur_price": 0.425
         }
       ]
     },
@@ -189,79 +233,42 @@
       "slug": "lol-kt-bro2-2026-08-26-game4",
       "outcome": "KT Rolster",
       "num_traders": 5,
-      "total_value": 34821.78,
+      "total_value": 34979.26,
       "holders": [
         {
           "trader": "vananal0318",
           "roi": 0.4813,
-          "value": 8879.84,
+          "value": 8920.0,
           "avg_price": 0.5222,
-          "cur_price": 0.995
+          "cur_price": 0.9995
         },
         {
           "trader": "johnbaster",
           "roi": 0.2393,
-          "value": 7431.33,
+          "value": 7464.94,
           "avg_price": 0.6857,
-          "cur_price": 0.995
+          "cur_price": 0.9995
         },
         {
           "trader": "Skyfker",
           "roi": 0.2931,
-          "value": 7084.41,
+          "value": 7116.45,
           "avg_price": 0.6628,
-          "cur_price": 0.995
+          "cur_price": 0.9995
         },
         {
           "trader": "0xheavy888",
           "roi": 0.1828,
-          "value": 6824.5,
+          "value": 6855.36,
           "avg_price": 0.5374,
-          "cur_price": 0.995
+          "cur_price": 0.9995
         },
         {
           "trader": "minji",
           "roi": 0.1843,
-          "value": 4601.7,
+          "value": 4622.51,
           "avg_price": 0.5213,
-          "cur_price": 0.995
-        }
-      ]
-    },
-    {
-      "market": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
-      "slug": "lol-kt-bro2-2026-08-26",
-      "outcome": "KT Rolster",
-      "num_traders": 4,
-      "total_value": 10677.65,
-      "holders": [
-        {
-          "trader": "sbsigner",
-          "roi": 0.4094,
-          "value": 4959.66,
-          "avg_price": 0.38,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3368,
-          "value": 3778.68,
-          "avg_price": 0.5822,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.1828,
-          "value": 1510.24,
-          "avg_price": 0.3756,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "Skyfker",
-          "roi": 0.2931,
-          "value": 429.07,
-          "avg_price": 0.4299,
-          "cur_price": 0.615
+          "cur_price": 0.9995
         }
       ]
     },
@@ -300,28 +307,28 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "outcome": "New York Yankees",
       "num_traders": 3,
-      "total_value": 23710.38,
+      "total_value": 23463.41,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
           "roi": 0.3368,
-          "value": 13303.48,
+          "value": 13164.91,
           "avg_price": 0.4899,
-          "cur_price": 0.48
+          "cur_price": 0.475
         },
         {
           "trader": "wr0ngw4yb3tt0r",
           "roi": 0.6085,
-          "value": 8668.06,
+          "value": 8577.77,
           "avg_price": 0.5,
-          "cur_price": 0.48
+          "cur_price": 0.475
         },
         {
           "trader": "AnonymousUsername",
           "roi": 0.464,
-          "value": 1738.84,
+          "value": 1720.73,
           "avg_price": 0.5139,
-          "cur_price": 0.48
+          "cur_price": 0.475
         }
       ]
     },
@@ -419,66 +426,6 @@
           "value": 118.5,
           "avg_price": 0.46,
           "cur_price": 0.395
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. San Francisco Giants",
-      "slug": "mlb-cin-sf-2026-08-26",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 7646.27,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3663,
-          "value": 6287.78,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5422,
-          "value": 1131.51,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.2588,
-          "value": 226.98,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Spread: Real Madrid CF (-1.5)",
-      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
-      "outcome": "Real Sociedad de F\u00fatbol",
-      "num_traders": 3,
-      "total_value": 2049.32,
-      "holders": [
-        {
-          "trader": "hi774c",
-          "roi": 0.5649,
-          "value": 846.06,
-          "avg_price": 0.46,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.2588,
-          "value": 644.4,
-          "avg_price": 0.4252,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.5422,
-          "value": 558.86,
-          "avg_price": 0.42,
-          "cur_price": 0.425
         }
       ]
     }
@@ -1557,10 +1504,10 @@
     "mlb-cle-laa-2026-08-26::Los Angeles Angels": 3,
     "ucl-lyo-fen-2026-08-26-lyo::No": 3,
     "ucl-vf-din-2026-08-26-total-2pt5::Under": 3,
-    "mlb-cin-sf-2026-08-26::Cincinnati Reds": 2,
-    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol": 2,
-    "lol-kt-bro2-2026-08-26-game1::KT Rolster": 1,
-    "cs2-aur1-g2-2026-08-26::Aurora Gaming": 1
+    "mlb-cin-sf-2026-08-26::Cincinnati Reds": 3,
+    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol": 3,
+    "lol-kt-bro2-2026-08-26-game1::KT Rolster": 2,
+    "cs2-aur1-g2-2026-08-26::Aurora Gaming": 2
   },
-  "updated_at": "2026-08-26T11:39:19.231005+00:00"
+  "updated_at": "2026-08-26T12:03:04.256994+00:00"
 }
