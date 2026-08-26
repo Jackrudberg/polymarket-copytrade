@@ -1,13 +1,145 @@
 {
   "seen_ids": [
-    "lal-rea-rso-2026-08-26-rea::No",
-    "mlb-chc-ari-2026-08-26::Arizona Diamondbacks",
-    "mlb-pit-sd-2026-08-26-total-8pt5::Under",
-    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol",
-    "mlb-pit-sd-2026-08-26::Pittsburgh Pirates",
-    "mlb-cin-sf-2026-08-26::Cincinnati Reds"
+    "mlb-lad-atl-2026-08-26::Atlanta Braves",
+    "mlb-mil-nym-2026-08-26-total-8pt5::Under",
+    "lal-bar-bil-2026-08-27-bar::Yes",
+    "mlb-kc-tor-2026-08-26::Toronto Blue Jays"
   ],
   "signals": [
+    {
+      "market": "Los Angeles Dodgers vs. Atlanta Braves",
+      "slug": "mlb-lad-atl-2026-08-26",
+      "outcome": "Atlanta Braves",
+      "num_traders": 5,
+      "total_value": 83026.76,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.9646,
+          "value": 34565.65,
+          "avg_price": 0.4499,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3156,
+          "value": 22284.57,
+          "avg_price": 0.4503,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2374,
+          "value": 14613.38,
+          "avg_price": 0.46,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.4014,
+          "value": 7828.85,
+          "avg_price": 0.46,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "abura2025",
+          "roi": 0.5972,
+          "value": 3734.31,
+          "avg_price": 0.44,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
+      "slug": "mlb-mil-nym-2026-08-26-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 54147.79,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3156,
+          "value": 41976.23,
+          "avg_price": 0.5199,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.3409,
+          "value": 6915.68,
+          "avg_price": 0.5299,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2374,
+          "value": 5255.88,
+          "avg_price": 0.52,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will FC Barcelona win on 2026-08-27?",
+      "slug": "lal-bar-bil-2026-08-27-bar",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 49079.19,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.167,
+          "value": 32173.35,
+          "avg_price": 0.7773,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.2759,
+          "value": 15886.72,
+          "avg_price": 0.7349,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.3409,
+          "value": 1019.12,
+          "avg_price": 0.7,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Kansas City Royals vs. Toronto Blue Jays",
+      "slug": "mlb-kc-tor-2026-08-26",
+      "outcome": "Toronto Blue Jays",
+      "num_traders": 3,
+      "total_value": 4336.23,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.9646,
+          "value": 3156.29,
+          "avg_price": 0.59,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.4424,
+          "value": 603.86,
+          "avg_price": 0.5599,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.3156,
+          "value": 576.08,
+          "avg_price": 0.577,
+          "cur_price": 0.645
+        }
+      ]
+    },
     {
       "market": "Will Real Madrid CF win on 2026-08-26?",
       "slug": "lal-rea-rso-2026-08-26-rea",
@@ -259,36 +391,6 @@
           "value": 920.48,
           "avg_price": 0.49,
           "cur_price": 0.795
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Natus Vincere vs M80 - Map 1 Winner",
-      "slug": "cs2-navi-m80-2026-08-26-game1",
-      "outcome": "Natus Vincere",
-      "num_traders": 3,
-      "total_value": 35050.55,
-      "holders": [
-        {
-          "trader": "0xheavy888",
-          "roi": 0.1536,
-          "value": 15991.11,
-          "avg_price": 0.5789,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fkcvffcjt",
-          "roi": 0.3098,
-          "value": 15547.21,
-          "avg_price": 0.5499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.1692,
-          "value": 3512.23,
-          "avg_price": 0.6799,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1379,9 +1481,15 @@
     "cs2-ts7-dendel-2026-08-26-game2::Spirit": 3,
     "lal-rea-rso-2026-08-26-draw::No": 3,
     "mlb-bos-nyy-2026-06-06::New York Yankees": 3,
-    "cs2-navi-m80-2026-08-26-game1::Natus Vincere": 2,
-    "cs2-navi-m80-2026-08-26::M80": 1,
-    "mlb-tb-det-2026-08-26-total-7pt5::Under": 1
+    "cs2-navi-m80-2026-08-26-game1::Natus Vincere": 3,
+    "cs2-navi-m80-2026-08-26::M80": 2,
+    "mlb-tb-det-2026-08-26-total-7pt5::Under": 2,
+    "lal-rea-rso-2026-08-26-rea::No": 1,
+    "mlb-chc-ari-2026-08-26::Arizona Diamondbacks": 1,
+    "mlb-pit-sd-2026-08-26-total-8pt5::Under": 1,
+    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol": 1,
+    "mlb-pit-sd-2026-08-26::Pittsburgh Pirates": 1,
+    "mlb-cin-sf-2026-08-26::Cincinnati Reds": 1
   },
-  "updated_at": "2026-08-26T20:11:38.201237+00:00"
+  "updated_at": "2026-08-26T23:35:34.865336+00:00"
 }

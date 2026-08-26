@@ -25213,7 +25213,7 @@
       "current_value": 163.92,
       "paper_pnl": 63.92,
       "return_percent": 63.92,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 23208.04,
       "traders": [
@@ -25222,7 +25222,8 @@
         "0x0x23kjookhaiuohduoayh8c9",
         "hi774c"
       ],
-      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-26-total-7pt5"
+      "url": "https://polymarket.com/event/mlb-tb-det-2026-08-26-total-7pt5",
+      "consensus_lost_at": "2026-08-26T23:35:34.843500+00:00"
     },
     {
       "signal_id": "cs2-navi-m80-2026-08-26-game1::Natus Vincere",
@@ -25263,7 +25264,7 @@
       "current_value": 327.7,
       "paper_pnl": 227.7,
       "return_percent": 227.7,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 16560.05,
       "traders": [
@@ -25271,7 +25272,8 @@
         "sbsigner",
         "0xheavy888"
       ],
-      "url": "https://polymarket.com/event/cs2-navi-m80-2026-08-26"
+      "url": "https://polymarket.com/event/cs2-navi-m80-2026-08-26",
+      "consensus_lost_at": "2026-08-26T23:35:34.843500+00:00"
     },
     {
       "signal_id": "mlb-chc-ari-2026-08-26::Arizona Diamondbacks",
@@ -25344,7 +25346,105 @@
         "AnonymousUsername"
       ],
       "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-26"
+    },
+    {
+      "signal_id": "mlb-lad-atl-2026-08-26::Atlanta Braves",
+      "market": "Los Angeles Dodgers vs. Atlanta Braves",
+      "slug": "mlb-lad-atl-2026-08-26",
+      "side": "Atlanta Braves",
+      "alerted_at": "2026-08-26T23:35:34.843500+00:00",
+      "last_seen": "2026-08-26T23:35:34.843500+00:00",
+      "entry_price": 0.605,
+      "current_price": 0.605,
+      "stake": 100.0,
+      "shares": 165.289256,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 83026.76,
+      "traders": [
+        "texaskid",
+        "wr0ngw4yb3tt0r",
+        "hi774c",
+        "fRibrenlc",
+        "abura2025"
+      ],
+      "url": "https://polymarket.com/event/mlb-lad-atl-2026-08-26"
+    },
+    {
+      "signal_id": "mlb-mil-nym-2026-08-26-total-8pt5::Under",
+      "market": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
+      "slug": "mlb-mil-nym-2026-08-26-total-8pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-26T23:35:34.843500+00:00",
+      "last_seen": "2026-08-26T23:35:34.843500+00:00",
+      "entry_price": 0.615,
+      "current_price": 0.615,
+      "stake": 100.0,
+      "shares": 162.601626,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 54147.79,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "ic4cream",
+        "hi774c"
+      ],
+      "url": "https://polymarket.com/event/mlb-mil-nym-2026-08-26-total-8pt5"
+    },
+    {
+      "signal_id": "lal-bar-bil-2026-08-27-bar::Yes",
+      "market": "Will FC Barcelona win on 2026-08-27?",
+      "slug": "lal-bar-bil-2026-08-27-bar",
+      "side": "Yes",
+      "alerted_at": "2026-08-26T23:35:34.843500+00:00",
+      "last_seen": "2026-08-26T23:35:34.843500+00:00",
+      "entry_price": 0.775,
+      "current_price": 0.775,
+      "stake": 100.0,
+      "shares": 129.032258,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 49079.19,
+      "traders": [
+        "purplegatto",
+        "Forecastication2",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/lal-bar-bil-2026-08-27-bar"
+    },
+    {
+      "signal_id": "mlb-kc-tor-2026-08-26::Toronto Blue Jays",
+      "market": "Kansas City Royals vs. Toronto Blue Jays",
+      "slug": "mlb-kc-tor-2026-08-26",
+      "side": "Toronto Blue Jays",
+      "alerted_at": "2026-08-26T23:35:34.843500+00:00",
+      "last_seen": "2026-08-26T23:35:34.843500+00:00",
+      "entry_price": 0.645,
+      "current_price": 0.645,
+      "stake": 100.0,
+      "shares": 155.03876,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4336.23,
+      "traders": [
+        "texaskid",
+        "SDTrading",
+        "wr0ngw4yb3tt0r"
+      ],
+      "url": "https://polymarket.com/event/mlb-kc-tor-2026-08-26"
     }
   ],
-  "updated_at": "2026-08-26T20:11:38.178771+00:00"
+  "updated_at": "2026-08-26T23:35:34.843500+00:00"
 }
