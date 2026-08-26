@@ -5299,7 +5299,7 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-26T08:06:50.771888+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
       "entry_price": 0.48,
       "current_price": 0.48,
       "stake": 100.0,
@@ -24580,7 +24580,7 @@
       "current_value": 98.5,
       "paper_pnl": -1.5,
       "return_percent": -1.5,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 27792.56,
       "traders": [
@@ -24589,7 +24589,8 @@
         "CoffeeDespiser",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-25"
+      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-25",
+      "consensus_lost_at": "2026-08-26T09:00:07.603644+00:00"
     },
     {
       "signal_id": "will-mike-mazzei-win-the-2026-oklahoma-governor-republican-primary-election::Yes",
@@ -24679,7 +24680,7 @@
       "current_value": 88.05,
       "paper_pnl": -11.95,
       "return_percent": -11.95,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 9013.72,
       "traders": [
@@ -24687,7 +24688,8 @@
         "AnonymousUsername",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-25"
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-25",
+      "consensus_lost_at": "2026-08-26T09:00:07.603644+00:00"
     },
     {
       "signal_id": "lal-rea-rso-2026-08-26-rea::No",
@@ -24695,14 +24697,14 @@
       "slug": "lal-rea-rso-2026-08-26-rea",
       "side": "No",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T08:06:50.771888+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
       "entry_price": 0.255,
-      "current_price": 0.245,
+      "current_price": 0.235,
       "stake": 100.0,
       "shares": 392.156863,
-      "current_value": 96.08,
-      "paper_pnl": -3.92,
-      "return_percent": -3.92,
+      "current_value": 92.16,
+      "paper_pnl": -7.84,
+      "return_percent": -7.84,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7928.01,
@@ -24787,7 +24789,128 @@
       ],
       "url": "https://polymarket.com/event/mlb-phi-sea-2026-08-25",
       "consensus_lost_at": "2026-08-26T05:47:08.898363+00:00"
+    },
+    {
+      "signal_id": "mlb-cin-sf-2026-08-26::Cincinnati Reds",
+      "market": "Cincinnati Reds vs. San Francisco Giants",
+      "slug": "mlb-cin-sf-2026-08-26",
+      "side": "Cincinnati Reds",
+      "alerted_at": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "entry_price": 0.485,
+      "current_price": 0.485,
+      "stake": 100.0,
+      "shares": 206.185567,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 8049.89,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "AnonymousUsername",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071"
+      ],
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-26"
+    },
+    {
+      "signal_id": "mlb-cle-laa-2026-08-26::Los Angeles Angels",
+      "market": "Cleveland Guardians vs. Los Angeles Angels",
+      "slug": "mlb-cle-laa-2026-08-26",
+      "side": "Los Angeles Angels",
+      "alerted_at": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "entry_price": 0.435,
+      "current_price": 0.435,
+      "stake": 100.0,
+      "shares": 229.885057,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 34985.59,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "AnonymousUsername",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
+      ],
+      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-26"
+    },
+    {
+      "signal_id": "ucl-lyo-fen-2026-08-26-lyo::No",
+      "market": "Will Olympique Lyonnais win on 2026-08-26?",
+      "slug": "ucl-lyo-fen-2026-08-26-lyo",
+      "side": "No",
+      "alerted_at": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "entry_price": 0.505,
+      "current_price": 0.505,
+      "stake": 100.0,
+      "shares": 198.019802,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 5921.92,
+      "traders": [
+        "CoffeeDespiser",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+        "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071"
+      ],
+      "url": "https://polymarket.com/event/ucl-lyo-fen-2026-08-26-lyo"
+    },
+    {
+      "signal_id": "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol",
+      "market": "Spread: Real Madrid CF (-1.5)",
+      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
+      "side": "Real Sociedad de F\u00fatbol",
+      "alerted_at": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "entry_price": 0.425,
+      "current_price": 0.425,
+      "stake": 100.0,
+      "shares": 235.294118,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1905.41,
+      "traders": [
+        "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071",
+        "hi774c",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
+      ],
+      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-spread-home-1pt5"
+    },
+    {
+      "signal_id": "ucl-vf-din-2026-08-26-total-2pt5::Under",
+      "market": "Viking FK vs. GNK Dinamo Zagreb: O/U 2.5",
+      "slug": "ucl-vf-din-2026-08-26-total-2pt5",
+      "side": "Under",
+      "alerted_at": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "entry_price": 0.375,
+      "current_price": 0.375,
+      "stake": 100.0,
+      "shares": 266.666667,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 778.37,
+      "traders": [
+        "hi774c",
+        "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071",
+        "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
+      ],
+      "url": "https://polymarket.com/event/ucl-vf-din-2026-08-26-total-2pt5"
     }
   ],
-  "updated_at": "2026-08-26T08:06:50.771888+00:00"
+  "updated_at": "2026-08-26T09:00:07.603644+00:00"
 }
