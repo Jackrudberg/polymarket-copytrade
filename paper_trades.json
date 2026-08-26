@@ -5299,7 +5299,7 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-26T13:12:08.140902+00:00",
+      "last_seen": "2026-08-26T14:05:17.687649+00:00",
       "entry_price": 0.48,
       "current_price": 0.48,
       "stake": 100.0,
@@ -24957,7 +24957,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 60869.46,
       "traders": [
@@ -24966,7 +24966,8 @@
         "Skyfker",
         "SPCEXBUYER"
       ],
-      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26-game3"
+      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26-game3",
+      "consensus_lost_at": "2026-08-26T14:05:17.687649+00:00"
     },
     {
       "signal_id": "cs2-aur1-g2-2026-08-26::G2",
@@ -25006,7 +25007,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 54255.72,
       "traders": [
@@ -25014,7 +25015,8 @@
         "0xheavy888",
         "vananal0318"
       ],
-      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26-game2"
+      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26-game2",
+      "consensus_lost_at": "2026-08-26T14:05:17.687649+00:00"
     },
     {
       "signal_id": "lol-kt-bro2-2026-08-26::HANJIN BRION",
@@ -25030,7 +25032,7 @@
       "current_value": 69.11,
       "paper_pnl": -30.89,
       "return_percent": -30.89,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 19624.94,
       "traders": [
@@ -25038,7 +25040,8 @@
         "0xheavy888",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26"
+      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26",
+      "consensus_lost_at": "2026-08-26T14:05:17.687649+00:00"
     },
     {
       "signal_id": "cs2-aur1-g2-2026-08-26::Aurora Gaming",
@@ -25147,14 +25150,14 @@
       "slug": "cs2-ts7-dendel-2026-08-26-game2",
       "side": "Spirit",
       "alerted_at": "2026-08-26T13:12:08.140902+00:00",
-      "last_seen": "2026-08-26T13:12:08.140902+00:00",
+      "last_seen": "2026-08-26T14:05:17.687649+00:00",
       "entry_price": 0.895,
-      "current_price": 0.895,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 111.731844,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 111.68,
+      "paper_pnl": 11.68,
+      "return_percent": 11.68,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 28070.28,
@@ -25164,7 +25167,31 @@
         "0xheavy888"
       ],
       "url": "https://polymarket.com/event/cs2-ts7-dendel-2026-08-26-game2"
+    },
+    {
+      "signal_id": "lal-rea-rso-2026-08-26-draw::No",
+      "market": "Will Real Madrid CF vs. Real Sociedad de F\u00fatbol end in a draw?",
+      "slug": "lal-rea-rso-2026-08-26-draw",
+      "side": "No",
+      "alerted_at": "2026-08-26T14:05:17.687649+00:00",
+      "last_seen": "2026-08-26T14:05:17.687649+00:00",
+      "entry_price": 0.855,
+      "current_price": 0.855,
+      "stake": 100.0,
+      "shares": 116.959064,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 23654.12,
+      "traders": [
+        "sbsigner",
+        "dv-pm",
+        "AnonymousUsername"
+      ],
+      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-draw"
     }
   ],
-  "updated_at": "2026-08-26T13:12:08.140902+00:00"
+  "updated_at": "2026-08-26T14:05:17.687649+00:00"
 }

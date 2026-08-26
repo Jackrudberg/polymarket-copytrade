@@ -1,14 +1,100 @@
 {
   "seen_ids": [
-    "cs2-aur1-g2-2026-08-26::G2",
-    "lol-kt-bro2-2026-08-26::KT Rolster",
-    "cs2-aur1-g2-2026-08-26-game2::G2",
-    "lol-kt-bro2-2026-08-26-game4::KT Rolster",
     "cs2-ts7-dendel-2026-08-26-game2::Spirit",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
-    "lal-rea-rso-2026-08-26-rea::No"
+    "lal-rea-rso-2026-08-26-draw::No"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
+      "slug": "cs2-ts7-dendel-2026-08-26-game2",
+      "outcome": "Spirit",
+      "num_traders": 3,
+      "total_value": 432049.11,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3356,
+          "value": 415869.47,
+          "avg_price": 0.9513,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.2722,
+          "value": 12903.04,
+          "avg_price": 0.729,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fkcvffcjt",
+          "roi": 0.3007,
+          "value": 3276.6,
+          "avg_price": 0.8499,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 3,
+      "total_value": 23710.38,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3356,
+          "value": 13303.48,
+          "avg_price": 0.4899,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.5833,
+          "value": 8668.06,
+          "avg_price": 0.5,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4368,
+          "value": 1738.84,
+          "avg_price": 0.5139,
+          "cur_price": 0.48
+        }
+      ]
+    },
+    {
+      "market": "Will Real Madrid CF vs. Real Sociedad de F\u00fatbol end in a draw?",
+      "slug": "lal-rea-rso-2026-08-26-draw",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 23654.12,
+      "holders": [
+        {
+          "trader": "sbsigner",
+          "roi": 0.382,
+          "value": 18556.62,
+          "avg_price": 0.85,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "dv-pm",
+          "roi": 0.5315,
+          "value": 4585.36,
+          "avg_price": 0.8499,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4368,
+          "value": 512.14,
+          "avg_price": 0.8171,
+          "cur_price": 0.855
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
       "slug": "cs2-aur1-g2-2026-08-26",
@@ -168,66 +254,6 @@
           "value": 4997.5,
           "avg_price": 0.6,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
-      "slug": "cs2-ts7-dendel-2026-08-26-game2",
-      "outcome": "Spirit",
-      "num_traders": 3,
-      "total_value": 28070.28,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3489,
-          "value": 14710.12,
-          "avg_price": 0.7399,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "Wiretransferxyz",
-          "roi": 0.2595,
-          "value": 11554.0,
-          "avg_price": 0.729,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.1516,
-          "value": 1806.16,
-          "avg_price": 0.779,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 3,
-      "total_value": 23710.38,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3489,
-          "value": 13303.48,
-          "avg_price": 0.4899,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.6085,
-          "value": 8668.06,
-          "avg_price": 0.5,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4586,
-          "value": 1738.84,
-          "avg_price": 0.5139,
-          "cur_price": 0.48
         }
       ]
     },
@@ -1507,9 +1533,14 @@
     "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol": 3,
     "lol-kt-bro2-2026-08-26-game1::KT Rolster": 3,
     "cs2-aur1-g2-2026-08-26::Aurora Gaming": 3,
-    "lol-kt-bro2-2026-08-26-game2::HANJIN BRION": 1,
-    "lol-kt-bro2-2026-08-26-game3::HANJIN BRION": 1,
-    "lol-kt-bro2-2026-08-26::HANJIN BRION": 1
+    "lol-kt-bro2-2026-08-26-game2::HANJIN BRION": 2,
+    "lol-kt-bro2-2026-08-26-game3::HANJIN BRION": 2,
+    "lol-kt-bro2-2026-08-26::HANJIN BRION": 2,
+    "cs2-aur1-g2-2026-08-26::G2": 1,
+    "lol-kt-bro2-2026-08-26::KT Rolster": 1,
+    "cs2-aur1-g2-2026-08-26-game2::G2": 1,
+    "lol-kt-bro2-2026-08-26-game4::KT Rolster": 1,
+    "lal-rea-rso-2026-08-26-rea::No": 1
   },
-  "updated_at": "2026-08-26T13:12:08.163539+00:00"
+  "updated_at": "2026-08-26T14:05:17.706732+00:00"
 }
