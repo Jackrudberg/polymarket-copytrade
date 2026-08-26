@@ -5307,7 +5307,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10601.21,
       "traders": [
@@ -5316,7 +5316,7 @@
         "sentrio"
       ],
       "url": "https://polymarket.com/event/mlb-bos-nyy-2026-06-06",
-      "consensus_lost_at": "2026-08-26T06:21:34.869185+00:00"
+      "consensus_lost_at": "2026-08-26T18:15:57.999911+00:00"
     },
     {
       "signal_id": "mlb-cle-cin-2026-07-27::Cincinnati Reds",
@@ -24698,15 +24698,15 @@
       "slug": "lal-rea-rso-2026-08-26-rea",
       "side": "No",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T13:12:08.140902+00:00",
+      "last_seen": "2026-08-26T18:15:57.999911+00:00",
       "entry_price": 0.255,
-      "current_price": 0.215,
+      "current_price": 0.175,
       "stake": 100.0,
       "shares": 392.156863,
-      "current_value": 84.31,
-      "paper_pnl": -15.69,
-      "return_percent": -15.69,
-      "status": "CONSENSUS_LOST",
+      "current_value": 68.63,
+      "paper_pnl": -31.37,
+      "return_percent": -31.37,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 7928.01,
       "traders": [
@@ -24875,15 +24875,15 @@
       "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
       "side": "Real Sociedad de F\u00fatbol",
       "alerted_at": "2026-08-26T09:00:07.603644+00:00",
-      "last_seen": "2026-08-26T10:27:07.646345+00:00",
+      "last_seen": "2026-08-26T18:15:57.999911+00:00",
       "entry_price": 0.425,
-      "current_price": 0.425,
+      "current_price": 0.365,
       "stake": 100.0,
       "shares": 235.294118,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 85.88,
+      "paper_pnl": -14.12,
+      "return_percent": -14.12,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1905.41,
       "traders": [
@@ -25163,7 +25163,7 @@
       "current_value": 111.68,
       "paper_pnl": 11.68,
       "return_percent": 11.68,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 28070.28,
       "traders": [
@@ -25171,7 +25171,8 @@
         "Wiretransferxyz",
         "0xheavy888"
       ],
-      "url": "https://polymarket.com/event/cs2-ts7-dendel-2026-08-26-game2"
+      "url": "https://polymarket.com/event/cs2-ts7-dendel-2026-08-26-game2",
+      "consensus_lost_at": "2026-08-26T18:15:57.999911+00:00"
     },
     {
       "signal_id": "lal-rea-rso-2026-08-26-draw::No",
@@ -25187,7 +25188,7 @@
       "current_value": 101.17,
       "paper_pnl": 1.17,
       "return_percent": 1.17,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 23654.12,
       "traders": [
@@ -25195,7 +25196,8 @@
         "dv-pm",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-draw"
+      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-draw",
+      "consensus_lost_at": "2026-08-26T18:15:57.999911+00:00"
     },
     {
       "signal_id": "mlb-tb-det-2026-08-26-total-7pt5::Under",
@@ -25203,14 +25205,14 @@
       "slug": "mlb-tb-det-2026-08-26-total-7pt5",
       "side": "Under",
       "alerted_at": "2026-08-26T14:59:17.583421+00:00",
-      "last_seen": "2026-08-26T16:24:44.605225+00:00",
+      "last_seen": "2026-08-26T18:15:57.999911+00:00",
       "entry_price": 0.485,
-      "current_price": 0.505,
+      "current_price": 0.795,
       "stake": 100.0,
       "shares": 206.185567,
-      "current_value": 104.12,
-      "paper_pnl": 4.12,
-      "return_percent": 4.12,
+      "current_value": 163.92,
+      "paper_pnl": 63.92,
+      "return_percent": 63.92,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 23208.04,
@@ -25252,14 +25254,14 @@
       "slug": "cs2-navi-m80-2026-08-26",
       "side": "M80",
       "alerted_at": "2026-08-26T16:24:44.605225+00:00",
-      "last_seen": "2026-08-26T16:24:44.605225+00:00",
+      "last_seen": "2026-08-26T18:15:57.999911+00:00",
       "entry_price": 0.305,
-      "current_price": 0.305,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 327.868852,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 327.7,
+      "paper_pnl": 227.7,
+      "return_percent": 227.7,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 16560.05,
@@ -25271,5 +25273,5 @@
       "url": "https://polymarket.com/event/cs2-navi-m80-2026-08-26"
     }
   ],
-  "updated_at": "2026-08-26T16:24:44.605225+00:00"
+  "updated_at": "2026-08-26T18:15:57.999911+00:00"
 }
