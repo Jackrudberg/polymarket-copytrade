@@ -1,52 +1,80 @@
 {
   "seen_ids": [
-    "lal-rea-rso-2026-08-26-rea::No",
     "mlb-bos-nyy-2026-06-06::New York Yankees",
+    "lal-rea-rso-2026-08-26-rea::No",
+    "lol-kt-bro2-2026-08-26-game1::KT Rolster",
     "mlb-cin-sf-2026-08-26::Cincinnati Reds",
-    "mlb-cle-laa-2026-08-26::Los Angeles Angels",
-    "ucl-lyo-fen-2026-08-26-lyo::No",
-    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol",
-    "ucl-vf-din-2026-08-26-total-2pt5::Under"
+    "lal-rea-rso-2026-08-26-spread-home-1pt5::Real Sociedad de F\u00fatbol"
   ],
   "signals": [
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-06-06",
+      "outcome": "New York Yankees",
+      "num_traders": 4,
+      "total_value": 24962.81,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3663,
+          "value": 13164.91,
+          "avg_price": 0.4899,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.6085,
+          "value": 8577.77,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5422,
+          "value": 1720.73,
+          "avg_price": 0.5139,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.2588,
+          "value": 1499.4,
+          "avg_price": 0.5219,
+          "cur_price": 0.475
+        }
+      ]
+    },
     {
       "market": "Will Real Madrid CF win on 2026-08-26?",
       "slug": "lal-rea-rso-2026-08-26-rea",
       "outcome": "No",
-      "num_traders": 5,
-      "total_value": 11476.37,
+      "num_traders": 4,
+      "total_value": 10160.57,
       "holders": [
         {
           "trader": "sbsigner",
-          "roi": 1.1707,
+          "roi": 0.5674,
           "value": 5369.93,
           "avg_price": 0.2696,
           "cur_price": 0.235
         },
         {
           "trader": "CoffeeDespiser",
-          "roi": 0.3348,
+          "roi": 0.2519,
           "value": 3524.99,
           "avg_price": 0.25,
           "cur_price": 0.235
         },
         {
           "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.3973,
-          "value": 1268.99,
+          "roi": 0.2588,
+          "value": 979.47,
           "avg_price": 0.2437,
           "cur_price": 0.235
         },
         {
-          "trader": "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071",
-          "roi": 0.3995,
-          "value": 1026.28,
-          "avg_price": 0.2415,
-          "cur_price": 0.235
-        },
-        {
           "trader": "hi774c",
-          "roi": 0.58,
+          "roi": 0.5649,
           "value": 286.18,
           "avg_price": 0.26,
           "cur_price": 0.235
@@ -54,39 +82,32 @@
       ]
     },
     {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-06-06",
-      "outcome": "New York Yankees",
-      "num_traders": 4,
-      "total_value": 25225.56,
+      "market": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
+      "slug": "lol-kt-bro2-2026-08-26-game1",
+      "outcome": "KT Rolster",
+      "num_traders": 3,
+      "total_value": 118311.67,
       "holders": [
         {
+          "trader": "sulumos",
+          "roi": 0.3561,
+          "value": 90354.8,
+          "avg_price": 0.6385,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "zofgkt1111",
+          "roi": 0.3805,
+          "value": 24408.36,
+          "avg_price": 0.5498,
+          "cur_price": 0.9995
+        },
+        {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.5025,
-          "value": 13303.48,
-          "avg_price": 0.4899,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.6087,
-          "value": 8668.06,
-          "avg_price": 0.5,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6047,
-          "value": 1738.84,
-          "avg_price": 0.5139,
-          "cur_price": 0.48
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.3973,
-          "value": 1515.18,
-          "avg_price": 0.5219,
-          "cur_price": 0.48
+          "roi": 0.3663,
+          "value": 3548.51,
+          "avg_price": 0.6385,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -94,36 +115,59 @@
       "market": "Cincinnati Reds vs. San Francisco Giants",
       "slug": "mlb-cin-sf-2026-08-26",
       "outcome": "Cincinnati Reds",
-      "num_traders": 4,
-      "total_value": 8049.89,
+      "num_traders": 3,
+      "total_value": 7646.27,
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.5025,
+          "roi": 0.3663,
           "value": 6287.78,
           "avg_price": 0.48,
           "cur_price": 0.485
         },
         {
           "trader": "AnonymousUsername",
-          "roi": 0.6047,
+          "roi": 0.5422,
           "value": 1131.51,
           "avg_price": 0.48,
           "cur_price": 0.485
         },
         {
           "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.3973,
-          "value": 517.98,
+          "roi": 0.2588,
+          "value": 226.98,
           "avg_price": 0.48,
           "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Spread: Real Madrid CF (-1.5)",
+      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
+      "outcome": "Real Sociedad de F\u00fatbol",
+      "num_traders": 3,
+      "total_value": 2043.41,
+      "holders": [
+        {
+          "trader": "hi774c",
+          "roi": 0.5649,
+          "value": 846.06,
+          "avg_price": 0.46,
+          "cur_price": 0.425
         },
         {
-          "trader": "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071",
-          "roi": 0.3995,
-          "value": 112.62,
-          "avg_price": 0.48,
-          "cur_price": 0.485
+          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
+          "roi": 0.2588,
+          "value": 644.4,
+          "avg_price": 0.4252,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5422,
+          "value": 552.95,
+          "avg_price": 0.42,
+          "cur_price": 0.425
         }
       ]
     },
@@ -184,36 +228,6 @@
           "value": 169.78,
           "avg_price": 0.5,
           "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Spread: Real Madrid CF (-1.5)",
-      "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
-      "outcome": "Real Sociedad de F\u00fatbol",
-      "num_traders": 3,
-      "total_value": 1905.41,
-      "holders": [
-        {
-          "trader": "0x5811c8AD5DC5990528357ecf1A6D03311D6c0976-1782550886071",
-          "roi": 0.3995,
-          "value": 855.67,
-          "avg_price": 0.4554,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.58,
-          "value": 846.06,
-          "avg_price": 0.46,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031",
-          "roi": 0.3973,
-          "value": 203.68,
-          "avg_price": 0.4366,
-          "cur_price": 0.425
         }
       ]
     },
@@ -334,73 +348,6 @@
           "value": 171,
           "avg_price": 0.56,
           "cur_price": 0.1
-        }
-      ]
-    },
-    {
-      "market": "Cleveland Guardians vs. Los Angeles Angels",
-      "slug": "mlb-cle-laa-2026-08-25",
-      "outcome": "Los Angeles Angels",
-      "num_traders": 4,
-      "total_value": 27526.39,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.1789,
-          "value": 9825.0,
-          "avg_price": 0.4153,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4518,
-          "value": 8059.03,
-          "avg_price": 0.4367,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.4843,
-          "value": 6660.16,
-          "avg_price": 0.41,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6876,
-          "value": 2982.2,
-          "avg_price": 0.4155,
-          "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Chicago Cubs vs. Arizona Diamondbacks",
-      "slug": "mlb-chc-ari-2026-08-25",
-      "outcome": "Chicago Cubs",
-      "num_traders": 3,
-      "total_value": 16148.71,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2417,
-          "value": 8660,
-          "avg_price": 0.5,
-          "cur_price": 0.866
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.4518,
-          "value": 6403.51,
-          "avg_price": 0.4301,
-          "cur_price": 0.866
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6876,
-          "value": 1085.2,
-          "avg_price": 0.5,
-          "cur_price": 0.866
         }
       ]
     }
@@ -1471,11 +1418,14 @@
     "mlb-phi-sea-2026-08-25::Seattle Mariners": 3,
     "will-mike-mazzei-win-the-2026-oklahoma-governor-republican-primary-election::Yes": 3,
     "mlb-cin-sf-2026-08-25-total-7pt5::Under": 3,
-    "mlb-cle-laa-2026-08-25::Los Angeles Angels": 2,
-    "mlb-chc-ari-2026-08-25::Chicago Cubs": 2,
-    "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No": 1,
-    "lal-rea-rso-2026-08-26-rso::Yes": 1,
-    "mlb-cle-laa-2026-08-25-spread-away-1pt5::Los Angeles Angels": 1
+    "mlb-cle-laa-2026-08-25::Los Angeles Angels": 3,
+    "mlb-chc-ari-2026-08-25::Chicago Cubs": 3,
+    "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No": 2,
+    "lal-rea-rso-2026-08-26-rso::Yes": 2,
+    "mlb-cle-laa-2026-08-25-spread-away-1pt5::Los Angeles Angels": 2,
+    "mlb-cle-laa-2026-08-26::Los Angeles Angels": 1,
+    "ucl-lyo-fen-2026-08-26-lyo::No": 1,
+    "ucl-vf-din-2026-08-26-total-2pt5::Under": 1
   },
-  "updated_at": "2026-08-26T09:00:07.626004+00:00"
+  "updated_at": "2026-08-26T09:52:21.027900+00:00"
 }

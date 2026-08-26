@@ -5299,14 +5299,14 @@
       "slug": "mlb-bos-nyy-2026-06-06",
       "side": "New York Yankees",
       "alerted_at": "2026-07-28T04:26:39.722697+00:00",
-      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:52:21.006385+00:00",
       "entry_price": 0.48,
-      "current_price": 0.48,
+      "current_price": 0.475,
       "stake": 100.0,
       "shares": 208.333333,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 98.96,
+      "paper_pnl": -1.04,
+      "return_percent": -1.04,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10601.21,
@@ -24504,7 +24504,7 @@
       "current_value": 100.3,
       "paper_pnl": 0.3,
       "return_percent": 0.3,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 49681.56,
       "traders": [
@@ -24513,7 +24513,7 @@
         "mrworldwide"
       ],
       "url": "https://polymarket.com/event/will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election",
-      "consensus_lost_at": "2026-08-26T06:21:34.869185+00:00"
+      "consensus_lost_at": "2026-08-26T09:52:21.006385+00:00"
     },
     {
       "signal_id": "lec-mon-chi-2026-08-25-mon::Yes",
@@ -24656,7 +24656,7 @@
       "current_value": 12.35,
       "paper_pnl": -87.65,
       "return_percent": -87.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10607.53,
       "traders": [
@@ -24664,7 +24664,8 @@
         "hi774c",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-25-spread-away-1pt5"
+      "url": "https://polymarket.com/event/mlb-cle-laa-2026-08-25-spread-away-1pt5",
+      "consensus_lost_at": "2026-08-26T09:52:21.006385+00:00"
     },
     {
       "signal_id": "mlb-chc-ari-2026-08-25::Chicago Cubs",
@@ -24697,7 +24698,7 @@
       "slug": "lal-rea-rso-2026-08-26-rea",
       "side": "No",
       "alerted_at": "2026-08-26T03:40:40.579503+00:00",
-      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:52:21.006385+00:00",
       "entry_price": 0.255,
       "current_price": 0.235,
       "stake": 100.0,
@@ -24729,7 +24730,7 @@
       "current_value": 89.47,
       "paper_pnl": -10.53,
       "return_percent": -10.53,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3538.46,
       "traders": [
@@ -24737,7 +24738,8 @@
         "VeryLucky888",
         "hi774c"
       ],
-      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-rso"
+      "url": "https://polymarket.com/event/lal-rea-rso-2026-08-26-rso",
+      "consensus_lost_at": "2026-08-26T09:52:21.006385+00:00"
     },
     {
       "signal_id": "mlb-min-oak-2026-08-25::Athletics",
@@ -24796,7 +24798,7 @@
       "slug": "mlb-cin-sf-2026-08-26",
       "side": "Cincinnati Reds",
       "alerted_at": "2026-08-26T09:00:07.603644+00:00",
-      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:52:21.006385+00:00",
       "entry_price": 0.485,
       "current_price": 0.485,
       "stake": 100.0,
@@ -24869,7 +24871,7 @@
       "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
       "side": "Real Sociedad de F\u00fatbol",
       "alerted_at": "2026-08-26T09:00:07.603644+00:00",
-      "last_seen": "2026-08-26T09:00:07.603644+00:00",
+      "last_seen": "2026-08-26T09:52:21.006385+00:00",
       "entry_price": 0.425,
       "current_price": 0.425,
       "stake": 100.0,
@@ -24910,7 +24912,31 @@
         "0xa697d0b3FFf7D285a0F92d6Ee03a7f97809E59d5-1774326306031"
       ],
       "url": "https://polymarket.com/event/ucl-vf-din-2026-08-26-total-2pt5"
+    },
+    {
+      "signal_id": "lol-kt-bro2-2026-08-26-game1::KT Rolster",
+      "market": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
+      "slug": "lol-kt-bro2-2026-08-26-game1",
+      "side": "KT Rolster",
+      "alerted_at": "2026-08-26T09:52:21.006385+00:00",
+      "last_seen": "2026-08-26T09:52:21.006385+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 118311.67,
+      "traders": [
+        "sulumos",
+        "zofgkt1111",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/lol-kt-bro2-2026-08-26-game1"
     }
   ],
-  "updated_at": "2026-08-26T09:00:07.603644+00:00"
+  "updated_at": "2026-08-26T09:52:21.006385+00:00"
 }
