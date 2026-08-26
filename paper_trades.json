@@ -3160,7 +3160,7 @@
       "current_value": 127.68,
       "paper_pnl": 27.68,
       "return_percent": 27.68,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 72995.1,
       "traders": [
@@ -3169,7 +3169,7 @@
         "Tigerofthehood"
       ],
       "url": "https://polymarket.com/event/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "consensus_lost_at": "2026-08-12T09:41:45.958336+00:00"
+      "consensus_lost_at": "2026-08-26T02:45:02.701693+00:00"
     },
     {
       "signal_id": "iran-leadership-change-by-december-31-974-976-658-482-568::No",
@@ -16500,7 +16500,7 @@
       "current_value": 102.91,
       "paper_pnl": 2.91,
       "return_percent": 2.91,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1217.81,
       "traders": [
@@ -16509,7 +16509,7 @@
         "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882-1783406009396"
       ],
       "url": "https://polymarket.com/event/will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285",
-      "consensus_lost_at": "2026-08-17T06:03:30.187427+00:00"
+      "consensus_lost_at": "2026-08-26T02:45:02.701693+00:00"
     },
     {
       "signal_id": "lol-t1-dnf-2026-08-17::T1",
@@ -17531,7 +17531,7 @@
       "current_value": 104.3,
       "paper_pnl": 4.3,
       "return_percent": 4.3,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4837288.44,
       "traders": [
@@ -17540,7 +17540,7 @@
         "LlamaLoco0000"
       ],
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
-      "consensus_lost_at": "2026-08-18T19:54:25.982812+00:00"
+      "consensus_lost_at": "2026-08-26T02:45:02.701693+00:00"
     },
     {
       "signal_id": "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
@@ -24366,7 +24366,7 @@
       "slug": "bol1-uvi-nap-2026-08-25-uvi",
       "side": "Yes",
       "alerted_at": "2026-08-26T01:23:27.589490+00:00",
-      "last_seen": "2026-08-26T01:23:27.589490+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
       "entry_price": 0.9995,
       "current_price": 0.9995,
       "stake": 100.0,
@@ -24407,7 +24407,130 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/atp-mejia-draxl-2026-08-25"
+    },
+    {
+      "signal_id": "mlb-chc-ari-2026-08-25::Arizona Diamondbacks",
+      "market": "Chicago Cubs vs. Arizona Diamondbacks",
+      "slug": "mlb-chc-ari-2026-08-25",
+      "side": "Arizona Diamondbacks",
+      "alerted_at": "2026-08-26T02:45:02.701693+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
+      "entry_price": 0.125,
+      "current_price": 0.125,
+      "stake": 100.0,
+      "shares": 800.0,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 37579.27,
+      "traders": [
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "wr0ngw4yb3tt0r",
+        "Donghui",
+        "sbsigner"
+      ],
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-25"
+    },
+    {
+      "signal_id": "wnba-wsh-phx-2026-08-25-spread-away-1pt5::Washington Mystics",
+      "market": "Spread: Washington Mystics (-1.5)",
+      "slug": "wnba-wsh-phx-2026-08-25-spread-away-1pt5",
+      "side": "Washington Mystics",
+      "alerted_at": "2026-08-26T02:45:02.701693+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
+      "entry_price": 0.805,
+      "current_price": 0.805,
+      "stake": 100.0,
+      "shares": 124.223602,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 33171.95,
+      "traders": [
+        "wr0ngw4yb3tt0r",
+        "UpTheBlues",
+        "LuckyLoo",
+        "hi774c"
+      ],
+      "url": "https://polymarket.com/event/wnba-wsh-phx-2026-08-25-spread-away-1pt5"
+    },
+    {
+      "signal_id": "wnba-wsh-phx-2026-08-25::Phoenix Mercury",
+      "market": "Washington Mystics vs. Phoenix Mercury",
+      "slug": "wnba-wsh-phx-2026-08-25",
+      "side": "Phoenix Mercury",
+      "alerted_at": "2026-08-26T02:45:02.701693+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
+      "entry_price": 0.185,
+      "current_price": 0.185,
+      "stake": 100.0,
+      "shares": 540.540541,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 21392.63,
+      "traders": [
+        "Sassy-Bucket",
+        "Donghui",
+        "hi774c",
+        "IdentityV"
+      ],
+      "url": "https://polymarket.com/event/wnba-wsh-phx-2026-08-25"
+    },
+    {
+      "signal_id": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No",
+      "market": "Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?",
+      "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election",
+      "side": "No",
+      "alerted_at": "2026-08-26T02:45:02.701693+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
+      "entry_price": 0.9965,
+      "current_price": 0.9965,
+      "stake": 100.0,
+      "shares": 100.351229,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 49681.56,
+      "traders": [
+        "tourists",
+        "SnowLover7",
+        "mrworldwide"
+      ],
+      "url": "https://polymarket.com/event/will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election"
+    },
+    {
+      "signal_id": "lec-mon-chi-2026-08-25-mon::Yes",
+      "market": "Will CF Monterrey win on 2026-08-25?",
+      "slug": "lec-mon-chi-2026-08-25-mon",
+      "side": "Yes",
+      "alerted_at": "2026-08-26T02:45:02.701693+00:00",
+      "last_seen": "2026-08-26T02:45:02.701693+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9480.54,
+      "traders": [
+        "UpTheBlues",
+        "LuckyLoo",
+        "0x076daa"
+      ],
+      "url": "https://polymarket.com/event/lec-mon-chi-2026-08-25-mon"
     }
   ],
-  "updated_at": "2026-08-26T01:23:27.589490+00:00"
+  "updated_at": "2026-08-26T02:45:02.701693+00:00"
 }

@@ -1,11 +1,214 @@
 {
   "seen_ids": [
-    "mlb-lad-atl-2026-08-25-total-8pt5::Under",
-    "mlb-tb-det-2026-08-25::Detroit Tigers",
-    "bol1-uvi-nap-2026-08-25-uvi::Yes",
-    "atp-mejia-draxl-2026-08-25::Liam Draxl"
+    "mlb-chc-ari-2026-08-25::Arizona Diamondbacks",
+    "wnba-wsh-phx-2026-08-25-spread-away-1pt5::Washington Mystics",
+    "wnba-wsh-phx-2026-08-25::Phoenix Mercury",
+    "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election::No",
+    "lec-mon-chi-2026-08-25-mon::Yes",
+    "bol1-uvi-nap-2026-08-25-uvi::Yes"
   ],
   "signals": [
+    {
+      "market": "Chicago Cubs vs. Arizona Diamondbacks",
+      "slug": "mlb-chc-ari-2026-08-25",
+      "outcome": "Arizona Diamondbacks",
+      "num_traders": 4,
+      "total_value": 37579.27,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2813,
+          "value": 25327.36,
+          "avg_price": 0.3817,
+          "cur_price": 0.125
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2173,
+          "value": 5284.33,
+          "avg_price": 0.4873,
+          "cur_price": 0.125
+        },
+        {
+          "trader": "Donghui",
+          "roi": 0.183,
+          "value": 3749.99,
+          "avg_price": 0.3299,
+          "cur_price": 0.125
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.696,
+          "value": 3217.59,
+          "avg_price": 0.5005,
+          "cur_price": 0.125
+        }
+      ]
+    },
+    {
+      "market": "Spread: Washington Mystics (-1.5)",
+      "slug": "wnba-wsh-phx-2026-08-25-spread-away-1pt5",
+      "outcome": "Washington Mystics",
+      "num_traders": 4,
+      "total_value": 33171.95,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2173,
+          "value": 23728.42,
+          "avg_price": 0.4917,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.28,
+          "value": 5180.18,
+          "avg_price": 0.5047,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2783,
+          "value": 2230.66,
+          "avg_price": 0.4957,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2989,
+          "value": 2032.69,
+          "avg_price": 0.4956,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Washington Mystics vs. Phoenix Mercury",
+      "slug": "wnba-wsh-phx-2026-08-25",
+      "outcome": "Phoenix Mercury",
+      "num_traders": 4,
+      "total_value": 21392.63,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.2566,
+          "value": 14620.57,
+          "avg_price": 0.46,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "Donghui",
+          "roi": 0.183,
+          "value": 5549.99,
+          "avg_price": 0.4599,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2989,
+          "value": 796.57,
+          "avg_price": 0.4533,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "IdentityV",
+          "roi": 0.2703,
+          "value": 425.5,
+          "avg_price": 0.44,
+          "cur_price": 0.185
+        }
+      ]
+    },
+    {
+      "market": "Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?",
+      "slug": "will-genter-drummond-win-the-2026-oklahoma-governor-republican-primary-election",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 49681.56,
+      "holders": [
+        {
+          "trader": "tourists",
+          "roi": 0.4161,
+          "value": 27972.7,
+          "avg_price": 0.7279,
+          "cur_price": 0.9965
+        },
+        {
+          "trader": "SnowLover7",
+          "roi": 0.203,
+          "value": 15024.06,
+          "avg_price": 0.6134,
+          "cur_price": 0.9965
+        },
+        {
+          "trader": "mrworldwide",
+          "roi": 0.1687,
+          "value": 6684.8,
+          "avg_price": 0.6476,
+          "cur_price": 0.9965
+        }
+      ]
+    },
+    {
+      "market": "Will CF Monterrey win on 2026-08-25?",
+      "slug": "lec-mon-chi-2026-08-25-mon",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 9480.54,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.28,
+          "value": 8161.71,
+          "avg_price": 0.5775,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2783,
+          "value": 1212.15,
+          "avg_price": 0.5925,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x076daa",
+          "roi": 0.1525,
+          "value": 106.68,
+          "avg_price": 0.4996,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will FC Universitario win on 2026-08-25?",
+      "slug": "bol1-uvi-nap-2026-08-25-uvi",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3545.77,
+      "holders": [
+        {
+          "trader": "0x076daa",
+          "roi": 0.1525,
+          "value": 1471.26,
+          "avg_price": 0.4599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.28,
+          "value": 1407.05,
+          "avg_price": 0.8535,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2783,
+          "value": 667.46,
+          "avg_price": 0.4421,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5",
       "slug": "mlb-lad-atl-2026-08-25-total-8pt5",
@@ -69,36 +272,6 @@
           "roi": 0.2518,
           "value": 7496.26,
           "avg_price": 0.45,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will FC Universitario win on 2026-08-25?",
-      "slug": "bol1-uvi-nap-2026-08-25-uvi",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3777.86,
-      "holders": [
-        {
-          "trader": "0x076daa",
-          "roi": 0.1954,
-          "value": 1471.26,
-          "avg_price": 0.4599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "UpTheBlues",
-          "roi": 0.8125,
-          "value": 1407.05,
-          "avg_price": 0.8535,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2518,
-          "value": 899.55,
-          "avg_price": 0.4399,
           "cur_price": 0.9995
         }
       ]
@@ -1275,9 +1448,12 @@
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696::Yes": 3,
     "efl-sot-whu-2026-08-25-sot::No": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
-    "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 1,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 1
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 2,
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 2,
+    "mlb-lad-atl-2026-08-25-total-8pt5::Under": 1,
+    "mlb-tb-det-2026-08-25::Detroit Tigers": 1,
+    "atp-mejia-draxl-2026-08-25::Liam Draxl": 1
   },
-  "updated_at": "2026-08-26T01:23:27.610974+00:00"
+  "updated_at": "2026-08-26T02:45:02.743399+00:00"
 }
