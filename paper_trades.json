@@ -5635,7 +5635,7 @@
       "current_value": 147.8,
       "paper_pnl": 47.8,
       "return_percent": 47.8,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 23156.43,
       "traders": [
@@ -5644,7 +5644,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "consensus_lost_at": "2026-08-18T01:58:57.606042+00:00"
+      "consensus_lost_at": "2026-08-28T12:42:11.126975+00:00"
     },
     {
       "signal_id": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes",
@@ -5811,7 +5811,7 @@
       "current_value": 103.2,
       "paper_pnl": 3.2,
       "return_percent": 3.2,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8705.58,
       "traders": [
@@ -5820,7 +5820,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-karen-bass-win-the-2026-los-angeles-mayoral-election",
-      "consensus_lost_at": "2026-08-25T09:57:02.279056+00:00"
+      "consensus_lost_at": "2026-08-28T12:42:11.126975+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-28::Miami Marlins",
@@ -17523,15 +17523,15 @@
       "slug": "2026-balance-of-power-d-senate-d-house-949",
       "side": "Yes",
       "alerted_at": "2026-08-18T19:01:19.287117+00:00",
-      "last_seen": "2026-08-25T23:55:53.236198+00:00",
+      "last_seen": "2026-08-28T12:42:11.126975+00:00",
       "entry_price": 0.465,
-      "current_price": 0.485,
+      "current_price": 0.495,
       "stake": 100.0,
       "shares": 215.053763,
-      "current_value": 104.3,
-      "paper_pnl": 4.3,
-      "return_percent": 4.3,
-      "status": "CONSENSUS_LOST",
+      "current_value": 106.45,
+      "paper_pnl": 6.45,
+      "return_percent": 6.45,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 4837288.44,
       "traders": [
@@ -25509,7 +25509,31 @@
         "SPCEXBUYER"
       ],
       "url": "https://polymarket.com/event/lol-tes-lgd-2026-08-29"
+    },
+    {
+      "signal_id": "lol-bro2-fox1-2026-08-28::BNK FEARX",
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
+      "slug": "lol-bro2-fox1-2026-08-28",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-08-28T12:42:11.126975+00:00",
+      "last_seen": "2026-08-28T12:42:11.126975+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 76615.9,
+      "traders": [
+        "TAIWANNUMBERONE",
+        "ARI100KRAT",
+        "enpirugbrpti"
+      ],
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-28"
     }
   ],
-  "updated_at": "2026-08-28T01:02:36.469891+00:00"
+  "updated_at": "2026-08-28T12:42:11.126975+00:00"
 }

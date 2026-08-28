@@ -1,9 +1,69 @@
 {
   "seen_ids": [
-    "mlb-lad-atl-2026-08-27::Atlanta Braves",
-    "lol-tes-lgd-2026-08-29::LGD Gaming"
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "lol-bro2-fox1-2026-08-28::BNK FEARX"
   ],
   "signals": [
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2998363.32,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2667,
+          "value": 2970000,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "flawfence",
+          "roi": 1.195,
+          "value": 23863.65,
+          "avg_price": 0.4399,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.3276,
+          "value": 4499.67,
+          "avg_price": 0.4898,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
+      "slug": "lol-bro2-fox1-2026-08-28",
+      "outcome": "BNK FEARX",
+      "num_traders": 3,
+      "total_value": 76615.9,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.3279,
+          "value": 66907.28,
+          "avg_price": 0.5454,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ARI100KRAT",
+          "roi": 0.3316,
+          "value": 5116.92,
+          "avg_price": 0.4692,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "enpirugbrpti",
+          "roi": 0.2525,
+          "value": 4591.7,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Los Angeles Dodgers vs. Atlanta Braves",
       "slug": "mlb-lad-atl-2026-08-27",
@@ -1385,7 +1445,6 @@
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696::Yes": 3,
     "efl-sot-whu-2026-08-25-sot::No": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210285::Yes": 3,
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "mlb-lad-atl-2026-08-25-total-8pt5::Under": 3,
@@ -1434,9 +1493,11 @@
     "mlb-mil-nym-2026-08-26-total-8pt5::Under": 3,
     "lal-bar-bil-2026-08-27-bar::Yes": 3,
     "mlb-kc-tor-2026-08-26::Toronto Blue Jays": 3,
-    "cs2-lgc-fut-2026-08-27::Legacy": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 1
+    "cs2-lgc-fut-2026-08-27::Legacy": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 2,
+    "mlb-lad-atl-2026-08-27::Atlanta Braves": 1,
+    "lol-tes-lgd-2026-08-29::LGD Gaming": 1
   },
-  "updated_at": "2026-08-28T01:02:36.492890+00:00"
+  "updated_at": "2026-08-28T12:42:11.149395+00:00"
 }
