@@ -25879,7 +25879,7 @@
       "current_value": 201.92,
       "paper_pnl": 101.92,
       "return_percent": 101.92,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 10443.05,
       "traders": [
@@ -25888,7 +25888,8 @@
         "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/tur-kon-koc-2026-08-29-kon"
+      "url": "https://polymarket.com/event/tur-kon-koc-2026-08-29-kon",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "epl-cov-hul-2026-08-29-cov::No",
@@ -26281,7 +26282,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 174432.42,
       "traders": [
@@ -26291,7 +26292,8 @@
         "xfile",
         "sbsigner"
       ],
-      "url": "https://polymarket.com/event/fl1-lyo-hac-2026-08-29-lyo"
+      "url": "https://polymarket.com/event/fl1-lyo-hac-2026-08-29-lyo",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "cs2-lgc-fal2-2026-08-29::Team Falcons",
@@ -26307,7 +26309,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 236489.17,
       "traders": [
@@ -26315,7 +26317,8 @@
         "0x29b52d98ac9ef9414b04164246c95BC63d7",
         "jtwyslljy"
       ],
-      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-29"
+      "url": "https://polymarket.com/event/cs2-lgc-fal2-2026-08-29",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "lol-navi-gx-2026-08-29::Natus Vincere",
@@ -26331,7 +26334,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 169485.23,
       "traders": [
@@ -26339,7 +26342,8 @@
         "SineNooneEI",
         "PetsViljandist"
       ],
-      "url": "https://polymarket.com/event/lol-navi-gx-2026-08-29"
+      "url": "https://polymarket.com/event/lol-navi-gx-2026-08-29",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "sea-fio-fro-2026-08-29-fio::No",
@@ -26355,7 +26359,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 118148.76,
       "traders": [
@@ -26363,7 +26367,8 @@
         "jtwyslljy",
         "sbsigner"
       ],
-      "url": "https://polymarket.com/event/sea-fio-fro-2026-08-29-fio"
+      "url": "https://polymarket.com/event/sea-fio-fro-2026-08-29-fio",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "lol-navi-gx-2026-08-29::GIANTX",
@@ -26379,7 +26384,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1170.13,
       "traders": [
@@ -26387,7 +26392,8 @@
         "sulumos",
         "sbsigner"
       ],
-      "url": "https://polymarket.com/event/lol-navi-gx-2026-08-29"
+      "url": "https://polymarket.com/event/lol-navi-gx-2026-08-29",
+      "consensus_lost_at": "2026-08-29T23:26:13.503315+00:00"
     },
     {
       "signal_id": "atp-fery-buse-2026-08-29::Ignacio Buse",
@@ -26438,7 +26444,31 @@
         "sbsigner"
       ],
       "url": "https://polymarket.com/event/lal-sev-mad-2026-08-29-mad"
+    },
+    {
+      "signal_id": "mlb-bos-nyy-2026-08-29::Boston Red Sox",
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-08-29",
+      "side": "Boston Red Sox",
+      "alerted_at": "2026-08-29T23:26:13.503315+00:00",
+      "last_seen": "2026-08-29T23:26:13.503315+00:00",
+      "entry_price": 0.391895,
+      "current_price": 0.391895,
+      "stake": 100.0,
+      "shares": 255.170193,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 3468.26,
+      "traders": [
+        "nigiri99",
+        "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+        "BreakTheBank"
+      ],
+      "url": "https://polymarket.com/event/mlb-bos-nyy-2026-08-29"
     }
   ],
-  "updated_at": "2026-08-29T21:18:43.589446+00:00"
+  "updated_at": "2026-08-29T23:26:13.503315+00:00"
 }

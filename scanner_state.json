@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "atp-fery-buse-2026-08-29::Ignacio Buse",
-    "lal-sev-mad-2026-08-29-mad::No"
+    "mlb-bos-nyy-2026-08-29::Boston Red Sox"
   ],
   "signals": [
+    {
+      "market": "Boston Red Sox vs. New York Yankees",
+      "slug": "mlb-bos-nyy-2026-08-29",
+      "outcome": "Boston Red Sox",
+      "num_traders": 3,
+      "total_value": 3468.26,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1571,
+          "value": 1943.01,
+          "avg_price": 0.4499,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2388,
+          "value": 1076.79,
+          "avg_price": 0.43,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3235,
+          "value": 448.46,
+          "avg_price": 0.43,
+          "cur_price": 0.395
+        }
+      ]
+    },
     {
       "market": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
       "slug": "atp-fery-buse-2026-08-29",
@@ -269,616 +298,6 @@
           "value": 155.15,
           "avg_price": 0.4299,
           "cur_price": 0.021
-        }
-      ]
-    },
-    {
-      "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-      "slug": "lol-tes-lgd-2026-08-29",
-      "outcome": "LGD Gaming",
-      "num_traders": 8,
-      "total_value": 806295.29,
-      "holders": [
-        {
-          "trader": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
-          "roi": 0.2653,
-          "value": 619236.95,
-          "avg_price": 0.5469,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.3302,
-          "value": 36224.2,
-          "avg_price": 0.5127,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "LETMEEAT",
-          "roi": 0.1971,
-          "value": 34644.2,
-          "avg_price": 0.322,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Arisham",
-          "roi": 0.25,
-          "value": 34388.11,
-          "avg_price": 0.3416,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SineNooneEI",
-          "roi": 0.2366,
-          "value": 29985,
-          "avg_price": 0.3599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 21831.85,
-          "avg_price": 0.3709,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.1517,
-          "value": 19989.99,
-          "avg_price": 0.4149,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Skyfker",
-          "roi": 0.1988,
-          "value": 9994.99,
-          "avg_price": 0.3999,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
-      "slug": "bun-koe-hof-2026-08-29-hof",
-      "outcome": "No",
-      "num_traders": 6,
-      "total_value": 47632.32,
-      "holders": [
-        {
-          "trader": "matanovik",
-          "roi": 0.3564,
-          "value": 27647.17,
-          "avg_price": 0.56,
-          "cur_price": 0.9835
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 10323.75,
-          "avg_price": 0.5584,
-          "cur_price": 0.9835
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 6255.42,
-          "avg_price": 0.5599,
-          "cur_price": 0.9835
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 2817.66,
-          "avg_price": 0.57,
-          "cur_price": 0.9835
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 370.97,
-          "avg_price": 0.5799,
-          "cur_price": 0.9835
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 217.35,
-          "avg_price": 0.56,
-          "cur_price": 0.9835
-        }
-      ]
-    },
-    {
-      "market": "Will Coventry City FC win on 2026-08-29?",
-      "slug": "epl-cov-hul-2026-08-29-cov",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 9156.4,
-      "holders": [
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 3050.02,
-          "avg_price": 0.4545,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 2614.66,
-          "avg_price": 0.4555,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 1976.26,
-          "avg_price": 0.4468,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 1515.46,
-          "avg_price": 0.46,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Will AFC Bournemouth win on 2026-08-29?",
-      "slug": "epl-bou-eve-2026-08-29-bou",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 3270.27,
-      "holders": [
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 1503.53,
-          "avg_price": 0.5486,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 889.71,
-          "avg_price": 0.55,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 741.45,
-          "avg_price": 0.55,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 135.58,
-          "avg_price": 0.541,
-          "cur_price": 0.305
-        }
-      ]
-    },
-    {
-      "market": "Will Tottenham Hotspur FC win on 2026-08-29?",
-      "slug": "epl-tot-new-2026-08-29-tot",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 69134.49,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 66453.04,
-          "avg_price": 0.56,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 1371.78,
-          "avg_price": 0.56,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 1309.67,
-          "avg_price": 0.57,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will Newcastle United FC win on 2026-08-29?",
-      "slug": "epl-tot-new-2026-08-29-new",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 58494.25,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 57791.56,
-          "avg_price": 0.6799,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 473.18,
-          "avg_price": 0.68,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 229.51,
-          "avg_price": 0.6979,
-          "cur_price": 0.695
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
-      "slug": "cs2-fut-lvg-2026-08-29",
-      "outcome": "FUT Esports",
-      "num_traders": 3,
-      "total_value": 38047.33,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 29349.42,
-          "avg_price": 0.7499,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.3302,
-          "value": 4900.42,
-          "avg_price": 0.74,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.2434,
-          "value": 3797.49,
-          "avg_price": 0.606,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Will Coventry City FC vs. Hull City AFC end in a draw?",
-      "slug": "epl-cov-hul-2026-08-29-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16515.68,
-      "holders": [
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 13481.08,
-          "avg_price": 0.5799,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 2905.26,
-          "avg_price": 0.6969,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 129.34,
-          "avg_price": 0.74,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Spread: Juventus FC (-1.5)",
-      "slug": "sea-juv-par-2026-08-29-spread-home-1pt5",
-      "outcome": "Parma Calcio 1913",
-      "num_traders": 3,
-      "total_value": 14354.13,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2671,
-          "value": 6254.92,
-          "avg_price": 0.44,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2729,
-          "value": 5500.65,
-          "avg_price": 0.44,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 2598.56,
-          "avg_price": 0.4433,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Spread: Coventry City FC (-1.5)",
-      "slug": "epl-cov-hul-2026-08-29-spread-home-1pt5",
-      "outcome": "Hull City AFC",
-      "num_traders": 3,
-      "total_value": 14037.67,
-      "holders": [
-        {
-          "trader": "dv-pm",
-          "roi": 0.2729,
-          "value": 7490.82,
-          "avg_price": 0.7199,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 4979.47,
-          "avg_price": 0.702,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 1567.38,
-          "avg_price": 0.68,
-          "cur_price": 0.875
-        }
-      ]
-    },
-    {
-      "market": "Will SV 07 Elversberg win on 2026-08-29?",
-      "slug": "bun-elv-b04-2026-08-29-elv",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13753.53,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 7007.56,
-          "avg_price": 0.6299,
-          "cur_price": 0.988
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2729,
-          "value": 3527.16,
-          "avg_price": 0.17,
-          "cur_price": 0.988
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 3218.81,
-          "avg_price": 0.1691,
-          "cur_price": 0.988
-        }
-      ]
-    },
-    {
-      "market": "Will Real Betis Balompi\u00e9 win on 2026-08-29?",
-      "slug": "lal-lev-bet-2026-08-29-bet",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 11474.34,
-      "holders": [
-        {
-          "trader": "matanovik",
-          "roi": 0.3564,
-          "value": 7492.94,
-          "avg_price": 0.58,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 2858.73,
-          "avg_price": 0.5703,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 1122.67,
-          "avg_price": 0.57,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Will AFC Bournemouth vs. Everton FC end in a draw?",
-      "slug": "epl-bou-eve-2026-08-29-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 11279.26,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 7211.64,
-          "avg_price": 0.71,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 2205.26,
-          "avg_price": 0.7104,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 1862.36,
-          "avg_price": 0.7665,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Will 1. FSV Mainz 05 win on 2026-08-29?",
-      "slug": "bun-mai-scp-2026-08-29-mai",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 10610.7,
-      "holders": [
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 7494.11,
-          "avg_price": 0.3619,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "xfile",
-          "roi": 0.3886,
-          "value": 2416.42,
-          "avg_price": 0.41,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 700.17,
-          "avg_price": 0.3708,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "Will Hull City AFC win on 2026-08-29?",
-      "slug": "epl-cov-hul-2026-08-29-hul",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3217.7,
-      "holders": [
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 1997.36,
-          "avg_price": 0.8001,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 1038.66,
-          "avg_price": 0.81,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "dv-pm",
-          "roi": 0.2729,
-          "value": 181.68,
-          "avg_price": 0.78,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will Vancouver Whitecaps FC win on 2026-07-16?",
-      "slug": "mls-chi-vwh-2026-07-16-vwh",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1697.12,
-      "holders": [
-        {
-          "trader": "PendulumExchange",
-          "roi": 0.2751,
-          "value": 770.49,
-          "avg_price": 0.37,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 499.47,
-          "avg_price": 0.3905,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 427.16,
-          "avg_price": 0.3624,
-          "cur_price": 0.33
-        }
-      ]
-    },
-    {
-      "market": "Will Chicago Fire FC win on 2026-07-16?",
-      "slug": "mls-chi-vwh-2026-07-16-chi",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1393.64,
-      "holders": [
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 841.65,
-          "avg_price": 0.5805,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 374.68,
-          "avg_price": 0.6439,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 177.31,
-          "avg_price": 0.6399,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Will SV 07 Elversberg win on 2026-08-29?",
-      "slug": "bun-elv-b04-2026-08-29-elv",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1316.69,
-      "holders": [
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.2434,
-          "value": 606.0,
-          "avg_price": 0.0198,
-          "cur_price": 0.012
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 446.99,
-          "avg_price": 0.2597,
-          "cur_price": 0.012
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1651,
-          "value": 263.7,
-          "avg_price": 0.343,
-          "cur_price": 0.012
         }
       ]
     }
@@ -1996,30 +1415,32 @@
     "clarity-act-signed-into-law-in-2026::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "2026-balance-of-power-r-senate-d-house-444::Yes": 3,
-    "lol-tes-lgd-2026-08-29::LGD Gaming": 2,
-    "bun-koe-hof-2026-08-29-hof::No": 2,
-    "epl-cov-hul-2026-08-29-cov::No": 2,
-    "epl-bou-eve-2026-08-29-bou::No": 2,
-    "epl-tot-new-2026-08-29-tot::No": 2,
-    "epl-tot-new-2026-08-29-new::No": 2,
-    "cs2-fut-lvg-2026-08-29::FUT Esports": 2,
-    "epl-cov-hul-2026-08-29-draw::No": 2,
-    "sea-juv-par-2026-08-29-spread-home-1pt5::Parma Calcio 1913": 2,
-    "epl-cov-hul-2026-08-29-spread-home-1pt5::Hull City AFC": 2,
-    "bun-elv-b04-2026-08-29-elv::Yes": 2,
-    "lal-lev-bet-2026-08-29-bet::No": 2,
-    "epl-bou-eve-2026-08-29-draw::No": 2,
-    "bun-mai-scp-2026-08-29-mai::No": 2,
-    "epl-cov-hul-2026-08-29-hul::No": 2,
-    "mls-chi-vwh-2026-07-16-vwh::Yes": 2,
-    "mls-chi-vwh-2026-07-16-chi::No": 2,
-    "bun-elv-b04-2026-08-29-elv::No": 2,
-    "fl1-lyo-hac-2026-08-29-lyo::No": 1,
-    "cs2-lgc-fal2-2026-08-29::Team Falcons": 1,
-    "lol-navi-gx-2026-08-29::Natus Vincere": 1,
-    "sea-fio-fro-2026-08-29-fio::No": 1,
-    "tur-kon-koc-2026-08-29-kon::No": 1,
-    "lol-navi-gx-2026-08-29::GIANTX": 1
+    "lol-tes-lgd-2026-08-29::LGD Gaming": 3,
+    "bun-koe-hof-2026-08-29-hof::No": 3,
+    "epl-cov-hul-2026-08-29-cov::No": 3,
+    "epl-bou-eve-2026-08-29-bou::No": 3,
+    "epl-tot-new-2026-08-29-tot::No": 3,
+    "epl-tot-new-2026-08-29-new::No": 3,
+    "cs2-fut-lvg-2026-08-29::FUT Esports": 3,
+    "epl-cov-hul-2026-08-29-draw::No": 3,
+    "sea-juv-par-2026-08-29-spread-home-1pt5::Parma Calcio 1913": 3,
+    "epl-cov-hul-2026-08-29-spread-home-1pt5::Hull City AFC": 3,
+    "bun-elv-b04-2026-08-29-elv::Yes": 3,
+    "lal-lev-bet-2026-08-29-bet::No": 3,
+    "epl-bou-eve-2026-08-29-draw::No": 3,
+    "bun-mai-scp-2026-08-29-mai::No": 3,
+    "epl-cov-hul-2026-08-29-hul::No": 3,
+    "mls-chi-vwh-2026-07-16-vwh::Yes": 3,
+    "mls-chi-vwh-2026-07-16-chi::No": 3,
+    "bun-elv-b04-2026-08-29-elv::No": 3,
+    "fl1-lyo-hac-2026-08-29-lyo::No": 2,
+    "cs2-lgc-fal2-2026-08-29::Team Falcons": 2,
+    "lol-navi-gx-2026-08-29::Natus Vincere": 2,
+    "sea-fio-fro-2026-08-29-fio::No": 2,
+    "tur-kon-koc-2026-08-29-kon::No": 2,
+    "lol-navi-gx-2026-08-29::GIANTX": 2,
+    "atp-fery-buse-2026-08-29::Ignacio Buse": 1,
+    "lal-sev-mad-2026-08-29-mad::No": 1
   },
-  "updated_at": "2026-08-29T21:18:43.603668+00:00"
+  "updated_at": "2026-08-29T23:26:13.528527+00:00"
 }
