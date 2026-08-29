@@ -4943,14 +4943,14 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-28T22:42:54.932621+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
       "entry_price": 0.505,
-      "current_price": 0.505,
+      "current_price": 0.455,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 90.1,
+      "paper_pnl": -9.9,
+      "return_percent": -9.9,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 68371.59,
@@ -7957,14 +7957,14 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "side": "Yes",
       "alerted_at": "2026-08-03T18:27:42.753570+00:00",
-      "last_seen": "2026-08-28T22:42:54.932621+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
       "entry_price": 0.425,
-      "current_price": 0.485,
+      "current_price": 0.535,
       "stake": 100.0,
       "shares": 235.294118,
-      "current_value": 114.12,
-      "paper_pnl": 14.12,
-      "return_percent": 14.12,
+      "current_value": 125.88,
+      "paper_pnl": 25.88,
+      "return_percent": 25.88,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 14848.81,
@@ -17531,7 +17531,7 @@
       "current_value": 106.45,
       "paper_pnl": 6.45,
       "return_percent": 6.45,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4837288.44,
       "traders": [
@@ -17540,7 +17540,7 @@
         "LlamaLoco0000"
       ],
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
-      "consensus_lost_at": "2026-08-26T02:45:02.701693+00:00"
+      "consensus_lost_at": "2026-08-29T03:54:04.952628+00:00"
     },
     {
       "signal_id": "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
@@ -25526,7 +25526,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 76615.9,
       "traders": [
@@ -25534,7 +25534,8 @@
         "ARI100KRAT",
         "enpirugbrpti"
       ],
-      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-28"
+      "url": "https://polymarket.com/event/lol-bro2-fox1-2026-08-28",
+      "consensus_lost_at": "2026-08-29T03:54:04.952628+00:00"
     },
     {
       "signal_id": "fed-rate-hike-by-september-2026-meeting::Yes",
@@ -25631,7 +25632,103 @@
         "TheyAreTakingTheHobitsToIsengard"
       ],
       "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep"
+    },
+    {
+      "signal_id": "mex-nec-caz-2026-08-28-caz::Yes",
+      "market": "Will CF Cruz Azul win on 2026-08-28?",
+      "slug": "mex-nec-caz-2026-08-28-caz",
+      "side": "Yes",
+      "alerted_at": "2026-08-29T03:54:04.952628+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 110629.17,
+      "traders": [
+        "nigiri99",
+        "no1dodgersfan",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/mex-nec-caz-2026-08-28-caz"
+    },
+    {
+      "signal_id": "epl-liv-not-2026-08-29-total-1pt5::Over",
+      "market": "Liverpool FC vs. Nottingham Forest FC: O/U 1.5",
+      "slug": "epl-liv-not-2026-08-29-total-1pt5",
+      "side": "Over",
+      "alerted_at": "2026-08-29T03:54:04.952628+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
+      "entry_price": 0.825,
+      "current_price": 0.825,
+      "stake": 100.0,
+      "shares": 121.212121,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12530.93,
+      "traders": [
+        "JAMJAMJAM4",
+        "nigiri99",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/epl-liv-not-2026-08-29-total-1pt5"
+    },
+    {
+      "signal_id": "lol-nrg-wu-2026-08-28::Winthrop University",
+      "market": "LoL: NRG Esports vs Winthrop University (BO3) - North American Challengers League Playoffs",
+      "slug": "lol-nrg-wu-2026-08-28",
+      "side": "Winthrop University",
+      "alerted_at": "2026-08-29T03:54:04.952628+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8308.73,
+      "traders": [
+        "no1dodgersfan",
+        "nigiri99",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/lol-nrg-wu-2026-08-28"
+    },
+    {
+      "signal_id": "wnba-wsh-la-2026-08-28::Washington Mystics",
+      "market": "Washington Mystics vs. Los Angeles Sparks",
+      "slug": "wnba-wsh-la-2026-08-28",
+      "side": "Washington Mystics",
+      "alerted_at": "2026-08-29T03:54:04.952628+00:00",
+      "last_seen": "2026-08-29T03:54:04.952628+00:00",
+      "entry_price": 0.42,
+      "current_price": 0.42,
+      "stake": 100.0,
+      "shares": 238.095238,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6212.64,
+      "traders": [
+        "nigiri99",
+        "JAMJAMJAM4",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/wnba-wsh-la-2026-08-28"
     }
   ],
-  "updated_at": "2026-08-28T22:42:54.932621+00:00"
+  "updated_at": "2026-08-29T03:54:04.952628+00:00"
 }

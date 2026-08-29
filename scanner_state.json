@@ -1,70 +1,190 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "mex-nec-caz-2026-08-28-caz::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "fed-rate-hike-by-september-2026-meeting::Yes",
-    "will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep::Yes",
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes",
-    "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep::No"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "epl-liv-not-2026-08-29-total-1pt5::Over",
+    "lol-nrg-wu-2026-08-28::Winthrop University",
+    "wnba-wsh-la-2026-08-28::Washington Mystics"
   ],
   "signals": [
+    {
+      "market": "Will CF Cruz Azul win on 2026-08-28?",
+      "slug": "mex-nec-caz-2026-08-28-caz",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 110629.17,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 58436.77,
+          "avg_price": 0.4754,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 26465.94,
+          "avg_price": 0.4712,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 25726.46,
+          "avg_price": 0.4699,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 27548.2,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 14490.99,
+          "avg_price": 0.4738,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 10552.34,
+          "avg_price": 0.5376,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "JAMJAMJAM4",
+          "roi": 0.4764,
+          "value": 2504.87,
+          "avg_price": 0.75,
+          "cur_price": 0.535
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 7,
-      "total_value": 2536303.65,
+      "num_traders": 3,
+      "total_value": 22676.34,
       "holders": [
         {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.7464,
-          "value": 1009573.3,
-          "avg_price": 0.3929,
-          "cur_price": 0.505
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 18238.27,
+          "avg_price": 0.3169,
+          "cur_price": 0.455
         },
         {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1907,
-          "value": 507773.74,
-          "avg_price": 0.3834,
-          "cur_price": 0.505
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 3705.07,
+          "avg_price": 0.3249,
+          "cur_price": 0.455
         },
         {
-          "trader": "ThePrinceThatWasPromised",
-          "roi": 2.5662,
-          "value": 285296.14,
-          "avg_price": 0.376,
-          "cur_price": 0.505
+          "trader": "JAMJAMJAM4",
+          "roi": 0.4764,
+          "value": 733.0,
+          "avg_price": 0.2899,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Liverpool FC vs. Nottingham Forest FC: O/U 1.5",
+      "slug": "epl-liv-not-2026-08-29-total-1pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 12530.93,
+      "holders": [
+        {
+          "trader": "JAMJAMJAM4",
+          "roi": 0.4764,
+          "value": 6867.3,
+          "avg_price": 0.83,
+          "cur_price": 0.825
         },
         {
-          "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 0.9,
-          "value": 259918.58,
-          "avg_price": 0.3522,
-          "cur_price": 0.505
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 3323.93,
+          "avg_price": 0.8266,
+          "cur_price": 0.825
         },
         {
-          "trader": "foodenjoyer",
-          "roi": 0.2306,
-          "value": 205522.51,
-          "avg_price": 0.3142,
-          "cur_price": 0.505
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 2339.7,
+          "avg_price": 0.82,
+          "cur_price": 0.825
+        }
+      ]
+    },
+    {
+      "market": "LoL: NRG Esports vs Winthrop University (BO3) - North American Challengers League Playoffs",
+      "slug": "lol-nrg-wu-2026-08-28",
+      "outcome": "Winthrop University",
+      "num_traders": 3,
+      "total_value": 8308.73,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 6015.99,
+          "avg_price": 0.1699,
+          "cur_price": 0.9995
         },
         {
-          "trader": "jsmythyson",
-          "roi": 0.2766,
-          "value": 154692.15,
-          "avg_price": 0.3349,
-          "cur_price": 0.505
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 1392.3,
+          "avg_price": 0.1699,
+          "cur_price": 0.9995
         },
         {
-          "trader": "50-Pence",
-          "roi": 1.187,
-          "value": 113527.23,
-          "avg_price": 0.1421,
-          "cur_price": 0.505
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 900.44,
+          "avg_price": 0.1699,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Washington Mystics vs. Los Angeles Sparks",
+      "slug": "wnba-wsh-la-2026-08-28",
+      "outcome": "Washington Mystics",
+      "num_traders": 3,
+      "total_value": 6212.64,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.6532,
+          "value": 3547.32,
+          "avg_price": 0.6617,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "JAMJAMJAM4",
+          "roi": 0.4764,
+          "value": 2036.16,
+          "avg_price": 0.6799,
+          "cur_price": 0.42
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3874,
+          "value": 629.16,
+          "avg_price": 0.6904,
+          "cur_price": 0.42
         }
       ]
     },
@@ -125,36 +245,6 @@
           "value": 4437.5,
           "avg_price": 0.869,
           "cur_price": 0.8875
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 98707.37,
-      "holders": [
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.2306,
-          "value": 88716.37,
-          "avg_price": 0.5414,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1907,
-          "value": 9700.0,
-          "avg_price": 0.7049,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "50-Pence",
-          "roi": 1.187,
-          "value": 291,
-          "avg_price": 0.6299,
-          "cur_price": 0.485
         }
       ]
     },
@@ -335,136 +425,6 @@
           "value": 4591.7,
           "avg_price": 0.46,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Atlanta Braves",
-      "slug": "mlb-lad-atl-2026-08-27",
-      "outcome": "Atlanta Braves",
-      "num_traders": 13,
-      "total_value": 1074586.19,
-      "holders": [
-        {
-          "trader": "S-Works",
-          "roi": 0.2598,
-          "value": 294858.06,
-          "avg_price": 0.5048,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.4584,
-          "value": 158289.25,
-          "avg_price": 0.523,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 0.3038,
-          "value": 119250,
-          "avg_price": 0.52,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.2792,
-          "value": 89442.24,
-          "avg_price": 0.5138,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.2944,
-          "value": 79500,
-          "avg_price": 0.52,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.2836,
-          "value": 67575,
-          "avg_price": 0.5129,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.1959,
-          "value": 55550.62,
-          "avg_price": 0.6002,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "casualbet2020",
-          "roi": 0.1952,
-          "value": 47699.73,
-          "avg_price": 0.52,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.2402,
-          "value": 47699.65,
-          "avg_price": 0.52,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "texaskid",
-          "roi": 0.5257,
-          "value": 39750,
-          "avg_price": 0.53,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1704,
-          "value": 34448.12,
-          "avg_price": 0.5165,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.1852,
-          "value": 26499.74,
-          "avg_price": 0.52,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "787-HUEV-W-ZOPE",
-          "roi": 0.244,
-          "value": 14023.78,
-          "avg_price": 0.65,
-          "cur_price": 0.795
-        }
-      ]
-    },
-    {
-      "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-      "slug": "lol-tes-lgd-2026-08-29",
-      "outcome": "LGD Gaming",
-      "num_traders": 3,
-      "total_value": 17154.85,
-      "holders": [
-        {
-          "trader": "MagicalJourney",
-          "roi": 0.3908,
-          "value": 11725.0,
-          "avg_price": 0.3114,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.3619,
-          "value": 4225.33,
-          "avg_price": 0.3169,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "SPCEXBUYER",
-          "roi": 0.1563,
-          "value": 1204.52,
-          "avg_price": 0.3,
-          "cur_price": 0.335
         }
       ]
     }
@@ -1564,10 +1524,16 @@
     "cs2-lgc-fut-2026-08-27::Legacy": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
-    "mlb-lad-atl-2026-08-27::Atlanta Braves": 2,
-    "lol-tes-lgd-2026-08-29::LGD Gaming": 2,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
-    "lol-bro2-fox1-2026-08-28::BNK FEARX": 1
+    "mlb-lad-atl-2026-08-27::Atlanta Braves": 3,
+    "lol-tes-lgd-2026-08-29::LGD Gaming": 3,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
+    "lol-bro2-fox1-2026-08-28::BNK FEARX": 2,
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
+    "will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 1,
+    "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep::No": 1
   },
-  "updated_at": "2026-08-28T22:42:54.950060+00:00"
+  "updated_at": "2026-08-29T03:54:05.067960+00:00"
 }
