@@ -1,26 +1,207 @@
 {
   "seen_ids": [
-    "lol-tes-lgd-2026-08-29::LGD Gaming",
-    "bun-koe-hof-2026-08-29-hof::No",
+    "fl1-lyo-hac-2026-08-29-lyo::No",
+    "cs2-lgc-fal2-2026-08-29::Team Falcons",
+    "lol-navi-gx-2026-08-29::Natus Vincere",
+    "sea-fio-fro-2026-08-29-fio::No",
     "tur-kon-koc-2026-08-29-kon::No",
-    "epl-cov-hul-2026-08-29-cov::No",
-    "epl-bou-eve-2026-08-29-bou::No",
-    "epl-tot-new-2026-08-29-tot::No",
-    "epl-tot-new-2026-08-29-new::No",
-    "cs2-fut-lvg-2026-08-29::FUT Esports",
-    "epl-cov-hul-2026-08-29-draw::No",
-    "sea-juv-par-2026-08-29-spread-home-1pt5::Parma Calcio 1913",
-    "epl-cov-hul-2026-08-29-spread-home-1pt5::Hull City AFC",
-    "bun-elv-b04-2026-08-29-elv::Yes",
-    "lal-lev-bet-2026-08-29-bet::No",
-    "epl-bou-eve-2026-08-29-draw::No",
-    "bun-mai-scp-2026-08-29-mai::No",
-    "epl-cov-hul-2026-08-29-hul::No",
-    "mls-chi-vwh-2026-07-16-vwh::Yes",
-    "mls-chi-vwh-2026-07-16-chi::No",
-    "bun-elv-b04-2026-08-29-elv::No"
+    "lol-navi-gx-2026-08-29::GIANTX"
   ],
   "signals": [
+    {
+      "market": "Will Olympique Lyonnais win on 2026-08-29?",
+      "slug": "fl1-lyo-hac-2026-08-29-lyo",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 174432.42,
+      "holders": [
+        {
+          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+          "roi": 0.2017,
+          "value": 141749.99,
+          "avg_price": 0.31,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.344,
+          "value": 27344.52,
+          "avg_price": 0.31,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "1xx2",
+          "roi": 0.3023,
+          "value": 4177.22,
+          "avg_price": 0.31,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "xfile",
+          "roi": 0.483,
+          "value": 742.14,
+          "avg_price": 0.33,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3028,
+          "value": 418.55,
+          "avg_price": 0.3399,
+          "cur_price": 0.315
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
+      "slug": "cs2-lgc-fal2-2026-08-29",
+      "outcome": "Team Falcons",
+      "num_traders": 3,
+      "total_value": 236489.17,
+      "holders": [
+        {
+          "trader": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+          "roi": 0.2505,
+          "value": 201905.62,
+          "avg_price": 0.6334,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.4244,
+          "value": 30713.55,
+          "avg_price": 0.6299,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.1786,
+          "value": 3870,
+          "avg_price": 0.64,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
+      "slug": "lol-navi-gx-2026-08-29",
+      "outcome": "Natus Vincere",
+      "num_traders": 3,
+      "total_value": 169485.23,
+      "holders": [
+        {
+          "trader": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+          "roi": 0.2505,
+          "value": 143637.11,
+          "avg_price": 0.57,
+          "cur_price": 0.979
+        },
+        {
+          "trader": "SineNooneEI",
+          "roi": 0.2887,
+          "value": 19579.94,
+          "avg_price": 0.5699,
+          "cur_price": 0.979
+        },
+        {
+          "trader": "PetsViljandist",
+          "roi": 0.1745,
+          "value": 6268.18,
+          "avg_price": 0.5424,
+          "cur_price": 0.979
+        }
+      ]
+    },
+    {
+      "market": "Will ACF Fiorentina win on 2026-08-29?",
+      "slug": "sea-fio-fro-2026-08-29-fio",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 118148.76,
+      "holders": [
+        {
+          "trader": "gransaaa",
+          "roi": 0.1944,
+          "value": 92018.12,
+          "avg_price": 0.428,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.1786,
+          "value": 24987.04,
+          "avg_price": 0.4329,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3028,
+          "value": 1143.6,
+          "avg_price": 0.4245,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Konyaspor win on 2026-08-29?",
+      "slug": "tur-kon-koc-2026-08-29-kon",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 20242.76,
+      "holders": [
+        {
+          "trader": "sbsigner",
+          "roi": 0.3028,
+          "value": 11027.15,
+          "avg_price": 0.5125,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "SharkbetX-com",
+          "roi": 0.2499,
+          "value": 5997,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.2111,
+          "value": 3218.61,
+          "avg_price": 0.5127,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
+      "slug": "lol-navi-gx-2026-08-29",
+      "outcome": "GIANTX",
+      "num_traders": 3,
+      "total_value": 1170.13,
+      "holders": [
+        {
+          "trader": "matanovik",
+          "roi": 0.344,
+          "value": 546.42,
+          "avg_price": 0.43,
+          "cur_price": 0.021
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.1964,
+          "value": 468.56,
+          "avg_price": 0.4299,
+          "cur_price": 0.021
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.3028,
+          "value": 155.15,
+          "avg_price": 0.4299,
+          "cur_price": 0.021
+        }
+      ]
+    },
     {
       "market": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
       "slug": "lol-tes-lgd-2026-08-29",
@@ -134,43 +315,6 @@
           "value": 217.35,
           "avg_price": 0.56,
           "cur_price": 0.9835
-        }
-      ]
-    },
-    {
-      "market": "Will Konyaspor win on 2026-08-29?",
-      "slug": "tur-kon-koc-2026-08-29-kon",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 10443.05,
-      "holders": [
-        {
-          "trader": "sbsigner",
-          "roi": 0.4193,
-          "value": 4986.37,
-          "avg_price": 0.5099,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.3225,
-          "value": 2970,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2671,
-          "value": 1594.01,
-          "avg_price": 0.5127,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "Cannae",
-          "roi": 0.1656,
-          "value": 892.67,
-          "avg_price": 0.5033,
-          "cur_price": 0.495
         }
       ]
     },
@@ -917,126 +1061,6 @@
           "value": 279.33,
           "avg_price": 0.4999,
           "cur_price": 0.345
-        }
-      ]
-    },
-    {
-      "market": "Will CF Cruz Azul win on 2026-08-28?",
-      "slug": "mex-nec-caz-2026-08-28-caz",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 110629.17,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.6532,
-          "value": 58436.77,
-          "avg_price": 0.4754,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.176,
-          "value": 26465.94,
-          "avg_price": 0.4712,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3874,
-          "value": 25726.46,
-          "avg_price": 0.4699,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Liverpool FC vs. Nottingham Forest FC: O/U 1.5",
-      "slug": "epl-liv-not-2026-08-29-total-1pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 12530.93,
-      "holders": [
-        {
-          "trader": "JAMJAMJAM4",
-          "roi": 0.4764,
-          "value": 6867.3,
-          "avg_price": 0.83,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.6532,
-          "value": 3323.93,
-          "avg_price": 0.8266,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3874,
-          "value": 2339.7,
-          "avg_price": 0.82,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "LoL: NRG Esports vs Winthrop University (BO3) - North American Challengers League Playoffs",
-      "slug": "lol-nrg-wu-2026-08-28",
-      "outcome": "Winthrop University",
-      "num_traders": 3,
-      "total_value": 8308.73,
-      "holders": [
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.176,
-          "value": 6015.99,
-          "avg_price": 0.1699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.6532,
-          "value": 1392.3,
-          "avg_price": 0.1699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3874,
-          "value": 900.44,
-          "avg_price": 0.1699,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Washington Mystics vs. Los Angeles Sparks",
-      "slug": "wnba-wsh-la-2026-08-28",
-      "outcome": "Washington Mystics",
-      "num_traders": 3,
-      "total_value": 6212.64,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.6532,
-          "value": 3547.32,
-          "avg_price": 0.6617,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "JAMJAMJAM4",
-          "roi": 0.4764,
-          "value": 2036.16,
-          "avg_price": 0.6799,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.3874,
-          "value": 629.16,
-          "avg_price": 0.6904,
-          "cur_price": 0.42
         }
       ]
     }
@@ -2143,17 +2167,35 @@
     "will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep::Yes": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep::No": 3,
-    "mex-nec-caz-2026-08-28-caz::Yes": 2,
-    "epl-liv-not-2026-08-29-total-1pt5::Over": 2,
-    "lol-nrg-wu-2026-08-28::Winthrop University": 2,
-    "wnba-wsh-la-2026-08-28::Washington Mystics": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 1,
-    "lol-t1-fox1-2026-08-29-game2::BNK FEARX": 1,
-    "cs2-vit-9z-2026-08-29::Vitality": 1,
-    "clarity-act-signed-into-law-in-2026::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "2026-balance-of-power-r-senate-d-house-444::Yes": 1
+    "mex-nec-caz-2026-08-28-caz::Yes": 3,
+    "epl-liv-not-2026-08-29-total-1pt5::Over": 3,
+    "lol-nrg-wu-2026-08-28::Winthrop University": 3,
+    "wnba-wsh-la-2026-08-28::Washington Mystics": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 2,
+    "lol-t1-fox1-2026-08-29-game2::BNK FEARX": 2,
+    "cs2-vit-9z-2026-08-29::Vitality": 2,
+    "clarity-act-signed-into-law-in-2026::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "2026-balance-of-power-r-senate-d-house-444::Yes": 2,
+    "lol-tes-lgd-2026-08-29::LGD Gaming": 1,
+    "bun-koe-hof-2026-08-29-hof::No": 1,
+    "epl-cov-hul-2026-08-29-cov::No": 1,
+    "epl-bou-eve-2026-08-29-bou::No": 1,
+    "epl-tot-new-2026-08-29-tot::No": 1,
+    "epl-tot-new-2026-08-29-new::No": 1,
+    "cs2-fut-lvg-2026-08-29::FUT Esports": 1,
+    "epl-cov-hul-2026-08-29-draw::No": 1,
+    "sea-juv-par-2026-08-29-spread-home-1pt5::Parma Calcio 1913": 1,
+    "epl-cov-hul-2026-08-29-spread-home-1pt5::Hull City AFC": 1,
+    "bun-elv-b04-2026-08-29-elv::Yes": 1,
+    "lal-lev-bet-2026-08-29-bet::No": 1,
+    "epl-bou-eve-2026-08-29-draw::No": 1,
+    "bun-mai-scp-2026-08-29-mai::No": 1,
+    "epl-cov-hul-2026-08-29-hul::No": 1,
+    "mls-chi-vwh-2026-07-16-vwh::Yes": 1,
+    "mls-chi-vwh-2026-07-16-chi::No": 1,
+    "bun-elv-b04-2026-08-29-elv::No": 1
   },
-  "updated_at": "2026-08-29T15:21:09.612925+00:00"
+  "updated_at": "2026-08-29T18:42:38.071032+00:00"
 }
