@@ -26409,7 +26409,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 45305.7,
       "traders": [
@@ -26418,7 +26418,8 @@
         "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
         "ArturitoFilito"
       ],
-      "url": "https://polymarket.com/event/atp-fery-buse-2026-08-29"
+      "url": "https://polymarket.com/event/atp-fery-buse-2026-08-29",
+      "consensus_lost_at": "2026-08-30T01:30:28.840019+00:00"
     },
     {
       "signal_id": "lal-sev-mad-2026-08-29-mad::No",
@@ -26434,7 +26435,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 25149.52,
       "traders": [
@@ -26443,7 +26444,8 @@
         "matanovik",
         "sbsigner"
       ],
-      "url": "https://polymarket.com/event/lal-sev-mad-2026-08-29-mad"
+      "url": "https://polymarket.com/event/lal-sev-mad-2026-08-29-mad",
+      "consensus_lost_at": "2026-08-30T01:30:28.840019+00:00"
     },
     {
       "signal_id": "mlb-bos-nyy-2026-08-29::Boston Red Sox",
@@ -26451,14 +26453,14 @@
       "slug": "mlb-bos-nyy-2026-08-29",
       "side": "Boston Red Sox",
       "alerted_at": "2026-08-29T23:26:13.503315+00:00",
-      "last_seen": "2026-08-29T23:26:13.503315+00:00",
+      "last_seen": "2026-08-30T01:30:28.840019+00:00",
       "entry_price": 0.391895,
-      "current_price": 0.391895,
+      "current_price": 0.125,
       "stake": 100.0,
       "shares": 255.170193,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 31.9,
+      "paper_pnl": -68.1,
+      "return_percent": -68.1,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 3468.26,
@@ -26470,5 +26472,5 @@
       "url": "https://polymarket.com/event/mlb-bos-nyy-2026-08-29"
     }
   ],
-  "updated_at": "2026-08-29T23:26:13.503315+00:00"
+  "updated_at": "2026-08-30T01:30:28.840019+00:00"
 }
