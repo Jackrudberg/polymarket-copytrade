@@ -1,6 +1,100 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes",
+    "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 48464.53,
+      "holders": [
+        {
+          "trader": "betwick",
+          "roi": 0.5603,
+          "value": 43077.85,
+          "avg_price": 0.4419,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "BigRabbit",
+          "roi": 1.5164,
+          "value": 5249.98,
+          "avg_price": 0.5199,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "meagainsttheworld",
+          "roi": 1.0739,
+          "value": 136.7,
+          "avg_price": 0.5299,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Bab el-Mandeb Strait effectively closed by September 30?",
+      "slug": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2618.16,
+      "holders": [
+        {
+          "trader": "BigRabbit",
+          "roi": 1.5164,
+          "value": 2125,
+          "avg_price": 0.08,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "meagainsttheworld",
+          "roi": 1.0739,
+          "value": 248.67,
+          "avg_price": 0.2478,
+          "cur_price": 0.085
+        },
+        {
+          "trader": "dodowinge",
+          "roi": 0.279,
+          "value": 244.49,
+          "avg_price": 0.0599,
+          "cur_price": 0.085
+        }
+      ]
+    },
+    {
+      "market": "Iran charges Hormuz fees by August 31?",
+      "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1070.63,
+      "holders": [
+        {
+          "trader": "betwick",
+          "roi": 0.5603,
+          "value": 786.38,
+          "avg_price": 0.1065,
+          "cur_price": 0.0135
+        },
+        {
+          "trader": "BigRabbit",
+          "roi": 1.5164,
+          "value": 155.7,
+          "avg_price": 0.1459,
+          "cur_price": 0.0135
+        },
+        {
+          "trader": "dodowinge",
+          "roi": 0.279,
+          "value": 128.55,
+          "avg_price": 0.1241,
+          "cur_price": 0.0135
+        }
+      ]
+    },
     {
       "market": "Will Chelsea FC win on 2026-08-30?",
       "slug": "epl-che-bri-2026-08-30-che",
@@ -132,96 +226,6 @@
           "value": 210.29,
           "avg_price": 0.62,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "LoL: JD Gaming vs Team WE - Game 3 Winner",
-      "slug": "lol-jdg-we-2026-08-30-game3",
-      "outcome": "JD Gaming",
-      "num_traders": 3,
-      "total_value": 95394.43,
-      "holders": [
-        {
-          "trader": "pilotlady",
-          "roi": 0.2519,
-          "value": 56789.54,
-          "avg_price": 0.5299,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.4933,
-          "value": 31635.17,
-          "avg_price": 0.5462,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2112",
-          "roi": 0.3941,
-          "value": 6969.72,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
-      "slug": "lol-jdg-we-2026-08-30",
-      "outcome": "Team WE",
-      "num_traders": 3,
-      "total_value": 68798.95,
-      "holders": [
-        {
-          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
-          "roi": 0.18,
-          "value": 52961.89,
-          "avg_price": 0.3454,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PetsViljandist",
-          "roi": 0.536,
-          "value": 14992.5,
-          "avg_price": 0.32,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.1883,
-          "value": 844.56,
-          "avg_price": 0.32,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
-      "slug": "cs2-m80-aur1-2026-08-30",
-      "outcome": "M80",
-      "num_traders": 3,
-      "total_value": 7919.25,
-      "holders": [
-        {
-          "trader": "CORGI8",
-          "roi": 0.2511,
-          "value": 5250,
-          "avg_price": 0.26,
-          "cur_price": 0.125
-        },
-        {
-          "trader": "787-HUEV-W-ZOPE",
-          "roi": 0.2518,
-          "value": 2475,
-          "avg_price": 0.24,
-          "cur_price": 0.125
-        },
-        {
-          "trader": "Wealthfreedom001",
-          "roi": 0.1883,
-          "value": 194.25,
-          "avg_price": 0.25,
-          "cur_price": 0.125
         }
       ]
     }
@@ -1337,7 +1341,6 @@
     "lol-t1-fox1-2026-08-29-game2::BNK FEARX": 3,
     "cs2-vit-9z-2026-08-29::Vitality": 3,
     "clarity-act-signed-into-law-in-2026::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "2026-balance-of-power-r-senate-d-house-444::Yes": 3,
     "lol-tes-lgd-2026-08-29::LGD Gaming": 3,
     "bun-koe-hof-2026-08-29-hof::No": 3,
@@ -1366,13 +1369,13 @@
     "atp-fery-buse-2026-08-29::Ignacio Buse": 3,
     "lal-sev-mad-2026-08-29-mad::No": 3,
     "mlb-bos-nyy-2026-08-29::Boston Red Sox": 3,
-    "lol-jdg-we-2026-08-30-game3::JD Gaming": 2,
-    "lol-jdg-we-2026-08-30::Team WE": 2,
-    "cs2-m80-aur1-2026-08-30::M80": 2,
-    "epl-che-bri-2026-08-30-che::Yes": 1,
-    "epl-sun-ful-2026-08-30-sun::Yes": 1,
-    "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 1,
-    "cs2-vit-lgc-2026-08-30-game1::Vitality": 1
+    "lol-jdg-we-2026-08-30-game3::JD Gaming": 3,
+    "lol-jdg-we-2026-08-30::Team WE": 3,
+    "cs2-m80-aur1-2026-08-30::M80": 3,
+    "epl-che-bri-2026-08-30-che::Yes": 2,
+    "epl-sun-ful-2026-08-30-sun::Yes": 2,
+    "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 2,
+    "cs2-vit-lgc-2026-08-30-game1::Vitality": 2
   },
-  "updated_at": "2026-08-30T19:55:27.656218+00:00"
+  "updated_at": "2026-08-30T22:27:13.935994+00:00"
 }
