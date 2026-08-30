@@ -1,6 +1,100 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "lol-jdg-we-2026-08-30-game3::JD Gaming",
+    "lol-jdg-we-2026-08-30::Team WE",
+    "cs2-m80-aur1-2026-08-30::M80"
+  ],
   "signals": [
+    {
+      "market": "LoL: JD Gaming vs Team WE - Game 3 Winner",
+      "slug": "lol-jdg-we-2026-08-30-game3",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 95394.43,
+      "holders": [
+        {
+          "trader": "pilotlady",
+          "roi": 0.2519,
+          "value": 56789.54,
+          "avg_price": 0.5299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "meoooow",
+          "roi": 0.4933,
+          "value": 31635.17,
+          "avg_price": 0.5462,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2112",
+          "roi": 0.3941,
+          "value": 6969.72,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+      "slug": "lol-jdg-we-2026-08-30",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 68798.95,
+      "holders": [
+        {
+          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+          "roi": 0.18,
+          "value": 52961.89,
+          "avg_price": 0.3454,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "PetsViljandist",
+          "roi": 0.536,
+          "value": 14992.5,
+          "avg_price": 0.32,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.1883,
+          "value": 844.56,
+          "avg_price": 0.32,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+      "slug": "cs2-m80-aur1-2026-08-30",
+      "outcome": "M80",
+      "num_traders": 3,
+      "total_value": 7919.25,
+      "holders": [
+        {
+          "trader": "CORGI8",
+          "roi": 0.2511,
+          "value": 5250,
+          "avg_price": 0.26,
+          "cur_price": 0.125
+        },
+        {
+          "trader": "787-HUEV-W-ZOPE",
+          "roi": 0.2518,
+          "value": 2475,
+          "avg_price": 0.24,
+          "cur_price": 0.125
+        },
+        {
+          "trader": "Wealthfreedom001",
+          "roi": 0.1883,
+          "value": 194.25,
+          "avg_price": 0.25,
+          "cur_price": 0.125
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-08-29",
@@ -1171,7 +1265,7 @@
     "lol-navi-gx-2026-08-29::GIANTX": 3,
     "atp-fery-buse-2026-08-29::Ignacio Buse": 3,
     "lal-sev-mad-2026-08-29-mad::No": 3,
-    "mlb-bos-nyy-2026-08-29::Boston Red Sox": 1
+    "mlb-bos-nyy-2026-08-29::Boston Red Sox": 2
   },
-  "updated_at": "2026-08-30T07:18:42.267859+00:00"
+  "updated_at": "2026-08-30T13:00:48.967440+00:00"
 }
