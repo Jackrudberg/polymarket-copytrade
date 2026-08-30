@@ -1,7 +1,5 @@
 {
-  "seen_ids": [
-    "mlb-bos-nyy-2026-08-29::Boston Red Sox"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Boston Red Sox vs. New York Yankees",
@@ -30,80 +28,6 @@
           "value": 141.92,
           "avg_price": 0.43,
           "cur_price": 0.125
-        }
-      ]
-    },
-    {
-      "market": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
-      "slug": "atp-fery-buse-2026-08-29",
-      "outcome": "Ignacio Buse",
-      "num_traders": 4,
-      "total_value": 45305.7,
-      "holders": [
-        {
-          "trader": "0xwise",
-          "roi": 0.4844,
-          "value": 34611.81,
-          "avg_price": 0.4984,
-          "cur_price": 0.983
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1545,
-          "value": 4175.78,
-          "avg_price": 0.46,
-          "cur_price": 0.983
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.2436,
-          "value": 4133.1,
-          "avg_price": 0.44,
-          "cur_price": 0.983
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.2072,
-          "value": 2385.01,
-          "avg_price": 0.44,
-          "cur_price": 0.983
-        }
-      ]
-    },
-    {
-      "market": "Will Club Atl\u00e9tico de Madrid win on 2026-08-29?",
-      "slug": "lal-sev-mad-2026-08-29-mad",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 25149.52,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.3379,
-          "value": 19874.06,
-          "avg_price": 0.4903,
-          "cur_price": 0.0845
-        },
-        {
-          "trader": "1xx2",
-          "roi": 0.1797,
-          "value": 1967.83,
-          "avg_price": 0.495,
-          "cur_price": 0.0845
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.3985,
-          "value": 1770.19,
-          "avg_price": 0.2742,
-          "cur_price": 0.0845
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.2714,
-          "value": 1537.44,
-          "avg_price": 0.0137,
-          "cur_price": 0.0845
         }
       ]
     }
@@ -1245,8 +1169,9 @@
     "sea-fio-fro-2026-08-29-fio::No": 3,
     "tur-kon-koc-2026-08-29-kon::No": 3,
     "lol-navi-gx-2026-08-29::GIANTX": 3,
-    "atp-fery-buse-2026-08-29::Ignacio Buse": 2,
-    "lal-sev-mad-2026-08-29-mad::No": 2
+    "atp-fery-buse-2026-08-29::Ignacio Buse": 3,
+    "lal-sev-mad-2026-08-29-mad::No": 3,
+    "mlb-bos-nyy-2026-08-29::Boston Red Sox": 1
   },
-  "updated_at": "2026-08-30T01:30:28.856934+00:00"
+  "updated_at": "2026-08-30T07:18:42.267859+00:00"
 }
