@@ -1,34 +1,86 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "israel-x-iran-ceasefire-continues-through-september-30::No",
     "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes"
   ],
   "signals": [
     {
+      "market": "Bab el-Mandeb Strait effectively closed by September 30?",
+      "slug": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939",
+      "outcome": "Yes",
+      "num_traders": 5,
+      "total_value": 4566.61,
+      "holders": [
+        {
+          "trader": "BigRabbit",
+          "roi": 0.8951,
+          "value": 1875,
+          "avg_price": 0.08,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "5038813185",
+          "roi": 0.3009,
+          "value": 1725.0,
+          "avg_price": 0.0834,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "52centis",
+          "roi": 0.8244,
+          "value": 531.46,
+          "avg_price": 0.1795,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "meagainsttheworld",
+          "roi": 0.9526,
+          "value": 219.42,
+          "avg_price": 0.2478,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "dodowinge",
+          "roi": 0.2762,
+          "value": 215.73,
+          "avg_price": 0.0599,
+          "cur_price": 0.075
+        }
+      ]
+    },
+    {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 48464.53,
+      "num_traders": 4,
+      "total_value": 1145775.97,
       "holders": [
         {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.7564,
+          "value": 1097311.44,
+          "avg_price": 0.3978,
+          "cur_price": 0.525
+        },
+        {
           "trader": "betwick",
-          "roi": 0.5603,
+          "roi": 0.3663,
           "value": 43077.85,
           "avg_price": 0.4419,
           "cur_price": 0.525
         },
         {
           "trader": "BigRabbit",
-          "roi": 1.5164,
+          "roi": 0.8951,
           "value": 5249.98,
           "avg_price": 0.5199,
           "cur_price": 0.525
         },
         {
           "trader": "meagainsttheworld",
-          "roi": 1.0739,
+          "roi": 0.9526,
           "value": 136.7,
           "avg_price": 0.5299,
           "cur_price": 0.525
@@ -36,32 +88,32 @@
       ]
     },
     {
-      "market": "Bab el-Mandeb Strait effectively closed by September 30?",
-      "slug": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939",
-      "outcome": "Yes",
+      "market": "Israel x Iran ceasefire continues through September 30?",
+      "slug": "israel-x-iran-ceasefire-continues-through-september-30",
+      "outcome": "No",
       "num_traders": 3,
-      "total_value": 2618.16,
+      "total_value": 6176.27,
       "holders": [
         {
-          "trader": "BigRabbit",
-          "roi": 1.5164,
-          "value": 2125,
-          "avg_price": 0.08,
-          "cur_price": 0.085
+          "trader": "52centis",
+          "roi": 0.8244,
+          "value": 3884.01,
+          "avg_price": 0.11,
+          "cur_price": 0.155
+        },
+        {
+          "trader": "5038813185",
+          "roi": 0.3009,
+          "value": 1727.68,
+          "avg_price": 0.1861,
+          "cur_price": 0.155
         },
         {
           "trader": "meagainsttheworld",
-          "roi": 1.0739,
-          "value": 248.67,
-          "avg_price": 0.2478,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "dodowinge",
-          "roi": 0.279,
-          "value": 244.49,
-          "avg_price": 0.0599,
-          "cur_price": 0.085
+          "roi": 0.9526,
+          "value": 564.58,
+          "avg_price": 0.1891,
+          "cur_price": 0.155
         }
       ]
     },
@@ -70,162 +122,28 @@
       "slug": "iran-charges-hormuz-fees-by-august-31-20260625175039062-177",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 1070.63,
+      "total_value": 991.33,
       "holders": [
         {
           "trader": "betwick",
-          "roi": 0.5603,
-          "value": 786.38,
+          "roi": 0.3663,
+          "value": 728.13,
           "avg_price": 0.1065,
-          "cur_price": 0.0135
+          "cur_price": 0.0125
         },
         {
           "trader": "BigRabbit",
-          "roi": 1.5164,
-          "value": 155.7,
+          "roi": 0.8951,
+          "value": 144.17,
           "avg_price": 0.1459,
-          "cur_price": 0.0135
+          "cur_price": 0.0125
         },
         {
           "trader": "dodowinge",
-          "roi": 0.279,
-          "value": 128.55,
+          "roi": 0.2762,
+          "value": 119.03,
           "avg_price": 0.1241,
-          "cur_price": 0.0135
-        }
-      ]
-    },
-    {
-      "market": "Will Chelsea FC win on 2026-08-30?",
-      "slug": "epl-che-bri-2026-08-30-che",
-      "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 299157.09,
-      "holders": [
-        {
-          "trader": "RJW1",
-          "roi": 0.4044,
-          "value": 201229.16,
-          "avg_price": 0.5287,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
-          "roi": 0.3372,
-          "value": 72363.8,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.178,
-          "value": 15376.92,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "oudine2",
-          "roi": 0.194,
-          "value": 9995,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x0f003f",
-          "roi": 0.3174,
-          "value": 192.21,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Sunderland AFC win on 2026-08-30?",
-      "slug": "epl-sun-ful-2026-08-30-sun",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2778534.81,
-      "holders": [
-        {
-          "trader": "3edmond.dantes",
-          "roi": 0.3157,
-          "value": 2747432.81,
-          "avg_price": 0.4231,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.178,
-          "value": 18595.35,
-          "avg_price": 0.4299,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x0f003f",
-          "roi": 0.3174,
-          "value": 12506.65,
-          "avg_price": 0.3995,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Manchester United FC (-1.5)",
-      "slug": "epl-mun-ips-2026-08-30-spread-home-1pt5",
-      "outcome": "Manchester United FC",
-      "num_traders": 3,
-      "total_value": 81786.52,
-      "holders": [
-        {
-          "trader": "RJW1",
-          "roi": 0.4044,
-          "value": 46162.36,
-          "avg_price": 0.4849,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CORGI8",
-          "roi": 0.178,
-          "value": 30084.95,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "thatguythatguy",
-          "roi": 0.2535,
-          "value": 5539.21,
-          "avg_price": 0.4599,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Vitality vs Legacy - Map 1 Winner",
-      "slug": "cs2-vit-lgc-2026-08-30-game1",
-      "outcome": "Vitality",
-      "num_traders": 3,
-      "total_value": 18644.78,
-      "holders": [
-        {
-          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
-          "roi": 0.2312,
-          "value": 16866.53,
-          "avg_price": 0.68,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "FaZeUp1",
-          "roi": 0.5305,
-          "value": 1567.96,
-          "avg_price": 0.6903,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.1701,
-          "value": 210.29,
-          "avg_price": 0.62,
-          "cur_price": 0.685
+          "cur_price": 0.0125
         }
       ]
     }
@@ -1372,10 +1290,10 @@
     "lol-jdg-we-2026-08-30-game3::JD Gaming": 3,
     "lol-jdg-we-2026-08-30::Team WE": 3,
     "cs2-m80-aur1-2026-08-30::M80": 3,
-    "epl-che-bri-2026-08-30-che::Yes": 2,
-    "epl-sun-ful-2026-08-30-sun::Yes": 2,
-    "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 2,
-    "cs2-vit-lgc-2026-08-30-game1::Vitality": 2
+    "epl-che-bri-2026-08-30-che::Yes": 3,
+    "epl-sun-ful-2026-08-30-sun::Yes": 3,
+    "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 3,
+    "cs2-vit-lgc-2026-08-30-game1::Vitality": 3
   },
-  "updated_at": "2026-08-30T22:27:13.935994+00:00"
+  "updated_at": "2026-08-31T00:47:35.970687+00:00"
 }
