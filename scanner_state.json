@@ -1,11 +1,69 @@
 {
   "seen_ids": [
-    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "israel-x-iran-ceasefire-continues-through-september-30::No",
-    "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes"
+    "will-alexander-zverev-win-the-2026-mens-us-open::Yes",
+    "will-arthur-fils-win-the-2026-mens-us-open::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "slug": "will-alexander-zverev-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8126.36,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 1.0366,
+          "value": 4922.16,
+          "avg_price": 0.23,
+          "cur_price": 0.2215
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.4445,
+          "value": 2841.22,
+          "avg_price": 0.216,
+          "cur_price": 0.2215
+        },
+        {
+          "trader": "CosmicCedar",
+          "roi": 0.3558,
+          "value": 362.98,
+          "avg_price": 0.0204,
+          "cur_price": 0.2215
+        }
+      ]
+    },
+    {
+      "market": "Will Arthur Fils win the 2026 Men's US Open?",
+      "slug": "will-arthur-fils-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7894.54,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 0.4445,
+          "value": 5212.23,
+          "avg_price": 0.0732,
+          "cur_price": 0.0905
+        },
+        {
+          "trader": "0xwise",
+          "roi": 0.6679,
+          "value": 2534.0,
+          "avg_price": 0.0765,
+          "cur_price": 0.0905
+        },
+        {
+          "trader": "CosmicCedar",
+          "roi": 0.3558,
+          "value": 148.31,
+          "avg_price": 0.0204,
+          "cur_price": 0.0905
+        }
+      ]
+    },
     {
       "market": "Bab el-Mandeb Strait effectively closed by September 30?",
       "slug": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939",
@@ -1293,7 +1351,11 @@
     "epl-che-bri-2026-08-30-che::Yes": 3,
     "epl-sun-ful-2026-08-30-sun::Yes": 3,
     "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 3,
-    "cs2-vit-lgc-2026-08-30-game1::Vitality": 3
+    "cs2-vit-lgc-2026-08-30-game1::Vitality": 3,
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "israel-x-iran-ceasefire-continues-through-september-30::No": 1,
+    "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 1
   },
-  "updated_at": "2026-08-31T00:47:35.970687+00:00"
+  "updated_at": "2026-08-31T06:17:38.682553+00:00"
 }
