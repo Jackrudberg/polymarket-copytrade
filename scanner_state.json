@@ -1,9 +1,40 @@
 {
   "seen_ids": [
+    "will-the-us-invade-iran-before-2027::No",
     "will-alexander-zverev-win-the-2026-mens-us-open::Yes",
     "will-arthur-fils-win-the-2026-mens-us-open::Yes"
   ],
   "signals": [
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 9463.16,
+      "holders": [
+        {
+          "trader": "CosmicCedar",
+          "roi": 0.2898,
+          "value": 5070,
+          "avg_price": 0.76,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.164,
+          "value": 4225,
+          "avg_price": 0.73,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "5038813185",
+          "roi": 0.1878,
+          "value": 168.16,
+          "avg_price": 0.86,
+          "cur_price": 0.845
+        }
+      ]
+    },
     {
       "market": "Will Alexander Zverev win the 2026 Men's US Open?",
       "slug": "will-alexander-zverev-win-the-2026-mens-us-open",
@@ -13,21 +44,21 @@
       "holders": [
         {
           "trader": "fRibrenlc",
-          "roi": 1.0366,
+          "roi": 1.0351,
           "value": 4922.16,
           "avg_price": 0.23,
           "cur_price": 0.2215
         },
         {
           "trader": "bands1",
-          "roi": 0.4445,
+          "roi": 0.4836,
           "value": 2841.22,
           "avg_price": 0.216,
           "cur_price": 0.2215
         },
         {
           "trader": "CosmicCedar",
-          "roi": 0.3558,
+          "roi": 0.2898,
           "value": 362.98,
           "avg_price": 0.0204,
           "cur_price": 0.2215
@@ -39,28 +70,28 @@
       "slug": "will-arthur-fils-win-the-2026-mens-us-open",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 7894.54,
+      "total_value": 7807.31,
       "holders": [
         {
           "trader": "bands1",
-          "roi": 0.4445,
-          "value": 5212.23,
+          "roi": 0.4836,
+          "value": 5154.64,
           "avg_price": 0.0732,
-          "cur_price": 0.0905
+          "cur_price": 0.0895
         },
         {
           "trader": "0xwise",
-          "roi": 0.6679,
-          "value": 2534.0,
+          "roi": 0.6665,
+          "value": 2506.0,
           "avg_price": 0.0765,
-          "cur_price": 0.0905
+          "cur_price": 0.0895
         },
         {
           "trader": "CosmicCedar",
-          "roi": 0.3558,
-          "value": 148.31,
+          "roi": 0.2898,
+          "value": 146.67,
           "avg_price": 0.0204,
-          "cur_price": 0.0905
+          "cur_price": 0.0895
         }
       ]
     },
@@ -1094,7 +1125,6 @@
     "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5::Legacy": 3,
     "will-bitcoin-reach-82pt5k-in-august-2026::Yes": 3,
     "putin-out-before-2027-346::No": 3,
-    "will-the-us-invade-iran-before-2027::No": 3,
     "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
     "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 3,
     "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 3,
@@ -1352,10 +1382,10 @@
     "epl-sun-ful-2026-08-30-sun::Yes": 3,
     "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 3,
     "cs2-vit-lgc-2026-08-30-game1::Vitality": 3,
-    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "israel-x-iran-ceasefire-continues-through-september-30::No": 1,
-    "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 1
+    "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "israel-x-iran-ceasefire-continues-through-september-30::No": 2,
+    "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 2
   },
-  "updated_at": "2026-08-31T06:17:38.682553+00:00"
+  "updated_at": "2026-08-31T14:07:15.793678+00:00"
 }
