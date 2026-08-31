@@ -8422,7 +8422,7 @@
       "current_value": 104.97,
       "paper_pnl": 4.97,
       "return_percent": 4.97,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 455881.13,
       "traders": [
@@ -8431,7 +8431,7 @@
         "PEYZ-BIGGEST-FAN"
       ],
       "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-      "consensus_lost_at": "2026-08-21T17:59:52.501957+00:00"
+      "consensus_lost_at": "2026-08-31T23:46:12.818295+00:00"
     },
     {
       "signal_id": "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas",
@@ -26613,7 +26613,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 8126.36,
       "traders": [
@@ -26621,7 +26621,8 @@
         "bands1",
         "CosmicCedar"
       ],
-      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open"
+      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
+      "consensus_lost_at": "2026-08-31T23:46:12.818295+00:00"
     },
     {
       "signal_id": "will-arthur-fils-win-the-2026-mens-us-open::Yes",
@@ -26637,7 +26638,7 @@
       "current_value": 98.9,
       "paper_pnl": -1.1,
       "return_percent": -1.1,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7894.54,
       "traders": [
@@ -26645,7 +26646,8 @@
         "0xwise",
         "CosmicCedar"
       ],
-      "url": "https://polymarket.com/event/will-arthur-fils-win-the-2026-mens-us-open"
+      "url": "https://polymarket.com/event/will-arthur-fils-win-the-2026-mens-us-open",
+      "consensus_lost_at": "2026-08-31T23:46:12.818295+00:00"
     },
     {
       "signal_id": "atp-landalu-fearnle-2026-08-30::Jacob Fearnley",
@@ -26678,14 +26680,14 @@
       "slug": "mlb-mil-chc-2026-08-31",
       "side": "Chicago Cubs",
       "alerted_at": "2026-08-31T20:01:46.984568+00:00",
-      "last_seen": "2026-08-31T20:01:46.984568+00:00",
+      "last_seen": "2026-08-31T23:46:12.818295+00:00",
       "entry_price": 0.505,
-      "current_price": 0.505,
+      "current_price": 0.5,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 99.01,
+      "paper_pnl": -0.99,
+      "return_percent": -0.99,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 55748.02,
@@ -26745,5 +26747,5 @@
       "url": "https://polymarket.com/event/cs2-fut-vit-2026-08-31"
     }
   ],
-  "updated_at": "2026-08-31T20:01:46.984568+00:00"
+  "updated_at": "2026-08-31T23:46:12.818295+00:00"
 }
