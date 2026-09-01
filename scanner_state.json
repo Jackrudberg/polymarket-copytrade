@@ -1,9 +1,100 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes"
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "will-jd-vance-win-the-2028-us-presidential-election::No",
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 555116.29,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.8693,
+          "value": 527929.03,
+          "avg_price": 0.7933,
+          "cur_price": 0.8895
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3582,
+          "value": 17789.98,
+          "avg_price": 0.8659,
+          "cur_price": 0.8895
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1742,
+          "value": 9397.28,
+          "avg_price": 0.8721,
+          "cur_price": 0.8895
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 300236.13,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1742,
+          "value": 149900,
+          "avg_price": 0.5,
+          "cur_price": 0.7495
+        },
+        {
+          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
+          "roi": 0.3988,
+          "value": 75386.13,
+          "avg_price": 0.5,
+          "cur_price": 0.7495
+        },
+        {
+          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+          "roi": 0.2557,
+          "value": 74950,
+          "avg_price": 0.5,
+          "cur_price": 0.7495
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 100345.77,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1742,
+          "value": 50100.0,
+          "avg_price": 0.4999,
+          "cur_price": 0.2505
+        },
+        {
+          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
+          "roi": 0.3988,
+          "value": 25195.77,
+          "avg_price": 0.5,
+          "cur_price": 0.2505
+        },
+        {
+          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+          "roi": 0.2557,
+          "value": 25050,
+          "avg_price": 0.5,
+          "cur_price": 0.2505
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -31,66 +122,6 @@
           "value": 1602.77,
           "avg_price": 0.2,
           "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 537296.42,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.0836,
-          "value": 527335.52,
-          "avg_price": 0.7933,
-          "cur_price": 0.8885
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1974,
-          "value": 9386.71,
-          "avg_price": 0.8721,
-          "cur_price": 0.8885
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2481,
-          "value": 574.19,
-          "avg_price": 0.5,
-          "cur_price": 0.8885
-        }
-      ]
-    },
-    {
-      "market": "Milwaukee Brewers vs. Chicago Cubs",
-      "slug": "mlb-mil-chc-2026-08-31",
-      "outcome": "Chicago Cubs",
-      "num_traders": 3,
-      "total_value": 88629.88,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1759,
-          "value": 62649.49,
-          "avg_price": 0.5062,
-          "cur_price": 0.5
-        },
-        {
-          "trader": "Sunny24",
-          "roi": 0.1937,
-          "value": 25490.2,
-          "avg_price": 0.5099,
-          "cur_price": 0.5
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.2807,
-          "value": 490.19,
-          "avg_price": 0.51,
-          "cur_price": 0.5
         }
       ]
     }
@@ -655,8 +686,6 @@
     "wta-gauff-rybakin-2026-08-12::Coco Gauff": 3,
     "dota2-flc-lgd-2026-08-12-game1::LGD Gaming": 3,
     "dota2-boombo-og-2026-08-12::BoomBoys": 3,
-    "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
     "dota2-flc-lgd-2026-08-12::Team Falcons": 3,
     "dota2-flc-lgd-2026-08-12-game-handicap-away-1pt5::LGD Gaming": 3,
     "dota2-liquid-vg-2026-08-13-game1::Team Liquid": 3,
@@ -1248,7 +1277,8 @@
     "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
-    "mlb-mil-chc-2026-08-31::Chicago Cubs": 2
+    "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1
   },
-  "updated_at": "2026-09-01T07:45:36.089269+00:00"
+  "updated_at": "2026-09-01T12:48:07.754565+00:00"
 }
