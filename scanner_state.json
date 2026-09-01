@@ -1,37 +1,80 @@
 {
   "seen_ids": [
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
     "will-jd-vance-win-the-2028-us-presidential-election::No",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes"
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes"
   ],
   "signals": [
     {
       "market": "Will no Fed rate cuts happen in 2026?",
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 555116.29,
+      "num_traders": 4,
+      "total_value": 555691.12,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.8693,
+          "roi": 2.0882,
           "value": 527929.03,
           "avg_price": 0.7933,
           "cur_price": 0.8895
         },
         {
           "trader": "0xheavy888",
-          "roi": 0.3582,
+          "roi": 0.2207,
           "value": 17789.98,
           "avg_price": 0.8659,
           "cur_price": 0.8895
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1742,
+          "roi": 0.2549,
           "value": 9397.28,
-          "avg_price": 0.8721,
+          "avg_price": 0.8787,
           "cur_price": 0.8895
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1686,
+          "value": 574.83,
+          "avg_price": 0.5,
+          "cur_price": 0.8895
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2182894.9,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.0882,
+          "value": 1423693.66,
+          "avg_price": 0.4186,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2549,
+          "value": 757513.37,
+          "avg_price": 0.4212,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1686,
+          "value": 1687.87,
+          "avg_price": 0.2,
+          "cur_price": 0.595
         }
       ]
     },
@@ -44,7 +87,7 @@
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1742,
+          "roi": 0.2549,
           "value": 149900,
           "avg_price": 0.5,
           "cur_price": 0.7495
@@ -66,6 +109,36 @@
       ]
     },
     {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 292572.19,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.0882,
+          "value": 285728.52,
+          "avg_price": 0.61,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2549,
+          "value": 5678.17,
+          "avg_price": 0.6128,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.6021,
+          "value": 1165.5,
+          "avg_price": 0.0312,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
       "market": "Will JD Vance win the 2028 US Presidential Election?",
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
       "outcome": "Yes",
@@ -74,7 +147,7 @@
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1742,
+          "roi": 0.2549,
           "value": 50100.0,
           "avg_price": 0.4999,
           "cur_price": 0.2505
@@ -96,32 +169,122 @@
       ]
     },
     {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 2022523.86,
+      "total_value": 14111.48,
       "holders": [
         {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.0836,
-          "value": 1340911.36,
-          "avg_price": 0.4173,
-          "cur_price": 0.565
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2549,
+          "value": 9480.0,
+          "avg_price": 0.6781,
+          "cur_price": 0.395
         },
         {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1974,
-          "value": 680009.73,
-          "avg_price": 0.4122,
-          "cur_price": 0.565
+          "trader": "0xheavy888",
+          "roi": 0.2207,
+          "value": 3950,
+          "avg_price": 0.72,
+          "cur_price": 0.395
         },
         {
           "trader": "donthackme",
-          "roi": 0.2481,
-          "value": 1602.77,
+          "roi": 0.1686,
+          "value": 681.48,
           "avg_price": 0.2,
-          "cur_price": 0.565
+          "cur_price": 0.395
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7360.59,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.0882,
+          "value": 4450.12,
+          "avg_price": 0.7533,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1686,
+          "value": 1929.99,
+          "avg_price": 0.5058,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.6021,
+          "value": 980.48,
+          "avg_price": 0.1,
+          "cur_price": 0.89
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6032.93,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2549,
+          "value": 3892.63,
+          "avg_price": 0.3645,
+          "cur_price": 0.3905
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1686,
+          "value": 1320.19,
+          "avg_price": 0.3942,
+          "cur_price": 0.3905
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.6021,
+          "value": 820.11,
+          "avg_price": 0.0312,
+          "cur_price": 0.3905
+        }
+      ]
+    },
+    {
+      "market": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "slug": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2248.09,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2549,
+          "value": 1407.85,
+          "avg_price": 0.9117,
+          "cur_price": 0.915
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.6021,
+          "value": 581.17,
+          "avg_price": 0.0412,
+          "cur_price": 0.915
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1686,
+          "value": 259.07,
+          "avg_price": 0.064,
+          "cur_price": 0.915
         }
       ]
     }
@@ -130,7 +293,6 @@
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
     "iran-full-airspace-closure-by-july-31-20260625195254150::Yes": 3,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "lol-agal-dk-2026-07-15::AG.AL": 3,
     "will-europe-win-the-2026-fifa-world-cup::Yes": 3,
     "lol-ts-kc-2026-07-15-game2::Karmine Corp": 3,
@@ -834,7 +996,6 @@
     "lol-gx-kc-2026-08-17::Karmine Corp": 3,
     "lol-gx-kc-2026-08-17-game2::Karmine Corp": 3,
     "lol-gx-kc-2026-08-17-game1::Karmine Corp": 3,
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "wta-cirstea-kalinsk-2026-08-17::Anna Kalinskaya": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "will-gadi-eizenkot-be-the-next-prime-minister-of-israel::Yes": 3,
@@ -1214,7 +1375,6 @@
     "lal-bar-bil-2026-08-27-bar::Yes": 3,
     "mlb-kc-tor-2026-08-26::Toronto Blue Jays": 3,
     "cs2-lgc-fut-2026-08-27::Legacy": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::Yes": 3,
     "mlb-lad-atl-2026-08-27::Atlanta Braves": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
@@ -1228,7 +1388,6 @@
     "epl-liv-not-2026-08-29-total-1pt5::Over": 3,
     "lol-nrg-wu-2026-08-28::Winthrop University": 3,
     "wnba-wsh-la-2026-08-28::Washington Mystics": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::No": 3,
     "lol-t1-fox1-2026-08-29-game2::BNK FEARX": 3,
     "cs2-vit-9z-2026-08-29::Vitality": 3,
@@ -1277,8 +1436,7 @@
     "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
-    "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1
+    "mlb-mil-chc-2026-08-31::Chicago Cubs": 3
   },
-  "updated_at": "2026-09-01T12:48:07.754565+00:00"
+  "updated_at": "2026-09-01T16:59:49.038816+00:00"
 }
