@@ -1,14 +1,76 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::No",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
+    "atp-sweeny-moutet-2026-08-30::Dane Sweeny",
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes"
   ],
   "signals": [
+    {
+      "market": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+      "slug": "atp-sweeny-moutet-2026-08-30",
+      "outcome": "Dane Sweeny",
+      "num_traders": 4,
+      "total_value": 495382.98,
+      "holders": [
+        {
+          "trader": "11vsldfdsgfkjgos",
+          "roi": 0.2522,
+          "value": 216546.45,
+          "avg_price": 0.3249,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "Gourmet1",
+          "roi": 1.2498,
+          "value": 112402.17,
+          "avg_price": 0.281,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "yesmate",
+          "roi": 0.2748,
+          "value": 93288.93,
+          "avg_price": 0.6857,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
+          "roi": 0.4599,
+          "value": 73145.43,
+          "avg_price": 0.3,
+          "cur_price": 0.995
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7360.59,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1098,
+          "value": 4450.12,
+          "avg_price": 0.7533,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2256,
+          "value": 1929.99,
+          "avg_price": 0.5058,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3184,
+          "value": 980.48,
+          "avg_price": 0.1,
+          "cur_price": 0.89
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -156,36 +218,6 @@
           "value": 25050,
           "avg_price": 0.5,
           "cur_price": 0.2505
-        }
-      ]
-    },
-    {
-      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7360.59,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 2.162,
-          "value": 4450.12,
-          "avg_price": 0.7533,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.175,
-          "value": 1929.99,
-          "avg_price": 0.5058,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3478,
-          "value": 980.48,
-          "avg_price": 0.1,
-          "cur_price": 0.89
         }
       ]
     },
@@ -1428,8 +1460,14 @@
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
     "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-09-01T19:51:51.857792+00:00"
+  "updated_at": "2026-09-01T22:12:40.365839+00:00"
 }
