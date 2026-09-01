@@ -1,80 +1,71 @@
 {
   "seen_ids": [
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-jd-vance-win-the-2028-us-presidential-election::No",
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
     "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes"
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
   ],
   "signals": [
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 555691.12,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 2.0882,
-          "value": 527929.03,
-          "avg_price": 0.7933,
-          "cur_price": 0.8895
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.2207,
-          "value": 17789.98,
-          "avg_price": 0.8659,
-          "cur_price": 0.8895
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
-          "value": 9397.28,
-          "avg_price": 0.8787,
-          "cur_price": 0.8895
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1686,
-          "value": 574.83,
-          "avg_price": 0.5,
-          "cur_price": 0.8895
-        }
-      ]
-    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 2182894.9,
+      "total_value": 2115270.28,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 2.0882,
-          "value": 1423693.66,
+          "roi": 2.162,
+          "value": 1375838.41,
           "avg_price": 0.4186,
-          "cur_price": 0.595
+          "cur_price": 0.575
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
-          "value": 757513.37,
-          "avg_price": 0.4212,
-          "cur_price": 0.595
+          "roi": 0.1748,
+          "value": 737800.74,
+          "avg_price": 0.4225,
+          "cur_price": 0.575
         },
         {
           "trader": "donthackme",
-          "roi": 0.1686,
-          "value": 1687.87,
+          "roi": 0.175,
+          "value": 1631.13,
           "avg_price": 0.2,
-          "cur_price": 0.595
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 538154.79,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.162,
+          "value": 527335.52,
+          "avg_price": 0.7933,
+          "cur_price": 0.8885
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1748,
+          "value": 9386.71,
+          "avg_price": 0.8787,
+          "cur_price": 0.8885
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.175,
+          "value": 1432.56,
+          "avg_price": 0.243,
+          "cur_price": 0.8885
         }
       ]
     },
@@ -83,19 +74,19 @@
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 300236.13,
+      "total_value": 401192.29,
       "holders": [
         {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
-          "value": 149900,
+          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
+          "roi": 0.3988,
+          "value": 176342.29,
           "avg_price": 0.5,
           "cur_price": 0.7495
         },
         {
-          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
-          "roi": 0.3988,
-          "value": 75386.13,
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1748,
+          "value": 149900,
           "avg_price": 0.5,
           "cur_price": 0.7495
         },
@@ -117,21 +108,21 @@
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 2.0882,
+          "roi": 2.162,
           "value": 285728.52,
           "avg_price": 0.61,
           "cur_price": 0.555
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
+          "roi": 0.1748,
           "value": 5678.17,
           "avg_price": 0.6128,
           "cur_price": 0.555
         },
         {
           "trader": "balthazar",
-          "roi": 0.6021,
+          "roi": 0.3478,
           "value": 1165.5,
           "avg_price": 0.0312,
           "cur_price": 0.555
@@ -143,20 +134,20 @@
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 100345.77,
+      "total_value": 134087.61,
       "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
-          "value": 50100.0,
-          "avg_price": 0.4999,
-          "cur_price": 0.2505
-        },
         {
           "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
           "roi": 0.3988,
-          "value": 25195.77,
+          "value": 58937.61,
           "avg_price": 0.5,
+          "cur_price": 0.2505
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1748,
+          "value": 50100.0,
+          "avg_price": 0.4999,
           "cur_price": 0.2505
         },
         {
@@ -165,6 +156,66 @@
           "value": 25050,
           "avg_price": 0.5,
           "cur_price": 0.2505
+        }
+      ]
+    },
+    {
+      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7360.59,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 2.162,
+          "value": 4450.12,
+          "avg_price": 0.7533,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.175,
+          "value": 1929.99,
+          "avg_price": 0.5058,
+          "cur_price": 0.89
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3478,
+          "value": 980.48,
+          "avg_price": 0.1,
+          "cur_price": 0.89
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6040.66,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1748,
+          "value": 3897.62,
+          "avg_price": 0.3645,
+          "cur_price": 0.391
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.175,
+          "value": 1321.88,
+          "avg_price": 0.3942,
+          "cur_price": 0.391
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3478,
+          "value": 821.16,
+          "avg_price": 0.0312,
+          "cur_price": 0.391
         }
       ]
     },
@@ -195,66 +246,6 @@
           "value": 681.48,
           "avg_price": 0.2,
           "cur_price": 0.395
-        }
-      ]
-    },
-    {
-      "market": "Will China\u2019s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-      "slug": "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7360.59,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 2.0882,
-          "value": 4450.12,
-          "avg_price": 0.7533,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1686,
-          "value": 1929.99,
-          "avg_price": 0.5058,
-          "cur_price": 0.89
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6021,
-          "value": 980.48,
-          "avg_price": 0.1,
-          "cur_price": 0.89
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6032.93,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2549,
-          "value": 3892.63,
-          "avg_price": 0.3645,
-          "cur_price": 0.3905
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1686,
-          "value": 1320.19,
-          "avg_price": 0.3942,
-          "cur_price": 0.3905
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6021,
-          "value": 820.11,
-          "avg_price": 0.0312,
-          "cur_price": 0.3905
         }
       ]
     },
@@ -1436,7 +1427,9 @@
     "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
-    "mlb-mil-chc-2026-08-31::Chicago Cubs": 3
+    "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 1
   },
-  "updated_at": "2026-09-01T16:59:49.038816+00:00"
+  "updated_at": "2026-09-01T19:51:51.857792+00:00"
 }
