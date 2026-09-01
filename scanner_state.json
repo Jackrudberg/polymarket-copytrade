@@ -1,6 +1,69 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2022523.86,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.0836,
+          "value": 1340911.36,
+          "avg_price": 0.4173,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1974,
+          "value": 680009.73,
+          "avg_price": 0.4122,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2481,
+          "value": 1602.77,
+          "avg_price": 0.2,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 537296.42,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.0836,
+          "value": 527335.52,
+          "avg_price": 0.7933,
+          "cur_price": 0.8885
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1974,
+          "value": 9386.71,
+          "avg_price": 0.8721,
+          "cur_price": 0.8885
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2481,
+          "value": 574.19,
+          "avg_price": 0.5,
+          "cur_price": 0.8885
+        }
+      ]
+    },
     {
       "market": "Milwaukee Brewers vs. Chicago Cubs",
       "slug": "mlb-mil-chc-2026-08-31",
@@ -28,103 +91,6 @@
           "value": 490.19,
           "avg_price": 0.51,
           "cur_price": 0.5
-        }
-      ]
-    },
-    {
-      "market": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
-      "slug": "atp-landalu-fearnle-2026-08-30",
-      "outcome": "Jacob Fearnley",
-      "num_traders": 4,
-      "total_value": 6104.95,
-      "holders": [
-        {
-          "trader": "beachboy4",
-          "roi": 0.58,
-          "value": 4934.7,
-          "avg_price": 0.4699,
-          "cur_price": 0.0265
-        },
-        {
-          "trader": "justwins",
-          "roi": 0.5872,
-          "value": 766.99,
-          "avg_price": 0.4899,
-          "cur_price": 0.0265
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.4121,
-          "value": 288.04,
-          "avg_price": 0.46,
-          "cur_price": 0.0265
-        },
-        {
-          "trader": "pltrkr111",
-          "roi": 0.3785,
-          "value": 115.22,
-          "avg_price": 0.46,
-          "cur_price": 0.0265
-        }
-      ]
-    },
-    {
-      "market": "New York Mets vs. Tampa Bay Rays",
-      "slug": "mlb-nym-tb-2026-08-31",
-      "outcome": "New York Mets",
-      "num_traders": 3,
-      "total_value": 29349.12,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 1.0048,
-          "value": 28388.6,
-          "avg_price": 0.38,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "0x0x23kjookhaiuohduoayh8c9",
-          "roi": 0.4121,
-          "value": 480.26,
-          "avg_price": 0.38,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "pltrkr111",
-          "roi": 0.3785,
-          "value": 480.26,
-          "avg_price": 0.38,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B",
-      "slug": "cs2-fut-vit-2026-08-31",
-      "outcome": "FUT Esports",
-      "num_traders": 3,
-      "total_value": 3495.66,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.1733,
-          "value": 1579.94,
-          "avg_price": 0.3322,
-          "cur_price": 0.035
-        },
-        {
-          "trader": "meoooow",
-          "roi": 0.2292,
-          "value": 1075.72,
-          "avg_price": 0.3298,
-          "cur_price": 0.035
-        },
-        {
-          "trader": "vjnn",
-          "roi": 0.3622,
-          "value": 840,
-          "avg_price": 0.3125,
-          "cur_price": 0.035
         }
       ]
     }
@@ -1225,7 +1191,6 @@
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "lol-bro2-fox1-2026-08-28::BNK FEARX": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "fed-rate-hike-by-september-2026-meeting::Yes": 3,
     "will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep::Yes": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
@@ -1275,16 +1240,15 @@
     "epl-mun-ips-2026-08-30-spread-home-1pt5::Manchester United FC": 3,
     "cs2-vit-lgc-2026-08-30-game1::Vitality": 3,
     "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-september-30::No": 3,
     "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
     "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 3,
     "will-arthur-fils-win-the-2026-mens-us-open::Yes": 3,
-    "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 2,
-    "mlb-nym-tb-2026-08-31::New York Mets": 2,
-    "cs2-fut-vit-2026-08-31::FUT Esports": 2,
-    "mlb-mil-chc-2026-08-31::Chicago Cubs": 1
+    "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
+    "mlb-nym-tb-2026-08-31::New York Mets": 3,
+    "cs2-fut-vit-2026-08-31::FUT Esports": 3,
+    "mlb-mil-chc-2026-08-31::Chicago Cubs": 2
   },
-  "updated_at": "2026-09-01T02:05:10.291734+00:00"
+  "updated_at": "2026-09-01T07:45:36.089269+00:00"
 }

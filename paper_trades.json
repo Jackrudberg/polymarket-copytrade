@@ -3532,15 +3532,15 @@
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "side": "Yes",
       "alerted_at": "2026-07-22T16:06:58.948618+00:00",
-      "last_seen": "2026-08-28T22:42:54.932621+00:00",
+      "last_seen": "2026-09-01T07:45:36.066290+00:00",
       "entry_price": 0.8475,
-      "current_price": 0.8875,
+      "current_price": 0.8885,
       "stake": 100.0,
       "shares": 117.9941,
-      "current_value": 104.72,
-      "paper_pnl": 4.72,
-      "return_percent": 4.72,
-      "status": "CONSENSUS_LOST",
+      "current_value": 104.84,
+      "paper_pnl": 4.84,
+      "return_percent": 4.84,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 433431.23,
       "traders": [
@@ -4943,15 +4943,15 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "side": "Yes",
       "alerted_at": "2026-07-27T18:45:18.040345+00:00",
-      "last_seen": "2026-08-31T00:47:35.947157+00:00",
+      "last_seen": "2026-09-01T07:45:36.066290+00:00",
       "entry_price": 0.505,
-      "current_price": 0.525,
+      "current_price": 0.565,
       "stake": 100.0,
       "shares": 198.019802,
-      "current_value": 103.96,
-      "paper_pnl": 3.96,
-      "return_percent": 3.96,
-      "status": "CONSENSUS_LOST",
+      "current_value": 111.88,
+      "paper_pnl": 11.88,
+      "return_percent": 11.88,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 68371.59,
       "traders": [
@@ -26689,7 +26689,7 @@
       "current_value": 99.01,
       "paper_pnl": -0.99,
       "return_percent": -0.99,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 55748.02,
       "traders": [
@@ -26697,7 +26697,8 @@
         "BrotherObama",
         "0x0x23kjookhaiuohduoayh8c9"
       ],
-      "url": "https://polymarket.com/event/mlb-mil-chc-2026-08-31"
+      "url": "https://polymarket.com/event/mlb-mil-chc-2026-08-31",
+      "consensus_lost_at": "2026-09-01T07:45:36.066290+00:00"
     },
     {
       "signal_id": "mlb-nym-tb-2026-08-31::New York Mets",
@@ -26750,5 +26751,5 @@
       "consensus_lost_at": "2026-09-01T02:05:10.268569+00:00"
     }
   ],
-  "updated_at": "2026-09-01T02:05:10.268569+00:00"
+  "updated_at": "2026-09-01T07:45:36.066290+00:00"
 }
