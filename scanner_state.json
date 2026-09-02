@@ -1,11 +1,5 @@
 {
-  "seen_ids": [
-    "atp-sweeny-moutet-2026-08-30::Dane Sweeny",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "mlb-mia-kc-2026-09-01::Miami Marlins",
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "US Open ATP: Dane Sweeny vs Corentin Moutet",
@@ -161,126 +155,6 @@
           "value": 980.48,
           "avg_price": 0.1,
           "cur_price": 0.89
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 401192.29,
-      "holders": [
-        {
-          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
-          "roi": 0.3988,
-          "value": 176342.29,
-          "avg_price": 0.5,
-          "cur_price": 0.7495
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1748,
-          "value": 149900,
-          "avg_price": 0.5,
-          "cur_price": 0.7495
-        },
-        {
-          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
-          "roi": 0.2557,
-          "value": 74950,
-          "avg_price": 0.5,
-          "cur_price": 0.7495
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 292572.19,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 2.162,
-          "value": 285728.52,
-          "avg_price": 0.61,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1748,
-          "value": 5678.17,
-          "avg_price": 0.6128,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3478,
-          "value": 1165.5,
-          "avg_price": 0.0312,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 134087.61,
-      "holders": [
-        {
-          "trader": "0x004C832CB3AF8eE0771fDF5fC3D494fe8CA2BB89-1787916238390",
-          "roi": 0.3988,
-          "value": 58937.61,
-          "avg_price": 0.5,
-          "cur_price": 0.2505
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1748,
-          "value": 50100.0,
-          "avg_price": 0.4999,
-          "cur_price": 0.2505
-        },
-        {
-          "trader": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
-          "roi": 0.2557,
-          "value": 25050,
-          "avg_price": 0.5,
-          "cur_price": 0.2505
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6040.66,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1748,
-          "value": 3897.62,
-          "avg_price": 0.3645,
-          "cur_price": 0.391
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.175,
-          "value": 1321.88,
-          "avg_price": 0.3942,
-          "cur_price": 0.391
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.3478,
-          "value": 821.16,
-          "avg_price": 0.0312,
-          "cur_price": 0.391
         }
       ]
     }
@@ -1435,10 +1309,15 @@
     "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 3,
-    "will-jd-vance-win-the-2028-us-presidential-election::No": 2,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 2,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "atp-sweeny-moutet-2026-08-30::Dane Sweeny": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "mlb-mia-kc-2026-09-01::Miami Marlins": 1,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1
   },
-  "updated_at": "2026-09-02T00:17:39.842251+00:00"
+  "updated_at": "2026-09-02T04:46:20.563132+00:00"
 }
