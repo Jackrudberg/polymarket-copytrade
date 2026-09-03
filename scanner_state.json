@@ -1,47 +1,173 @@
 {
   "seen_ids": [
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "clarity-act-signed-into-law-in-2026::Yes",
+    "mlb-tb-tex-2026-09-03::Texas Rangers",
     "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343::No",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes",
+    "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes"
   ],
   "signals": [
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 422843.35,
+      "num_traders": 5,
+      "total_value": 474602.34,
       "holders": [
         {
           "trader": "TwoEyes",
-          "roi": 0.417,
-          "value": 204207.28,
+          "roi": 0.3877,
+          "value": 207821.57,
           "avg_price": 0.562,
-          "cur_price": 0.565
+          "cur_price": 0.575
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.9532,
-          "value": 116898.44,
+          "roi": 0.9222,
+          "value": 118967.44,
           "avg_price": 0.4202,
-          "cur_price": 0.565
+          "cur_price": 0.575
         },
         {
           "trader": "ImJustKen",
-          "roi": 0.58,
-          "value": 100992.47,
+          "roi": 0.5509,
+          "value": 102779.95,
           "avg_price": 0.6684,
-          "cur_price": 0.565
+          "cur_price": 0.575
+        },
+        {
+          "trader": "DonaldinhoTrumpito",
+          "roi": 0.6808,
+          "value": 44275.03,
+          "avg_price": 0.6849,
+          "cur_price": 0.575
         },
         {
           "trader": "donthackme",
-          "roi": 0.1854,
-          "value": 745.16,
+          "roi": 0.186,
+          "value": 758.35,
           "avg_price": 0.2,
-          "cur_price": 0.565
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Tampa Bay Rays vs. Texas Rangers",
+      "slug": "mlb-tb-tex-2026-09-03",
+      "outcome": "Texas Rangers",
+      "num_traders": 3,
+      "total_value": 105802.65,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1824,
+          "value": 71643.12,
+          "avg_price": 0.4662,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2545,
+          "value": 18999.96,
+          "avg_price": 0.4699,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3376,
+          "value": 15159.57,
+          "avg_price": 0.4699,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 18891.49,
+      "holders": [
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.2824,
+          "value": 16875.49,
+          "avg_price": 0.8006,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "justdance",
+          "roi": 0.2064,
+          "value": 1125.0,
+          "avg_price": 0.4369,
+          "cur_price": 0.405
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5706,
+          "value": 891,
+          "avg_price": 0.6681,
+          "cur_price": 0.405
+        }
+      ]
+    },
+    {
+      "market": "Will Xavier Becerra win the California Governor Election in 2026?",
+      "slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 11792.37,
+      "holders": [
+        {
+          "trader": "DonaldinhoTrumpito",
+          "roi": 0.6808,
+          "value": 9565,
+          "avg_price": 0.94,
+          "cur_price": 0.9565
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.186,
+          "value": 1557.82,
+          "avg_price": 0.0222,
+          "cur_price": 0.9565
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5706,
+          "value": 669.55,
+          "avg_price": 0.5212,
+          "cur_price": 0.9565
+        }
+      ]
+    },
+    {
+      "market": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
+      "slug": "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 10366.63,
+      "holders": [
+        {
+          "trader": "ImJustKen",
+          "roi": 0.5509,
+          "value": 6995.29,
+          "avg_price": 0.907,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.186,
+          "value": 2709.69,
+          "avg_price": 0.0357,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5706,
+          "value": 661.65,
+          "avg_price": 0.0408,
+          "cur_price": 0.935
         }
       ]
     },
@@ -76,36 +202,6 @@
       ]
     },
     {
-      "market": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "slug": "will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 18891.49,
-      "holders": [
-        {
-          "trader": "JnStrtPrdctnMrkts",
-          "roi": 0.274,
-          "value": 16875.49,
-          "avg_price": 0.8006,
-          "cur_price": 0.405
-        },
-        {
-          "trader": "justdance",
-          "roi": 0.1817,
-          "value": 1125.0,
-          "avg_price": 0.4369,
-          "cur_price": 0.405
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5537,
-          "value": 891,
-          "avg_price": 0.6681,
-          "cur_price": 0.405
-        }
-      ]
-    },
-    {
       "market": "Will no Fed rate cuts happen in 2026?",
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "outcome": "Yes",
@@ -132,36 +228,6 @@
           "value": 1429.33,
           "avg_price": 0.0769,
           "cur_price": 0.8865
-        }
-      ]
-    },
-    {
-      "market": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
-      "slug": "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10366.63,
-      "holders": [
-        {
-          "trader": "ImJustKen",
-          "roi": 0.58,
-          "value": 6995.29,
-          "avg_price": 0.907,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1854,
-          "value": 2709.69,
-          "avg_price": 0.0357,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5537,
-          "value": 661.65,
-          "avg_price": 0.0408,
-          "cur_price": 0.935
         }
       ]
     },
@@ -882,7 +948,6 @@
     "lol-blg-we-2026-08-15::Bilibili Gaming": 3,
     "dota2-ngx-ts8-2026-08-15::Nigma Galaxy": 3,
     "cs2-furia-9z-2026-08-15::FURIA": 3,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
     "mls-clt-clb-2026-08-15-clt::Yes": 3,
     "nfl-car-buf-2026-08-15::Bills": 3,
     "atp-jodar-shapova-2026-08-15::Denis Shapovalov": 3,
@@ -1388,7 +1453,10 @@
     "mlb-det-min-2026-09-02::Minnesota Twins": 3,
     "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 3,
     "lec-ame-mon-2026-09-02-ame::No": 3,
-    "mlb-mil-chc-2026-09-03-total-8pt5::Under": 1
+    "mlb-mil-chc-2026-09-03-total-8pt5::Under": 2,
+    "clarity-act-signed-into-law-in-2026::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-09-03T19:56:00.531862+00:00"
+  "updated_at": "2026-09-03T22:23:39.122542+00:00"
 }
