@@ -1,10 +1,5 @@
 {
-  "seen_ids": [
-    "mlb-nym-tb-2026-09-02::New York Mets",
-    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot",
-    "mlb-det-min-2026-09-02::Minnesota Twins",
-    "mlb-nym-tb-2026-09-02::Tampa Bay Rays"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "New York Mets vs. Tampa Bay Rays",
@@ -123,66 +118,6 @@
           "value": 218.06,
           "avg_price": 0.2717,
           "cur_price": 0.295
-        }
-      ]
-    },
-    {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 18285.27,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.375,
-          "value": 12373.14,
-          "avg_price": 0.7609,
-          "cur_price": 0.8295
-        },
-        {
-          "trader": "Outsid3rTrading",
-          "roi": 0.4789,
-          "value": 5806.55,
-          "avg_price": 0.8161,
-          "cur_price": 0.8295
-        },
-        {
-          "trader": "MaoZeDonK",
-          "roi": 0.3796,
-          "value": 105.58,
-          "avg_price": 0.7856,
-          "cur_price": 0.8295
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: HOTU vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
-      "slug": "cs2-hotu-nemi1-2026-09-02",
-      "outcome": "Nemiga",
-      "num_traders": 3,
-      "total_value": 5817.25,
-      "holders": [
-        {
-          "trader": "vibing123",
-          "roi": 0.2199,
-          "value": 2897.73,
-          "avg_price": 0.3599,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "Outsid3rTrading",
-          "roi": 0.4789,
-          "value": 1589.16,
-          "avg_price": 0.37,
-          "cur_price": 0.33
-        },
-        {
-          "trader": "sofa88888",
-          "roi": 0.2625,
-          "value": 1330.36,
-          "avg_price": 0.3809,
-          "cur_price": 0.33
         }
       ]
     }
@@ -1347,8 +1282,12 @@
     "cs2-mibr-ef1-2026-09-02::Eternal Fire": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
-    "cs2-hotu-nemi1-2026-09-02::Nemiga": 2
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
+    "cs2-hotu-nemi1-2026-09-02::Nemiga": 3,
+    "mlb-nym-tb-2026-09-02::New York Mets": 1,
+    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot": 1,
+    "mlb-det-min-2026-09-02::Minnesota Twins": 1,
+    "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 1
   },
-  "updated_at": "2026-09-03T00:23:30.906490+00:00"
+  "updated_at": "2026-09-03T04:50:17.483490+00:00"
 }
