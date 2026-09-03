@@ -1,6 +1,131 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-nym-tb-2026-09-02::New York Mets",
+    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot",
+    "mlb-det-min-2026-09-02::Minnesota Twins",
+    "mlb-nym-tb-2026-09-02::Tampa Bay Rays"
+  ],
   "signals": [
+    {
+      "market": "New York Mets vs. Tampa Bay Rays",
+      "slug": "mlb-nym-tb-2026-09-02",
+      "outcome": "New York Mets",
+      "num_traders": 3,
+      "total_value": 186277.5,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1803,
+          "value": 111280.96,
+          "avg_price": 0.3799,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.3158,
+          "value": 69346.2,
+          "avg_price": 0.37,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.1884,
+          "value": 5650.34,
+          "avg_price": 0.487,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+      "slug": "atp-vachero-majchrz-2026-09-01",
+      "outcome": "Valentin Vacherot",
+      "num_traders": 3,
+      "total_value": 100922.0,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2578,
+          "value": 77499.96,
+          "avg_price": 0.5599,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.2456,
+          "value": 17222.05,
+          "avg_price": 0.53,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "vibing123",
+          "roi": 0.2181,
+          "value": 6199.99,
+          "avg_price": 0.56,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Detroit Tigers vs. Minnesota Twins",
+      "slug": "mlb-det-min-2026-09-02",
+      "outcome": "Minnesota Twins",
+      "num_traders": 3,
+      "total_value": 17800.09,
+      "holders": [
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2578,
+          "value": 16749.98,
+          "avg_price": 0.5199,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.1884,
+          "value": 745.56,
+          "avg_price": 0.5004,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Feromont",
+          "roi": 0.1985,
+          "value": 304.55,
+          "avg_price": 0.5499,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "New York Mets vs. Tampa Bay Rays",
+      "slug": "mlb-nym-tb-2026-09-02",
+      "outcome": "Tampa Bay Rays",
+      "num_traders": 3,
+      "total_value": 6517.83,
+      "holders": [
+        {
+          "trader": "Feromont",
+          "roi": 0.1985,
+          "value": 5623.05,
+          "avg_price": 0.3934,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "AV23IUa",
+          "roi": 0.2578,
+          "value": 676.72,
+          "avg_price": 0.5999,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.1884,
+          "value": 218.06,
+          "avg_price": 0.2717,
+          "cur_price": 0.295
+        }
+      ]
+    },
     {
       "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
       "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
@@ -58,66 +183,6 @@
           "value": 1330.36,
           "avg_price": 0.3809,
           "cur_price": 0.33
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 22029.98,
-      "holders": [
-        {
-          "trader": "Outsid3rTrading",
-          "roi": 0.6251,
-          "value": 13874.85,
-          "avg_price": 0.5823,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.2195,
-          "value": 6989.63,
-          "avg_price": 0.6458,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4537,
-          "value": 1165.5,
-          "avg_price": 0.0312,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6312.6,
-      "holders": [
-        {
-          "trader": "Outsid3rTrading",
-          "roi": 0.6251,
-          "value": 3251.99,
-          "avg_price": 0.2472,
-          "cur_price": 0.4065
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.2195,
-          "value": 2206.89,
-          "avg_price": 0.3919,
-          "cur_price": 0.4065
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.4537,
-          "value": 853.72,
-          "avg_price": 0.0312,
-          "cur_price": 0.4065
         }
       ]
     }
@@ -1280,10 +1345,10 @@
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "cs2-big5-nemi1-2026-09-02::BIG": 3,
     "cs2-mibr-ef1-2026-09-02::Eternal Fire": 3,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1,
-    "cs2-hotu-nemi1-2026-09-02::Nemiga": 1
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 2,
+    "cs2-hotu-nemi1-2026-09-02::Nemiga": 2
   },
-  "updated_at": "2026-09-02T22:20:35.162570+00:00"
+  "updated_at": "2026-09-03T00:23:30.906490+00:00"
 }
