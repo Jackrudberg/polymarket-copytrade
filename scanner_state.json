@@ -1,43 +1,66 @@
 {
   "seen_ids": [
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "lec-ame-mon-2026-09-02-ame::No"
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
   ],
   "signals": [
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 283166.72,
+      "num_traders": 3,
+      "total_value": 350333.26,
       "holders": [
         {
           "trader": "TwoEyes",
-          "roi": 0.4172,
-          "value": 178907.26,
+          "roi": 0.4524,
+          "value": 222278.72,
           "avg_price": 0.562,
-          "cur_price": 0.495
+          "cur_price": 0.615
         },
         {
           "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.3967,
-          "value": 102415.45,
+          "roi": 0.4069,
+          "value": 127243.43,
           "avg_price": 0.4202,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "dddtrips",
-          "roi": 0.1762,
-          "value": 990,
-          "avg_price": 0.4249,
-          "cur_price": 0.495
+          "cur_price": 0.615
         },
         {
           "trader": "donthackme",
-          "roi": 0.2437,
-          "value": 854.01,
+          "roi": 0.2284,
+          "value": 811.11,
           "avg_price": 0.2,
-          "cur_price": 0.495
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3671.27,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2284,
+          "value": 1455.42,
+          "avg_price": 0.3942,
+          "cur_price": 0.4305
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4679,
+          "value": 1311.73,
+          "avg_price": 0.3438,
+          "cur_price": 0.4305
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5685,
+          "value": 904.12,
+          "avg_price": 0.0312,
+          "cur_price": 0.4305
         }
       ]
     },
@@ -68,126 +91,6 @@
           "value": 608.73,
           "avg_price": 0.5535,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "New York Mets vs. Tampa Bay Rays",
-      "slug": "mlb-nym-tb-2026-09-02",
-      "outcome": "New York Mets",
-      "num_traders": 3,
-      "total_value": 186277.5,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1803,
-          "value": 111280.96,
-          "avg_price": 0.3799,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.3158,
-          "value": 69346.2,
-          "avg_price": 0.37,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.1884,
-          "value": 5650.34,
-          "avg_price": 0.487,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
-      "slug": "atp-vachero-majchrz-2026-09-01",
-      "outcome": "Valentin Vacherot",
-      "num_traders": 3,
-      "total_value": 100922.0,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2578,
-          "value": 77499.96,
-          "avg_price": 0.5599,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.2456,
-          "value": 17222.05,
-          "avg_price": 0.53,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.2181,
-          "value": 6199.99,
-          "avg_price": 0.56,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Detroit Tigers vs. Minnesota Twins",
-      "slug": "mlb-det-min-2026-09-02",
-      "outcome": "Minnesota Twins",
-      "num_traders": 3,
-      "total_value": 17800.09,
-      "holders": [
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2578,
-          "value": 16749.98,
-          "avg_price": 0.5199,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.1884,
-          "value": 745.56,
-          "avg_price": 0.5004,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "Feromont",
-          "roi": 0.1985,
-          "value": 304.55,
-          "avg_price": 0.5499,
-          "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "New York Mets vs. Tampa Bay Rays",
-      "slug": "mlb-nym-tb-2026-09-02",
-      "outcome": "Tampa Bay Rays",
-      "num_traders": 3,
-      "total_value": 6517.83,
-      "holders": [
-        {
-          "trader": "Feromont",
-          "roi": 0.1985,
-          "value": 5623.05,
-          "avg_price": 0.3934,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "AV23IUa",
-          "roi": 0.2578,
-          "value": 676.72,
-          "avg_price": 0.5999,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.1884,
-          "value": 218.06,
-          "avg_price": 0.2717,
-          "cur_price": 0.295
         }
       ]
     }
@@ -1350,13 +1253,13 @@
     "cs2-big5-nemi1-2026-09-02::BIG": 3,
     "cs2-mibr-ef1-2026-09-02::Eternal Fire": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "cs2-hotu-nemi1-2026-09-02::Nemiga": 3,
-    "mlb-nym-tb-2026-09-02::New York Mets": 2,
-    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot": 2,
-    "mlb-det-min-2026-09-02::Minnesota Twins": 2,
-    "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 2
+    "mlb-nym-tb-2026-09-02::New York Mets": 3,
+    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot": 3,
+    "mlb-det-min-2026-09-02::Minnesota Twins": 3,
+    "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 3,
+    "lec-ame-mon-2026-09-02-ame::No": 1
   },
-  "updated_at": "2026-09-03T09:15:55.817823+00:00"
+  "updated_at": "2026-09-03T13:39:30.800554+00:00"
 }
