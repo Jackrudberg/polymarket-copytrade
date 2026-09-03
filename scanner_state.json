@@ -1,6 +1,76 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "lec-ame-mon-2026-09-02-ame::No"
+  ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 283166.72,
+      "holders": [
+        {
+          "trader": "TwoEyes",
+          "roi": 0.4172,
+          "value": 178907.26,
+          "avg_price": 0.562,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.3967,
+          "value": 102415.45,
+          "avg_price": 0.4202,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "dddtrips",
+          "roi": 0.1762,
+          "value": 990,
+          "avg_price": 0.4249,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2437,
+          "value": 854.01,
+          "avg_price": 0.2,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will CF Am\u00e9rica win on 2026-09-02?",
+      "slug": "lec-ame-mon-2026-09-02-ame",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 174336.91,
+      "holders": [
+        {
+          "trader": "kekasaur",
+          "roi": 0.2218,
+          "value": 172672.53,
+          "avg_price": 0.5646,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "suitcase6628",
+          "roi": 0.6526,
+          "value": 1055.65,
+          "avg_price": 0.6554,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3818,
+          "value": 608.73,
+          "avg_price": 0.5535,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "New York Mets vs. Tampa Bay Rays",
       "slug": "mlb-nym-tb-2026-09-02",
@@ -1269,7 +1339,6 @@
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
     "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
@@ -1284,10 +1353,10 @@
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "cs2-hotu-nemi1-2026-09-02::Nemiga": 3,
-    "mlb-nym-tb-2026-09-02::New York Mets": 1,
-    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot": 1,
-    "mlb-det-min-2026-09-02::Minnesota Twins": 1,
-    "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 1
+    "mlb-nym-tb-2026-09-02::New York Mets": 2,
+    "atp-vachero-majchrz-2026-09-01::Valentin Vacherot": 2,
+    "mlb-det-min-2026-09-02::Minnesota Twins": 2,
+    "mlb-nym-tb-2026-09-02::Tampa Bay Rays": 2
   },
-  "updated_at": "2026-09-03T04:50:17.483490+00:00"
+  "updated_at": "2026-09-03T09:15:55.817823+00:00"
 }
