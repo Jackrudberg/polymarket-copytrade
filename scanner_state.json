@@ -1,12 +1,8 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "cs2-furia-vit-2026-09-04::FURIA",
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
-    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
@@ -14,57 +10,73 @@
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 7,
-      "total_value": 1475824.78,
+      "num_traders": 5,
+      "total_value": 1331636.97,
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4698,
-          "value": 691835.85,
+          "roi": 0.3263,
+          "value": 678136.13,
           "avg_price": 0.4298,
-          "cur_price": 0.505
+          "cur_price": 0.495
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.3032,
-          "value": 207809.15,
+          "roi": 0.2676,
+          "value": 203694.12,
           "avg_price": 0.2444,
-          "cur_price": 0.505
+          "cur_price": 0.495
         },
         {
           "trader": "harishjindal",
-          "roi": 0.7163,
-          "value": 195853.27,
+          "roi": 0.6378,
+          "value": 191974.99,
           "avg_price": 0.3955,
-          "cur_price": 0.505
+          "cur_price": 0.495
         },
         {
           "trader": "SheltonDoubter",
-          "roi": 0.3794,
-          "value": 137142.38,
+          "roi": 0.3212,
+          "value": 134426.69,
           "avg_price": 0.4158,
-          "cur_price": 0.505
+          "cur_price": 0.495
         },
         {
           "trader": "RRRRRRRRL",
-          "roi": 0.2939,
-          "value": 125898.07,
+          "roi": 0.2724,
+          "value": 123405.04,
           "avg_price": 0.4722,
-          "cur_price": 0.505
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 20467.64,
+      "holders": [
+        {
+          "trader": "StasPanda",
+          "roi": 0.5132,
+          "value": 13699.99,
+          "avg_price": 0.55,
+          "cur_price": 0.685
         },
         {
-          "trader": "50-Pence",
-          "roi": 0.456,
-          "value": 116664.73,
-          "avg_price": 0.2236,
-          "cur_price": 0.505
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3263,
+          "value": 5328.12,
+          "avg_price": 0.6951,
+          "cur_price": 0.685
         },
         {
-          "trader": "donthackme",
-          "roi": 0.193,
-          "value": 621.33,
-          "avg_price": 0.2,
-          "cur_price": 0.505
+          "trader": "balthazar",
+          "roi": 0.5109,
+          "value": 1439.53,
+          "avg_price": 0.0294,
+          "cur_price": 0.685
         }
       ]
     },
@@ -72,43 +84,59 @@
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 114120.95,
+      "num_traders": 3,
+      "total_value": 16064.18,
       "holders": [
         {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.2068,
-          "value": 100346.45,
-          "avg_price": 0.4202,
-          "cur_price": 0.485
-        },
-        {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4698,
+          "roi": 0.3263,
           "value": 9700.02,
           "avg_price": 0.6781,
           "cur_price": 0.485
         },
         {
+          "trader": "0x424779",
+          "roi": 0.5778,
+          "value": 3369.09,
+          "avg_price": 0.5466,
+          "cur_price": 0.485
+        },
+        {
           "trader": "balthazar",
-          "roi": 0.5607,
+          "roi": 0.5109,
           "value": 2995.07,
           "avg_price": 0.4485,
           "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2390.24,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.5109,
+          "value": 1150.52,
+          "avg_price": 0.4124,
+          "cur_price": 0.7175
         },
         {
-          "trader": "donthackme",
-          "roi": 0.193,
-          "value": 788.41,
-          "avg_price": 0.2,
-          "cur_price": 0.485
+          "trader": "Nooserac",
+          "roi": 0.4281,
+          "value": 1114.75,
+          "avg_price": 0.58,
+          "cur_price": 0.7175
         },
         {
-          "trader": "50-Pence",
-          "roi": 0.456,
-          "value": 291,
-          "avg_price": 0.6299,
-          "cur_price": 0.485
+          "trader": "0x424779",
+          "roi": 0.5778,
+          "value": 124.97,
+          "avg_price": 0.4265,
+          "cur_price": 0.7175
         }
       ]
     },
@@ -187,36 +215,6 @@
       ]
     },
     {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 20467.64,
-      "holders": [
-        {
-          "trader": "StasPanda",
-          "roi": 0.5451,
-          "value": 13699.99,
-          "avg_price": 0.55,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4698,
-          "value": 5328.12,
-          "avg_price": 0.6951,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5607,
-          "value": 1439.53,
-          "avg_price": 0.0294,
-          "cur_price": 0.685
-        }
-      ]
-    },
-    {
       "market": "US announces end of Iranian blockade by September 30, 2026?",
       "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
       "outcome": "No",
@@ -277,36 +275,6 @@
       ]
     },
     {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3630.47,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.193,
-          "value": 1355.73,
-          "avg_price": 0.0312,
-          "cur_price": 0.7205
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5607,
-          "value": 1155.33,
-          "avg_price": 0.4124,
-          "cur_price": 0.7205
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.5814,
-          "value": 1119.41,
-          "avg_price": 0.58,
-          "cur_price": 0.7205
-        }
-      ]
-    },
-    {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "No",
@@ -333,36 +301,6 @@
           "value": 4125.85,
           "avg_price": 0.5099,
           "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "LoL: Anyone's Legend vs LGD Gaming - Game 3 Winner",
-      "slug": "lol-al-lgd-2026-09-04-game3",
-      "outcome": "Anyone's Legend",
-      "num_traders": 3,
-      "total_value": 33950.15,
-      "holders": [
-        {
-          "trader": "48binn",
-          "roi": 0.1527,
-          "value": 18219.0,
-          "avg_price": 0.4351,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "seretas",
-          "roi": 0.4884,
-          "value": 11813.99,
-          "avg_price": 0.6,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "teacherbai",
-          "roi": 0.2095,
-          "value": 3917.16,
-          "avg_price": 0.66,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1534,8 +1472,12 @@
     "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
     "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes": 3,
     "will-spider-man-brand-new-day-have-the-best-domestic-opening-weekend-in-2026::Yes": 3,
-    "lol-al-lgd-2026-09-04-game3::Anyone's Legend": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 1
+    "lol-al-lgd-2026-09-04-game3::Anyone's Legend": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 2,
+    "cs2-furia-vit-2026-09-04::FURIA": 1,
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 1,
+    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-09-04T19:26:23.557125+00:00"
+  "updated_at": "2026-09-04T21:41:45.671393+00:00"
 }
