@@ -1,9 +1,12 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
+    "cfb-sjst-emich-2026-09-04::San Jose State",
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
   ],
   "signals": [
     {
@@ -11,42 +14,146 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
       "num_traders": 5,
-      "total_value": 1331636.97,
+      "total_value": 1198119.65,
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3263,
+          "roi": 0.2717,
           "value": 678136.13,
           "avg_price": 0.4298,
           "cur_price": 0.495
         },
         {
           "trader": "foodenjoyer",
-          "roi": 0.2676,
-          "value": 203694.12,
+          "roi": 0.2539,
+          "value": 199579.09,
           "avg_price": 0.2444,
-          "cur_price": 0.495
+          "cur_price": 0.485
         },
         {
           "trader": "harishjindal",
-          "roi": 0.6378,
-          "value": 191974.99,
+          "roi": 0.5621,
+          "value": 188096.71,
           "avg_price": 0.3955,
-          "cur_price": 0.495
+          "cur_price": 0.485
         },
         {
           "trader": "SheltonDoubter",
-          "roi": 0.3212,
-          "value": 134426.69,
+          "roi": 0.2837,
+          "value": 131711.0,
           "avg_price": 0.4158,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1621,
+          "value": 596.72,
+          "avg_price": 0.2,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 17200.08,
+      "holders": [
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2717,
+          "value": 9900.02,
+          "avg_price": 0.6781,
           "cur_price": 0.495
         },
         {
-          "trader": "RRRRRRRRL",
-          "roi": 0.2724,
-          "value": 123405.04,
-          "avg_price": 0.4722,
+          "trader": "0x424779",
+          "roi": 0.5916,
+          "value": 3438.56,
+          "avg_price": 0.5466,
           "cur_price": 0.495
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5086,
+          "value": 3056.83,
+          "avg_price": 0.4485,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1621,
+          "value": 804.67,
+          "avg_price": 0.2,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 3729.9,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.1621,
+          "value": 1346.32,
+          "avg_price": 0.0312,
+          "cur_price": 0.7155
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5086,
+          "value": 1147.32,
+          "avg_price": 0.4124,
+          "cur_price": 0.7155
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.4317,
+          "value": 1111.64,
+          "avg_price": 0.58,
+          "cur_price": 0.7155
+        },
+        {
+          "trader": "0x424779",
+          "roi": 0.5916,
+          "value": 124.62,
+          "avg_price": 0.4265,
+          "cur_price": 0.7155
+        }
+      ]
+    },
+    {
+      "market": "San Jose State vs. Eastern Michigan",
+      "slug": "cfb-sjst-emich-2026-09-04",
+      "outcome": "San Jose State",
+      "num_traders": 3,
+      "total_value": 40843.26,
+      "holders": [
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.4203,
+          "value": 22507,
+          "avg_price": 0.4666,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1892,
+          "value": 13011.26,
+          "avg_price": 0.3499,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.4317,
+          "value": 5325,
+          "avg_price": 0.46,
+          "cur_price": 0.355
         }
       ]
     },
@@ -59,21 +166,21 @@
       "holders": [
         {
           "trader": "StasPanda",
-          "roi": 0.5132,
+          "roi": 0.5267,
           "value": 13699.99,
           "avg_price": 0.55,
           "cur_price": 0.685
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3263,
+          "roi": 0.2717,
           "value": 5328.12,
           "avg_price": 0.6951,
           "cur_price": 0.685
         },
         {
           "trader": "balthazar",
-          "roi": 0.5109,
+          "roi": 0.5086,
           "value": 1439.53,
           "avg_price": 0.0294,
           "cur_price": 0.685
@@ -81,62 +188,62 @@
       ]
     },
     {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "market": "Will Anthropic have the best AI model at the end of September 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 16064.18,
+      "total_value": 7768.46,
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3263,
-          "value": 9700.02,
-          "avg_price": 0.6781,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x424779",
-          "roi": 0.5778,
-          "value": 3369.09,
-          "avg_price": 0.5466,
-          "cur_price": 0.485
+          "roi": 0.2717,
+          "value": 6774.91,
+          "avg_price": 0.8925,
+          "cur_price": 0.865
         },
         {
           "trader": "balthazar",
-          "roi": 0.5109,
-          "value": 2995.07,
-          "avg_price": 0.4485,
-          "cur_price": 0.485
+          "roi": 0.5086,
+          "value": 605.51,
+          "avg_price": 0.0312,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1621,
+          "value": 388.04,
+          "avg_price": 0.0312,
+          "cur_price": 0.865
         }
       ]
     },
     {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 2390.24,
+      "total_value": 6835.79,
       "holders": [
         {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.2717,
+          "value": 4828.18,
+          "avg_price": 0.3824,
+          "cur_price": 0.4015
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1621,
+          "value": 1183.28,
+          "avg_price": 0.0312,
+          "cur_price": 0.4015
+        },
+        {
           "trader": "balthazar",
-          "roi": 0.5109,
-          "value": 1150.52,
-          "avg_price": 0.4124,
-          "cur_price": 0.7175
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.4281,
-          "value": 1114.75,
-          "avg_price": 0.58,
-          "cur_price": 0.7175
-        },
-        {
-          "trader": "0x424779",
-          "roi": 0.5778,
-          "value": 124.97,
-          "avg_price": 0.4265,
-          "cur_price": 0.7175
+          "roi": 0.5086,
+          "value": 824.33,
+          "avg_price": 0.0312,
+          "cur_price": 0.4015
         }
       ]
     },
@@ -241,66 +348,6 @@
           "value": 643.99,
           "avg_price": 0.6949,
           "cur_price": 0.805
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6887.67,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4698,
-          "value": 4835.06,
-          "avg_price": 0.382,
-          "cur_price": 0.4105
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.193,
-          "value": 1209.8,
-          "avg_price": 0.0312,
-          "cur_price": 0.4105
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5607,
-          "value": 842.81,
-          "avg_price": 0.0312,
-          "cur_price": 0.4105
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 171377.62,
-      "holders": [
-        {
-          "trader": "SheltonDoubter",
-          "roi": 0.4063,
-          "value": 105345.7,
-          "avg_price": 0.444,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "RRRRRRRRL",
-          "roi": 0.2931,
-          "value": 61906.07,
-          "avg_price": 0.446,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 1.015,
-          "value": 4125.85,
-          "avg_price": 0.5099,
-          "cur_price": 0.515
         }
       ]
     }
@@ -1473,11 +1520,10 @@
     "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes": 3,
     "will-spider-man-brand-new-day-have-the-best-domestic-opening-weekend-in-2026::Yes": 3,
     "lol-al-lgd-2026-09-04-game3::Anyone's Legend": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 2,
-    "cs2-furia-vit-2026-09-04::FURIA": 1,
-    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 1,
-    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 3,
+    "cs2-furia-vit-2026-09-04::FURIA": 2,
+    "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 2,
+    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 2
   },
-  "updated_at": "2026-09-04T21:41:45.671393+00:00"
+  "updated_at": "2026-09-04T23:21:55.699483+00:00"
 }
