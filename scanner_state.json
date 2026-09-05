@@ -1,12 +1,131 @@
 {
   "seen_ids": [
-    "bra-bra-bah-2026-09-05-bra::No",
-    "cfb-bayl-aubrn-2026-09-05::Auburn",
+    "mls-clb-col-2026-09-05-clb::No",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Columbus Crew win on 2026-09-05?",
+      "slug": "mls-clb-col-2026-09-05-clb",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 25841.43,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1995,
+          "value": 18519.67,
+          "avg_price": 0.568,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.1806,
+          "value": 5150,
+          "avg_price": 0.55,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "1xx2",
+          "roi": 0.2698,
+          "value": 2171.76,
+          "avg_price": 0.5299,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14867.79,
+      "holders": [
+        {
+          "trader": "hansama231",
+          "roi": 0.4276,
+          "value": 13496.99,
+          "avg_price": 0.4194,
+          "cur_price": 0.644
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5164,
+          "value": 1030.4,
+          "avg_price": 0.0139,
+          "cur_price": 0.644
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2712,
+          "value": 340.4,
+          "avg_price": 0.0112,
+          "cur_price": 0.644
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13424.27,
+      "holders": [
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.1806,
+          "value": 11431.66,
+          "avg_price": 0.1137,
+          "cur_price": 0.3985
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2712,
+          "value": 1174.44,
+          "avg_price": 0.0312,
+          "cur_price": 0.3985
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5164,
+          "value": 818.17,
+          "avg_price": 0.0312,
+          "cur_price": 0.3985
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3585.13,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2712,
+          "value": 1338.8,
+          "avg_price": 0.0312,
+          "cur_price": 0.7115
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.5164,
+          "value": 1140.9,
+          "avg_price": 0.4124,
+          "cur_price": 0.7115
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2558,
+          "value": 1105.43,
+          "avg_price": 0.58,
+          "cur_price": 0.7115
+        }
+      ]
+    },
     {
       "market": "Will Red Bull Bragantino win on 2026-09-05?",
       "slug": "bra-bra-bah-2026-09-05-bra",
@@ -68,96 +187,6 @@
       ]
     },
     {
-      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14890.88,
-      "holders": [
-        {
-          "trader": "hansama231",
-          "roi": 0.4276,
-          "value": 13517.95,
-          "avg_price": 0.4194,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5505,
-          "value": 1032,
-          "avg_price": 0.0139,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2666,
-          "value": 340.93,
-          "avg_price": 0.0112,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 13424.27,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.1745,
-          "value": 11431.66,
-          "avg_price": 0.1137,
-          "cur_price": 0.3985
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2666,
-          "value": 1174.44,
-          "avg_price": 0.0312,
-          "cur_price": 0.3985
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5505,
-          "value": 818.17,
-          "avg_price": 0.0312,
-          "cur_price": 0.3985
-        }
-      ]
-    },
-    {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3585.13,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.2666,
-          "value": 1338.8,
-          "avg_price": 0.0312,
-          "cur_price": 0.7115
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5505,
-          "value": 1140.9,
-          "avg_price": 0.4124,
-          "cur_price": 0.7115
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.2609,
-          "value": 1105.43,
-          "avg_price": 0.58,
-          "cur_price": 0.7115
-        }
-      ]
-    },
-    {
       "market": "Will OGC Nice win on 2026-09-05?",
       "slug": "fl1-ogc-lmf-2026-09-05-ogc",
       "outcome": "No",
@@ -184,36 +213,6 @@
           "value": 6165,
           "avg_price": 0.44,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
-      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7447.14,
-      "holders": [
-        {
-          "trader": "surfandturf",
-          "roi": 0.1656,
-          "value": 4470.01,
-          "avg_price": 0.0981,
-          "cur_price": 0.0745
-        },
-        {
-          "trader": "marchettamaker",
-          "roi": 0.3192,
-          "value": 2619.53,
-          "avg_price": 0.075,
-          "cur_price": 0.0745
-        },
-        {
-          "trader": "norrisfan",
-          "roi": 0.2835,
-          "value": 357.6,
-          "avg_price": 0.0112,
-          "cur_price": 0.0745
         }
       ]
     }
@@ -1404,8 +1403,10 @@
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
     "another-gta-vi-trailer-released-by-september-30::No": 3,
     "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 3,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 2,
-    "fl1-ogc-lmf-2026-09-05-ogc::No": 1
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
+    "fl1-ogc-lmf-2026-09-05-ogc::No": 2,
+    "bra-bra-bah-2026-09-05-bra::No": 1,
+    "cfb-bayl-aubrn-2026-09-05::Auburn": 1
   },
-  "updated_at": "2026-09-05T22:05:55.730362+00:00"
+  "updated_at": "2026-09-05T23:52:02.401251+00:00"
 }
