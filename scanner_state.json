@@ -1,36 +1,97 @@
 {
   "seen_ids": [
+    "fl1-ogc-lmf-2026-09-05-ogc::No",
     "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes"
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
+    {
+      "market": "Will OGC Nice win on 2026-09-05?",
+      "slug": "fl1-ogc-lmf-2026-09-05-ogc",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 108226.22,
+      "holders": [
+        {
+          "trader": "hansama231",
+          "roi": 0.2115,
+          "value": 77524.52,
+          "avg_price": 0.43,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "1xx2",
+          "roi": 0.1933,
+          "value": 24536.7,
+          "avg_price": 0.43,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2664,
+          "value": 6165,
+          "avg_price": 0.44,
+          "cur_price": 0.685
+        }
+      ]
+    },
     {
       "market": "Will Harry Kane win the 2026 Ballon d'Or?",
       "slug": "will-harry-kane-win-the-2026-ballon-dor",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 105744.41,
+      "total_value": 15017.86,
       "holders": [
         {
-          "trader": "surfandturf",
-          "roi": 0.1656,
-          "value": 91070.39,
-          "avg_price": 0.4346,
-          "cur_price": 0.6505
-        },
-        {
           "trader": "hansama231",
-          "roi": 0.379,
+          "roi": 0.2115,
           "value": 13633.22,
           "avg_price": 0.4194,
           "cur_price": 0.6505
         },
         {
           "trader": "balthazar",
-          "roi": 0.6512,
+          "roi": 0.616,
           "value": 1040.8,
           "avg_price": 0.0139,
           "cur_price": 0.6505
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2761,
+          "value": 343.84,
+          "avg_price": 0.0112,
+          "cur_price": 0.6505
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3585.13,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.2761,
+          "value": 1338.8,
+          "avg_price": 0.0312,
+          "cur_price": 0.7115
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.616,
+          "value": 1140.9,
+          "avg_price": 0.4124,
+          "cur_price": 0.7115
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2664,
+          "value": 1105.43,
+          "avg_price": 0.58,
+          "cur_price": 0.7115
         }
       ]
     },
@@ -98,223 +159,6 @@
           "value": 6924.98,
           "avg_price": 0.5305,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 32797.61,
-      "holders": [
-        {
-          "trader": "StasPanda",
-          "roi": 0.6118,
-          "value": 13699.99,
-          "avg_price": 0.55,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "TireLatest",
-          "roi": 0.3511,
-          "value": 12329.97,
-          "avg_price": 0.6035,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2041,
-          "value": 5328.12,
-          "avg_price": 0.6951,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6768,
-          "value": 1439.53,
-          "avg_price": 0.0294,
-          "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner",
-      "slug": "lol-nip-jdg-2026-09-05-game2",
-      "outcome": "Ninjas in Pyjamas",
-      "num_traders": 3,
-      "total_value": 23863.1,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.2543,
-          "value": 8280,
-          "avg_price": 0.57,
-          "cur_price": 0.92
-        },
-        {
-          "trader": "MissingJoy",
-          "roi": 0.2299,
-          "value": 7800,
-          "avg_price": 0.5823,
-          "cur_price": 0.92
-        },
-        {
-          "trader": "DanNgl",
-          "roi": 0.3475,
-          "value": 7783.1,
-          "avg_price": 0.5532,
-          "cur_price": 0.92
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team Vitality vs G2 Esports - Game 1 Winner",
-      "slug": "lol-vit-g2-2026-09-05-game1",
-      "outcome": "G2 Esports",
-      "num_traders": 3,
-      "total_value": 20959.58,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.2543,
-          "value": 12701.91,
-          "avg_price": 0.7357,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "MissingJoy",
-          "roi": 0.2299,
-          "value": 7996,
-          "avg_price": 0.72,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fkcvffcjt",
-          "roi": 0.2716,
-          "value": 261.67,
-          "avg_price": 0.7051,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Strait of Hormuz traffic returns to normal by December 31?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 19573.53,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2041,
-          "value": 11119.37,
-          "avg_price": 0.6881,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "TireLatest",
-          "roi": 0.3511,
-          "value": 7182.39,
-          "avg_price": 0.3592,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6768,
-          "value": 1271.77,
-          "avg_price": 0.7399,
-          "cur_price": 0.735
-        }
-      ]
-    },
-    {
-      "market": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 13791.62,
-      "holders": [
-        {
-          "trader": "StasPanda",
-          "roi": 0.6118,
-          "value": 7414.98,
-          "avg_price": 0.626,
-          "cur_price": 0.7415
-        },
-        {
-          "trader": "TireLatest",
-          "roi": 0.3511,
-          "value": 6258.5,
-          "avg_price": 0.581,
-          "cur_price": 0.7415
-        },
-        {
-          "trader": "Hourglass",
-          "roi": 0.5095,
-          "value": 118.14,
-          "avg_price": 0.7397,
-          "cur_price": 0.7415
-        }
-      ]
-    },
-    {
-      "market": "US announces end of Iranian blockade by September 30, 2026?",
-      "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 8236.17,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2041,
-          "value": 4125.0,
-          "avg_price": 0.8092,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "TireLatest",
-          "roi": 0.3511,
-          "value": 3286.21,
-          "avg_price": 0.8,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.6768,
-          "value": 824.96,
-          "avg_price": 0.1253,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "Another GTA VI trailer released by September 30?",
-      "slug": "another-gta-vi-trailer-released-by-september-30",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 7260.87,
-      "holders": [
-        {
-          "trader": "TireLatest",
-          "roi": 0.3511,
-          "value": 4381.79,
-          "avg_price": 0.8699,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2041,
-          "value": 2238.33,
-          "avg_price": 0.8662,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "fkcvffcjt",
-          "roi": 0.2716,
-          "value": 640.75,
-          "avg_price": 0.6368,
-          "cur_price": 0.875
         }
       ]
     }
@@ -1486,7 +1330,6 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "cfb-sjst-emich-2026-09-04::San Jose State": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 3,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "mls-nyc-nas-2026-09-04-total-2pt5::Under": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
@@ -1499,14 +1342,15 @@
     "lol-ig1-tes-2026-09-05-game4::Invictus Gaming": 3,
     "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "lol-ig1-tes-2026-09-05::Top Esports": 3,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 2,
-    "lol-nip-jdg-2026-09-05-game2::Ninjas in Pyjamas": 2,
-    "lol-vit-g2-2026-09-05-game1::G2 Esports": 2,
-    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::No": 2,
-    "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::No": 2,
-    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 2,
-    "another-gta-vi-trailer-released-by-september-30::No": 2,
-    "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 1
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
+    "lol-nip-jdg-2026-09-05-game2::Ninjas in Pyjamas": 3,
+    "lol-vit-g2-2026-09-05-game1::G2 Esports": 3,
+    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::No": 3,
+    "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::No": 3,
+    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
+    "another-gta-vi-trailer-released-by-september-30::No": 3,
+    "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 2,
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 1
   },
-  "updated_at": "2026-09-05T18:02:30.823203+00:00"
+  "updated_at": "2026-09-05T20:16:45.728918+00:00"
 }
