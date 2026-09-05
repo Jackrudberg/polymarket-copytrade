@@ -1,47 +1,66 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "mls-nyc-nas-2026-09-04-total-2pt5::Under",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes"
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 18343.09,
+      "holders": [
+        {
+          "trader": "TireLatest",
+          "roi": 0.6633,
+          "value": 12329.97,
+          "avg_price": 0.6035,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.7241,
+          "value": 5328.12,
+          "avg_price": 0.6951,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3658,
+          "value": 685,
+          "avg_price": 0.59,
+          "cur_price": 0.685
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 16852.59,
+      "num_traders": 3,
+      "total_value": 15654.69,
       "holders": [
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2249,
-          "value": 9700.02,
+          "roi": 0.7241,
+          "value": 9900.02,
           "avg_price": 0.6781,
-          "cur_price": 0.485
+          "cur_price": 0.495
         },
         {
-          "trader": "0x424779",
-          "roi": 0.5907,
-          "value": 3369.09,
-          "avg_price": 0.5466,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5328,
-          "value": 2995.07,
-          "avg_price": 0.4485,
-          "cur_price": 0.485
+          "trader": "0xheavy888",
+          "roi": 0.3658,
+          "value": 4950,
+          "avg_price": 0.72,
+          "cur_price": 0.495
         },
         {
           "trader": "donthackme",
-          "roi": 0.1908,
-          "value": 788.41,
+          "roi": 0.2271,
+          "value": 804.67,
           "avg_price": 0.2,
-          "cur_price": 0.485
+          "cur_price": 0.495
         }
       ]
     },
@@ -139,36 +158,6 @@
           "value": 3537.2,
           "avg_price": 0.45,
           "cur_price": 0.945
-        }
-      ]
-    },
-    {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 20467.64,
-      "holders": [
-        {
-          "trader": "StasPanda",
-          "roi": 0.5259,
-          "value": 13699.99,
-          "avg_price": 0.55,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2249,
-          "value": 5328.12,
-          "avg_price": 0.6951,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5328,
-          "value": 1439.53,
-          "avg_price": 0.0294,
-          "cur_price": 0.685
         }
       ]
     },
@@ -1435,8 +1424,12 @@
     "cs2-furia-vit-2026-09-04::FURIA": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
-    "cfb-sjst-emich-2026-09-04::San Jose State": 1,
-    "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 1
+    "cfb-sjst-emich-2026-09-04::San Jose State": 2,
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "mls-nyc-nas-2026-09-04-total-2pt5::Under": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-09-05T01:10:15.542772+00:00"
+  "updated_at": "2026-09-05T05:46:04.635547+00:00"
 }
