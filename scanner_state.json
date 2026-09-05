@@ -1,36 +1,190 @@
 {
   "seen_ids": [
+    "lol-gen-hle1-2026-09-05-game2::Hanwha Life Esports",
+    "lol-ig1-tes-2026-09-05-game4::Top Esports",
+    "lol-gen-hle1-2026-09-05-game1::Hanwha Life Esports",
+    "lol-ig1-tes-2026-09-05-game2::Top Esports",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
+    "will-the-us-invade-iran-before-2027::No",
+    "lol-ig1-tes-2026-09-05-game4::Invictus Gaming",
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes",
+    "lol-ig1-tes-2026-09-05::Top Esports"
   ],
   "signals": [
     {
-      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 18343.09,
+      "market": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+      "slug": "lol-gen-hle1-2026-09-05-game2",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 7,
+      "total_value": 29721.59,
       "holders": [
         {
-          "trader": "TireLatest",
-          "roi": 0.6633,
-          "value": 12329.97,
-          "avg_price": 0.6035,
-          "cur_price": 0.685
+          "trader": "teacherbai",
+          "roi": 0.5832,
+          "value": 7649.23,
+          "avg_price": 0.3319,
+          "cur_price": 0.255
         },
         {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.7241,
-          "value": 5328.12,
-          "avg_price": 0.6951,
-          "cur_price": 0.685
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.2136,
+          "value": 5841.09,
+          "avg_price": 0.5241,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "srar333",
+          "roi": 0.5005,
+          "value": 5099.98,
+          "avg_price": 0.5799,
+          "cur_price": 0.255
         },
         {
           "trader": "0xheavy888",
-          "roi": 0.3658,
-          "value": 685,
-          "avg_price": 0.59,
-          "cur_price": 0.685
+          "roi": 0.4511,
+          "value": 4113.42,
+          "avg_price": 0.5439,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.2048,
+          "value": 3824.99,
+          "avg_price": 0.44,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1866,
+          "value": 1917.88,
+          "avg_price": 0.4399,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "Zywoo123",
+          "roi": 0.2545,
+          "value": 1275.0,
+          "avg_price": 0.4399,
+          "cur_price": 0.255
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Top Esports - Game 4 Winner",
+      "slug": "lol-ig1-tes-2026-09-05-game4",
+      "outcome": "Top Esports",
+      "num_traders": 5,
+      "total_value": 53127.07,
+      "holders": [
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.2136,
+          "value": 22362.79,
+          "avg_price": 0.3601,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 13880.39,
+          "avg_price": 0.2156,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.2048,
+          "value": 10065.6,
+          "avg_price": 0.4633,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1866,
+          "value": 5143.29,
+          "avg_price": 0.5366,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "teacherbai",
+          "roi": 0.5832,
+          "value": 1675.0,
+          "avg_price": 0.28,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+      "slug": "lol-gen-hle1-2026-09-05-game1",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 4,
+      "total_value": 85162.34,
+      "holders": [
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.2136,
+          "value": 31863.23,
+          "avg_price": 0.9899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "srar333",
+          "roi": 0.5005,
+          "value": 20336.77,
+          "avg_price": 0.3552,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "teacherbai",
+          "roi": 0.5832,
+          "value": 17939.88,
+          "avg_price": 0.4477,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.2048,
+          "value": 15022.46,
+          "avg_price": 0.4803,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Top Esports - Game 2 Winner",
+      "slug": "lol-ig1-tes-2026-09-05-game2",
+      "outcome": "Top Esports",
+      "num_traders": 4,
+      "total_value": 82270.88,
+      "holders": [
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 32999.95,
+          "avg_price": 0.4971,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "srar333",
+          "roi": 0.5005,
+          "value": 28458.23,
+          "avg_price": 0.5338,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.4353,
+          "value": 12993.5,
+          "avg_price": 0.51,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.2136,
+          "value": 7819.2,
+          "avg_price": 0.5199,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -38,29 +192,193 @@
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15654.69,
+      "num_traders": 4,
+      "total_value": 30231.61,
       "holders": [
         {
+          "trader": "JUSTINHERBERTMVP",
+          "roi": 0.2907,
+          "value": 14893.18,
+          "avg_price": 0.4301,
+          "cur_price": 0.485
+        },
+        {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.7241,
-          "value": 9900.02,
+          "roi": 0.4471,
+          "value": 9700.02,
           "avg_price": 0.6781,
-          "cur_price": 0.495
+          "cur_price": 0.485
         },
         {
           "trader": "0xheavy888",
-          "roi": 0.3658,
-          "value": 4950,
+          "roi": 0.4511,
+          "value": 4850,
           "avg_price": 0.72,
-          "cur_price": 0.495
+          "cur_price": 0.485
         },
         {
           "trader": "donthackme",
-          "roi": 0.2271,
-          "value": 804.67,
+          "roi": 0.2262,
+          "value": 788.41,
           "avg_price": 0.2,
-          "cur_price": 0.495
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 25312.35,
+      "holders": [
+        {
+          "trader": "TireLatest",
+          "roi": 0.5239,
+          "value": 12329.97,
+          "avg_price": 0.6035,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 6969.26,
+          "avg_price": 0.5978,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.4471,
+          "value": 5328.12,
+          "avg_price": 0.6951,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4511,
+          "value": 685,
+          "avg_price": 0.59,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 79463.08,
+      "holders": [
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 39278.11,
+          "avg_price": 0.7352,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "TireLatest",
+          "roi": 0.5239,
+          "value": 35909.96,
+          "avg_price": 0.7498,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.4471,
+          "value": 4275.01,
+          "avg_price": 0.8529,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Top Esports - Game 4 Winner",
+      "slug": "lol-ig1-tes-2026-09-05-game4",
+      "outcome": "Invictus Gaming",
+      "num_traders": 3,
+      "total_value": 44017.8,
+      "holders": [
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 25213.12,
+          "avg_price": 0.7252,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "srar333",
+          "roi": 0.5005,
+          "value": 13093.55,
+          "avg_price": 0.4501,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "MissingJoy",
+          "roi": 0.4353,
+          "value": 5711.13,
+          "avg_price": 0.5518,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 37546.53,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4511,
+          "value": 25296.54,
+          "avg_price": 0.6201,
+          "cur_price": 0.875
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.1659,
+          "value": 6999.99,
+          "avg_price": 0.8099,
+          "cur_price": 0.875
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.4471,
+          "value": 5250,
+          "avg_price": 0.8833,
+          "cur_price": 0.875
+        }
+      ]
+    },
+    {
+      "market": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+      "slug": "lol-ig1-tes-2026-09-05",
+      "outcome": "Top Esports",
+      "num_traders": 3,
+      "total_value": 9241.47,
+      "holders": [
+        {
+          "trader": "BBQChickenisthebesttt",
+          "roi": 0.2048,
+          "value": 4260.05,
+          "avg_price": 0.5694,
+          "cur_price": 0.142
+        },
+        {
+          "trader": "JUSTINHERBERTMVP",
+          "roi": 0.2907,
+          "value": 4217.39,
+          "avg_price": 0.6054,
+          "cur_price": 0.142
+        },
+        {
+          "trader": "Skyfker",
+          "roi": 0.1866,
+          "value": 764.03,
+          "avg_price": 0.5081,
+          "cur_price": 0.142
         }
       ]
     },
@@ -188,66 +506,6 @@
           "value": 824.33,
           "avg_price": 0.0312,
           "cur_price": 0.4015
-        }
-      ]
-    },
-    {
-      "market": "San Jose State vs. Eastern Michigan",
-      "slug": "cfb-sjst-emich-2026-09-04",
-      "outcome": "San Jose State",
-      "num_traders": 3,
-      "total_value": 40843.26,
-      "holders": [
-        {
-          "trader": "BoggsFromShawshank",
-          "roi": 0.4203,
-          "value": 22507,
-          "avg_price": 0.4666,
-          "cur_price": 0.355
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1892,
-          "value": 13011.26,
-          "avg_price": 0.3499,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.4317,
-          "value": 5325,
-          "avg_price": 0.46,
-          "cur_price": 0.355
-        }
-      ]
-    },
-    {
-      "market": "Will Anthropic have the best AI model at the end of September 2026?",
-      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7768.46,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.2717,
-          "value": 6774.91,
-          "avg_price": 0.8925,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5086,
-          "value": 605.51,
-          "avg_price": 0.0312,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.1621,
-          "value": 388.04,
-          "avg_price": 0.0312,
-          "cur_price": 0.865
         }
       ]
     }
@@ -544,7 +802,6 @@
     "strait-of-hormuz-traffic-returns-to-normal-by-july-31::No": 3,
     "dota2-rnx-yb1-2026-08-02-game2::Yakult Brothers": 3,
     "iran-agrees-to-surrender-enriched-uranium-stockpile-by-december-31-2026-752-299::No": 3,
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-august-15-2026-20260713152715083-347::Yes": 3,
     "iran-leadership-change-by-september-30-20260629144005163-739::No": 3,
     "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966::No": 3,
@@ -1386,7 +1643,6 @@
     "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-september-30::No": 3,
     "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 3,
-    "will-the-us-invade-iran-before-2027::No": 3,
     "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 3,
     "will-arthur-fils-win-the-2026-mens-us-open::Yes": 3,
     "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
@@ -1424,12 +1680,12 @@
     "cs2-furia-vit-2026-09-04::FURIA": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
-    "cfb-sjst-emich-2026-09-04::San Jose State": 2,
-    "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 2,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "mls-nyc-nas-2026-09-04-total-2pt5::Under": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
+    "cfb-sjst-emich-2026-09-04::San Jose State": 3,
+    "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 3,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "mls-nyc-nas-2026-09-04-total-2pt5::Under": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2
   },
-  "updated_at": "2026-09-05T05:46:04.635547+00:00"
+  "updated_at": "2026-09-05T09:28:17.987484+00:00"
 }
