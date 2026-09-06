@@ -27603,7 +27603,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 16692.76,
       "traders": [
@@ -27613,7 +27613,8 @@
         "0xheavy888",
         "ghostorder"
       ],
-      "url": "https://polymarket.com/event/atp-bergs-zandsch-2026-09-05"
+      "url": "https://polymarket.com/event/atp-bergs-zandsch-2026-09-05",
+      "consensus_lost_at": "2026-09-06T11:38:14.192781+00:00"
     },
     {
       "signal_id": "mlb-tb-tex-2026-09-05::Tampa Bay Rays",
@@ -27629,7 +27630,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 37240.64,
       "traders": [
@@ -27638,7 +27639,8 @@
         "0xheavy888",
         "ghostorder"
       ],
-      "url": "https://polymarket.com/event/mlb-tb-tex-2026-09-05"
+      "url": "https://polymarket.com/event/mlb-tb-tex-2026-09-05",
+      "consensus_lost_at": "2026-09-06T11:38:14.192781+00:00"
     },
     {
       "signal_id": "wta-jovic-eala-2026-09-05::Alexandra Eala",
@@ -27654,7 +27656,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 30897.23,
       "traders": [
@@ -27663,7 +27665,8 @@
         "0xheavy888",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05"
+      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05",
+      "consensus_lost_at": "2026-09-06T11:38:14.192781+00:00"
     },
     {
       "signal_id": "mls-clb-col-2026-09-05-clb::Yes",
@@ -27679,7 +27682,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 313268.54,
       "traders": [
@@ -27687,7 +27690,8 @@
         "nigiri99",
         "ghostorder"
       ],
-      "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb"
+      "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb",
+      "consensus_lost_at": "2026-09-06T11:38:14.192781+00:00"
     },
     {
       "signal_id": "wta-jovic-eala-2026-09-05::Iva Jovic",
@@ -27703,7 +27707,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 18788.33,
       "traders": [
@@ -27711,7 +27715,8 @@
         "Postings",
         "ghostorder"
       ],
-      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05"
+      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05",
+      "consensus_lost_at": "2026-09-06T11:38:14.192781+00:00"
     },
     {
       "signal_id": "atp-mensik-tien-2026-09-05::Learner Tien",
@@ -27736,7 +27741,79 @@
         "Runemup"
       ],
       "url": "https://polymarket.com/event/atp-mensik-tien-2026-09-05"
+    },
+    {
+      "signal_id": "cs2-fnc-nip-2026-09-06::fnatic",
+      "market": "Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+      "slug": "cs2-fnc-nip-2026-09-06",
+      "side": "fnatic",
+      "alerted_at": "2026-09-06T11:38:14.192781+00:00",
+      "last_seen": "2026-09-06T11:38:14.192781+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 128007.92,
+      "traders": [
+        "Sunny24",
+        "JUSTINHERBERTMVP",
+        "1winstreak1"
+      ],
+      "url": "https://polymarket.com/event/cs2-fnc-nip-2026-09-06"
+    },
+    {
+      "signal_id": "lol-nip-lgd-2026-09-06-game2::Ninjas in Pyjamas",
+      "market": "LoL: Ninjas in Pyjamas vs LGD Gaming - Game 2 Winner",
+      "slug": "lol-nip-lgd-2026-09-06-game2",
+      "side": "Ninjas in Pyjamas",
+      "alerted_at": "2026-09-06T11:38:14.192781+00:00",
+      "last_seen": "2026-09-06T11:38:14.192781+00:00",
+      "entry_price": 0.96,
+      "current_price": 0.96,
+      "stake": 100.0,
+      "shares": 104.166667,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 83245.61,
+      "traders": [
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+        "solo88888",
+        "Sunshine.Smile"
+      ],
+      "url": "https://polymarket.com/event/lol-nip-lgd-2026-09-06-game2"
+    },
+    {
+      "signal_id": "lol-t1-dk-2026-09-06::Dplus KIA",
+      "market": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+      "slug": "lol-t1-dk-2026-09-06",
+      "side": "Dplus KIA",
+      "alerted_at": "2026-09-06T11:38:14.192781+00:00",
+      "last_seen": "2026-09-06T11:38:14.192781+00:00",
+      "entry_price": 0.345,
+      "current_price": 0.345,
+      "stake": 100.0,
+      "shares": 289.855072,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4275.21,
+      "traders": [
+        "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
+        "1winstreak1",
+        "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+      ],
+      "url": "https://polymarket.com/event/lol-t1-dk-2026-09-06"
     }
   ],
-  "updated_at": "2026-09-06T07:05:33.270737+00:00"
+  "updated_at": "2026-09-06T11:38:14.192781+00:00"
 }
