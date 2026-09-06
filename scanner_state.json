@@ -1,14 +1,107 @@
 {
   "seen_ids": [
-    "cs2-ts7-mouz-2026-09-06::Spirit",
-    "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No",
-    "lol-g2-kc-2026-09-06::G2 Esports",
-    "lol-g2-kc-2026-09-06-game1::G2 Esports",
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
-    "epl-ars-che-2026-09-06-ars::No"
+    "atp-paul-alcaraz-2026-09-06::Carlos Alcaraz",
+    "mlb-mil-cin-2026-09-06::Cincinnati Reds",
+    "mlb-bos-bal-2026-09-06-total-7pt5::Over"
   ],
   "signals": [
+    {
+      "market": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+      "slug": "atp-paul-alcaraz-2026-09-06",
+      "outcome": "Carlos Alcaraz",
+      "num_traders": 4,
+      "total_value": 273260.38,
+      "holders": [
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.2634,
+          "value": 107995.13,
+          "avg_price": 0.7928,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "RegardedMoney",
+          "roi": 0.1613,
+          "value": 90500,
+          "avg_price": 0.8,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "SemyonMarmeladov",
+          "roi": 0.3644,
+          "value": 47615.25,
+          "avg_price": 0.8,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1953,
+          "value": 27150,
+          "avg_price": 0.7999,
+          "cur_price": 0.905
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Cincinnati Reds",
+      "slug": "mlb-mil-cin-2026-09-06",
+      "outcome": "Cincinnati Reds",
+      "num_traders": 3,
+      "total_value": 139543.66,
+      "holders": [
+        {
+          "trader": "xifutloong3",
+          "roi": 0.6207,
+          "value": 83983.05,
+          "avg_price": 0.5899,
+          "cur_price": 0.991
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2144,
+          "value": 53160.45,
+          "avg_price": 0.4786,
+          "cur_price": 0.991
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.2009,
+          "value": 2400.16,
+          "avg_price": 0.8081,
+          "cur_price": 0.991
+        }
+      ]
+    },
+    {
+      "market": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
+      "slug": "mlb-bos-bal-2026-09-06-total-7pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 24966.95,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2144,
+          "value": 17997.18,
+          "avg_price": 0.4751,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.1953,
+          "value": 6674.99,
+          "avg_price": 0.45,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "1winstreak1",
+          "roi": 0.2009,
+          "value": 294.78,
+          "avg_price": 0.6415,
+          "cur_price": 0.445
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
       "slug": "cs2-ts7-mouz-2026-09-06",
@@ -244,96 +337,6 @@
           "value": 431.65,
           "avg_price": 0.43,
           "cur_price": 0.155
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
-      "slug": "cs2-fnc-nip-2026-09-06",
-      "outcome": "fnatic",
-      "num_traders": 3,
-      "total_value": 128007.92,
-      "holders": [
-        {
-          "trader": "Sunny24",
-          "roi": 0.2507,
-          "value": 86510.63,
-          "avg_price": 0.4483,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "JUSTINHERBERTMVP",
-          "roi": 0.418,
-          "value": 32483.73,
-          "avg_price": 0.4484,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.2059,
-          "value": 9013.56,
-          "avg_price": 0.4324,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Ninjas in Pyjamas vs LGD Gaming - Game 2 Winner",
-      "slug": "lol-nip-lgd-2026-09-06-game2",
-      "outcome": "Ninjas in Pyjamas",
-      "num_traders": 3,
-      "total_value": 83245.61,
-      "holders": [
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2171,
-          "value": 62962.69,
-          "avg_price": 0.6151,
-          "cur_price": 0.96
-        },
-        {
-          "trader": "solo88888",
-          "roi": 0.202,
-          "value": 10394.92,
-          "avg_price": 0.6993,
-          "cur_price": 0.96
-        },
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3535,
-          "value": 9888,
-          "avg_price": 0.6217,
-          "cur_price": 0.96
-        }
-      ]
-    },
-    {
-      "market": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
-      "slug": "lol-t1-dk-2026-09-06",
-      "outcome": "Dplus KIA",
-      "num_traders": 3,
-      "total_value": 4275.21,
-      "holders": [
-        {
-          "trader": "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
-          "roi": 0.2145,
-          "value": 2857.39,
-          "avg_price": 0.4338,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "1winstreak1",
-          "roi": 0.2059,
-          "value": 727.82,
-          "avg_price": 0.4266,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2171,
-          "value": 690,
-          "avg_price": 0.27,
-          "cur_price": 0.345
         }
       ]
     }
@@ -1536,9 +1539,16 @@
     "mls-clb-col-2026-09-05-clb::Yes": 3,
     "wta-jovic-eala-2026-09-05::Iva Jovic": 3,
     "atp-mensik-tien-2026-09-05::Learner Tien": 3,
-    "cs2-fnc-nip-2026-09-06::fnatic": 2,
-    "lol-nip-lgd-2026-09-06-game2::Ninjas in Pyjamas": 2,
-    "lol-t1-dk-2026-09-06::Dplus KIA": 2
+    "cs2-fnc-nip-2026-09-06::fnatic": 3,
+    "lol-nip-lgd-2026-09-06-game2::Ninjas in Pyjamas": 3,
+    "lol-t1-dk-2026-09-06::Dplus KIA": 3,
+    "cs2-ts7-mouz-2026-09-06::Spirit": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 1,
+    "lol-g2-kc-2026-09-06::G2 Esports": 1,
+    "lol-g2-kc-2026-09-06-game1::G2 Esports": 1,
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 1,
+    "epl-ars-che-2026-09-06-ars::No": 1
   },
-  "updated_at": "2026-09-06T17:14:46.332481+00:00"
+  "updated_at": "2026-09-06T19:16:16.376694+00:00"
 }
