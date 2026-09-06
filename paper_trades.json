@@ -27732,7 +27732,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 152642.22,
       "traders": [
@@ -27740,7 +27740,8 @@
         "0x78becf",
         "Runemup"
       ],
-      "url": "https://polymarket.com/event/atp-mensik-tien-2026-09-05"
+      "url": "https://polymarket.com/event/atp-mensik-tien-2026-09-05",
+      "consensus_lost_at": "2026-09-06T14:24:14.914160+00:00"
     },
     {
       "signal_id": "cs2-fnc-nip-2026-09-06::fnatic",
@@ -27815,5 +27816,5 @@
       "url": "https://polymarket.com/event/lol-t1-dk-2026-09-06"
     }
   ],
-  "updated_at": "2026-09-06T11:38:14.192781+00:00"
+  "updated_at": "2026-09-06T14:24:14.914160+00:00"
 }
