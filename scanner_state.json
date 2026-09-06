@@ -1,11 +1,190 @@
 {
   "seen_ids": [
-    "mls-clb-col-2026-09-05-clb::No",
-    "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
+    "atp-bergs-zandsch-2026-09-05::Zizou Bergs",
+    "mlb-tb-tex-2026-09-05::Tampa Bay Rays",
+    "wta-jovic-eala-2026-09-05::Alexandra Eala",
+    "mls-clb-col-2026-09-05-clb::Yes",
+    "wta-jovic-eala-2026-09-05::Iva Jovic"
   ],
   "signals": [
+    {
+      "market": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
+      "slug": "atp-bergs-zandsch-2026-09-05",
+      "outcome": "Zizou Bergs",
+      "num_traders": 5,
+      "total_value": 16692.76,
+      "holders": [
+        {
+          "trader": "devilbanker",
+          "roi": 0.709,
+          "value": 9654.65,
+          "avg_price": 0.3191,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "HMLSF",
+          "roi": 0.1741,
+          "value": 3845.48,
+          "avg_price": 0.2484,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "unknownloser1",
+          "roi": 0.1886,
+          "value": 1500.0,
+          "avg_price": 0.2199,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5181,
+          "value": 1104.4,
+          "avg_price": 0.35,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "ghostorder",
+          "roi": 0.3899,
+          "value": 588.23,
+          "avg_price": 0.6066,
+          "cur_price": 0.165
+        }
+      ]
+    },
+    {
+      "market": "Tampa Bay Rays vs. Texas Rangers",
+      "slug": "mlb-tb-tex-2026-09-05",
+      "outcome": "Tampa Bay Rays",
+      "num_traders": 4,
+      "total_value": 37240.64,
+      "holders": [
+        {
+          "trader": "devilbanker",
+          "roi": 0.709,
+          "value": 14746.95,
+          "avg_price": 0.5582,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1851,
+          "value": 12887.55,
+          "avg_price": 0.4899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5181,
+          "value": 8795.6,
+          "avg_price": 0.485,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ghostorder",
+          "roi": 0.3899,
+          "value": 810.54,
+          "avg_price": 0.6385,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "US Open WTA: Iva Jovic vs Alexandra Eala",
+      "slug": "wta-jovic-eala-2026-09-05",
+      "outcome": "Alexandra Eala",
+      "num_traders": 4,
+      "total_value": 30897.23,
+      "holders": [
+        {
+          "trader": "unknownloser1",
+          "roi": 0.1886,
+          "value": 14499.99,
+          "avg_price": 0.5285,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "ghostorder",
+          "roi": 0.3899,
+          "value": 9930.52,
+          "avg_price": 0.4896,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5181,
+          "value": 3629.79,
+          "avg_price": 0.45,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1851,
+          "value": 2836.93,
+          "avg_price": 0.4731,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Will Columbus Crew win on 2026-09-05?",
+      "slug": "mls-clb-col-2026-09-05-clb",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 313268.54,
+      "holders": [
+        {
+          "trader": "WTSA",
+          "roi": 0.3859,
+          "value": 310650.72,
+          "avg_price": 0.4487,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1851,
+          "value": 1871.06,
+          "avg_price": 0.4889,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ghostorder",
+          "roi": 0.3899,
+          "value": 746.76,
+          "avg_price": 0.76,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "US Open WTA: Iva Jovic vs Alexandra Eala",
+      "slug": "wta-jovic-eala-2026-09-05",
+      "outcome": "Iva Jovic",
+      "num_traders": 3,
+      "total_value": 18788.33,
+      "holders": [
+        {
+          "trader": "HMLSF",
+          "roi": 0.1741,
+          "value": 11235.79,
+          "avg_price": 0.2209,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "Postings",
+          "roi": 0.5063,
+          "value": 4910.71,
+          "avg_price": 0.5599,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "ghostorder",
+          "roi": 0.3899,
+          "value": 2641.83,
+          "avg_price": 0.4361,
+          "cur_price": 0.275
+        }
+      ]
+    },
     {
       "market": "Will Columbus Crew win on 2026-09-05?",
       "slug": "mls-clb-col-2026-09-05-clb",
@@ -183,36 +362,6 @@
           "value": 7250,
           "avg_price": 0.72,
           "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Will OGC Nice win on 2026-09-05?",
-      "slug": "fl1-ogc-lmf-2026-09-05-ogc",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 108226.22,
-      "holders": [
-        {
-          "trader": "hansama231",
-          "roi": 0.2115,
-          "value": 77524.52,
-          "avg_price": 0.43,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "1xx2",
-          "roi": 0.1933,
-          "value": 24536.7,
-          "avg_price": 0.43,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.2664,
-          "value": 6165,
-          "avg_price": 0.44,
-          "cur_price": 0.685
         }
       ]
     }
@@ -1404,9 +1553,13 @@
     "another-gta-vi-trailer-released-by-september-30::No": 3,
     "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 3,
     "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
-    "fl1-ogc-lmf-2026-09-05-ogc::No": 2,
-    "bra-bra-bah-2026-09-05-bra::No": 1,
-    "cfb-bayl-aubrn-2026-09-05::Auburn": 1
+    "fl1-ogc-lmf-2026-09-05-ogc::No": 3,
+    "bra-bra-bah-2026-09-05-bra::No": 2,
+    "cfb-bayl-aubrn-2026-09-05::Auburn": 2,
+    "mls-clb-col-2026-09-05-clb::No": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
   },
-  "updated_at": "2026-09-05T23:52:02.401251+00:00"
+  "updated_at": "2026-09-06T02:01:56.627430+00:00"
 }

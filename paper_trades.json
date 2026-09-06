@@ -27528,7 +27528,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 108662.63,
       "traders": [
@@ -27536,7 +27536,8 @@
         "matanovik",
         "1xx2"
       ],
-      "url": "https://polymarket.com/event/bra-bra-bah-2026-09-05-bra"
+      "url": "https://polymarket.com/event/bra-bra-bah-2026-09-05-bra",
+      "consensus_lost_at": "2026-09-06T02:01:56.602654+00:00"
     },
     {
       "signal_id": "cfb-bayl-aubrn-2026-09-05::Auburn",
@@ -27552,7 +27553,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 52836.05,
       "traders": [
@@ -27560,7 +27561,8 @@
         "wr0ngw4yb3tt0r",
         "CoffeeDespiser"
       ],
-      "url": "https://polymarket.com/event/cfb-bayl-aubrn-2026-09-05"
+      "url": "https://polymarket.com/event/cfb-bayl-aubrn-2026-09-05",
+      "consensus_lost_at": "2026-09-06T02:01:56.602654+00:00"
     },
     {
       "signal_id": "mls-clb-col-2026-09-05-clb::No",
@@ -27585,7 +27587,131 @@
         "1xx2"
       ],
       "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb"
+    },
+    {
+      "signal_id": "atp-bergs-zandsch-2026-09-05::Zizou Bergs",
+      "market": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
+      "slug": "atp-bergs-zandsch-2026-09-05",
+      "side": "Zizou Bergs",
+      "alerted_at": "2026-09-06T02:01:56.602654+00:00",
+      "last_seen": "2026-09-06T02:01:56.602654+00:00",
+      "entry_price": 0.165,
+      "current_price": 0.165,
+      "stake": 100.0,
+      "shares": 606.060606,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 16692.76,
+      "traders": [
+        "devilbanker",
+        "HMLSF",
+        "unknownloser1",
+        "0xheavy888",
+        "ghostorder"
+      ],
+      "url": "https://polymarket.com/event/atp-bergs-zandsch-2026-09-05"
+    },
+    {
+      "signal_id": "mlb-tb-tex-2026-09-05::Tampa Bay Rays",
+      "market": "Tampa Bay Rays vs. Texas Rangers",
+      "slug": "mlb-tb-tex-2026-09-05",
+      "side": "Tampa Bay Rays",
+      "alerted_at": "2026-09-06T02:01:56.602654+00:00",
+      "last_seen": "2026-09-06T02:01:56.602654+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 37240.64,
+      "traders": [
+        "devilbanker",
+        "nigiri99",
+        "0xheavy888",
+        "ghostorder"
+      ],
+      "url": "https://polymarket.com/event/mlb-tb-tex-2026-09-05"
+    },
+    {
+      "signal_id": "wta-jovic-eala-2026-09-05::Alexandra Eala",
+      "market": "US Open WTA: Iva Jovic vs Alexandra Eala",
+      "slug": "wta-jovic-eala-2026-09-05",
+      "side": "Alexandra Eala",
+      "alerted_at": "2026-09-06T02:01:56.602654+00:00",
+      "last_seen": "2026-09-06T02:01:56.602654+00:00",
+      "entry_price": 0.725,
+      "current_price": 0.725,
+      "stake": 100.0,
+      "shares": 137.931034,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 30897.23,
+      "traders": [
+        "unknownloser1",
+        "ghostorder",
+        "0xheavy888",
+        "nigiri99"
+      ],
+      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05"
+    },
+    {
+      "signal_id": "mls-clb-col-2026-09-05-clb::Yes",
+      "market": "Will Columbus Crew win on 2026-09-05?",
+      "slug": "mls-clb-col-2026-09-05-clb",
+      "side": "Yes",
+      "alerted_at": "2026-09-06T02:01:56.602654+00:00",
+      "last_seen": "2026-09-06T02:01:56.602654+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 313268.54,
+      "traders": [
+        "WTSA",
+        "nigiri99",
+        "ghostorder"
+      ],
+      "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb"
+    },
+    {
+      "signal_id": "wta-jovic-eala-2026-09-05::Iva Jovic",
+      "market": "US Open WTA: Iva Jovic vs Alexandra Eala",
+      "slug": "wta-jovic-eala-2026-09-05",
+      "side": "Iva Jovic",
+      "alerted_at": "2026-09-06T02:01:56.602654+00:00",
+      "last_seen": "2026-09-06T02:01:56.602654+00:00",
+      "entry_price": 0.275,
+      "current_price": 0.275,
+      "stake": 100.0,
+      "shares": 363.636364,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 18788.33,
+      "traders": [
+        "HMLSF",
+        "Postings",
+        "ghostorder"
+      ],
+      "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05"
     }
   ],
-  "updated_at": "2026-09-05T23:52:02.376525+00:00"
+  "updated_at": "2026-09-06T02:01:56.602654+00:00"
 }
