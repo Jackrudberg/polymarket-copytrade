@@ -1,10 +1,38 @@
 {
   "seen_ids": [
-    "atp-paul-alcaraz-2026-09-06::Carlos Alcaraz",
-    "mlb-mil-cin-2026-09-06::Cincinnati Reds",
-    "mlb-bos-bal-2026-09-06-total-7pt5::Over"
+    "mlb-stl-col-2026-09-06::Colorado Rockies"
   ],
   "signals": [
+    {
+      "market": "St. Louis Cardinals vs. Colorado Rockies",
+      "slug": "mlb-stl-col-2026-09-06",
+      "outcome": "Colorado Rockies",
+      "num_traders": 3,
+      "total_value": 20705.46,
+      "holders": [
+        {
+          "trader": "0x78becf",
+          "roi": 0.1729,
+          "value": 9316.09,
+          "avg_price": 0.4964,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1743,
+          "value": 7008.26,
+          "avg_price": 0.2959,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.2119,
+          "value": 4381.11,
+          "avg_price": 0.4499,
+          "cur_price": 0.185
+        }
+      ]
+    },
     {
       "market": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
       "slug": "atp-paul-alcaraz-2026-09-06",
@@ -1542,13 +1570,16 @@
     "cs2-fnc-nip-2026-09-06::fnatic": 3,
     "lol-nip-lgd-2026-09-06-game2::Ninjas in Pyjamas": 3,
     "lol-t1-dk-2026-09-06::Dplus KIA": 3,
-    "cs2-ts7-mouz-2026-09-06::Spirit": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 1,
-    "lol-g2-kc-2026-09-06::G2 Esports": 1,
-    "lol-g2-kc-2026-09-06-game1::G2 Esports": 1,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 1,
-    "epl-ars-che-2026-09-06-ars::No": 1
+    "cs2-ts7-mouz-2026-09-06::Spirit": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 2,
+    "lol-g2-kc-2026-09-06::G2 Esports": 2,
+    "lol-g2-kc-2026-09-06-game1::G2 Esports": 2,
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 2,
+    "epl-ars-che-2026-09-06-ars::No": 2,
+    "atp-paul-alcaraz-2026-09-06::Carlos Alcaraz": 1,
+    "mlb-mil-cin-2026-09-06::Cincinnati Reds": 1,
+    "mlb-bos-bal-2026-09-06-total-7pt5::Over": 1
   },
-  "updated_at": "2026-09-06T19:16:16.376694+00:00"
+  "updated_at": "2026-09-06T21:26:53.936693+00:00"
 }

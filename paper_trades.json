@@ -3160,7 +3160,7 @@
       "current_value": 120.54,
       "paper_pnl": 20.54,
       "return_percent": 20.54,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 72995.1,
       "traders": [
@@ -3169,7 +3169,7 @@
         "Tigerofthehood"
       ],
       "url": "https://polymarket.com/event/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-      "consensus_lost_at": "2026-09-05T18:02:30.798760+00:00"
+      "consensus_lost_at": "2026-09-06T21:26:53.912335+00:00"
     },
     {
       "signal_id": "iran-leadership-change-by-december-31-974-976-658-482-568::No",
@@ -5126,7 +5126,7 @@
       "current_value": 139.44,
       "paper_pnl": 39.44,
       "return_percent": 39.44,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1681.72,
       "traders": [
@@ -5135,7 +5135,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-09-06T07:05:33.270737+00:00"
+      "consensus_lost_at": "2026-09-06T21:26:53.912335+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-27::Miami Marlins",
@@ -27890,7 +27890,31 @@
         "1winstreak1"
       ],
       "url": "https://polymarket.com/event/mlb-bos-bal-2026-09-06-total-7pt5"
+    },
+    {
+      "signal_id": "mlb-stl-col-2026-09-06::Colorado Rockies",
+      "market": "St. Louis Cardinals vs. Colorado Rockies",
+      "slug": "mlb-stl-col-2026-09-06",
+      "side": "Colorado Rockies",
+      "alerted_at": "2026-09-06T21:26:53.912335+00:00",
+      "last_seen": "2026-09-06T21:26:53.912335+00:00",
+      "entry_price": 0.185,
+      "current_price": 0.185,
+      "stake": 100.0,
+      "shares": 540.540541,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 20705.46,
+      "traders": [
+        "0x78becf",
+        "wr0ngw4yb3tt0r",
+        "pleaseplease123"
+      ],
+      "url": "https://polymarket.com/event/mlb-stl-col-2026-09-06"
     }
   ],
-  "updated_at": "2026-09-06T19:16:16.352577+00:00"
+  "updated_at": "2026-09-06T21:26:53.912335+00:00"
 }
