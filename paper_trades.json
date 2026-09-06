@@ -5126,7 +5126,7 @@
       "current_value": 139.76,
       "paper_pnl": 39.76,
       "return_percent": 39.76,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1681.72,
       "traders": [
@@ -5135,7 +5135,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-08-18T23:18:22.819437+00:00"
+      "consensus_lost_at": "2026-09-06T07:05:33.270737+00:00"
     },
     {
       "signal_id": "mlb-phi-mia-2026-07-27::Miami Marlins",
@@ -5635,7 +5635,7 @@
       "current_value": 167.09,
       "paper_pnl": 67.09,
       "return_percent": 67.09,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 23156.43,
       "traders": [
@@ -5644,7 +5644,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "consensus_lost_at": "2026-09-05T09:28:17.963154+00:00"
+      "consensus_lost_at": "2026-09-06T07:05:33.270737+00:00"
     },
     {
       "signal_id": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes",
@@ -6575,7 +6575,7 @@
       "current_value": 94.93,
       "paper_pnl": -5.07,
       "return_percent": -5.07,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3551.75,
       "traders": [
@@ -6584,7 +6584,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "consensus_lost_at": "2026-09-05T09:28:17.963154+00:00"
+      "consensus_lost_at": "2026-09-06T07:05:33.270737+00:00"
     },
     {
       "signal_id": "mlb-tex-tb-2026-07-30::Tampa Bay Rays",
@@ -27578,7 +27578,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 25841.43,
       "traders": [
@@ -27586,7 +27586,8 @@
         "CoffeeDespiser",
         "1xx2"
       ],
-      "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb"
+      "url": "https://polymarket.com/event/mls-clb-col-2026-09-05-clb",
+      "consensus_lost_at": "2026-09-06T07:05:33.270737+00:00"
     },
     {
       "signal_id": "atp-bergs-zandsch-2026-09-05::Zizou Bergs",
@@ -27711,7 +27712,31 @@
         "ghostorder"
       ],
       "url": "https://polymarket.com/event/wta-jovic-eala-2026-09-05"
+    },
+    {
+      "signal_id": "atp-mensik-tien-2026-09-05::Learner Tien",
+      "market": "US Open ATP: Jakub Mensik vs Learner Tien",
+      "slug": "atp-mensik-tien-2026-09-05",
+      "side": "Learner Tien",
+      "alerted_at": "2026-09-06T07:05:33.270737+00:00",
+      "last_seen": "2026-09-06T07:05:33.270737+00:00",
+      "entry_price": 1.0,
+      "current_price": 1.0,
+      "stake": 100.0,
+      "shares": 100.0,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 152642.22,
+      "traders": [
+        "Sunny24",
+        "0x78becf",
+        "Runemup"
+      ],
+      "url": "https://polymarket.com/event/atp-mensik-tien-2026-09-05"
     }
   ],
-  "updated_at": "2026-09-06T02:01:56.602654+00:00"
+  "updated_at": "2026-09-06T07:05:33.270737+00:00"
 }

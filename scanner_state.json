@@ -1,12 +1,38 @@
 {
   "seen_ids": [
-    "atp-bergs-zandsch-2026-09-05::Zizou Bergs",
-    "mlb-tb-tex-2026-09-05::Tampa Bay Rays",
-    "wta-jovic-eala-2026-09-05::Alexandra Eala",
-    "mls-clb-col-2026-09-05-clb::Yes",
-    "wta-jovic-eala-2026-09-05::Iva Jovic"
+    "atp-mensik-tien-2026-09-05::Learner Tien"
   ],
   "signals": [
+    {
+      "market": "US Open ATP: Jakub Mensik vs Learner Tien",
+      "slug": "atp-mensik-tien-2026-09-05",
+      "outcome": "Learner Tien",
+      "num_traders": 3,
+      "total_value": 152642.22,
+      "holders": [
+        {
+          "trader": "Sunny24",
+          "roi": 0.3216,
+          "value": 72933.92,
+          "avg_price": 0.2613,
+          "cur_price": 1
+        },
+        {
+          "trader": "0x78becf",
+          "roi": 1.2211,
+          "value": 62382.72,
+          "avg_price": 0.4489,
+          "cur_price": 1
+        },
+        {
+          "trader": "Runemup",
+          "roi": 0.3357,
+          "value": 17325.58,
+          "avg_price": 0.4617,
+          "cur_price": 1
+        }
+      ]
+    },
     {
       "market": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
       "slug": "atp-bergs-zandsch-2026-09-05",
@@ -302,66 +328,6 @@
           "value": 1105.43,
           "avg_price": 0.58,
           "cur_price": 0.7115
-        }
-      ]
-    },
-    {
-      "market": "Will Red Bull Bragantino win on 2026-09-05?",
-      "slug": "bra-bra-bah-2026-09-05-bra",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 108662.63,
-      "holders": [
-        {
-          "trader": "EV-Andars",
-          "roi": 0.25,
-          "value": 75370.3,
-          "avg_price": 0.4978,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.2422,
-          "value": 27644.17,
-          "avg_price": 0.4923,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "1xx2",
-          "roi": 0.2753,
-          "value": 5648.16,
-          "avg_price": 0.4899,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Baylor vs. Auburn",
-      "slug": "cfb-bayl-aubrn-2026-09-05",
-      "outcome": "Auburn",
-      "num_traders": 3,
-      "total_value": 52836.05,
-      "holders": [
-        {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.439,
-          "value": 32928.63,
-          "avg_price": 0.7051,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1967,
-          "value": 12657.42,
-          "avg_price": 0.6877,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.1745,
-          "value": 7250,
-          "avg_price": 0.72,
-          "cur_price": 0.725
         }
       ]
     }
@@ -1554,12 +1520,17 @@
     "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 3,
     "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
     "fl1-ogc-lmf-2026-09-05-ogc::No": 3,
-    "bra-bra-bah-2026-09-05-bra::No": 2,
-    "cfb-bayl-aubrn-2026-09-05::Auburn": 2,
-    "mls-clb-col-2026-09-05-clb::No": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
+    "bra-bra-bah-2026-09-05-bra::No": 3,
+    "cfb-bayl-aubrn-2026-09-05::Auburn": 3,
+    "mls-clb-col-2026-09-05-clb::No": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 2,
+    "atp-bergs-zandsch-2026-09-05::Zizou Bergs": 1,
+    "mlb-tb-tex-2026-09-05::Tampa Bay Rays": 1,
+    "wta-jovic-eala-2026-09-05::Alexandra Eala": 1,
+    "mls-clb-col-2026-09-05-clb::Yes": 1,
+    "wta-jovic-eala-2026-09-05::Iva Jovic": 1
   },
-  "updated_at": "2026-09-06T02:01:56.627430+00:00"
+  "updated_at": "2026-09-06T07:05:33.285354+00:00"
 }
