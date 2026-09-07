@@ -1,6 +1,177 @@
 {
-  "seen_ids": [],
-  "signals": [],
+  "seen_ids": [
+    "atp-cerundo-blockx-2026-09-06::Francisco Cerundolo",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "mlb-laa-bos-2026-09-07-total-8pt5::Over",
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
+    "another-gta-vi-trailer-released-by-september-30::No"
+  ],
+  "signals": [
+    {
+      "market": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+      "slug": "atp-cerundo-blockx-2026-09-06",
+      "outcome": "Francisco Cerundolo",
+      "num_traders": 5,
+      "total_value": 138405.59,
+      "holders": [
+        {
+          "trader": "SkyonX",
+          "roi": 0.2237,
+          "value": 44635.96,
+          "avg_price": 0.6653,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "HectorHuang",
+          "roi": 0.306,
+          "value": 37636.75,
+          "avg_price": 0.3945,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.1565,
+          "value": 22499.78,
+          "avg_price": 0.39,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "rabbitfoot1",
+          "roi": 0.4523,
+          "value": 20349.03,
+          "avg_price": 0.6949,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Gambler661",
+          "roi": 0.225,
+          "value": 13284.07,
+          "avg_price": 0.5398,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 76588.24,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.4023,
+          "value": 61199.36,
+          "avg_price": 0.2451,
+          "cur_price": 0.3975
+        },
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.3896,
+          "value": 11402.98,
+          "avg_price": 0.1137,
+          "cur_price": 0.3975
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1542,
+          "value": 3985.9,
+          "avg_price": 0.3915,
+          "cur_price": 0.3975
+        }
+      ]
+    },
+    {
+      "market": "Los Angeles Angels vs. Boston Red Sox: O/U 8.5",
+      "slug": "mlb-laa-bos-2026-09-07-total-8pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 76484.28,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1863,
+          "value": 51634.34,
+          "avg_price": 0.4937,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.3513,
+          "value": 15300,
+          "avg_price": 0.5,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3793,
+          "value": 9549.94,
+          "avg_price": 0.5074,
+          "cur_price": 0.255
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 29563.28,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.4023,
+          "value": 23047.84,
+          "avg_price": 0.5654,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1542,
+          "value": 5985.11,
+          "avg_price": 0.5864,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.3896,
+          "value": 530.33,
+          "avg_price": 0.0312,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Another GTA VI trailer released by September 30?",
+      "slug": "another-gta-vi-trailer-released-by-september-30",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 6515.9,
+      "holders": [
+        {
+          "trader": "ColomboHex",
+          "roi": 0.6942,
+          "value": 4381.79,
+          "avg_price": 0.8699,
+          "cur_price": 0.875
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.1542,
+          "value": 1493.36,
+          "avg_price": 0.8662,
+          "cur_price": 0.875
+        },
+        {
+          "trader": "fkcvffcjt",
+          "roi": 0.2809,
+          "value": 640.75,
+          "avg_price": 0.6368,
+          "cur_price": 0.875
+        }
+      ]
+    }
+  ],
   "missing_counts": {
     "lol-ts-sen-2026-07-15::Sentinels": 3,
     "dota2-ts8-liquid-2026-07-15-game1::Team Liquid": 3,
@@ -1145,7 +1316,6 @@
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "cs2-big5-nemi1-2026-09-02::BIG": 3,
     "cs2-mibr-ef1-2026-09-02::Eternal Fire": 3,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "cs2-hotu-nemi1-2026-09-02::Nemiga": 3,
     "mlb-nym-tb-2026-09-02::New York Mets": 3,
@@ -1184,14 +1354,12 @@
     "strait-of-hormuz-traffic-returns-to-normal-by-december-31::No": 3,
     "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::No": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
-    "another-gta-vi-trailer-released-by-september-30::No": 3,
     "lol-nip-jdg-2026-09-05-game3::Ninjas in Pyjamas": 3,
     "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
     "fl1-ogc-lmf-2026-09-05-ogc::No": 3,
     "bra-bra-bah-2026-09-05-bra::No": 3,
     "cfb-bayl-aubrn-2026-09-05::Auburn": 3,
     "mls-clb-col-2026-09-05-clb::No": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "atp-bergs-zandsch-2026-09-05::Zizou Bergs": 3,
     "mlb-tb-tex-2026-09-05::Tampa Bay Rays": 3,
@@ -1214,5 +1382,5 @@
     "mlb-bos-bal-2026-09-06-total-7pt5::Over": 3,
     "mlb-stl-col-2026-09-06::Colorado Rockies": 3
   },
-  "updated_at": "2026-09-07T16:06:32.582830+00:00"
+  "updated_at": "2026-09-07T19:56:04.360225+00:00"
 }
