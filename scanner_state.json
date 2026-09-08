@@ -1,15 +1,445 @@
 {
   "seen_ids": [
-    "lol-ig1-lgd-2026-09-08::Invictus Gaming",
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No",
-    "lol-ig1-lgd-2026-09-08-game3::Invictus Gaming",
+    "ucl-bru-ast-2026-09-08-bru::No",
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "ucl-bru-ast-2026-09-08-ast::Yes",
+    "cs2-g2-ast10-2026-09-08::Astralis",
     "cs2-g2-ast10-2026-09-08-map-handicap-away-1pt5::Astralis",
-    "will-the-us-invade-cuba-in-2026::No",
-    "cs2-phanto-mis-2026-09-08:: Phantom Academy",
-    "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes",
-    "2026-balance-of-power-d-senate-d-house-949::Yes"
+    "atp-tiafoe-michels-2026-09-08::Frances Tiafoe",
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
+    "wta-sabalen-noskova-2026-09-08::Linda Noskova"
   ],
   "signals": [
+    {
+      "market": "Will Club Brugge KV win on 2026-09-08?",
+      "slug": "ucl-bru-ast-2026-09-08-bru",
+      "outcome": "No",
+      "num_traders": 7,
+      "total_value": 1191974.98,
+      "holders": [
+        {
+          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+          "roi": 0.175,
+          "value": 376934.95,
+          "avg_price": 0.62,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "Jsram",
+          "roi": 0.1706,
+          "value": 169137.4,
+          "avg_price": 0.62,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "ChinesePro",
+          "roi": 0.185,
+          "value": 153673.5,
+          "avg_price": 0.61,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.1895,
+          "value": 150452.27,
+          "avg_price": 0.61,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "bomber",
+          "roi": 0.175,
+          "value": 146424.75,
+          "avg_price": 0.62,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "ChayEhc",
+          "roi": 0.2061,
+          "value": 118032.14,
+          "avg_price": 0.6199,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "SemyonMarmeladov",
+          "roi": 0.2203,
+          "value": 77319.97,
+          "avg_price": 0.61,
+          "cur_price": 0.9665
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 263586.85,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.1895,
+          "value": 257500,
+          "avg_price": 0.5,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.5496,
+          "value": 4681.47,
+          "avg_price": 0.4898,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "anciano",
+          "roi": 0.3026,
+          "value": 747.27,
+          "avg_price": 0.4501,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 658.11,
+          "avg_price": 0.5191,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will Aston Villa FC win on 2026-09-08?",
+      "slug": "ucl-bru-ast-2026-09-08-ast",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 175903.29,
+      "holders": [
+        {
+          "trader": "ChayEhc",
+          "roi": 0.2061,
+          "value": 173671.24,
+          "avg_price": 0.3499,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 2027.11,
+          "avg_price": 0.4085,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "SemyonMarmeladov",
+          "roi": 0.2203,
+          "value": 204.94,
+          "avg_price": 0.34,
+          "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
+      "slug": "cs2-g2-ast10-2026-09-08",
+      "outcome": "Astralis",
+      "num_traders": 3,
+      "total_value": 109019.54,
+      "holders": [
+        {
+          "trader": "itwillallbeok",
+          "roi": 0.4127,
+          "value": 42756.23,
+          "avg_price": 0.2976,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RevengeRange",
+          "roi": 0.3586,
+          "value": 36278.32,
+          "avg_price": 0.3109,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Ornnstar",
+          "roi": 0.229,
+          "value": 29984.99,
+          "avg_price": 0.3916,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Map Handicap: G2 (-1.5) vs Astralis (+1.5)",
+      "slug": "cs2-g2-ast10-2026-09-08-map-handicap-away-1pt5",
+      "outcome": "Astralis",
+      "num_traders": 3,
+      "total_value": 106754.19,
+      "holders": [
+        {
+          "trader": "itwillallbeok",
+          "roi": 0.4127,
+          "value": 49170.54,
+          "avg_price": 0.5791,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Ornnstar",
+          "roi": 0.229,
+          "value": 29169.49,
+          "avg_price": 0.5901,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RevengeRange",
+          "roi": 0.3586,
+          "value": 28414.16,
+          "avg_price": 0.5865,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+      "slug": "atp-tiafoe-michels-2026-09-08",
+      "outcome": "Frances Tiafoe",
+      "num_traders": 3,
+      "total_value": 59784.21,
+      "holders": [
+        {
+          "trader": "martingaleking",
+          "roi": 0.1638,
+          "value": 57499.96,
+          "avg_price": 0.5949,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "SemyonMarmeladov",
+          "roi": 0.2203,
+          "value": 1843.0,
+          "avg_price": 0.57,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 441.25,
+          "avg_price": 0.5863,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Will the Iranian regime fall before 2027?",
+      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 37404.13,
+      "holders": [
+        {
+          "trader": "ColomboHex",
+          "roi": 0.5898,
+          "value": 33658.89,
+          "avg_price": 0.8925,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 2435.3,
+          "avg_price": 0.7385,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "anciano",
+          "roi": 0.3026,
+          "value": 1309.94,
+          "avg_price": 0.9261,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 34421.22,
+      "holders": [
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 30871.76,
+          "avg_price": 0.4821,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2462,
+          "value": 2809.81,
+          "avg_price": 0.4485,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3735,
+          "value": 739.65,
+          "avg_price": 0.2,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21078.5,
+      "holders": [
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 19440.88,
+          "avg_price": 0.6124,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2462,
+          "value": 1102.5,
+          "avg_price": 0.0312,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3735,
+          "value": 535.12,
+          "avg_price": 0.0312,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8306.97,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.1895,
+          "value": 4685.62,
+          "avg_price": 0.54,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 2963.11,
+          "avg_price": 0.3504,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3735,
+          "value": 658.24,
+          "avg_price": 0.2,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4841.58,
+      "holders": [
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 2150.21,
+          "avg_price": 0.2924,
+          "cur_price": 0.4465
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.3735,
+          "value": 1753.65,
+          "avg_price": 0.0312,
+          "cur_price": 0.4465
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2462,
+          "value": 937.72,
+          "avg_price": 0.0312,
+          "cur_price": 0.4465
+        }
+      ]
+    },
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3854.11,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.3735,
+          "value": 1602.23,
+          "avg_price": 0.0312,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2462,
+          "value": 1365.39,
+          "avg_price": 0.4124,
+          "cur_price": 0.8515
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 886.49,
+          "avg_price": 0.5262,
+          "cur_price": 0.8515
+        }
+      ]
+    },
+    {
+      "market": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
+      "slug": "wta-sabalen-noskova-2026-09-08",
+      "outcome": "Linda Noskova",
+      "num_traders": 3,
+      "total_value": 3034.35,
+      "holders": [
+        {
+          "trader": "Noprajsk",
+          "roi": 0.5228,
+          "value": 1581.31,
+          "avg_price": 0.2799,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "rabbitfoot1",
+          "roi": 0.1615,
+          "value": 961.41,
+          "avg_price": 0.3558,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.151,
+          "value": 491.63,
+          "avg_price": 0.146,
+          "cur_price": 0.355
+        }
+      ]
+    },
     {
       "market": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
       "slug": "lol-ig1-lgd-2026-09-08",
@@ -55,43 +485,6 @@
       ]
     },
     {
-      "market": "Will the Iranian regime fall before 2027?",
-      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 93359.12,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.2528,
-          "value": 55954.99,
-          "avg_price": 0.8356,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "ColomboHex",
-          "roi": 0.7163,
-          "value": 33658.89,
-          "avg_price": 0.8925,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "neutralwave23",
-          "roi": 0.1943,
-          "value": 2435.3,
-          "avg_price": 0.7385,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "anciano",
-          "roi": 0.424,
-          "value": 1309.94,
-          "avg_price": 0.9261,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
       "market": "LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner",
       "slug": "lol-ig1-lgd-2026-09-08-game3",
       "outcome": "Invictus Gaming",
@@ -125,36 +518,6 @@
           "value": 1409.6,
           "avg_price": 0.8125,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Map Handicap: G2 (-1.5) vs Astralis (+1.5)",
-      "slug": "cs2-g2-ast10-2026-09-08-map-handicap-away-1pt5",
-      "outcome": "Astralis",
-      "num_traders": 3,
-      "total_value": 51697.87,
-      "holders": [
-        {
-          "trader": "itwillallbeok",
-          "roi": 0.3085,
-          "value": 29025.13,
-          "avg_price": 0.5791,
-          "cur_price": 0.59
-        },
-        {
-          "trader": "RevengeRange",
-          "roi": 0.2959,
-          "value": 16772.74,
-          "avg_price": 0.5865,
-          "cur_price": 0.59
-        },
-        {
-          "trader": "THEHIGHLIFE",
-          "roi": 0.1538,
-          "value": 5900,
-          "avg_price": 0.56,
-          "cur_price": 0.59
         }
       ]
     },
@@ -245,126 +608,6 @@
           "value": 421.89,
           "avg_price": 0.6671,
           "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6112.08,
-      "holders": [
-        {
-          "trader": "e46m3",
-          "roi": 0.4803,
-          "value": 4681.47,
-          "avg_price": 0.4898,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "anciano",
-          "roi": 0.424,
-          "value": 772.5,
-          "avg_price": 0.4501,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "neutralwave23",
-          "roi": 0.1943,
-          "value": 658.11,
-          "avg_price": 0.5191,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 49947.53,
-      "holders": [
-        {
-          "trader": "neutralwave23",
-          "roi": 0.3423,
-          "value": 29712.47,
-          "avg_price": 0.4827,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "JUSTINHERBERTMVP",
-          "roi": 0.4451,
-          "value": 19462.9,
-          "avg_price": 0.4426,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4703,
-          "value": 772.16,
-          "avg_price": 0.2,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 21182.92,
-      "holders": [
-        {
-          "trader": "neutralwave23",
-          "roi": 0.3423,
-          "value": 20114.08,
-          "avg_price": 0.6139,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4703,
-          "value": 565.7,
-          "avg_price": 0.0312,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.4599,
-          "value": 503.14,
-          "avg_price": 0.0312,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 15776.75,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.4599,
-          "value": 12091.46,
-          "avg_price": 0.1137,
-          "cur_price": 0.4215
-        },
-        {
-          "trader": "neutralwave23",
-          "roi": 0.3423,
-          "value": 2029.82,
-          "avg_price": 0.2924,
-          "cur_price": 0.4215
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4703,
-          "value": 1655.47,
-          "avg_price": 0.0312,
-          "cur_price": 0.4215
         }
       ]
     },
@@ -1591,7 +1834,6 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "cfb-sjst-emich-2026-09-04::San Jose State": 3,
     "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "mls-nyc-nas-2026-09-04-total-2pt5::Under": 3,
     "lol-gen-hle1-2026-09-05-game2::Hanwha Life Esports": 3,
     "lol-ig1-tes-2026-09-05-game4::Top Esports": 3,
@@ -1612,7 +1854,6 @@
     "bra-bra-bah-2026-09-05-bra::No": 3,
     "cfb-bayl-aubrn-2026-09-05::Auburn": 3,
     "mls-clb-col-2026-09-05-clb::No": 3,
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "atp-bergs-zandsch-2026-09-05::Zizou Bergs": 3,
     "mlb-tb-tex-2026-09-05::Tampa Bay Rays": 3,
     "wta-jovic-eala-2026-09-05::Alexandra Eala": 3,
@@ -1638,11 +1879,13 @@
     "another-gta-vi-trailer-released-by-september-30::No": 3,
     "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No": 3,
     "will-the-liberal-democratic-party-of-russia-ldpr-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "cs2-all-faze-2026-09-08::FaZe": 1,
-    "will-augusto-cury-win-the-2026-brazilian-presidential-election::Yes": 1
+    "cs2-all-faze-2026-09-08::FaZe": 2,
+    "will-augusto-cury-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "lol-ig1-lgd-2026-09-08::Invictus Gaming": 1,
+    "lol-ig1-lgd-2026-09-08-game3::Invictus Gaming": 1,
+    "will-the-us-invade-cuba-in-2026::No": 1,
+    "cs2-phanto-mis-2026-09-08:: Phantom Academy": 1,
+    "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes": 1
   },
-  "updated_at": "2026-09-08T13:56:30.868224+00:00"
+  "updated_at": "2026-09-08T17:50:03.480256+00:00"
 }
