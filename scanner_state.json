@@ -1,22 +1,231 @@
 {
   "seen_ids": [
-    "mlb-wsh-sd-2026-09-09-total-8pt5::Under",
     "mlb-tex-sea-2026-09-09-total-7pt5::Under",
-    "ucl-spo-gal-2026-09-09-spo::No",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "wta-andreev-gauff-2026-09-08::Mirra Andreeva",
+    "mlb-pit-cws-2026-09-09-total-8pt5::Under",
+    "efl-cfc-lee-2026-09-09-cfc::Yes",
     "will-alexander-zverev-win-the-2026-mens-us-open::Yes",
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No",
-    "atp-khachan-blockx-2026-09-09::Alexander Blockx",
-    "mlb-stl-sf-2026-09-09-total-8pt5::Under",
-    "ucl-nap-ars-2026-09-09-ars::No",
-    "mlb-col-nyy-2026-09-09-total-9pt5::Under",
-    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC",
-    "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes",
-    "mlb-tex-sea-2026-09-09-total-8pt5::Under",
-    "mls-fcc-dcu-2026-09-05-total-3pt5::Over"
+    "mlb-hou-phi-2026-09-09-spread-home-1pt5::Philadelphia Phillies",
+    "efl-cfc-lee-2026-09-09-spread-home-1pt5::Chelsea FC",
+    "sud-san-cam-2026-09-09-san::Yes"
   ],
   "signals": [
+    {
+      "market": "Texas Rangers vs. Seattle Mariners: O/U 7.5",
+      "slug": "mlb-tex-sea-2026-09-09-total-7pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 47447.49,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 18484.75,
+          "avg_price": 0.4425,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "kingflop",
+          "roi": 0.2278,
+          "value": 12796.24,
+          "avg_price": 0.4599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 8170.5,
+          "avg_price": 0.4439,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.2351,
+          "value": 7996,
+          "avg_price": 0.45,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
+      "slug": "mlb-pit-cws-2026-09-09-total-8pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 51811.56,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.1792,
+          "value": 45500,
+          "avg_price": 0.46,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 3349.26,
+          "avg_price": 0.4638,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 2962.3,
+          "avg_price": 0.465,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will Chelsea FC win on 2026-09-09?",
+      "slug": "efl-cfc-lee-2026-09-09-cfc",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 33197.78,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 21542.22,
+          "avg_price": 0.5658,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.2351,
+          "value": 9995,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 1660.56,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "slug": "will-alexander-zverev-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 22376.41,
+      "holders": [
+        {
+          "trader": "tyutgbhnm",
+          "roi": 0.5459,
+          "value": 11959.99,
+          "avg_price": 0.2107,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.7255,
+          "value": 8288.92,
+          "avg_price": 0.2174,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 2127.5,
+          "avg_price": 0.3291,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Spread: Philadelphia Phillies (-1.5)",
+      "slug": "mlb-hou-phi-2026-09-09-spread-home-1pt5",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 3,
+      "total_value": 21760.35,
+      "holders": [
+        {
+          "trader": "vjnn",
+          "roi": 0.3837,
+          "value": 16110.15,
+          "avg_price": 0.3899,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 3111.18,
+          "avg_price": 0.3921,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 2539.02,
+          "avg_price": 0.39,
+          "cur_price": 0.385
+        }
+      ]
+    },
+    {
+      "market": "Spread: Chelsea FC (-1.5)",
+      "slug": "efl-cfc-lee-2026-09-09-spread-home-1pt5",
+      "outcome": "Chelsea FC",
+      "num_traders": 3,
+      "total_value": 21069.52,
+      "holders": [
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.2351,
+          "value": 17031.94,
+          "avg_price": 0.3934,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 2620.69,
+          "avg_price": 0.2997,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 1416.89,
+          "avg_price": 0.38,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Santos FC win on 2026-09-09?",
+      "slug": "sud-san-cam-2026-09-09-san",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3961.45,
+      "holders": [
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.2351,
+          "value": 2025,
+          "avg_price": 0.42,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2306,
+          "value": 1240.65,
+          "avg_price": 0.42,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2504,
+          "value": 695.8,
+          "avg_price": 0.43,
+          "cur_price": 0.675
+        }
+      ]
+    },
     {
       "market": "Washington Nationals vs. San Diego Padres: O/U 8.5",
       "slug": "mlb-wsh-sd-2026-09-09-total-8pt5",
@@ -65,43 +274,6 @@
           "value": 304.74,
           "avg_price": 0.49,
           "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Seattle Mariners: O/U 7.5",
-      "slug": "mlb-tex-sea-2026-09-09-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 23208.89,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 9154.53,
-          "avg_price": 0.4425,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2519,
-          "value": 6337.31,
-          "avg_price": 0.4599,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 4046.42,
-          "avg_price": 0.4439,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 3670.63,
-          "avg_price": 0.4517,
-          "cur_price": 0.495
         }
       ]
     },
@@ -192,36 +364,6 @@
           "value": 2263.92,
           "avg_price": 0.3388,
           "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will Alexander Zverev win the 2026 Men's US Open?",
-      "slug": "will-alexander-zverev-win-the-2026-mens-us-open",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 22352.09,
-      "holders": [
-        {
-          "trader": "tyutgbhnm",
-          "roi": 0.5796,
-          "value": 11946.99,
-          "avg_price": 0.2107,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "bands1",
-          "roi": 1.2007,
-          "value": 8279.91,
-          "avg_price": 0.2174,
-          "cur_price": 0.4595
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 2125.19,
-          "avg_price": 0.3291,
-          "cur_price": 0.4595
         }
       ]
     },
@@ -577,36 +719,6 @@
       ]
     },
     {
-      "market": "Will Chelsea FC win on 2026-09-09?",
-      "slug": "efl-cfc-lee-2026-09-09-cfc",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 11568.14,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2062,
-          "value": 5679.14,
-          "avg_price": 0.6093,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.1971,
-          "value": 5050,
-          "avg_price": 0.56,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.4589,
-          "value": 839.0,
-          "avg_price": 0.56,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
       "market": "Will VfB Stuttgart win on 2026-09-09?",
       "slug": "ucl-stu-vf-2026-09-09-stu",
       "outcome": "No",
@@ -633,216 +745,6 @@
           "value": 1249.99,
           "avg_price": 0.18,
           "cur_price": 0.0225
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3058936.31,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3226,
-          "value": 3030000,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.2764,
-          "value": 24345.74,
-          "avg_price": 0.4399,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "e46m3",
-          "roi": 1.0506,
-          "value": 4590.57,
-          "avg_price": 0.4898,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Russia Elections: United Russia Wins Every Region?",
-      "slug": "russia-elections-united-russia-wins-every-region",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 66513.53,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.3912,
-          "value": 37459.05,
-          "avg_price": 0.6146,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.2764,
-          "value": 20110.71,
-          "avg_price": 0.5731,
-          "cur_price": 0.685
-        },
-        {
-          "trader": "GrandeFromage",
-          "roi": 1.0798,
-          "value": 8943.77,
-          "avg_price": 0.5976,
-          "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 31158.69,
-      "holders": [
-        {
-          "trader": "flawfence",
-          "roi": 0.2764,
-          "value": 23909.28,
-          "avg_price": 0.677,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "GrandeFromage",
-          "roi": 1.0798,
-          "value": 4349.94,
-          "avg_price": 0.71,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.3912,
-          "value": 2899.47,
-          "avg_price": 0.69,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 12732.55,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.3912,
-          "value": 12178.62,
-          "avg_price": 0.0955,
-          "cur_price": 0.151
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.2764,
-          "value": 433.33,
-          "avg_price": 0.0949,
-          "cur_price": 0.151
-        },
-        {
-          "trader": "e46m3",
-          "roi": 1.0506,
-          "value": 120.6,
-          "avg_price": 0.0312,
-          "cur_price": 0.151
-        }
-      ]
-    },
-    {
-      "market": "Will FC Cincinnati win on 2026-09-05?",
-      "slug": "mls-fcc-dcu-2026-09-05-fcc",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 6437.13,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4955,
-          "value": 5771.57,
-          "avg_price": 0.3955,
-          "cur_price": 0.37
-        },
-        {
-          "trader": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
-          "roi": 0.2586,
-          "value": 459.17,
-          "avg_price": 0.4023,
-          "cur_price": 0.37
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.4116,
-          "value": 206.39,
-          "avg_price": 0.39,
-          "cur_price": 0.37
-        }
-      ]
-    },
-    {
-      "market": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
-      "slug": "ucl-fcb-fey-2026-09-09-total-4pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 4828.59,
-      "holders": [
-        {
-          "trader": "flawfence",
-          "roi": 0.2764,
-          "value": 3730.56,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
-          "roi": 0.2586,
-          "value": 734.77,
-          "avg_price": 0.4949,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.329,
-          "value": 363.26,
-          "avg_price": 0.4899,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will Houston Dynamo win on 2026-09-09?",
-      "slug": "mls-hou-rsl-2026-09-09-hou",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1266.86,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.329,
-          "value": 630.5,
-          "avg_price": 0.49,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4955,
-          "value": 451.09,
-          "avg_price": 0.5,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
-          "roi": 0.2586,
-          "value": 185.27,
-          "avg_price": 0.49,
-          "cur_price": 0.485
         }
       ]
     }
@@ -2076,17 +1978,29 @@
     "atp-shelton-alcaraz-2026-09-08::Ben Shelton": 3,
     "will-carlos-alcaraz-win-the-2026-mens-us-open::No": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
-    "russia-elections-united-russia-wins-every-region::Yes": 2,
-    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 2,
-    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 2,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 2,
-    "ucl-fcb-fey-2026-09-09-total-4pt5::Under": 2,
-    "mls-hou-rsl-2026-09-09-hou::Yes": 2,
-    "wta-zhen-rybakin-2026-09-08::Qinwen Zheng": 1,
-    "will-ben-shelton-win-the-2026-mens-us-open::Yes": 1,
-    "efl-cfc-lee-2026-09-09-cfc::Yes": 1,
-    "ucl-stu-vf-2026-09-09-stu::No": 1
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
+    "russia-elections-united-russia-wins-every-region::Yes": 3,
+    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 3,
+    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 3,
+    "mls-fcc-dcu-2026-09-05-fcc::No": 3,
+    "ucl-fcb-fey-2026-09-09-total-4pt5::Under": 3,
+    "mls-hou-rsl-2026-09-09-hou::Yes": 3,
+    "wta-zhen-rybakin-2026-09-08::Qinwen Zheng": 2,
+    "will-ben-shelton-win-the-2026-mens-us-open::Yes": 2,
+    "ucl-stu-vf-2026-09-09-stu::No": 2,
+    "mlb-wsh-sd-2026-09-09-total-8pt5::Under": 1,
+    "ucl-spo-gal-2026-09-09-spo::No": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "wta-andreev-gauff-2026-09-08::Mirra Andreeva": 1,
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 1,
+    "atp-khachan-blockx-2026-09-09::Alexander Blockx": 1,
+    "mlb-stl-sf-2026-09-09-total-8pt5::Under": 1,
+    "ucl-nap-ars-2026-09-09-ars::No": 1,
+    "mlb-col-nyy-2026-09-09-total-9pt5::Under": 1,
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 1,
+    "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes": 1,
+    "mlb-tex-sea-2026-09-09-total-8pt5::Under": 1,
+    "mls-fcc-dcu-2026-09-05-total-3pt5::Over": 1
   },
-  "updated_at": "2026-09-09T20:17:37.455313+00:00"
+  "updated_at": "2026-09-09T22:37:58.776270+00:00"
 }
