@@ -1,8 +1,362 @@
 {
   "seen_ids": [
-    "atp-shelton-alcaraz-2026-09-08::Ben Shelton"
+    "will-alexander-zverev-win-the-2026-mens-us-open::Yes",
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC",
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "will-carlos-alcaraz-win-the-2026-mens-us-open::No",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
+    "russia-elections-united-russia-wins-every-region::Yes",
+    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No",
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
+    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes",
+    "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes",
+    "mls-fcc-dcu-2026-09-05-total-3pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "slug": "will-alexander-zverev-win-the-2026-mens-us-open",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 51024.81,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.4552,
+          "value": 29499.68,
+          "avg_price": 0.2244,
+          "cur_price": 0.4425
+        },
+        {
+          "trader": "tyutgbhnm",
+          "roi": 0.5776,
+          "value": 11504.99,
+          "avg_price": 0.2107,
+          "cur_price": 0.4425
+        },
+        {
+          "trader": "bands1",
+          "roi": 1.1941,
+          "value": 7973.58,
+          "avg_price": 0.2174,
+          "cur_price": 0.4425
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.366,
+          "value": 2046.56,
+          "avg_price": 0.3291,
+          "cur_price": 0.4425
+        }
+      ]
+    },
+    {
+      "market": "Spread: FC Cincinnati (-1.5)",
+      "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5",
+      "outcome": "D.C. United SC",
+      "num_traders": 4,
+      "total_value": 8390.72,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5551,
+          "value": 4239.84,
+          "avg_price": 0.6249,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.6769,
+          "value": 2370,
+          "avg_price": 0.625,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "hi774c",
+          "roi": 1.3893,
+          "value": 1619.72,
+          "avg_price": 0.61,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
+          "roi": 0.4066,
+          "value": 161.16,
+          "avg_price": 0.61,
+          "cur_price": 0.79
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3058936.31,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.3228,
+          "value": 3030000,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "flawfence",
+          "roi": 0.2896,
+          "value": 24345.74,
+          "avg_price": 0.4399,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.1269,
+          "value": 4590.57,
+          "avg_price": 0.4898,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "slug": "will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 182374.5,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 1.1941,
+          "value": 92888.08,
+          "avg_price": 0.7852,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.366,
+          "value": 79491.51,
+          "avg_price": 0.5054,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "tyutgbhnm",
+          "roi": 0.5776,
+          "value": 9994.91,
+          "avg_price": 0.6449,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 76109.34,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.366,
+          "value": 53182.03,
+          "avg_price": 0.4314,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.4704,
+          "value": 18277.31,
+          "avg_price": 0.5899,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.6769,
+          "value": 4650,
+          "avg_price": 0.72,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Russia Elections: United Russia Wins Every Region?",
+      "slug": "russia-elections-united-russia-wins-every-region",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 65542.53,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.4704,
+          "value": 36912.2,
+          "avg_price": 0.6146,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "flawfence",
+          "roi": 0.2896,
+          "value": 19817.12,
+          "avg_price": 0.5731,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "GrandeFromage",
+          "roi": 1.183,
+          "value": 8813.21,
+          "avg_price": 0.5976,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 29812.58,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.2896,
+          "value": 22563.17,
+          "avg_price": 0.675,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "GrandeFromage",
+          "roi": 1.183,
+          "value": 4349.94,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.4704,
+          "value": 2899.47,
+          "avg_price": 0.69,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 28345.79,
+      "holders": [
+        {
+          "trader": "flawfence",
+          "roi": 0.2896,
+          "value": 20683.96,
+          "avg_price": 0.5654,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.4704,
+          "value": 6611.82,
+          "avg_price": 0.6458,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "kneelbeforetheking",
+          "roi": 0.1617,
+          "value": 1050.01,
+          "avg_price": 0.0312,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 12142.3,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.4704,
+          "value": 11614.05,
+          "avg_price": 0.0955,
+          "cur_price": 0.144
+        },
+        {
+          "trader": "flawfence",
+          "roi": 0.2896,
+          "value": 413.24,
+          "avg_price": 0.0949,
+          "cur_price": 0.144
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.1269,
+          "value": 115.01,
+          "avg_price": 0.0312,
+          "cur_price": 0.144
+        }
+      ]
+    },
+    {
+      "market": "Will Donald Trump win the 2028 Republican presidential nomination?",
+      "slug": "will-donald-trump-win-the-2028-republican-presidential-nomination",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8150.29,
+      "holders": [
+        {
+          "trader": "beachboy4",
+          "roi": 0.76,
+          "value": 4848.7,
+          "avg_price": 0.0402,
+          "cur_price": 0.0195
+        },
+        {
+          "trader": "GrandeFromage",
+          "roi": 1.183,
+          "value": 2402.21,
+          "avg_price": 0.016,
+          "cur_price": 0.0195
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5551,
+          "value": 899.38,
+          "avg_price": 0.0099,
+          "cur_price": 0.0195
+        }
+      ]
+    },
+    {
+      "market": "FC Cincinnati vs. D.C. United SC: O/U 3.5",
+      "slug": "mls-fcc-dcu-2026-09-05-total-3pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 1143.27,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.6769,
+          "value": 540,
+          "avg_price": 0.47,
+          "cur_price": 0.36
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.5551,
+          "value": 405.36,
+          "avg_price": 0.47,
+          "cur_price": 0.36
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.1269,
+          "value": 197.91,
+          "avg_price": 0.4899,
+          "cur_price": 0.36
+        }
+      ]
+    },
     {
       "market": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
       "slug": "atp-shelton-alcaraz-2026-09-08",
@@ -74,80 +428,6 @@
           "value": 670.54,
           "avg_price": 0.2,
           "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 308792.6,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.0794,
-          "value": 301783.73,
-          "avg_price": 0.602,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1534,
-          "value": 5371.25,
-          "avg_price": 0.5864,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2148,
-          "value": 1102.5,
-          "avg_price": 0.0312,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3195,
-          "value": 535.12,
-          "avg_price": 0.0312,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 17089.46,
-      "holders": [
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.1534,
-          "value": 9100.02,
-          "avg_price": 0.6605,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3617,
-          "value": 3984.98,
-          "avg_price": 0.45,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.2148,
-          "value": 3264.81,
-          "avg_price": 0.4452,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.3195,
-          "value": 739.65,
-          "avg_price": 0.2,
-          "cur_price": 0.455
         }
       ]
     },
@@ -1614,7 +1894,6 @@
     "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939::Yes": 3,
     "israel-x-iran-ceasefire-continues-through-september-30::No": 3,
     "iran-charges-hormuz-fees-by-august-31-20260625175039062-177::Yes": 3,
-    "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 3,
     "will-arthur-fils-win-the-2026-mens-us-open::Yes": 3,
     "atp-landalu-fearnle-2026-08-30::Jacob Fearnley": 3,
     "mlb-nym-tb-2026-08-31::New York Mets": 3,
@@ -1695,7 +1974,6 @@
     "cs2-phanto-mis-2026-09-08:: Phantom Academy": 3,
     "will-spider-man-brand-new-day-be-the-top-grossing-movie-of-2026::Yes": 3,
     "ucl-bru-ast-2026-09-08-bru::No": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "ucl-bru-ast-2026-09-08-ast::Yes": 3,
     "cs2-g2-ast10-2026-09-08::Astralis": 3,
     "cs2-g2-ast10-2026-09-08-map-handicap-away-1pt5::Astralis": 3,
@@ -1706,20 +1984,19 @@
     "ucl-lil-bet-2026-09-08-lil::No": 3,
     "atp-tiafoe-michels-2026-09-08::Alex Michelsen": 3,
     "ucl-bvb-vil-2026-09-08-bvb::No": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 1,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
-    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
-    "will-the-us-invade-iran-before-2027::No": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::No": 1,
-    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 1,
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 1
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 2,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 2,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 2,
+    "will-the-us-invade-iran-before-2027::No": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::No": 2,
+    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 2,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 2,
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 2,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
+    "atp-shelton-alcaraz-2026-09-08::Ben Shelton": 1
   },
-  "updated_at": "2026-09-09T05:22:08.581034+00:00"
+  "updated_at": "2026-09-09T09:57:20.609411+00:00"
 }
