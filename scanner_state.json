@@ -1,21 +1,45 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "fed-rate-hike-by-september-2026-meeting::Yes",
-    "will-the-us-invade-iran-before-2027::No",
-    "will-harry-kane-win-the-2026-ballon-dor::No",
-    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No",
-    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes",
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes",
-    "will-harry-kane-win-the-2026-ballon-dor::Yes",
-    "will-rodri-win-the-2026-ballon-dor::Yes"
+    "atp-shelton-alcaraz-2026-09-08::Ben Shelton"
   ],
   "signals": [
+    {
+      "market": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+      "slug": "atp-shelton-alcaraz-2026-09-08",
+      "outcome": "Ben Shelton",
+      "num_traders": 4,
+      "total_value": 113000.27,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.6331,
+          "value": 56186.23,
+          "avg_price": 0.2694,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.1579,
+          "value": 48241.19,
+          "avg_price": 0.22,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3458,
+          "value": 8102.02,
+          "avg_price": 0.2158,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "jimbo24",
+          "roi": 0.3085,
+          "value": 470.83,
+          "avg_price": 0.2399,
+          "cur_price": 0.565
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -461,117 +485,6 @@
           "value": 264,
           "avg_price": 0.0112,
           "cur_price": 0.055
-        }
-      ]
-    },
-    {
-      "market": "Will Lille OSC win on 2026-09-08?",
-      "slug": "ucl-lil-bet-2026-09-08-lil",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 246907.69,
-      "holders": [
-        {
-          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
-          "roi": 0.2526,
-          "value": 92791.91,
-          "avg_price": 0.5498,
-          "cur_price": 0.9685
-        },
-        {
-          "trader": "norrisfan",
-          "roi": 0.2347,
-          "value": 63648.85,
-          "avg_price": 0.55,
-          "cur_price": 0.9685
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.195,
-          "value": 49557.08,
-          "avg_price": 0.5513,
-          "cur_price": 0.9685
-        },
-        {
-          "trader": "ChinesePro",
-          "roi": 0.2215,
-          "value": 33897.43,
-          "avg_price": 0.54,
-          "cur_price": 0.9685
-        },
-        {
-          "trader": "Daemon99",
-          "roi": 0.3522,
-          "value": 7012.42,
-          "avg_price": 0.54,
-          "cur_price": 0.9685
-        }
-      ]
-    },
-    {
-      "market": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
-      "slug": "atp-tiafoe-michels-2026-09-08",
-      "outcome": "Alex Michelsen",
-      "num_traders": 4,
-      "total_value": 139948.35,
-      "holders": [
-        {
-          "trader": "0x78becf",
-          "roi": 0.1738,
-          "value": 92805.05,
-          "avg_price": 0.448,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "787-HUEV-W-ZOPE",
-          "roi": 0.2491,
-          "value": 22396.5,
-          "avg_price": 0.55,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "Noprajsk",
-          "roi": 0.5126,
-          "value": 18648.57,
-          "avg_price": 0.5277,
-          "cur_price": 0.945
-        },
-        {
-          "trader": "Gambler661",
-          "roi": 0.1602,
-          "value": 6098.23,
-          "avg_price": 0.68,
-          "cur_price": 0.945
-        }
-      ]
-    },
-    {
-      "market": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
-      "slug": "ucl-bvb-vil-2026-09-08-bvb",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 27049.74,
-      "holders": [
-        {
-          "trader": "matanovik",
-          "roi": 0.195,
-          "value": 14690.29,
-          "avg_price": 0.4442,
-          "cur_price": 0.255
-        },
-        {
-          "trader": "ChinesePro",
-          "roi": 0.2215,
-          "value": 8089.73,
-          "avg_price": 0.43,
-          "cur_price": 0.255
-        },
-        {
-          "trader": "mimi121",
-          "roi": 0.7429,
-          "value": 4269.72,
-          "avg_price": 0.45,
-          "cur_price": 0.255
         }
       ]
     }
@@ -1790,9 +1703,23 @@
     "will-the-iranian-regime-fall-by-the-end-of-2026::No": 3,
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 3,
     "wta-sabalen-noskova-2026-09-08::Linda Noskova": 3,
-    "ucl-lil-bet-2026-09-08-lil::No": 2,
-    "atp-tiafoe-michels-2026-09-08::Alex Michelsen": 2,
-    "ucl-bvb-vil-2026-09-08-bvb::No": 2
+    "ucl-lil-bet-2026-09-08-lil::No": 3,
+    "atp-tiafoe-michels-2026-09-08::Alex Michelsen": 3,
+    "ucl-bvb-vil-2026-09-08-bvb::No": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
+    "will-the-us-invade-iran-before-2027::No": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::No": 1,
+    "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 1,
+    "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 1,
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 1,
+    "will-harry-kane-win-the-2026-ballon-dor::Yes": 1,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 1
   },
-  "updated_at": "2026-09-09T00:44:19.169217+00:00"
+  "updated_at": "2026-09-09T05:22:08.581034+00:00"
 }
