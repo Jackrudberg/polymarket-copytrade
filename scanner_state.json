@@ -1,14 +1,5 @@
 {
-  "seen_ids": [
-    "nfl-ne-sea-2026-09-10-spread-home-3pt5::Patriots",
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "nfl-sf-la-2026-09-11-spread-home-3pt5::Rams",
-    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes",
-    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC",
-    "nfl-ne-sea-2026-09-10-total-44pt5::Under",
-    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Spread: Seahawks (-3.5)",
@@ -602,133 +593,6 @@
           "roi": 0.1664,
           "value": 1030.29,
           "avg_price": 0.43,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Seattle Mariners: O/U 7.5",
-      "slug": "mlb-tex-sea-2026-09-09-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 47447.49,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2306,
-          "value": 18484.75,
-          "avg_price": 0.4425,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2278,
-          "value": 12796.24,
-          "avg_price": 0.4599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2504,
-          "value": 8170.5,
-          "avg_price": 0.4439,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.2351,
-          "value": 7996,
-          "avg_price": 0.45,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
-      "slug": "mlb-pit-cws-2026-09-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 51811.56,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.1792,
-          "value": 45500,
-          "avg_price": 0.46,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2306,
-          "value": 3349.26,
-          "avg_price": 0.4638,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2504,
-          "value": 2962.3,
-          "avg_price": 0.465,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Will Chelsea FC win on 2026-09-09?",
-      "slug": "efl-cfc-lee-2026-09-09-cfc",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 33197.78,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2306,
-          "value": 21542.22,
-          "avg_price": 0.5658,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.2351,
-          "value": 9995,
-          "avg_price": 0.56,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2504,
-          "value": 1660.56,
-          "avg_price": 0.56,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Chelsea FC (-1.5)",
-      "slug": "efl-cfc-lee-2026-09-09-spread-home-1pt5",
-      "outcome": "Chelsea FC",
-      "num_traders": 3,
-      "total_value": 21069.52,
-      "holders": [
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.2351,
-          "value": 17031.94,
-          "avg_price": 0.3934,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2306,
-          "value": 2620.69,
-          "avg_price": 0.2997,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2504,
-          "value": 1416.89,
-          "avg_price": 0.38,
           "cur_price": 0.9995
         }
       ]
@@ -1981,20 +1845,28 @@
     "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes": 3,
     "mlb-tex-sea-2026-09-09-total-8pt5::Under": 3,
     "mls-fcc-dcu-2026-09-05-total-3pt5::Over": 3,
-    "mlb-tex-sea-2026-09-09-total-7pt5::Under": 2,
-    "mlb-pit-cws-2026-09-09-total-8pt5::Under": 2,
-    "efl-cfc-lee-2026-09-09-cfc::Yes": 2,
-    "efl-cfc-lee-2026-09-09-spread-home-1pt5::Chelsea FC": 2,
-    "mlb-cin-lad-2026-09-09-total-8pt5::Over": 1,
-    "atp-zverev-zandsch-2026-09-09::Botic van de Zandschulp": 1,
-    "mls-min-dal-2026-09-09-min::No": 1,
-    "mls-hou-rsl-2026-09-09-hou::No": 1,
-    "mls-atl-orl-2026-09-09-atl::No": 1,
-    "mls-phi-fcc-2026-09-09-phi::No": 1,
-    "mlb-hou-phi-2026-09-09-spread-home-1pt5::Philadelphia Phillies": 1,
-    "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 1,
-    "mls-phi-fcc-2026-09-09-spread-home-1pt5::FC Cincinnati": 1,
-    "sud-san-cam-2026-09-09-san::Yes": 1
+    "mlb-tex-sea-2026-09-09-total-7pt5::Under": 3,
+    "mlb-pit-cws-2026-09-09-total-8pt5::Under": 3,
+    "efl-cfc-lee-2026-09-09-cfc::Yes": 3,
+    "efl-cfc-lee-2026-09-09-spread-home-1pt5::Chelsea FC": 3,
+    "mlb-cin-lad-2026-09-09-total-8pt5::Over": 2,
+    "atp-zverev-zandsch-2026-09-09::Botic van de Zandschulp": 2,
+    "mls-min-dal-2026-09-09-min::No": 2,
+    "mls-hou-rsl-2026-09-09-hou::No": 2,
+    "mls-atl-orl-2026-09-09-atl::No": 2,
+    "mls-phi-fcc-2026-09-09-phi::No": 2,
+    "mlb-hou-phi-2026-09-09-spread-home-1pt5::Philadelphia Phillies": 2,
+    "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 2,
+    "mls-phi-fcc-2026-09-09-spread-home-1pt5::FC Cincinnati": 2,
+    "sud-san-cam-2026-09-09-san::Yes": 2,
+    "nfl-ne-sea-2026-09-10-spread-home-3pt5::Patriots": 1,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "nfl-sf-la-2026-09-11-spread-home-3pt5::Rams": 1,
+    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes": 1,
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 1,
+    "nfl-ne-sea-2026-09-10-total-44pt5::Under": 1,
+    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 1
   },
-  "updated_at": "2026-09-10T05:14:39.407589+00:00"
+  "updated_at": "2026-09-10T09:49:37.445105+00:00"
 }
