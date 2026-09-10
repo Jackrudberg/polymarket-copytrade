@@ -1,15 +1,21 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No",
-    "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes",
+    "laptop-fdv-above-1b-one-day-after-launch::No",
+    "laptop-fdv-above-500m-one-day-after-launch::Yes",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No",
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
+    "will-jd-vance-win-the-2028-us-presidential-election::No",
+    "fed-rate-hike-in-2026::Yes",
     "fed-rate-hike-by-september-2026-meeting::Yes",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "mlb-col-nyy-2026-09-10-total-8pt5::Over",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "mlb-tb-atl-2026-09-10-total-8pt5::Under",
-    "mlb-hou-phi-2026-09-10-total-8pt5::Over"
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
+    "us-strike-on-cuba-by-december-31::No",
+    "will-the-us-invade-iran-before-2027::No",
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
+    "will-rodri-win-the-2026-ballon-dor::Yes",
+    "laptop-fdv-above-1b-one-day-after-launch::Yes"
   ],
   "signals": [
     {
@@ -17,56 +23,160 @@
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
       "num_traders": 7,
-      "total_value": 1934178.26,
+      "total_value": 3838374.47,
       "holders": [
         {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 1791969.65,
+          "avg_price": 0.4471,
+          "cur_price": 0.635
+        },
+        {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 1.1094,
+          "roi": 0.8,
           "value": 869932.21,
           "avg_price": 0.4299,
           "cur_price": 0.635
         },
         {
           "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 0.5853,
-          "value": 493134.82,
-          "avg_price": 0.413,
+          "roi": 0.3287,
+          "value": 589751.29,
+          "avg_price": 0.4485,
           "cur_price": 0.635
         },
         {
           "trader": "mnuop8890",
-          "roi": 0.2114,
+          "roi": 0.2389,
           "value": 228375.69,
           "avg_price": 0.5072,
           "cur_price": 0.635
         },
         {
+          "trader": "SheltonDoubter",
+          "roi": 0.68,
+          "value": 180342.86,
+          "avg_price": 0.4246,
+          "cur_price": 0.635
+        },
+        {
           "trader": "ethBELIVER",
-          "roi": 0.6021,
+          "roi": 0.4993,
           "value": 177221.49,
           "avg_price": 0.4694,
           "cur_price": 0.635
         },
         {
-          "trader": "CDAP1",
-          "roi": 0.7982,
-          "value": 156795.29,
-          "avg_price": 0.4491,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "RememberAmalek",
-          "roi": 0.2919,
-          "value": 7937.48,
-          "avg_price": 0.5079,
-          "cur_price": 0.635
-        },
-        {
           "trader": "donthackme",
-          "roi": 0.3196,
+          "roi": 0.4546,
           "value": 781.28,
           "avg_price": 0.2,
           "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "LAPTOP FDV above $1B one day after launch?",
+      "slug": "laptop-fdv-above-1b-one-day-after-launch",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 219698.62,
+      "holders": [
+        {
+          "trader": "dromedaryy",
+          "roi": 4.3074,
+          "value": 202930.62,
+          "avg_price": 0.6605,
+          "cur_price": 0.958
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 7918.34,
+          "avg_price": 0.9057,
+          "cur_price": 0.958
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.3576,
+          "value": 7488.4,
+          "avg_price": 0.7767,
+          "cur_price": 0.958
+        },
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 1361.26,
+          "avg_price": 0.7903,
+          "cur_price": 0.958
+        }
+      ]
+    },
+    {
+      "market": "LAPTOP FDV above $500M one day after launch?",
+      "slug": "laptop-fdv-above-500m-one-day-after-launch",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 9930.27,
+      "holders": [
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 3028.46,
+          "avg_price": 0.64,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "AllByMyseIf",
+          "roi": 0.2766,
+          "value": 3008.06,
+          "avg_price": 0.6691,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "dromedaryy",
+          "roi": 4.3074,
+          "value": 2306.45,
+          "avg_price": 0.4829,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.3576,
+          "value": 1587.3,
+          "avg_price": 0.2474,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2981368.45,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1609,
+          "value": 2970000,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.4993,
+          "value": 6868.78,
+          "avg_price": 0.4572,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.8834,
+          "value": 4499.67,
+          "avg_price": 0.4898,
+          "cur_price": 0.495
         }
       ]
     },
@@ -75,28 +185,358 @@
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 293959.36,
+      "total_value": 311284.68,
       "holders": [
         {
-          "trader": "barndoor3",
-          "roi": 0.304,
-          "value": 201021.98,
-          "avg_price": 0.5541,
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 152522.0,
+          "avg_price": 0.3532,
           "cur_price": 0.645
         },
         {
           "trader": "ethBELIVER",
-          "roi": 0.6021,
+          "roi": 0.4993,
           "value": 88099.94,
           "avg_price": 0.4892,
           "cur_price": 0.645
         },
         {
-          "trader": "RememberAmalek",
-          "roi": 0.2919,
-          "value": 4837.44,
-          "avg_price": 0.5033,
+          "trader": "SheltonDoubter",
+          "roi": 0.68,
+          "value": 70662.74,
+          "avg_price": 0.4571,
           "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 255823.42,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 250049.37,
+          "avg_price": 0.602,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 5320.46,
+          "avg_price": 0.5664,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4546,
+          "value": 453.59,
+          "avg_price": 0.0312,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 212100,
+      "holders": [
+        {
+          "trader": "Anjun",
+          "roi": 0.3576,
+          "value": 113625,
+          "avg_price": 0.5,
+          "cur_price": 0.7575
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 53025,
+          "avg_price": 0.5,
+          "cur_price": 0.7575
+        },
+        {
+          "trader": "AllByMyseIf",
+          "roi": 0.2766,
+          "value": 45450,
+          "avg_price": 0.5,
+          "cur_price": 0.7575
+        }
+      ]
+    },
+    {
+      "market": "Fed rate hike in 2026?",
+      "slug": "fed-rate-hike-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 127912.83,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 91235.34,
+          "avg_price": 0.4902,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.4993,
+          "value": 33497.49,
+          "avg_price": 0.6611,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 3180.0,
+          "avg_price": 0.6949,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Fed Rate Hike by September 2026 Meeting?",
+      "slug": "fed-rate-hike-by-september-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 105713.25,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 83578.06,
+          "avg_price": 0.4398,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.4993,
+          "value": 18604.59,
+          "avg_price": 0.4126,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "TheyAreTakingTheHobitsToIsengard",
+          "roi": 0.3287,
+          "value": 3530.6,
+          "avg_price": 0.3909,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 67900.0,
+      "holders": [
+        {
+          "trader": "Anjun",
+          "roi": 0.3576,
+          "value": 36375,
+          "avg_price": 0.5,
+          "cur_price": 0.2425
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 16975.0,
+          "avg_price": 0.4999,
+          "cur_price": 0.2425
+        },
+        {
+          "trader": "AllByMyseIf",
+          "roi": 0.2766,
+          "value": 14550,
+          "avg_price": 0.5,
+          "cur_price": 0.2425
+        }
+      ]
+    },
+    {
+      "market": "US strike on Cuba by December 31?",
+      "slug": "us-strike-on-cuba-by-december-31",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 39415.89,
+      "holders": [
+        {
+          "trader": "Anjun",
+          "roi": 0.3576,
+          "value": 25305.2,
+          "avg_price": 0.6017,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 10531.76,
+          "avg_price": 0.8026,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 3578.93,
+          "avg_price": 0.8511,
+          "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 20090.07,
+      "holders": [
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 11640.06,
+          "avg_price": 0.8199,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.8,
+          "value": 4225.01,
+          "avg_price": 0.8503,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 4225,
+          "avg_price": 0.73,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 19883.75,
+      "holders": [
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 10897.68,
+          "avg_price": 0.2455,
+          "cur_price": 0.1595
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 3.8338,
+          "value": 8567.75,
+          "avg_price": 0.0742,
+          "cur_price": 0.1595
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4546,
+          "value": 418.32,
+          "avg_price": 0.0112,
+          "cur_price": 0.1595
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3314.96,
+      "holders": [
+        {
+          "trader": "SheltonDoubter",
+          "roi": 0.68,
+          "value": 2259.46,
+          "avg_price": 0.2999,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 5.7497,
+          "value": 662.68,
+          "avg_price": 0.15,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.4993,
+          "value": 392.82,
+          "avg_price": 0.2699,
+          "cur_price": 0.315
+        }
+      ]
+    },
+    {
+      "market": "Will Rodri win the 2026 Ballon d'Or?",
+      "slug": "will-rodri-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3308.81,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 3.8338,
+          "value": 1682.38,
+          "avg_price": 0.013,
+          "cur_price": 0.045
+        },
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 1355.36,
+          "avg_price": 0.0989,
+          "cur_price": 0.045
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4546,
+          "value": 271.07,
+          "avg_price": 0.0112,
+          "cur_price": 0.045
+        }
+      ]
+    },
+    {
+      "market": "LAPTOP FDV above $1B one day after launch?",
+      "slug": "laptop-fdv-above-1b-one-day-after-launch",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1913.24,
+      "holders": [
+        {
+          "trader": "dromedaryy",
+          "roi": 4.3074,
+          "value": 859.45,
+          "avg_price": 0.0801,
+          "cur_price": 0.042
+        },
+        {
+          "trader": "AllByMyseIf",
+          "roi": 0.2766,
+          "value": 735.59,
+          "avg_price": 0.0549,
+          "cur_price": 0.042
+        },
+        {
+          "trader": "Parz1vaI",
+          "roi": 0.2048,
+          "value": 318.2,
+          "avg_price": 0.5812,
+          "cur_price": 0.042
         }
       ]
     },
@@ -127,66 +567,6 @@
           "value": 4418.19,
           "avg_price": 0.2508,
           "cur_price": 0.5025
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 47145.56,
-      "holders": [
-        {
-          "trader": "RememberAmalek",
-          "roi": 0.2919,
-          "value": 35777.11,
-          "avg_price": 0.3568,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.6021,
-          "value": 6868.78,
-          "avg_price": 0.4572,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.7548,
-          "value": 4499.67,
-          "avg_price": 0.4898,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Fed Rate Hike by September 2026 Meeting?",
-      "slug": "fed-rate-hike-by-september-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 33572.81,
-      "holders": [
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.6021,
-          "value": 18311.61,
-          "avg_price": 0.4126,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "CDAP1",
-          "roi": 0.7982,
-          "value": 11786.2,
-          "avg_price": 0.4109,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 0.5853,
-          "value": 3475,
-          "avg_price": 0.3909,
-          "cur_price": 0.625
         }
       ]
     },
@@ -337,223 +717,6 @@
           "value": 978.12,
           "avg_price": 0.49,
           "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Spread: Seahawks (-3.5)",
-      "slug": "nfl-ne-sea-2026-09-10-spread-home-3pt5",
-      "outcome": "Patriots",
-      "num_traders": 4,
-      "total_value": 418098.66,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.8492,
-          "value": 336901.31,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.1779,
-          "value": 70659.54,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 1.0592,
-          "value": 10276.16,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.5293,
-          "value": 261.65,
-          "avg_price": 0.6153,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 117989.61,
-      "holders": [
-        {
-          "trader": "JustADonk",
-          "roi": 0.3373,
-          "value": 105000,
-          "avg_price": 0.5,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "RememberAmalek",
-          "roi": 0.409,
-          "value": 10364.61,
-          "avg_price": 0.4372,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.5739,
-          "value": 2625.0,
-          "avg_price": 0.4959,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Spread: Rams (-3.5)",
-      "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
-      "outcome": "Rams",
-      "num_traders": 3,
-      "total_value": 21806.11,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3466,
-          "value": 20199.99,
-          "avg_price": 0.5099,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "hi774c",
-          "roi": 1.0592,
-          "value": 1059.51,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.1779,
-          "value": 546.61,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
-      "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 10570.03,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8853,
-          "value": 9103.99,
-          "avg_price": 0.0846,
-          "cur_price": 0.1875
-        },
-        {
-          "trader": "RememberAmalek",
-          "roi": 0.409,
-          "value": 1166.42,
-          "avg_price": 0.1747,
-          "cur_price": 0.1875
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.5293,
-          "value": 299.62,
-          "avg_price": 0.1294,
-          "cur_price": 0.1875
-        }
-      ]
-    },
-    {
-      "market": "Spread: FC Cincinnati (-1.5)",
-      "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5",
-      "outcome": "D.C. United SC",
-      "num_traders": 3,
-      "total_value": 8229.56,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8853,
-          "value": 4239.84,
-          "avg_price": 0.6249,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.5739,
-          "value": 2370,
-          "avg_price": 0.625,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "hi774c",
-          "roi": 1.0592,
-          "value": 1619.72,
-          "avg_price": 0.61,
-          "cur_price": 0.79
-        }
-      ]
-    },
-    {
-      "market": "Patriots vs. Seahawks: O/U 44.5",
-      "slug": "nfl-ne-sea-2026-09-10-total-44pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 7511.89,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3466,
-          "value": 6277.51,
-          "avg_price": 0.5093,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.5293,
-          "value": 999.5,
-          "avg_price": 0.8,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8853,
-          "value": 234.88,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Strait of Hormuz traffic returns to normal by December 31?",
-      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3241.22,
-      "holders": [
-        {
-          "trader": "0xheavy888",
-          "roi": 0.5739,
-          "value": 1850,
-          "avg_price": 0.89,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "rainbowlilies",
-          "roi": 0.1676,
-          "value": 777.56,
-          "avg_price": 0.2352,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.5293,
-          "value": 613.66,
-          "avg_price": 0.2013,
-          "cur_price": 0.185
         }
       ]
     }
@@ -953,7 +1116,6 @@
     "lol-dk-t1-2026-08-06-game1::T1": 3,
     "lol-ig1-nip-2026-08-06::Ninjas in Pyjamas": 3,
     "lol-we-al-2026-08-06-game2::Team WE": 3,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
     "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::Yes": 3,
     "will-chelsea-win-the-2026-27-english-premier-league-epl-championship-20260701200428755::Yes": 3,
     "will-los-angeles-lakers-win-the-2027-nba-finals::Yes": 3,
@@ -1422,7 +1584,6 @@
     "dota2-ts8-vsn2-2026-08-21::Team Spirit": 3,
     "dota2-ts8-vsn2-2026-08-21::TEAM VISION": 3,
     "cs2-fut-mouz-2026-08-21::FUT Esports": 3,
-    "us-strike-on-cuba-by-december-31::No": 3,
     "cs2-lgc-fal2-2026-08-21::Legacy": 3,
     "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5::Legacy": 3,
     "will-bitcoin-reach-82pt5k-in-august-2026::Yes": 3,
@@ -1684,8 +1845,6 @@
     "cs2-fut-vit-2026-08-31::FUT Esports": 3,
     "mlb-mil-chc-2026-08-31::Chicago Cubs": 3,
     "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30::Yes": 3,
-    "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
     "atp-sweeny-moutet-2026-08-30::Dane Sweeny": 3,
     "mlb-mia-kc-2026-09-01::Miami Marlins": 3,
     "cs2-big5-nemi1-2026-09-02::BIG": 3,
@@ -1768,16 +1927,13 @@
     "atp-tiafoe-michels-2026-09-08::Alex Michelsen": 3,
     "ucl-bvb-vil-2026-09-08-bvb::No": 3,
     "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
-    "will-the-us-invade-iran-before-2027::No": 3,
     "will-harry-kane-win-the-2026-ballon-dor::No": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "atp-shelton-alcaraz-2026-09-08::Ben Shelton": 3,
     "will-carlos-alcaraz-win-the-2026-mens-us-open::No": 3,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "russia-elections-united-russia-wins-every-region::Yes": 3,
     "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 3,
     "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 3,
@@ -1813,13 +1969,19 @@
     "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 3,
     "mls-phi-fcc-2026-09-09-spread-home-1pt5::FC Cincinnati": 3,
     "sud-san-cam-2026-09-09-san::Yes": 3,
-    "nfl-ne-sea-2026-09-10-spread-home-3pt5::Patriots": 2,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "nfl-sf-la-2026-09-11-spread-home-3pt5::Rams": 2,
-    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes": 2,
-    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 2,
-    "nfl-ne-sea-2026-09-10-total-44pt5::Under": 2,
-    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 2
+    "nfl-ne-sea-2026-09-10-spread-home-3pt5::Patriots": 3,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "nfl-sf-la-2026-09-11-spread-home-3pt5::Rams": 3,
+    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes": 3,
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 3,
+    "nfl-ne-sea-2026-09-10-total-44pt5::Under": 3,
+    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 3,
+    "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "mlb-col-nyy-2026-09-10-total-8pt5::Over": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "mlb-tb-atl-2026-09-10-total-8pt5::Under": 1,
+    "mlb-hou-phi-2026-09-10-total-8pt5::Over": 1
   },
-  "updated_at": "2026-09-10T13:53:58.448579+00:00"
+  "updated_at": "2026-09-10T17:30:05.678996+00:00"
 }
