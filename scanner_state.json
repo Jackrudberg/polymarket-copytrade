@@ -1,17 +1,262 @@
 {
   "seen_ids": [
-    "mlb-cin-lad-2026-09-09-total-8pt5::Over",
-    "atp-zverev-zandsch-2026-09-09::Botic van de Zandschulp",
-    "mls-min-dal-2026-09-09-min::No",
-    "mls-hou-rsl-2026-09-09-hou::No",
-    "mls-atl-orl-2026-09-09-atl::No",
-    "mls-phi-fcc-2026-09-09-phi::No",
-    "mlb-hou-phi-2026-09-09-spread-home-1pt5::Philadelphia Phillies",
-    "will-alexander-zverev-win-the-2026-mens-us-open::Yes",
-    "mls-phi-fcc-2026-09-09-spread-home-1pt5::FC Cincinnati",
-    "sud-san-cam-2026-09-09-san::Yes"
+    "nfl-ne-sea-2026-09-10-spread-home-3pt5::Patriots",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
+    "will-no-fed-rate-cuts-happen-in-2026::Yes",
+    "nfl-sf-la-2026-09-11-spread-home-3pt5::Rams",
+    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes",
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC",
+    "nfl-ne-sea-2026-09-10-total-44pt5::Under",
+    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes"
   ],
   "signals": [
+    {
+      "market": "Spread: Seahawks (-3.5)",
+      "slug": "nfl-ne-sea-2026-09-10-spread-home-3pt5",
+      "outcome": "Patriots",
+      "num_traders": 4,
+      "total_value": 418098.66,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 3.8492,
+          "value": 336901.31,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 1.1779,
+          "value": 70659.54,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 1.0592,
+          "value": 10276.16,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.5293,
+          "value": 261.65,
+          "avg_price": 0.6153,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 117989.61,
+      "holders": [
+        {
+          "trader": "JustADonk",
+          "roi": 0.3373,
+          "value": 105000,
+          "avg_price": 0.5,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 0.409,
+          "value": 10364.61,
+          "avg_price": 0.4372,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5739,
+          "value": 2625.0,
+          "avg_price": 0.4959,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 23923.25,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5739,
+          "value": 18589.98,
+          "avg_price": 0.8659,
+          "cur_price": 0.9295
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.5293,
+          "value": 2777.16,
+          "avg_price": 0.3563,
+          "cur_price": 0.9295
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 0.409,
+          "value": 2556.11,
+          "avg_price": 0.5678,
+          "cur_price": 0.9295
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
+      "outcome": "Rams",
+      "num_traders": 3,
+      "total_value": 21806.11,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3466,
+          "value": 20199.99,
+          "avg_price": 0.5099,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "hi774c",
+          "roi": 1.0592,
+          "value": 1059.51,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 1.1779,
+          "value": 546.61,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+      "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 10570.03,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.8853,
+          "value": 9103.99,
+          "avg_price": 0.0846,
+          "cur_price": 0.1875
+        },
+        {
+          "trader": "RememberAmalek",
+          "roi": 0.409,
+          "value": 1166.42,
+          "avg_price": 0.1747,
+          "cur_price": 0.1875
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.5293,
+          "value": 299.62,
+          "avg_price": 0.1294,
+          "cur_price": 0.1875
+        }
+      ]
+    },
+    {
+      "market": "Spread: FC Cincinnati (-1.5)",
+      "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5",
+      "outcome": "D.C. United SC",
+      "num_traders": 3,
+      "total_value": 8229.56,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.8853,
+          "value": 4239.84,
+          "avg_price": 0.6249,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5739,
+          "value": 2370,
+          "avg_price": 0.625,
+          "cur_price": 0.79
+        },
+        {
+          "trader": "hi774c",
+          "roi": 1.0592,
+          "value": 1619.72,
+          "avg_price": 0.61,
+          "cur_price": 0.79
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Seahawks: O/U 44.5",
+      "slug": "nfl-ne-sea-2026-09-10-total-44pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 7511.89,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3466,
+          "value": 6277.51,
+          "avg_price": 0.5093,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.5293,
+          "value": 999.5,
+          "avg_price": 0.8,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.8853,
+          "value": 234.88,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3241.22,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.5739,
+          "value": 1850,
+          "avg_price": 0.89,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "rainbowlilies",
+          "roi": 0.1676,
+          "value": 777.56,
+          "avg_price": 0.2352,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.5293,
+          "value": 613.66,
+          "avg_price": 0.2013,
+          "cur_price": 0.185
+        }
+      ]
+    },
     {
       "market": "Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5",
       "slug": "mlb-cin-lad-2026-09-09-total-8pt5",
@@ -487,417 +732,6 @@
           "cur_price": 0.9995
         }
       ]
-    },
-    {
-      "market": "Washington Nationals vs. San Diego Padres: O/U 8.5",
-      "slug": "mlb-wsh-sd-2026-09-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 6,
-      "total_value": 59943.77,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.5165,
-          "value": 39735.17,
-          "avg_price": 0.48,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 12562.4,
-          "avg_price": 0.4934,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 3226.98,
-          "avg_price": 0.4989,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 2311.98,
-          "avg_price": 0.4931,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 1802.5,
-          "avg_price": 0.4999,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2519,
-          "value": 304.74,
-          "avg_price": 0.49,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Will Sporting CP win on 2026-09-09?",
-      "slug": "ucl-spo-gal-2026-09-09-spo",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 119053.96,
-      "holders": [
-        {
-          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
-          "roi": 0.1999,
-          "value": 117940.09,
-          "avg_price": 0.39,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 802.5,
-          "avg_price": 0.39,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2519,
-          "value": 311.37,
-          "avg_price": 0.38,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 46568.73,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 23641.42,
-          "avg_price": 0.4314,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.2802,
-          "value": 18277.31,
-          "avg_price": 0.5899,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 4650,
-          "avg_price": 0.72,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "US Open WTA: Mirra Andreeva vs Coco Gauff",
-      "slug": "wta-andreev-gauff-2026-09-08",
-      "outcome": "Mirra Andreeva",
-      "num_traders": 3,
-      "total_value": 35779.51,
-      "holders": [
-        {
-          "trader": "0xwise",
-          "roi": 0.6474,
-          "value": 26619.2,
-          "avg_price": 0.4693,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
-          "roi": 0.1999,
-          "value": 6896.39,
-          "avg_price": 0.32,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 2263.92,
-          "avg_price": 0.3388,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Billionaire one-time wealth tax passes in California election 2026?",
-      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 21012.18,
-      "holders": [
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 11474.98,
-          "avg_price": 0.5735,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.2802,
-          "value": 4957.2,
-          "avg_price": 0.68,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "GrandeFromage",
-          "roi": 0.8737,
-          "value": 4580.0,
-          "avg_price": 0.6152,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "US Open ATP: Karen Khachanov vs Alexander Blockx",
-      "slug": "atp-khachan-blockx-2026-09-09",
-      "outcome": "Alexander Blockx",
-      "num_traders": 3,
-      "total_value": 20418.06,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 10279.89,
-          "avg_price": 0.3713,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 7854,
-          "avg_price": 0.3757,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 2284.17,
-          "avg_price": 0.3674,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "St. Louis Cardinals vs. San Francisco Giants: O/U 8.5",
-      "slug": "mlb-stl-sf-2026-09-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 17139.99,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 12555.31,
-          "avg_price": 0.4963,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 3977.91,
-          "avg_price": 0.4998,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2519,
-          "value": 606.77,
-          "avg_price": 0.4949,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will Arsenal FC win on 2026-09-09?",
-      "slug": "ucl-nap-ars-2026-09-09-ars",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16999.52,
-      "holders": [
-        {
-          "trader": "portowin",
-          "roi": 0.9468,
-          "value": 15768.23,
-          "avg_price": 0.4099,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 863.63,
-          "avg_price": 0.38,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "kingflop",
-          "roi": 0.2519,
-          "value": 367.66,
-          "avg_price": 0.38,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Colorado Rockies vs. New York Yankees: O/U 9.5",
-      "slug": "mlb-col-nyy-2026-09-09-total-9pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 10815.52,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 6125.41,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 2424.11,
-          "avg_price": 0.53,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 2266,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Spread: FC Cincinnati (-1.5)",
-      "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5",
-      "outcome": "D.C. United SC",
-      "num_traders": 3,
-      "total_value": 8229.56,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 4239.84,
-          "avg_price": 0.6249,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 2370,
-          "avg_price": 0.625,
-          "cur_price": 0.79
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 1619.72,
-          "avg_price": 0.61,
-          "cur_price": 0.79
-        }
-      ]
-    },
-    {
-      "market": "Will Donald Trump win the 2028 Republican presidential nomination?",
-      "slug": "will-donald-trump-win-the-2028-republican-presidential-nomination",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8150.29,
-      "holders": [
-        {
-          "trader": "beachboy4",
-          "roi": 0.76,
-          "value": 4848.7,
-          "avg_price": 0.0402,
-          "cur_price": 0.0195
-        },
-        {
-          "trader": "GrandeFromage",
-          "roi": 0.8737,
-          "value": 2402.21,
-          "avg_price": 0.016,
-          "cur_price": 0.0195
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 899.38,
-          "avg_price": 0.0099,
-          "cur_price": 0.0195
-        }
-      ]
-    },
-    {
-      "market": "Texas Rangers vs. Seattle Mariners: O/U 8.5",
-      "slug": "mlb-tex-sea-2026-09-09-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 6678.84,
-      "holders": [
-        {
-          "trader": "hi774c",
-          "roi": 0.2883,
-          "value": 2826.81,
-          "avg_price": 0.53,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2339,
-          "value": 2067.03,
-          "avg_price": 0.5401,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 1785,
-          "avg_price": 0.53,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "FC Cincinnati vs. D.C. United SC: O/U 3.5",
-      "slug": "mls-fcc-dcu-2026-09-05-total-3pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 1270.3,
-      "holders": [
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3476,
-          "value": 600,
-          "avg_price": 0.47,
-          "cur_price": 0.4
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.2135,
-          "value": 450.4,
-          "avg_price": 0.47,
-          "cur_price": 0.4
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.7372,
-          "value": 219.9,
-          "avg_price": 0.4899,
-          "cur_price": 0.4
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -1086,7 +920,6 @@
     "cs2-ts7-og1-2026-07-23-map-handicap-away-1pt5::OG": 3,
     "mlb-kc-det-2026-07-23-spread-home-1pt5::Kansas City Royals": 3,
     "mlb-kc-det-2026-07-23-total-8pt5::Under": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "mlb-phi-mia-2026-07-27::Miami Marlins": 3,
     "mlb-hou-laa-2026-07-27::Los Angeles Angels": 3,
     "mlb-bos-oak-2026-07-27-total-9pt5::Under": 3,
@@ -1236,7 +1069,6 @@
     "lol-t1-hle1-2026-08-04::T1": 3,
     "atp-damm-tsitsip-2026-08-03::Stefanos Tsitsipas": 3,
     "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154::No": 3,
-    "strait-of-hormuz-traffic-returns-to-normal-by-december-31::Yes": 3,
     "us-announces-end-of-iranian-blockade-by-august-7-2026-20260727171523690::Yes": 3,
     "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148::Yes": 3,
     "wta-svitoli-maneiro-2026-08-04::Elina Svitolina": 3,
@@ -1684,7 +1516,6 @@
     "mlb-det-pit-2026-08-19::Detroit Tigers": 3,
     "will-person-ad-win-the-2028-us-presidential-election::Yes": 3,
     "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes": 3,
-    "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653::Yes": 3,
     "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
     "will-tucker-carlson-win-the-2028-republican-presidential-nomination::Yes": 3,
     "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687::Yes": 3,
@@ -2117,7 +1948,6 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "fed-rate-hike-by-september-2026-meeting::Yes": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
     "will-harry-kane-win-the-2026-ballon-dor::No": 3,
@@ -2139,23 +1969,32 @@
     "wta-zhen-rybakin-2026-09-08::Qinwen Zheng": 3,
     "will-ben-shelton-win-the-2026-mens-us-open::Yes": 3,
     "ucl-stu-vf-2026-09-09-stu::No": 3,
-    "mlb-wsh-sd-2026-09-09-total-8pt5::Under": 2,
-    "ucl-spo-gal-2026-09-09-spo::No": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "wta-andreev-gauff-2026-09-08::Mirra Andreeva": 2,
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 2,
-    "atp-khachan-blockx-2026-09-09::Alexander Blockx": 2,
-    "mlb-stl-sf-2026-09-09-total-8pt5::Under": 2,
-    "ucl-nap-ars-2026-09-09-ars::No": 2,
-    "mlb-col-nyy-2026-09-09-total-9pt5::Under": 2,
-    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 2,
-    "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes": 2,
-    "mlb-tex-sea-2026-09-09-total-8pt5::Under": 2,
-    "mls-fcc-dcu-2026-09-05-total-3pt5::Over": 2,
-    "mlb-tex-sea-2026-09-09-total-7pt5::Under": 1,
-    "mlb-pit-cws-2026-09-09-total-8pt5::Under": 1,
-    "efl-cfc-lee-2026-09-09-cfc::Yes": 1,
-    "efl-cfc-lee-2026-09-09-spread-home-1pt5::Chelsea FC": 1
+    "mlb-wsh-sd-2026-09-09-total-8pt5::Under": 3,
+    "ucl-spo-gal-2026-09-09-spo::No": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "wta-andreev-gauff-2026-09-08::Mirra Andreeva": 3,
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
+    "atp-khachan-blockx-2026-09-09::Alexander Blockx": 3,
+    "mlb-stl-sf-2026-09-09-total-8pt5::Under": 3,
+    "ucl-nap-ars-2026-09-09-ars::No": 3,
+    "mlb-col-nyy-2026-09-09-total-9pt5::Under": 3,
+    "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes": 3,
+    "mlb-tex-sea-2026-09-09-total-8pt5::Under": 3,
+    "mls-fcc-dcu-2026-09-05-total-3pt5::Over": 3,
+    "mlb-tex-sea-2026-09-09-total-7pt5::Under": 2,
+    "mlb-pit-cws-2026-09-09-total-8pt5::Under": 2,
+    "efl-cfc-lee-2026-09-09-cfc::Yes": 2,
+    "efl-cfc-lee-2026-09-09-spread-home-1pt5::Chelsea FC": 2,
+    "mlb-cin-lad-2026-09-09-total-8pt5::Over": 1,
+    "atp-zverev-zandsch-2026-09-09::Botic van de Zandschulp": 1,
+    "mls-min-dal-2026-09-09-min::No": 1,
+    "mls-hou-rsl-2026-09-09-hou::No": 1,
+    "mls-atl-orl-2026-09-09-atl::No": 1,
+    "mls-phi-fcc-2026-09-09-phi::No": 1,
+    "mlb-hou-phi-2026-09-09-spread-home-1pt5::Philadelphia Phillies": 1,
+    "will-alexander-zverev-win-the-2026-mens-us-open::Yes": 1,
+    "mls-phi-fcc-2026-09-09-spread-home-1pt5::FC Cincinnati": 1,
+    "sud-san-cam-2026-09-09-san::Yes": 1
   },
-  "updated_at": "2026-09-10T00:35:53.160597+00:00"
+  "updated_at": "2026-09-10T05:14:39.407589+00:00"
 }
