@@ -1,19 +1,138 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "fed-rate-hike-by-september-2026-meeting::Yes",
-    "fed-rate-hike-in-2026::Yes",
-    "wta-gauff-rybakin-2026-09-10::Coco Gauff",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
     "nfl-sf-la-2026-09-11-spread-home-3pt5::49ers",
-    "cs2-voc-nrg-2026-09-10-map-handicap-home-1pt5::Voca",
-    "mlb-pit-cws-2026-09-10::Chicago White Sox",
-    "mlb-col-nyy-2026-09-10-spread-home-2pt5::Colorado Rockies",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes"
+    "cs2-furia-g2-2026-09-11::G2",
+    "nfl-sf-la-2026-09-11-total-47pt5::Under",
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes"
   ],
   "signals": [
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
+      "outcome": "49ers",
+      "num_traders": 4,
+      "total_value": 392235.35,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.686,
+          "value": 192307.67,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 0.2236,
+          "value": 104947.43,
+          "avg_price": 0.4904,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x78becf",
+          "roi": 0.3707,
+          "value": 79960,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.4979,
+          "value": 15020.25,
+          "avg_price": 0.5258,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+      "slug": "cs2-furia-g2-2026-09-11",
+      "outcome": "G2",
+      "num_traders": 3,
+      "total_value": 81925.63,
+      "holders": [
+        {
+          "trader": "Diabolical-Prize",
+          "roi": 0.7918,
+          "value": 42752.1,
+          "avg_price": 0.4482,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 1.5048,
+          "value": 36931.7,
+          "avg_price": 0.4311,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.4515,
+          "value": 2241.83,
+          "avg_price": 0.39,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "49ers vs. Rams: O/U 47.5",
+      "slug": "nfl-sf-la-2026-09-11-total-47pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 9528.2,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.4979,
+          "value": 5934.53,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "chongchongpanda",
+          "roi": 0.4113,
+          "value": 2998.32,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.4515,
+          "value": 595.35,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5047.96,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.686,
+          "value": 3458.55,
+          "avg_price": 0.0247,
+          "cur_price": 0.0995
+        },
+        {
+          "trader": "Tobias1909",
+          "roi": 0.2353,
+          "value": 1267.54,
+          "avg_price": 0.0974,
+          "cur_price": 0.0995
+        },
+        {
+          "trader": "0xa0f21e",
+          "roi": 0.4431,
+          "value": 321.87,
+          "avg_price": 0.0827,
+          "cur_price": 0.0995
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -274,36 +393,6 @@
       ]
     },
     {
-      "market": "Spread: Rams (-3.5)",
-      "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
-      "outcome": "49ers",
-      "num_traders": 3,
-      "total_value": 240101.51,
-      "holders": [
-        {
-          "trader": "Kch-Temp",
-          "roi": 0.8043,
-          "value": 166782.18,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 1.1284,
-          "value": 70043.86,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1556,
-          "value": 3275.47,
-          "avg_price": 0.47,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
       "market": "Map Handicap: NRG (-1.5) vs Voca (+1.5)",
       "slug": "cs2-voc-nrg-2026-09-10-map-handicap-home-1pt5",
       "outcome": "Voca",
@@ -450,110 +539,6 @@
           "value": 70662.74,
           "avg_price": 0.4571,
           "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
-      "slug": "ucl-bay-bog-2026-09-10-bay",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 41215.11,
-      "holders": [
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.2096,
-          "value": 15669.49,
-          "avg_price": 0.1088,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.155,
-          "value": 13743.72,
-          "avg_price": 0.08,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "salahmh",
-          "roi": 0.3162,
-          "value": 9386.07,
-          "avg_price": 0.1016,
-          "cur_price": 0.155
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.2565,
-          "value": 2415.83,
-          "avg_price": 0.08,
-          "cur_price": 0.155
-        }
-      ]
-    },
-    {
-      "market": "Will FK Bod\u00f8/Glimt win on 2026-09-10?",
-      "slug": "ucl-bay-bog-2026-09-10-bog",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 25823.56,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.155,
-          "value": 20734.45,
-          "avg_price": 0.0304,
-          "cur_price": 0.0315
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.2565,
-          "value": 2655.4,
-          "avg_price": 0.0291,
-          "cur_price": 0.0315
-        },
-        {
-          "trader": "salahmh",
-          "roi": 0.3162,
-          "value": 1453.32,
-          "avg_price": 0.029,
-          "cur_price": 0.0315
-        },
-        {
-          "trader": "ChinesePro",
-          "roi": 0.3819,
-          "value": 980.39,
-          "avg_price": 0.027,
-          "cur_price": 0.0315
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 24132.21,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.2341,
-          "value": 15247.0,
-          "avg_price": 0.1137,
-          "cur_price": 0.5315
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8202,
-          "value": 6392.57,
-          "avg_price": 0.4173,
-          "cur_price": 0.5315
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.405,
-          "value": 2492.64,
-          "avg_price": 0.0312,
-          "cur_price": 0.5315
         }
       ]
     }
@@ -1767,7 +1752,6 @@
     "will-harry-kane-win-the-2026-ballon-dor::No": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "atp-shelton-alcaraz-2026-09-08::Ben Shelton": 3,
     "will-carlos-alcaraz-win-the-2026-mens-us-open::No": 3,
@@ -1826,10 +1810,21 @@
     "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
     "will-rodri-win-the-2026-ballon-dor::Yes": 3,
     "laptop-fdv-above-1b-one-day-after-launch::Yes": 3,
-    "ucl-bay-bog-2026-09-10-bay::No": 2,
-    "ucl-bay-bog-2026-09-10-bog::Yes": 2,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 1
+    "ucl-bay-bog-2026-09-10-bay::No": 3,
+    "ucl-bay-bog-2026-09-10-bog::Yes": 3,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
+    "fed-rate-hike-in-2026::Yes": 1,
+    "wta-gauff-rybakin-2026-09-10::Coco Gauff": 1,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "cs2-voc-nrg-2026-09-10-map-handicap-home-1pt5::Voca": 1,
+    "mlb-pit-cws-2026-09-10::Chicago White Sox": 1,
+    "mlb-col-nyy-2026-09-10-spread-home-2pt5::Colorado Rockies": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1
   },
-  "updated_at": "2026-09-11T00:27:22.871188+00:00"
+  "updated_at": "2026-09-11T05:04:36.330650+00:00"
 }

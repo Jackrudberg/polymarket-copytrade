@@ -11080,15 +11080,15 @@
       "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
       "side": "Yes",
       "alerted_at": "2026-08-09T21:30:55.714816+00:00",
-      "last_seen": "2026-09-09T00:44:19.144552+00:00",
+      "last_seen": "2026-09-11T05:04:36.309328+00:00",
       "entry_price": 0.0805,
-      "current_price": 0.1175,
+      "current_price": 0.0995,
       "stake": 100.0,
       "shares": 1242.236025,
-      "current_value": 145.96,
-      "paper_pnl": 45.96,
-      "return_percent": 45.96,
-      "status": "CONSENSUS_LOST",
+      "current_value": 123.6,
+      "paper_pnl": 23.6,
+      "return_percent": 23.6,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 9704.03,
       "traders": [
@@ -27092,7 +27092,7 @@
       "current_value": 125.24,
       "paper_pnl": 25.24,
       "return_percent": 25.24,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 171377.62,
       "traders": [
@@ -27101,7 +27101,7 @@
         "ethBELIVER"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "consensus_lost_at": "2026-09-04T21:41:45.647719+00:00"
+      "consensus_lost_at": "2026-09-11T05:04:36.309328+00:00"
     },
     {
       "signal_id": "cs2-furia-vit-2026-09-04::FURIA",
@@ -29508,14 +29508,14 @@
       "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
       "side": "49ers",
       "alerted_at": "2026-09-11T00:27:22.852226+00:00",
-      "last_seen": "2026-09-11T00:27:22.852226+00:00",
+      "last_seen": "2026-09-11T05:04:36.309328+00:00",
       "entry_price": 0.495,
-      "current_price": 0.495,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 202.020202,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 201.92,
+      "paper_pnl": 101.92,
+      "return_percent": 101.92,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 240101.51,
@@ -29597,7 +29597,55 @@
         "wr0ngw4yb3tt0r"
       ],
       "url": "https://polymarket.com/event/mlb-col-nyy-2026-09-10-spread-home-2pt5"
+    },
+    {
+      "signal_id": "cs2-furia-g2-2026-09-11::G2",
+      "market": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+      "slug": "cs2-furia-g2-2026-09-11",
+      "side": "G2",
+      "alerted_at": "2026-09-11T05:04:36.309328+00:00",
+      "last_seen": "2026-09-11T05:04:36.309328+00:00",
+      "entry_price": 0.455,
+      "current_price": 0.455,
+      "stake": 100.0,
+      "shares": 219.78022,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 81925.63,
+      "traders": [
+        "Diabolical-Prize",
+        "0x29b52d98ac9ef9414b04164246c95BC63d7",
+        "no1dodgersfan"
+      ],
+      "url": "https://polymarket.com/event/cs2-furia-g2-2026-09-11"
+    },
+    {
+      "signal_id": "nfl-sf-la-2026-09-11-total-47pt5::Under",
+      "market": "49ers vs. Rams: O/U 47.5",
+      "slug": "nfl-sf-la-2026-09-11-total-47pt5",
+      "side": "Under",
+      "alerted_at": "2026-09-11T05:04:36.309328+00:00",
+      "last_seen": "2026-09-11T05:04:36.309328+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9528.2,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "chongchongpanda",
+        "no1dodgersfan"
+      ],
+      "url": "https://polymarket.com/event/nfl-sf-la-2026-09-11-total-47pt5"
     }
   ],
-  "updated_at": "2026-09-11T00:27:22.852226+00:00"
+  "updated_at": "2026-09-11T05:04:36.309328+00:00"
 }
