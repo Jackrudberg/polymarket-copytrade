@@ -1,78 +1,111 @@
 {
   "seen_ids": [
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "fed-rate-hike-in-2026::Yes",
     "fed-rate-hike-by-september-2026-meeting::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
+    "fed-rate-hike-in-2026::Yes",
+    "wta-gauff-rybakin-2026-09-10::Coco Gauff",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No",
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "wta-gauff-rybakin-2026-09-10::Coco Gauff"
+    "nfl-sf-la-2026-09-11-spread-home-3pt5::49ers",
+    "cs2-voc-nrg-2026-09-10-map-handicap-home-1pt5::Voca",
+    "mlb-pit-cws-2026-09-10::Chicago White Sox",
+    "mlb-col-nyy-2026-09-10-spread-home-2pt5::Colorado Rockies",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes"
   ],
   "signals": [
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "outcome": "Yes",
-      "num_traders": 8,
-      "total_value": 4337015.26,
+      "num_traders": 6,
+      "total_value": 3861056.16,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
-          "value": 1884683.19,
+          "roi": 1.1479,
+          "value": 1855463.3,
           "avg_price": 0.4539,
-          "cur_price": 0.645
+          "cur_price": 0.635
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.7846,
-          "value": 883631.93,
+          "roi": 0.6017,
+          "value": 869932.21,
           "avg_price": 0.4299,
-          "cur_price": 0.645
+          "cur_price": 0.635
         },
         {
           "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 0.347,
-          "value": 604090.18,
+          "roi": 0.3109,
+          "value": 594724.44,
           "avg_price": 0.4501,
-          "cur_price": 0.645
+          "cur_price": 0.635
         },
         {
           "trader": "ratehikes",
-          "roi": 2.8203,
-          "value": 368648.93,
+          "roi": 2.5516,
+          "value": 362933.44,
           "avg_price": 0.3471,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "mnuop8890",
-          "roi": 0.3215,
-          "value": 231972.16,
-          "avg_price": 0.5072,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "SheltonDoubter",
-          "roi": 0.5607,
-          "value": 183182.91,
-          "avg_price": 0.4246,
-          "cur_price": 0.645
+          "cur_price": 0.635
         },
         {
           "trader": "ethBELIVER",
-          "roi": 0.6607,
-          "value": 180012.38,
+          "roi": 0.6304,
+          "value": 177221.49,
           "avg_price": 0.4694,
-          "cur_price": 0.645
+          "cur_price": 0.635
         },
         {
           "trader": "donthackme",
-          "roi": 0.4115,
-          "value": 793.58,
+          "roi": 0.4245,
+          "value": 781.28,
           "avg_price": 0.2,
-          "cur_price": 0.645
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Fed Rate Hike by September 2026 Meeting?",
+      "slug": "fed-rate-hike-by-september-2026-meeting",
+      "outcome": "Yes",
+      "num_traders": 5,
+      "total_value": 116059.37,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1479,
+          "value": 82261.87,
+          "avg_price": 0.4398,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.6304,
+          "value": 18311.61,
+          "avg_price": 0.4126,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "ratehikes",
+          "roi": 2.5516,
+          "value": 10448.38,
+          "avg_price": 0.5405,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "TheyAreTakingTheHobitsToIsengard",
+          "roi": 0.3109,
+          "value": 3475,
+          "avg_price": 0.3909,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.6017,
+          "value": 1562.51,
+          "avg_price": 0.6279,
+          "cur_price": 0.625
         }
       ]
     },
@@ -81,109 +114,72 @@
       "slug": "fed-rate-hike-in-2026",
       "outcome": "Yes",
       "num_traders": 4,
-      "total_value": 287661.03,
+      "total_value": 289802.8,
       "holders": [
         {
           "trader": "ratehikes",
-          "roi": 2.8203,
-          "value": 161416.15,
+          "roi": 2.5516,
+          "value": 163498.94,
           "avg_price": 0.4671,
-          "cur_price": 0.775
+          "cur_price": 0.785
         },
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
-          "value": 88940.11,
+          "roi": 1.1479,
+          "value": 90087.73,
           "avg_price": 0.4902,
-          "cur_price": 0.775
+          "cur_price": 0.785
         },
         {
           "trader": "ethBELIVER",
-          "roi": 0.6607,
-          "value": 32654.78,
+          "roi": 0.6304,
+          "value": 33076.13,
           "avg_price": 0.6611,
-          "cur_price": 0.775
+          "cur_price": 0.785
         },
         {
           "trader": "ArmageddonRewardsBilly",
-          "roi": 0.7846,
-          "value": 4649.99,
+          "roi": 0.6017,
+          "value": 3140.0,
           "avg_price": 0.7266,
-          "cur_price": 0.775
+          "cur_price": 0.785
         }
       ]
     },
     {
-      "market": "Fed Rate Hike by September 2026 Meeting?",
-      "slug": "fed-rate-hike-by-september-2026-meeting",
-      "outcome": "Yes",
+      "market": "US Open WTA: Coco Gauff vs Elena Rybakina",
+      "slug": "wta-gauff-rybakin-2026-09-10",
+      "outcome": "Coco Gauff",
       "num_traders": 4,
-      "total_value": 118160.76,
+      "total_value": 38437.94,
       "holders": [
         {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
-          "value": 84894.25,
-          "avg_price": 0.4398,
-          "cur_price": 0.645
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1525,
+          "value": 17797.46,
+          "avg_price": 0.48,
+          "cur_price": 0.475
         },
         {
-          "trader": "ethBELIVER",
-          "roi": 0.6607,
-          "value": 18897.58,
-          "avg_price": 0.4126,
-          "cur_price": 0.645
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.2242,
+          "value": 9792.35,
+          "avg_price": 0.49,
+          "cur_price": 0.475
         },
         {
-          "trader": "ratehikes",
-          "roi": 2.8203,
-          "value": 10782.73,
-          "avg_price": 0.5405,
-          "cur_price": 0.645
+          "trader": "Kch-Temp",
+          "roi": 0.8043,
+          "value": 9222.78,
+          "avg_price": 0.4799,
+          "cur_price": 0.475
         },
         {
-          "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 0.347,
-          "value": 3586.2,
-          "avg_price": 0.3909,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 3787.1,
-      "holders": [
-        {
-          "trader": "SheltonDoubter",
-          "roi": 0.5607,
-          "value": 2402.92,
-          "avg_price": 0.2999,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
-          "value": 704.76,
-          "avg_price": 0.15,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.6607,
-          "value": 417.77,
-          "avg_price": 0.2699,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "ratehikes",
-          "roi": 2.8203,
-          "value": 261.65,
-          "avg_price": 0.2999,
-          "cur_price": 0.335
+          "trader": "AnonymousUsername",
+          "roi": 0.4409,
+          "value": 1625.35,
+          "avg_price": 0.47,
+          "cur_price": 0.475
         }
       ]
     },
@@ -196,21 +192,21 @@
       "holders": [
         {
           "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1503,
+          "roi": 0.1525,
           "value": 2970000,
           "avg_price": 0.5,
           "cur_price": 0.495
         },
         {
           "trader": "ethBELIVER",
-          "roi": 0.6607,
+          "roi": 0.6304,
           "value": 6868.78,
           "avg_price": 0.4572,
           "cur_price": 0.495
         },
         {
           "trader": "e46m3",
-          "roi": 0.7904,
+          "roi": 0.7666,
           "value": 4499.67,
           "avg_price": 0.4898,
           "cur_price": 0.495
@@ -222,28 +218,208 @@
       "slug": "will-no-fed-rate-cuts-happen-in-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 588108.82,
+      "total_value": 588108.71,
       "holders": [
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
+          "roi": 1.1479,
           "value": 549888.98,
           "avg_price": 0.7931,
           "cur_price": 0.9265
         },
         {
           "trader": "ratehikes",
-          "roi": 2.8203,
+          "roi": 2.5516,
           "value": 36395.27,
           "avg_price": 0.6073,
           "cur_price": 0.9265
         },
         {
           "trader": "donthackme",
-          "roi": 0.4115,
-          "value": 1824.57,
+          "roi": 0.4245,
+          "value": 1824.46,
           "avg_price": 0.0769,
           "cur_price": 0.9265
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 267911.03,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1479,
+          "value": 261545.9,
+          "avg_price": 0.602,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.6017,
+          "value": 5565.08,
+          "avg_price": 0.5664,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4245,
+          "value": 800.05,
+          "avg_price": 0.0312,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-sf-la-2026-09-11-spread-home-3pt5",
+      "outcome": "49ers",
+      "num_traders": 3,
+      "total_value": 240101.51,
+      "holders": [
+        {
+          "trader": "Kch-Temp",
+          "roi": 0.8043,
+          "value": 166782.18,
+          "avg_price": 0.4899,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.1284,
+          "value": 70043.86,
+          "avg_price": 0.49,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1556,
+          "value": 3275.47,
+          "avg_price": 0.47,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Map Handicap: NRG (-1.5) vs Voca (+1.5)",
+      "slug": "cs2-voc-nrg-2026-09-10-map-handicap-home-1pt5",
+      "outcome": "Voca",
+      "num_traders": 3,
+      "total_value": 24897.3,
+      "holders": [
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.2181,
+          "value": 10948.96,
+          "avg_price": 0.55,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.1818,
+          "value": 9937.14,
+          "avg_price": 0.5399,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.2214,
+          "value": 4011.2,
+          "avg_price": 0.55,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Chicago White Sox",
+      "slug": "mlb-pit-cws-2026-09-10",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 20788.4,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1525,
+          "value": 15750,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1556,
+          "value": 3439.98,
+          "avg_price": 0.5184,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4409,
+          "value": 1598.42,
+          "avg_price": 0.51,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Spread: New York Yankees (-2.5)",
+      "slug": "mlb-col-nyy-2026-09-10-spread-home-2pt5",
+      "outcome": "Colorado Rockies",
+      "num_traders": 3,
+      "total_value": 6838.18,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.2242,
+          "value": 5900,
+          "avg_price": 0.56,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4409,
+          "value": 809.48,
+          "avg_price": 0.56,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.1556,
+          "value": 128.7,
+          "avg_price": 0.5394,
+          "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1384.18,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1479,
+          "value": 704.76,
+          "avg_price": 0.15,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.6304,
+          "value": 417.77,
+          "avg_price": 0.2699,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "ratehikes",
+          "roi": 2.5516,
+          "value": 261.65,
+          "avg_price": 0.2999,
+          "cur_price": 0.335
         }
       ]
     },
@@ -274,66 +450,6 @@
           "value": 70662.74,
           "avg_price": 0.4571,
           "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 256134.71,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.291,
-          "value": 250049.37,
-          "avg_price": 0.602,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.7846,
-          "value": 5320.46,
-          "avg_price": 0.5664,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4115,
-          "value": 764.88,
-          "avg_price": 0.0312,
-          "cur_price": 0.435
-        }
-      ]
-    },
-    {
-      "market": "US Open WTA: Coco Gauff vs Elena Rybakina",
-      "slug": "wta-gauff-rybakin-2026-09-10",
-      "outcome": "Coco Gauff",
-      "num_traders": 3,
-      "total_value": 36484.95,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1503,
-          "value": 17069.49,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2696,
-          "value": 9998.51,
-          "avg_price": 0.49,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Kch-Temp",
-          "roi": 0.9908,
-          "value": 9416.95,
-          "avg_price": 0.4799,
-          "cur_price": 0.485
         }
       ]
     },
@@ -438,290 +554,6 @@
           "value": 2492.64,
           "avg_price": 0.0312,
           "cur_price": 0.5315
-        }
-      ]
-    },
-    {
-      "market": "LAPTOP FDV above $1B one day after launch?",
-      "slug": "laptop-fdv-above-1b-one-day-after-launch",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 219698.62,
-      "holders": [
-        {
-          "trader": "dromedaryy",
-          "roi": 4.3074,
-          "value": 202930.62,
-          "avg_price": 0.6605,
-          "cur_price": 0.958
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8,
-          "value": 7918.34,
-          "avg_price": 0.9057,
-          "cur_price": 0.958
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.3576,
-          "value": 7488.4,
-          "avg_price": 0.7767,
-          "cur_price": 0.958
-        },
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 1361.26,
-          "avg_price": 0.7903,
-          "cur_price": 0.958
-        }
-      ]
-    },
-    {
-      "market": "LAPTOP FDV above $500M one day after launch?",
-      "slug": "laptop-fdv-above-500m-one-day-after-launch",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 9930.27,
-      "holders": [
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 3028.46,
-          "avg_price": 0.64,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "AllByMyseIf",
-          "roi": 0.2766,
-          "value": 3008.06,
-          "avg_price": 0.6691,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "dromedaryy",
-          "roi": 4.3074,
-          "value": 2306.45,
-          "avg_price": 0.4829,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.3576,
-          "value": 1587.3,
-          "avg_price": 0.2474,
-          "cur_price": 0.715
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 212100,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.3576,
-          "value": 113625,
-          "avg_price": 0.5,
-          "cur_price": 0.7575
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8,
-          "value": 53025,
-          "avg_price": 0.5,
-          "cur_price": 0.7575
-        },
-        {
-          "trader": "AllByMyseIf",
-          "roi": 0.2766,
-          "value": 45450,
-          "avg_price": 0.5,
-          "cur_price": 0.7575
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 67900.0,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.3576,
-          "value": 36375,
-          "avg_price": 0.5,
-          "cur_price": 0.2425
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8,
-          "value": 16975.0,
-          "avg_price": 0.4999,
-          "cur_price": 0.2425
-        },
-        {
-          "trader": "AllByMyseIf",
-          "roi": 0.2766,
-          "value": 14550,
-          "avg_price": 0.5,
-          "cur_price": 0.2425
-        }
-      ]
-    },
-    {
-      "market": "US strike on Cuba by December 31?",
-      "slug": "us-strike-on-cuba-by-december-31",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 39415.89,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.3576,
-          "value": 25305.2,
-          "avg_price": 0.6017,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 10531.76,
-          "avg_price": 0.8026,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8,
-          "value": 3578.93,
-          "avg_price": 0.8511,
-          "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 20090.07,
-      "holders": [
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 11640.06,
-          "avg_price": 0.8199,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.8,
-          "value": 4225.01,
-          "avg_price": 0.8503,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 5.7497,
-          "value": 4225,
-          "avg_price": 0.73,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 19883.75,
-      "holders": [
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 10897.68,
-          "avg_price": 0.2455,
-          "cur_price": 0.1595
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.8338,
-          "value": 8567.75,
-          "avg_price": 0.0742,
-          "cur_price": 0.1595
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4546,
-          "value": 418.32,
-          "avg_price": 0.0112,
-          "cur_price": 0.1595
-        }
-      ]
-    },
-    {
-      "market": "Will Rodri win the 2026 Ballon d'Or?",
-      "slug": "will-rodri-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3308.81,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.8338,
-          "value": 1682.38,
-          "avg_price": 0.013,
-          "cur_price": 0.045
-        },
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 1355.36,
-          "avg_price": 0.0989,
-          "cur_price": 0.045
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4546,
-          "value": 271.07,
-          "avg_price": 0.0112,
-          "cur_price": 0.045
-        }
-      ]
-    },
-    {
-      "market": "LAPTOP FDV above $1B one day after launch?",
-      "slug": "laptop-fdv-above-1b-one-day-after-launch",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1913.24,
-      "holders": [
-        {
-          "trader": "dromedaryy",
-          "roi": 4.3074,
-          "value": 859.45,
-          "avg_price": 0.0801,
-          "cur_price": 0.042
-        },
-        {
-          "trader": "AllByMyseIf",
-          "roi": 0.2766,
-          "value": 735.59,
-          "avg_price": 0.0549,
-          "cur_price": 0.042
-        },
-        {
-          "trader": "Parz1vaI",
-          "roi": 0.2048,
-          "value": 318.2,
-          "avg_price": 0.5812,
-          "cur_price": 0.042
         }
       ]
     }
@@ -1985,18 +1817,19 @@
     "mlb-col-nyy-2026-09-10-total-8pt5::Over": 3,
     "mlb-tb-atl-2026-09-10-total-8pt5::Under": 3,
     "mlb-hou-phi-2026-09-10-total-8pt5::Over": 3,
-    "laptop-fdv-above-1b-one-day-after-launch::No": 2,
-    "laptop-fdv-above-500m-one-day-after-launch::Yes": 2,
-    "will-jd-vance-win-the-2028-us-presidential-election::No": 2,
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 2,
-    "us-strike-on-cuba-by-december-31::No": 2,
-    "will-the-us-invade-iran-before-2027::No": 2,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 2,
-    "will-rodri-win-the-2026-ballon-dor::Yes": 2,
-    "laptop-fdv-above-1b-one-day-after-launch::Yes": 2,
-    "ucl-bay-bog-2026-09-10-bay::No": 1,
-    "ucl-bay-bog-2026-09-10-bog::Yes": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1
+    "laptop-fdv-above-1b-one-day-after-launch::No": 3,
+    "laptop-fdv-above-500m-one-day-after-launch::Yes": 3,
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
+    "us-strike-on-cuba-by-december-31::No": 3,
+    "will-the-us-invade-iran-before-2027::No": 3,
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
+    "will-rodri-win-the-2026-ballon-dor::Yes": 3,
+    "laptop-fdv-above-1b-one-day-after-launch::Yes": 3,
+    "ucl-bay-bog-2026-09-10-bay::No": 2,
+    "ucl-bay-bog-2026-09-10-bog::Yes": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 1
   },
-  "updated_at": "2026-09-10T22:28:04.451955+00:00"
+  "updated_at": "2026-09-11T00:27:22.871188+00:00"
 }
