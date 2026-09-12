@@ -29946,7 +29946,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 50111.09,
       "traders": [
@@ -29954,7 +29954,8 @@
         "-Pain",
         "facaigege"
       ],
-      "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12-game2"
+      "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12-game2",
+      "consensus_lost_at": "2026-09-12T17:53:57.601040+00:00"
     },
     {
       "signal_id": "lol-al-ig1-2026-09-12-game4::Anyone's Legend",
@@ -29970,7 +29971,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 21535.81,
       "traders": [
@@ -29978,7 +29979,8 @@
         "-Pain",
         "facaigege"
       ],
-      "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12-game4"
+      "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12-game4",
+      "consensus_lost_at": "2026-09-12T17:53:57.601040+00:00"
     },
     {
       "signal_id": "epl-liv-ful-2026-09-12-liv::No",
@@ -30012,14 +30014,14 @@
       "slug": "epl-che-hul-2026-09-12-che",
       "side": "No",
       "alerted_at": "2026-09-12T15:48:54.874901+00:00",
-      "last_seen": "2026-09-12T15:48:54.874901+00:00",
+      "last_seen": "2026-09-12T17:53:57.601040+00:00",
       "entry_price": 0.695,
-      "current_price": 0.695,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 143.884892,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 143.81,
+      "paper_pnl": 43.81,
+      "return_percent": 43.81,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 190148.25,
@@ -30029,7 +30031,58 @@
         "ArturitoFilito"
       ],
       "url": "https://polymarket.com/event/epl-che-hul-2026-09-12-che"
+    },
+    {
+      "signal_id": "sea-laz-mil-2026-09-12-mil::No",
+      "market": "Will AC Milan win on 2026-09-12?",
+      "slug": "sea-laz-mil-2026-09-12-mil",
+      "side": "No",
+      "alerted_at": "2026-09-12T17:53:57.601040+00:00",
+      "last_seen": "2026-09-12T17:53:57.601040+00:00",
+      "entry_price": 0.92,
+      "current_price": 0.92,
+      "stake": 100.0,
+      "shares": 108.695652,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 165671.34,
+      "traders": [
+        "Joey25",
+        "CoffeeDespiser",
+        "matanovik",
+        "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+        "berbisminsk"
+      ],
+      "url": "https://polymarket.com/event/sea-laz-mil-2026-09-12-mil"
+    },
+    {
+      "signal_id": "epl-tot-eve-2026-09-12-tot::No",
+      "market": "Will Tottenham Hotspur FC win on 2026-09-12?",
+      "slug": "epl-tot-eve-2026-09-12-tot",
+      "side": "No",
+      "alerted_at": "2026-09-12T17:53:57.601040+00:00",
+      "last_seen": "2026-09-12T17:53:57.601040+00:00",
+      "entry_price": 0.655,
+      "current_price": 0.655,
+      "stake": 100.0,
+      "shares": 152.671756,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 187897.12,
+      "traders": [
+        "BreakTheBank",
+        "jtwyslljy",
+        "ArturitoFilito",
+        "gambamaster"
+      ],
+      "url": "https://polymarket.com/event/epl-tot-eve-2026-09-12-tot"
     }
   ],
-  "updated_at": "2026-09-12T15:48:54.874901+00:00"
+  "updated_at": "2026-09-12T17:53:57.601040+00:00"
 }

@@ -1,9 +1,149 @@
 {
   "seen_ids": [
-    "epl-liv-ful-2026-09-12-liv::No",
-    "epl-che-hul-2026-09-12-che::No"
+    "epl-che-hul-2026-09-12-che::No",
+    "sea-laz-mil-2026-09-12-mil::No",
+    "epl-tot-eve-2026-09-12-tot::No"
   ],
   "signals": [
+    {
+      "market": "Will Chelsea FC win on 2026-09-12?",
+      "slug": "epl-che-hul-2026-09-12-che",
+      "outcome": "No",
+      "num_traders": 7,
+      "total_value": 372916.08,
+      "holders": [
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.5705,
+          "value": 141429.28,
+          "avg_price": 0.1999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GrizzliesSuck",
+          "roi": 0.6474,
+          "value": 111360.94,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "berbisminsk",
+          "roi": 0.6758,
+          "value": 45607.94,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.4309,
+          "value": 40394.11,
+          "avg_price": 0.1999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.3712,
+          "value": 15170.38,
+          "avg_price": 0.57,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "xxzws1",
+          "roi": 0.3478,
+          "value": 10018.99,
+          "avg_price": 0.2,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "1xx2",
+          "roi": 0.2433,
+          "value": 8934.44,
+          "avg_price": 0.19,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will AC Milan win on 2026-09-12?",
+      "slug": "sea-laz-mil-2026-09-12-mil",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 165671.34,
+      "holders": [
+        {
+          "trader": "Joey25",
+          "roi": 0.415,
+          "value": 67264.87,
+          "avg_price": 0.54,
+          "cur_price": 0.92
+        },
+        {
+          "trader": "CoffeeDespiser",
+          "roi": 0.1965,
+          "value": 36800,
+          "avg_price": 0.57,
+          "cur_price": 0.92
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.4309,
+          "value": 21213.36,
+          "avg_price": 0.54,
+          "cur_price": 0.92
+        },
+        {
+          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+          "roi": 0.5913,
+          "value": 20705.13,
+          "avg_price": 0.53,
+          "cur_price": 0.92
+        },
+        {
+          "trader": "berbisminsk",
+          "roi": 0.6758,
+          "value": 19687.98,
+          "avg_price": 0.54,
+          "cur_price": 0.92
+        }
+      ]
+    },
+    {
+      "market": "Will Tottenham Hotspur FC win on 2026-09-12?",
+      "slug": "epl-tot-eve-2026-09-12-tot",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 187897.12,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.4274,
+          "value": 179268.03,
+          "avg_price": 0.51,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.5705,
+          "value": 5240,
+          "avg_price": 0.4792,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.3712,
+          "value": 3248.08,
+          "avg_price": 0.56,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "gambamaster",
+          "roi": 0.4255,
+          "value": 141.01,
+          "avg_price": 0.4699,
+          "cur_price": 0.655
+        }
+      ]
+    },
     {
       "market": "Will Liverpool FC win on 2026-09-12?",
       "slug": "epl-liv-ful-2026-09-12-liv",
@@ -45,36 +185,6 @@
           "value": 196.88,
           "avg_price": 0.32,
           "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will Chelsea FC win on 2026-09-12?",
-      "slug": "epl-che-hul-2026-09-12-che",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 190148.25,
-      "holders": [
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.3044,
-          "value": 102164.99,
-          "avg_price": 0.1999,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "GrizzliesSuck",
-          "roi": 0.2638,
-          "value": 77434.57,
-          "avg_price": 0.2,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.3107,
-          "value": 10548.69,
-          "avg_price": 0.57,
-          "cur_price": 0.695
         }
       ]
     },
@@ -135,131 +245,6 @@
           "value": 1088.51,
           "avg_price": 0.381,
           "cur_price": 0.305
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
-      "slug": "lol-hle1-t1-2026-09-12",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 7,
-      "total_value": 454691.43,
-      "holders": [
-        {
-          "trader": "Weaseloftheweek",
-          "roi": 0.4978,
-          "value": 174181.39,
-          "avg_price": 0.6994,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "FORTNITEMASTER888",
-          "roi": 0.2376,
-          "value": 136172.74,
-          "avg_price": 0.6043,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.1602,
-          "value": 49140.92,
-          "avg_price": 0.9989,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "mitsuike",
-          "roi": 0.338,
-          "value": 45447.69,
-          "avg_price": 0.7891,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.183,
-          "value": 39880,
-          "avg_price": 0.595,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "JUSTINHERBERTMVP",
-          "roi": 0.2805,
-          "value": 5782.62,
-          "avg_price": 0.6099,
-          "cur_price": 0.997
-        },
-        {
-          "trader": "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
-          "roi": 0.3917,
-          "value": 4086.07,
-          "avg_price": 0.6099,
-          "cur_price": 0.997
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
-      "slug": "cs2-lgc-mibr-2026-09-12",
-      "outcome": "Legacy",
-      "num_traders": 4,
-      "total_value": 175696.07,
-      "holders": [
-        {
-          "trader": "110thst",
-          "roi": 0.2525,
-          "value": 132814.08,
-          "avg_price": 0.6699,
-          "cur_price": 0.6065
-        },
-        {
-          "trader": "0xbb299c",
-          "roi": 0.5505,
-          "value": 27292.36,
-          "avg_price": 0.6684,
-          "cur_price": 0.6065
-        },
-        {
-          "trader": "JUSTINHERBERTMVP",
-          "roi": 0.2805,
-          "value": 8237.94,
-          "avg_price": 0.6748,
-          "cur_price": 0.6065
-        },
-        {
-          "trader": "cerebralhole",
-          "roi": 0.2927,
-          "value": 7351.69,
-          "avg_price": 0.6599,
-          "cur_price": 0.6065
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
-      "slug": "lol-hle1-t1-2026-09-12-game2",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 52422.54,
-      "holders": [
-        {
-          "trader": "FORTNITEMASTER888",
-          "roi": 0.2376,
-          "value": 42776.78,
-          "avg_price": 0.41,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "48binn",
-          "roi": 0.1602,
-          "value": 7935.97,
-          "avg_price": 0.335,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
-          "roi": 0.3917,
-          "value": 1709.79,
-          "avg_price": 0.5845,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -1558,11 +1543,12 @@
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 2,
-    "cs2-lgc-mibr-2026-09-12::Legacy": 2,
-    "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 2,
-    "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 1,
-    "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 1
+    "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 3,
+    "cs2-lgc-mibr-2026-09-12::Legacy": 3,
+    "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 3,
+    "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 2,
+    "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 2,
+    "epl-liv-ful-2026-09-12-liv::No": 1
   },
-  "updated_at": "2026-09-12T15:48:54.897973+00:00"
+  "updated_at": "2026-09-12T17:53:57.628528+00:00"
 }
