@@ -1,35 +1,132 @@
 {
   "seen_ids": [
-    "lol-hle1-t1-2026-09-12::Hanwha Life Esports"
+    "lol-hle1-t1-2026-09-12::Hanwha Life Esports",
+    "cs2-lgc-mibr-2026-09-12::Legacy",
+    "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports"
   ],
   "signals": [
     {
       "market": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
       "slug": "lol-hle1-t1-2026-09-12",
       "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 6476.87,
+      "num_traders": 7,
+      "total_value": 454691.43,
       "holders": [
         {
+          "trader": "Weaseloftheweek",
+          "roi": 0.4978,
+          "value": 174181.39,
+          "avg_price": 0.6994,
+          "cur_price": 0.997
+        },
+        {
+          "trader": "FORTNITEMASTER888",
+          "roi": 0.2376,
+          "value": 136172.74,
+          "avg_price": 0.6043,
+          "cur_price": 0.997
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.1602,
+          "value": 49140.92,
+          "avg_price": 0.9989,
+          "cur_price": 0.997
+        },
+        {
+          "trader": "mitsuike",
+          "roi": 0.338,
+          "value": 45447.69,
+          "avg_price": 0.7891,
+          "cur_price": 0.997
+        },
+        {
+          "trader": "facaigege",
+          "roi": 0.183,
+          "value": 39880,
+          "avg_price": 0.595,
+          "cur_price": 0.997
+        },
+        {
           "trader": "JUSTINHERBERTMVP",
-          "roi": 0.3292,
-          "value": 3509.01,
+          "roi": 0.2805,
+          "value": 5782.62,
           "avg_price": 0.6099,
-          "cur_price": 0.605
+          "cur_price": 0.997
         },
         {
           "trader": "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
-          "roi": 0.2962,
-          "value": 2479.51,
+          "roi": 0.3917,
+          "value": 4086.07,
           "avg_price": 0.6099,
-          "cur_price": 0.605
+          "cur_price": 0.997
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
+      "slug": "cs2-lgc-mibr-2026-09-12",
+      "outcome": "Legacy",
+      "num_traders": 4,
+      "total_value": 175696.07,
+      "holders": [
+        {
+          "trader": "110thst",
+          "roi": 0.2525,
+          "value": 132814.08,
+          "avg_price": 0.6699,
+          "cur_price": 0.6065
         },
         {
-          "trader": "0x076daa",
-          "roi": 0.2564,
-          "value": 488.35,
-          "avg_price": 0.6099,
-          "cur_price": 0.605
+          "trader": "0xbb299c",
+          "roi": 0.5505,
+          "value": 27292.36,
+          "avg_price": 0.6684,
+          "cur_price": 0.6065
+        },
+        {
+          "trader": "JUSTINHERBERTMVP",
+          "roi": 0.2805,
+          "value": 8237.94,
+          "avg_price": 0.6748,
+          "cur_price": 0.6065
+        },
+        {
+          "trader": "cerebralhole",
+          "roi": 0.2927,
+          "value": 7351.69,
+          "avg_price": 0.6599,
+          "cur_price": 0.6065
+        }
+      ]
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+      "slug": "lol-hle1-t1-2026-09-12-game2",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 3,
+      "total_value": 52422.54,
+      "holders": [
+        {
+          "trader": "FORTNITEMASTER888",
+          "roi": 0.2376,
+          "value": 42776.78,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "48binn",
+          "roi": 0.1602,
+          "value": 7935.97,
+          "avg_price": 0.335,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
+          "roi": 0.3917,
+          "value": 1709.79,
+          "avg_price": 0.5845,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -303,36 +400,6 @@
           "value": 301.38,
           "avg_price": 0.1702,
           "cur_price": 0.195
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3567377.74,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.0673,
-          "value": 3078057.91,
-          "avg_price": 0.9822,
-          "cur_price": 0.9965
-        },
-        {
-          "trader": "TheyAreTakingTheHobitsToIsengard",
-          "roi": 1.2066,
-          "value": 384210.07,
-          "avg_price": 0.9835,
-          "cur_price": 0.9965
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.2237,
-          "value": 105109.76,
-          "avg_price": 0.994,
-          "cur_price": 0.9965
         }
       ]
     }
@@ -1623,14 +1690,14 @@
     "cs2-lgc-mibr-2026-09-12::MIBR": 3,
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "will-anthropic-or-openai-ipo-first::Anthropic": 3,
-    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
-    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
-    "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
+    "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 2,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 2,
+    "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2
   },
-  "updated_at": "2026-09-12T04:48:06.672969+00:00"
+  "updated_at": "2026-09-12T08:53:21.875366+00:00"
 }
