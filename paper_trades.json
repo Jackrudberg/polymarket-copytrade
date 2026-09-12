@@ -29996,7 +29996,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 359711.88,
       "traders": [
@@ -30006,7 +30006,8 @@
         "ArturitoFilito",
         "ic4cream"
       ],
-      "url": "https://polymarket.com/event/epl-liv-ful-2026-09-12-liv"
+      "url": "https://polymarket.com/event/epl-liv-ful-2026-09-12-liv",
+      "consensus_lost_at": "2026-09-12T20:09:02.700769+00:00"
     },
     {
       "signal_id": "epl-che-hul-2026-09-12-che::No",
@@ -30082,7 +30083,57 @@
         "gambamaster"
       ],
       "url": "https://polymarket.com/event/epl-tot-eve-2026-09-12-tot"
+    },
+    {
+      "signal_id": "epl-sun-ars-2026-09-12-ars::No",
+      "market": "Will Arsenal FC win on 2026-09-12?",
+      "slug": "epl-sun-ars-2026-09-12-ars",
+      "side": "No",
+      "alerted_at": "2026-09-12T20:09:02.700769+00:00",
+      "last_seen": "2026-09-12T20:09:02.700769+00:00",
+      "entry_price": 0.505,
+      "current_price": 0.505,
+      "stake": 100.0,
+      "shares": 198.019802,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 231200.3,
+      "traders": [
+        "sbsigner",
+        "jtwyslljy",
+        "gambamaster",
+        "bomber",
+        "matanovik"
+      ],
+      "url": "https://polymarket.com/event/epl-sun-ars-2026-09-12-ars"
+    },
+    {
+      "signal_id": "lal-rea-ray-2026-09-12-rea::No",
+      "market": "Will Real Madrid CF win on 2026-09-12?",
+      "slug": "lal-rea-ray-2026-09-12-rea",
+      "side": "No",
+      "alerted_at": "2026-09-12T20:09:02.700769+00:00",
+      "last_seen": "2026-09-12T20:09:02.700769+00:00",
+      "entry_price": 0.0035,
+      "current_price": 0.0035,
+      "stake": 100.0,
+      "shares": 28571.428571,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2001.55,
+      "traders": [
+        "gambamaster",
+        "sbsigner",
+        "matanovik"
+      ],
+      "url": "https://polymarket.com/event/lal-rea-ray-2026-09-12-rea"
     }
   ],
-  "updated_at": "2026-09-12T17:53:57.601040+00:00"
+  "updated_at": "2026-09-12T20:09:02.700769+00:00"
 }

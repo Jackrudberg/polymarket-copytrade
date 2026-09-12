@@ -1,10 +1,83 @@
 {
   "seen_ids": [
-    "epl-che-hul-2026-09-12-che::No",
-    "sea-laz-mil-2026-09-12-mil::No",
-    "epl-tot-eve-2026-09-12-tot::No"
+    "epl-sun-ars-2026-09-12-ars::No",
+    "lal-rea-ray-2026-09-12-rea::No"
   ],
   "signals": [
+    {
+      "market": "Will Arsenal FC win on 2026-09-12?",
+      "slug": "epl-sun-ars-2026-09-12-ars",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 231200.3,
+      "holders": [
+        {
+          "trader": "sbsigner",
+          "roi": 0.2008,
+          "value": 108898.7,
+          "avg_price": 0.4379,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.367,
+          "value": 68680.17,
+          "avg_price": 0.3867,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "gambamaster",
+          "roi": 0.201,
+          "value": 33213.12,
+          "avg_price": 0.4631,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "bomber",
+          "roi": 0.6295,
+          "value": 11871.29,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.2875,
+          "value": 8537.02,
+          "avg_price": 0.3847,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Will Real Madrid CF win on 2026-09-12?",
+      "slug": "lal-rea-ray-2026-09-12-rea",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 2001.55,
+      "holders": [
+        {
+          "trader": "gambamaster",
+          "roi": 0.201,
+          "value": 1451.46,
+          "avg_price": 0.1399,
+          "cur_price": 0.0035
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.2008,
+          "value": 321.29,
+          "avg_price": 0.1001,
+          "cur_price": 0.0035
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.2875,
+          "value": 228.8,
+          "avg_price": 0.0308,
+          "cur_price": 0.0035
+        }
+      ]
+    },
     {
       "market": "Will Chelsea FC win on 2026-09-12?",
       "slug": "epl-che-hul-2026-09-12-che",
@@ -185,66 +258,6 @@
           "value": 196.88,
           "avg_price": 0.32,
           "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner",
-      "slug": "lol-al-ig1-2026-09-12-game2",
-      "outcome": "Anyone's Legend",
-      "num_traders": 3,
-      "total_value": 50111.09,
-      "holders": [
-        {
-          "trader": "Zywoo123",
-          "roi": 0.2641,
-          "value": 29985,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "-Pain",
-          "roi": 0.1757,
-          "value": 10131.23,
-          "avg_price": 0.493,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.2356,
-          "value": 9994.86,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Anyone's Legend vs Invictus Gaming - Game 4 Winner",
-      "slug": "lol-al-ig1-2026-09-12-game4",
-      "outcome": "Anyone's Legend",
-      "num_traders": 3,
-      "total_value": 21535.81,
-      "holders": [
-        {
-          "trader": "verifly",
-          "roi": 0.2346,
-          "value": 15250,
-          "avg_price": 0.5,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "-Pain",
-          "roi": 0.1757,
-          "value": 5197.3,
-          "avg_price": 0.3797,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "facaigege",
-          "roi": 0.2356,
-          "value": 1088.51,
-          "avg_price": 0.381,
-          "cur_price": 0.305
         }
       ]
     }
@@ -1546,9 +1559,12 @@
     "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 3,
     "cs2-lgc-mibr-2026-09-12::Legacy": 3,
     "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 3,
-    "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 2,
-    "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 2,
-    "epl-liv-ful-2026-09-12-liv::No": 1
+    "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 3,
+    "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 3,
+    "epl-liv-ful-2026-09-12-liv::No": 2,
+    "epl-che-hul-2026-09-12-che::No": 1,
+    "sea-laz-mil-2026-09-12-mil::No": 1,
+    "epl-tot-eve-2026-09-12-tot::No": 1
   },
-  "updated_at": "2026-09-12T17:53:57.628528+00:00"
+  "updated_at": "2026-09-12T20:09:02.727408+00:00"
 }
