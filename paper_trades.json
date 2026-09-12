@@ -11677,7 +11677,7 @@
       "current_value": 101.01,
       "paper_pnl": 1.01,
       "return_percent": 1.01,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1202202.16,
       "traders": [
@@ -11686,7 +11686,7 @@
         "purplegatto"
       ],
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "consensus_lost_at": "2026-08-29T10:45:50.443457+00:00"
+      "consensus_lost_at": "2026-09-12T04:48:06.646823+00:00"
     },
     {
       "signal_id": "lol-lev-red-2026-08-10::Leviatan Esports",
@@ -29854,7 +29854,31 @@
       ],
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
       "consensus_lost_at": "2026-09-12T00:21:21.253094+00:00"
+    },
+    {
+      "signal_id": "lol-hle1-t1-2026-09-12::Hanwha Life Esports",
+      "market": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+      "slug": "lol-hle1-t1-2026-09-12",
+      "side": "Hanwha Life Esports",
+      "alerted_at": "2026-09-12T04:48:06.646823+00:00",
+      "last_seen": "2026-09-12T04:48:06.646823+00:00",
+      "entry_price": 0.605,
+      "current_price": 0.605,
+      "stake": 100.0,
+      "shares": 165.289256,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6476.87,
+      "traders": [
+        "JUSTINHERBERTMVP",
+        "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
+        "0x076daa"
+      ],
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-12"
     }
   ],
-  "updated_at": "2026-09-12T00:21:21.253094+00:00"
+  "updated_at": "2026-09-12T04:48:06.646823+00:00"
 }
