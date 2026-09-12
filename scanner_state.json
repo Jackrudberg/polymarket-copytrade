@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "epl-sun-ars-2026-09-12-ars::No",
-    "lal-rea-ray-2026-09-12-rea::No"
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
   ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 50031.27,
+      "holders": [
+        {
+          "trader": "user098422",
+          "roi": 0.7235,
+          "value": 40717.87,
+          "avg_price": 0.5865,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.3238,
+          "value": 7517.97,
+          "avg_price": 0.2099,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.2996,
+          "value": 1795.43,
+          "avg_price": 0.45,
+          "cur_price": 0.205
+        }
+      ]
+    },
     {
       "market": "Will Arsenal FC win on 2026-09-12?",
       "slug": "epl-sun-ars-2026-09-12-ars",
@@ -214,50 +243,6 @@
           "value": 141.01,
           "avg_price": 0.4699,
           "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Will Liverpool FC win on 2026-09-12?",
-      "slug": "epl-liv-ful-2026-09-12-liv",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 359711.88,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.3503,
-          "value": 202583.68,
-          "avg_price": 0.35,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
-          "roi": 0.2534,
-          "value": 89400.17,
-          "avg_price": 0.35,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "GrizzliesSuck",
-          "roi": 0.2638,
-          "value": 64220,
-          "avg_price": 0.35,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.3107,
-          "value": 3311.15,
-          "avg_price": 0.46,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.428,
-          "value": 196.88,
-          "avg_price": 0.32,
-          "cur_price": 0.845
         }
       ]
     }
@@ -1555,16 +1540,17 @@
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 3,
     "cs2-lgc-mibr-2026-09-12::Legacy": 3,
     "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 3,
     "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 3,
     "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 3,
-    "epl-liv-ful-2026-09-12-liv::No": 2,
-    "epl-che-hul-2026-09-12-che::No": 1,
-    "sea-laz-mil-2026-09-12-mil::No": 1,
-    "epl-tot-eve-2026-09-12-tot::No": 1
+    "epl-liv-ful-2026-09-12-liv::No": 3,
+    "epl-che-hul-2026-09-12-che::No": 2,
+    "sea-laz-mil-2026-09-12-mil::No": 2,
+    "epl-tot-eve-2026-09-12-tot::No": 2,
+    "epl-sun-ars-2026-09-12-ars::No": 1,
+    "lal-rea-ray-2026-09-12-rea::No": 1
   },
-  "updated_at": "2026-09-12T20:09:02.727408+00:00"
+  "updated_at": "2026-09-12T22:16:52.733987+00:00"
 }
