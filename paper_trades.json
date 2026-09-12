@@ -29870,7 +29870,7 @@
       "current_value": 164.79,
       "paper_pnl": 64.79,
       "return_percent": 64.79,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 6476.87,
       "traders": [
@@ -29878,7 +29878,8 @@
         "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738",
         "0x076daa"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-12"
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-12",
+      "consensus_lost_at": "2026-09-12T15:48:54.874901+00:00"
     },
     {
       "signal_id": "cs2-lgc-mibr-2026-09-12::Legacy",
@@ -29894,7 +29895,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 175696.07,
       "traders": [
@@ -29903,7 +29904,8 @@
         "JUSTINHERBERTMVP",
         "cerebralhole"
       ],
-      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-09-12"
+      "url": "https://polymarket.com/event/cs2-lgc-mibr-2026-09-12",
+      "consensus_lost_at": "2026-09-12T15:48:54.874901+00:00"
     },
     {
       "signal_id": "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports",
@@ -29919,7 +29921,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 52422.54,
       "traders": [
@@ -29927,7 +29929,8 @@
         "48binn",
         "0xbbf379252411511ADAb081F016Dc991aA6bbAA3A-1768154730738"
       ],
-      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-12-game2"
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-12-game2",
+      "consensus_lost_at": "2026-09-12T15:48:54.874901+00:00"
     },
     {
       "signal_id": "lol-al-ig1-2026-09-12-game2::Anyone's Legend",
@@ -29976,7 +29979,57 @@
         "facaigege"
       ],
       "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12-game4"
+    },
+    {
+      "signal_id": "epl-liv-ful-2026-09-12-liv::No",
+      "market": "Will Liverpool FC win on 2026-09-12?",
+      "slug": "epl-liv-ful-2026-09-12-liv",
+      "side": "No",
+      "alerted_at": "2026-09-12T15:48:54.874901+00:00",
+      "last_seen": "2026-09-12T15:48:54.874901+00:00",
+      "entry_price": 0.845,
+      "current_price": 0.845,
+      "stake": 100.0,
+      "shares": 118.343195,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 359711.88,
+      "traders": [
+        "BreakTheBank",
+        "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+        "GrizzliesSuck",
+        "ArturitoFilito",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/epl-liv-ful-2026-09-12-liv"
+    },
+    {
+      "signal_id": "epl-che-hul-2026-09-12-che::No",
+      "market": "Will Chelsea FC win on 2026-09-12?",
+      "slug": "epl-che-hul-2026-09-12-che",
+      "side": "No",
+      "alerted_at": "2026-09-12T15:48:54.874901+00:00",
+      "last_seen": "2026-09-12T15:48:54.874901+00:00",
+      "entry_price": 0.695,
+      "current_price": 0.695,
+      "stake": 100.0,
+      "shares": 143.884892,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 190148.25,
+      "traders": [
+        "jtwyslljy",
+        "GrizzliesSuck",
+        "ArturitoFilito"
+      ],
+      "url": "https://polymarket.com/event/epl-che-hul-2026-09-12-che"
     }
   ],
-  "updated_at": "2026-09-12T12:35:23.793655+00:00"
+  "updated_at": "2026-09-12T15:48:54.874901+00:00"
 }

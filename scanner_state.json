@@ -1,9 +1,83 @@
 {
   "seen_ids": [
-    "lol-al-ig1-2026-09-12-game2::Anyone's Legend",
-    "lol-al-ig1-2026-09-12-game4::Anyone's Legend"
+    "epl-liv-ful-2026-09-12-liv::No",
+    "epl-che-hul-2026-09-12-che::No"
   ],
   "signals": [
+    {
+      "market": "Will Liverpool FC win on 2026-09-12?",
+      "slug": "epl-liv-ful-2026-09-12-liv",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 359711.88,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3503,
+          "value": 202583.68,
+          "avg_price": 0.35,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+          "roi": 0.2534,
+          "value": 89400.17,
+          "avg_price": 0.35,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "GrizzliesSuck",
+          "roi": 0.2638,
+          "value": 64220,
+          "avg_price": 0.35,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.3107,
+          "value": 3311.15,
+          "avg_price": 0.46,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.428,
+          "value": 196.88,
+          "avg_price": 0.32,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Will Chelsea FC win on 2026-09-12?",
+      "slug": "epl-che-hul-2026-09-12-che",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 190148.25,
+      "holders": [
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.3044,
+          "value": 102164.99,
+          "avg_price": 0.1999,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "GrizzliesSuck",
+          "roi": 0.2638,
+          "value": 77434.57,
+          "avg_price": 0.2,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.3107,
+          "value": 10548.69,
+          "avg_price": 0.57,
+          "cur_price": 0.695
+        }
+      ]
+    },
     {
       "market": "LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner",
       "slug": "lol-al-ig1-2026-09-12-game2",
@@ -1484,9 +1558,11 @@
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 1,
-    "cs2-lgc-mibr-2026-09-12::Legacy": 1,
-    "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 1
+    "lol-hle1-t1-2026-09-12::Hanwha Life Esports": 2,
+    "cs2-lgc-mibr-2026-09-12::Legacy": 2,
+    "lol-hle1-t1-2026-09-12-game2::Hanwha Life Esports": 2,
+    "lol-al-ig1-2026-09-12-game2::Anyone's Legend": 1,
+    "lol-al-ig1-2026-09-12-game4::Anyone's Legend": 1
   },
-  "updated_at": "2026-09-12T12:35:23.819885+00:00"
+  "updated_at": "2026-09-12T15:48:54.897973+00:00"
 }
