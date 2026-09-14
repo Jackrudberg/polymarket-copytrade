@@ -1,6 +1,169 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "nfl-dal-nyg-2026-09-14-spread-away-3pt5::Giants",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No",
+    "nfl-dal-nyg-2026-09-14-spread-away-2pt5::Giants",
+    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No"
+  ],
   "signals": [
+    {
+      "market": "Spread: Cowboys (-3.5)",
+      "slug": "nfl-dal-nyg-2026-09-14-spread-away-3pt5",
+      "outcome": "Giants",
+      "num_traders": 4,
+      "total_value": 113462.98,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2714,
+          "value": 58779.01,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TKD44",
+          "roi": 0.9041,
+          "value": 44977.49,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.1505,
+          "value": 7076.11,
+          "avg_price": 0.5399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9b1186",
+          "roi": 0.178,
+          "value": 2630.37,
+          "avg_price": 0.7286,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3350195.93,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.1865,
+          "value": 3123299.93,
+          "avg_price": 0.5451,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.6915,
+          "value": 222446.65,
+          "avg_price": 0.4699,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.1505,
+          "value": 4449.35,
+          "avg_price": 0.3654,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 297076.13,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.1865,
+          "value": 187992.24,
+          "avg_price": 0.3532,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.6915,
+          "value": 108592.27,
+          "avg_price": 0.4892,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.1505,
+          "value": 491.62,
+          "avg_price": 0.5432,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cowboys (-2.5)",
+      "slug": "nfl-dal-nyg-2026-09-14-spread-away-2pt5",
+      "outcome": "Giants",
+      "num_traders": 3,
+      "total_value": 261428.43,
+      "holders": [
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2714,
+          "value": 252856.48,
+          "avg_price": 0.43,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9b1186",
+          "roi": 0.178,
+          "value": 6209.13,
+          "avg_price": 0.6105,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1851,
+          "value": 2362.82,
+          "avg_price": 0.43,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 8167.88,
+      "holders": [
+        {
+          "trader": "cosmicxbt",
+          "roi": 0.3294,
+          "value": 5007.97,
+          "avg_price": 0.63,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "neutralwave23",
+          "roi": 0.1505,
+          "value": 2467.99,
+          "avg_price": 0.2835,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.6441,
+          "value": 691.92,
+          "avg_price": 0.7199,
+          "cur_price": 0.705
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -28,80 +191,6 @@
           "value": 1795.43,
           "avg_price": 0.45,
           "cur_price": 0.205
-        }
-      ]
-    },
-    {
-      "market": "Will Arsenal FC win on 2026-09-12?",
-      "slug": "epl-sun-ars-2026-09-12-ars",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 231200.3,
-      "holders": [
-        {
-          "trader": "sbsigner",
-          "roi": 0.2008,
-          "value": 108898.7,
-          "avg_price": 0.4379,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "jtwyslljy",
-          "roi": 0.367,
-          "value": 68680.17,
-          "avg_price": 0.3867,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "gambamaster",
-          "roi": 0.201,
-          "value": 33213.12,
-          "avg_price": 0.4631,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "bomber",
-          "roi": 0.6295,
-          "value": 11871.29,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.2875,
-          "value": 8537.02,
-          "avg_price": 0.3847,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will Real Madrid CF win on 2026-09-12?",
-      "slug": "lal-rea-ray-2026-09-12-rea",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 2001.55,
-      "holders": [
-        {
-          "trader": "gambamaster",
-          "roi": 0.201,
-          "value": 1451.46,
-          "avg_price": 0.1399,
-          "cur_price": 0.0035
-        },
-        {
-          "trader": "sbsigner",
-          "roi": 0.2008,
-          "value": 321.29,
-          "avg_price": 0.1001,
-          "cur_price": 0.0035
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.2875,
-          "value": 228.8,
-          "avg_price": 0.0308,
-          "cur_price": 0.0035
         }
       ]
     }
@@ -988,7 +1077,6 @@
     "will-james-fishback-win-less-than-10-of-votes-in-the-florida-republican-governor-primary-20260701154239340::No": 3,
     "cs2-vit-ts7-2026-08-21::Vitality": 3,
     "cs2-vit-ts7-2026-08-21::Spirit": 3,
-    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 3,
     "will-bitcoin-dip-to-30000-by-december-31-2026-971-191-116-343-999-758-299-813-237::No": 3,
     "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573::No": 3,
     "will-bitcoin-reach-85k-in-august-2026::Yes": 3,
@@ -1393,9 +1481,7 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "will-anthropic-or-openai-ipo-first::Anthropic": 3,
     "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586::No": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
     "fed-rate-hike-by-september-2026-meeting::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
@@ -1408,9 +1494,9 @@
     "epl-che-hul-2026-09-12-che::No": 3,
     "sea-laz-mil-2026-09-12-mil::No": 3,
     "epl-tot-eve-2026-09-12-tot::No": 3,
-    "epl-sun-ars-2026-09-12-ars::No": 2,
-    "lal-rea-ray-2026-09-12-rea::No": 2,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
+    "epl-sun-ars-2026-09-12-ars::No": 3,
+    "lal-rea-ray-2026-09-12-rea::No": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2
   },
-  "updated_at": "2026-09-13T00:03:38.019371+00:00"
+  "updated_at": "2026-09-14T04:39:49.496457+00:00"
 }
