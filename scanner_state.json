@@ -1,9 +1,69 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "fed-rate-hike-by-september-2026-meeting::Yes"
+    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No",
+    "2026-balance-of-power-d-senate-d-house-949::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 163733.02,
+      "holders": [
+        {
+          "trader": "JnStrtPrdctnMrkts",
+          "roi": 0.5973,
+          "value": 157952.29,
+          "avg_price": 0.6945,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "cosmicxbt",
+          "roi": 0.3971,
+          "value": 5079.0,
+          "avg_price": 0.63,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.3941,
+          "value": 701.73,
+          "avg_price": 0.7199,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 143307.45,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.3738,
+          "value": 131250,
+          "avg_price": 0.5,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.4418,
+          "value": 7285.07,
+          "avg_price": 0.4572,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.5926,
+          "value": 4772.38,
+          "avg_price": 0.4898,
+          "cur_price": 0.525
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -165,36 +225,6 @@
           "value": 2362.82,
           "avg_price": 0.43,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 8167.88,
-      "holders": [
-        {
-          "trader": "cosmicxbt",
-          "roi": 0.3294,
-          "value": 5007.97,
-          "avg_price": 0.63,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "neutralwave23",
-          "roi": 0.1505,
-          "value": 2467.99,
-          "avg_price": 0.2835,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Tokor",
-          "roi": 0.6441,
-          "value": 691.92,
-          "avg_price": 0.7199,
-          "cur_price": 0.705
         }
       ]
     }
@@ -1477,7 +1507,6 @@
     "cs2-sin2-ntr-2026-09-11::Nuclear TigeRES": 3,
     "cs2-3dmax-100t-2026-09-11::3DMAX": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
     "cs2-pain-shin-2026-09-11::ShindeN": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
@@ -1500,10 +1529,11 @@
     "epl-sun-ars-2026-09-12-ars::No": 3,
     "lal-rea-ray-2026-09-12-rea::No": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "nfl-dal-nyg-2026-09-14-spread-away-3pt5::Giants": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 1,
-    "nfl-dal-nyg-2026-09-14-spread-away-2pt5::Giants": 1,
-    "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21::No": 1
+    "nfl-dal-nyg-2026-09-14-spread-away-3pt5::Giants": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::No": 2,
+    "nfl-dal-nyg-2026-09-14-spread-away-2pt5::Giants": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 1
   },
-  "updated_at": "2026-09-14T07:04:06.377273+00:00"
+  "updated_at": "2026-09-14T13:57:35.858611+00:00"
 }
