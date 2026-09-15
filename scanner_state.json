@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "clarity-act-signed-into-law-in-2026::No"
+  ],
   "signals": [
+    {
+      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 447182.72,
+      "holders": [
+        {
+          "trader": "321cba",
+          "roi": 1.9394,
+          "value": 346002.46,
+          "avg_price": 0.679,
+          "cur_price": 0.9525
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.7325,
+          "value": 52387.5,
+          "avg_price": 0.7627,
+          "cur_price": 0.9525
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.3096,
+          "value": 48792.76,
+          "avg_price": 0.7942,
+          "cur_price": 0.9525
+        }
+      ]
+    },
     {
       "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
@@ -148,133 +180,6 @@
           "value": 3567.64,
           "avg_price": 0.7499,
           "cur_price": 0.755
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 5623358.92,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.6806,
-          "value": 4077686.03,
-          "avg_price": 0.5886,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4073,
-          "value": 1212425.21,
-          "avg_price": 0.4299,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.1655,
-          "value": 325496.67,
-          "avg_price": 0.3615,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.6854,
-          "value": 7751.01,
-          "avg_price": 0.54,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Fed Rate Hike by September 2026 Meeting?",
-      "slug": "fed-rate-hike-by-september-2026-meeting",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 124980.02,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.6806,
-          "value": 119765.27,
-          "avg_price": 0.4496,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.1655,
-          "value": 4542.7,
-          "avg_price": 0.7995,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.6854,
-          "value": 672.05,
-          "avg_price": 0.62,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "slug": "clarity-act-signed-into-law-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 90111.45,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.6854,
-          "value": 45375,
-          "avg_price": 0.7627,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.8892,
-          "value": 42261.45,
-          "avg_price": 0.7942,
-          "cur_price": 0.825
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4073,
-          "value": 2475.0,
-          "avg_price": 0.7366,
-          "cur_price": 0.825
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 19574.27,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.6854,
-          "value": 13689.68,
-          "avg_price": 0.85,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.4073,
-          "value": 3460.01,
-          "avg_price": 0.8849,
-          "cur_price": 0.865
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.1655,
-          "value": 2424.58,
-          "avg_price": 0.7599,
-          "cur_price": 0.865
         }
       ]
     }
@@ -1583,15 +1488,14 @@
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "mlb-lad-cin-2026-09-14::Cincinnati Reds": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
-    "fed-rate-hike-by-september-2026-meeting::Yes": 2,
-    "clarity-act-signed-into-law-in-2026::No": 2,
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 2,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 1,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 1,
-    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 1,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 1,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 1
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 3,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 2,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 2,
+    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 2,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 2,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 2
   },
-  "updated_at": "2026-09-15T19:01:31.318821+00:00"
+  "updated_at": "2026-09-15T22:08:29.247347+00:00"
 }
