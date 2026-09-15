@@ -1,11 +1,162 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
-    "fed-rate-hike-by-september-2026-meeting::Yes",
-    "clarity-act-signed-into-law-in-2026::No",
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No"
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
+    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No",
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
+    "will-ethereum-reach-3500-by-december-31-2026::No"
   ],
   "signals": [
+    {
+      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 308375.21,
+      "holders": [
+        {
+          "trader": "getbipped",
+          "roi": 0.5185,
+          "value": 144590.25,
+          "avg_price": 0.5957,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.0903,
+          "value": 107076.95,
+          "avg_price": 0.5875,
+          "cur_price": 0.68
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.3754,
+          "value": 56708.01,
+          "avg_price": 0.5765,
+          "cur_price": 0.68
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 87239.42,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.0903,
+          "value": 47132.4,
+          "avg_price": 0.3489,
+          "cur_price": 0.37
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.5185,
+          "value": 28200.08,
+          "avg_price": 0.4171,
+          "cur_price": 0.37
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.3754,
+          "value": 11906.94,
+          "avg_price": 0.3813,
+          "cur_price": 0.37
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 69713.03,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.0903,
+          "value": 31370.59,
+          "avg_price": 0.7552,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "floatingraft",
+          "roi": 1.046,
+          "value": 23579.64,
+          "avg_price": 0.8187,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.3754,
+          "value": 14762.8,
+          "avg_price": 0.7501,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 60908.09,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.0903,
+          "value": 26732.46,
+          "avg_price": 0.192,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "0xf705fa",
+          "roi": 0.3754,
+          "value": 26122.87,
+          "avg_price": 0.2383,
+          "cur_price": 0.215
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.5185,
+          "value": 8052.76,
+          "avg_price": 0.2401,
+          "cur_price": 0.215
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 39581.4,
+      "holders": [
+        {
+          "trader": "0xf705fa",
+          "roi": 0.3754,
+          "value": 24304.93,
+          "avg_price": 0.7987,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.0903,
+          "value": 11708.83,
+          "avg_price": 0.7389,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.5185,
+          "value": 3567.64,
+          "avg_price": 0.7499,
+          "cur_price": 0.755
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
@@ -1030,7 +1181,6 @@
     "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5::Legacy": 3,
     "will-bitcoin-reach-82pt5k-in-august-2026::Yes": 3,
     "putin-out-before-2027-346::No": 3,
-    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
     "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111::No": 3,
     "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959::No": 3,
     "will-bitcoin-reach-80000-by-december-31-2026-from-june-8::Yes": 3,
@@ -1468,7 +1618,11 @@
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "mlb-lad-cin-2026-09-14::Cincinnati Reds": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "fed-rate-hike-by-september-2026-meeting::Yes": 1,
+    "clarity-act-signed-into-law-in-2026::No": 1,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 1
   },
-  "updated_at": "2026-09-15T10:27:42.431339+00:00"
+  "updated_at": "2026-09-15T15:11:28.737553+00:00"
 }

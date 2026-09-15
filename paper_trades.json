@@ -7965,7 +7965,7 @@
       "current_value": 29.41,
       "paper_pnl": -70.59,
       "return_percent": -70.59,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 14848.81,
       "traders": [
@@ -7974,7 +7974,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "consensus_lost_at": "2026-09-14T04:39:49.469749+00:00"
+      "consensus_lost_at": "2026-09-15T15:11:28.716786+00:00"
     },
     {
       "signal_id": "cs2-mouzn-mis-2026-08-03::MOUZ NXT",
@@ -18748,15 +18748,15 @@
       "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
       "side": "No",
       "alerted_at": "2026-08-19T16:44:38.010461+00:00",
-      "last_seen": "2026-08-21T17:59:52.501957+00:00",
+      "last_seen": "2026-09-15T15:11:28.716786+00:00",
       "entry_price": 0.525,
-      "current_price": 0.745,
+      "current_price": 0.805,
       "stake": 100.0,
       "shares": 190.47619,
-      "current_value": 141.9,
-      "paper_pnl": 41.9,
-      "return_percent": 41.9,
-      "status": "CONSENSUS_LOST",
+      "current_value": 153.33,
+      "paper_pnl": 53.33,
+      "return_percent": 53.33,
+      "status": "OPEN",
       "num_traders": 4,
       "combined_value": 333509.47,
       "traders": [
@@ -30189,7 +30189,103 @@
       ],
       "url": "https://polymarket.com/event/mlb-lad-cin-2026-09-14",
       "consensus_lost_at": "2026-09-15T05:36:54.880692+00:00"
+    },
+    {
+      "signal_id": "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
+      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
+      "side": "Yes",
+      "alerted_at": "2026-09-15T15:11:28.716786+00:00",
+      "last_seen": "2026-09-15T15:11:28.716786+00:00",
+      "entry_price": 0.68,
+      "current_price": 0.68,
+      "stake": 100.0,
+      "shares": 147.058824,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 308375.21,
+      "traders": [
+        "getbipped",
+        "Tokor",
+        "0xf705fa"
+      ],
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026"
+    },
+    {
+      "signal_id": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "side": "Yes",
+      "alerted_at": "2026-09-15T15:11:28.716786+00:00",
+      "last_seen": "2026-09-15T15:11:28.716786+00:00",
+      "entry_price": 0.37,
+      "current_price": 0.37,
+      "stake": 100.0,
+      "shares": 270.27027,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 87239.42,
+      "traders": [
+        "Tokor",
+        "getbipped",
+        "0xf705fa"
+      ],
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24"
+    },
+    {
+      "signal_id": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "side": "Yes",
+      "alerted_at": "2026-09-15T15:11:28.716786+00:00",
+      "last_seen": "2026-09-15T15:11:28.716786+00:00",
+      "entry_price": 0.215,
+      "current_price": 0.215,
+      "stake": 100.0,
+      "shares": 465.116279,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 60908.09,
+      "traders": [
+        "Tokor",
+        "0xf705fa",
+        "getbipped"
+      ],
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889"
+    },
+    {
+      "signal_id": "will-ethereum-reach-3500-by-december-31-2026::No",
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "side": "No",
+      "alerted_at": "2026-09-15T15:11:28.716786+00:00",
+      "last_seen": "2026-09-15T15:11:28.716786+00:00",
+      "entry_price": 0.755,
+      "current_price": 0.755,
+      "stake": 100.0,
+      "shares": 132.450331,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 39581.4,
+      "traders": [
+        "0xf705fa",
+        "Tokor",
+        "getbipped"
+      ],
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026"
     }
   ],
-  "updated_at": "2026-09-15T10:27:42.392965+00:00"
+  "updated_at": "2026-09-15T15:11:28.716786+00:00"
 }
