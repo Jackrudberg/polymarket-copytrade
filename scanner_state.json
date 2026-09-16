@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7605.26,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 1.2182,
+          "value": 4217.4,
+          "avg_price": 0.2099,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "0xwise",
+          "roi": 0.1819,
+          "value": 3028.43,
+          "avg_price": 0.1199,
+          "cur_price": 0.115
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.2031,
+          "value": 359.43,
+          "avg_price": 0.2,
+          "cur_price": 0.115
+        }
+      ]
+    },
     {
       "market": "Miami Marlins vs. Arizona Diamondbacks",
       "slug": "mlb-mia-ari-2026-09-15",
@@ -72,66 +104,6 @@
           "value": 135.09,
           "avg_price": 0.2529,
           "cur_price": 0.395
-        }
-      ]
-    },
-    {
-      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "slug": "clarity-act-signed-into-law-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 447182.72,
-      "holders": [
-        {
-          "trader": "321cba",
-          "roi": 1.9321,
-          "value": 346002.46,
-          "avg_price": 0.679,
-          "cur_price": 0.9525
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.7295,
-          "value": 52387.5,
-          "avg_price": 0.7627,
-          "cur_price": 0.9525
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.3029,
-          "value": 48792.76,
-          "avg_price": 0.7942,
-          "cur_price": 0.9525
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 82376.02,
-      "holders": [
-        {
-          "trader": "CoffeeDespiser",
-          "roi": 0.173,
-          "value": 52499.92,
-          "avg_price": 0.2224,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "surfandturf",
-          "roi": 0.1518,
-          "value": 22125.09,
-          "avg_price": 0.5299,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.7295,
-          "value": 7751.01,
-          "avg_price": 0.54,
-          "cur_price": 0.885
         }
       ]
     }
@@ -1439,7 +1411,6 @@
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "mlb-lad-cin-2026-09-14::Cincinnati Reds": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
     "fed-rate-hike-by-september-2026-meeting::Yes": 3,
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
     "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
@@ -1447,10 +1418,10 @@
     "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
     "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
     "will-ethereum-reach-3500-by-december-31-2026::No": 3,
-    "clarity-act-signed-into-law-in-2026::No": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
-    "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 1,
-    "mlb-mia-ari-2026-09-15::Miami Marlins": 1
+    "clarity-act-signed-into-law-in-2026::No": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
+    "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 2,
+    "mlb-mia-ari-2026-09-15::Miami Marlins": 2
   },
-  "updated_at": "2026-09-16T09:50:12.022832+00:00"
+  "updated_at": "2026-09-16T14:24:44.987392+00:00"
 }
