@@ -1,9 +1,83 @@
 {
   "seen_ids": [
-    "clarity-act-signed-into-law-in-2026::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes"
+    "mlb-mia-ari-2026-09-15::Arizona Diamondbacks",
+    "mlb-mia-ari-2026-09-15::Miami Marlins"
   ],
   "signals": [
+    {
+      "market": "Miami Marlins vs. Arizona Diamondbacks",
+      "slug": "mlb-mia-ari-2026-09-15",
+      "outcome": "Arizona Diamondbacks",
+      "num_traders": 5,
+      "total_value": 139549.67,
+      "holders": [
+        {
+          "trader": "pleaseplease123",
+          "roi": 0.1566,
+          "value": 125429.81,
+          "avg_price": 0.5857,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.1621,
+          "value": 9326.77,
+          "avg_price": 0.6342,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "AppleTiime",
+          "roi": 0.5121,
+          "value": 3024.99,
+          "avg_price": 0.5899,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "curie",
+          "roi": 0.186,
+          "value": 1602.64,
+          "avg_price": 0.6571,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "Greedo",
+          "roi": 0.3222,
+          "value": 165.46,
+          "avg_price": 0.5999,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Miami Marlins vs. Arizona Diamondbacks",
+      "slug": "mlb-mia-ari-2026-09-15",
+      "outcome": "Miami Marlins",
+      "num_traders": 3,
+      "total_value": 30570.82,
+      "holders": [
+        {
+          "trader": "Donkey14",
+          "roi": 1.3157,
+          "value": 18809.52,
+          "avg_price": 0.42,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "HMLSF",
+          "roi": 1.4525,
+          "value": 11626.21,
+          "avg_price": 0.4299,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "curie",
+          "roi": 0.186,
+          "value": 135.09,
+          "avg_price": 0.2529,
+          "cur_price": 0.395
+        }
+      ]
+    },
     {
       "market": "Clarity Act (H.R.3633) signed into law in 2026?",
       "slug": "clarity-act-signed-into-law-in-2026",
@@ -1375,7 +1449,9 @@
     "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
     "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
     "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 3
+    "will-ethereum-reach-3500-by-december-31-2026::No": 3,
+    "clarity-act-signed-into-law-in-2026::No": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1
   },
-  "updated_at": "2026-09-16T00:18:21.124244+00:00"
+  "updated_at": "2026-09-16T04:58:50.680215+00:00"
 }
