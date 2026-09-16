@@ -1,23 +1,459 @@
 {
   "seen_ids": [
-    "uel-mil1-ben-2026-09-16-mil1::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes",
+    "will-jd-vance-win-the-2028-us-presidential-election::No",
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
     "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes",
     "clarity-act-signed-into-law-in-2026::Yes",
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::No",
     "will-no-fed-rate-cuts-happen-in-2026::Yes",
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "mlb-bal-nym-2026-09-16::Baltimore Orioles",
     "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
-    "mlb-nyy-min-2026-09-16::Minnesota Twins",
     "will-the-us-invade-iran-before-2027::No",
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes"
   ],
   "signals": [
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 1339651.91,
+      "holders": [
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 701550,
+          "avg_price": 0.5,
+          "cur_price": 0.7795
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.1844,
+          "value": 395761.56,
+          "avg_price": 0.5,
+          "cur_price": 0.7795
+        },
+        {
+          "trader": "ATAKAJr.",
+          "roi": 0.2569,
+          "value": 218955.35,
+          "avg_price": 0.5,
+          "cur_price": 0.7795
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 23385,
+          "avg_price": 0.5,
+          "cur_price": 0.7795
+        }
+      ]
+    },
+    {
+      "market": "Will JD Vance win the 2028 US Presidential Election?",
+      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 378952.21,
+      "holders": [
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 198450,
+          "avg_price": 0.5,
+          "cur_price": 0.2205
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.1844,
+          "value": 111950.51,
+          "avg_price": 0.5,
+          "cur_price": 0.2205
+        },
+        {
+          "trader": "ATAKAJr.",
+          "roi": 0.2569,
+          "value": 61936.7,
+          "avg_price": 0.5,
+          "cur_price": 0.2205
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 6615.0,
+          "avg_price": 0.4999,
+          "cur_price": 0.2205
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 119805.29,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 115045.09,
+          "avg_price": 0.4381,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 3447.61,
+          "avg_price": 0.3699,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1481,
+          "value": 957.21,
+          "avg_price": 0.15,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "ratehikes",
+          "roi": 0.2799,
+          "value": 355.38,
+          "avg_price": 0.2999,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 78373.99,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 45041.88,
+          "avg_price": 0.8799,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 15785.89,
+          "avg_price": 0.8527,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.343,
+          "value": 14006.21,
+          "avg_price": 0.85,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 3540.01,
+          "avg_price": 0.8849,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 49144.81,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.343,
+          "value": 32081.84,
+          "avg_price": 0.86,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 9487.01,
+          "avg_price": 0.7683,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 5805.94,
+          "avg_price": 0.8799,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 1770.02,
+          "avg_price": 0.8833,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 43770.92,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.1567,
+          "value": 34329.73,
+          "avg_price": 0.1127,
+          "cur_price": 0.0665
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.1844,
+          "value": 6247.77,
+          "avg_price": 0.1356,
+          "cur_price": 0.0665
+        },
+        {
+          "trader": "laIaIalala",
+          "roi": 0.2922,
+          "value": 2745.14,
+          "avg_price": 0.1499,
+          "cur_price": 0.0665
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 448.28,
+          "avg_price": 0.1299,
+          "cur_price": 0.0665
+        }
+      ]
+    },
+    {
+      "market": "Will Anthropic IPO by December 31, 2026?",
+      "slug": "will-anthropic-ipo-by-december-31-2026-546-128-719",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 26526.31,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1481,
+          "value": 17099.97,
+          "avg_price": 0.8849,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "balthazar",
+          "roi": 2.1105,
+          "value": 6109.77,
+          "avg_price": 0.8463,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 2025.96,
+          "avg_price": 0.9037,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 1290.61,
+          "avg_price": 0.9299,
+          "cur_price": 0.855
+        }
+      ]
+    },
+    {
+      "market": "Will no Fed rate cuts happen in 2026?",
+      "slug": "will-no-fed-rate-cuts-happen-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 612072.52,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1481,
+          "value": 562946.25,
+          "avg_price": 0.7931,
+          "cur_price": 0.9485
+        },
+        {
+          "trader": "ratehikes",
+          "roi": 0.2799,
+          "value": 37259.49,
+          "avg_price": 0.6073,
+          "cur_price": 0.9485
+        },
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 11866.78,
+          "avg_price": 0.0771,
+          "cur_price": 0.9485
+        }
+      ]
+    },
+    {
+      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 262085.92,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1481,
+          "value": 255797.63,
+          "avg_price": 0.602,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 5353.79,
+          "avg_price": 0.5552,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "balthazar",
+          "roi": 2.1105,
+          "value": 934.5,
+          "avg_price": 0.0312,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Baltimore Orioles vs. New York Mets",
+      "slug": "mlb-bal-nym-2026-09-16",
+      "outcome": "Baltimore Orioles",
+      "num_traders": 3,
+      "total_value": 240871.16,
+      "holders": [
+        {
+          "trader": "SharkbetX-com",
+          "roi": 0.2153,
+          "value": 104782.4,
+          "avg_price": 0.4799,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Elaran1993",
+          "roi": 0.2006,
+          "value": 90173.48,
+          "avg_price": 0.6099,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "SDTrading",
+          "roi": 0.4277,
+          "value": 45915.28,
+          "avg_price": 0.4727,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 90491.39,
+      "holders": [
+        {
+          "trader": "foodenjoyer",
+          "roi": 0.5337,
+          "value": 52310.18,
+          "avg_price": 0.4151,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2099,
+          "value": 38074.75,
+          "avg_price": 0.4657,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.1844,
+          "value": 106.46,
+          "avg_price": 0.4602,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 37220.03,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.1567,
+          "value": 20520.03,
+          "avg_price": 0.7063,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "ArmageddonRewardsBilly",
+          "roi": 0.3033,
+          "value": 12525.0,
+          "avg_price": 0.83,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.1481,
+          "value": 4175,
+          "avg_price": 0.73,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 28799.2,
+      "holders": [
+        {
+          "trader": "ethBELIVER",
+          "roi": 0.1844,
+          "value": 15077.57,
+          "avg_price": 0.6973,
+          "cur_price": 0.841
+        },
+        {
+          "trader": "balthazar",
+          "roi": 2.1105,
+          "value": 12796.98,
+          "avg_price": 0.7623,
+          "cur_price": 0.841
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.1567,
+          "value": 924.65,
+          "avg_price": 0.2938,
+          "cur_price": 0.841
+        }
+      ]
+    },
     {
       "market": "Will AC Milan win on 2026-09-16?",
       "slug": "uel-mil1-ben-2026-09-16-mil1",
@@ -156,311 +592,6 @@
       ]
     },
     {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 119805.29,
-      "holders": [
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 115045.09,
-          "avg_price": 0.4381,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.5533,
-          "value": 3447.61,
-          "avg_price": 0.3699,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.1407,
-          "value": 957.21,
-          "avg_price": 0.15,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "ratehikes",
-          "roi": 0.2782,
-          "value": 355.38,
-          "avg_price": 0.2999,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 78373.99,
-      "holders": [
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 45041.88,
-          "avg_price": 0.8799,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.5533,
-          "value": 15785.89,
-          "avg_price": 0.8527,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3869,
-          "value": 14006.21,
-          "avg_price": 0.85,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 3540.01,
-          "avg_price": 0.8849,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 50634.78,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.3869,
-          "value": 32081.84,
-          "avg_price": 0.86,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.5533,
-          "value": 9487.01,
-          "avg_price": 0.7683,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 5805.94,
-          "avg_price": 0.8799,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 3259.99,
-          "avg_price": 0.8833,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
-      "slug": "clarity-act-signed-into-law-in-2026",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 43441.81,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.1524,
-          "value": 34071.61,
-          "avg_price": 0.1127,
-          "cur_price": 0.066
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.1829,
-          "value": 6200.79,
-          "avg_price": 0.1356,
-          "cur_price": 0.066
-        },
-        {
-          "trader": "laIaIalala",
-          "roi": 0.2934,
-          "value": 2724.5,
-          "avg_price": 0.1499,
-          "cur_price": 0.066
-        },
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 444.91,
-          "avg_price": 0.1299,
-          "cur_price": 0.066
-        }
-      ]
-    },
-    {
-      "market": "Will Anthropic IPO by December 31, 2026?",
-      "slug": "will-anthropic-ipo-by-december-31-2026-546-128-719",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 26060.95,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.1407,
-          "value": 16799.98,
-          "avg_price": 0.8849,
-          "cur_price": 0.84
-        },
-        {
-          "trader": "balthazar",
-          "roi": 2.2139,
-          "value": 6002.58,
-          "avg_price": 0.8463,
-          "cur_price": 0.84
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 1990.42,
-          "avg_price": 0.9037,
-          "cur_price": 0.84
-        },
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 1267.97,
-          "avg_price": 0.9299,
-          "cur_price": 0.84
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 638101.91,
-      "holders": [
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.1829,
-          "value": 395761.56,
-          "avg_price": 0.5,
-          "cur_price": 0.7795
-        },
-        {
-          "trader": "ATAKAJr.",
-          "roi": 0.2569,
-          "value": 218955.35,
-          "avg_price": 0.5,
-          "cur_price": 0.7795
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 23385,
-          "avg_price": 0.5,
-          "cur_price": 0.7795
-        }
-      ]
-    },
-    {
-      "market": "Will no Fed rate cuts happen in 2026?",
-      "slug": "will-no-fed-rate-cuts-happen-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 611749.86,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.1407,
-          "value": 562649.49,
-          "avg_price": 0.7931,
-          "cur_price": 0.948
-        },
-        {
-          "trader": "ratehikes",
-          "roi": 0.2782,
-          "value": 37239.85,
-          "avg_price": 0.6073,
-          "cur_price": 0.948
-        },
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.5533,
-          "value": 11860.52,
-          "avg_price": 0.0771,
-          "cur_price": 0.948
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 262085.92,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.1407,
-          "value": 255797.63,
-          "avg_price": 0.602,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 5353.79,
-          "avg_price": 0.5552,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "balthazar",
-          "roi": 2.2139,
-          "value": 934.5,
-          "avg_price": 0.0312,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Will JD Vance win the 2028 US Presidential Election?",
-      "slug": "will-jd-vance-win-the-2028-us-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 180502.21,
-      "holders": [
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.1829,
-          "value": 111950.51,
-          "avg_price": 0.5,
-          "cur_price": 0.2205
-        },
-        {
-          "trader": "ATAKAJr.",
-          "roi": 0.2569,
-          "value": 61936.7,
-          "avg_price": 0.5,
-          "cur_price": 0.2205
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 6615.0,
-          "avg_price": 0.4999,
-          "cur_price": 0.2205
-        }
-      ]
-    },
-    {
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "2026-balance-of-power-d-senate-d-house-949",
       "outcome": "Yes",
@@ -487,36 +618,6 @@
           "value": 8395.18,
           "avg_price": 0.4572,
           "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 79663.81,
-      "holders": [
-        {
-          "trader": "foodenjoyer",
-          "roi": 0.5533,
-          "value": 40661.49,
-          "avg_price": 0.3979,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2088,
-          "value": 38893.57,
-          "avg_price": 0.4657,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.1829,
-          "value": 108.75,
-          "avg_price": 0.4602,
-          "cur_price": 0.475
         }
       ]
     },
@@ -551,66 +652,6 @@
       ]
     },
     {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 37220.03,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.1524,
-          "value": 20520.03,
-          "avg_price": 0.7063,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "ArmageddonRewardsBilly",
-          "roi": 0.3063,
-          "value": 12525.0,
-          "avg_price": 0.83,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.1407,
-          "value": 4175,
-          "avg_price": 0.73,
-          "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-      "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 28799.2,
-      "holders": [
-        {
-          "trader": "ethBELIVER",
-          "roi": 0.1829,
-          "value": 15077.57,
-          "avg_price": 0.6973,
-          "cur_price": 0.841
-        },
-        {
-          "trader": "balthazar",
-          "roi": 2.2139,
-          "value": 12796.98,
-          "avg_price": 0.7623,
-          "cur_price": 0.841
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.1524,
-          "value": 924.65,
-          "avg_price": 0.2938,
-          "cur_price": 0.841
-        }
-      ]
-    },
-    {
       "market": "Chicago White Sox vs. Cleveland Guardians",
       "slug": "mlb-cws-cle-2026-09-16",
       "outcome": "Cleveland Guardians",
@@ -637,36 +678,6 @@
           "value": 14152.55,
           "avg_price": 0.59,
           "cur_price": 0.835
-        }
-      ]
-    },
-    {
-      "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7605.26,
-      "holders": [
-        {
-          "trader": "SDTrading",
-          "roi": 1.2182,
-          "value": 4217.4,
-          "avg_price": 0.2099,
-          "cur_price": 0.115
-        },
-        {
-          "trader": "0xwise",
-          "roi": 0.1819,
-          "value": 3028.43,
-          "avg_price": 0.1199,
-          "cur_price": 0.115
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2031,
-          "value": 359.43,
-          "avg_price": 0.2,
-          "cur_price": 0.115
         }
       ]
     }
@@ -1972,8 +1983,12 @@
     "clarity-act-signed-into-law-in-2026::No": 3,
     "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 3,
     "mlb-mia-ari-2026-09-15::Miami Marlins": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 2,
-    "mlb-cws-cle-2026-09-16::Cleveland Guardians": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
+    "mlb-cws-cle-2026-09-16::Cleveland Guardians": 2,
+    "uel-mil1-ben-2026-09-16-mil1::No": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "mlb-nyy-min-2026-09-16::Minnesota Twins": 1
   },
-  "updated_at": "2026-09-16T21:27:06.335458+00:00"
+  "updated_at": "2026-09-16T23:45:53.459049+00:00"
 }
