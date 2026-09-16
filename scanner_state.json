@@ -1,8 +1,69 @@
 {
   "seen_ids": [
-    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes"
+    "mlb-cws-cle-2026-09-16::Cleveland Guardians",
+    "mlb-nyy-min-2026-09-16::Minnesota Twins"
   ],
   "signals": [
+    {
+      "market": "Chicago White Sox vs. Cleveland Guardians",
+      "slug": "mlb-cws-cle-2026-09-16",
+      "outcome": "Cleveland Guardians",
+      "num_traders": 3,
+      "total_value": 125438.6,
+      "holders": [
+        {
+          "trader": "xifutloong3",
+          "roi": 0.7753,
+          "value": 67338.71,
+          "avg_price": 0.6221,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "Donkey14",
+          "roi": 0.4103,
+          "value": 43947.34,
+          "avg_price": 0.62,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "SharkbetX-com",
+          "roi": 0.5339,
+          "value": 14152.55,
+          "avg_price": 0.59,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "New York Yankees vs. Minnesota Twins",
+      "slug": "mlb-nyy-min-2026-09-16",
+      "outcome": "Minnesota Twins",
+      "num_traders": 3,
+      "total_value": 66297.25,
+      "holders": [
+        {
+          "trader": "SDTrading",
+          "roi": 0.3715,
+          "value": 31500,
+          "avg_price": 0.41,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Donkey14",
+          "roi": 0.4103,
+          "value": 25609.75,
+          "avg_price": 0.41,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5709,
+          "value": 9187.5,
+          "avg_price": 0.38,
+          "cur_price": 0.525
+        }
+      ]
+    },
     {
       "market": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
@@ -30,80 +91,6 @@
           "value": 359.43,
           "avg_price": 0.2,
           "cur_price": 0.115
-        }
-      ]
-    },
-    {
-      "market": "Miami Marlins vs. Arizona Diamondbacks",
-      "slug": "mlb-mia-ari-2026-09-15",
-      "outcome": "Arizona Diamondbacks",
-      "num_traders": 5,
-      "total_value": 139549.67,
-      "holders": [
-        {
-          "trader": "pleaseplease123",
-          "roi": 0.1566,
-          "value": 125429.81,
-          "avg_price": 0.5857,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "kkookkoo",
-          "roi": 0.1621,
-          "value": 9326.77,
-          "avg_price": 0.6342,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "AppleTiime",
-          "roi": 0.5121,
-          "value": 3024.99,
-          "avg_price": 0.5899,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "curie",
-          "roi": 0.186,
-          "value": 1602.64,
-          "avg_price": 0.6571,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "Greedo",
-          "roi": 0.3222,
-          "value": 165.46,
-          "avg_price": 0.5999,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Miami Marlins vs. Arizona Diamondbacks",
-      "slug": "mlb-mia-ari-2026-09-15",
-      "outcome": "Miami Marlins",
-      "num_traders": 3,
-      "total_value": 30570.82,
-      "holders": [
-        {
-          "trader": "Donkey14",
-          "roi": 1.3157,
-          "value": 18809.52,
-          "avg_price": 0.42,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "HMLSF",
-          "roi": 1.4525,
-          "value": 11626.21,
-          "avg_price": 0.4299,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "curie",
-          "roi": 0.186,
-          "value": 135.09,
-          "avg_price": 0.2529,
-          "cur_price": 0.395
         }
       ]
     }
@@ -1420,8 +1407,9 @@
     "will-ethereum-reach-3500-by-december-31-2026::No": 3,
     "clarity-act-signed-into-law-in-2026::No": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 2,
-    "mlb-mia-ari-2026-09-15::Miami Marlins": 2
+    "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 3,
+    "mlb-mia-ari-2026-09-15::Miami Marlins": 3,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 1
   },
-  "updated_at": "2026-09-16T14:24:44.987392+00:00"
+  "updated_at": "2026-09-16T18:19:05.339846+00:00"
 }
