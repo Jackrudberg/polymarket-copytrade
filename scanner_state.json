@@ -1,20 +1,38 @@
 {
   "seen_ids": [
-    "will-jd-vance-win-the-2028-us-presidential-election::No",
-    "will-jd-vance-win-the-2028-us-presidential-election::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No",
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes",
-    "clarity-act-signed-into-law-in-2026::Yes",
-    "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes",
-    "will-no-fed-rate-cuts-happen-in-2026::Yes",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "mlb-bal-nym-2026-09-16::Baltimore Orioles",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
-    "will-the-us-invade-iran-before-2027::No",
-    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes"
+    "wta-marista-ribera-2026-09-16::Marina Bassols Ribera"
   ],
   "signals": [
+    {
+      "market": "Valencia: Guiomar Maristany vs Marina Bassols Ribera",
+      "slug": "wta-marista-ribera-2026-09-16",
+      "outcome": "Marina Bassols Ribera",
+      "num_traders": 3,
+      "total_value": 23431.78,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.2279,
+          "value": 15410.44,
+          "avg_price": 0.4475,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "HMLSF",
+          "roi": 0.4355,
+          "value": 7852.0,
+          "avg_price": 0.1899,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "tradecraft",
+          "roi": 0.3575,
+          "value": 169.34,
+          "avg_price": 0.3218,
+          "cur_price": 0.395
+        }
+      ]
+    },
     {
       "market": "Will JD Vance win the 2028 US Presidential Election?",
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
@@ -648,36 +666,6 @@
           "value": 9584.52,
           "avg_price": 0.38,
           "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Cleveland Guardians",
-      "slug": "mlb-cws-cle-2026-09-16",
-      "outcome": "Cleveland Guardians",
-      "num_traders": 3,
-      "total_value": 125438.6,
-      "holders": [
-        {
-          "trader": "xifutloong3",
-          "roi": 0.7753,
-          "value": 67338.71,
-          "avg_price": 0.6221,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "Donkey14",
-          "roi": 0.4103,
-          "value": 43947.34,
-          "avg_price": 0.62,
-          "cur_price": 0.835
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.5339,
-          "value": 14152.55,
-          "avg_price": 0.59,
-          "cur_price": 0.835
         }
       ]
     }
@@ -1984,11 +1972,24 @@
     "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 3,
     "mlb-mia-ari-2026-09-15::Miami Marlins": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615::Yes": 3,
-    "mlb-cws-cle-2026-09-16::Cleveland Guardians": 2,
-    "uel-mil1-ben-2026-09-16-mil1::No": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 1,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
-    "mlb-nyy-min-2026-09-16::Minnesota Twins": 1
+    "mlb-cws-cle-2026-09-16::Cleveland Guardians": 3,
+    "uel-mil1-ben-2026-09-16-mil1::No": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 2,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
+    "mlb-nyy-min-2026-09-16::Minnesota Twins": 2,
+    "will-jd-vance-win-the-2028-us-presidential-election::No": 1,
+    "will-jd-vance-win-the-2028-us-presidential-election::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 1,
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 1,
+    "clarity-act-signed-into-law-in-2026::Yes": 1,
+    "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 1,
+    "will-no-fed-rate-cuts-happen-in-2026::Yes": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "mlb-bal-nym-2026-09-16::Baltimore Orioles": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
+    "will-the-us-invade-iran-before-2027::No": 1,
+    "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 1
   },
-  "updated_at": "2026-09-16T23:45:53.459049+00:00"
+  "updated_at": "2026-09-17T01:46:44.984620+00:00"
 }
