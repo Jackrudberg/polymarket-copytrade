@@ -1,35 +1,66 @@
 {
   "seen_ids": [
+    "cs2-mgc-mibr-2026-09-18::MIBR",
     "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
+      "slug": "cs2-mgc-mibr-2026-09-18",
+      "outcome": "MIBR",
+      "num_traders": 3,
+      "total_value": 106699.48,
+      "holders": [
+        {
+          "trader": "Ancient-Strike",
+          "roi": 0.1883,
+          "value": 86523.7,
+          "avg_price": 0.6815,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "jaytee158",
+          "roi": 0.7486,
+          "value": 20064.93,
+          "avg_price": 0.7099,
+          "cur_price": 0.855
+        },
+        {
+          "trader": "Feromont",
+          "roi": 2.6303,
+          "value": 110.85,
+          "avg_price": 0.6974,
+          "cur_price": 0.855
+        }
+      ]
+    },
     {
       "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
       "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 4658.4,
+      "total_value": 4665.96,
       "holders": [
         {
           "trader": "donthackme",
-          "roi": 0.4952,
-          "value": 1739.59,
+          "roi": 0.4336,
+          "value": 1742.41,
           "avg_price": 0.0312,
-          "cur_price": 0.9245
+          "cur_price": 0.926
         },
         {
           "trader": "balthazar",
-          "roi": 1.0155,
-          "value": 1482.45,
+          "roi": 0.8044,
+          "value": 1484.86,
           "avg_price": 0.4124,
-          "cur_price": 0.9245
+          "cur_price": 0.926
         },
         {
           "trader": "Nooserac",
-          "roi": 0.3048,
-          "value": 1436.36,
+          "roi": 0.3843,
+          "value": 1438.69,
           "avg_price": 0.58,
-          "cur_price": 0.9245
+          "cur_price": 0.926
         }
       ]
     }
@@ -1367,5 +1398,5 @@
     "cs2-furia-mibr-2026-09-17::FURIA": 3,
     "uel-rso-bou-2026-09-17-bou::Yes": 3
   },
-  "updated_at": "2026-09-18T10:04:53.031921+00:00"
+  "updated_at": "2026-09-18T14:28:03.281085+00:00"
 }
