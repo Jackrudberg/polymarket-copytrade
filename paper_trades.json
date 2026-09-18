@@ -30612,7 +30612,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 62975.48,
       "traders": [
@@ -30620,7 +30620,8 @@
         "fRibrenlc",
         "XANTARESPEEK"
       ],
-      "url": "https://polymarket.com/event/cs2-furia-mibr-2026-09-17"
+      "url": "https://polymarket.com/event/cs2-furia-mibr-2026-09-17",
+      "consensus_lost_at": "2026-09-18T00:58:21.618523+00:00"
     },
     {
       "signal_id": "uel-rso-bou-2026-09-17-bou::Yes",
@@ -30647,5 +30648,5 @@
       "url": "https://polymarket.com/event/uel-rso-bou-2026-09-17-bou"
     }
   ],
-  "updated_at": "2026-09-17T22:53:32.226593+00:00"
+  "updated_at": "2026-09-18T00:58:21.618523+00:00"
 }
