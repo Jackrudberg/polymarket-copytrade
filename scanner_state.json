@@ -1,9 +1,69 @@
 {
   "seen_ids": [
-    "cs2-nrg-aur1-2026-09-18::Aurora Gaming",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes",
+    "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4665.96,
+      "holders": [
+        {
+          "trader": "donthackme",
+          "roi": 0.4415,
+          "value": 1742.41,
+          "avg_price": 0.0312,
+          "cur_price": 0.926
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.3248,
+          "value": 1484.86,
+          "avg_price": 0.4124,
+          "cur_price": 0.926
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2354,
+          "value": 1438.69,
+          "avg_price": 0.58,
+          "cur_price": 0.926
+        }
+      ]
+    },
+    {
+      "market": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+      "slug": "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2101.25,
+      "holders": [
+        {
+          "trader": "balthazar",
+          "roi": 0.3248,
+          "value": 1556,
+          "avg_price": 0.0303,
+          "cur_price": 0.9725
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.4415,
+          "value": 380.34,
+          "avg_price": 0.0303,
+          "cur_price": 0.9725
+        },
+        {
+          "trader": "Lucerys",
+          "roi": 0.1571,
+          "value": 164.91,
+          "avg_price": 0.0303,
+          "cur_price": 0.9725
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: NRG vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs",
       "slug": "cs2-nrg-aur1-2026-09-18",
@@ -31,36 +91,6 @@
           "value": 199.5,
           "avg_price": 0.8332,
           "cur_price": 0.8135
-        }
-      ]
-    },
-    {
-      "market": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
-      "slug": "will-kimi-antonelli-be-the-2026-f1-drivers-champion",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 4665.96,
-      "holders": [
-        {
-          "trader": "donthackme",
-          "roi": 0.3171,
-          "value": 1742.41,
-          "avg_price": 0.0312,
-          "cur_price": 0.926
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.5359,
-          "value": 1484.86,
-          "avg_price": 0.4124,
-          "cur_price": 0.926
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.3284,
-          "value": 1438.69,
-          "avg_price": 0.58,
-          "cur_price": 0.926
         }
       ]
     },
@@ -1427,7 +1457,8 @@
     "cs2-lg6-nip-2026-09-17::Luminosity": 3,
     "cs2-furia-mibr-2026-09-17::FURIA": 3,
     "uel-rso-bou-2026-09-17-bou::Yes": 3,
-    "cs2-mgc-mibr-2026-09-18::MIBR": 1
+    "cs2-mgc-mibr-2026-09-18::MIBR": 2,
+    "cs2-nrg-aur1-2026-09-18::Aurora Gaming": 1
   },
-  "updated_at": "2026-09-18T17:49:48.350005+00:00"
+  "updated_at": "2026-09-18T20:01:37.502034+00:00"
 }
