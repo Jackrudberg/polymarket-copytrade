@@ -30916,7 +30916,7 @@
       "current_value": 166.67,
       "paper_pnl": 66.67,
       "return_percent": 66.67,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 40824.27,
       "traders": [
@@ -30925,7 +30925,8 @@
         "Zzzz87",
         "0x29b52d98ac9ef9414b04164246c95BC63d7"
       ],
-      "url": "https://polymarket.com/event/cs2-aur1-vit-2026-09-19"
+      "url": "https://polymarket.com/event/cs2-aur1-vit-2026-09-19",
+      "consensus_lost_at": "2026-09-19T23:09:06.143968+00:00"
     },
     {
       "signal_id": "fl1-pfc-str-2026-09-19-pfc::Yes",
@@ -30958,7 +30959,7 @@
       "slug": "nfl-cin-hou-2026-09-20",
       "side": "Bengals",
       "alerted_at": "2026-09-19T21:12:00.372702+00:00",
-      "last_seen": "2026-09-19T21:12:00.372702+00:00",
+      "last_seen": "2026-09-19T23:09:06.143968+00:00",
       "entry_price": 0.415,
       "current_price": 0.415,
       "stake": 100.0,
@@ -30975,7 +30976,31 @@
         "Endgametheory"
       ],
       "url": "https://polymarket.com/event/nfl-cin-hou-2026-09-20"
+    },
+    {
+      "signal_id": "cfb-lsu-miss-2026-09-19::Ole Miss",
+      "market": "LSU vs. Ole Miss",
+      "slug": "cfb-lsu-miss-2026-09-19",
+      "side": "Ole Miss",
+      "alerted_at": "2026-09-19T23:09:06.143968+00:00",
+      "last_seen": "2026-09-19T23:09:06.143968+00:00",
+      "entry_price": 0.425,
+      "current_price": 0.425,
+      "stake": 100.0,
+      "shares": 235.294118,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 64364.71,
+      "traders": [
+        "Kch-Temp",
+        "justwins",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/cfb-lsu-miss-2026-09-19"
     }
   ],
-  "updated_at": "2026-09-19T21:12:00.372702+00:00"
+  "updated_at": "2026-09-19T23:09:06.143968+00:00"
 }
