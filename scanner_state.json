@@ -1,12 +1,38 @@
 {
   "seen_ids": [
-    "epl-new-hul-2026-09-19-new::Yes",
-    "epl-bri-ars-2026-09-19-ars::No",
-    "lol-kc-mkoi-2026-09-19::Karmine Corp",
-    "cs2-aur1-vit-2026-09-19::Vitality",
-    "fl1-pfc-str-2026-09-19-pfc::Yes"
+    "cs2-aur1-vit-2026-09-19::Vitality"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
+      "slug": "cs2-aur1-vit-2026-09-19",
+      "outcome": "Vitality",
+      "num_traders": 3,
+      "total_value": 65460.6,
+      "holders": [
+        {
+          "trader": "Ancient-Strike",
+          "roi": 0.2197,
+          "value": 52000,
+          "avg_price": 0.75,
+          "cur_price": 0.65
+        },
+        {
+          "trader": "0xe2D0f0580716E47979206dcFF5220695e7967BbF-1763023416239",
+          "roi": 0.1908,
+          "value": 11163.75,
+          "avg_price": 0.5099,
+          "cur_price": 0.65
+        },
+        {
+          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+          "roi": 0.385,
+          "value": 2296.85,
+          "avg_price": 0.7399,
+          "cur_price": 0.65
+        }
+      ]
+    },
     {
       "market": "Will Newcastle United FC win on 2026-09-19?",
       "slug": "epl-new-hul-2026-09-19-new",
@@ -115,43 +141,6 @@
           "value": 7632.02,
           "avg_price": 0.74,
           "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
-      "slug": "cs2-aur1-vit-2026-09-19",
-      "outcome": "Vitality",
-      "num_traders": 4,
-      "total_value": 40824.27,
-      "holders": [
-        {
-          "trader": "Ancient-Strike",
-          "roi": 0.2244,
-          "value": 31200,
-          "avg_price": 0.75,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "0xe2D0f0580716E47979206dcFF5220695e7967BbF-1763023416239",
-          "roi": 0.1977,
-          "value": 6698.25,
-          "avg_price": 0.5099,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1764,
-          "value": 1547.91,
-          "avg_price": 0.7699,
-          "cur_price": 0.39
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.4791,
-          "value": 1378.11,
-          "avg_price": 0.7399,
-          "cur_price": 0.39
         }
       ]
     },
@@ -1644,9 +1633,13 @@
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::No": 3,
     "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "mlb-sf-lad-2026-09-18::Los Angeles Dodgers": 3,
-    "lol-ig1-jdg-2026-09-19-game2::Invictus Gaming": 1,
-    "lol-ig1-jdg-2026-09-19-game3::JD Gaming": 1,
-    "lol-ig1-jdg-2026-09-19::Invictus Gaming": 1
+    "lol-ig1-jdg-2026-09-19-game2::Invictus Gaming": 2,
+    "lol-ig1-jdg-2026-09-19-game3::JD Gaming": 2,
+    "lol-ig1-jdg-2026-09-19::Invictus Gaming": 2,
+    "epl-new-hul-2026-09-19-new::Yes": 1,
+    "epl-bri-ars-2026-09-19-ars::No": 1,
+    "lol-kc-mkoi-2026-09-19::Karmine Corp": 1,
+    "fl1-pfc-str-2026-09-19-pfc::Yes": 1
   },
-  "updated_at": "2026-09-19T16:34:25.847909+00:00"
+  "updated_at": "2026-09-19T18:52:09.409565+00:00"
 }
