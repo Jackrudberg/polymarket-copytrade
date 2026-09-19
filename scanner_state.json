@@ -1,11 +1,107 @@
 {
   "seen_ids": [
-    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes"
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::No",
+    "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
+    "mlb-sf-lad-2026-09-18::Los Angeles Dodgers"
   ],
   "signals": [
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 91257.91,
+      "holders": [
+        {
+          "trader": "LEONIDOVITCH1983",
+          "roi": 0.2398,
+          "value": 42400.01,
+          "avg_price": 0.2198,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "Putin228",
+          "roi": 0.3333,
+          "value": 23016.63,
+          "avg_price": 0.2448,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.4692,
+          "value": 19874.0,
+          "avg_price": 0.2893,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "harpoontrading",
+          "roi": 0.3494,
+          "value": 5967.27,
+          "avg_price": 0.1799,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 84136.1,
+      "holders": [
+        {
+          "trader": "harpoontrading",
+          "roi": 0.3494,
+          "value": 62639.86,
+          "avg_price": 0.1782,
+          "cur_price": 0.2435
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.4692,
+          "value": 14022.97,
+          "avg_price": 0.2068,
+          "cur_price": 0.2435
+        },
+        {
+          "trader": "Putin228",
+          "roi": 0.3333,
+          "value": 7473.27,
+          "avg_price": 0.1995,
+          "cur_price": 0.2435
+        }
+      ]
+    },
+    {
+      "market": "San Francisco Giants vs. Los Angeles Dodgers",
+      "slug": "mlb-sf-lad-2026-09-18",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 19000.1,
+      "holders": [
+        {
+          "trader": "printmon",
+          "roi": 0.2099,
+          "value": 14642.67,
+          "avg_price": 0.9115,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "unknowngambler",
+          "roi": 0.4936,
+          "value": 4244.88,
+          "avg_price": 0.9099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.1885,
+          "value": 112.55,
+          "avg_price": 0.8391,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
       "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
@@ -123,36 +219,6 @@
           "value": 1437.91,
           "avg_price": 0.58,
           "cur_price": 0.9255
-        }
-      ]
-    },
-    {
-      "market": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-      "slug": "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2101.25,
-      "holders": [
-        {
-          "trader": "balthazar",
-          "roi": 0.3248,
-          "value": 1556,
-          "avg_price": 0.0303,
-          "cur_price": 0.9725
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.4415,
-          "value": 380.34,
-          "avg_price": 0.0303,
-          "cur_price": 0.9725
-        },
-        {
-          "trader": "Lucerys",
-          "roi": 0.1571,
-          "value": 164.91,
-          "avg_price": 0.0303,
-          "cur_price": 0.9725
         }
       ]
     }
@@ -1489,7 +1555,11 @@
     "uel-rso-bou-2026-09-17-bou::Yes": 3,
     "cs2-mgc-mibr-2026-09-18::MIBR": 3,
     "cs2-nrg-aur1-2026-09-18::Aurora Gaming": 3,
-    "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia::Yes": 2
+    "will-abiy-ahmed-be-the-next-prime-minister-of-ethiopia::Yes": 3,
+    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "will-kimi-antonelli-be-the-2026-f1-drivers-champion::Yes": 1
   },
-  "updated_at": "2026-09-19T00:35:28.477816+00:00"
+  "updated_at": "2026-09-19T05:01:19.671503+00:00"
 }
