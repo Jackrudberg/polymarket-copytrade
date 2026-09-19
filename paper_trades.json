@@ -30838,7 +30838,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 944075.41,
       "traders": [
@@ -30847,7 +30847,8 @@
         "justwins",
         "Takon88"
       ],
-      "url": "https://polymarket.com/event/epl-new-hul-2026-09-19-new"
+      "url": "https://polymarket.com/event/epl-new-hul-2026-09-19-new",
+      "consensus_lost_at": "2026-09-19T21:12:00.372702+00:00"
     },
     {
       "signal_id": "epl-bri-ars-2026-09-19-ars::No",
@@ -30863,7 +30864,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 324786.44,
       "traders": [
@@ -30872,7 +30873,8 @@
         "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
         "Feromont"
       ],
-      "url": "https://polymarket.com/event/epl-bri-ars-2026-09-19-ars"
+      "url": "https://polymarket.com/event/epl-bri-ars-2026-09-19-ars",
+      "consensus_lost_at": "2026-09-19T21:12:00.372702+00:00"
     },
     {
       "signal_id": "lol-kc-mkoi-2026-09-19::Karmine Corp",
@@ -30888,7 +30890,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 89522.39,
       "traders": [
@@ -30897,7 +30899,8 @@
         "VibeDoter",
         "Zzzz87"
       ],
-      "url": "https://polymarket.com/event/lol-kc-mkoi-2026-09-19"
+      "url": "https://polymarket.com/event/lol-kc-mkoi-2026-09-19",
+      "consensus_lost_at": "2026-09-19T21:12:00.372702+00:00"
     },
     {
       "signal_id": "cs2-aur1-vit-2026-09-19::Vitality",
@@ -30938,7 +30941,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 415341.45,
       "traders": [
@@ -30946,8 +30949,33 @@
         "gransaaa",
         "Zzzz87"
       ],
-      "url": "https://polymarket.com/event/fl1-pfc-str-2026-09-19-pfc"
+      "url": "https://polymarket.com/event/fl1-pfc-str-2026-09-19-pfc",
+      "consensus_lost_at": "2026-09-19T21:12:00.372702+00:00"
+    },
+    {
+      "signal_id": "nfl-cin-hou-2026-09-20::Bengals",
+      "market": "Bengals vs. Texans",
+      "slug": "nfl-cin-hou-2026-09-20",
+      "side": "Bengals",
+      "alerted_at": "2026-09-19T21:12:00.372702+00:00",
+      "last_seen": "2026-09-19T21:12:00.372702+00:00",
+      "entry_price": 0.415,
+      "current_price": 0.415,
+      "stake": 100.0,
+      "shares": 240.963855,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 74035.88,
+      "traders": [
+        "BreakTheBank",
+        "monkeymashingkeyboard",
+        "Endgametheory"
+      ],
+      "url": "https://polymarket.com/event/nfl-cin-hou-2026-09-20"
     }
   ],
-  "updated_at": "2026-09-19T18:52:09.393030+00:00"
+  "updated_at": "2026-09-19T21:12:00.372702+00:00"
 }
