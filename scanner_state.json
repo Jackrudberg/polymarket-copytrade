@@ -1,55 +1,76 @@
 {
   "seen_ids": [
     "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
+    "nfl-car-atl-2026-09-20::Panthers",
     "will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
-    "cs2-aur1-vit-2026-09-20::Vitality",
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes",
-    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No"
+    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes"
   ],
   "signals": [
     {
       "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
       "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
       "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 780238.84,
+      "num_traders": 4,
+      "total_value": 886191.51,
       "holders": [
         {
           "trader": "gopfan2",
-          "roi": 0.2883,
-          "value": 375561.19,
+          "roi": 0.425,
+          "value": 405903.14,
           "avg_price": 0.7697,
-          "cur_price": 0.885
+          "cur_price": 0.9565
         },
         {
           "trader": "mr.ozi",
-          "roi": 0.5546,
-          "value": 239862.67,
-          "avg_price": 0.7223,
-          "cur_price": 0.885
+          "roi": 0.7051,
+          "value": 287936.41,
+          "avg_price": 0.746,
+          "cur_price": 0.9565
         },
         {
           "trader": "Flipadelphia",
-          "roi": 0.3256,
-          "value": 144753.09,
-          "avg_price": 0.7611,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "classified",
-          "roi": 0.1565,
-          "value": 18203.39,
-          "avg_price": 0.1777,
-          "cur_price": 0.885
+          "roi": 0.2891,
+          "value": 191299.81,
+          "avg_price": 0.7937,
+          "cur_price": 0.9565
         },
         {
           "trader": "balthazar",
-          "roi": 0.1798,
-          "value": 1858.5,
-          "avg_price": 0.4296,
-          "cur_price": 0.885
+          "roi": 0.1714,
+          "value": 1052.15,
+          "avg_price": 0.0676,
+          "cur_price": 0.9565
+        }
+      ]
+    },
+    {
+      "market": "Panthers vs. Falcons",
+      "slug": "nfl-car-atl-2026-09-20",
+      "outcome": "Panthers",
+      "num_traders": 3,
+      "total_value": 156309.3,
+      "holders": [
+        {
+          "trader": "surfandturf",
+          "roi": 0.2283,
+          "value": 124937.49,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.2925,
+          "value": 22288.85,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mde4life1986",
+          "roi": 1.3738,
+          "value": 9082.96,
+          "avg_price": 0.5199,
+          "cur_price": 0.9995
         }
       ]
     },
@@ -57,36 +78,89 @@
       "market": "Will United Russia (ER) win the most seats in the next Russian parliamentary election?",
       "slug": "will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 131411.28,
+      "num_traders": 3,
+      "total_value": 83429.49,
       "holders": [
         {
           "trader": "mr.ozi",
-          "roi": 0.5546,
-          "value": 61689.53,
+          "roi": 0.7051,
+          "value": 60528.41,
           "avg_price": 0.9859,
           "cur_price": 0.9985
         },
         {
-          "trader": "classified",
-          "roi": 0.1565,
-          "value": 46820.67,
-          "avg_price": 0.7275,
-          "cur_price": 0.9985
-        },
-        {
           "trader": "Flipadelphia",
-          "roi": 0.3256,
+          "roi": 0.2891,
           "value": 21269.41,
           "avg_price": 0.9937,
           "cur_price": 0.9985
         },
         {
           "trader": "donthackme",
-          "roi": 0.2042,
+          "roi": 0.1917,
           "value": 1631.67,
           "avg_price": 0.0294,
           "cur_price": 0.9985
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 49216.49,
+      "holders": [
+        {
+          "trader": "gopfan2",
+          "roi": 0.425,
+          "value": 45669.6,
+          "avg_price": 0.2589,
+          "cur_price": 0.5775
+        },
+        {
+          "trader": "donthackme",
+          "roi": 0.1917,
+          "value": 2334.05,
+          "avg_price": 0.0312,
+          "cur_price": 0.5775
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1714,
+          "value": 1212.84,
+          "avg_price": 0.0312,
+          "cur_price": 0.5775
+        }
+      ]
+    },
+    {
+      "market": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+      "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 31910.84,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 0.7051,
+          "value": 27850.92,
+          "avg_price": 0.85,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "gopfan2",
+          "roi": 0.425,
+          "value": 2703.97,
+          "avg_price": 0.5999,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.1714,
+          "value": 1355.95,
+          "avg_price": 0.0277,
+          "cur_price": 0.845
         }
       ]
     },
@@ -117,66 +191,6 @@
           "value": 25136.35,
           "avg_price": 0.6699,
           "cur_price": 0.86
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 49301.71,
-      "holders": [
-        {
-          "trader": "gopfan2",
-          "roi": 0.2883,
-          "value": 45748.68,
-          "avg_price": 0.2589,
-          "cur_price": 0.5785
-        },
-        {
-          "trader": "donthackme",
-          "roi": 0.2042,
-          "value": 2338.09,
-          "avg_price": 0.0312,
-          "cur_price": 0.5785
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1798,
-          "value": 1214.94,
-          "avg_price": 0.0312,
-          "cur_price": 0.5785
-        }
-      ]
-    },
-    {
-      "market": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-      "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 31910.84,
-      "holders": [
-        {
-          "trader": "mr.ozi",
-          "roi": 0.5546,
-          "value": 27850.92,
-          "avg_price": 0.85,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "gopfan2",
-          "roi": 0.2883,
-          "value": 2703.97,
-          "avg_price": 0.5999,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "balthazar",
-          "roi": 0.1798,
-          "value": 1355.95,
-          "avg_price": 0.0277,
-          "cur_price": 0.845
         }
       ]
     },
@@ -1676,9 +1690,12 @@
     "cfb-lsu-miss-2026-09-19::Ole Miss": 3,
     "nfl-cin-hou-2026-09-20::Bengals": 3,
     "mls-chi-vwh-2026-07-16-chi::No": 3,
-    "israel-x-iran-ceasefire-continues-through-september-30::Yes": 1,
-    "nfl-pit-ne-2026-09-20::Patriots": 1,
-    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 1
+    "israel-x-iran-ceasefire-continues-through-september-30::Yes": 2,
+    "nfl-pit-ne-2026-09-20::Patriots": 2,
+    "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 2,
+    "cs2-aur1-vit-2026-09-20::Vitality": 1,
+    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 1
   },
-  "updated_at": "2026-09-20T17:45:27.597402+00:00"
+  "updated_at": "2026-09-20T19:49:53.331645+00:00"
 }
