@@ -1,36 +1,97 @@
 {
   "seen_ids": [
-    "nfl-pit-ne-2026-09-20::Patriots",
-    "mls-chi-vwh-2026-07-16-chi::No"
+    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes",
+    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No",
+    "nfl-pit-ne-2026-09-20::Patriots"
   ],
   "signals": [
+    {
+      "market": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 248859.48,
+      "holders": [
+        {
+          "trader": "mr.ozi",
+          "roi": 1.0208,
+          "value": 201275.2,
+          "avg_price": 0.7091,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "classified",
+          "roi": 0.2024,
+          "value": 47474.01,
+          "avg_price": 0.1777,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "Lucerys",
+          "roi": 0.1993,
+          "value": 110.27,
+          "avg_price": 0.0298,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 71846.9,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.7839,
+          "value": 65372.97,
+          "avg_price": 0.6482,
+          "cur_price": 0.6225
+        },
+        {
+          "trader": "mr.ozi",
+          "roi": 1.0208,
+          "value": 5255.6,
+          "avg_price": 0.638,
+          "cur_price": 0.6225
+        },
+        {
+          "trader": "classified",
+          "roi": 0.2024,
+          "value": 1218.33,
+          "avg_price": 0.5809,
+          "cur_price": 0.6225
+        }
+      ]
+    },
     {
       "market": "Steelers vs. Patriots",
       "slug": "nfl-pit-ne-2026-09-20",
       "outcome": "Patriots",
       "num_traders": 3,
-      "total_value": 45319.54,
+      "total_value": 47692.65,
       "holders": [
         {
           "trader": "bands1",
-          "roi": 0.5738,
-          "value": 41099.98,
+          "roi": 0.3586,
+          "value": 41699.98,
           "avg_price": 0.68,
-          "cur_price": 0.685
+          "cur_price": 0.695
         },
         {
           "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.156,
-          "value": 3977.07,
+          "roi": 0.1668,
+          "value": 4158.47,
           "avg_price": 0.68,
-          "cur_price": 0.685
+          "cur_price": 0.695
         },
         {
-          "trader": "purplegatto",
-          "roi": 0.3503,
-          "value": 242.49,
-          "avg_price": 0.6899,
-          "cur_price": 0.685
+          "trader": "0x613c67",
+          "roi": 0.1779,
+          "value": 1834.2,
+          "avg_price": 0.6999,
+          "cur_price": 0.695
         }
       ]
     },
@@ -91,36 +152,6 @@
           "value": 7221,
           "avg_price": 0.42,
           "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "LSU vs. Ole Miss",
-      "slug": "cfb-lsu-miss-2026-09-19",
-      "outcome": "Ole Miss",
-      "num_traders": 3,
-      "total_value": 64364.71,
-      "holders": [
-        {
-          "trader": "Kch-Temp",
-          "roi": 0.1661,
-          "value": 50234.51,
-          "avg_price": 0.42,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "justwins",
-          "roi": 0.6976,
-          "value": 13578.12,
-          "avg_price": 0.43,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.1982,
-          "value": 552.08,
-          "avg_price": 0.41,
-          "cur_price": 0.425
         }
       ]
     }
@@ -1292,7 +1323,6 @@
     "cs2-ts7-mouz-2026-09-06::Spirit": 3,
     "lol-g2-kc-2026-09-06::G2 Esports": 3,
     "lol-g2-kc-2026-09-06-game1::G2 Esports": 3,
-    "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "epl-ars-che-2026-09-06-ars::No": 3,
     "atp-paul-alcaraz-2026-09-06::Carlos Alcaraz": 3,
     "mlb-mil-cin-2026-09-06::Cincinnati Reds": 3,
@@ -1301,7 +1331,6 @@
     "atp-cerundo-blockx-2026-09-06::Francisco Cerundolo": 3,
     "mlb-laa-bos-2026-09-07-total-8pt5::Over": 3,
     "another-gta-vi-trailer-released-by-september-30::No": 3,
-    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::No": 3,
     "will-the-liberal-democratic-party-of-russia-ldpr-gain-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "cs2-all-faze-2026-09-08::FaZe": 3,
     "will-augusto-cury-win-the-2026-brazilian-presidential-election::Yes": 3,
@@ -1472,8 +1501,9 @@
     "lol-kc-mkoi-2026-09-19::Karmine Corp": 3,
     "fl1-pfc-str-2026-09-19-pfc::Yes": 3,
     "cs2-aur1-vit-2026-09-19::Vitality": 3,
-    "cfb-lsu-miss-2026-09-19::Ole Miss": 2,
-    "nfl-cin-hou-2026-09-20::Bengals": 1
+    "cfb-lsu-miss-2026-09-19::Ole Miss": 3,
+    "nfl-cin-hou-2026-09-20::Bengals": 2,
+    "mls-chi-vwh-2026-07-16-chi::No": 1
   },
-  "updated_at": "2026-09-20T06:13:42.281277+00:00"
+  "updated_at": "2026-09-20T11:32:14.730999+00:00"
 }
