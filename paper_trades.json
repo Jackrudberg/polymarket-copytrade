@@ -8489,15 +8489,15 @@
       "slug": "mls-chi-vwh-2026-07-16-chi",
       "side": "No",
       "alerted_at": "2026-08-04T12:16:20.339585+00:00",
-      "last_seen": "2026-08-29T15:21:09.589562+00:00",
+      "last_seen": "2026-09-20T06:13:42.149413+00:00",
       "entry_price": 0.67,
-      "current_price": 0.605,
+      "current_price": 0.545,
       "stake": 100.0,
       "shares": 149.253731,
-      "current_value": 90.3,
-      "paper_pnl": -9.7,
-      "return_percent": -9.7,
-      "status": "CONSENSUS_LOST",
+      "current_value": 81.34,
+      "paper_pnl": -18.66,
+      "return_percent": -18.66,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1285.95,
       "traders": [
@@ -30991,7 +30991,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 64364.71,
       "traders": [
@@ -30999,8 +30999,33 @@
         "justwins",
         "ic4cream"
       ],
-      "url": "https://polymarket.com/event/cfb-lsu-miss-2026-09-19"
+      "url": "https://polymarket.com/event/cfb-lsu-miss-2026-09-19",
+      "consensus_lost_at": "2026-09-20T06:13:42.149413+00:00"
+    },
+    {
+      "signal_id": "nfl-pit-ne-2026-09-20::Patriots",
+      "market": "Steelers vs. Patriots",
+      "slug": "nfl-pit-ne-2026-09-20",
+      "side": "Patriots",
+      "alerted_at": "2026-09-20T06:13:42.149413+00:00",
+      "last_seen": "2026-09-20T06:13:42.149413+00:00",
+      "entry_price": 0.685,
+      "current_price": 0.685,
+      "stake": 100.0,
+      "shares": 145.985401,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 45319.54,
+      "traders": [
+        "bands1",
+        "wr0ngw4yb3tt0r",
+        "purplegatto"
+      ],
+      "url": "https://polymarket.com/event/nfl-pit-ne-2026-09-20"
     }
   ],
-  "updated_at": "2026-09-20T01:07:55.581750+00:00"
+  "updated_at": "2026-09-20T06:13:42.149413+00:00"
 }

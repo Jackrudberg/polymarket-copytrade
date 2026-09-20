@@ -1,8 +1,69 @@
 {
   "seen_ids": [
-    "nfl-cin-hou-2026-09-20::Bengals"
+    "nfl-pit-ne-2026-09-20::Patriots",
+    "mls-chi-vwh-2026-07-16-chi::No"
   ],
   "signals": [
+    {
+      "market": "Steelers vs. Patriots",
+      "slug": "nfl-pit-ne-2026-09-20",
+      "outcome": "Patriots",
+      "num_traders": 3,
+      "total_value": 45319.54,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 0.5738,
+          "value": 41099.98,
+          "avg_price": 0.68,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.156,
+          "value": 3977.07,
+          "avg_price": 0.68,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3503,
+          "value": 242.49,
+          "avg_price": 0.6899,
+          "cur_price": 0.685
+        }
+      ]
+    },
+    {
+      "market": "Will Chicago Fire FC win on 2026-07-16?",
+      "slug": "mls-chi-vwh-2026-07-16-chi",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3049.14,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 0.3072,
+          "value": 2543.51,
+          "avg_price": 0.6299,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.156,
+          "value": 345.9,
+          "avg_price": 0.62,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "sbsigner",
+          "roi": 0.4317,
+          "value": 159.73,
+          "avg_price": 0.6399,
+          "cur_price": 0.545
+        }
+      ]
+    },
     {
       "market": "Bengals vs. Texans",
       "slug": "nfl-cin-hou-2026-09-20",
@@ -1157,7 +1218,6 @@
     "bun-mai-scp-2026-08-29-mai::No": 3,
     "epl-cov-hul-2026-08-29-hul::No": 3,
     "mls-chi-vwh-2026-07-16-vwh::Yes": 3,
-    "mls-chi-vwh-2026-07-16-chi::No": 3,
     "bun-elv-b04-2026-08-29-elv::No": 3,
     "fl1-lyo-hac-2026-08-29-lyo::No": 3,
     "cs2-lgc-fal2-2026-08-29::Team Falcons": 3,
@@ -1412,7 +1472,8 @@
     "lol-kc-mkoi-2026-09-19::Karmine Corp": 3,
     "fl1-pfc-str-2026-09-19-pfc::Yes": 3,
     "cs2-aur1-vit-2026-09-19::Vitality": 3,
-    "cfb-lsu-miss-2026-09-19::Ole Miss": 1
+    "cfb-lsu-miss-2026-09-19::Ole Miss": 2,
+    "nfl-cin-hou-2026-09-20::Bengals": 1
   },
-  "updated_at": "2026-09-20T01:07:55.608428+00:00"
+  "updated_at": "2026-09-20T06:13:42.281277+00:00"
 }
