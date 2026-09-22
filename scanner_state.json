@@ -1,10 +1,224 @@
 {
   "seen_ids": [
-    "lal-lev-bil-2026-09-16-bil::Yes",
-    "bra2-cui-nau-2026-09-21-total-1pt5::Over",
-    "wnba-min-ind-2026-09-22::Indiana Fever"
+    "nfl-atl-gb-2026-09-25-total-44pt5::Under",
+    "lal-lev-bil-2026-09-16-total-2pt5::Over",
+    "unl-nor-den-2026-09-24-nor::No",
+    "uwcl-im-bhf-2026-09-22-bhf::No",
+    "wnba-min-ind-2026-09-22::Minnesota Lynx",
+    "uwcl-rma-psg-2026-09-22-psg::No",
+    "mls-sea-rsl-2026-04-12-sea::Yes"
   ],
   "signals": [
+    {
+      "market": "Falcons vs. Packers: O/U 44.5",
+      "slug": "nfl-atl-gb-2026-09-25-total-44pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 4645.2,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2487,
+          "value": 3152.58,
+          "avg_price": 0.5112,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 1.2799,
+          "value": 799.81,
+          "avg_price": 0.5097,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "NM-P",
+          "roi": 1.3172,
+          "value": 692.81,
+          "avg_price": 0.53,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Levante UD vs. Athletic Club: O/U 2.5",
+      "slug": "lal-lev-bil-2026-09-16-total-2pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 4186.88,
+      "holders": [
+        {
+          "trader": "Flaznorp",
+          "roi": 0.252,
+          "value": 2090.84,
+          "avg_price": 0.5326,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.5847,
+          "value": 1193.55,
+          "avg_price": 0.5295,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "NM-P",
+          "roi": 1.3172,
+          "value": 902.49,
+          "avg_price": 0.5317,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will Norway win on 2026-09-24?",
+      "slug": "unl-nor-den-2026-09-24-nor",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3310.23,
+      "holders": [
+        {
+          "trader": "Flaznorp",
+          "roi": 0.252,
+          "value": 2124.11,
+          "avg_price": 0.455,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "NM-P",
+          "roi": 1.3172,
+          "value": 861.58,
+          "avg_price": 0.4454,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 1.2799,
+          "value": 324.54,
+          "avg_price": 0.4544,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will BK H\u00e4cken FF win on 2026-09-22?",
+      "slug": "uwcl-im-bhf-2026-09-22-bhf",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3192.75,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.5149,
+          "value": 2226.14,
+          "avg_price": 0.6739,
+          "cur_price": 0.71
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.252,
+          "value": 597.05,
+          "avg_price": 0.691,
+          "cur_price": 0.71
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.5847,
+          "value": 369.56,
+          "avg_price": 0.6887,
+          "cur_price": 0.71
+        }
+      ]
+    },
+    {
+      "market": "Minnesota Lynx vs. Indiana Fever",
+      "slug": "wnba-min-ind-2026-09-22",
+      "outcome": "Minnesota Lynx",
+      "num_traders": 3,
+      "total_value": 2251.7,
+      "holders": [
+        {
+          "trader": "mooseborzoi",
+          "roi": 1.2799,
+          "value": 1095.64,
+          "avg_price": 0.5079,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 1.7686,
+          "value": 998.41,
+          "avg_price": 0.5099,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.5149,
+          "value": 157.65,
+          "avg_price": 0.48,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will Paris Saint-Germain FC win on 2026-09-22?",
+      "slug": "uwcl-rma-psg-2026-09-22-psg",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 760.53,
+      "holders": [
+        {
+          "trader": "Flaznorp",
+          "roi": 0.252,
+          "value": 436.63,
+          "avg_price": 0.7704,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.5149,
+          "value": 164.32,
+          "avg_price": 0.76,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.5847,
+          "value": 159.58,
+          "avg_price": 0.7657,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Will Seattle Sounders FC win on 2026-04-12?",
+      "slug": "mls-sea-rsl-2026-04-12-sea",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 425.59,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 1.3172,
+          "value": 170.83,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.5847,
+          "value": 130.26,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 1.2799,
+          "value": 124.5,
+          "avg_price": 0.5005,
+          "cur_price": 0.515
+        }
+      ]
+    },
     {
       "market": "Will Athletic Club win on 2026-09-16?",
       "slug": "lal-lev-bil-2026-09-16-bil",
@@ -816,36 +1030,6 @@
       ]
     },
     {
-      "market": "Levante UD vs. Athletic Club: O/U 2.5",
-      "slug": "lal-lev-bil-2026-09-16-total-2pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 6115.62,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1656,
-          "value": 2864.41,
-          "avg_price": 0.5499,
-          "cur_price": 0.49
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.7567,
-          "value": 2069.72,
-          "avg_price": 0.5326,
-          "cur_price": 0.49
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.5054,
-          "value": 1181.49,
-          "avg_price": 0.5295,
-          "cur_price": 0.49
-        }
-      ]
-    },
-    {
       "market": "CA Lan\u00fas vs. Estudiantes de La Plata: O/U 2.5",
       "slug": "arg-lan-est-2026-09-21-total-2pt5",
       "outcome": "Under",
@@ -1112,1432 +1296,6 @@
           "value": 313.72,
           "avg_price": 0.2986,
           "cur_price": 0.045
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Detroit Tigers",
-      "slug": "mlb-wsh-det-2026-09-21",
-      "outcome": "Washington Nationals",
-      "num_traders": 6,
-      "total_value": 53223.68,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 26980.9,
-          "avg_price": 0.3792,
-          "cur_price": 0.22
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.5896,
-          "value": 9850.27,
-          "avg_price": 0.2216,
-          "cur_price": 0.22
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 9111.1,
-          "avg_price": 0.3371,
-          "cur_price": 0.22
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 4282.48,
-          "avg_price": 0.4399,
-          "cur_price": 0.22
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1650.0,
-          "avg_price": 0.4346,
-          "cur_price": 0.22
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 1348.93,
-          "avg_price": 0.2099,
-          "cur_price": 0.22
-        }
-      ]
-    },
-    {
-      "market": "Spread: Rams (-8.5)",
-      "slug": "nfl-nyg-la-2026-09-22-spread-home-8pt5",
-      "outcome": "Giants",
-      "num_traders": 6,
-      "total_value": 27239.86,
-      "holders": [
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 10835.95,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 7693.76,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 7471.12,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1023.75,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 114.66,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 3.0049,
-          "value": 100.62,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Spread: Atlanta Dream (-1.5)",
-      "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5",
-      "outcome": "Atlanta Dream",
-      "num_traders": 6,
-      "total_value": 9941.93,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 4414.6,
-          "avg_price": 0.5056,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 3.0049,
-          "value": 1941.22,
-          "avg_price": 0.5167,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 1812.13,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 809.94,
-          "avg_price": 0.5199,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 570.65,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 393.39,
-          "avg_price": 0.5008,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Detroit Tigers",
-      "slug": "mlb-wsh-det-2026-09-21",
-      "outcome": "Detroit Tigers",
-      "num_traders": 5,
-      "total_value": 58685.89,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 27093.54,
-          "avg_price": 0.7574,
-          "cur_price": 0.78
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 16206.82,
-          "avg_price": 0.7076,
-          "cur_price": 0.78
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 8661.54,
-          "avg_price": 0.7366,
-          "cur_price": 0.78
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 5128.89,
-          "avg_price": 0.6873,
-          "cur_price": 0.78
-        },
-        {
-          "trader": "0xe2D0f0580716E47979206dcFF5220695e7967BbF-1763023416239",
-          "roi": 0.3389,
-          "value": 1595.1,
-          "avg_price": 0.56,
-          "cur_price": 0.78
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Twins vs. San Francisco Giants: O/U 8.5",
-      "slug": "mlb-min-sf-2026-09-21-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 5,
-      "total_value": 37588.19,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 20046.9,
-          "avg_price": 0.5082,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 10028.85,
-          "avg_price": 0.5125,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 1.5201,
-          "value": 5053.86,
-          "avg_price": 0.51,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 1277.56,
-          "avg_price": 0.51,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 1181.02,
-          "avg_price": 0.5146,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Will FC Cincinnati win on 2026-09-05?",
-      "slug": "mls-fcc-dcu-2026-09-05-fcc",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 17323.55,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 8033.4,
-          "avg_price": 0.3955,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 4441.88,
-          "avg_price": 0.4016,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 2106.15,
-          "avg_price": 0.4113,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1545,
-          "avg_price": 0.395,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 1197.12,
-          "avg_price": 0.4,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Toronto Blue Jays vs. Baltimore Orioles",
-      "slug": "mlb-tor-bal-2026-09-21",
-      "outcome": "Toronto Blue Jays",
-      "num_traders": 5,
-      "total_value": 11048.29,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 5978.16,
-          "avg_price": 0.4989,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 2355.97,
-          "avg_price": 0.5558,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "0xe2D0f0580716E47979206dcFF5220695e7967BbF-1763023416239",
-          "roi": 0.3389,
-          "value": 2100.95,
-          "avg_price": 0.5,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 395.33,
-          "avg_price": 0.4995,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 217.88,
-          "avg_price": 0.5913,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Will Montevideo City Torque win on 2026-09-21?",
-      "slug": "uru1-esp-tor-2026-09-21-tor",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 4215.94,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 1620.29,
-          "avg_price": 0.4886,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1288.23,
-          "avg_price": 0.4758,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "tikstt2",
-          "roi": 1.4609,
-          "value": 581.6,
-          "avg_price": 0.4699,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 401.59,
-          "avg_price": 0.4569,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 324.23,
-          "avg_price": 0.2549,
-          "cur_price": 0.225
-        }
-      ]
-    },
-    {
-      "market": "Will CS Independiente Rivadavia win on 2026-09-21?",
-      "slug": "arg-bar-riv1-2026-09-21-riv1",
-      "outcome": "Yes",
-      "num_traders": 5,
-      "total_value": 4133.42,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1516.84,
-          "avg_price": 0.4,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 1212.69,
-          "avg_price": 0.6438,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 718.06,
-          "avg_price": 0.7131,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 383.58,
-          "avg_price": 0.4,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 302.25,
-          "avg_price": 0.41,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Giants vs. Rams: O/U 50.5",
-      "slug": "nfl-nyg-la-2026-09-22-total-50pt5",
-      "outcome": "Over",
-      "num_traders": 4,
-      "total_value": 62113.75,
-      "holders": [
-        {
-          "trader": "Netrol",
-          "roi": 0.1772,
-          "value": 39342,
-          "avg_price": 0.4,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.4546,
-          "value": 12832.76,
-          "avg_price": 0.4,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "vilkaZ",
-          "roi": 1.9342,
-          "value": 5640.6,
-          "avg_price": 0.4,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 4298.39,
-          "avg_price": 0.4053,
-          "cur_price": 0.395
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Detroit Tigers: O/U 8.5",
-      "slug": "mlb-wsh-det-2026-09-21-total-8pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 12342.68,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 9667.13,
-          "avg_price": 0.546,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 1415.23,
-          "avg_price": 0.4998,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 1068.52,
-          "avg_price": 0.49,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 191.8,
-          "avg_price": 0.6099,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Giants vs. Rams: O/U 51.5",
-      "slug": "nfl-nyg-la-2026-09-22-total-51pt5",
-      "outcome": "Over",
-      "num_traders": 4,
-      "total_value": 11161.87,
-      "holders": [
-        {
-          "trader": "Netrol",
-          "roi": 0.1772,
-          "value": 8403.14,
-          "avg_price": 0.36,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.8957,
-          "value": 1825,
-          "avg_price": 0.37,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.4546,
-          "value": 552.98,
-          "avg_price": 0.3699,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 380.75,
-          "avg_price": 0.35,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Spread: FC Cincinnati (-1.5)",
-      "slug": "mls-fcc-dcu-2026-09-05-spread-home-1pt5",
-      "outcome": "D.C. United SC",
-      "num_traders": 4,
-      "total_value": 10054.05,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 3998.33,
-          "avg_price": 0.6249,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 3113.59,
-          "avg_price": 0.6162,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 1822.9,
-          "avg_price": 0.62,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 1119.23,
-          "avg_price": 0.6241,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
-      "market": "Will Levante UD win on 2026-09-16?",
-      "slug": "lal-lev-bil-2026-09-16-lev",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 7738.9,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 3906.36,
-          "avg_price": 0.7199,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 3006.67,
-          "avg_price": 0.7199,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 558.25,
-          "avg_price": 0.71,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 267.62,
-          "avg_price": 0.71,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Spread: Rams (-4.5)",
-      "slug": "nfl-nyg-la-2026-09-22-spread-home-4pt5",
-      "outcome": "Rams",
-      "num_traders": 4,
-      "total_value": 5804.87,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 3058.6,
-          "avg_price": 0.57,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 1244.68,
-          "avg_price": 0.57,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1150.17,
-          "avg_price": 0.5685,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 351.42,
-          "avg_price": 0.57,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will Montevideo City Torque win on 2026-09-21?",
-      "slug": "uru1-esp-tor-2026-09-21-tor",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 4318.27,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 1759.25,
-          "avg_price": 0.4973,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 1187.8,
-          "avg_price": 0.6029,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 762.6,
-          "avg_price": 0.7698,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 608.62,
-          "avg_price": 0.53,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Spread: LA (-9.5)",
-      "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5",
-      "outcome": "NYG",
-      "num_traders": 3,
-      "total_value": 27598.12,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 14662.79,
-          "avg_price": 0.563,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 1.5201,
-          "value": 12185.13,
-          "avg_price": 0.58,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 750.2,
-          "avg_price": 0.5891,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "San Diego 2: Braden Shick vs Patrick Maloney",
-      "slug": "atp-shick-maloney-2026-09-21",
-      "outcome": "Patrick Maloney",
-      "num_traders": 3,
-      "total_value": 24831.84,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 19243.93,
-          "avg_price": 0.4376,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 4083.95,
-          "avg_price": 0.5684,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1503.96,
-          "avg_price": 0.2947,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Giants vs. Rams: O/U 51.5",
-      "slug": "nfl-nyg-la-2026-09-22-total-51pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 22025.75,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 12912.09,
-          "avg_price": 0.6407,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 8226.47,
-          "avg_price": 0.6344,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 887.19,
-          "avg_price": 0.6342,
-          "cur_price": 0.635
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Detroit Tigers: O/U 8.5",
-      "slug": "mlb-wsh-det-2026-09-21-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 16698.97,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 6426.26,
-          "avg_price": 0.4492,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.5896,
-          "value": 6221.0,
-          "avg_price": 0.5099,
-          "cur_price": 0.42
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 4051.71,
-          "avg_price": 0.4833,
-          "cur_price": 0.42
-        }
-      ]
-    },
-    {
-      "market": "Will Bogota FC win on 2026-09-21?",
-      "slug": "col2-bog-bar-2026-09-21-bog",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14645.79,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 10227.3,
-          "avg_price": 0.5909,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 2809.49,
-          "avg_price": 0.4909,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1609.0,
-          "avg_price": 0.61,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will CA Barracas Central win on 2026-09-21?",
-      "slug": "arg-bar-riv1-2026-09-21-bar",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 13573.61,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 10188.79,
-          "avg_price": 0.8737,
-          "cur_price": 0.9605
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1703.94,
-          "avg_price": 0.7217,
-          "cur_price": 0.9605
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1680.88,
-          "avg_price": 0.72,
-          "cur_price": 0.9605
-        }
-      ]
-    },
-    {
-      "market": "CA Barracas Central vs. CS Independiente Rivadavia: O/U 2.5",
-      "slug": "arg-bar-riv1-2026-09-21-total-2pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 10968.61,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 5792.35,
-          "avg_price": 0.5893,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 3267.63,
-          "avg_price": 0.6092,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1908.63,
-          "avg_price": 0.6562,
-          "cur_price": 0.855
-        }
-      ]
-    },
-    {
-      "market": "Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5",
-      "slug": "mlb-tor-bal-2026-09-21-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 10490.06,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 1.3521,
-          "value": 7925.15,
-          "avg_price": 0.48,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 1445.96,
-          "avg_price": 0.5099,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 1118.95,
-          "avg_price": 0.5035,
-          "cur_price": 0.575
-        }
-      ]
-    },
-    {
-      "market": "NYG vs. LA: O/U 48.5",
-      "slug": "nfl-nyg-la-2026-09-22-total-48pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 9624.29,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2663,
-          "value": 6169.75,
-          "avg_price": 0.46,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 2402.29,
-          "avg_price": 0.4611,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 1052.25,
-          "avg_price": 0.4549,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Will Athletic Club win on 2026-09-16?",
-      "slug": "lal-lev-bil-2026-09-16-bil",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 7842.02,
-      "holders": [
-        {
-          "trader": "Nooserac",
-          "roi": 0.8957,
-          "value": 5541.92,
-          "avg_price": 0.56,
-          "cur_price": 0.62
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 1408.16,
-          "avg_price": 0.5704,
-          "cur_price": 0.62
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 891.94,
-          "avg_price": 0.5514,
-          "cur_price": 0.62
-        }
-      ]
-    },
-    {
-      "market": "Spread: Atlanta Dream (-1.5)",
-      "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5",
-      "outcome": "New York Liberty",
-      "num_traders": 3,
-      "total_value": 6919.42,
-      "holders": [
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 3522.55,
-          "avg_price": 0.4966,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 4.9332,
-          "value": 2880.09,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 516.78,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Spread: Detroit Tigers (-1.5)",
-      "slug": "mlb-wsh-det-2026-09-21-spread-home-1pt5",
-      "outcome": "Detroit Tigers",
-      "num_traders": 3,
-      "total_value": 5384.39,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 4703.11,
-          "avg_price": 0.5385,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 501.9,
-          "avg_price": 0.39,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 179.38,
-          "avg_price": 0.5903,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Washington Nationals vs. Detroit Tigers: O/U 7.5",
-      "slug": "mlb-wsh-det-2026-09-21-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 5019.34,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 4351.47,
-          "avg_price": 0.5135,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 484.86,
-          "avg_price": 0.4317,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x4f2",
-          "roi": 0.4096,
-          "value": 183.01,
-          "avg_price": 0.53,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "CA Lan\u00fas vs. Estudiantes de La Plata: O/U 1.5",
-      "slug": "arg-lan-est-2026-09-21-total-1pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 4410.94,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 1967.55,
-          "avg_price": 0.38,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 1288.39,
-          "avg_price": 0.3872,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 1155.0,
-          "avg_price": 0.38,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Buenos Aires 2: Gonzalo Villanueva vs Guido Justo",
-      "slug": "atp-villanu-justo-2026-09-21",
-      "outcome": "Gonzalo Villanueva",
-      "num_traders": 3,
-      "total_value": 4137.67,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 3163.17,
-          "avg_price": 0.264,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 520.21,
-          "avg_price": 0.3155,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 454.29,
-          "avg_price": 0.4492,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "San Diego 2: Keegan Smith vs Edward Winter",
-      "slug": "atp-smit-winter-2026-09-21",
-      "outcome": "Keegan Smith",
-      "num_traders": 3,
-      "total_value": 3791.72,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 2451.41,
-          "avg_price": 0.7616,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 882.33,
-          "avg_price": 0.7563,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 457.98,
-          "avg_price": 0.6165,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will Chicago Fire FC win on 2026-07-16?",
-      "slug": "mls-chi-vwh-2026-07-16-chi",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3663.87,
-      "holders": [
-        {
-          "trader": "ic4cream",
-          "roi": 3.0049,
-          "value": 2823.53,
-          "avg_price": 0.6299,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 456.35,
-          "avg_price": 0.65,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.3517,
-          "value": 383.99,
-          "avg_price": 0.62,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Will CA Barracas Central vs. CS Independiente Rivadavia end in a draw?",
-      "slug": "arg-bar-riv1-2026-09-21-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3030.69,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 1579.22,
-          "avg_price": 0.7769,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 730.1,
-          "avg_price": 0.7932,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 721.37,
-          "avg_price": 0.67,
-          "cur_price": 0.815
-        }
-      ]
-    },
-    {
-      "market": "Will Nueva Chicago win on 2026-09-20?",
-      "slug": "argpn-chi-cap-2026-09-20-chi",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2653.89,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 1190.5,
-          "avg_price": 0.4566,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 879.9,
-          "avg_price": 0.4995,
-          "cur_price": 0.305
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 583.49,
-          "avg_price": 0.4255,
-          "cur_price": 0.305
-        }
-      ]
-    },
-    {
-      "market": "Will RNK Veres Rivne win on 2026-09-12?",
-      "slug": "ukr1-ver-kud-2026-09-12-ver",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 2277.69,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 907.67,
-          "avg_price": 0.5738,
-          "cur_price": 0.45
-        },
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 760.04,
-          "avg_price": 0.5575,
-          "cur_price": 0.45
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 609.98,
-          "avg_price": 0.5581,
-          "cur_price": 0.45
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2041.38,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 1431.89,
-          "avg_price": 0.4197,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 329.96,
-          "avg_price": 0.3899,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 279.53,
-          "avg_price": 0.3246,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Will Vancouver Whitecaps FC win on 2026-07-16?",
-      "slug": "mls-chi-vwh-2026-07-16-vwh",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1972.44,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.3447,
-          "value": 969.54,
-          "avg_price": 0.3938,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.1895,
-          "value": 731.4,
-          "avg_price": 0.3949,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 271.5,
-          "avg_price": 0.4,
-          "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Spread: Dallas Wings (-5.5)",
-      "slug": "wnba-dal-phx-2026-09-21-spread-away-5pt5",
-      "outcome": "Phoenix Mercury",
-      "num_traders": 3,
-      "total_value": 1649.5,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 1.2548,
-          "value": 826.44,
-          "avg_price": 0.4899,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 486.44,
-          "avg_price": 0.4892,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.3838,
-          "value": 336.62,
-          "avg_price": 0.4899,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will France win on 2026-09-25?",
-      "slug": "unl-tur-fra-2026-09-25-fra",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1643.88,
-      "holders": [
-        {
-          "trader": "Flaznorp",
-          "roi": 0.203,
-          "value": 922.81,
-          "avg_price": 0.3299,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.7386,
-          "value": 379.06,
-          "avg_price": 0.32,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 342.01,
-          "avg_price": 0.3198,
-          "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Minnesota Twins vs. San Francisco Giants",
-      "slug": "mlb-min-sf-2026-09-21",
-      "outcome": "San Francisco Giants",
-      "num_traders": 3,
-      "total_value": 1534.92,
-      "holders": [
-        {
-          "trader": "VeryLucky888",
-          "roi": 0.2051,
-          "value": 712.5,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.8454,
-          "value": 602.77,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.7012,
-          "value": 219.65,
-          "avg_price": 0.47,
-          "cur_price": 0.475
         }
       ]
     }
@@ -3916,74 +2674,76 @@
     "atp-baris-rybakov-2026-09-21::Ozan Baris": 3,
     "argpn-tri-atl-2026-09-21-total-2pt5::Under": 3,
     "ecu1-man-ore-2026-09-19-total-3pt5::Under": 3,
-    "mlb-wsh-det-2026-09-21::Washington Nationals": 2,
-    "nfl-nyg-la-2026-09-22-spread-home-8pt5::Giants": 2,
-    "wnba-atl-nyl-2026-09-21-spread-away-1pt5::Atlanta Dream": 2,
-    "mlb-wsh-det-2026-09-21::Detroit Tigers": 2,
-    "mlb-min-sf-2026-09-21-total-8pt5::Under": 2,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 2,
-    "mlb-tor-bal-2026-09-21::Toronto Blue Jays": 2,
-    "uru1-esp-tor-2026-09-21-tor::No": 2,
-    "arg-bar-riv1-2026-09-21-riv1::Yes": 2,
-    "nfl-nyg-la-2026-09-22-total-50pt5::Over": 2,
-    "mlb-wsh-det-2026-09-21-total-8pt5::Under": 2,
-    "nfl-nyg-la-2026-09-22-total-51pt5::Over": 2,
-    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 2,
-    "lal-lev-bil-2026-09-16-lev::No": 2,
-    "nfl-nyg-la-2026-09-22-spread-home-4pt5::Rams": 2,
-    "uru1-esp-tor-2026-09-21-tor::Yes": 2,
-    "nfl-nyg-la-2026-09-22-spread-home-9pt5::NYG": 2,
-    "atp-shick-maloney-2026-09-21::Patrick Maloney": 2,
-    "nfl-nyg-la-2026-09-22-total-51pt5::Under": 2,
-    "mlb-wsh-det-2026-09-21-total-8pt5::Over": 2,
-    "col2-bog-bar-2026-09-21-bog::Yes": 2,
-    "arg-bar-riv1-2026-09-21-bar::No": 2,
-    "arg-bar-riv1-2026-09-21-total-2pt5::Under": 2,
-    "mlb-tor-bal-2026-09-21-total-7pt5::Over": 2,
-    "nfl-nyg-la-2026-09-22-total-48pt5::Over": 2,
-    "lal-lev-bil-2026-09-16-bil::No": 2,
-    "wnba-atl-nyl-2026-09-21-spread-away-1pt5::New York Liberty": 2,
-    "mlb-wsh-det-2026-09-21-spread-home-1pt5::Detroit Tigers": 2,
-    "mlb-wsh-det-2026-09-21-total-7pt5::Under": 2,
-    "arg-lan-est-2026-09-21-total-1pt5::Under": 2,
-    "atp-villanu-justo-2026-09-21::Gonzalo Villanueva": 2,
-    "atp-smit-winter-2026-09-21::Keegan Smith": 2,
-    "mls-chi-vwh-2026-07-16-chi::No": 2,
-    "arg-bar-riv1-2026-09-21-draw::No": 2,
-    "argpn-chi-cap-2026-09-20-chi::Yes": 2,
-    "ukr1-ver-kud-2026-09-12-ver::No": 2,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "mls-chi-vwh-2026-07-16-vwh::Yes": 2,
-    "wnba-dal-phx-2026-09-21-spread-away-5pt5::Phoenix Mercury": 2,
-    "unl-tur-fra-2026-09-25-fra::No": 2,
-    "mlb-min-sf-2026-09-21::San Francisco Giants": 2,
-    "nfl-nyg-la-2026-09-22::Rams": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-6pt5::Rams": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-7pt5::Rams": 1,
-    "nfl-nyg-la-2026-09-22-total-47pt5::Under": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-6pt5::Giants": 1,
-    "arg-lan-est-2026-09-21-lan::Yes": 1,
-    "mlb-min-sf-2026-09-21::Minnesota Twins": 1,
-    "wnba-atl-nyl-2026-09-21::Atlanta Dream": 1,
-    "bra2-cui-nau-2026-09-21-cui::Yes": 1,
-    "nfl-nyg-la-2026-09-22::Giants": 1,
-    "wnba-atl-nyl-2026-09-21::New York Liberty": 1,
-    "mlb-tor-bal-2026-09-21::Baltimore Orioles": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-10pt5::Rams": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-9pt5::LA": 1,
-    "nfl-nyg-la-2026-09-22-spread-home-10pt5::Giants": 1,
-    "bra2-cui-nau-2026-09-21-nau::No": 1,
-    "argpn-chi-cap-2026-09-20-chi::No": 1,
-    "lal-lev-bil-2026-09-16-total-2pt5::Over": 1,
-    "arg-lan-est-2026-09-21-total-2pt5::Under": 1,
-    "bra2-cui-nau-2026-09-21-draw::No": 1,
-    "argpn-chi-cap-2026-09-20-cap::No": 1,
-    "uru1-esp-tor-2026-09-21-total-0pt5::Over": 1,
-    "argpn-chi-cap-2026-09-20-total-2pt5::Under": 1,
-    "nfl-nyg-la-2026-09-22-total-47pt5::Over": 1,
-    "arg-lan-est-2026-09-21-total-3pt5::Under": 1,
-    "uru1-esp-tor-2026-09-21-esp::No": 1,
-    "arg-lan-est-2026-09-21-lan::No": 1
+    "mlb-wsh-det-2026-09-21::Washington Nationals": 3,
+    "nfl-nyg-la-2026-09-22-spread-home-8pt5::Giants": 3,
+    "wnba-atl-nyl-2026-09-21-spread-away-1pt5::Atlanta Dream": 3,
+    "mlb-wsh-det-2026-09-21::Detroit Tigers": 3,
+    "mlb-min-sf-2026-09-21-total-8pt5::Under": 3,
+    "mls-fcc-dcu-2026-09-05-fcc::No": 3,
+    "mlb-tor-bal-2026-09-21::Toronto Blue Jays": 3,
+    "uru1-esp-tor-2026-09-21-tor::No": 3,
+    "arg-bar-riv1-2026-09-21-riv1::Yes": 3,
+    "nfl-nyg-la-2026-09-22-total-50pt5::Over": 3,
+    "mlb-wsh-det-2026-09-21-total-8pt5::Under": 3,
+    "nfl-nyg-la-2026-09-22-total-51pt5::Over": 3,
+    "mls-fcc-dcu-2026-09-05-spread-home-1pt5::D.C. United SC": 3,
+    "lal-lev-bil-2026-09-16-lev::No": 3,
+    "nfl-nyg-la-2026-09-22-spread-home-4pt5::Rams": 3,
+    "uru1-esp-tor-2026-09-21-tor::Yes": 3,
+    "nfl-nyg-la-2026-09-22-spread-home-9pt5::NYG": 3,
+    "atp-shick-maloney-2026-09-21::Patrick Maloney": 3,
+    "nfl-nyg-la-2026-09-22-total-51pt5::Under": 3,
+    "mlb-wsh-det-2026-09-21-total-8pt5::Over": 3,
+    "col2-bog-bar-2026-09-21-bog::Yes": 3,
+    "arg-bar-riv1-2026-09-21-bar::No": 3,
+    "arg-bar-riv1-2026-09-21-total-2pt5::Under": 3,
+    "mlb-tor-bal-2026-09-21-total-7pt5::Over": 3,
+    "nfl-nyg-la-2026-09-22-total-48pt5::Over": 3,
+    "lal-lev-bil-2026-09-16-bil::No": 3,
+    "wnba-atl-nyl-2026-09-21-spread-away-1pt5::New York Liberty": 3,
+    "mlb-wsh-det-2026-09-21-spread-home-1pt5::Detroit Tigers": 3,
+    "mlb-wsh-det-2026-09-21-total-7pt5::Under": 3,
+    "arg-lan-est-2026-09-21-total-1pt5::Under": 3,
+    "atp-villanu-justo-2026-09-21::Gonzalo Villanueva": 3,
+    "atp-smit-winter-2026-09-21::Keegan Smith": 3,
+    "mls-chi-vwh-2026-07-16-chi::No": 3,
+    "arg-bar-riv1-2026-09-21-draw::No": 3,
+    "argpn-chi-cap-2026-09-20-chi::Yes": 3,
+    "ukr1-ver-kud-2026-09-12-ver::No": 3,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "mls-chi-vwh-2026-07-16-vwh::Yes": 3,
+    "wnba-dal-phx-2026-09-21-spread-away-5pt5::Phoenix Mercury": 3,
+    "unl-tur-fra-2026-09-25-fra::No": 3,
+    "mlb-min-sf-2026-09-21::San Francisco Giants": 3,
+    "nfl-nyg-la-2026-09-22::Rams": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-6pt5::Rams": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-7pt5::Rams": 2,
+    "nfl-nyg-la-2026-09-22-total-47pt5::Under": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-6pt5::Giants": 2,
+    "arg-lan-est-2026-09-21-lan::Yes": 2,
+    "mlb-min-sf-2026-09-21::Minnesota Twins": 2,
+    "wnba-atl-nyl-2026-09-21::Atlanta Dream": 2,
+    "bra2-cui-nau-2026-09-21-cui::Yes": 2,
+    "nfl-nyg-la-2026-09-22::Giants": 2,
+    "wnba-atl-nyl-2026-09-21::New York Liberty": 2,
+    "mlb-tor-bal-2026-09-21::Baltimore Orioles": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-10pt5::Rams": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-9pt5::LA": 2,
+    "nfl-nyg-la-2026-09-22-spread-home-10pt5::Giants": 2,
+    "bra2-cui-nau-2026-09-21-nau::No": 2,
+    "argpn-chi-cap-2026-09-20-chi::No": 2,
+    "arg-lan-est-2026-09-21-total-2pt5::Under": 2,
+    "bra2-cui-nau-2026-09-21-draw::No": 2,
+    "argpn-chi-cap-2026-09-20-cap::No": 2,
+    "uru1-esp-tor-2026-09-21-total-0pt5::Over": 2,
+    "argpn-chi-cap-2026-09-20-total-2pt5::Under": 2,
+    "nfl-nyg-la-2026-09-22-total-47pt5::Over": 2,
+    "arg-lan-est-2026-09-21-total-3pt5::Under": 2,
+    "uru1-esp-tor-2026-09-21-esp::No": 2,
+    "arg-lan-est-2026-09-21-lan::No": 2,
+    "lal-lev-bil-2026-09-16-bil::Yes": 1,
+    "bra2-cui-nau-2026-09-21-total-1pt5::Over": 1,
+    "wnba-min-ind-2026-09-22::Indiana Fever": 1
   },
-  "updated_at": "2026-09-22T06:52:23.560377+00:00"
+  "updated_at": "2026-09-22T12:15:08.092983+00:00"
 }
