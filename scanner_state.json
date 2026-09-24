@@ -1,20 +1,597 @@
 {
   "seen_ids": [
-    "mlb-cws-kc-2026-09-24::Chicago White Sox",
-    "mlb-stl-pit-2026-09-24::Pittsburgh Pirates",
+    "unl-nor-den-2026-09-24-nor::Yes",
+    "mlb-mil-phi-2026-09-24::Philadelphia Phillies",
+    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Falcons",
     "nfl-atl-gb-2026-09-25-total-43pt5::Under",
     "mlb-ari-col-2026-09-24::Arizona Diamondbacks",
-    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Falcons",
+    "nfl-atl-gb-2026-09-25-spread-home-4pt5::Packers",
+    "unl-prt-wal-2026-09-24-wal::No",
     "nfl-atl-gb-2026-09-25-spread-home-7pt5::Falcons",
-    "mlb-stl-pit-2026-09-24-total-6pt5::Under",
-    "mlb-mia-chc-2026-09-24-total-7pt5::Under",
-    "unl-nor-den-2026-09-24-nor::No",
-    "mlb-stl-pit-2026-09-24-spread-home-1pt5::St. Louis Cardinals",
+    "mlb-tb-nyy-2026-09-24-total-6pt5::Under",
+    "mlb-mil-phi-2026-09-24-total-7pt5::Under",
     "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming",
     "nfl-atl-gb-2026-09-25-spread-home-5pt5::Falcons",
-    "cfb-oregst-utep-2026-09-26-total-55pt5::Over"
+    "mlb-hou-oak-2026-09-24::Houston Astros",
+    "unl-aut-isr-2026-09-24-aut::Yes",
+    "cs2-all-sin2-2026-09-25::Alliance",
+    "cfb-oregst-utep-2026-09-26-total-55pt5::Over",
+    "unl-nld-ger-2026-09-24-btts::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Norway win on 2026-09-24?",
+      "slug": "unl-nor-den-2026-09-24-nor",
+      "outcome": "Yes",
+      "num_traders": 6,
+      "total_value": 1115157.05,
+      "holders": [
+        {
+          "trader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+          "roi": 0.4047,
+          "value": 607960.21,
+          "avg_price": 0.594,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3906,
+          "value": 415646.94,
+          "avg_price": 0.6,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1747,
+          "value": 52696.1,
+          "avg_price": 0.5592,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 32350.82,
+          "avg_price": 0.5452,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 4605.24,
+          "avg_price": 0.5529,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xB595d09Ce5bBc4d39E3b3D04E80C402d2C8D5922-1769777706105",
+          "roi": 0.3988,
+          "value": 1897.74,
+          "avg_price": 0.9897,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Philadelphia Phillies",
+      "slug": "mlb-mil-phi-2026-09-24",
+      "outcome": "Philadelphia Phillies",
+      "num_traders": 5,
+      "total_value": 48549.7,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3114,
+          "value": 30468.45,
+          "avg_price": 0.5399,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4192,
+          "value": 8976.74,
+          "avg_price": 0.5369,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 6227.16,
+          "avg_price": 0.5377,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 2348.9,
+          "avg_price": 0.5196,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1747,
+          "value": 528.45,
+          "avg_price": 0.51,
+          "cur_price": 0.325
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-6.5)",
+      "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5",
+      "outcome": "Falcons",
+      "num_traders": 5,
+      "total_value": 41842.94,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 16349.19,
+          "avg_price": 0.5537,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 14076.82,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.4247,
+          "value": 10512.59,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.364,
+          "value": 780.02,
+          "avg_price": 0.5299,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4192,
+          "value": 124.32,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Packers: O/U 43.5",
+      "slug": "nfl-atl-gb-2026-09-25-total-43pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 105629.82,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 46983.96,
+          "avg_price": 0.5188,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 0.9197,
+          "value": 36256,
+          "avg_price": 0.5242,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 15252.75,
+          "avg_price": 0.5133,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.364,
+          "value": 7137.11,
+          "avg_price": 0.5299,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Arizona Diamondbacks vs. Colorado Rockies",
+      "slug": "mlb-ari-col-2026-09-24",
+      "outcome": "Arizona Diamondbacks",
+      "num_traders": 4,
+      "total_value": 16284.46,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 7113.44,
+          "avg_price": 0.64,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 6261.62,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 2279.81,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "justaluckydude",
+          "roi": 0.2364,
+          "value": 629.59,
+          "avg_price": 0.9685,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-4.5)",
+      "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5",
+      "outcome": "Packers",
+      "num_traders": 3,
+      "total_value": 82740.79,
+      "holders": [
+        {
+          "trader": "Donkey14",
+          "roi": 0.7184,
+          "value": 53645.81,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 20203.45,
+          "avg_price": 0.5034,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 8891.53,
+          "avg_price": 0.5024,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will Wales win on 2026-09-24?",
+      "slug": "unl-prt-wal-2026-09-24-wal",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 68984.58,
+      "holders": [
+        {
+          "trader": "milkywaybet",
+          "roi": 0.5033,
+          "value": 47305.67,
+          "avg_price": 0.9978,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 21126.43,
+          "avg_price": 0.96,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 552.48,
+          "avg_price": 0.95,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-7.5)",
+      "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5",
+      "outcome": "Falcons",
+      "num_traders": 3,
+      "total_value": 46267.45,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 27717.7,
+          "avg_price": 0.6063,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 11018.34,
+          "avg_price": 0.6134,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.4247,
+          "value": 7531.41,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+      "slug": "mlb-tb-nyy-2026-09-24-total-6pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 42288.25,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 22081.91,
+          "avg_price": 0.5497,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.364,
+          "value": 17714.39,
+          "avg_price": 0.5499,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 2491.95,
+          "avg_price": 0.5504,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+      "slug": "mlb-mil-phi-2026-09-24-total-7pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 23242.32,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 20455.47,
+          "avg_price": 0.48,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4192,
+          "value": 1531.39,
+          "avg_price": 0.47,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 1255.46,
+          "avg_price": 0.4919,
+          "cur_price": 0.395
+        }
+      ]
+    },
+    {
+      "market": "Spread: Hawai'i (-3.5)",
+      "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5",
+      "outcome": "Wyoming",
+      "num_traders": 3,
+      "total_value": 23125.23,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3114,
+          "value": 18499.79,
+          "avg_price": 0.55,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 3081.91,
+          "avg_price": 0.5436,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 1543.53,
+          "avg_price": 0.53,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-5.5)",
+      "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5",
+      "outcome": "Falcons",
+      "num_traders": 3,
+      "total_value": 22416.27,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 13234.46,
+          "avg_price": 0.5097,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.4247,
+          "value": 6396.69,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 2785.12,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Houston Astros vs. Athletics",
+      "slug": "mlb-hou-oak-2026-09-24",
+      "outcome": "Houston Astros",
+      "num_traders": 3,
+      "total_value": 17672.97,
+      "holders": [
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.4247,
+          "value": 12582.24,
+          "avg_price": 0.6099,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 4266.82,
+          "avg_price": 0.6099,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Donkey14",
+          "roi": 0.7184,
+          "value": 823.91,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will Austria win on 2026-09-24?",
+      "slug": "unl-aut-isr-2026-09-24-aut",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15003.87,
+      "holders": [
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 7800.5,
+          "avg_price": 0.6729,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1747,
+          "value": 5686.13,
+          "avg_price": 0.68,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 1517.24,
+          "avg_price": 0.6726,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playoffs",
+      "slug": "cs2-all-sin2-2026-09-25",
+      "outcome": "Alliance",
+      "num_traders": 3,
+      "total_value": 5922.43,
+      "holders": [
+        {
+          "trader": "TrippleEX",
+          "roi": 0.9859,
+          "value": 5549.99,
+          "avg_price": 0.5899,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1747,
+          "value": 249.56,
+          "avg_price": 0.5982,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 122.88,
+          "avg_price": 0.59,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Oregon State vs. UTEP: O/U 55.5",
+      "slug": "cfb-oregst-utep-2026-09-26-total-55pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 5252.22,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2025,
+          "value": 2988.79,
+          "avg_price": 0.5041,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2377,
+          "value": 1703.87,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 0.9197,
+          "value": 559.56,
+          "avg_price": 0.52,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Netherlands vs. Germany: Both Teams to Score",
+      "slug": "unl-nld-ger-2026-09-24-btts",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 5111.84,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1747,
+          "value": 2669.74,
+          "avg_price": 0.69,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xB595d09Ce5bBc4d39E3b3D04E80C402d2C8D5922-1769777706105",
+          "roi": 0.3988,
+          "value": 1881.9,
+          "avg_price": 0.9439,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.1986,
+          "value": 560.2,
+          "avg_price": 0.69,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Chicago White Sox vs. Kansas City Royals",
       "slug": "mlb-cws-kc-2026-09-24",
@@ -93,154 +670,6 @@
           "value": 1276.52,
           "avg_price": 0.59,
           "cur_price": 0.995
-        }
-      ]
-    },
-    {
-      "market": "Falcons vs. Packers: O/U 43.5",
-      "slug": "nfl-atl-gb-2026-09-25-total-43pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 67651.91,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 26219.16,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 1.3106,
-          "value": 25750,
-          "avg_price": 0.53,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 8545.64,
-          "avg_price": 0.5159,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 1.3919,
-          "value": 7137.11,
-          "avg_price": 0.5299,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Arizona Diamondbacks vs. Colorado Rockies",
-      "slug": "mlb-ari-col-2026-09-24",
-      "outcome": "Arizona Diamondbacks",
-      "num_traders": 4,
-      "total_value": 56913.31,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1851,
-          "value": 30121.74,
-          "avg_price": 0.6398,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "HMLSF",
-          "roi": 1.0059,
-          "value": 18380.4,
-          "avg_price": 0.6399,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 6369.72,
-          "avg_price": 0.64,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 2041.45,
-          "avg_price": 0.63,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-6.5)",
-      "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5",
-      "outcome": "Falcons",
-      "num_traders": 4,
-      "total_value": 34483.84,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 16164.93,
-          "avg_price": 0.5537,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.3728,
-          "value": 10512.59,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 7026.3,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 1.3919,
-          "value": 780.02,
-          "avg_price": 0.5299,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-7.5)",
-      "slug": "nfl-atl-gb-2026-09-25-spread-home-7pt5",
-      "outcome": "Falcons",
-      "num_traders": 4,
-      "total_value": 30677.79,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 16302.12,
-          "avg_price": 0.5991,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.3728,
-          "value": 7531.41,
-          "avg_price": 0.61,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 5717.65,
-          "avg_price": 0.6141,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.1851,
-          "value": 1126.61,
-          "avg_price": 0.614,
-          "cur_price": 0.615
         }
       ]
     },
@@ -379,126 +808,6 @@
       ]
     },
     {
-      "market": "Spread: Hawai'i (-3.5)",
-      "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5",
-      "outcome": "Wyoming",
-      "num_traders": 3,
-      "total_value": 23136.89,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.3062,
-          "value": 18499.79,
-          "avg_price": 0.55,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 3093.57,
-          "avg_price": 0.5436,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 1543.53,
-          "avg_price": 0.53,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-5.5)",
-      "slug": "nfl-atl-gb-2026-09-25-spread-home-5pt5",
-      "outcome": "Falcons",
-      "num_traders": 3,
-      "total_value": 21704.76,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 12701.24,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.3728,
-          "value": 6272.48,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 2731.04,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Oregon State vs. UTEP: O/U 55.5",
-      "slug": "cfb-oregst-utep-2026-09-26-total-55pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 5252.22,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2431,
-          "value": 2988.79,
-          "avg_price": 0.5041,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3786,
-          "value": 1703.87,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 1.3106,
-          "value": 559.56,
-          "avg_price": 0.52,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-4.5)",
-      "slug": "nfl-atl-gb-2026-09-25-spread-home-4pt5",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 141640.0,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3216,
-          "value": 99000,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 23969.88,
-          "avg_price": 0.505,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 18670.12,
-          "avg_price": 0.5035,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
       "market": "Falcons vs. Packers: O/U 43.5",
       "slug": "nfl-atl-gb-2026-09-25-total-43pt5",
       "outcome": "Over",
@@ -619,36 +928,6 @@
       ]
     },
     {
-      "market": "Milwaukee Brewers vs. Philadelphia Phillies",
-      "slug": "mlb-mil-phi-2026-09-24",
-      "outcome": "Philadelphia Phillies",
-      "num_traders": 3,
-      "total_value": 5416.31,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 4011.19,
-          "avg_price": 0.5196,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.3506,
-          "value": 804.05,
-          "avg_price": 0.5203,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 601.07,
-          "avg_price": 0.53,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
       "market": "San Diego Padres vs. Los Angeles Dodgers: O/U 7.5",
       "slug": "mlb-sd-lad-2026-09-24-total-7pt5",
       "outcome": "Over",
@@ -765,66 +1044,6 @@
           "value": 171.33,
           "avg_price": 0.5599,
           "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Will Japan win on 2026-09-24?",
-      "slug": "fif-jpn-ury-2026-09-24-jpn",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14551.67,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2997,
-          "value": 7769.77,
-          "avg_price": 0.5489,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.0266,
-          "value": 5150.43,
-          "avg_price": 0.5486,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3357,
-          "value": 1631.47,
-          "avg_price": 0.5499,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Will Japan win on 2026-09-24?",
-      "slug": "fif-jpn-ury-2026-09-24-jpn",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 9059.98,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.1949,
-          "value": 7476.15,
-          "avg_price": 0.4475,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.6867,
-          "value": 934.89,
-          "avg_price": 0.42,
-          "cur_price": 0.55
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.2997,
-          "value": 648.94,
-          "avg_price": 0.4405,
-          "cur_price": 0.525
         }
       ]
     }
@@ -2324,7 +2543,6 @@
     "atp-mochizu-kotov-2026-09-23::Shintaro Mochizuki": 3,
     "lal-lev-bil-2026-09-16-total-2pt5::Over": 3,
     "atp-bolt-santill-2026-09-23::Akira Santillan": 3,
-    "unl-nor-den-2026-09-24-nor::Yes": 3,
     "atp-muller-biryuko-2026-09-23::Alexandre Muller": 3,
     "atp-bolt-santill-2026-09-23::Alex Bolt": 3,
     "npb-hir-yom-2026-09-23::Hiroshima Carp": 3,
@@ -2431,18 +2649,22 @@
     "mlb-sd-lad-2026-09-23-total-7pt5::Under": 3,
     "mls-sea-rsl-2026-04-12-sea::Yes": 3,
     "mlb-sd-lad-2026-09-23-total-6pt5::Under": 3,
-    "fif-jpn-ury-2026-09-24-jpn::Yes": 2,
-    "fif-jpn-ury-2026-09-24-jpn::No": 2,
-    "nfl-atl-gb-2026-09-25-spread-home-4pt5::Packers": 1,
-    "nfl-atl-gb-2026-09-25-total-43pt5::Over": 1,
-    "mlb-cin-atl-2026-09-24::Cincinnati Reds": 1,
-    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Packers": 1,
-    "mlb-cle-bos-2026-09-24-total-7pt5::Under": 1,
-    "mlb-mil-phi-2026-09-24::Philadelphia Phillies": 1,
-    "mlb-sd-lad-2026-09-24-total-7pt5::Over": 1,
-    "unl-prt-wal-2026-09-24-spread-home-1pt5::Wales": 1,
-    "mlb-sd-lad-2026-09-24-total-8pt5::Over": 1,
-    "mlb-hou-oak-2026-09-24-total-11pt5::Under": 1
+    "fif-jpn-ury-2026-09-24-jpn::Yes": 3,
+    "fif-jpn-ury-2026-09-24-jpn::No": 3,
+    "nfl-atl-gb-2026-09-25-total-43pt5::Over": 2,
+    "mlb-cin-atl-2026-09-24::Cincinnati Reds": 2,
+    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Packers": 2,
+    "mlb-cle-bos-2026-09-24-total-7pt5::Under": 2,
+    "mlb-sd-lad-2026-09-24-total-7pt5::Over": 2,
+    "unl-prt-wal-2026-09-24-spread-home-1pt5::Wales": 2,
+    "mlb-sd-lad-2026-09-24-total-8pt5::Over": 2,
+    "mlb-hou-oak-2026-09-24-total-11pt5::Under": 2,
+    "mlb-cws-kc-2026-09-24::Chicago White Sox": 1,
+    "mlb-stl-pit-2026-09-24::Pittsburgh Pirates": 1,
+    "mlb-stl-pit-2026-09-24-total-6pt5::Under": 1,
+    "mlb-mia-chc-2026-09-24-total-7pt5::Under": 1,
+    "unl-nor-den-2026-09-24-nor::No": 1,
+    "mlb-stl-pit-2026-09-24-spread-home-1pt5::St. Louis Cardinals": 1
   },
-  "updated_at": "2026-09-24T19:18:41.535584+00:00"
+  "updated_at": "2026-09-24T22:32:46.433225+00:00"
 }
