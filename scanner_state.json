@@ -1,23 +1,5 @@
 {
-  "seen_ids": [
-    "unl-nor-den-2026-09-24-nor::Yes",
-    "mlb-mil-phi-2026-09-24::Philadelphia Phillies",
-    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Falcons",
-    "nfl-atl-gb-2026-09-25-total-43pt5::Under",
-    "mlb-ari-col-2026-09-24::Arizona Diamondbacks",
-    "nfl-atl-gb-2026-09-25-spread-home-4pt5::Packers",
-    "unl-prt-wal-2026-09-24-wal::No",
-    "nfl-atl-gb-2026-09-25-spread-home-7pt5::Falcons",
-    "mlb-tb-nyy-2026-09-24-total-6pt5::Under",
-    "mlb-mil-phi-2026-09-24-total-7pt5::Under",
-    "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming",
-    "nfl-atl-gb-2026-09-25-spread-home-5pt5::Falcons",
-    "mlb-hou-oak-2026-09-24::Houston Astros",
-    "unl-aut-isr-2026-09-24-aut::Yes",
-    "cs2-all-sin2-2026-09-25::Alliance",
-    "cfb-oregst-utep-2026-09-26-total-55pt5::Over",
-    "unl-nld-ger-2026-09-24-btts::Yes"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "Will Norway win on 2026-09-24?",
@@ -804,246 +786,6 @@
           "value": 4852.22,
           "avg_price": 0.5999,
           "cur_price": 0.995
-        }
-      ]
-    },
-    {
-      "market": "Falcons vs. Packers: O/U 43.5",
-      "slug": "nfl-atl-gb-2026-09-25-total-43pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 26855.92,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 12759.79,
-          "avg_price": 0.47,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3216,
-          "value": 7903.7,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 6192.43,
-          "avg_price": 0.4906,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Cincinnati Reds vs. Atlanta Braves",
-      "slug": "mlb-cin-atl-2026-09-24",
-      "outcome": "Cincinnati Reds",
-      "num_traders": 3,
-      "total_value": 17335.83,
-      "holders": [
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 1.1735,
-          "value": 12600,
-          "avg_price": 0.33,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.8655,
-          "value": 3150,
-          "avg_price": 0.32,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 1585.83,
-          "avg_price": 0.32,
-          "cur_price": 0.315
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-6.5)",
-      "slug": "nfl-atl-gb-2026-09-25-spread-home-6pt5",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 10632.0,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 6012.04,
-          "avg_price": 0.4401,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.3506,
-          "value": 2886.77,
-          "avg_price": 0.473,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 1733.19,
-          "avg_price": 0.4399,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Cleveland Guardians vs. Boston Red Sox: O/U 7.5",
-      "slug": "mlb-cle-bos-2026-09-24-total-7pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 8914.23,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 6959.12,
-          "avg_price": 0.5508,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 1659.72,
-          "avg_price": 0.5893,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 295.39,
-          "avg_price": 0.5621,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "San Diego Padres vs. Los Angeles Dodgers: O/U 7.5",
-      "slug": "mlb-sd-lad-2026-09-24-total-7pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 4914.2,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 3580.44,
-          "avg_price": 0.5254,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 727.07,
-          "avg_price": 0.5154,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 606.69,
-          "avg_price": 0.5095,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Spread: Portugal (-1.5)",
-      "slug": "unl-prt-wal-2026-09-24-spread-home-1pt5",
-      "outcome": "Wales",
-      "num_traders": 3,
-      "total_value": 2989.8,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.3506,
-          "value": 1440.54,
-          "avg_price": 0.4192,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.3216,
-          "value": 891.35,
-          "avg_price": 0.3699,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 657.91,
-          "avg_price": 0.4246,
-          "cur_price": 0.345
-        }
-      ]
-    },
-    {
-      "market": "San Diego Padres vs. Los Angeles Dodgers: O/U 8.5",
-      "slug": "mlb-sd-lad-2026-09-24-total-8pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 2163.44,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 1252.08,
-          "avg_price": 0.4384,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 797.44,
-          "avg_price": 0.42,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 113.92,
-          "avg_price": 0.42,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Houston Astros vs. Athletics: O/U 11.5",
-      "slug": "mlb-hou-oak-2026-09-24-total-11pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 2050.22,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.3149,
-          "value": 1212.57,
-          "avg_price": 0.5797,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.61,
-          "value": 666.32,
-          "avg_price": 0.5618,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2071,
-          "value": 171.33,
-          "avg_price": 0.5599,
-          "cur_price": 0.585
         }
       ]
     }
@@ -2651,20 +2393,37 @@
     "mlb-sd-lad-2026-09-23-total-6pt5::Under": 3,
     "fif-jpn-ury-2026-09-24-jpn::Yes": 3,
     "fif-jpn-ury-2026-09-24-jpn::No": 3,
-    "nfl-atl-gb-2026-09-25-total-43pt5::Over": 2,
-    "mlb-cin-atl-2026-09-24::Cincinnati Reds": 2,
-    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Packers": 2,
-    "mlb-cle-bos-2026-09-24-total-7pt5::Under": 2,
-    "mlb-sd-lad-2026-09-24-total-7pt5::Over": 2,
-    "unl-prt-wal-2026-09-24-spread-home-1pt5::Wales": 2,
-    "mlb-sd-lad-2026-09-24-total-8pt5::Over": 2,
-    "mlb-hou-oak-2026-09-24-total-11pt5::Under": 2,
-    "mlb-cws-kc-2026-09-24::Chicago White Sox": 1,
-    "mlb-stl-pit-2026-09-24::Pittsburgh Pirates": 1,
-    "mlb-stl-pit-2026-09-24-total-6pt5::Under": 1,
-    "mlb-mia-chc-2026-09-24-total-7pt5::Under": 1,
-    "unl-nor-den-2026-09-24-nor::No": 1,
-    "mlb-stl-pit-2026-09-24-spread-home-1pt5::St. Louis Cardinals": 1
+    "nfl-atl-gb-2026-09-25-total-43pt5::Over": 3,
+    "mlb-cin-atl-2026-09-24::Cincinnati Reds": 3,
+    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Packers": 3,
+    "mlb-cle-bos-2026-09-24-total-7pt5::Under": 3,
+    "mlb-sd-lad-2026-09-24-total-7pt5::Over": 3,
+    "unl-prt-wal-2026-09-24-spread-home-1pt5::Wales": 3,
+    "mlb-sd-lad-2026-09-24-total-8pt5::Over": 3,
+    "mlb-hou-oak-2026-09-24-total-11pt5::Under": 3,
+    "mlb-cws-kc-2026-09-24::Chicago White Sox": 2,
+    "mlb-stl-pit-2026-09-24::Pittsburgh Pirates": 2,
+    "mlb-stl-pit-2026-09-24-total-6pt5::Under": 2,
+    "mlb-mia-chc-2026-09-24-total-7pt5::Under": 2,
+    "unl-nor-den-2026-09-24-nor::No": 2,
+    "mlb-stl-pit-2026-09-24-spread-home-1pt5::St. Louis Cardinals": 2,
+    "unl-nor-den-2026-09-24-nor::Yes": 1,
+    "mlb-mil-phi-2026-09-24::Philadelphia Phillies": 1,
+    "nfl-atl-gb-2026-09-25-spread-home-6pt5::Falcons": 1,
+    "nfl-atl-gb-2026-09-25-total-43pt5::Under": 1,
+    "mlb-ari-col-2026-09-24::Arizona Diamondbacks": 1,
+    "nfl-atl-gb-2026-09-25-spread-home-4pt5::Packers": 1,
+    "unl-prt-wal-2026-09-24-wal::No": 1,
+    "nfl-atl-gb-2026-09-25-spread-home-7pt5::Falcons": 1,
+    "mlb-tb-nyy-2026-09-24-total-6pt5::Under": 1,
+    "mlb-mil-phi-2026-09-24-total-7pt5::Under": 1,
+    "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming": 1,
+    "nfl-atl-gb-2026-09-25-spread-home-5pt5::Falcons": 1,
+    "mlb-hou-oak-2026-09-24::Houston Astros": 1,
+    "unl-aut-isr-2026-09-24-aut::Yes": 1,
+    "cs2-all-sin2-2026-09-25::Alliance": 1,
+    "cfb-oregst-utep-2026-09-26-total-55pt5::Over": 1,
+    "unl-nld-ger-2026-09-24-btts::Yes": 1
   },
-  "updated_at": "2026-09-24T22:32:46.433225+00:00"
+  "updated_at": "2026-09-25T00:46:04.035227+00:00"
 }
