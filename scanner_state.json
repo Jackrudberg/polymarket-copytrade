@@ -1,9 +1,162 @@
 {
   "seen_ids": [
-    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes",
-    "val-ge1-vit-2026-09-26::Global Esports"
+    "dota2-lgd-ty-2026-09-26-game2::Team Yandex",
+    "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas",
+    "cfb-wake-lou-2026-09-26::Louisville",
+    "mlb-pit-det-2026-09-26::Pittsburgh Pirates",
+    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes"
   ],
   "signals": [
+    {
+      "market": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+      "slug": "dota2-lgd-ty-2026-09-26-game2",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 80607.65,
+      "holders": [
+        {
+          "trader": "Diabolical-Prize",
+          "roi": 0.2249,
+          "value": 73765.56,
+          "avg_price": 0.7999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.16,
+          "value": 4842.7,
+          "avg_price": 0.7792,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NeverLoseBet",
+          "roi": 0.3756,
+          "value": 1999.39,
+          "avg_price": 0.8899,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Texas (-5.5)",
+      "slug": "cfb-tx-tenn-2026-09-26-spread-away-5pt5",
+      "outcome": "Texas",
+      "num_traders": 3,
+      "total_value": 38621.18,
+      "holders": [
+        {
+          "trader": "Donkey14",
+          "roi": 1.3685,
+          "value": 19732.68,
+          "avg_price": 0.49,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3301,
+          "value": 16666.5,
+          "avg_price": 0.48,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "gagarin59",
+          "roi": 0.1986,
+          "value": 2222,
+          "avg_price": 0.48,
+          "cur_price": 0.5
+        }
+      ]
+    },
+    {
+      "market": "Wake Forest vs. Louisville",
+      "slug": "cfb-wake-lou-2026-09-26",
+      "outcome": "Louisville",
+      "num_traders": 3,
+      "total_value": 27377.24,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.16,
+          "value": 16100,
+          "avg_price": 0.81,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "gagarin59",
+          "roi": 0.1986,
+          "value": 7602.42,
+          "avg_price": 0.81,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.5666,
+          "value": 3674.82,
+          "avg_price": 0.82,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Pittsburgh Pirates vs. Detroit Tigers",
+      "slug": "mlb-pit-det-2026-09-26",
+      "outcome": "Pittsburgh Pirates",
+      "num_traders": 3,
+      "total_value": 16915.33,
+      "holders": [
+        {
+          "trader": "Donkey14",
+          "roi": 1.3685,
+          "value": 13852.53,
+          "avg_price": 0.48,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.16,
+          "value": 2090,
+          "avg_price": 0.49,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "wapol",
+          "roi": 0.8171,
+          "value": 972.8,
+          "avg_price": 0.48,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+      "slug": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 13525.61,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.16,
+          "value": 8650.0,
+          "avg_price": 0.85,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.7983,
+          "value": 3759.59,
+          "avg_price": 0.87,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.7216,
+          "value": 1116.02,
+          "avg_price": 0.8006,
+          "cur_price": 0.865
+        }
+      ]
+    },
     {
       "market": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
       "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
@@ -1987,7 +2140,6 @@
     "will-harry-kane-win-the-2026-ballon-dor::Yes": 3,
     "will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election::Yes": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
-    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes": 3,
     "will-2026-be-the-second-hottest-year-on-record::Yes": 3,
     "will-xavier-becerra-win-the-california-governor-election-in-2026::Yes": 3,
     "2026-balance-of-power-r-senate-d-house-444::Yes": 3,
@@ -2397,24 +2549,26 @@
     "nfl-ari-sf-2026-09-27-total-47pt5::Under": 3,
     "wta-bondar-ruse-2026-09-25::Anna Bondar": 3,
     "nfl-bal-dal-2026-09-27-spread-away-2pt5::Ravens": 3,
-    "cfb-clmsn-cah-2026-09-25::Clemson": 1,
-    "nfl-kc-mia-2026-09-27::Chiefs": 1,
-    "cfb-clmsn-cah-2026-09-25-total-50pt5::Under": 1,
-    "cfb-miss-fl-2026-09-26::Ole Miss": 1,
-    "wta-preston-korneev-2026-09-25::Alina Korneeva": 1,
-    "unl-eng-esp-2026-09-26-esp::Yes": 1,
-    "nfl-nyj-det-2026-09-27-spread-home-6pt5::Jets": 1,
-    "nfl-sea-was-2026-09-27-total-40pt5::Under": 1,
-    "conl-slv-mart-2026-09-25-slv::Yes": 1,
-    "nfl-la-den-2026-09-28::Rams": 1,
-    "nfl-kc-mia-2026-09-27-spread-away-10pt5::Chiefs": 1,
-    "cfb-ore-usc-2026-09-26::Oregon": 1,
-    "cfb-txam-lsu-2026-09-26-spread-home-8pt5::LSU": 1,
-    "cfb-txam-lsu-2026-09-26-spread-home-0pt5::LSU": 1,
-    "atp-halys-safiull-2026-09-25::Roman Safiullin": 1,
-    "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming": 1,
-    "unl-nor-prt-2026-09-27-nor::Yes": 1,
-    "atp-cerund-fokina-2026-09-25::Juan Manuel Cerundolo": 1
+    "cfb-clmsn-cah-2026-09-25::Clemson": 2,
+    "nfl-kc-mia-2026-09-27::Chiefs": 2,
+    "cfb-clmsn-cah-2026-09-25-total-50pt5::Under": 2,
+    "cfb-miss-fl-2026-09-26::Ole Miss": 2,
+    "wta-preston-korneev-2026-09-25::Alina Korneeva": 2,
+    "unl-eng-esp-2026-09-26-esp::Yes": 2,
+    "nfl-nyj-det-2026-09-27-spread-home-6pt5::Jets": 2,
+    "nfl-sea-was-2026-09-27-total-40pt5::Under": 2,
+    "conl-slv-mart-2026-09-25-slv::Yes": 2,
+    "nfl-la-den-2026-09-28::Rams": 2,
+    "nfl-kc-mia-2026-09-27-spread-away-10pt5::Chiefs": 2,
+    "cfb-ore-usc-2026-09-26::Oregon": 2,
+    "cfb-txam-lsu-2026-09-26-spread-home-8pt5::LSU": 2,
+    "cfb-txam-lsu-2026-09-26-spread-home-0pt5::LSU": 2,
+    "atp-halys-safiull-2026-09-25::Roman Safiullin": 2,
+    "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming": 2,
+    "unl-nor-prt-2026-09-27-nor::Yes": 2,
+    "atp-cerund-fokina-2026-09-25::Juan Manuel Cerundolo": 2,
+    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 1,
+    "val-ge1-vit-2026-09-26::Global Esports": 1
   },
-  "updated_at": "2026-09-26T11:05:05.605229+00:00"
+  "updated_at": "2026-09-26T14:58:03.636860+00:00"
 }
