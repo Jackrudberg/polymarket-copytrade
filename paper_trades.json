@@ -31068,7 +31068,7 @@
       "current_value": 102.37,
       "paper_pnl": 2.37,
       "return_percent": 2.37,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 33730.13,
       "traders": [
@@ -31078,7 +31078,7 @@
         "balthazar"
       ],
       "url": "https://polymarket.com/event/will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
-      "consensus_lost_at": "2026-09-21T09:57:15.685538+00:00"
+      "consensus_lost_at": "2026-09-26T21:26:54.975608+00:00"
     },
     {
       "signal_id": "israel-x-iran-ceasefire-continues-through-september-30::Yes",
@@ -33758,15 +33758,15 @@
       "slug": "unl-eng-esp-2026-09-26-esp",
       "side": "No",
       "alerted_at": "2026-09-22T17:03:00.727389+00:00",
-      "last_seen": "2026-09-25T19:29:20.517257+00:00",
+      "last_seen": "2026-09-26T21:26:54.975608+00:00",
       "entry_price": 0.605,
-      "current_price": 0.575,
+      "current_price": 0.0005,
       "stake": 100.0,
       "shares": 165.289256,
-      "current_value": 95.04,
-      "paper_pnl": -4.96,
-      "return_percent": -4.96,
-      "status": "CONSENSUS_LOST",
+      "current_value": 0.08,
+      "paper_pnl": -99.92,
+      "return_percent": -99.92,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1063.24,
       "traders": [
@@ -41251,7 +41251,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 80607.65,
       "traders": [
@@ -41259,7 +41259,8 @@
         "0xheavy888",
         "NeverLoseBet"
       ],
-      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-09-26-game2"
+      "url": "https://polymarket.com/event/dota2-lgd-ty-2026-09-26-game2",
+      "consensus_lost_at": "2026-09-26T21:26:54.975608+00:00"
     },
     {
       "signal_id": "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas",
@@ -41299,7 +41300,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 27377.24,
       "traders": [
@@ -41307,7 +41308,8 @@
         "gagarin59",
         "ic4cream"
       ],
-      "url": "https://polymarket.com/event/cfb-wake-lou-2026-09-26"
+      "url": "https://polymarket.com/event/cfb-wake-lou-2026-09-26",
+      "consensus_lost_at": "2026-09-26T21:26:54.975608+00:00"
     },
     {
       "signal_id": "mlb-pit-det-2026-09-26::Pittsburgh Pirates",
@@ -41323,7 +41325,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 16915.33,
       "traders": [
@@ -41331,7 +41333,8 @@
         "0xheavy888",
         "wapol"
       ],
-      "url": "https://polymarket.com/event/mlb-pit-det-2026-09-26"
+      "url": "https://polymarket.com/event/mlb-pit-det-2026-09-26",
+      "consensus_lost_at": "2026-09-26T21:26:54.975608+00:00"
     },
     {
       "signal_id": "cfb-tx-tenn-2026-09-26::Texas",
@@ -41381,7 +41384,55 @@
         "wapol"
       ],
       "url": "https://polymarket.com/event/unl-far-kaz-2026-09-26-far"
+    },
+    {
+      "signal_id": "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5::Wyoming",
+      "market": "Spread: Hawai'i (-2.5)",
+      "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5",
+      "side": "Wyoming",
+      "alerted_at": "2026-09-26T21:26:54.975608+00:00",
+      "last_seen": "2026-09-26T21:26:54.975608+00:00",
+      "entry_price": 0.901034,
+      "current_price": 0.901034,
+      "stake": 100.0,
+      "shares": 110.983565,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 51166.53,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+        "monkeymashingkeyboard"
+      ],
+      "url": "https://polymarket.com/event/cfb-hawaii-wyom-2026-09-26-spread-away-2pt5"
+    },
+    {
+      "signal_id": "cfb-hawaii-wyom-2026-09-26::Hawai'i",
+      "market": "Hawai'i vs. Wyoming",
+      "slug": "cfb-hawaii-wyom-2026-09-26",
+      "side": "Hawai'i",
+      "alerted_at": "2026-09-26T21:26:54.975608+00:00",
+      "last_seen": "2026-09-26T21:26:54.975608+00:00",
+      "entry_price": 0.075,
+      "current_price": 0.075,
+      "stake": 100.0,
+      "shares": 1333.333333,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4074.81,
+      "traders": [
+        "analdesutructor",
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+        "6512395314597884"
+      ],
+      "url": "https://polymarket.com/event/cfb-hawaii-wyom-2026-09-26"
     }
   ],
-  "updated_at": "2026-09-26T18:29:17.564114+00:00"
+  "updated_at": "2026-09-26T21:26:54.975608+00:00"
 }

@@ -1,10 +1,107 @@
 {
   "seen_ids": [
-    "cfb-tx-tenn-2026-09-26::Texas",
-    "unl-far-kaz-2026-09-26-far::No",
-    "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas"
+    "unl-eng-esp-2026-09-26-esp::No",
+    "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5::Wyoming",
+    "cfb-hawaii-wyom-2026-09-26::Hawai'i"
   ],
   "signals": [
+    {
+      "market": "Will Spain win on 2026-09-26?",
+      "slug": "unl-eng-esp-2026-09-26-esp",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 467.49,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3248,
+          "value": 138.96,
+          "avg_price": 0.5497,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "Ne8om",
+          "roi": 0.2184,
+          "value": 114.12,
+          "avg_price": 0.5105,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "ripley86alien",
+          "roi": 0.285,
+          "value": 107.24,
+          "avg_price": 0.53,
+          "cur_price": 0.0005
+        },
+        {
+          "trader": "btmx6",
+          "roi": 0.5511,
+          "value": 107.17,
+          "avg_price": 0.5658,
+          "cur_price": 0.0005
+        }
+      ]
+    },
+    {
+      "market": "Spread: Hawai'i (-2.5)",
+      "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5",
+      "outcome": "Wyoming",
+      "num_traders": 3,
+      "total_value": 51166.53,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.2123,
+          "value": 40582.08,
+          "avg_price": 0.4698,
+          "cur_price": 0.9
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.84,
+          "value": 9063.56,
+          "avg_price": 0.5152,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3188,
+          "value": 1520.89,
+          "avg_price": 0.51,
+          "cur_price": 0.905
+        }
+      ]
+    },
+    {
+      "market": "Hawai'i vs. Wyoming",
+      "slug": "cfb-hawaii-wyom-2026-09-26",
+      "outcome": "Hawai'i",
+      "num_traders": 3,
+      "total_value": 4074.81,
+      "holders": [
+        {
+          "trader": "analdesutructor",
+          "roi": 0.1876,
+          "value": 2175.26,
+          "avg_price": 0.3491,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.84,
+          "value": 999.55,
+          "avg_price": 0.5499,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "6512395314597884",
+          "roi": 0.2256,
+          "value": 900.0,
+          "avg_price": 0.57,
+          "cur_price": 0.075
+        }
+      ]
+    },
     {
       "market": "Texas vs. Tennessee",
       "slug": "cfb-tx-tenn-2026-09-26",
@@ -219,66 +316,6 @@
           "value": 1116.02,
           "avg_price": 0.8006,
           "cur_price": 0.865
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 35755.7,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 1.1183,
-          "value": 34718.25,
-          "avg_price": 0.1536,
-          "cur_price": 0.252
-        },
-        {
-          "trader": "donthackme",
-          "roi": 1.1914,
-          "value": 851.39,
-          "avg_price": 0.0312,
-          "cur_price": 0.252
-        },
-        {
-          "trader": "e46m3",
-          "roi": 2.8169,
-          "value": 186.06,
-          "avg_price": 0.0312,
-          "cur_price": 0.252
-        }
-      ]
-    },
-    {
-      "market": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
-      "slug": "val-ge1-vit-2026-09-26",
-      "outcome": "Global Esports",
-      "num_traders": 3,
-      "total_value": 4390.19,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.7297,
-          "value": 3624.13,
-          "avg_price": 0.44,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "trgparking",
-          "roi": 4.3623,
-          "value": 492.97,
-          "avg_price": 0.3224,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.4355,
-          "value": 273.09,
-          "avg_price": 0.44,
-          "cur_price": 0.465
         }
       ]
     }
@@ -1974,7 +2011,6 @@
     "nfl-car-cle-2026-09-27-total-42pt5::Under": 3,
     "unl-geo-nir-2026-09-25-total-2pt5::Under": 3,
     "unl-mon-cyp-2026-09-25-total-2pt5::Under": 3,
-    "unl-eng-esp-2026-09-26-esp::No": 3,
     "nfl-car-cle-2026-09-27::Panthers": 3,
     "unl-pol-bih-2026-09-25-draw::No": 3,
     "unl-tur-fra-2026-09-25-total-3pt5::Over": 3,
@@ -2057,12 +2093,15 @@
     "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5::Wyoming": 3,
     "unl-nor-prt-2026-09-27-nor::Yes": 3,
     "atp-cerund-fokina-2026-09-25::Juan Manuel Cerundolo": 3,
-    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 2,
-    "val-ge1-vit-2026-09-26::Global Esports": 2,
-    "dota2-lgd-ty-2026-09-26-game2::Team Yandex": 1,
-    "cfb-wake-lou-2026-09-26::Louisville": 1,
-    "mlb-pit-det-2026-09-26::Pittsburgh Pirates": 1,
-    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes": 1
+    "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 3,
+    "val-ge1-vit-2026-09-26::Global Esports": 3,
+    "dota2-lgd-ty-2026-09-26-game2::Team Yandex": 2,
+    "cfb-wake-lou-2026-09-26::Louisville": 2,
+    "mlb-pit-det-2026-09-26::Pittsburgh Pirates": 2,
+    "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes": 2,
+    "cfb-tx-tenn-2026-09-26::Texas": 1,
+    "unl-far-kaz-2026-09-26-far::No": 1,
+    "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas": 1
   },
-  "updated_at": "2026-09-26T18:29:17.600442+00:00"
+  "updated_at": "2026-09-26T21:26:54.996159+00:00"
 }
