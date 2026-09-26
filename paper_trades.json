@@ -28470,7 +28470,7 @@
       "current_value": 175.0,
       "paper_pnl": 75.0,
       "return_percent": 75.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 12142.3,
       "traders": [
@@ -28479,7 +28479,7 @@
         "e46m3"
       ],
       "url": "https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
-      "consensus_lost_at": "2026-09-19T09:25:02.499268+00:00"
+      "consensus_lost_at": "2026-09-26T18:29:17.564114+00:00"
     },
     {
       "signal_id": "will-donald-trump-win-the-2028-republican-presidential-nomination::Yes",
@@ -41226,7 +41226,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4390.19,
       "traders": [
@@ -41234,7 +41234,8 @@
         "trgparking",
         "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542"
       ],
-      "url": "https://polymarket.com/event/val-ge1-vit-2026-09-26"
+      "url": "https://polymarket.com/event/val-ge1-vit-2026-09-26",
+      "consensus_lost_at": "2026-09-26T18:29:17.564114+00:00"
     },
     {
       "signal_id": "dota2-lgd-ty-2026-09-26-game2::Team Yandex",
@@ -41266,14 +41267,14 @@
       "slug": "cfb-tx-tenn-2026-09-26-spread-away-5pt5",
       "side": "Texas",
       "alerted_at": "2026-09-26T14:58:03.612040+00:00",
-      "last_seen": "2026-09-26T14:58:03.612040+00:00",
+      "last_seen": "2026-09-26T18:29:17.564114+00:00",
       "entry_price": 0.5,
-      "current_price": 0.5,
+      "current_price": 0.52,
       "stake": 100.0,
       "shares": 200.0,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 104.0,
+      "paper_pnl": 4.0,
+      "return_percent": 4.0,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 38621.18,
@@ -41331,7 +41332,56 @@
         "wapol"
       ],
       "url": "https://polymarket.com/event/mlb-pit-det-2026-09-26"
+    },
+    {
+      "signal_id": "cfb-tx-tenn-2026-09-26::Texas",
+      "market": "Texas vs. Tennessee",
+      "slug": "cfb-tx-tenn-2026-09-26",
+      "side": "Texas",
+      "alerted_at": "2026-09-26T18:29:17.564114+00:00",
+      "last_seen": "2026-09-26T18:29:17.564114+00:00",
+      "entry_price": 0.745608,
+      "current_price": 0.745608,
+      "stake": 100.0,
+      "shares": 134.118761,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 176750.25,
+      "traders": [
+        "Sassy-Bucket",
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "analdesutructor",
+        "primm"
+      ],
+      "url": "https://polymarket.com/event/cfb-tx-tenn-2026-09-26"
+    },
+    {
+      "signal_id": "unl-far-kaz-2026-09-26-far::No",
+      "market": "Will Faroe Islands win on 2026-09-26?",
+      "slug": "unl-far-kaz-2026-09-26-far",
+      "side": "No",
+      "alerted_at": "2026-09-26T18:29:17.564114+00:00",
+      "last_seen": "2026-09-26T18:29:17.564114+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 184146.12,
+      "traders": [
+        "Bloodygoodrep1",
+        "NeverLoseBet",
+        "wapol"
+      ],
+      "url": "https://polymarket.com/event/unl-far-kaz-2026-09-26-far"
     }
   ],
-  "updated_at": "2026-09-26T14:58:03.612040+00:00"
+  "updated_at": "2026-09-26T18:29:17.564114+00:00"
 }
