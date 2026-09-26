@@ -33591,7 +33591,7 @@
       "current_value": 150.3,
       "paper_pnl": 50.3,
       "return_percent": 50.3,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2591.05,
       "traders": [
@@ -33600,7 +33600,7 @@
         "GC-P"
       ],
       "url": "https://polymarket.com/event/unl-tur-fra-2026-09-25-fra",
-      "consensus_lost_at": "2026-09-23T06:07:45.929232+00:00"
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-atl-gb-2026-09-25-spread-home-7pt5::Packers",
@@ -35272,7 +35272,7 @@
       "current_value": 96.85,
       "paper_pnl": -3.15,
       "return_percent": -3.15,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7638.77,
       "traders": [
@@ -35281,7 +35281,7 @@
         "nigiri99"
       ],
       "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27",
-      "consensus_lost_at": "2026-09-24T15:17:50.673174+00:00"
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "wta-sierra-dilek-2026-09-22::Deniz Dilek",
@@ -37057,14 +37057,14 @@
       "slug": "cfb-miss-fl-2026-09-26",
       "side": "Ole Miss",
       "alerted_at": "2026-09-23T22:19:07.325918+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.4,
-      "current_price": 0.395,
+      "current_price": 0.385,
       "stake": 100.0,
       "shares": 250.0,
-      "current_value": 98.75,
-      "paper_pnl": -1.25,
-      "return_percent": -1.25,
+      "current_value": 96.25,
+      "paper_pnl": -3.75,
+      "return_percent": -3.75,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 64945.56,
@@ -37788,15 +37788,15 @@
       "slug": "cfb-hawaii-wyom-2026-09-26-spread-away-3pt5",
       "side": "Wyoming",
       "alerted_at": "2026-09-24T19:18:41.502819+00:00",
-      "last_seen": "2026-09-25T19:29:20.517257+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.555,
-      "current_price": 0.585,
+      "current_price": 0.575,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 105.41,
-      "paper_pnl": 5.41,
-      "return_percent": 5.41,
-      "status": "CONSENSUS_LOST",
+      "current_value": 103.6,
+      "paper_pnl": 3.6,
+      "return_percent": 3.6,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 23136.89,
       "traders": [
@@ -38042,7 +38042,7 @@
       "slug": "nfl-kc-mia-2026-09-27",
       "side": "Chiefs",
       "alerted_at": "2026-09-25T10:29:49.761930+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.845,
       "current_price": 0.845,
       "stake": 100.0,
@@ -38077,7 +38077,7 @@
       "current_value": 102.02,
       "paper_pnl": 2.02,
       "return_percent": 2.02,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 64253.91,
       "traders": [
@@ -38087,7 +38087,8 @@
         "HomeRunHazard",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27-spread-away-7pt5"
+      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27-spread-away-7pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-ne-jax-2026-09-27::Jaguars",
@@ -38103,7 +38104,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 45130.73,
       "traders": [
@@ -38113,7 +38114,8 @@
         "GC-P",
         "JustADonk"
       ],
-      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-ne-jax-2026-09-27-spread-home-2pt5::Jaguars",
@@ -38129,7 +38131,7 @@
       "current_value": 98.17,
       "paper_pnl": -1.83,
       "return_percent": -1.83,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 35575.47,
       "traders": [
@@ -38139,7 +38141,8 @@
         "mooseborzoi",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27-spread-home-2pt5"
+      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27-spread-home-2pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-la-den-2026-09-28::Broncos",
@@ -38155,7 +38158,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 23279.23,
       "traders": [
@@ -38165,7 +38168,8 @@
         "NM-P",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/nfl-la-den-2026-09-28"
+      "url": "https://polymarket.com/event/nfl-la-den-2026-09-28",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-phi-chi-2026-09-29::Eagles",
@@ -38181,7 +38185,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 20744.87,
       "traders": [
@@ -38191,7 +38195,8 @@
         "mooseborzoi",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/nfl-phi-chi-2026-09-29"
+      "url": "https://polymarket.com/event/nfl-phi-chi-2026-09-29",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-hou-ind-2026-09-27::Texans",
@@ -38207,7 +38212,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 14793.13,
       "traders": [
@@ -38217,7 +38222,8 @@
         "Sakan1",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/nfl-hou-ind-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-hou-ind-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-geo-nir-2026-09-25-geo::Yes",
@@ -38260,7 +38266,7 @@
       "current_value": 101.77,
       "paper_pnl": 1.77,
       "return_percent": 1.77,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 12547.98,
       "traders": [
@@ -38270,7 +38276,8 @@
         "mooseborzoi",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27-spread-away-6pt5"
+      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27-spread-away-6pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-nyj-det-2026-09-27-spread-home-6pt5::Lions",
@@ -38340,7 +38347,7 @@
       "current_value": 98.13,
       "paper_pnl": -1.87,
       "return_percent": -1.87,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 10522.0,
       "traders": [
@@ -38350,7 +38357,8 @@
         "NM-P",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/nfl-bal-dal-2026-09-27-total-52pt5"
+      "url": "https://polymarket.com/event/nfl-bal-dal-2026-09-27-total-52pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-arm-lat-2026-09-25-total-2pt5::Over",
@@ -38437,14 +38445,14 @@
       "slug": "nfl-nyj-det-2026-09-27-spread-home-6pt5",
       "side": "Jets",
       "alerted_at": "2026-09-25T10:29:49.761930+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.495,
-      "current_price": 0.485,
+      "current_price": 0.495,
       "stake": 100.0,
       "shares": 202.020202,
-      "current_value": 97.98,
-      "paper_pnl": -2.02,
-      "return_percent": -2.02,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 34117.0,
@@ -38522,7 +38530,7 @@
       "current_value": 98.73,
       "paper_pnl": -1.27,
       "return_percent": -1.27,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 14012.6,
       "traders": [
@@ -38531,7 +38539,8 @@
         "Cannae",
         "NM-P"
       ],
-      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "fif-aus-bra-2026-09-25-bra::No",
@@ -38573,7 +38582,7 @@
       "current_value": 102.35,
       "paper_pnl": 2.35,
       "return_percent": 2.35,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 8597.15,
       "traders": [
@@ -38582,7 +38591,8 @@
         "NM-P",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/nfl-car-cle-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-car-cle-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-sea-was-2026-09-27::Seahawks",
@@ -38598,7 +38608,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 8493.26,
       "traders": [
@@ -38608,7 +38618,7 @@
         "Cannae"
       ],
       "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27",
-      "consensus_lost_at": "2026-09-25T19:29:20.517257+00:00"
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-bal-dal-2026-09-27::Ravens",
@@ -38650,7 +38660,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 7223.94,
       "traders": [
@@ -38659,7 +38669,8 @@
         "Sakan1",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/nfl-ten-nyg-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-ten-nyg-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-min-tb-2026-09-27::Buccaneers",
@@ -38675,7 +38686,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 6766.46,
       "traders": [
@@ -38684,7 +38695,8 @@
         "NM-P",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-min-tb-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-min-tb-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-min-tb-2026-09-27::Vikings",
@@ -38778,7 +38790,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 3855.27,
       "traders": [
@@ -38787,7 +38799,8 @@
         "NM-P",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-ne-jax-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-bal-dal-2026-09-27-spread-away-2pt5::Ravens",
@@ -38803,7 +38816,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 3015.19,
       "traders": [
@@ -38812,7 +38825,8 @@
         "nigiri99",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/nfl-bal-dal-2026-09-27-spread-away-2pt5"
+      "url": "https://polymarket.com/event/nfl-bal-dal-2026-09-27-spread-away-2pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-arm-lat-2026-09-25-arm::No",
@@ -38880,7 +38894,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 108599.12,
       "traders": [
@@ -38888,7 +38902,8 @@
         "Herdonia",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/nfl-nyj-det-2026-09-27"
+      "url": "https://polymarket.com/event/nfl-nyj-det-2026-09-27",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-cin-pit-2026-09-27-spread-away-3pt5::Steelers",
@@ -39079,7 +39094,7 @@
       "current_value": 95.79,
       "paper_pnl": -4.21,
       "return_percent": -4.21,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 6943.24,
       "traders": [
@@ -39087,7 +39102,8 @@
         "6512395314597884",
         "Sakan1"
       ],
-      "url": "https://polymarket.com/event/cfb-clmsn-cah-2026-09-25"
+      "url": "https://polymarket.com/event/cfb-clmsn-cah-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-ita-bel-2026-09-25-bel::No",
@@ -39153,7 +39169,7 @@
       "current_value": 97.89,
       "paper_pnl": -2.11,
       "return_percent": -2.11,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5710.35,
       "traders": [
@@ -39161,7 +39177,8 @@
         "NM-P",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27-spread-away-3pt5"
+      "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27-spread-away-3pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-geo-nir-2026-09-25-geo::No",
@@ -39402,7 +39419,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1984.48,
       "traders": [
@@ -39410,7 +39427,8 @@
         "GC-P",
         "monkeymashingkeyboard"
       ],
-      "url": "https://polymarket.com/event/wta-bondar-ruse-2026-09-25"
+      "url": "https://polymarket.com/event/wta-bondar-ruse-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "fif-aus-bra-2026-09-25-aus::Yes",
@@ -39543,7 +39561,7 @@
       "slug": "nfl-sea-was-2026-09-27-total-40pt5",
       "side": "Under",
       "alerted_at": "2026-09-25T15:30:03.572088+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.515,
       "current_price": 0.525,
       "stake": 100.0,
@@ -39605,7 +39623,7 @@
       "current_value": 98.06,
       "paper_pnl": -1.94,
       "return_percent": -1.94,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 45342.97,
       "traders": [
@@ -39615,7 +39633,8 @@
         "NM-P",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-lac-buf-2026-09-27-spread-home-7pt5"
+      "url": "https://polymarket.com/event/nfl-lac-buf-2026-09-27-spread-home-7pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "es2-gir-alb-2026-09-25-gir::Yes",
@@ -39658,7 +39677,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 26280.81,
       "traders": [
@@ -39667,7 +39686,8 @@
         "NM-P",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/nfl-car-cle-2026-09-27-total-42pt5"
+      "url": "https://polymarket.com/event/nfl-car-cle-2026-09-27-total-42pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-ari-sf-2026-09-27-spread-home-8pt5::49ers",
@@ -39727,15 +39747,15 @@
       "slug": "cfb-ore-usc-2026-09-26",
       "side": "Oregon",
       "alerted_at": "2026-09-25T15:30:03.572088+00:00",
-      "last_seen": "2026-09-25T15:30:03.572088+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.595,
-      "current_price": 0.595,
+      "current_price": 0.605,
       "stake": 100.0,
       "shares": 168.067227,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 101.68,
+      "paper_pnl": 1.68,
+      "return_percent": 1.68,
+      "status": "OPEN",
       "num_traders": 4,
       "combined_value": 9748.5,
       "traders": [
@@ -39913,7 +39933,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7037.81,
       "traders": [
@@ -39921,7 +39941,8 @@
         "Herdonia",
         "mooseborzoi"
       ],
-      "url": "https://polymarket.com/event/nfl-nyj-det-2026-09-27-spread-home-7pt5"
+      "url": "https://polymarket.com/event/nfl-nyj-det-2026-09-27-spread-home-7pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "cfb-army-templ-2026-09-25::Army",
@@ -39937,7 +39958,7 @@
       "current_value": 61.78,
       "paper_pnl": -38.22,
       "return_percent": -38.22,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 6319.72,
       "traders": [
@@ -39945,7 +39966,8 @@
         "Herdonia",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25"
+      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-arm-lat-2026-09-25-arm::Yes",
@@ -39986,7 +40008,7 @@
       "current_value": 106.32,
       "paper_pnl": 6.32,
       "return_percent": 6.32,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5702.57,
       "traders": [
@@ -39994,7 +40016,8 @@
         "nigiri99",
         "mooseborzoi"
       ],
-      "url": "https://polymarket.com/event/mlb-bal-nyy-2026-09-26"
+      "url": "https://polymarket.com/event/mlb-bal-nyy-2026-09-26",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-car-cle-2026-09-27-total-42pt5::Under",
@@ -40110,7 +40133,7 @@
       "current_value": 201.92,
       "paper_pnl": 101.92,
       "return_percent": 101.92,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3892.38,
       "traders": [
@@ -40118,7 +40141,8 @@
         "mooseborzoi",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/unl-tur-fra-2026-09-25-spread-away-1pt5"
+      "url": "https://polymarket.com/event/unl-tur-fra-2026-09-25-spread-away-1pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-la-den-2026-09-28-spread-away-2pt5::Rams",
@@ -40159,7 +40183,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 2841.73,
       "traders": [
@@ -40167,7 +40191,8 @@
         "NM-P",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27-total-47pt5"
+      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27-total-47pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "fif-ind-pan-2026-09-25-ind::No",
@@ -40253,14 +40278,14 @@
       "slug": "cfb-clmsn-cah-2026-09-25",
       "side": "Clemson",
       "alerted_at": "2026-09-25T19:29:20.517257+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.555,
-      "current_price": 0.545,
+      "current_price": 0.9995,
       "stake": 100.0,
       "shares": 180.18018,
-      "current_value": 98.2,
-      "paper_pnl": -1.8,
-      "return_percent": -1.8,
+      "current_value": 180.09,
+      "paper_pnl": 80.09,
+      "return_percent": 80.09,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 61279.58,
@@ -40312,7 +40337,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 29158.77,
       "traders": [
@@ -40321,7 +40346,8 @@
         "GC-P",
         "NM-P"
       ],
-      "url": "https://polymarket.com/event/nfl-ten-nyg-2026-09-27-total-38pt5"
+      "url": "https://polymarket.com/event/nfl-ten-nyg-2026-09-27-total-38pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-swe-rom-2026-09-25-swe::Yes",
@@ -40337,7 +40363,7 @@
       "current_value": 125.72,
       "paper_pnl": 25.72,
       "return_percent": 25.72,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 16871.45,
       "traders": [
@@ -40346,7 +40372,8 @@
         "mooseborzoi",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/unl-swe-rom-2026-09-25-swe"
+      "url": "https://polymarket.com/event/unl-swe-rom-2026-09-25-swe",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-geo-nir-2026-09-25-nir::Yes",
@@ -40388,7 +40415,7 @@
       "current_value": 205.36,
       "paper_pnl": 105.36,
       "return_percent": 105.36,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 13687.58,
       "traders": [
@@ -40397,7 +40424,8 @@
         "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
         "Sakan1"
       ],
-      "url": "https://polymarket.com/event/mlb-bal-nyy-2026-09-25"
+      "url": "https://polymarket.com/event/mlb-bal-nyy-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-hun-ukr-2026-09-25-hun::No",
@@ -40413,7 +40441,7 @@
       "current_value": 158.7,
       "paper_pnl": 58.7,
       "return_percent": 58.7,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 12211.42,
       "traders": [
@@ -40422,7 +40450,8 @@
         "NM-P",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/unl-hun-ukr-2026-09-25-hun"
+      "url": "https://polymarket.com/event/unl-hun-ukr-2026-09-25-hun",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-cin-pit-2026-09-27-total-42pt5::Under",
@@ -40438,7 +40467,7 @@
       "current_value": 97.98,
       "paper_pnl": -2.02,
       "return_percent": -2.02,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 12162.09,
       "traders": [
@@ -40447,7 +40476,8 @@
         "Herdonia",
         "NM-P"
       ],
-      "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27-total-42pt5"
+      "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27-total-42pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-mon-cyp-2026-09-25-mon::No",
@@ -40556,15 +40586,15 @@
       "slug": "cfb-txam-lsu-2026-09-26-spread-home-0pt5",
       "side": "LSU",
       "alerted_at": "2026-09-25T19:29:20.517257+00:00",
-      "last_seen": "2026-09-25T19:29:20.517257+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.76,
-      "current_price": 0.76,
+      "current_price": 0.755,
       "stake": 100.0,
       "shares": 131.578947,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 99.34,
+      "paper_pnl": -0.66,
+      "return_percent": -0.66,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 10199.51,
       "traders": [
@@ -40639,7 +40669,7 @@
       "current_value": 101.94,
       "paper_pnl": 1.94,
       "return_percent": 1.94,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7704.61,
       "traders": [
@@ -40647,7 +40677,8 @@
         "mooseborzoi",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/cfb-miss-fl-2026-09-26-spread-home-3pt5"
+      "url": "https://polymarket.com/event/cfb-miss-fl-2026-09-26-spread-home-3pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-cin-pit-2026-09-27-total-42pt5::Over",
@@ -40880,15 +40911,15 @@
       "slug": "atp-halys-safiull-2026-09-25",
       "side": "Roman Safiullin",
       "alerted_at": "2026-09-25T19:29:20.517257+00:00",
-      "last_seen": "2026-09-25T19:29:20.517257+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.535,
-      "current_price": 0.535,
+      "current_price": 0.475,
       "stake": 100.0,
       "shares": 186.915888,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 88.79,
+      "paper_pnl": -11.21,
+      "return_percent": -11.21,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 2094.47,
       "traders": [
@@ -40913,7 +40944,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 47883.6,
       "traders": [
@@ -40923,7 +40954,8 @@
         "Sakan1",
         "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816"
       ],
-      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25"
+      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-eng-esp-2026-09-26-esp::Yes",
@@ -40931,14 +40963,14 @@
       "slug": "unl-eng-esp-2026-09-26-esp",
       "side": "Yes",
       "alerted_at": "2026-09-25T22:44:10.666833+00:00",
-      "last_seen": "2026-09-25T22:44:10.666833+00:00",
+      "last_seen": "2026-09-26T05:56:47.369611+00:00",
       "entry_price": 0.435,
-      "current_price": 0.435,
+      "current_price": 0.455,
       "stake": 100.0,
       "shares": 229.885057,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 104.6,
+      "paper_pnl": 4.6,
+      "return_percent": 4.6,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 13216.41,
@@ -40964,7 +40996,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 114813.94,
       "traders": [
@@ -40972,7 +41004,8 @@
         "us391",
         "NM-P"
       ],
-      "url": "https://polymarket.com/event/unl-tur-fra-2026-09-25-total-3pt5"
+      "url": "https://polymarket.com/event/unl-tur-fra-2026-09-25-total-3pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "lol-fly-sr-2026-09-25::FlyQuest",
@@ -40988,7 +41021,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 76542.5,
       "traders": [
@@ -40996,7 +41029,8 @@
         "TAIWANNUMBERONE",
         "FORTNITEMASTER888"
       ],
-      "url": "https://polymarket.com/event/lol-fly-sr-2026-09-25"
+      "url": "https://polymarket.com/event/lol-fly-sr-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "lol-fly-sr-2026-09-25-game2::Shopify Rebellion",
@@ -41012,7 +41046,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 45752.04,
       "traders": [
@@ -41020,7 +41054,8 @@
         "equalsignificance",
         "SineNooneEI"
       ],
-      "url": "https://polymarket.com/event/lol-fly-sr-2026-09-25-game2"
+      "url": "https://polymarket.com/event/lol-fly-sr-2026-09-25-game2",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "cfb-army-templ-2026-09-25-total-48pt5::Under",
@@ -41036,7 +41071,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 30745.36,
       "traders": [
@@ -41044,7 +41079,8 @@
         "mooseborzoi",
         "Sakan1"
       ],
-      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25-total-48pt5"
+      "url": "https://polymarket.com/event/cfb-army-templ-2026-09-25-total-48pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "cfb-howrd-rutger-2026-09-25::Rutgers",
@@ -41060,7 +41096,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 16152.15,
       "traders": [
@@ -41068,7 +41104,8 @@
         "Herdonia",
         "Sakan1"
       ],
-      "url": "https://polymarket.com/event/cfb-howrd-rutger-2026-09-25"
+      "url": "https://polymarket.com/event/cfb-howrd-rutger-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "cfb-navy-uab-2026-09-25-spread-away-6pt5::Navy",
@@ -41084,7 +41121,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 10260.26,
       "traders": [
@@ -41092,7 +41129,8 @@
         "mooseborzoi",
         "nigiri99"
       ],
-      "url": "https://polymarket.com/event/cfb-navy-uab-2026-09-25-spread-away-6pt5"
+      "url": "https://polymarket.com/event/cfb-navy-uab-2026-09-25-spread-away-6pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "nfl-phi-chi-2026-09-29-spread-away-4pt5::Bears",
@@ -41108,7 +41146,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7588.2,
       "traders": [
@@ -41116,7 +41154,8 @@
         "maz26",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/nfl-phi-chi-2026-09-29-spread-away-4pt5"
+      "url": "https://polymarket.com/event/nfl-phi-chi-2026-09-29-spread-away-4pt5",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "unl-eng-esp-2026-09-26-eng::No",
@@ -41132,7 +41171,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 5227.32,
       "traders": [
@@ -41140,7 +41179,8 @@
         "Siddhartha1",
         "Cannae"
       ],
-      "url": "https://polymarket.com/event/unl-eng-esp-2026-09-26-eng"
+      "url": "https://polymarket.com/event/unl-eng-esp-2026-09-26-eng",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     },
     {
       "signal_id": "cfb-harv-brwn-2026-09-25::Harvard",
@@ -41156,7 +41196,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3225.26,
       "traders": [
@@ -41164,8 +41204,9 @@
         "mooseborzoi",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/cfb-harv-brwn-2026-09-25"
+      "url": "https://polymarket.com/event/cfb-harv-brwn-2026-09-25",
+      "consensus_lost_at": "2026-09-26T05:56:47.369611+00:00"
     }
   ],
-  "updated_at": "2026-09-26T00:55:40.703398+00:00"
+  "updated_at": "2026-09-26T05:56:47.369611+00:00"
 }
