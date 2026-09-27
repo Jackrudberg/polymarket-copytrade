@@ -1,6 +1,680 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "cfb-txam-lsu-2026-09-26::LSU",
+    "cfb-ore-usc-2026-09-26::Oregon",
+    "cfb-ore-usc-2026-09-26::USC",
+    "ufc-nor1-ail1-2026-09-26::Ailin Perez",
+    "ufc-iliuul-mehosm-2026-09-26::Ilimbek Akylbek Uulu",
+    "cfb-okst-wvir-2026-09-26::Oklahoma State",
+    "cfb-txam-lsu-2026-09-26-total-52pt5::Under",
+    "cfb-missr-mspst-2026-09-26::Mississippi State",
+    "cfb-kanst-cin-2026-09-26::Kansas State",
+    "cfb-loulaf-charlt-2026-09-26::Louisiana",
+    "cfb-jmad-old-2026-09-26::James Madison",
+    "mls-nas-tor-2026-09-26-nas::Yes",
+    "mex-gua-que-2026-09-26-gua::No",
+    "cfb-ore-usc-2026-09-26-spread-away-3pt5::USC",
+    "cfb-kanst-cin-2026-09-26::Cincinnati",
+    "mex-caz-tol-2026-09-26-total-5pt5::Over",
+    "mex-caz-tol-2026-09-26-tol::No",
+    "cfb-tulsa-ark-2026-09-26::Tulsa",
+    "mex-caz-tol-2026-09-26-caz::No"
+  ],
   "signals": [
+    {
+      "market": "Texas A&M vs. LSU",
+      "slug": "cfb-txam-lsu-2026-09-26",
+      "outcome": "LSU",
+      "num_traders": 5,
+      "total_value": 446617.64,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 1.7125,
+          "value": 198799.99,
+          "avg_price": 0.76,
+          "cur_price": 0.994
+        },
+        {
+          "trader": "maz26",
+          "roi": 0.1821,
+          "value": 178919.98,
+          "avg_price": 0.76,
+          "cur_price": 0.994
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.5338,
+          "value": 57116.18,
+          "avg_price": 0.7826,
+          "cur_price": 0.994
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 6950.06,
+          "avg_price": 0.78,
+          "cur_price": 0.994
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 4831.43,
+          "avg_price": 0.7804,
+          "cur_price": 0.994
+        }
+      ]
+    },
+    {
+      "market": "Oregon vs. USC",
+      "slug": "cfb-ore-usc-2026-09-26",
+      "outcome": "Oregon",
+      "num_traders": 5,
+      "total_value": 94339.45,
+      "holders": [
+        {
+          "trader": "3648393489047",
+          "roi": 0.5338,
+          "value": 34350.66,
+          "avg_price": 0.608,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 30611.69,
+          "avg_price": 0.5747,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 20769.07,
+          "avg_price": 0.6084,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 5333.03,
+          "avg_price": 0.6206,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4268,
+          "value": 3275,
+          "avg_price": 0.63,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Oregon vs. USC",
+      "slug": "cfb-ore-usc-2026-09-26",
+      "outcome": "USC",
+      "num_traders": 5,
+      "total_value": 66325.71,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 1.7125,
+          "value": 33958.28,
+          "avg_price": 0.37,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 14539.48,
+          "avg_price": 0.3772,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 7927.41,
+          "avg_price": 0.37,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.8309,
+          "value": 7033.78,
+          "avg_price": 0.3709,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 2866.76,
+          "avg_price": 0.2316,
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims)",
+      "slug": "ufc-nor1-ail1-2026-09-26",
+      "outcome": "Ailin Perez",
+      "num_traders": 4,
+      "total_value": 209949.23,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 169549.8,
+          "avg_price": 0.5999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.8309,
+          "value": 30351.45,
+          "avg_price": 0.6,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 6514.73,
+          "avg_price": 0.4788,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.5338,
+          "value": 3533.25,
+          "avg_price": 0.2685,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card)",
+      "slug": "ufc-iliuul-mehosm-2026-09-26",
+      "outcome": "Ilimbek Akylbek Uulu",
+      "num_traders": 4,
+      "total_value": 175770.37,
+      "holders": [
+        {
+          "trader": "matanovik",
+          "roi": 1.5191,
+          "value": 106373.8,
+          "avg_price": 0.28,
+          "cur_price": 0.996
+        },
+        {
+          "trader": "SharkbetX-com",
+          "roi": 0.7181,
+          "value": 49123.7,
+          "avg_price": 0.2619,
+          "cur_price": 0.996
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.5338,
+          "value": 19692.58,
+          "avg_price": 0.8953,
+          "cur_price": 0.996
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 580.29,
+          "avg_price": 0.1099,
+          "cur_price": 0.996
+        }
+      ]
+    },
+    {
+      "market": "Oklahoma State vs. West Virginia",
+      "slug": "cfb-okst-wvir-2026-09-26",
+      "outcome": "Oklahoma State",
+      "num_traders": 4,
+      "total_value": 46166.32,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 17343.64,
+          "avg_price": 0.589,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 17177.08,
+          "avg_price": 0.47,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 6834.48,
+          "avg_price": 0.47,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 4811.12,
+          "avg_price": 0.7189,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Texas A&M vs. LSU: O/U 52.5",
+      "slug": "cfb-txam-lsu-2026-09-26-total-52pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 38362.65,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 33969.69,
+          "avg_price": 0.49,
+          "cur_price": 0.76
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4268,
+          "value": 3000,
+          "avg_price": 0.4966,
+          "cur_price": 0.8
+        },
+        {
+          "trader": "maz26",
+          "roi": 0.1821,
+          "value": 764.61,
+          "avg_price": 0.49,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 628.35,
+          "avg_price": 0.45,
+          "cur_price": 0.69
+        }
+      ]
+    },
+    {
+      "market": "Missouri vs. Mississippi State",
+      "slug": "cfb-missr-mspst-2026-09-26",
+      "outcome": "Mississippi State",
+      "num_traders": 4,
+      "total_value": 16603.88,
+      "holders": [
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.8309,
+          "value": 8503.53,
+          "avg_price": 0.61,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 4077.01,
+          "avg_price": 0.5957,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4268,
+          "value": 2561.29,
+          "avg_price": 0.6,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 1462.05,
+          "avg_price": 0.6484,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Kansas State vs. Cincinnati",
+      "slug": "cfb-kanst-cin-2026-09-26",
+      "outcome": "Kansas State",
+      "num_traders": 4,
+      "total_value": 8681.9,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 5142.84,
+          "avg_price": 0.6798,
+          "cur_price": 0.34
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 1519.08,
+          "avg_price": 0.2084,
+          "cur_price": 0.34
+        },
+        {
+          "trader": "maz26",
+          "roi": 0.1821,
+          "value": 1190.0,
+          "avg_price": 0.68,
+          "cur_price": 0.34
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 1.7125,
+          "value": 829.98,
+          "avg_price": 0.67,
+          "cur_price": 0.34
+        }
+      ]
+    },
+    {
+      "market": "Louisiana vs. Charlotte",
+      "slug": "cfb-loulaf-charlt-2026-09-26",
+      "outcome": "Louisiana",
+      "num_traders": 3,
+      "total_value": 338992.02,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 1.7125,
+          "value": 296976.08,
+          "avg_price": 0.7867,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 27173.67,
+          "avg_price": 0.7863,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 14842.27,
+          "avg_price": 0.78,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "James Madison vs. Old Dominion",
+      "slug": "cfb-jmad-old-2026-09-26",
+      "outcome": "James Madison",
+      "num_traders": 3,
+      "total_value": 79471.57,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 62895.54,
+          "avg_price": 0.6897,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "maz26",
+          "roi": 0.1821,
+          "value": 13093.45,
+          "avg_price": 0.69,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 3482.58,
+          "avg_price": 0.93,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Nashville SC win on 2026-09-26?",
+      "slug": "mls-nas-tor-2026-09-26-nas",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 40437.54,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 35475.44,
+          "avg_price": 0.7223,
+          "cur_price": 0.91
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 4025.44,
+          "avg_price": 0.7091,
+          "cur_price": 0.91
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 936.66,
+          "avg_price": 0.7794,
+          "cur_price": 0.9
+        }
+      ]
+    },
+    {
+      "market": "Will CD Guadalajara win on 2026-09-26?",
+      "slug": "mex-gua-que-2026-09-26-gua",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 17415.18,
+      "holders": [
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 15490.55,
+          "avg_price": 0.6442,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 1782.7,
+          "avg_price": 0.6032,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 141.93,
+          "avg_price": 0.8,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Oregon (-3.5)",
+      "slug": "cfb-ore-usc-2026-09-26-spread-away-3pt5",
+      "outcome": "USC",
+      "num_traders": 3,
+      "total_value": 15365.95,
+      "holders": [
+        {
+          "trader": "BoggsFromShawshank",
+          "roi": 0.8309,
+          "value": 9363.1,
+          "avg_price": 0.4881,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 5754.38,
+          "avg_price": 0.5502,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "maz26",
+          "roi": 0.1821,
+          "value": 248.47,
+          "avg_price": 0.5,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Kansas State vs. Cincinnati",
+      "slug": "cfb-kanst-cin-2026-09-26",
+      "outcome": "Cincinnati",
+      "num_traders": 3,
+      "total_value": 14865.94,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 9631.92,
+          "avg_price": 0.4865,
+          "cur_price": 0.66
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 3961.47,
+          "avg_price": 0.3878,
+          "cur_price": 0.66
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 1272.55,
+          "avg_price": 0.3012,
+          "cur_price": 0.66
+        }
+      ]
+    },
+    {
+      "market": "CF Cruz Azul vs. Deportivo Toluca FC: O/U 5.5",
+      "slug": "mex-caz-tol-2026-09-26-total-5pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 5495.02,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 2840.63,
+          "avg_price": 0.3762,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 1409.8,
+          "avg_price": 0.3793,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 1244.59,
+          "avg_price": 0.6584,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Deportivo Toluca FC win on 2026-09-26?",
+      "slug": "mex-caz-tol-2026-09-26-tol",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 5116.05,
+      "holders": [
+        {
+          "trader": "Flaznorp",
+          "roi": 0.1533,
+          "value": 3111.95,
+          "avg_price": 0.8136,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 1263.84,
+          "avg_price": 0.3317,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 740.26,
+          "avg_price": 0.9397,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Tulsa vs. Arkansas",
+      "slug": "cfb-tulsa-ark-2026-09-26",
+      "outcome": "Tulsa",
+      "num_traders": 3,
+      "total_value": 3214.32,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5616,
+          "value": 2229.12,
+          "avg_price": 0.2899,
+          "cur_price": 0.048
+        },
+        {
+          "trader": "imjustkenisghey",
+          "roi": 0.6045,
+          "value": 510.2,
+          "avg_price": 0.28,
+          "cur_price": 0.0475
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4268,
+          "value": 475,
+          "avg_price": 0.28,
+          "cur_price": 0.0475
+        }
+      ]
+    },
+    {
+      "market": "Will CF Cruz Azul win on 2026-09-26?",
+      "slug": "mex-caz-tol-2026-09-26-caz",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1472.44,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2773,
+          "value": 835.17,
+          "avg_price": 0.5394,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.2319,
+          "value": 507.12,
+          "avg_price": 0.9468,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286",
+          "roi": 0.2244,
+          "value": 130.15,
+          "avg_price": 0.6999,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Spain win on 2026-09-26?",
       "slug": "unl-eng-esp-2026-09-26-esp",
@@ -95,103 +769,6 @@
           "value": 900.0,
           "avg_price": 0.57,
           "cur_price": 0.075
-        }
-      ]
-    },
-    {
-      "market": "Texas vs. Tennessee",
-      "slug": "cfb-tx-tenn-2026-09-26",
-      "outcome": "Texas",
-      "num_traders": 4,
-      "total_value": 176750.25,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 0.2161,
-          "value": 132118.86,
-          "avg_price": 0.6556,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.3317,
-          "value": 33110.69,
-          "avg_price": 0.65,
-          "cur_price": 0.745
-        },
-        {
-          "trader": "analdesutructor",
-          "roi": 0.3501,
-          "value": 10743.65,
-          "avg_price": 0.7912,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "primm",
-          "roi": 0.4035,
-          "value": 777.05,
-          "avg_price": 0.6522,
-          "cur_price": 0.745
-        }
-      ]
-    },
-    {
-      "market": "Will Faroe Islands win on 2026-09-26?",
-      "slug": "unl-far-kaz-2026-09-26-far",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 184146.12,
-      "holders": [
-        {
-          "trader": "Bloodygoodrep1",
-          "roi": 0.1668,
-          "value": 178964.71,
-          "avg_price": 0.4256,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NeverLoseBet",
-          "roi": 0.1989,
-          "value": 4989.5,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "wapol",
-          "roi": 0.5138,
-          "value": 191.91,
-          "avg_price": 0.4799,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Texas (-5.5)",
-      "slug": "cfb-tx-tenn-2026-09-26-spread-away-5pt5",
-      "outcome": "Texas",
-      "num_traders": 3,
-      "total_value": 71481.01,
-      "holders": [
-        {
-          "trader": "Donkey14",
-          "roi": 0.2545,
-          "value": 53064.52,
-          "avg_price": 0.4899,
-          "cur_price": 0.52
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.3317,
-          "value": 17333.16,
-          "avg_price": 0.48,
-          "cur_price": 0.52
-        },
-        {
-          "trader": "primm",
-          "roi": 0.4035,
-          "value": 1083.33,
-          "avg_price": 0.48,
-          "cur_price": 0.52
         }
       ]
     }
@@ -1962,7 +2539,6 @@
     "conl-slv-mart-2026-09-25-slv::Yes": 3,
     "nfl-la-den-2026-09-28::Rams": 3,
     "nfl-kc-mia-2026-09-27-spread-away-10pt5::Chiefs": 3,
-    "cfb-ore-usc-2026-09-26::Oregon": 3,
     "cfb-txam-lsu-2026-09-26-spread-home-8pt5::LSU": 3,
     "cfb-txam-lsu-2026-09-26-spread-home-0pt5::LSU": 3,
     "atp-halys-safiull-2026-09-25::Roman Safiullin": 3,
@@ -1975,12 +2551,12 @@
     "cfb-wake-lou-2026-09-26::Louisville": 3,
     "mlb-pit-det-2026-09-26::Pittsburgh Pirates": 3,
     "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes": 3,
-    "cfb-tx-tenn-2026-09-26::Texas": 2,
-    "unl-far-kaz-2026-09-26-far::No": 2,
-    "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas": 2,
-    "unl-eng-esp-2026-09-26-esp::No": 1,
-    "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5::Wyoming": 1,
-    "cfb-hawaii-wyom-2026-09-26::Hawai'i": 1
+    "cfb-tx-tenn-2026-09-26::Texas": 3,
+    "unl-far-kaz-2026-09-26-far::No": 3,
+    "cfb-tx-tenn-2026-09-26-spread-away-5pt5::Texas": 3,
+    "unl-eng-esp-2026-09-26-esp::No": 2,
+    "cfb-hawaii-wyom-2026-09-26-spread-away-2pt5::Wyoming": 2,
+    "cfb-hawaii-wyom-2026-09-26::Hawai'i": 2
   },
-  "updated_at": "2026-09-26T23:46:51.000913+00:00"
+  "updated_at": "2026-09-27T01:54:28.795951+00:00"
 }
