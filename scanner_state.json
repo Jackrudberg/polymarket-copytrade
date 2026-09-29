@@ -1,33 +1,35 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-cws-hou-2026-09-29::Chicago White Sox"
+  ],
   "signals": [
     {
-      "market": "Will Faroe Islands win on 2026-09-29?",
-      "slug": "unl-mol-far-2026-09-29-far",
-      "outcome": "No",
+      "market": "Chicago White Sox vs. Houston Astros",
+      "slug": "mlb-cws-hou-2026-09-29",
+      "outcome": "Chicago White Sox",
       "num_traders": 3,
-      "total_value": 905.15,
+      "total_value": 239182.81,
       "holders": [
         {
-          "trader": "GC-P",
-          "roi": 0.4259,
-          "value": 403.07,
-          "avg_price": 0.65,
-          "cur_price": 0.655
+          "trader": "wr0ngw4yb3tt0r",
+          "roi": 0.2082,
+          "value": 147880.6,
+          "avg_price": 0.8532,
+          "cur_price": 0.855
         },
         {
-          "trader": "NM-P",
-          "roi": 0.5517,
-          "value": 401.88,
-          "avg_price": 0.65,
-          "cur_price": 0.655
+          "trader": "surfandturf",
+          "roi": 0.1557,
+          "value": 89775.08,
+          "avg_price": 0.4799,
+          "cur_price": 0.855
         },
         {
-          "trader": "sbsigner",
-          "roi": 0.4013,
-          "value": 100.2,
-          "avg_price": 0.6699,
-          "cur_price": 0.655
+          "trader": "primm",
+          "roi": 1.2328,
+          "value": 1527.13,
+          "avg_price": 0.77,
+          "cur_price": 0.855
         }
       ]
     }
@@ -2132,7 +2134,7 @@
     "nfl-phi-chi-2026-09-29-spread-home-3pt5::Bears": 3,
     "nfl-phi-chi-2026-09-29-spread-away-1pt5::Bears": 3,
     "nfl-phi-chi-2026-09-29-total-42pt5::Over": 3,
-    "unl-mol-far-2026-09-29-far::No": 2
+    "unl-mol-far-2026-09-29-far::No": 3
   },
-  "updated_at": "2026-09-29T19:29:18.589446+00:00"
+  "updated_at": "2026-09-29T23:09:06.625731+00:00"
 }
