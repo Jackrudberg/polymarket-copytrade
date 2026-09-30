@@ -1,13 +1,38 @@
 {
   "seen_ids": [
-    "lol-sly-dnsc-2026-09-30::Solary",
-    "lol-sly-dnsc-2026-09-30-game2::Solary",
-    "lol-sly-dnsc-2026-09-30-game3::Solary",
-    "lol-sly-dnsc-2026-09-30-game1::Solary",
-    "atp-cerund-bu-2026-09-29::Yunchaokete Bu",
-    "unl-den-prt-2026-10-01-den::No"
+    "atp-etcheve-tsitsip-2026-09-29::Stefanos Tsitsipas"
   ],
   "signals": [
+    {
+      "market": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+      "slug": "atp-etcheve-tsitsip-2026-09-29",
+      "outcome": "Stefanos Tsitsipas",
+      "num_traders": 3,
+      "total_value": 4587.86,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.1574,
+          "value": 3540.05,
+          "avg_price": 0.7255,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.4715,
+          "value": 823.35,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1724,
+          "value": 224.46,
+          "avg_price": 0.7199,
+          "cur_price": 0.725
+        }
+      ]
+    },
     {
       "market": "LoL: Solary vs DN SOOPers Challengers (BO5) - World Star Challengers Invitational Playoffs",
       "slug": "lol-sly-dnsc-2026-09-30",
@@ -571,36 +596,6 @@
           "value": 196.45,
           "avg_price": 0.5141,
           "cur_price": 0.12
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Houston Astros",
-      "slug": "mlb-cws-hou-2026-09-29",
-      "outcome": "Chicago White Sox",
-      "num_traders": 3,
-      "total_value": 239182.81,
-      "holders": [
-        {
-          "trader": "wr0ngw4yb3tt0r",
-          "roi": 0.2082,
-          "value": 147880.6,
-          "avg_price": 0.8532,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "surfandturf",
-          "roi": 0.1557,
-          "value": 89775.08,
-          "avg_price": 0.4799,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "primm",
-          "roi": 1.2328,
-          "value": 1527.13,
-          "avg_price": 0.77,
-          "cur_price": 0.855
         }
       ]
     }
@@ -2705,18 +2700,24 @@
     "nfl-phi-chi-2026-09-29-spread-away-1pt5::Bears": 3,
     "nfl-phi-chi-2026-09-29-total-42pt5::Over": 3,
     "unl-mol-far-2026-09-29-far::No": 3,
-    "mlb-cws-hou-2026-09-29::Chicago White Sox": 2,
-    "mlb-bos-nyy-2026-09-29::New York Yankees": 1,
-    "wnba-min-nyl-2026-09-29::New York Liberty": 1,
-    "wnba-min-nyl-2026-09-29-total-172pt5::Under": 1,
-    "mlb-bos-nyy-2026-09-29-total-6pt5::Over": 1,
-    "nhl-mon-tor-2026-09-29::Canadiens": 1,
-    "mlb-bos-nyy-2026-09-29-total-6pt5::Under": 1,
-    "atp-filin-mayo-2026-09-28::Aidan Mayo": 1,
-    "wnba-min-nyl-2026-09-29::Minnesota Lynx": 1,
-    "mlb-bos-nyy-2026-09-29::Boston Red Sox": 1,
-    "wnba-min-nyl-2026-09-29-spread-away-3pt5::New York Liberty": 1,
-    "wnba-min-nyl-2026-09-29-total-172pt5::Over": 1
+    "mlb-cws-hou-2026-09-29::Chicago White Sox": 3,
+    "mlb-bos-nyy-2026-09-29::New York Yankees": 2,
+    "wnba-min-nyl-2026-09-29::New York Liberty": 2,
+    "wnba-min-nyl-2026-09-29-total-172pt5::Under": 2,
+    "mlb-bos-nyy-2026-09-29-total-6pt5::Over": 2,
+    "nhl-mon-tor-2026-09-29::Canadiens": 2,
+    "mlb-bos-nyy-2026-09-29-total-6pt5::Under": 2,
+    "atp-filin-mayo-2026-09-28::Aidan Mayo": 2,
+    "wnba-min-nyl-2026-09-29::Minnesota Lynx": 2,
+    "mlb-bos-nyy-2026-09-29::Boston Red Sox": 2,
+    "wnba-min-nyl-2026-09-29-spread-away-3pt5::New York Liberty": 2,
+    "wnba-min-nyl-2026-09-29-total-172pt5::Over": 2,
+    "lol-sly-dnsc-2026-09-30::Solary": 1,
+    "lol-sly-dnsc-2026-09-30-game2::Solary": 1,
+    "lol-sly-dnsc-2026-09-30-game3::Solary": 1,
+    "lol-sly-dnsc-2026-09-30-game1::Solary": 1,
+    "atp-cerund-bu-2026-09-29::Yunchaokete Bu": 1,
+    "unl-den-prt-2026-10-01-den::No": 1
   },
-  "updated_at": "2026-09-30T08:29:20.102998+00:00"
+  "updated_at": "2026-09-30T15:13:24.272759+00:00"
 }
