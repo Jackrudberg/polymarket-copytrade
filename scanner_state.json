@@ -1,18 +1,214 @@
 {
   "seen_ids": [
-    "mlb-bos-nyy-2026-09-29::New York Yankees",
-    "wnba-min-nyl-2026-09-29::New York Liberty",
-    "wnba-min-nyl-2026-09-29-total-172pt5::Under",
-    "mlb-bos-nyy-2026-09-29-total-6pt5::Over",
-    "nhl-mon-tor-2026-09-29::Canadiens",
-    "mlb-bos-nyy-2026-09-29-total-6pt5::Under",
-    "atp-filin-mayo-2026-09-28::Aidan Mayo",
-    "wnba-min-nyl-2026-09-29::Minnesota Lynx",
-    "mlb-bos-nyy-2026-09-29::Boston Red Sox",
-    "wnba-min-nyl-2026-09-29-spread-away-3pt5::New York Liberty",
-    "wnba-min-nyl-2026-09-29-total-172pt5::Over"
+    "lol-sly-dnsc-2026-09-30::Solary",
+    "lol-sly-dnsc-2026-09-30-game2::Solary",
+    "lol-sly-dnsc-2026-09-30-game3::Solary",
+    "lol-sly-dnsc-2026-09-30-game1::Solary",
+    "atp-cerund-bu-2026-09-29::Yunchaokete Bu",
+    "unl-den-prt-2026-10-01-den::No"
   ],
   "signals": [
+    {
+      "market": "LoL: Solary vs DN SOOPers Challengers (BO5) - World Star Challengers Invitational Playoffs",
+      "slug": "lol-sly-dnsc-2026-09-30",
+      "outcome": "Solary",
+      "num_traders": 6,
+      "total_value": 43545.87,
+      "holders": [
+        {
+          "trader": "Gooooooollllllllll",
+          "roi": 0.3722,
+          "value": 14992.48,
+          "avg_price": 0.71,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "gvrgb326552g65",
+          "roi": 0.6526,
+          "value": 13076.31,
+          "avg_price": 0.6199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1847,
+          "value": 5591.78,
+          "avg_price": 0.7122,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.3927,
+          "value": 4902.43,
+          "avg_price": 0.9769,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2353,
+          "value": 4545.28,
+          "avg_price": 0.9899,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.184,
+          "value": 437.59,
+          "avg_price": 0.91,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Solary vs DN SOOPers Challengers - Game 2 Winner",
+      "slug": "lol-sly-dnsc-2026-09-30-game2",
+      "outcome": "Solary",
+      "num_traders": 3,
+      "total_value": 54146.75,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3544,
+          "value": 19576.52,
+          "avg_price": 0.6461,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.3927,
+          "value": 18577.3,
+          "avg_price": 0.629,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2353,
+          "value": 15992.93,
+          "avg_price": 0.5949,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Solary vs DN SOOPers Challengers - Game 3 Winner",
+      "slug": "lol-sly-dnsc-2026-09-30-game3",
+      "outcome": "Solary",
+      "num_traders": 3,
+      "total_value": 45486.15,
+      "holders": [
+        {
+          "trader": "gvrgb326552g65",
+          "roi": 0.6526,
+          "value": 20366.17,
+          "avg_price": 0.5941,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.3927,
+          "value": 13708.88,
+          "avg_price": 0.5418,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2353,
+          "value": 11411.1,
+          "avg_price": 0.5671,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Solary vs DN SOOPers Challengers - Game 1 Winner",
+      "slug": "lol-sly-dnsc-2026-09-30-game1",
+      "outcome": "Solary",
+      "num_traders": 3,
+      "total_value": 37578.83,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.3544,
+          "value": 21770.33,
+          "avg_price": 0.644,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+          "roi": 0.2353,
+          "value": 8422.19,
+          "avg_price": 0.6325,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "gvrgb326552g65",
+          "roi": 0.6526,
+          "value": 7386.31,
+          "avg_price": 0.6,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
+      "slug": "atp-cerund-bu-2026-09-29",
+      "outcome": "Yunchaokete Bu",
+      "num_traders": 3,
+      "total_value": 12785.88,
+      "holders": [
+        {
+          "trader": "fRibrenlc",
+          "roi": 0.3968,
+          "value": 6707.35,
+          "avg_price": 0.6,
+          "cur_price": 0.864
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1847,
+          "value": 4640.4,
+          "avg_price": 0.6505,
+          "cur_price": 0.8605
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3122,
+          "value": 1438.13,
+          "avg_price": 0.59,
+          "cur_price": 0.844
+        }
+      ]
+    },
+    {
+      "market": "Will Denmark win on 2026-10-01?",
+      "slug": "unl-den-prt-2026-10-01-den",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1120.6,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1847,
+          "value": 773.15,
+          "avg_price": 0.7199,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3122,
+          "value": 234.71,
+          "avg_price": 0.72,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.8177,
+          "value": 112.74,
+          "avg_price": 0.72,
+          "cur_price": 0.715
+        }
+      ]
+    },
     {
       "market": "Boston Red Sox vs. New York Yankees",
       "slug": "mlb-bos-nyy-2026-09-29",
@@ -2362,7 +2558,6 @@
     "wta-kaji-jone-2026-09-28::Emerson Jones": 3,
     "ukr1-ver-kud-2026-09-12-ver::No": 3,
     "wta-kawa-matsuda-2026-09-28::Katarzyna Kawa": 3,
-    "unl-den-prt-2026-10-01-den::No": 3,
     "fif-jpn-ven-2026-09-28-spread-home-1pt5::Japan": 3,
     "fif-jpn-ven-2026-09-28-total-3pt5::Under": 3,
     "unl-wal-nor-2026-10-01-nor::No": 3,
@@ -2510,7 +2705,18 @@
     "nfl-phi-chi-2026-09-29-spread-away-1pt5::Bears": 3,
     "nfl-phi-chi-2026-09-29-total-42pt5::Over": 3,
     "unl-mol-far-2026-09-29-far::No": 3,
-    "mlb-cws-hou-2026-09-29::Chicago White Sox": 1
+    "mlb-cws-hou-2026-09-29::Chicago White Sox": 2,
+    "mlb-bos-nyy-2026-09-29::New York Yankees": 1,
+    "wnba-min-nyl-2026-09-29::New York Liberty": 1,
+    "wnba-min-nyl-2026-09-29-total-172pt5::Under": 1,
+    "mlb-bos-nyy-2026-09-29-total-6pt5::Over": 1,
+    "nhl-mon-tor-2026-09-29::Canadiens": 1,
+    "mlb-bos-nyy-2026-09-29-total-6pt5::Under": 1,
+    "atp-filin-mayo-2026-09-28::Aidan Mayo": 1,
+    "wnba-min-nyl-2026-09-29::Minnesota Lynx": 1,
+    "mlb-bos-nyy-2026-09-29::Boston Red Sox": 1,
+    "wnba-min-nyl-2026-09-29-spread-away-3pt5::New York Liberty": 1,
+    "wnba-min-nyl-2026-09-29-total-172pt5::Over": 1
   },
-  "updated_at": "2026-09-30T02:06:58.870883+00:00"
+  "updated_at": "2026-09-30T08:29:20.102998+00:00"
 }
