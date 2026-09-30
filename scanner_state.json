@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-cws-hou-2026-09-30::Chicago White Sox"
+  ],
   "signals": [
+    {
+      "market": "Chicago White Sox vs. Houston Astros",
+      "slug": "mlb-cws-hou-2026-09-30",
+      "outcome": "Chicago White Sox",
+      "num_traders": 3,
+      "total_value": 252153.41,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.2657,
+          "value": 229761.9,
+          "avg_price": 0.4199,
+          "cur_price": 0.965
+        },
+        {
+          "trader": "justaluckydude",
+          "roi": 0.2645,
+          "value": 17566.41,
+          "avg_price": 0.6243,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "surfandturf",
+          "roi": 2.1263,
+          "value": 4825.1,
+          "avg_price": 0.4199,
+          "cur_price": 0.965
+        }
+      ]
+    },
     {
       "market": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
       "slug": "atp-etcheve-tsitsip-2026-09-29",
@@ -28,207 +60,6 @@
           "value": 224.46,
           "avg_price": 0.7199,
           "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "LoL: Solary vs DN SOOPers Challengers (BO5) - World Star Challengers Invitational Playoffs",
-      "slug": "lol-sly-dnsc-2026-09-30",
-      "outcome": "Solary",
-      "num_traders": 6,
-      "total_value": 43545.87,
-      "holders": [
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.3722,
-          "value": 14992.48,
-          "avg_price": 0.71,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "gvrgb326552g65",
-          "roi": 0.6526,
-          "value": 13076.31,
-          "avg_price": 0.6199,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1847,
-          "value": 5591.78,
-          "avg_price": 0.7122,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "3648393489047",
-          "roi": 0.3927,
-          "value": 4902.43,
-          "avg_price": 0.9769,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2353,
-          "value": 4545.28,
-          "avg_price": 0.9899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "cigarettes",
-          "roi": 0.184,
-          "value": 437.59,
-          "avg_price": 0.91,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Solary vs DN SOOPers Challengers - Game 2 Winner",
-      "slug": "lol-sly-dnsc-2026-09-30-game2",
-      "outcome": "Solary",
-      "num_traders": 3,
-      "total_value": 54146.75,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3544,
-          "value": 19576.52,
-          "avg_price": 0.6461,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "3648393489047",
-          "roi": 0.3927,
-          "value": 18577.3,
-          "avg_price": 0.629,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2353,
-          "value": 15992.93,
-          "avg_price": 0.5949,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Solary vs DN SOOPers Challengers - Game 3 Winner",
-      "slug": "lol-sly-dnsc-2026-09-30-game3",
-      "outcome": "Solary",
-      "num_traders": 3,
-      "total_value": 45486.15,
-      "holders": [
-        {
-          "trader": "gvrgb326552g65",
-          "roi": 0.6526,
-          "value": 20366.17,
-          "avg_price": 0.5941,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "3648393489047",
-          "roi": 0.3927,
-          "value": 13708.88,
-          "avg_price": 0.5418,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2353,
-          "value": 11411.1,
-          "avg_price": 0.5671,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: Solary vs DN SOOPers Challengers - Game 1 Winner",
-      "slug": "lol-sly-dnsc-2026-09-30-game1",
-      "outcome": "Solary",
-      "num_traders": 3,
-      "total_value": 37578.83,
-      "holders": [
-        {
-          "trader": "Sunshine.Smile",
-          "roi": 0.3544,
-          "value": 21770.33,
-          "avg_price": 0.644,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-          "roi": 0.2353,
-          "value": 8422.19,
-          "avg_price": 0.6325,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "gvrgb326552g65",
-          "roi": 0.6526,
-          "value": 7386.31,
-          "avg_price": 0.6,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
-      "slug": "atp-cerund-bu-2026-09-29",
-      "outcome": "Yunchaokete Bu",
-      "num_traders": 3,
-      "total_value": 12785.88,
-      "holders": [
-        {
-          "trader": "fRibrenlc",
-          "roi": 0.3968,
-          "value": 6707.35,
-          "avg_price": 0.6,
-          "cur_price": 0.864
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1847,
-          "value": 4640.4,
-          "avg_price": 0.6505,
-          "cur_price": 0.8605
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3122,
-          "value": 1438.13,
-          "avg_price": 0.59,
-          "cur_price": 0.844
-        }
-      ]
-    },
-    {
-      "market": "Will Denmark win on 2026-10-01?",
-      "slug": "unl-den-prt-2026-10-01-den",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1120.6,
-      "holders": [
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1847,
-          "value": 773.15,
-          "avg_price": 0.7199,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3122,
-          "value": 234.71,
-          "avg_price": 0.72,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "darkumbreon88",
-          "roi": 0.8177,
-          "value": 112.74,
-          "avg_price": 0.72,
-          "cur_price": 0.715
         }
       ]
     }
@@ -2345,13 +2176,13 @@
     "mlb-bos-nyy-2026-09-29::Boston Red Sox": 3,
     "wnba-min-nyl-2026-09-29-spread-away-3pt5::New York Liberty": 3,
     "wnba-min-nyl-2026-09-29-total-172pt5::Over": 3,
-    "lol-sly-dnsc-2026-09-30::Solary": 2,
-    "lol-sly-dnsc-2026-09-30-game2::Solary": 2,
-    "lol-sly-dnsc-2026-09-30-game3::Solary": 2,
-    "lol-sly-dnsc-2026-09-30-game1::Solary": 2,
-    "atp-cerund-bu-2026-09-29::Yunchaokete Bu": 2,
-    "unl-den-prt-2026-10-01-den::No": 2,
-    "atp-etcheve-tsitsip-2026-09-29::Stefanos Tsitsipas": 1
+    "lol-sly-dnsc-2026-09-30::Solary": 3,
+    "lol-sly-dnsc-2026-09-30-game2::Solary": 3,
+    "lol-sly-dnsc-2026-09-30-game3::Solary": 3,
+    "lol-sly-dnsc-2026-09-30-game1::Solary": 3,
+    "atp-cerund-bu-2026-09-29::Yunchaokete Bu": 3,
+    "unl-den-prt-2026-10-01-den::No": 3,
+    "atp-etcheve-tsitsip-2026-09-29::Stefanos Tsitsipas": 2
   },
-  "updated_at": "2026-09-30T20:05:17.965036+00:00"
+  "updated_at": "2026-09-30T23:44:30.784786+00:00"
 }
