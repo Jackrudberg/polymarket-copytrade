@@ -1,6 +1,190 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "unl-wal-nor-2026-10-01-nor::No",
+    "unl-grc-nld-2026-10-01-nld::No",
+    "unl-ger-ser-2026-10-01-total-3pt5::Under",
+    "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar",
+    "cs2-faze-nemi1-2026-10-01::FaZe"
+  ],
   "signals": [
+    {
+      "market": "Will Norway win on 2026-10-01?",
+      "slug": "unl-wal-nor-2026-10-01-nor",
+      "outcome": "No",
+      "num_traders": 6,
+      "total_value": 370274.68,
+      "holders": [
+        {
+          "trader": "Ne8om",
+          "roi": 0.3045,
+          "value": 173542.72,
+          "avg_price": 0.3002,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Endgametheory",
+          "roi": 0.9492,
+          "value": 88568.83,
+          "avg_price": 0.3133,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.5785,
+          "value": 64304.75,
+          "avg_price": 0.3149,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.3246,
+          "value": 31089.17,
+          "avg_price": 0.3145,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Yellow-Fever",
+          "roi": 0.2268,
+          "value": 12515.33,
+          "avg_price": 0.3,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1773,
+          "value": 253.88,
+          "avg_price": 0.4052,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Netherlands win on 2026-10-01?",
+      "slug": "unl-grc-nld-2026-10-01-nld",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 208986.98,
+      "holders": [
+        {
+          "trader": "gransaaa",
+          "roi": 0.165,
+          "value": 148129.53,
+          "avg_price": 0.5395,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Ne8om",
+          "roi": 0.3045,
+          "value": 55950.89,
+          "avg_price": 0.5377,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "plonker2026",
+          "roi": 0.6351,
+          "value": 4783.97,
+          "avg_price": 0.5599,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1773,
+          "value": 122.59,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Germany vs. Serbia: O/U 3.5",
+      "slug": "unl-ger-ser-2026-10-01-total-3pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 108083.46,
+      "holders": [
+        {
+          "trader": "Ne8om",
+          "roi": 0.3045,
+          "value": 98371.59,
+          "avg_price": 0.4849,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.3246,
+          "value": 4997.5,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1773,
+          "value": 4714.37,
+          "avg_price": 0.487,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Malta (-1.5)",
+      "slug": "unl-mal-gib-2026-10-01-spread-home-1pt5",
+      "outcome": "Gibraltar",
+      "num_traders": 3,
+      "total_value": 43833.06,
+      "holders": [
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1928,
+          "value": 33316.32,
+          "avg_price": 0.44,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1773,
+          "value": 6518.74,
+          "avg_price": 0.5,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.3246,
+          "value": 3998,
+          "avg_price": 0.455,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
+      "slug": "cs2-faze-nemi1-2026-10-01",
+      "outcome": "FaZe",
+      "num_traders": 3,
+      "total_value": 22014.87,
+      "holders": [
+        {
+          "trader": "ArturitoFilito",
+          "roi": 0.1928,
+          "value": 10600,
+          "avg_price": 0.58,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "RevengeRange",
+          "roi": 0.1523,
+          "value": 10184.21,
+          "avg_price": 0.6053,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "matanovik",
+          "roi": 0.5785,
+          "value": 1230.66,
+          "avg_price": 0.58,
+          "cur_price": 0.265
+        }
+      ]
+    },
     {
       "market": "Gianni Infantino out as FIFA President by December 31?",
       "slug": "gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
@@ -189,36 +373,6 @@
       ]
     },
     {
-      "market": "Germany vs. Serbia: O/U 3.5",
-      "slug": "unl-ger-ser-2026-10-01-total-3pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 3892.66,
-      "holders": [
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1566,
-          "value": 2287.61,
-          "avg_price": 0.487,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1545,
-          "value": 1130.72,
-          "avg_price": 0.4958,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4396,
-          "value": 474.33,
-          "avg_price": 0.5239,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
       "market": "Will Scotland win on 2026-10-03?",
       "slug": "unl-mac-sco-2026-10-03-sco",
       "outcome": "No",
@@ -335,274 +489,6 @@
           "value": 120.75,
           "avg_price": 0.6099,
           "cur_price": 0.635
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees",
-      "slug": "mlb-bos-nyy-2026-09-30",
-      "outcome": "New York Yankees",
-      "num_traders": 6,
-      "total_value": 164266.79,
-      "holders": [
-        {
-          "trader": "teslaRoadster",
-          "roi": 0.275,
-          "value": 50550.44,
-          "avg_price": 0.5599,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "Kev69",
-          "roi": 0.2061,
-          "value": 46790.32,
-          "avg_price": 0.5647,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 26269.05,
-          "avg_price": 0.6197,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "justaluckydude",
-          "roi": 0.2216,
-          "value": 17265.24,
-          "avg_price": 0.7496,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "Mr.Ape",
-          "roi": 0.2203,
-          "value": 13420.6,
-          "avg_price": 0.5199,
-          "cur_price": 0.9925
-        },
-        {
-          "trader": "JustADonk",
-          "roi": 0.238,
-          "value": 9971.14,
-          "avg_price": 0.5834,
-          "cur_price": 0.9925
-        }
-      ]
-    },
-    {
-      "market": "Chicago Cubs vs. San Diego Padres",
-      "slug": "mlb-chc-sd-2026-09-30",
-      "outcome": "San Diego Padres",
-      "num_traders": 4,
-      "total_value": 20337.81,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.8525,
-          "value": 7695.23,
-          "avg_price": 0.5631,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "JustADonk",
-          "roi": 0.238,
-          "value": 5979.75,
-          "avg_price": 0.56,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 5427.49,
-          "avg_price": 0.5599,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "justaluckydude",
-          "roi": 0.2216,
-          "value": 1235.34,
-          "avg_price": 0.5633,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Golden State Valkyries vs. Dallas Wings",
-      "slug": "wnba-gsv-dal-2026-09-30",
-      "outcome": "Golden State Valkyries",
-      "num_traders": 3,
-      "total_value": 79584.49,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.1977,
-          "value": 35032.1,
-          "avg_price": 0.6264,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 31556.91,
-          "avg_price": 0.6341,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "Kev69",
-          "roi": 0.2061,
-          "value": 12995.48,
-          "avg_price": 0.5945,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Golden State Valkyries vs. Dallas Wings",
-      "slug": "wnba-gsv-dal-2026-09-30",
-      "outcome": "Dallas Wings",
-      "num_traders": 3,
-      "total_value": 32734.88,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 24280.13,
-          "avg_price": 0.3834,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8525,
-          "value": 7691.19,
-          "avg_price": 0.3768,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "justaluckydude",
-          "roi": 0.2216,
-          "value": 763.56,
-          "avg_price": 0.3946,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Boston Red Sox vs. New York Yankees: O/U 6.5",
-      "slug": "mlb-bos-nyy-2026-09-30-total-6pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 24983.05,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.1977,
-          "value": 19989.98,
-          "avg_price": 0.53,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 4336.21,
-          "avg_price": 0.4414,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "justaluckydude",
-          "roi": 0.2216,
-          "value": 656.86,
-          "avg_price": 0.4132,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Golden State Valkyries vs. Dallas Wings: O/U 157.5",
-      "slug": "wnba-gsv-dal-2026-09-30-total-157pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 5870.03,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 4562.64,
-          "avg_price": 0.4929,
-          "cur_price": 0.95
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8525,
-          "value": 1008.9,
-          "avg_price": 0.5,
-          "cur_price": 0.95
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.2305,
-          "value": 298.49,
-          "avg_price": 0.49,
-          "cur_price": 0.995
-        }
-      ]
-    },
-    {
-      "market": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
-      "slug": "atp-lehecka-bergs-2026-09-29",
-      "outcome": "Zizou Bergs",
-      "num_traders": 3,
-      "total_value": 2629.96,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.8525,
-          "value": 1664.68,
-          "avg_price": 0.1569,
-          "cur_price": 0.135
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 716.75,
-          "avg_price": 0.1302,
-          "cur_price": 0.135
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.2305,
-          "value": 248.53,
-          "avg_price": 0.28,
-          "cur_price": 0.135
-        }
-      ]
-    },
-    {
-      "market": "Spread: Golden State Valkyries (-3.5)",
-      "slug": "wnba-gsv-dal-2026-09-30-spread-away-3pt5",
-      "outcome": "Dallas Wings",
-      "num_traders": 3,
-      "total_value": 2549.62,
-      "holders": [
-        {
-          "trader": "justaluckydude",
-          "roi": 0.2216,
-          "value": 1084.78,
-          "avg_price": 0.5419,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1864,
-          "value": 1049.58,
-          "avg_price": 0.4261,
-          "cur_price": 0.54
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8525,
-          "value": 415.26,
-          "avg_price": 0.4643,
-          "cur_price": 0.54
         }
       ]
     }
@@ -2560,7 +2446,6 @@
     "wta-kawa-matsuda-2026-09-28::Katarzyna Kawa": 3,
     "fif-jpn-ven-2026-09-28-spread-home-1pt5::Japan": 3,
     "fif-jpn-ven-2026-09-28-total-3pt5::Under": 3,
-    "unl-wal-nor-2026-10-01-nor::No": 3,
     "fif-kr-ury-2026-09-28-total-2pt5::Under": 3,
     "atp-molcan-kopriva-2026-09-28::Vit Kopriva": 3,
     "unl-esp-hrv-2026-09-29-esp::No": 3,
@@ -2724,25 +2609,24 @@
     "unl-den-prt-2026-10-01-den::No": 3,
     "atp-etcheve-tsitsip-2026-09-29::Stefanos Tsitsipas": 3,
     "mlb-cws-hou-2026-09-30::Chicago White Sox": 3,
-    "mlb-bos-nyy-2026-09-30::New York Yankees": 2,
-    "mlb-chc-sd-2026-09-30::San Diego Padres": 2,
-    "wnba-gsv-dal-2026-09-30::Golden State Valkyries": 2,
-    "wnba-gsv-dal-2026-09-30::Dallas Wings": 2,
-    "mlb-bos-nyy-2026-09-30-total-6pt5::Over": 2,
-    "wnba-gsv-dal-2026-09-30-total-157pt5::Over": 2,
-    "atp-lehecka-bergs-2026-09-29::Zizou Bergs": 2,
-    "wnba-gsv-dal-2026-09-30-spread-away-3pt5::Dallas Wings": 2,
-    "gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871::No": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
-    "unl-den-prt-2026-10-01-prt::Yes": 1,
-    "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 1,
-    "unl-wal-nor-2026-10-01-nor::Yes": 1,
-    "unl-ger-ser-2026-10-01-total-3pt5::Under": 1,
-    "unl-mac-sco-2026-10-03-sco::No": 1,
-    "wta-lys-su-2026-09-29::Xinran Sun": 1,
-    "cs2-msc-lavked-2026-10-01::MASONIC": 1,
-    "afcq-gui-ken-2026-10-01-gui::Yes": 1
+    "mlb-bos-nyy-2026-09-30::New York Yankees": 3,
+    "mlb-chc-sd-2026-09-30::San Diego Padres": 3,
+    "wnba-gsv-dal-2026-09-30::Golden State Valkyries": 3,
+    "wnba-gsv-dal-2026-09-30::Dallas Wings": 3,
+    "mlb-bos-nyy-2026-09-30-total-6pt5::Over": 3,
+    "wnba-gsv-dal-2026-09-30-total-157pt5::Over": 3,
+    "atp-lehecka-bergs-2026-09-29::Zizou Bergs": 3,
+    "wnba-gsv-dal-2026-09-30-spread-away-3pt5::Dallas Wings": 3,
+    "gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871::No": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "unl-den-prt-2026-10-01-prt::Yes": 2,
+    "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 2,
+    "unl-wal-nor-2026-10-01-nor::Yes": 2,
+    "unl-mac-sco-2026-10-03-sco::No": 2,
+    "wta-lys-su-2026-09-29::Xinran Sun": 2,
+    "cs2-msc-lavked-2026-10-01::MASONIC": 2,
+    "afcq-gui-ken-2026-10-01-gui::Yes": 2
   },
-  "updated_at": "2026-10-01T16:35:25.478071+00:00"
+  "updated_at": "2026-10-01T21:19:29.217023+00:00"
 }
