@@ -1,27 +1,324 @@
 {
   "seen_ids": [
-    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills",
-    "atp-medvede-busta-2026-09-30::Pablo Carreno Busta",
-    "unl-esp-cze-2026-10-03-esp::Yes",
-    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts",
-    "mls-fcc-dcu-2026-09-05-fcc::No",
-    "unl-bel-tur-2026-10-02-bel::Yes",
-    "unl-ukr-nir-2026-10-02-ukr::Yes",
-    "unl-hrv-eng-2026-10-03-eng::No",
-    "nfl-mia-min-2026-10-04::Vikings",
-    "fif-kr-ven-2026-10-02-kr::No",
-    "nfl-ari-nyg-2026-10-04-spread-away-1pt5::Cardinals",
-    "nfl-atl-no-2026-10-06::Saints",
-    "atp-hurkacz-gea-2026-10-02::Arthur Gea",
-    "unl-fra-ita-2026-10-02-fra::No",
-    "nfl-den-sf-2026-10-04::49ers",
-    "unl-lat-mon-2026-10-02-mon::No",
-    "unl-kaz-mol-2026-10-02-kaz::No",
-    "unl-bih-swe-2026-10-02-bih::No",
-    "wta-paolini-snigur-2026-10-01::Daria Snigur",
-    "lal-lev-bil-2026-09-16-lev::No"
+    "will-marco-rubio-win-the-2028-us-presidential-election::Yes",
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No",
+    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes",
+    "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes",
+    "will-renan-santos-win-the-2026-brazilian-presidential-election::No",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
+    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes",
+    "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes",
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 107854.66,
+      "holders": [
+        {
+          "trader": "Montaigne",
+          "roi": 0.2667,
+          "value": 96508.66,
+          "avg_price": 0.5,
+          "cur_price": 0.0895
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1678,
+          "value": 8387.77,
+          "avg_price": 0.0077,
+          "cur_price": 0.0895
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 2820.04,
+          "avg_price": 0.1056,
+          "cur_price": 0.0895
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 138.19,
+          "avg_price": 0.1092,
+          "cur_price": 0.0895
+        }
+      ]
+    },
+    {
+      "market": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 684037.19,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5395,
+          "value": 375107.68,
+          "avg_price": 0.7099,
+          "cur_price": 0.825
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.2555,
+          "value": 308479.06,
+          "avg_price": 0.707,
+          "cur_price": 0.825
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 450.45,
+          "avg_price": 0.75,
+          "cur_price": 0.825
+        }
+      ]
+    },
+    {
+      "market": "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?",
+      "slug": "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 256848.8,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5395,
+          "value": 246000,
+          "avg_price": 0.0308,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.2555,
+          "value": 9318.07,
+          "avg_price": 0.4608,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 1530.73,
+          "avg_price": 0.5399,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "slug": "will-jd-vance-win-the-2028-republican-presidential-nomination",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 204463.82,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.2555,
+          "value": 175875.5,
+          "avg_price": 0.5,
+          "cur_price": 0.5025
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 24170.13,
+          "avg_price": 0.4465,
+          "cur_price": 0.5025
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1678,
+          "value": 4418.19,
+          "avg_price": 0.3498,
+          "cur_price": 0.5025
+        }
+      ]
+    },
+    {
+      "market": "Will Renan Santos win the 2026 Brazilian presidential election?",
+      "slug": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 58864.55,
+      "holders": [
+        {
+          "trader": "gfafasgs",
+          "roi": 0.7542,
+          "value": 55471.65,
+          "avg_price": 0.9836,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 2850.71,
+          "avg_price": 0.9855,
+          "cur_price": 0.9985
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 542.19,
+          "avg_price": 0.942,
+          "cur_price": 0.9985
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 45251.0,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.2555,
+          "value": 40050.6,
+          "avg_price": 0.35,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 3345.01,
+          "avg_price": 0.4693,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 1855.39,
+          "avg_price": 0.8199,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 30569.98,
+      "holders": [
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 25237.42,
+          "avg_price": 0.0455,
+          "cur_price": 0.0725
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1678,
+          "value": 4968.61,
+          "avg_price": 0.0072,
+          "cur_price": 0.0725
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 363.95,
+          "avg_price": 0.0923,
+          "cur_price": 0.0725
+        }
+      ]
+    },
+    {
+      "market": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+      "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 20229.17,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1678,
+          "value": 12032.55,
+          "avg_price": 0.0077,
+          "cur_price": 0.1485
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5395,
+          "value": 7425,
+          "avg_price": 0.147,
+          "cur_price": 0.1485
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 771.62,
+          "avg_price": 0.1533,
+          "cur_price": 0.1485
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 18398.13,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5395,
+          "value": 11099.19,
+          "avg_price": 0.62,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 6556.55,
+          "avg_price": 0.4609,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 742.39,
+          "avg_price": 0.5537,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6991.16,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1678,
+          "value": 3941.14,
+          "avg_price": 0.0078,
+          "cur_price": 0.0785
+        },
+        {
+          "trader": "ScottyNooo",
+          "roi": 0.3469,
+          "value": 2915.31,
+          "avg_price": 0.1584,
+          "cur_price": 0.0785
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4833,
+          "value": 134.71,
+          "avg_price": 0.095,
+          "cur_price": 0.0785
+        }
+      ]
+    },
     {
       "market": "Spread: Bills (-6.5)",
       "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
@@ -642,184 +939,6 @@
           "cur_price": 0.77
         }
       ]
-    },
-    {
-      "market": "Will Norway win on 2026-10-01?",
-      "slug": "unl-wal-nor-2026-10-01-nor",
-      "outcome": "No",
-      "num_traders": 6,
-      "total_value": 370274.68,
-      "holders": [
-        {
-          "trader": "Ne8om",
-          "roi": 0.3045,
-          "value": 173542.72,
-          "avg_price": 0.3002,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Endgametheory",
-          "roi": 0.9492,
-          "value": 88568.83,
-          "avg_price": 0.3133,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.5785,
-          "value": 64304.75,
-          "avg_price": 0.3149,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3246,
-          "value": 31089.17,
-          "avg_price": 0.3145,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Yellow-Fever",
-          "roi": 0.2268,
-          "value": 12515.33,
-          "avg_price": 0.3,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1773,
-          "value": 253.88,
-          "avg_price": 0.4052,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Netherlands win on 2026-10-01?",
-      "slug": "unl-grc-nld-2026-10-01-nld",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 208986.98,
-      "holders": [
-        {
-          "trader": "gransaaa",
-          "roi": 0.165,
-          "value": 148129.53,
-          "avg_price": 0.5395,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Ne8om",
-          "roi": 0.3045,
-          "value": 55950.89,
-          "avg_price": 0.5377,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "plonker2026",
-          "roi": 0.6351,
-          "value": 4783.97,
-          "avg_price": 0.5599,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1773,
-          "value": 122.59,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Germany vs. Serbia: O/U 3.5",
-      "slug": "unl-ger-ser-2026-10-01-total-3pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 108083.46,
-      "holders": [
-        {
-          "trader": "Ne8om",
-          "roi": 0.3045,
-          "value": 98371.59,
-          "avg_price": 0.4849,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3246,
-          "value": 4997.5,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1773,
-          "value": 4714.37,
-          "avg_price": 0.487,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Malta (-1.5)",
-      "slug": "unl-mal-gib-2026-10-01-spread-home-1pt5",
-      "outcome": "Gibraltar",
-      "num_traders": 3,
-      "total_value": 43833.06,
-      "holders": [
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1928,
-          "value": 33316.32,
-          "avg_price": 0.44,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1773,
-          "value": 6518.74,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3246,
-          "value": 3998,
-          "avg_price": 0.455,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
-      "slug": "cs2-faze-nemi1-2026-10-01",
-      "outcome": "FaZe",
-      "num_traders": 3,
-      "total_value": 22014.87,
-      "holders": [
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.1928,
-          "value": 10600,
-          "avg_price": 0.58,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "RevengeRange",
-          "roi": 0.1523,
-          "value": 10184.21,
-          "avg_price": 0.6053,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "matanovik",
-          "roi": 0.5785,
-          "value": 1230.66,
-          "avg_price": 0.58,
-          "cur_price": 0.265
-        }
-      ]
     }
   ],
   "missing_counts": {
@@ -1187,7 +1306,6 @@
     "lol-hle1-gen-2026-08-05-game1::Gen.G": 3,
     "dota2-playti-yb1-2026-08-05-game2::PlayTime": 3,
     "lol-hle1-gen-2026-08-05::Gen.G": 3,
-    "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
     "dota2-flc-liquid-2026-08-05-game1::Team Liquid": 3,
     "dota2-flc-liquid-2026-08-05-game2::Team Liquid": 3,
     "mlb-lad-chc-2026-08-05::Chicago Cubs": 3,
@@ -1323,7 +1441,6 @@
     "will-tampa-bay-rays-win-the-2026-american-league-championship-series::Yes": 3,
     "will-karen-bass-win-the-2026-los-angeles-mayoral-election::No": 3,
     "will-carlos-alcaraz-win-the-2026-mens-us-open::Yes": 3,
-    "will-renan-santos-win-the-2026-brazilian-presidential-election::No": 3,
     "will-russell-fry-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628831::No": 3,
     "will-marco-rubio-win-the-2028-republican-presidential-nomination::Yes": 3,
     "lol-dnf-ns-2026-08-12::Nongshim Red Force": 3,
@@ -1401,7 +1518,6 @@
     "will-count-binface-win-2030-of-votes-in-the-clacton-parliamentary-by-election-20260708142507721::Yes": 3,
     "will-nigel-farage-win-at-least-80-of-votes-in-the-clacton-parliamentary-by-election-20260708151424126::No": 3,
     "will-nigel-farage-win-6070-of-votes-in-the-clacton-parliamentary-by-election-20260708151424124::Yes": 3,
-    "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
     "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election::Yes": 3,
     "dota2-liquid-ts8-2026-08-14::Team Spirit": 3,
     "lol-we-tes-2026-08-14-game1::Team WE": 3,
@@ -1594,10 +1710,8 @@
     "cs2-g2-ast10-2026-08-19::G2": 3,
     "will-person-f-be-the-new-republican-nominee-for-senate-in-south-carolina-20260712140628838::Yes": 3,
     "lal-mad-mala-2026-08-19-mad::Yes": 3,
-    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
     "mlb-det-pit-2026-08-19::Detroit Tigers": 3,
     "will-person-ad-win-the-2028-us-presidential-election::Yes": 3,
-    "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
     "will-tucker-carlson-win-the-2028-republican-presidential-nomination::Yes": 3,
     "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687::Yes": 3,
     "will-mark-kelly-win-the-2028-democratic-presidential-nomination-479::Yes": 3,
@@ -2872,8 +2986,6 @@
     "nfl-phi-chi-2026-09-29-total-43pt5::Under": 3,
     "unl-bel-fra-2026-09-28-exact-score-0-0::No": 3,
     "lal-lev-bil-2026-09-16-bil::Yes": 3,
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
-    "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes": 3,
     "unl-nir-hun-2026-09-28-nir::No": 3,
     "unl-bel-fra-2026-09-28-draw::No": 3,
     "unl-tur-ita-2026-09-28-total-2pt5::Over": 3,
@@ -2954,11 +3066,31 @@
     "wta-lys-su-2026-09-29::Xinran Sun": 3,
     "cs2-msc-lavked-2026-10-01::MASONIC": 3,
     "afcq-gui-ken-2026-10-01-gui::Yes": 3,
-    "unl-wal-nor-2026-10-01-nor::No": 2,
-    "unl-grc-nld-2026-10-01-nld::No": 2,
-    "unl-ger-ser-2026-10-01-total-3pt5::Under": 2,
-    "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar": 2,
-    "cs2-faze-nemi1-2026-10-01::FaZe": 2
+    "unl-wal-nor-2026-10-01-nor::No": 3,
+    "unl-grc-nld-2026-10-01-nld::No": 3,
+    "unl-ger-ser-2026-10-01-total-3pt5::Under": 3,
+    "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar": 3,
+    "cs2-faze-nemi1-2026-10-01::FaZe": 3,
+    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills": 1,
+    "atp-medvede-busta-2026-09-30::Pablo Carreno Busta": 1,
+    "unl-esp-cze-2026-10-03-esp::Yes": 1,
+    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts": 1,
+    "mls-fcc-dcu-2026-09-05-fcc::No": 1,
+    "unl-bel-tur-2026-10-02-bel::Yes": 1,
+    "unl-ukr-nir-2026-10-02-ukr::Yes": 1,
+    "unl-hrv-eng-2026-10-03-eng::No": 1,
+    "nfl-mia-min-2026-10-04::Vikings": 1,
+    "fif-kr-ven-2026-10-02-kr::No": 1,
+    "nfl-ari-nyg-2026-10-04-spread-away-1pt5::Cardinals": 1,
+    "nfl-atl-no-2026-10-06::Saints": 1,
+    "atp-hurkacz-gea-2026-10-02::Arthur Gea": 1,
+    "unl-fra-ita-2026-10-02-fra::No": 1,
+    "nfl-den-sf-2026-10-04::49ers": 1,
+    "unl-lat-mon-2026-10-02-mon::No": 1,
+    "unl-kaz-mol-2026-10-02-kaz::No": 1,
+    "unl-bih-swe-2026-10-02-bih::No": 1,
+    "wta-paolini-snigur-2026-10-01::Daria Snigur": 1,
+    "lal-lev-bil-2026-09-16-lev::No": 1
   },
-  "updated_at": "2026-10-02T06:48:45.454221+00:00"
+  "updated_at": "2026-10-02T13:15:54.067624+00:00"
 }
