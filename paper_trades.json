@@ -28563,15 +28563,15 @@
       "slug": "mls-fcc-dcu-2026-09-05-fcc",
       "side": "No",
       "alerted_at": "2026-09-09T14:19:14.146416+00:00",
-      "last_seen": "2026-09-28T21:56:01.067559+00:00",
+      "last_seen": "2026-10-02T06:48:45.409586+00:00",
       "entry_price": 0.37,
-      "current_price": 0.445,
+      "current_price": 0.44,
       "stake": 100.0,
       "shares": 270.27027,
-      "current_value": 120.27,
-      "paper_pnl": 20.27,
-      "return_percent": 20.27,
-      "status": "CONSENSUS_LOST",
+      "current_value": 118.92,
+      "paper_pnl": 18.92,
+      "return_percent": 18.92,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 6437.13,
       "traders": [
@@ -31636,15 +31636,15 @@
       "slug": "lal-lev-bil-2026-09-16-lev",
       "side": "No",
       "alerted_at": "2026-09-21T20:29:30.115869+00:00",
-      "last_seen": "2026-09-28T16:05:15.105791+00:00",
+      "last_seen": "2026-10-02T06:48:45.409586+00:00",
       "entry_price": 0.725,
-      "current_price": 0.765,
+      "current_price": 0.77,
       "stake": 100.0,
       "shares": 137.931034,
-      "current_value": 105.52,
-      "paper_pnl": 5.52,
-      "return_percent": 5.52,
-      "status": "CONSENSUS_LOST",
+      "current_value": 106.21,
+      "paper_pnl": 6.21,
+      "return_percent": 6.21,
+      "status": "OPEN",
       "num_traders": 4,
       "combined_value": 7738.9,
       "traders": [
@@ -46901,7 +46901,7 @@
       "current_value": 273.84,
       "paper_pnl": 173.84,
       "return_percent": 173.84,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1772.58,
       "traders": [
@@ -46910,7 +46910,7 @@
         "NM-P"
       ],
       "url": "https://polymarket.com/event/unl-wal-nor-2026-10-01-nor",
-      "consensus_lost_at": "2026-09-28T21:56:01.067559+00:00"
+      "consensus_lost_at": "2026-10-02T06:48:45.409586+00:00"
     },
     {
       "signal_id": "nfl-phi-chi-2026-09-29-spread-home-6pt5::Eagles",
@@ -49980,7 +49980,7 @@
       "current_value": 206.08,
       "paper_pnl": 106.08,
       "return_percent": 106.08,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3892.66,
       "traders": [
@@ -49988,7 +49988,8 @@
         "GoalLineGhost",
         "mooseborzoi"
       ],
-      "url": "https://polymarket.com/event/unl-ger-ser-2026-10-01-total-3pt5"
+      "url": "https://polymarket.com/event/unl-ger-ser-2026-10-01-total-3pt5",
+      "consensus_lost_at": "2026-10-02T06:48:45.409586+00:00"
     },
     {
       "signal_id": "unl-mac-sco-2026-10-03-sco::No",
@@ -50091,5 +50092,5 @@
       "consensus_lost_at": "2026-10-01T21:19:29.173094+00:00"
     }
   ],
-  "updated_at": "2026-10-02T00:56:03.870087+00:00"
+  "updated_at": "2026-10-02T06:48:45.409586+00:00"
 }

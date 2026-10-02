@@ -1,6 +1,648 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills",
+    "atp-medvede-busta-2026-09-30::Pablo Carreno Busta",
+    "unl-esp-cze-2026-10-03-esp::Yes",
+    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts",
+    "mls-fcc-dcu-2026-09-05-fcc::No",
+    "unl-bel-tur-2026-10-02-bel::Yes",
+    "unl-ukr-nir-2026-10-02-ukr::Yes",
+    "unl-hrv-eng-2026-10-03-eng::No",
+    "nfl-mia-min-2026-10-04::Vikings",
+    "fif-kr-ven-2026-10-02-kr::No",
+    "nfl-ari-nyg-2026-10-04-spread-away-1pt5::Cardinals",
+    "nfl-atl-no-2026-10-06::Saints",
+    "atp-hurkacz-gea-2026-10-02::Arthur Gea",
+    "unl-fra-ita-2026-10-02-fra::No",
+    "nfl-den-sf-2026-10-04::49ers",
+    "unl-lat-mon-2026-10-02-mon::No",
+    "unl-kaz-mol-2026-10-02-kaz::No",
+    "unl-bih-swe-2026-10-02-bih::No",
+    "wta-paolini-snigur-2026-10-01::Daria Snigur",
+    "lal-lev-bil-2026-09-16-lev::No"
+  ],
   "signals": [
+    {
+      "market": "Spread: Bills (-6.5)",
+      "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
+      "outcome": "Bills",
+      "num_traders": 5,
+      "total_value": 35427.81,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1859,
+          "value": 17499.82,
+          "avg_price": 0.5199,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.8521,
+          "value": 15750,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 954.22,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 918.75,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 305.02,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "China Open: Daniil Medvedev vs Pablo Carreno Busta",
+      "slug": "atp-medvede-busta-2026-09-30",
+      "outcome": "Pablo Carreno Busta",
+      "num_traders": 4,
+      "total_value": 1668.45,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 738.08,
+          "avg_price": 0.1799,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 435.71,
+          "avg_price": 0.18,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 364.15,
+          "avg_price": 0.1714,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "gagarin59",
+          "roi": 0.5196,
+          "value": 130.51,
+          "avg_price": 0.19,
+          "cur_price": 0.165
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win on 2026-10-03?",
+      "slug": "unl-esp-cze-2026-10-03-esp",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 63391.35,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 59672.08,
+          "avg_price": 0.8954,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 2438.42,
+          "avg_price": 0.87,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1280.85,
+          "avg_price": 0.87,
+          "cur_price": 0.905
+        }
+      ]
+    },
+    {
+      "market": "Spread: Colts (-3.5)",
+      "slug": "nfl-ind-was-2026-10-04-spread-away-3pt5",
+      "outcome": "Colts",
+      "num_traders": 3,
+      "total_value": 22219.55,
+      "holders": [
+        {
+          "trader": "Elaran1993",
+          "roi": 0.3397,
+          "value": 20414.02,
+          "avg_price": 0.5099,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 904.28,
+          "avg_price": 0.5099,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 901.25,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will FC Cincinnati win on 2026-09-05?",
+      "slug": "mls-fcc-dcu-2026-09-05-fcc",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 9679.05,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 6863.49,
+          "avg_price": 0.3955,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1495.56,
+          "avg_price": 0.3955,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 1320,
+          "avg_price": 0.395,
+          "cur_price": 0.44
+        }
+      ]
+    },
+    {
+      "market": "Will Belgium win on 2026-10-02?",
+      "slug": "unl-bel-tur-2026-10-02-bel",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8156.88,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 4081.78,
+          "avg_price": 0.6422,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 2492.43,
+          "avg_price": 0.636,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1582.67,
+          "avg_price": 0.6392,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Will Ukraine win on 2026-10-02?",
+      "slug": "unl-ukr-nir-2026-10-02-ukr",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4747.75,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 2133.86,
+          "avg_price": 0.4961,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1996.97,
+          "avg_price": 0.4929,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 616.92,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will England win on 2026-10-03?",
+      "slug": "unl-hrv-eng-2026-10-03-eng",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 4184.14,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 1900.81,
+          "avg_price": 0.4647,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1769.04,
+          "avg_price": 0.4626,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 514.29,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Dolphins vs. Vikings",
+      "slug": "nfl-mia-min-2026-10-04",
+      "outcome": "Vikings",
+      "num_traders": 3,
+      "total_value": 4039.73,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1461.25,
+          "avg_price": 0.83,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 1461.25,
+          "avg_price": 0.83,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 1117.23,
+          "avg_price": 0.7808,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Will Korea Republic win on 2026-10-02?",
+      "slug": "fif-kr-ven-2026-10-02-kr",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3434.33,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 1498.06,
+          "avg_price": 0.4,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 1004.36,
+          "avg_price": 0.3987,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 931.91,
+          "avg_price": 0.3987,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cardinals (-1.5)",
+      "slug": "nfl-ari-nyg-2026-10-04-spread-away-1pt5",
+      "outcome": "Cardinals",
+      "num_traders": 3,
+      "total_value": 2643.25,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 953.75,
+          "avg_price": 0.51,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 953.75,
+          "avg_price": 0.51,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 735.75,
+          "avg_price": 0.49,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints",
+      "slug": "nfl-atl-no-2026-10-06",
+      "outcome": "Saints",
+      "num_traders": 3,
+      "total_value": 2608.5,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 971.25,
+          "avg_price": 0.56,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 971.25,
+          "avg_price": 0.56,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 666,
+          "avg_price": 0.5325,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "China Open: Hubert Hurkacz vs Arthur Gea",
+      "slug": "atp-hurkacz-gea-2026-10-02",
+      "outcome": "Arthur Gea",
+      "num_traders": 3,
+      "total_value": 2601.25,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1374.27,
+          "avg_price": 0.4254,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 743.75,
+          "avg_price": 0.42,
+          "cur_price": 0.425
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 483.23,
+          "avg_price": 0.42,
+          "cur_price": 0.425
+        }
+      ]
+    },
+    {
+      "market": "Will France win on 2026-10-02?",
+      "slug": "unl-fra-ita-2026-10-02-fra",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 2351.0,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 851.22,
+          "avg_price": 0.31,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 788.43,
+          "avg_price": 0.3087,
+          "cur_price": 0.325
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 711.35,
+          "avg_price": 0.3088,
+          "cur_price": 0.325
+        }
+      ]
+    },
+    {
+      "market": "Broncos vs. 49ers",
+      "slug": "nfl-den-sf-2026-10-04",
+      "outcome": "49ers",
+      "num_traders": 3,
+      "total_value": 2110.84,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 988.75,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 988.75,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1735,
+          "value": 133.34,
+          "avg_price": 0.58,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Will Montenegro win on 2026-10-02?",
+      "slug": "unl-lat-mon-2026-10-02-mon",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1874.63,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 853.03,
+          "avg_price": 0.4521,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 582.14,
+          "avg_price": 0.4615,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 439.46,
+          "avg_price": 0.46,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Will Kazakhstan win on 2026-10-02?",
+      "slug": "unl-kaz-mol-2026-10-02-kaz",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1794.11,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 987.1,
+          "avg_price": 0.4731,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 415.8,
+          "avg_price": 0.48,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 391.21,
+          "avg_price": 0.4653,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Will Bosnia and Herzegovina win on 2026-10-02?",
+      "slug": "unl-bih-swe-2026-10-02-bih",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1667.29,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 1031.5,
+          "avg_price": 0.6437,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 396.48,
+          "avg_price": 0.6441,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 239.31,
+          "avg_price": 0.64,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "China Open: Jasmine Paolini vs Daria Snigur",
+      "slug": "wta-paolini-snigur-2026-10-01",
+      "outcome": "Daria Snigur",
+      "num_traders": 3,
+      "total_value": 1584.12,
+      "holders": [
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 4.8407,
+          "value": 756.15,
+          "avg_price": 0.3905,
+          "cur_price": 0.23
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 505.01,
+          "avg_price": 0.4384,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 322.96,
+          "avg_price": 0.4535,
+          "cur_price": 0.255
+        }
+      ]
+    },
+    {
+      "market": "Will Levante UD win on 2026-09-16?",
+      "slug": "lal-lev-bil-2026-09-16-lev",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1251.81,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2791,
+          "value": 592.9,
+          "avg_price": 0.71,
+          "cur_price": 0.77
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.1734,
+          "value": 374.67,
+          "avg_price": 0.71,
+          "cur_price": 0.77
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.1682,
+          "value": 284.24,
+          "avg_price": 0.71,
+          "cur_price": 0.77
+        }
+      ]
+    },
     {
       "market": "Will Norway win on 2026-10-01?",
       "slug": "unl-wal-nor-2026-10-01-nor",
@@ -2181,7 +2823,6 @@
     "atp-staehel-rybakov-2026-09-28::Alex Rybakov": 3,
     "unl-geo-ukr-2026-09-28-total-0pt5::Over": 3,
     "unl-esp-hrv-2026-09-29-hrv::No": 3,
-    "lal-lev-bil-2026-09-16-lev::No": 3,
     "atp-heredia-osorio-2026-09-28::Samuel Heredia": 3,
     "es2-leg-cas-2026-09-28-cas::No": 3,
     "unl-lat-cyp-2026-09-28-cyp::No": 3,
@@ -2241,7 +2882,6 @@
     "unl-bel-fra-2026-09-28-exact-score-3-0::No": 3,
     "unl-bel-fra-2026-09-28-total-1pt5::Under": 3,
     "nfl-phi-chi-2026-09-29-spread-away-6pt5::Eagles": 3,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 3,
     "es2-leg-cas-2026-09-28-btts::No": 3,
     "unl-swe-pol-2026-09-28-total-2pt5::Over": 3,
     "bra2-afc-juv-2026-09-28-juv::Yes": 3,
@@ -2314,11 +2954,11 @@
     "wta-lys-su-2026-09-29::Xinran Sun": 3,
     "cs2-msc-lavked-2026-10-01::MASONIC": 3,
     "afcq-gui-ken-2026-10-01-gui::Yes": 3,
-    "unl-wal-nor-2026-10-01-nor::No": 1,
-    "unl-grc-nld-2026-10-01-nld::No": 1,
-    "unl-ger-ser-2026-10-01-total-3pt5::Under": 1,
-    "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar": 1,
-    "cs2-faze-nemi1-2026-10-01::FaZe": 1
+    "unl-wal-nor-2026-10-01-nor::No": 2,
+    "unl-grc-nld-2026-10-01-nld::No": 2,
+    "unl-ger-ser-2026-10-01-total-3pt5::Under": 2,
+    "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar": 2,
+    "cs2-faze-nemi1-2026-10-01::FaZe": 2
   },
-  "updated_at": "2026-10-02T00:56:03.916246+00:00"
+  "updated_at": "2026-10-02T06:48:45.454221+00:00"
 }
