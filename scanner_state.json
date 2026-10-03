@@ -1,33 +1,118 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "dota2-ts8-ty-2026-10-03::Team Spirit",
+    "dota2-1win-og-2026-10-03::1win",
+    "dota2-ts8-ty-2026-10-03::Team Yandex"
+  ],
   "signals": [
     {
-      "market": "Patriots vs. Bills: O/U 49.5",
-      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 3401.85,
+      "market": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
+      "slug": "dota2-ts8-ty-2026-10-03",
+      "outcome": "Team Spirit",
+      "num_traders": 5,
+      "total_value": 56161.76,
       "holders": [
         {
-          "trader": "AnonymousUsername",
-          "roi": 0.1987,
-          "value": 1423.53,
-          "avg_price": 0.4746,
-          "cur_price": 0.485
+          "trader": "CyberScore.live",
+          "roi": 0.2109,
+          "value": 19756.17,
+          "avg_price": 0.383,
+          "cur_price": 0.395
         },
         {
-          "trader": "WeBuyHighWeSelllow",
-          "roi": 0.2962,
-          "value": 1261,
-          "avg_price": 0.47,
-          "cur_price": 0.485
+          "trader": "GeorgeRe",
+          "roi": 0.1831,
+          "value": 10947.99,
+          "avg_price": 0.4285,
+          "cur_price": 0.385
         },
         {
-          "trader": "mooseborzoi",
-          "roi": 0.1869,
-          "value": 717.32,
+          "trader": "Medo3D",
+          "roi": 0.1708,
+          "value": 9790.35,
+          "avg_price": 0.429,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "Sisyphus-",
+          "roi": 0.2661,
+          "value": 7967.25,
+          "avg_price": 0.4405,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "TrippleEX",
+          "roi": 0.1993,
+          "value": 7700,
+          "avg_price": 0.35,
+          "cur_price": 0.385
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: 1win vs OG (BO3) - BLAST Slam Last Chance Qualifier",
+      "slug": "dota2-1win-og-2026-10-03",
+      "outcome": "1win",
+      "num_traders": 4,
+      "total_value": 38643.53,
+      "holders": [
+        {
+          "trader": "Sisyphus-",
+          "roi": 0.2661,
+          "value": 22069.58,
+          "avg_price": 0.54,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GeorgeRe",
+          "roi": 0.1831,
+          "value": 11289.2,
+          "avg_price": 0.5083,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CyberScore.live",
+          "roi": 0.2109,
+          "value": 4492.29,
           "avg_price": 0.5,
-          "cur_price": 0.485
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Medo3D",
+          "roi": 0.1708,
+          "value": 792.46,
+          "avg_price": 0.55,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
+      "slug": "dota2-ts8-ty-2026-10-03",
+      "outcome": "Team Yandex",
+      "num_traders": 3,
+      "total_value": 58008.18,
+      "holders": [
+        {
+          "trader": "qiu3",
+          "roi": 0.3328,
+          "value": 49737.59,
+          "avg_price": 0.6729,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "GeorgeRe",
+          "roi": 0.1831,
+          "value": 8050.95,
+          "avg_price": 0.5928,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Sisyphus-",
+          "roi": 0.2661,
+          "value": 219.64,
+          "avg_price": 0.5599,
+          "cur_price": 0.615
         }
       ]
     }
@@ -2194,7 +2279,7 @@
     "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
     "cs2-lg6-big5-2026-10-02::Luminosity": 3,
     "unl-bel-tur-2026-10-02-total-3pt5::Under": 3,
-    "nfl-ne-buf-2026-10-04-total-49pt5::Under": 2
+    "nfl-ne-buf-2026-10-04-total-49pt5::Under": 3
   },
-  "updated_at": "2026-10-03T16:13:09.575634+00:00"
+  "updated_at": "2026-10-03T19:16:03.259764+00:00"
 }
