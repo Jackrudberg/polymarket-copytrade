@@ -1,10 +1,38 @@
 {
   "seen_ids": [
-    "dota2-ts8-ty-2026-10-03::Team Spirit",
-    "dota2-1win-og-2026-10-03::1win",
-    "dota2-ts8-ty-2026-10-03::Team Yandex"
+    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 9114.41,
+      "holders": [
+        {
+          "trader": "tugator",
+          "roi": 0.713,
+          "value": 8242.52,
+          "avg_price": 0.0078,
+          "cur_price": 0.0785
+        },
+        {
+          "trader": "0xE5F0AE9cc9aeF77ae3c2A64c9E69caa3F335dc1d-1773531520731",
+          "roi": 0.2815,
+          "value": 737.18,
+          "avg_price": 0.1718,
+          "cur_price": 0.0785
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.1524,
+          "value": 134.71,
+          "avg_price": 0.095,
+          "cur_price": 0.0785
+        }
+      ]
+    },
     {
       "market": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
       "slug": "dota2-ts8-ty-2026-10-03",
@@ -2276,10 +2304,12 @@
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
     "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
-    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
     "cs2-lg6-big5-2026-10-02::Luminosity": 3,
     "unl-bel-tur-2026-10-02-total-3pt5::Under": 3,
-    "nfl-ne-buf-2026-10-04-total-49pt5::Under": 3
+    "nfl-ne-buf-2026-10-04-total-49pt5::Under": 3,
+    "dota2-ts8-ty-2026-10-03::Team Spirit": 1,
+    "dota2-1win-og-2026-10-03::1win": 1,
+    "dota2-ts8-ty-2026-10-03::Team Yandex": 1
   },
-  "updated_at": "2026-10-03T19:16:03.259764+00:00"
+  "updated_at": "2026-10-03T22:11:51.677986+00:00"
 }
