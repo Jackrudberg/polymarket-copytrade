@@ -1,6 +1,38 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "nfl-ne-buf-2026-10-04-total-49pt5::Under"
+  ],
   "signals": [
+    {
+      "market": "Patriots vs. Bills: O/U 49.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 3401.85,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.1987,
+          "value": 1423.53,
+          "avg_price": 0.4746,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "WeBuyHighWeSelllow",
+          "roi": 0.2962,
+          "value": 1261,
+          "avg_price": 0.47,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "mooseborzoi",
+          "roi": 0.1869,
+          "value": 717.32,
+          "avg_price": 0.5,
+          "cur_price": 0.485
+        }
+      ]
+    },
     {
       "market": "Belgium vs. T\u00fcrkiye: O/U 3.5",
       "slug": "unl-bel-tur-2026-10-02-total-3pt5",
@@ -27,36 +59,6 @@
           "roi": 0.1762,
           "value": 298.78,
           "avg_price": 0.55,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
-      "slug": "cs2-lg6-big5-2026-10-02",
-      "outcome": "Luminosity",
-      "num_traders": 3,
-      "total_value": 41076.84,
-      "holders": [
-        {
-          "trader": "CORGI777",
-          "roi": 0.2048,
-          "value": 29698.35,
-          "avg_price": 0.5099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "dsasdaas",
-          "roi": 0.2276,
-          "value": 8726.82,
-          "avg_price": 0.3425,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "gfafasgs",
-          "roi": 0.6449,
-          "value": 2651.67,
-          "avg_price": 0.8299,
           "cur_price": 0.9995
         }
       ]
@@ -2222,8 +2224,8 @@
     "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
-    "cs2-lg6-big5-2026-10-02::Luminosity": 2,
-    "unl-bel-tur-2026-10-02-total-3pt5::Under": 1
+    "cs2-lg6-big5-2026-10-02::Luminosity": 3,
+    "unl-bel-tur-2026-10-02-total-3pt5::Under": 2
   },
-  "updated_at": "2026-10-03T01:23:05.570579+00:00"
+  "updated_at": "2026-10-03T06:47:06.051171+00:00"
 }
