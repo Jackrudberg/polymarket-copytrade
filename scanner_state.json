@@ -1,30 +1,57 @@
 {
   "seen_ids": [
     "nfl-ind-was-2026-10-04-total-46pt5::Under",
-    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts",
-    "nfl-ind-was-2026-10-04-spread-away-10pt5::Commanders",
-    "nfl-la-phi-2026-10-04-spread-away-3pt5::Rams",
-    "nfl-ne-buf-2026-10-04-total-57pt5::Under",
-    "nfl-ind-was-2026-10-04-total-47pt5::Under",
-    "nfl-det-car-2026-10-05-total-50pt5::Under",
-    "nfl-det-car-2026-10-05-total-51pt5::Under",
-    "nfl-ind-was-2026-10-04-total-53pt5::Under",
-    "nfl-ari-nyg-2026-10-04::Cardinals",
-    "nfl-ne-buf-2026-10-04-total-50pt5::Over",
-    "nfl-gb-tb-2026-10-04-total-39pt5::Under",
     "nfl-ind-was-2026-10-04::Colts",
-    "nfl-gb-tb-2026-10-04::Buccaneers",
-    "nfl-ind-was-2026-10-04-spread-away-4pt5::Commanders",
+    "nfl-la-phi-2026-10-04::Rams",
+    "nfl-la-phi-2026-10-04-spread-away-3pt5::Rams",
+    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts",
+    "nfl-jax-cin-2026-10-04::Bengals",
+    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Patriots",
+    "nfl-la-phi-2026-10-04-total-42pt5::Over",
+    "nfl-ind-was-2026-10-04-total-47pt5::Under",
     "nfl-ne-buf-2026-10-04-total-49pt5::Under",
-    "nfl-ind-was-2026-10-04::Commanders",
-    "nfl-atl-no-2026-10-06-spread-home-2pt5::Falcons",
-    "nfl-mia-min-2026-10-04-spread-home-3pt5::Vikings",
-    "nfl-gb-tb-2026-10-04-spread-home-3pt5::Packers",
+    "nfl-dal-hou-2026-10-04-spread-home-2pt5::Texans",
     "nfl-gb-tb-2026-10-04::Packers",
+    "nfl-ari-nyg-2026-10-04::Cardinals",
+    "nfl-den-sf-2026-10-04-spread-home-2pt5::Broncos",
+    "nfl-mia-min-2026-10-04::Vikings",
+    "nfl-nyj-chi-2026-10-04::Bears",
+    "nfl-det-car-2026-10-05-total-51pt5::Under",
+    "nfl-ari-nyg-2026-10-04-total-44pt5::Over",
+    "nfl-ten-bal-2026-10-04-spread-home-10pt5::Ravens",
+    "nfl-dal-hou-2026-10-04::Texans",
+    "nfl-ari-nyg-2026-10-04::Giants",
+    "nfl-ari-nyg-2026-10-04-spread-away-2pt5::Giants",
+    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills",
+    "nfl-ne-buf-2026-10-04-total-49pt5::Over",
+    "nfl-nyj-chi-2026-10-04-spread-home-3pt5::Bears",
+    "nfl-ne-buf-2026-10-04-total-57pt5::Under",
     "nfl-gb-tb-2026-10-04-spread-away-3pt5::Packers",
+    "nfl-ind-was-2026-10-04-total-53pt5::Under",
+    "nfl-ne-buf-2026-10-04-total-50pt5::Over",
+    "nfl-nyj-chi-2026-10-04-total-42pt5::Under",
+    "nfl-gb-tb-2026-10-04::Buccaneers",
+    "nfl-ind-was-2026-10-04-spread-away-5pt5::Colts",
     "nfl-mia-min-2026-10-04-spread-home-10pt5::Vikings",
-    "nfl-ind-was-2026-10-04-total-47pt5::Over",
+    "nfl-ari-nyg-2026-10-04-total-44pt5::Under",
+    "nfl-jax-cin-2026-10-04-spread-home-2pt5::Bengals",
+    "nfl-den-sf-2026-10-04-spread-home-3pt5::49ers",
+    "nfl-la-phi-2026-10-04-spread-away-10pt5::Eagles",
+    "nfl-gb-tb-2026-10-04-spread-home-3pt5::Packers",
+    "nfl-det-car-2026-10-05-total-50pt5::Under",
+    "nfl-gb-tb-2026-10-04-spread-away-3pt5::Buccaneers",
+    "nfl-mia-min-2026-10-04-spread-home-3pt5::Vikings",
+    "nfl-ari-nyg-2026-10-04-spread-away-2pt5::Cardinals",
+    "nfl-gb-tb-2026-10-04-total-39pt5::Under",
+    "nfl-dal-hou-2026-10-04-total-48pt5::Under",
+    "nfl-dal-hou-2026-10-04-total-48pt5::Over",
+    "unl-kvx-aut-2026-10-04-aut::No",
+    "nfl-ten-bal-2026-10-04-total-42pt5::Over",
+    "nfl-gb-tb-2026-10-04-spread-away-2pt5::Packers",
+    "nfl-den-sf-2026-10-04-total-48pt5::Over",
+    "nfl-ten-bal-2026-10-04-spread-home-3pt5::Ravens",
     "nfl-kc-lv-2026-10-04-spread-away-4pt5::Raiders",
+    "nhl-las-van-2026-10-04::Golden Knights",
     "nfl-mia-min-2026-10-04-1h-spread-home-6pt5::Vikings"
   ],
   "signals": [
@@ -32,43 +59,259 @@
       "market": "Colts vs. Commanders: O/U 46.5",
       "slug": "nfl-ind-was-2026-10-04-total-46pt5",
       "outcome": "Under",
-      "num_traders": 5,
-      "total_value": 194400.94,
+      "num_traders": 8,
+      "total_value": 683424.66,
       "holders": [
         {
           "trader": "mooseborzoii",
           "roi": 0.2487,
-          "value": 173686.3,
-          "avg_price": 0.4895,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 7499.07,
-          "avg_price": 0.5,
-          "cur_price": 0.485
+          "value": 554854.15,
+          "avg_price": 0.4861,
+          "cur_price": 0.9995
         },
         {
           "trader": "HomeRunHazard",
           "roi": 0.375,
-          "value": 6142.81,
-          "avg_price": 0.4881,
-          "cur_price": 0.485
+          "value": 73082.63,
+          "avg_price": 0.4883,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 17789.48,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 16348.82,
+          "avg_price": 0.4994,
+          "cur_price": 0.9995
         },
         {
           "trader": "royalestake",
           "roi": 0.3414,
-          "value": 5820.0,
+          "value": 9994.99,
           "avg_price": 0.4949,
-          "cur_price": 0.485
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 6245.88,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
         },
         {
           "trader": "LuckyLoo",
           "roi": 0.2328,
-          "value": 1252.76,
-          "avg_price": 0.49,
-          "cur_price": 0.485
+          "value": 4828.33,
+          "avg_price": 0.4853,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.1577,
+          "value": 280.38,
+          "avg_price": 0.3399,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders",
+      "slug": "nfl-ind-was-2026-10-04",
+      "outcome": "Colts",
+      "num_traders": 8,
+      "total_value": 394359.51,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 107911.78,
+          "avg_price": 0.6379,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 93381.16,
+          "avg_price": 0.6031,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "bigballaz",
+          "roi": 1.0485,
+          "value": 68165.84,
+          "avg_price": 0.7452,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 66587.1,
+          "avg_price": 0.6781,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 41913.84,
+          "avg_price": 0.6399,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 15230.38,
+          "avg_price": 0.84,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 999.5,
+          "avg_price": 0.66,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.1577,
+          "value": 169.91,
+          "avg_price": 0.5189,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Rams vs. Eagles",
+      "slug": "nfl-la-phi-2026-10-04",
+      "outcome": "Rams",
+      "num_traders": 8,
+      "total_value": 133451.82,
+      "holders": [
+        {
+          "trader": "alwaysfade",
+          "roi": 0.5513,
+          "value": 63500,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.8155,
+          "value": 30073.64,
+          "avg_price": 0.6199,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 16374.12,
+          "avg_price": 0.6251,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 13530.58,
+          "avg_price": 0.6342,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 5777.4,
+          "avg_price": 0.6399,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2861.95,
+          "avg_price": 0.6239,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 667.38,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 666.75,
+          "avg_price": 0.6204,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-la-phi-2026-10-04-spread-away-3pt5",
+      "outcome": "Rams",
+      "num_traders": 8,
+      "total_value": 77393.6,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 25220.4,
+          "avg_price": 0.4798,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 24873.1,
+          "avg_price": 0.5,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.8155,
+          "value": 10232.35,
+          "avg_price": 0.4699,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 8331.84,
+          "avg_price": 0.4728,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 4816.5,
+          "avg_price": 0.4866,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 3106.62,
+          "avg_price": 0.4833,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 499.99,
+          "avg_price": 0.48,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 312.8,
+          "avg_price": 0.4899,
+          "cur_price": 0.495
         }
       ]
     },
@@ -76,43 +319,1784 @@
       "market": "Spread: Colts (-3.5)",
       "slug": "nfl-ind-was-2026-10-04-spread-away-3pt5",
       "outcome": "Colts",
-      "num_traders": 5,
-      "total_value": 76230.75,
+      "num_traders": 6,
+      "total_value": 150861.66,
       "holders": [
         {
           "trader": "ic4cream",
           "roi": 1.7506,
-          "value": 25081.44,
+          "value": 45997.99,
           "avg_price": 0.4725,
-          "cur_price": 0.545
+          "cur_price": 0.9995
         },
         {
           "trader": "texaskid",
           "roi": 0.4657,
-          "value": 21374.76,
+          "value": 39200.14,
           "avg_price": 0.4899,
-          "cur_price": 0.545
+          "cur_price": 0.9995
         },
         {
           "trader": "Pwaddler",
           "roi": 1.2603,
-          "value": 16393.89,
+          "value": 30065.49,
           "avg_price": 0.5099,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 24134.49,
+          "avg_price": 0.4787,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 6146.93,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 5316.62,
+          "avg_price": 0.4803,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Jaguars vs. Bengals",
+      "slug": "nfl-jax-cin-2026-10-04",
+      "outcome": "Bengals",
+      "num_traders": 6,
+      "total_value": 93954.68,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 73454.52,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 9595.56,
+          "avg_price": 0.5578,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 4805.42,
+          "avg_price": 0.5525,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 3810.93,
+          "avg_price": 0.5629,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1723.25,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 565,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Spread: Bills (-6.5)",
+      "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
+      "outcome": "Patriots",
+      "num_traders": 6,
+      "total_value": 25828.86,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 10572.7,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 8199.82,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 3022.48,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "THEHIGHLIFE",
+          "roi": 0.3683,
+          "value": 2583.07,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 927.67,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 523.12,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Rams vs. Eagles: O/U 42.5",
+      "slug": "nfl-la-phi-2026-10-04-total-42pt5",
+      "outcome": "Over",
+      "num_traders": 6,
+      "total_value": 15073.1,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6255.07,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 3699.63,
+          "avg_price": 0.49,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2491.67,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1307.44,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 751.17,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 568.12,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders: O/U 47.5",
+      "slug": "nfl-ind-was-2026-10-04-total-47pt5",
+      "outcome": "Under",
+      "num_traders": 5,
+      "total_value": 115698.17,
+      "holders": [
+        {
+          "trader": "justwins",
+          "roi": 2.6071,
+          "value": 62436.56,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 37335.61,
+          "avg_price": 0.5219,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 12675.24,
+          "avg_price": 0.5434,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 1683.0,
+          "avg_price": 0.4747,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 1567.76,
+          "avg_price": 0.4599,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Bills: O/U 49.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
+      "outcome": "Under",
+      "num_traders": 5,
+      "total_value": 80155.1,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 37708.26,
+          "avg_price": 0.477,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 20499.53,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 20092.66,
+          "avg_price": 0.4733,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.6071,
+          "value": 1549.16,
+          "avg_price": 0.51,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 305.49,
+          "avg_price": 0.47,
+          "cur_price": 0.51
+        }
+      ]
+    },
+    {
+      "market": "Spread: Texans (-2.5)",
+      "slug": "nfl-dal-hou-2026-10-04-spread-home-2pt5",
+      "outcome": "Texans",
+      "num_traders": 5,
+      "total_value": 42365.01,
+      "holders": [
+        {
+          "trader": "THEdirkdiggler",
+          "roi": 0.2248,
+          "value": 21000,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 16933.5,
+          "avg_price": 0.53,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 1893.14,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 1882.12,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 656.25,
+          "avg_price": 0.53,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Packers vs. Buccaneers",
+      "slug": "nfl-gb-tb-2026-10-04",
+      "outcome": "Packers",
+      "num_traders": 5,
+      "total_value": 35450.21,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 15700.07,
+          "avg_price": 0.6042,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 8203.45,
+          "avg_price": 0.5913,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 6909.2,
+          "avg_price": 0.61,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 3938.8,
+          "avg_price": 0.5939,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 698.69,
+          "avg_price": 0.6,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Cardinals vs. Giants",
+      "slug": "nfl-ari-nyg-2026-10-04",
+      "outcome": "Cardinals",
+      "num_traders": 5,
+      "total_value": 33017.73,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 17453.64,
+          "avg_price": 0.5385,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "alwaysfade",
+          "roi": 0.5513,
+          "value": 8939.19,
+          "avg_price": 0.5499,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 3540.24,
+          "avg_price": 0.5576,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 2178.52,
+          "avg_price": 0.535,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 906.14,
+          "avg_price": 0.56,
+          "cur_price": 0.54
+        }
+      ]
+    },
+    {
+      "market": "Spread: 49ers (-2.5)",
+      "slug": "nfl-den-sf-2026-10-04-spread-home-2pt5",
+      "outcome": "Broncos",
+      "num_traders": 5,
+      "total_value": 27573.33,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 18262.75,
+          "avg_price": 0.4899,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 4274.27,
+          "avg_price": 0.4656,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 2730,
+          "avg_price": 0.47,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 2204.39,
+          "avg_price": 0.4723,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 101.92,
+          "avg_price": 0.4649,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Dolphins vs. Vikings",
+      "slug": "nfl-mia-min-2026-10-04",
+      "outcome": "Vikings",
+      "num_traders": 5,
+      "total_value": 26141.9,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 11860.5,
+          "avg_price": 0.82,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 6382.27,
+          "avg_price": 0.82,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 5113.87,
+          "avg_price": 0.83,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 2622.26,
+          "avg_price": 0.8224,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 163,
+          "avg_price": 0.82,
+          "cur_price": 0.815
+        }
+      ]
+    },
+    {
+      "market": "Jets vs. Bears",
+      "slug": "nfl-nyj-chi-2026-10-04",
+      "outcome": "Bears",
+      "num_traders": 5,
+      "total_value": 24647.09,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 12851.19,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 8540.25,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 1700.53,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1078.87,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 476.25,
+          "avg_price": 0.63,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Lions vs. Panthers: O/U 51.5",
+      "slug": "nfl-det-car-2026-10-05-total-51pt5",
+      "outcome": "Under",
+      "num_traders": 5,
+      "total_value": 24608.01,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 12203.21,
+          "avg_price": 0.5153,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 5377.68,
+          "avg_price": 0.5099,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 4799.62,
+          "avg_price": 0.5199,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 1485,
+          "avg_price": 0.52,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 742.5,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Cardinals vs. Giants: O/U 44.5",
+      "slug": "nfl-ari-nyg-2026-10-04-total-44pt5",
+      "outcome": "Over",
+      "num_traders": 5,
+      "total_value": 17987.55,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 12647.27,
+          "avg_price": 0.4748,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2852.46,
+          "avg_price": 0.4836,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 1389.92,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 594.78,
+          "avg_price": 0.4895,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 503.12,
+          "avg_price": 0.48,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Spread: Ravens (-10.5)",
+      "slug": "nfl-ten-bal-2026-10-04-spread-home-10pt5",
+      "outcome": "Ravens",
+      "num_traders": 5,
+      "total_value": 14459.49,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6686.35,
+          "avg_price": 0.5099,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 5286.01,
+          "avg_price": 0.5083,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 1035.25,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 795.88,
+          "avg_price": 0.5071,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 656.0,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Cowboys vs. Texans",
+      "slug": "nfl-dal-hou-2026-10-04",
+      "outcome": "Texans",
+      "num_traders": 4,
+      "total_value": 373690.93,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 294975,
+          "avg_price": 0.58,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 76985.47,
+          "avg_price": 0.58,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1155.46,
+          "avg_price": 0.5742,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 575,
+          "avg_price": 0.5749,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Cardinals vs. Giants",
+      "slug": "nfl-ari-nyg-2026-10-04",
+      "outcome": "Giants",
+      "num_traders": 4,
+      "total_value": 249671.5,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 132971.5,
+          "avg_price": 0.4364,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.6071,
+          "value": 93000,
+          "avg_price": 0.45,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2399,
+          "value": 20700,
+          "avg_price": 0.4661,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 3000,
+          "avg_price": 0.4599,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cardinals (-2.5)",
+      "slug": "nfl-ari-nyg-2026-10-04-spread-away-2pt5",
+      "outcome": "Giants",
+      "num_traders": 4,
+      "total_value": 220430.01,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 212537.22,
+          "avg_price": 0.4994,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.6071,
+          "value": 4463.18,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2450,
+          "avg_price": 0.5,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 979.61,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Spread: Bills (-6.5)",
+      "slug": "nfl-ne-buf-2026-10-04-spread-home-6pt5",
+      "outcome": "Bills",
+      "num_traders": 4,
+      "total_value": 102446.61,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 76400.96,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 19942.08,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 3873.93,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 2229.64,
+          "avg_price": 0.51,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Bills: O/U 49.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
+      "outcome": "Over",
+      "num_traders": 4,
+      "total_value": 54915.65,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 39670.09,
+          "avg_price": 0.52,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 12434.68,
+          "avg_price": 0.5042,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2265.26,
+          "avg_price": 0.4866,
+          "cur_price": 0.49
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 545.62,
+          "avg_price": 0.48,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Spread: Bears (-3.5)",
+      "slug": "nfl-nyj-chi-2026-10-04-spread-home-3pt5",
+      "outcome": "Bears",
+      "num_traders": 4,
+      "total_value": 46889.19,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 34618.95,
+          "avg_price": 0.4899,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6133.22,
+          "avg_price": 0.49,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 5509.91,
+          "avg_price": 0.49,
+          "cur_price": 0.48
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 627.11,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Bills: O/U 57.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-57pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 44148.98,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 36200.79,
+          "avg_price": 0.71,
+          "cur_price": 0.72
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 4060.02,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 3770,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 118.17,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-3.5)",
+      "slug": "nfl-gb-tb-2026-10-04-spread-away-3pt5",
+      "outcome": "Packers",
+      "num_traders": 4,
+      "total_value": 37018.55,
+      "holders": [
+        {
+          "trader": "bigballaz",
+          "roi": 1.0485,
+          "value": 22490.1,
+          "avg_price": 0.44,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 9130,
+          "avg_price": 0.45,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 4450.05,
+          "avg_price": 0.4416,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 948.4,
+          "avg_price": 0.4538,
+          "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders: O/U 53.5",
+      "slug": "nfl-ind-was-2026-10-04-total-53pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 36994.64,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 17162.87,
+          "avg_price": 0.7071,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 11322.04,
+          "avg_price": 0.71,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 7276.35,
+          "avg_price": 0.72,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1233.38,
+          "avg_price": 0.71,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Bills: O/U 50.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-50pt5",
+      "outcome": "Over",
+      "num_traders": 4,
+      "total_value": 14989.13,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 7671.21,
+          "avg_price": 0.47,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 5694.93,
+          "avg_price": 0.49,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 1440.72,
+          "avg_price": 0.49,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 182.27,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Jets vs. Bears: O/U 42.5",
+      "slug": "nfl-nyj-chi-2026-10-04-total-42pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 9761.15,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 4316.6,
+          "avg_price": 0.46,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 2966.99,
+          "avg_price": 0.47,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2217.66,
+          "avg_price": 0.4666,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.3875,
+          "value": 259.9,
+          "avg_price": 0.46,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Packers vs. Buccaneers",
+      "slug": "nfl-gb-tb-2026-10-04",
+      "outcome": "Buccaneers",
+      "num_traders": 3,
+      "total_value": 102559.92,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 72909.11,
+          "avg_price": 0.4,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 27575.82,
+          "avg_price": 0.38,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 2074.99,
+          "avg_price": 0.39,
+          "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Spread: Colts (-5.5)",
+      "slug": "nfl-ind-was-2026-10-04-spread-away-5pt5",
+      "outcome": "Colts",
+      "num_traders": 3,
+      "total_value": 60525.74,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 34906.07,
+          "avg_price": 0.4577,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 25138.91,
+          "avg_price": 0.5367,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 480.76,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Vikings (-10.5)",
+      "slug": "nfl-mia-min-2026-10-04-spread-home-10pt5",
+      "outcome": "Vikings",
+      "num_traders": 3,
+      "total_value": 54830.89,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 48142.81,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6227.73,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 460.35,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Cardinals vs. Giants: O/U 44.5",
+      "slug": "nfl-ari-nyg-2026-10-04-total-44pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 43847.47,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.4657,
+          "value": 31392.31,
+          "avg_price": 0.52,
           "cur_price": 0.545
         },
         {
           "trader": "HomeRunHazard",
           "roi": 0.375,
-          "value": 10028.91,
-          "avg_price": 0.5189,
-          "cur_price": 0.545
+          "value": 7930.43,
+          "avg_price": 0.4999,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 4524.73,
+          "avg_price": 0.5099,
+          "cur_price": 0.54
+        }
+      ]
+    },
+    {
+      "market": "Spread: Bengals (-2.5)",
+      "slug": "nfl-jax-cin-2026-10-04-spread-home-2pt5",
+      "outcome": "Bengals",
+      "num_traders": 3,
+      "total_value": 41342.94,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 23552.36,
+          "avg_price": 0.5052,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 11996.72,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 5793.86,
+          "avg_price": 0.5042,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Spread: 49ers (-3.5)",
+      "slug": "nfl-den-sf-2026-10-04-spread-home-3pt5",
+      "outcome": "49ers",
+      "num_traders": 3,
+      "total_value": 38255.45,
+      "holders": [
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 35527.61,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 2481.29,
+          "avg_price": 0.4106,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 246.55,
+          "avg_price": 0.44,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-10.5)",
+      "slug": "nfl-la-phi-2026-10-04-spread-away-10pt5",
+      "outcome": "Eagles",
+      "num_traders": 3,
+      "total_value": 32907.64,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 19383.36,
+          "avg_price": 0.73,
+          "cur_price": 0.72
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 12885.55,
+          "avg_price": 0.73,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 638.73,
+          "avg_price": 0.73,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Spread: Buccaneers (-3.5)",
+      "slug": "nfl-gb-tb-2026-10-04-spread-home-3pt5",
+      "outcome": "Packers",
+      "num_traders": 3,
+      "total_value": 29719.78,
+      "holders": [
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 19128.9,
+          "avg_price": 0.7303,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 9311.8,
+          "avg_price": 0.73,
+          "cur_price": 0.7
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 1279.08,
+          "avg_price": 0.7249,
+          "cur_price": 0.7
+        }
+      ]
+    },
+    {
+      "market": "Lions vs. Panthers: O/U 50.5",
+      "slug": "nfl-det-car-2026-10-05-total-50pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 26826.69,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 13428.47,
+          "avg_price": 0.4797,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 11538.22,
+          "avg_price": 0.4749,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 1860,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-3.5)",
+      "slug": "nfl-gb-tb-2026-10-04-spread-away-3pt5",
+      "outcome": "Buccaneers",
+      "num_traders": 3,
+      "total_value": 25705.62,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 12109.15,
+          "avg_price": 0.5199,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 8890.84,
+          "avg_price": 0.5703,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 4705.63,
+          "avg_price": 0.5683,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Spread: Vikings (-3.5)",
+      "slug": "nfl-mia-min-2026-10-04-spread-home-3pt5",
+      "outcome": "Vikings",
+      "num_traders": 3,
+      "total_value": 24118.48,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 11671.68,
+          "avg_price": 0.7349,
+          "cur_price": 0.725
         },
         {
           "trader": "Painfulvoid",
           "roi": 0.2366,
-          "value": 3351.75,
-          "avg_price": 0.46,
-          "cur_price": 0.545
+          "value": 8156.25,
+          "avg_price": 0.73,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 4290.55,
+          "avg_price": 0.74,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cardinals (-2.5)",
+      "slug": "nfl-ari-nyg-2026-10-04-spread-away-2pt5",
+      "outcome": "Cardinals",
+      "num_traders": 3,
+      "total_value": 23738.02,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 12813.42,
+          "avg_price": 0.5099,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 8322.58,
+          "avg_price": 0.4693,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 2602.02,
+          "avg_price": 0.49,
+          "cur_price": 0.51
+        }
+      ]
+    },
+    {
+      "market": "Packers vs. Buccaneers: O/U 39.5",
+      "slug": "nfl-gb-tb-2026-10-04-total-39pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 18039.56,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 10815.97,
+          "avg_price": 0.52,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 4073.43,
+          "avg_price": 0.505,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 3150.16,
+          "avg_price": 0.5289,
+          "cur_price": 0.52
+        }
+      ]
+    },
+    {
+      "market": "Cowboys vs. Texans: O/U 48.5",
+      "slug": "nfl-dal-hou-2026-10-04-total-48pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 16239.98,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 8686.46,
+          "avg_price": 0.5049,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.6071,
+          "value": 6875.59,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 677.93,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Cowboys vs. Texans: O/U 48.5",
+      "slug": "nfl-dal-hou-2026-10-04-total-48pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 13690.53,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6641.4,
+          "avg_price": 0.49,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 5534.51,
+          "avg_price": 0.514,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 1514.62,
+          "avg_price": 0.51,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Will Austria win on 2026-10-04?",
+      "slug": "unl-kvx-aut-2026-10-04-aut",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 11273.14,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.1511,
+          "value": 8637.18,
+          "avg_price": 0.5499,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 2477.15,
+          "avg_price": 0.5111,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 158.81,
+          "avg_price": 0.51,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Titans vs. Ravens: O/U 42.5",
+      "slug": "nfl-ten-bal-2026-10-04-total-42pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 11222.71,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 6316.62,
+          "avg_price": 0.49,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 4461.6,
+          "avg_price": 0.49,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 444.49,
+          "avg_price": 0.4822,
+          "cur_price": 0.5
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-2.5)",
+      "slug": "nfl-gb-tb-2026-10-04-spread-away-2pt5",
+      "outcome": "Packers",
+      "num_traders": 3,
+      "total_value": 8235.5,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 7042.92,
+          "avg_price": 0.53,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 786.51,
+          "avg_price": 0.53,
+          "cur_price": 0.53
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 406.07,
+          "avg_price": 0.5299,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Broncos vs. 49ers: O/U 48.5",
+      "slug": "nfl-den-sf-2026-10-04-total-48pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 7789.57,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.2603,
+          "value": 4364.98,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 1940,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 1484.59,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Spread: Ravens (-3.5)",
+      "slug": "nfl-ten-bal-2026-10-04-spread-home-3pt5",
+      "outcome": "Ravens",
+      "num_traders": 3,
+      "total_value": 6744.44,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 3767.82,
+          "avg_price": 0.75,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 2337.41,
+          "avg_price": 0.74,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 639.21,
+          "avg_price": 0.74,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "Spread: Chiefs (-4.5)",
+      "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
+      "outcome": "Raiders",
+      "num_traders": 3,
+      "total_value": 6542.85,
+      "holders": [
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.453,
+          "value": 3092.84,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 2309.29,
+          "avg_price": 0.5099,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.7506,
+          "value": 1140.72,
+          "avg_price": 0.51,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Golden Knights vs. Canucks",
+      "slug": "nhl-las-van-2026-10-04",
+      "outcome": "Golden Knights",
+      "num_traders": 3,
+      "total_value": 5740.9,
+      "holders": [
+        {
+          "trader": "royalestake",
+          "roi": 0.3414,
+          "value": 3047.61,
+          "avg_price": 0.6799,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.375,
+          "value": 2571.96,
+          "avg_price": 0.7,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2487,
+          "value": 121.33,
+          "avg_price": 0.6999,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "1H Spread: Vikings (-6.5)",
+      "slug": "nfl-mia-min-2026-10-04-1h-spread-home-6pt5",
+      "outcome": "Vikings",
+      "num_traders": 3,
+      "total_value": 3815.12,
+      "holders": [
+        {
+          "trader": "Painfulvoid",
+          "roi": 0.2366,
+          "value": 3120.9,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.1759,
+          "value": 431.62,
+          "avg_price": 0.5097,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.2328,
+          "value": 262.6,
+          "avg_price": 0.51,
+          "cur_price": 0.505
         }
       ]
     },
@@ -154,399 +2138,6 @@
       ]
     },
     {
-      "market": "Spread: Rams (-3.5)",
-      "slug": "nfl-la-phi-2026-10-04-spread-away-3pt5",
-      "outcome": "Rams",
-      "num_traders": 4,
-      "total_value": 46748.47,
-      "holders": [
-        {
-          "trader": "Pwaddler",
-          "roi": 1.2603,
-          "value": 25126.9,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.8155,
-          "value": 10232.35,
-          "avg_price": 0.4699,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 6487.73,
-          "avg_price": 0.4599,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 4901.49,
-          "avg_price": 0.46,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Patriots vs. Bills: O/U 57.5",
-      "slug": "nfl-ne-buf-2026-10-04-total-57pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 43787.96,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 35949.39,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.1759,
-          "value": 4004.02,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "royalestake",
-          "roi": 0.3414,
-          "value": 3718,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 116.55,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        }
-      ]
-    },
-    {
-      "market": "Colts vs. Commanders: O/U 47.5",
-      "slug": "nfl-ind-was-2026-10-04-total-47pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 36154.82,
-      "holders": [
-        {
-          "trader": "justwins",
-          "roi": 2.6071,
-          "value": 32795.59,
-          "avg_price": 0.53,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 1651.73,
-          "avg_price": 0.4699,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 884.02,
-          "avg_price": 0.4747,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 823.48,
-          "avg_price": 0.4599,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Lions vs. Panthers: O/U 50.5",
-      "slug": "nfl-det-car-2026-10-05-total-50pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 25585.56,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 11786.36,
-          "avg_price": 0.4749,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 11770.0,
-          "avg_price": 0.4813,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "royalestake",
-          "roi": 0.3414,
-          "value": 1900,
-          "avg_price": 0.48,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 129.2,
-          "avg_price": 0.48,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Lions vs. Panthers: O/U 51.5",
-      "slug": "nfl-det-car-2026-10-05-total-51pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 24829.77,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 12696.26,
-          "avg_price": 0.5153,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 5594.96,
-          "avg_price": 0.5099,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 4993.55,
-          "avg_price": 0.5199,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "royalestake",
-          "roi": 0.3414,
-          "value": 1545,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Colts vs. Commanders: O/U 53.5",
-      "slug": "nfl-ind-was-2026-10-04-total-53pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 22616.83,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 8628.44,
-          "avg_price": 0.71,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.1759,
-          "value": 7986.03,
-          "avg_price": 0.71,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 5132.39,
-          "avg_price": 0.72,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 869.97,
-          "avg_price": 0.71,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "Cardinals vs. Giants",
-      "slug": "nfl-ari-nyg-2026-10-04",
-      "outcome": "Cardinals",
-      "num_traders": 4,
-      "total_value": 15302.52,
-      "holders": [
-        {
-          "trader": "alwaysfade",
-          "roi": 0.5513,
-          "value": 9187.5,
-          "avg_price": 0.5499,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 4069.27,
-          "avg_price": 0.5502,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0x0A77exmm",
-          "roi": 0.453,
-          "value": 1114.44,
-          "avg_price": 0.56,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 931.31,
-          "avg_price": 0.56,
-          "cur_price": 0.555
-        }
-      ]
-    },
-    {
-      "market": "Patriots vs. Bills: O/U 50.5",
-      "slug": "nfl-ne-buf-2026-10-04-total-50pt5",
-      "outcome": "Over",
-      "num_traders": 4,
-      "total_value": 15213.34,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.1759,
-          "value": 7754.6,
-          "avg_price": 0.47,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 5820.09,
-          "avg_price": 0.49,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 1456.38,
-          "avg_price": 0.49,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "0xheavy888",
-          "roi": 0.3875,
-          "value": 182.27,
-          "avg_price": 0.47,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Packers vs. Buccaneers: O/U 39.5",
-      "slug": "nfl-gb-tb-2026-10-04-total-39pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 10218.33,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 4112.59,
-          "avg_price": 0.505,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 3180.45,
-          "avg_price": 0.5289,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 1.2603,
-          "value": 2352.52,
-          "avg_price": 0.52,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 572.77,
-          "avg_price": 0.5,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Colts vs. Commanders",
-      "slug": "nfl-ind-was-2026-10-04",
-      "outcome": "Colts",
-      "num_traders": 3,
-      "total_value": 103673.88,
-      "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.4657,
-          "value": 71797.23,
-          "avg_price": 0.6379,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 1.2603,
-          "value": 27886.65,
-          "avg_price": 0.6399,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "bigballaz",
-          "roi": 1.0485,
-          "value": 3990,
-          "avg_price": 0.6,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "Packers vs. Buccaneers",
-      "slug": "nfl-gb-tb-2026-10-04",
-      "outcome": "Buccaneers",
-      "num_traders": 3,
-      "total_value": 97617.27,
-      "holders": [
-        {
-          "trader": "texaskid",
-          "roi": 0.4657,
-          "value": 69395.42,
-          "avg_price": 0.4,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 26246.86,
-          "avg_price": 0.38,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "royalestake",
-          "roi": 0.3414,
-          "value": 1974.99,
-          "avg_price": 0.39,
-          "cur_price": 0.395
-        }
-      ]
-    },
-    {
       "market": "Spread: Colts (-4.5)",
       "slug": "nfl-ind-was-2026-10-04-spread-away-4pt5",
       "outcome": "Commanders",
@@ -573,36 +2164,6 @@
           "value": 1237.5,
           "avg_price": 0.5,
           "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Patriots vs. Bills: O/U 49.5",
-      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 55783.16,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 36271.76,
-          "avg_price": 0.477,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 19208.9,
-          "avg_price": 0.4732,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 302.5,
-          "avg_price": 0.47,
-          "cur_price": 0.505
         }
       ]
     },
@@ -667,156 +2228,6 @@
       ]
     },
     {
-      "market": "Spread: Vikings (-3.5)",
-      "slug": "nfl-mia-min-2026-10-04-spread-home-3pt5",
-      "outcome": "Vikings",
-      "num_traders": 3,
-      "total_value": 24118.48,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 11671.68,
-          "avg_price": 0.7349,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 8156.25,
-          "avg_price": 0.73,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 4290.55,
-          "avg_price": 0.74,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Spread: Buccaneers (-3.5)",
-      "slug": "nfl-gb-tb-2026-10-04-spread-home-3pt5",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 23818.73,
-      "holders": [
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.1759,
-          "value": 13516.07,
-          "avg_price": 0.7351,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 9644.36,
-          "avg_price": 0.73,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 658.3,
-          "avg_price": 0.73,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Packers vs. Buccaneers",
-      "slug": "nfl-gb-tb-2026-10-04",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 23573.79,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 15705.8,
-          "avg_price": 0.605,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 7145.41,
-          "avg_price": 0.61,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 722.58,
-          "avg_price": 0.6,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-3.5)",
-      "slug": "nfl-gb-tb-2026-10-04-spread-away-3pt5",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 12583.39,
-      "holders": [
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 9790,
-          "avg_price": 0.45,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "0x0A77exmm",
-          "roi": 0.453,
-          "value": 1853.42,
-          "avg_price": 0.45,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 939.97,
-          "avg_price": 0.4557,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Spread: Vikings (-10.5)",
-      "slug": "nfl-mia-min-2026-10-04-spread-home-10pt5",
-      "outcome": "Vikings",
-      "num_traders": 3,
-      "total_value": 10755.88,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 6227.73,
-          "avg_price": 0.46,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2487,
-          "value": 4067.8,
-          "avg_price": 0.46,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 460.35,
-          "avg_price": 0.5,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
       "market": "Colts vs. Commanders: O/U 47.5",
       "slug": "nfl-ind-was-2026-10-04-total-47pt5",
       "outcome": "Over",
@@ -843,66 +2254,6 @@
           "value": 114.47,
           "avg_price": 0.48,
           "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Spread: Chiefs (-4.5)",
-      "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
-      "outcome": "Raiders",
-      "num_traders": 3,
-      "total_value": 4783.89,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.375,
-          "value": 2356.91,
-          "avg_price": 0.5099,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "0x0A77exmm",
-          "roi": 0.453,
-          "value": 1262.74,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 1.7506,
-          "value": 1164.24,
-          "avg_price": 0.51,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "1H Spread: Vikings (-6.5)",
-      "slug": "nfl-mia-min-2026-10-04-1h-spread-home-6pt5",
-      "outcome": "Vikings",
-      "num_traders": 3,
-      "total_value": 3852.89,
-      "holders": [
-        {
-          "trader": "Painfulvoid",
-          "roi": 0.2366,
-          "value": 3151.8,
-          "avg_price": 0.51,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.1759,
-          "value": 435.89,
-          "avg_price": 0.5097,
-          "cur_price": 0.51
-        },
-        {
-          "trader": "LuckyLoo",
-          "roi": 0.2328,
-          "value": 265.2,
-          "avg_price": 0.51,
-          "cur_price": 0.51
         }
       ]
     },
@@ -3333,14 +4684,12 @@
     "unl-ger-ser-2026-10-01-total-3pt5::Under": 3,
     "unl-mal-gib-2026-10-01-spread-home-1pt5::Gibraltar": 3,
     "cs2-faze-nemi1-2026-10-01::FaZe": 3,
-    "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills": 3,
     "atp-medvede-busta-2026-09-30::Pablo Carreno Busta": 3,
     "unl-esp-cze-2026-10-03-esp::Yes": 3,
     "mls-fcc-dcu-2026-09-05-fcc::No": 3,
     "unl-bel-tur-2026-10-02-bel::Yes": 3,
     "unl-ukr-nir-2026-10-02-ukr::Yes": 3,
     "unl-hrv-eng-2026-10-03-eng::No": 3,
-    "nfl-mia-min-2026-10-04::Vikings": 3,
     "fif-kr-ven-2026-10-02-kr::No": 3,
     "nfl-ari-nyg-2026-10-04-spread-away-1pt5::Cardinals": 3,
     "nfl-atl-no-2026-10-06::Saints": 3,
@@ -3367,14 +4716,19 @@
     "dota2-1win-og-2026-10-03::1win": 3,
     "dota2-ts8-ty-2026-10-03::Team Yandex": 3,
     "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 3,
-    "cfb-sjst-hawaii-2026-10-04::San Jose State": 1,
-    "cfb-txst-sdst-2026-10-03-spread-away-8pt5::San Diego State": 1,
-    "cfb-txst-sdst-2026-10-03::San Diego State": 1,
-    "cfb-bayl-arzst-2026-10-03::Baylor": 1,
-    "cfb-cin-arz-2026-10-03-total-55pt5::Under": 1,
-    "cfb-sjst-hawaii-2026-10-04::Hawai'i": 1,
-    "cfb-cin-arz-2026-10-03-spread-home-6pt5::Arizona": 1,
-    "cfb-sjst-hawaii-2026-10-04-spread-home-2pt5::Hawai'i": 1
+    "cfb-sjst-hawaii-2026-10-04::San Jose State": 2,
+    "cfb-txst-sdst-2026-10-03-spread-away-8pt5::San Diego State": 2,
+    "cfb-txst-sdst-2026-10-03::San Diego State": 2,
+    "cfb-bayl-arzst-2026-10-03::Baylor": 2,
+    "cfb-cin-arz-2026-10-03-total-55pt5::Under": 2,
+    "cfb-sjst-hawaii-2026-10-04::Hawai'i": 2,
+    "cfb-cin-arz-2026-10-03-spread-home-6pt5::Arizona": 2,
+    "cfb-sjst-hawaii-2026-10-04-spread-home-2pt5::Hawai'i": 2,
+    "nfl-ind-was-2026-10-04-spread-away-10pt5::Commanders": 1,
+    "nfl-ind-was-2026-10-04-spread-away-4pt5::Commanders": 1,
+    "nfl-ind-was-2026-10-04::Commanders": 1,
+    "nfl-atl-no-2026-10-06-spread-home-2pt5::Falcons": 1,
+    "nfl-ind-was-2026-10-04-total-47pt5::Over": 1
   },
-  "updated_at": "2026-10-04T12:41:00.885853+00:00"
+  "updated_at": "2026-10-04T17:03:02.846347+00:00"
 }
