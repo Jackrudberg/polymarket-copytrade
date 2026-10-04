@@ -1,6 +1,728 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "cfb-sjst-hawaii-2026-10-04::San Jose State",
+    "cfb-txst-sdst-2026-10-03-spread-away-8pt5::San Diego State",
+    "cfb-txst-sdst-2026-10-03::San Diego State",
+    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts",
+    "cfb-bayl-arzst-2026-10-03::Baylor",
+    "nfl-la-phi-2026-10-04-spread-away-3pt5::Rams",
+    "cfb-cin-arz-2026-10-03-total-55pt5::Under",
+    "cfb-sjst-hawaii-2026-10-04::Hawai'i",
+    "nfl-ind-was-2026-10-04::Colts",
+    "nfl-ind-was-2026-10-04-total-46pt5::Under",
+    "cfb-cin-arz-2026-10-03-spread-home-6pt5::Arizona",
+    "nfl-ne-buf-2026-10-04-total-49pt5::Under",
+    "nfl-ind-was-2026-10-04::Commanders",
+    "nfl-ind-was-2026-10-04-total-47pt5::Under",
+    "nfl-ind-was-2026-10-04-spread-away-4pt5::Commanders",
+    "nfl-det-car-2026-10-05-total-51pt5::Under",
+    "nfl-ari-nyg-2026-10-04::Cardinals",
+    "cfb-sjst-hawaii-2026-10-04-spread-home-2pt5::Hawai'i",
+    "nfl-mia-min-2026-10-04-spread-home-10pt5::Vikings",
+    "nfl-ind-was-2026-10-04-total-47pt5::Over",
+    "nfl-kc-lv-2026-10-04-spread-away-4pt5::Raiders"
+  ],
   "signals": [
+    {
+      "market": "San Jose State vs. Hawai'i",
+      "slug": "cfb-sjst-hawaii-2026-10-04",
+      "outcome": "San Jose State",
+      "num_traders": 5,
+      "total_value": 30095.42,
+      "holders": [
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4831,
+          "value": 13375,
+          "avg_price": 0.43,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1677,
+          "value": 9285.34,
+          "avg_price": 0.6681,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 5239.97,
+          "avg_price": 0.7555,
+          "cur_price": 0.54
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1990.2,
+          "avg_price": 0.43,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 204.91,
+          "avg_price": 0.42,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Spread: Texas State (-8.5)",
+      "slug": "cfb-txst-sdst-2026-10-03-spread-away-8pt5",
+      "outcome": "San Diego State",
+      "num_traders": 5,
+      "total_value": 21403.83,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 11179.45,
+          "avg_price": 0.459,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 4344.83,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.4831,
+          "value": 3748.12,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 1220.89,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 910.54,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Texas State vs. San Diego State",
+      "slug": "cfb-txst-sdst-2026-10-03",
+      "outcome": "San Diego State",
+      "num_traders": 4,
+      "total_value": 79664.24,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 43411.32,
+          "avg_price": 0.751,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1677,
+          "value": 35321.25,
+          "avg_price": 0.7535,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 1.2131,
+          "value": 611.69,
+          "avg_price": 0.95,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.2036,
+          "value": 319.98,
+          "avg_price": 0.8549,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Colts (-3.5)",
+      "slug": "nfl-ind-was-2026-10-04-spread-away-3pt5",
+      "outcome": "Colts",
+      "num_traders": 4,
+      "total_value": 72879.0,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 25081.44,
+          "avg_price": 0.4725,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "texaskid",
+          "roi": 0.784,
+          "value": 21374.76,
+          "avg_price": 0.4899,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.26,
+          "value": 16393.89,
+          "avg_price": 0.5099,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 10028.91,
+          "avg_price": 0.5189,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Baylor vs. Arizona State",
+      "slug": "cfb-bayl-arzst-2026-10-03",
+      "outcome": "Baylor",
+      "num_traders": 4,
+      "total_value": 52342.47,
+      "holders": [
+        {
+          "trader": "RN1",
+          "roi": 0.1677,
+          "value": 25240.74,
+          "avg_price": 0.7392,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 23758.41,
+          "avg_price": 0.8333,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 2049.97,
+          "avg_price": 0.39,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 1.2131,
+          "value": 1293.35,
+          "avg_price": 0.83,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-la-phi-2026-10-04-spread-away-3pt5",
+      "outcome": "Rams",
+      "num_traders": 4,
+      "total_value": 46748.47,
+      "holders": [
+        {
+          "trader": "Pwaddler",
+          "roi": 1.26,
+          "value": 25126.9,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 1.2131,
+          "value": 10232.35,
+          "avg_price": 0.4699,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 6487.73,
+          "avg_price": 0.4599,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 4901.49,
+          "avg_price": 0.46,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Cincinnati vs. Arizona: O/U 55.5",
+      "slug": "cfb-cin-arz-2026-10-03-total-55pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 36792.35,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 20117.44,
+          "avg_price": 0.489,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 12749.12,
+          "avg_price": 0.4601,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 2657.67,
+          "avg_price": 0.47,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 1268.12,
+          "avg_price": 0.48,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "San Jose State vs. Hawai'i",
+      "slug": "cfb-sjst-hawaii-2026-10-04",
+      "outcome": "Hawai'i",
+      "num_traders": 4,
+      "total_value": 21926.92,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 15259.08,
+          "avg_price": 0.57,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1677,
+          "value": 3485.81,
+          "avg_price": 0.2388,
+          "cur_price": 0.46
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1660.52,
+          "avg_price": 0.56,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 1521.51,
+          "avg_price": 0.387,
+          "cur_price": 0.46
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders",
+      "slug": "nfl-ind-was-2026-10-04",
+      "outcome": "Colts",
+      "num_traders": 3,
+      "total_value": 102114.87,
+      "holders": [
+        {
+          "trader": "texaskid",
+          "roi": 0.784,
+          "value": 70717.57,
+          "avg_price": 0.6379,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "Pwaddler",
+          "roi": 1.26,
+          "value": 27467.3,
+          "avg_price": 0.6399,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "bigballaz",
+          "roi": 0.7896,
+          "value": 3930,
+          "avg_price": 0.6,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders: O/U 46.5",
+      "slug": "nfl-ind-was-2026-10-04-total-46pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 87279.31,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 78818.03,
+          "avg_price": 0.4888,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 7808.31,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 652.97,
+          "avg_price": 0.49,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Spread: Arizona (-6.5)",
+      "slug": "cfb-cin-arz-2026-10-03-spread-home-6pt5",
+      "outcome": "Arizona",
+      "num_traders": 3,
+      "total_value": 56451.26,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 33783.18,
+          "avg_price": 0.5393,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "bigballaz",
+          "roi": 0.7896,
+          "value": 22491.17,
+          "avg_price": 0.5455,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 176.91,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Patriots vs. Bills: O/U 49.5",
+      "slug": "nfl-ne-buf-2026-10-04-total-49pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 51364.69,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 33398.75,
+          "avg_price": 0.477,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 17687.4,
+          "avg_price": 0.4732,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 278.54,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders",
+      "slug": "nfl-ind-was-2026-10-04",
+      "outcome": "Commanders",
+      "num_traders": 3,
+      "total_value": 46213.94,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 37171.72,
+          "avg_price": 0.34,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 8697.05,
+          "avg_price": 0.34,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 345.17,
+          "avg_price": 0.34,
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders: O/U 47.5",
+      "slug": "nfl-ind-was-2026-10-04-total-47pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 36004.32,
+      "holders": [
+        {
+          "trader": "justwins",
+          "roi": 2.5181,
+          "value": 33420.27,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 1683.2,
+          "avg_price": 0.4699,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 900.85,
+          "avg_price": 0.4747,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Spread: Colts (-4.5)",
+      "slug": "nfl-ind-was-2026-10-04-spread-away-4pt5",
+      "outcome": "Commanders",
+      "num_traders": 3,
+      "total_value": 26811.55,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 19235.54,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 6313.51,
+          "avg_price": 0.5099,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1262.5,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Lions vs. Panthers: O/U 51.5",
+      "slug": "nfl-det-car-2026-10-05-total-51pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 23736.9,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 12942.79,
+          "avg_price": 0.5153,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 5703.6,
+          "avg_price": 0.5099,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 5090.51,
+          "avg_price": 0.5199,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Cardinals vs. Giants",
+      "slug": "nfl-ari-nyg-2026-10-04",
+      "outcome": "Cardinals",
+      "num_traders": 3,
+      "total_value": 14371.21,
+      "holders": [
+        {
+          "trader": "alwaysfade",
+          "roi": 0.5511,
+          "value": 9187.5,
+          "avg_price": 0.5499,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 4069.27,
+          "avg_price": 0.5502,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1114.44,
+          "avg_price": 0.56,
+          "cur_price": 0.555
+        }
+      ]
+    },
+    {
+      "market": "Spread: Hawai'i (-2.5)",
+      "slug": "cfb-sjst-hawaii-2026-10-04-spread-home-2pt5",
+      "outcome": "Hawai'i",
+      "num_traders": 3,
+      "total_value": 9564.93,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 4860.85,
+          "avg_price": 0.5077,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 2866.2,
+          "avg_price": 0.526,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1837.88,
+          "avg_price": 0.51,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Spread: Vikings (-10.5)",
+      "slug": "nfl-mia-min-2026-10-04-spread-home-10pt5",
+      "outcome": "Vikings",
+      "num_traders": 3,
+      "total_value": 7033.28,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 6227.73,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 460.35,
+          "avg_price": 0.5,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 345.2,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Colts vs. Commanders: O/U 47.5",
+      "slug": "nfl-ind-was-2026-10-04-total-47pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 5300.46,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2503,
+          "value": 4598.43,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.3767,
+          "value": 589.97,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 112.06,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Spread: Chiefs (-4.5)",
+      "slug": "nfl-kc-lv-2026-10-04-spread-away-4pt5",
+      "outcome": "Raiders",
+      "num_traders": 3,
+      "total_value": 4783.89,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.4291,
+          "value": 2356.91,
+          "avg_price": 0.5099,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0x0A77exmm",
+          "roi": 0.4366,
+          "value": 1262.74,
+          "avg_price": 0.49,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.6163,
+          "value": 1164.24,
+          "avg_price": 0.51,
+          "cur_price": 0.495
+        }
+      ]
+    },
     {
       "market": "Will Gavin Newsom win the 2028 US Presidential Election?",
       "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
@@ -28,117 +750,6 @@
           "value": 134.71,
           "avg_price": 0.095,
           "cur_price": 0.0785
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
-      "slug": "dota2-ts8-ty-2026-10-03",
-      "outcome": "Team Spirit",
-      "num_traders": 5,
-      "total_value": 56161.76,
-      "holders": [
-        {
-          "trader": "CyberScore.live",
-          "roi": 0.2109,
-          "value": 19756.17,
-          "avg_price": 0.383,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.1831,
-          "value": 10947.99,
-          "avg_price": 0.4285,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Medo3D",
-          "roi": 0.1708,
-          "value": 9790.35,
-          "avg_price": 0.429,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "Sisyphus-",
-          "roi": 0.2661,
-          "value": 7967.25,
-          "avg_price": 0.4405,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "TrippleEX",
-          "roi": 0.1993,
-          "value": 7700,
-          "avg_price": 0.35,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: 1win vs OG (BO3) - BLAST Slam Last Chance Qualifier",
-      "slug": "dota2-1win-og-2026-10-03",
-      "outcome": "1win",
-      "num_traders": 4,
-      "total_value": 38643.53,
-      "holders": [
-        {
-          "trader": "Sisyphus-",
-          "roi": 0.2661,
-          "value": 22069.58,
-          "avg_price": 0.54,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.1831,
-          "value": 11289.2,
-          "avg_price": 0.5083,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "CyberScore.live",
-          "roi": 0.2109,
-          "value": 4492.29,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Medo3D",
-          "roi": 0.1708,
-          "value": 792.46,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
-      "slug": "dota2-ts8-ty-2026-10-03",
-      "outcome": "Team Yandex",
-      "num_traders": 3,
-      "total_value": 58008.18,
-      "holders": [
-        {
-          "trader": "qiu3",
-          "roi": 0.3328,
-          "value": 49737.59,
-          "avg_price": 0.6729,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "GeorgeRe",
-          "roi": 0.1831,
-          "value": 8050.95,
-          "avg_price": 0.5928,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "Sisyphus-",
-          "roi": 0.2661,
-          "value": 219.64,
-          "avg_price": 0.5599,
-          "cur_price": 0.615
         }
       ]
     }
@@ -2276,7 +2887,6 @@
     "nfl-ne-buf-2026-10-04-spread-home-6pt5::Bills": 3,
     "atp-medvede-busta-2026-09-30::Pablo Carreno Busta": 3,
     "unl-esp-cze-2026-10-03-esp::Yes": 3,
-    "nfl-ind-was-2026-10-04-spread-away-3pt5::Colts": 3,
     "mls-fcc-dcu-2026-09-05-fcc::No": 3,
     "unl-bel-tur-2026-10-02-bel::Yes": 3,
     "unl-ukr-nir-2026-10-02-ukr::Yes": 3,
@@ -2304,11 +2914,10 @@
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "cs2-lg6-big5-2026-10-02::Luminosity": 3,
     "unl-bel-tur-2026-10-02-total-3pt5::Under": 3,
-    "nfl-ne-buf-2026-10-04-total-49pt5::Under": 3,
-    "dota2-ts8-ty-2026-10-03::Team Spirit": 2,
-    "dota2-1win-og-2026-10-03::1win": 2,
-    "dota2-ts8-ty-2026-10-03::Team Yandex": 2,
-    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 1
+    "dota2-ts8-ty-2026-10-03::Team Spirit": 3,
+    "dota2-1win-og-2026-10-03::1win": 3,
+    "dota2-ts8-ty-2026-10-03::Team Yandex": 3,
+    "will-gavin-newsom-win-the-2028-us-presidential-election::Yes": 2
   },
-  "updated_at": "2026-10-04T00:40:04.332453+00:00"
+  "updated_at": "2026-10-04T06:22:35.680749+00:00"
 }
