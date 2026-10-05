@@ -1,13 +1,318 @@
 {
   "seen_ids": [
-    "cs2-vit-fal2-2026-10-05::Vitality",
-    "cs2-m80-tyloo-2026-10-05::M80",
-    "nfl-atl-no-2026-10-06::Saints",
-    "cs2-aur1-bb3-2026-10-05::BetBoom Team",
+    "mlb-cws-cle-2026-10-05::Chicago White Sox",
     "nfl-atl-no-2026-10-06::Falcons",
-    "mlb-cws-cle-2026-10-05::Cleveland Guardians"
+    "nfl-atl-no-2026-10-06::Saints",
+    "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints",
+    "mlb-cws-cle-2026-10-05::Cleveland Guardians",
+    "nfl-atl-no-2026-10-06-total-48pt5::Under",
+    "nfl-atl-no-2026-10-06-total-47pt5::Under",
+    "nfl-atl-no-2026-10-06-total-47pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Chicago White Sox vs. Cleveland Guardians",
+      "slug": "mlb-cws-cle-2026-10-05",
+      "outcome": "Chicago White Sox",
+      "num_traders": 6,
+      "total_value": 102121.01,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 46519.02,
+          "avg_price": 0.3017,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 46499.75,
+          "avg_price": 0.41,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.3356,
+          "value": 5812.49,
+          "avg_price": 0.41,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Diabolical-Prize",
+          "roi": 0.5897,
+          "value": 1536.08,
+          "avg_price": 0.41,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "justaluckydude",
+          "roi": 0.2181,
+          "value": 980.72,
+          "avg_price": 0.4825,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 772.95,
+          "avg_price": 0.41,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints",
+      "slug": "nfl-atl-no-2026-10-06",
+      "outcome": "Falcons",
+      "num_traders": 6,
+      "total_value": 85515.3,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 41217.97,
+          "avg_price": 0.4712,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3041,
+          "value": 21535.96,
+          "avg_price": 0.4699,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Elaran1993",
+          "roi": 0.4199,
+          "value": 9244.09,
+          "avg_price": 0.47,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 5375.94,
+          "avg_price": 0.46,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 4734.05,
+          "avg_price": 0.4399,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Donkey14",
+          "roi": 0.6704,
+          "value": 3407.29,
+          "avg_price": 0.47,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints",
+      "slug": "nfl-atl-no-2026-10-06",
+      "outcome": "Saints",
+      "num_traders": 4,
+      "total_value": 91031.81,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 33012.48,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 30214.71,
+          "avg_price": 0.5265,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3041,
+          "value": 22654.62,
+          "avg_price": 0.5199,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "TKD44",
+          "roi": 1.7118,
+          "value": 5150,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Spread: Saints (-1.5)",
+      "slug": "nfl-atl-no-2026-10-06-spread-home-1pt5",
+      "outcome": "Saints",
+      "num_traders": 4,
+      "total_value": 45274.79,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 17100.39,
+          "avg_price": 0.4916,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "TKD44",
+          "roi": 1.7118,
+          "value": 16975,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 10669.99,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3041,
+          "value": 529.41,
+          "avg_price": 0.486,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Chicago White Sox vs. Cleveland Guardians",
+      "slug": "mlb-cws-cle-2026-10-05",
+      "outcome": "Cleveland Guardians",
+      "num_traders": 4,
+      "total_value": 34607.29,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 33825.95,
+          "avg_price": 0.631,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3041,
+          "value": 399.18,
+          "avg_price": 0.58,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 239.15,
+          "avg_price": 0.58,
+          "cur_price": 0.225
+        },
+        {
+          "trader": "justaluckydude",
+          "roi": 0.2181,
+          "value": 143.01,
+          "avg_price": 0.6496,
+          "cur_price": 0.225
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints: O/U 48.5",
+      "slug": "nfl-atl-no-2026-10-06-total-48pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 47250.22,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 31048.9,
+          "avg_price": 0.5231,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 10699.99,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 5501.33,
+          "avg_price": 0.5244,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints: O/U 47.5",
+      "slug": "nfl-atl-no-2026-10-06-total-47pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 21122.96,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 10574.64,
+          "avg_price": 0.4977,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 10000,
+          "avg_price": 0.5,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.4244,
+          "value": 548.32,
+          "avg_price": 0.49,
+          "cur_price": 0.5
+        }
+      ]
+    },
+    {
+      "market": "Falcons vs. Saints: O/U 47.5",
+      "slug": "nfl-atl-no-2026-10-06-total-47pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 19384.31,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.3616,
+          "value": 10000,
+          "avg_price": 0.5,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.5536,
+          "value": 9045.81,
+          "avg_price": 0.5021,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3041,
+          "value": 338.5,
+          "avg_price": 0.5,
+          "cur_price": 0.5
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
       "slug": "cs2-vit-fal2-2026-10-05",
@@ -76,36 +381,6 @@
       ]
     },
     {
-      "market": "Falcons vs. Saints",
-      "slug": "nfl-atl-no-2026-10-06",
-      "outcome": "Saints",
-      "num_traders": 3,
-      "total_value": 70331.65,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.4393,
-          "value": 33653.5,
-          "avg_price": 0.52,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.7667,
-          "value": 19456.13,
-          "avg_price": 0.5244,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6639,
-          "value": 17222.02,
-          "avg_price": 0.523,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
       "market": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
       "slug": "cs2-aur1-bb3-2026-10-05",
       "outcome": "BetBoom Team",
@@ -132,66 +407,6 @@
           "value": 1544.4,
           "avg_price": 0.3499,
           "cur_price": 0.315
-        }
-      ]
-    },
-    {
-      "market": "Falcons vs. Saints",
-      "slug": "nfl-atl-no-2026-10-06",
-      "outcome": "Falcons",
-      "num_traders": 3,
-      "total_value": 35085.33,
-      "holders": [
-        {
-          "trader": "Herdonia",
-          "roi": 0.7667,
-          "value": 20766.74,
-          "avg_price": 0.4686,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "Elaran1993",
-          "roi": 0.4199,
-          "value": 9053.49,
-          "avg_price": 0.47,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.4393,
-          "value": 5265.1,
-          "avg_price": 0.46,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Chicago White Sox vs. Cleveland Guardians",
-      "slug": "mlb-cws-cle-2026-10-05",
-      "outcome": "Cleveland Guardians",
-      "num_traders": 3,
-      "total_value": 27918.83,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.4393,
-          "value": 25258.95,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.6639,
-          "value": 2038.1,
-          "avg_price": 0.58,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.7667,
-          "value": 621.78,
-          "avg_price": 0.58,
-          "cur_price": 0.585
         }
       ]
     },
@@ -2479,7 +2694,10 @@
     "will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-federal-district::Yes": 3,
     "nfl-den-sf-2026-10-04-total-47pt5::Over": 3,
     "will-lucas-ribeiro-win-the-governor-of-paraiba-election-20260706173717101::Yes": 3,
-    "wta-bencic-annli-2026-10-03::Ann Li": 1
+    "wta-bencic-annli-2026-10-03::Ann Li": 2,
+    "cs2-vit-fal2-2026-10-05::Vitality": 1,
+    "cs2-m80-tyloo-2026-10-05::M80": 1,
+    "cs2-aur1-bb3-2026-10-05::BetBoom Team": 1
   },
-  "updated_at": "2026-10-05T17:24:44.611694+00:00"
+  "updated_at": "2026-10-05T23:16:28.579056+00:00"
 }
