@@ -1,8 +1,359 @@
 {
   "seen_ids": [
-    "nfl-atl-no-2026-10-06::Falcons"
+    "wta-muchova-osaka-2026-10-05::Karolina Muchova",
+    "nfl-phi-jax-2026-10-11::Jaguars",
+    "unl-hrv-esp-2026-10-06-esp::No",
+    "nfl-tb-dal-2026-10-09::Cowboys",
+    "atp-alcaraz-lehecka-2026-10-06::Jiri Lehecka",
+    "unl-lux-bul-2026-10-06-lux::Yes",
+    "atp-jacquet-sakamot-2026-10-06::Rei Sakamoto",
+    "nfl-tb-dal-2026-10-09-spread-home-9pt5::Cowboys",
+    "nfl-phi-jax-2026-10-11::Eagles",
+    "unl-che-mac-2026-10-06-btts::Yes"
   ],
   "signals": [
+    {
+      "market": "China Open: Karolina Muchova vs Naomi Osaka",
+      "slug": "wta-muchova-osaka-2026-10-05",
+      "outcome": "Karolina Muchova",
+      "num_traders": 5,
+      "total_value": 34111.69,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.1683,
+          "value": 17991,
+          "avg_price": 0.59,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 5348.37,
+          "avg_price": 0.5699,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 4675.66,
+          "avg_price": 0.56,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 3285.1,
+          "avg_price": 0.565,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "6512395314597884",
+          "roi": 0.1743,
+          "value": 2811.56,
+          "avg_price": 0.4738,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "outcome": "Jaguars",
+      "num_traders": 4,
+      "total_value": 14445.59,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 4.5855,
+          "value": 11638.12,
+          "avg_price": 0.7021,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 951.23,
+          "avg_price": 0.69,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "6512395314597884",
+          "roi": 0.1743,
+          "value": 940.51,
+          "avg_price": 0.7046,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 915.73,
+          "avg_price": 0.69,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "Will Spain win on 2026-10-06?",
+      "slug": "unl-hrv-esp-2026-10-06-esp",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 13474.3,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 6345.94,
+          "avg_price": 0.2452,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "us391",
+          "roi": 0.3543,
+          "value": 3674.54,
+          "avg_price": 0.2299,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 1827.35,
+          "avg_price": 0.2603,
+          "cur_price": 0.235
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 1626.47,
+          "avg_price": 0.2585,
+          "cur_price": 0.235
+        }
+      ]
+    },
+    {
+      "market": "Buccaneers vs. Cowboys",
+      "slug": "nfl-tb-dal-2026-10-09",
+      "outcome": "Cowboys",
+      "num_traders": 4,
+      "total_value": 8719.09,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 4.5855,
+          "value": 4381.06,
+          "avg_price": 0.8154,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "6512395314597884",
+          "roi": 0.1743,
+          "value": 1520.53,
+          "avg_price": 0.8052,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 1408.75,
+          "avg_price": 0.81,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 1408.75,
+          "avg_price": 0.81,
+          "cur_price": 0.805
+        }
+      ]
+    },
+    {
+      "market": "Japan Open Tennis Championships: Carlos Alcaraz vs Jiri Lehecka",
+      "slug": "atp-alcaraz-lehecka-2026-10-06",
+      "outcome": "Jiri Lehecka",
+      "num_traders": 4,
+      "total_value": 6305.24,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.1683,
+          "value": 3627.59,
+          "avg_price": 0.2395,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "6512395314597884",
+          "roi": 0.1743,
+          "value": 1229.34,
+          "avg_price": 0.393,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 940.81,
+          "avg_price": 0.2294,
+          "cur_price": 0.145
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 507.5,
+          "avg_price": 0.235,
+          "cur_price": 0.145
+        }
+      ]
+    },
+    {
+      "market": "Will Luxembourg win on 2026-10-06?",
+      "slug": "unl-lux-bul-2026-10-06-lux",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 9631.05,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 5492.94,
+          "avg_price": 0.43,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 2134.97,
+          "avg_price": 0.4234,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 2003.14,
+          "avg_price": 0.4236,
+          "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters, Qualification: Kyrian Jacquet vs Rei Sakamoto",
+      "slug": "atp-jacquet-sakamot-2026-10-06",
+      "outcome": "Rei Sakamoto",
+      "num_traders": 3,
+      "total_value": 8812.09,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 5954.58,
+          "avg_price": 0.4196,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 1536.07,
+          "avg_price": 0.421,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 1321.44,
+          "avg_price": 0.4221,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Spread: Cowboys (-9.5)",
+      "slug": "nfl-tb-dal-2026-10-09-spread-home-9pt5",
+      "outcome": "Cowboys",
+      "num_traders": 3,
+      "total_value": 6347.78,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 4.5855,
+          "value": 4755.28,
+          "avg_price": 0.4787,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 796.25,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 796.25,
+          "avg_price": 0.48,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "outcome": "Eagles",
+      "num_traders": 3,
+      "total_value": 3031.96,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 4.5855,
+          "value": 1373.03,
+          "avg_price": 0.297,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 1052.24,
+          "avg_price": 0.29,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 606.69,
+          "avg_price": 0.29,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "Switzerland vs. North Macedonia: Both Teams to Score",
+      "slug": "unl-che-mac-2026-10-06-btts",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1026.69,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.3066,
+          "value": 459.65,
+          "avg_price": 0.2723,
+          "cur_price": 0.26
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.2211,
+          "value": 384.1,
+          "avg_price": 0.2614,
+          "cur_price": 0.26
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.176,
+          "value": 182.94,
+          "avg_price": 0.2966,
+          "cur_price": 0.26
+        }
+      ]
+    },
     {
       "market": "Falcons vs. Saints",
       "slug": "nfl-atl-no-2026-10-06",
@@ -310,103 +661,6 @@
           "value": 338.5,
           "avg_price": 0.5,
           "cur_price": 0.5
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro League Group Stage",
-      "slug": "cs2-vit-fal2-2026-10-05",
-      "outcome": "Vitality",
-      "num_traders": 4,
-      "total_value": 30368.79,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.1904,
-          "value": 12031.25,
-          "avg_price": 0.64,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "HidingFromGhosts",
-          "roi": 0.4157,
-          "value": 7700.0,
-          "avg_price": 0.63,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "JohnLKellyJr",
-          "roi": 0.2546,
-          "value": 7557.55,
-          "avg_price": 0.6376,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.3328,
-          "value": 3079.99,
-          "avg_price": 0.62,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
-      "slug": "cs2-m80-tyloo-2026-10-05",
-      "outcome": "M80",
-      "num_traders": 3,
-      "total_value": 221515.56,
-      "holders": [
-        {
-          "trader": "Ancient-Strike",
-          "roi": 0.1791,
-          "value": 176574.74,
-          "avg_price": 0.5015,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
-          "roi": 0.2874,
-          "value": 34945.84,
-          "avg_price": 0.5142,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "JohnLKellyJr",
-          "roi": 0.2546,
-          "value": 9994.98,
-          "avg_price": 0.5203,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
-      "slug": "cs2-aur1-bb3-2026-10-05",
-      "outcome": "BetBoom Team",
-      "num_traders": 3,
-      "total_value": 35600.54,
-      "holders": [
-        {
-          "trader": "Diabolical-Prize",
-          "roi": 0.6392,
-          "value": 24036.86,
-          "avg_price": 0.35,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
-          "roi": 0.2874,
-          "value": 10019.28,
-          "avg_price": 0.3495,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-          "roi": 0.2686,
-          "value": 1544.4,
-          "avg_price": 0.3499,
-          "cur_price": 0.315
         }
       ]
     }
@@ -2665,16 +2919,17 @@
     "nfl-den-sf-2026-10-04-total-47pt5::Over": 3,
     "will-lucas-ribeiro-win-the-governor-of-paraiba-election-20260706173717101::Yes": 3,
     "wta-bencic-annli-2026-10-03::Ann Li": 3,
-    "cs2-vit-fal2-2026-10-05::Vitality": 2,
-    "cs2-m80-tyloo-2026-10-05::M80": 2,
-    "cs2-aur1-bb3-2026-10-05::BetBoom Team": 2,
-    "mlb-cws-cle-2026-10-05::Chicago White Sox": 1,
-    "nfl-atl-no-2026-10-06::Saints": 1,
-    "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints": 1,
-    "mlb-cws-cle-2026-10-05::Cleveland Guardians": 1,
-    "nfl-atl-no-2026-10-06-total-48pt5::Under": 1,
-    "nfl-atl-no-2026-10-06-total-47pt5::Under": 1,
-    "nfl-atl-no-2026-10-06-total-47pt5::Over": 1
+    "cs2-vit-fal2-2026-10-05::Vitality": 3,
+    "cs2-m80-tyloo-2026-10-05::M80": 3,
+    "cs2-aur1-bb3-2026-10-05::BetBoom Team": 3,
+    "mlb-cws-cle-2026-10-05::Chicago White Sox": 2,
+    "nfl-atl-no-2026-10-06::Saints": 2,
+    "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints": 2,
+    "mlb-cws-cle-2026-10-05::Cleveland Guardians": 2,
+    "nfl-atl-no-2026-10-06-total-48pt5::Under": 2,
+    "nfl-atl-no-2026-10-06-total-47pt5::Under": 2,
+    "nfl-atl-no-2026-10-06-total-47pt5::Over": 2,
+    "nfl-atl-no-2026-10-06::Falcons": 1
   },
-  "updated_at": "2026-10-06T03:07:20.302061+00:00"
+  "updated_at": "2026-10-06T10:12:48.950210+00:00"
 }

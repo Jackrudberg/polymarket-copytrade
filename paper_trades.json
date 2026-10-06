@@ -52135,7 +52135,7 @@
       "current_value": 98.1,
       "paper_pnl": -1.9,
       "return_percent": -1.9,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 70331.65,
       "traders": [
@@ -52143,7 +52143,8 @@
         "Herdonia",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "cs2-aur1-bb3-2026-10-05::BetBoom Team",
@@ -52208,7 +52209,7 @@
       "current_value": 38.46,
       "paper_pnl": -61.54,
       "return_percent": -61.54,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 27918.83,
       "traders": [
@@ -52216,7 +52217,8 @@
         "AnonymousUsername",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/mlb-cws-cle-2026-10-05"
+      "url": "https://polymarket.com/event/mlb-cws-cle-2026-10-05",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "mlb-cws-cle-2026-10-05::Chicago White Sox",
@@ -52232,7 +52234,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 6,
       "combined_value": 102121.01,
       "traders": [
@@ -52243,7 +52245,8 @@
         "justaluckydude",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/mlb-cws-cle-2026-10-05"
+      "url": "https://polymarket.com/event/mlb-cws-cle-2026-10-05",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints",
@@ -52259,7 +52262,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 45274.79,
       "traders": [
@@ -52268,7 +52271,8 @@
         "monkeymashingkeyboard",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-1pt5"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-1pt5",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06-total-48pt5::Under",
@@ -52284,7 +52288,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 47250.22,
       "traders": [
@@ -52292,7 +52296,8 @@
         "monkeymashingkeyboard",
         "Herdonia"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-48pt5"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-48pt5",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06-total-47pt5::Under",
@@ -52308,7 +52313,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 21122.96,
       "traders": [
@@ -52316,7 +52321,8 @@
         "monkeymashingkeyboard",
         "mooseborzoii"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06-total-47pt5::Over",
@@ -52332,7 +52338,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 19384.31,
       "traders": [
@@ -52340,8 +52346,255 @@
         "Herdonia",
         "AnonymousUsername"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5",
+      "consensus_lost_at": "2026-10-06T10:12:48.903119+00:00"
+    },
+    {
+      "signal_id": "wta-muchova-osaka-2026-10-05::Karolina Muchova",
+      "market": "China Open: Karolina Muchova vs Naomi Osaka",
+      "slug": "wta-muchova-osaka-2026-10-05",
+      "side": "Karolina Muchova",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 34111.69,
+      "traders": [
+        "Kkunn",
+        "NM-P",
+        "no1dodgersfan",
+        "GC-P",
+        "6512395314597884"
+      ],
+      "url": "https://polymarket.com/event/wta-muchova-osaka-2026-10-05"
+    },
+    {
+      "signal_id": "nfl-phi-jax-2026-10-11::Jaguars",
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "side": "Jaguars",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.735,
+      "current_price": 0.735,
+      "stake": 100.0,
+      "shares": 136.054422,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 14445.59,
+      "traders": [
+        "Herdonia",
+        "NM-P",
+        "6512395314597884",
+        "GC-P"
+      ],
+      "url": "https://polymarket.com/event/nfl-phi-jax-2026-10-11"
+    },
+    {
+      "signal_id": "unl-hrv-esp-2026-10-06-esp::No",
+      "market": "Will Spain win on 2026-10-06?",
+      "slug": "unl-hrv-esp-2026-10-06-esp",
+      "side": "No",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.235,
+      "current_price": 0.235,
+      "stake": 100.0,
+      "shares": 425.531915,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 13474.3,
+      "traders": [
+        "no1dodgersfan",
+        "us391",
+        "NM-P",
+        "GC-P"
+      ],
+      "url": "https://polymarket.com/event/unl-hrv-esp-2026-10-06-esp"
+    },
+    {
+      "signal_id": "nfl-tb-dal-2026-10-09::Cowboys",
+      "market": "Buccaneers vs. Cowboys",
+      "slug": "nfl-tb-dal-2026-10-09",
+      "side": "Cowboys",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.805,
+      "current_price": 0.805,
+      "stake": 100.0,
+      "shares": 124.223602,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 8719.09,
+      "traders": [
+        "Herdonia",
+        "6512395314597884",
+        "GC-P",
+        "NM-P"
+      ],
+      "url": "https://polymarket.com/event/nfl-tb-dal-2026-10-09"
+    },
+    {
+      "signal_id": "atp-alcaraz-lehecka-2026-10-06::Jiri Lehecka",
+      "market": "Japan Open Tennis Championships: Carlos Alcaraz vs Jiri Lehecka",
+      "slug": "atp-alcaraz-lehecka-2026-10-06",
+      "side": "Jiri Lehecka",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.145,
+      "current_price": 0.145,
+      "stake": 100.0,
+      "shares": 689.655172,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 6305.24,
+      "traders": [
+        "Kkunn",
+        "6512395314597884",
+        "NM-P",
+        "GC-P"
+      ],
+      "url": "https://polymarket.com/event/atp-alcaraz-lehecka-2026-10-06"
+    },
+    {
+      "signal_id": "unl-lux-bul-2026-10-06-lux::Yes",
+      "market": "Will Luxembourg win on 2026-10-06?",
+      "slug": "unl-lux-bul-2026-10-06-lux",
+      "side": "Yes",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.415,
+      "current_price": 0.415,
+      "stake": 100.0,
+      "shares": 240.963855,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9631.05,
+      "traders": [
+        "no1dodgersfan",
+        "GC-P",
+        "NM-P"
+      ],
+      "url": "https://polymarket.com/event/unl-lux-bul-2026-10-06-lux"
+    },
+    {
+      "signal_id": "atp-jacquet-sakamot-2026-10-06::Rei Sakamoto",
+      "market": "Shanghai Rolex Masters, Qualification: Kyrian Jacquet vs Rei Sakamoto",
+      "slug": "atp-jacquet-sakamot-2026-10-06",
+      "side": "Rei Sakamoto",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8812.09,
+      "traders": [
+        "no1dodgersfan",
+        "GC-P",
+        "NM-P"
+      ],
+      "url": "https://polymarket.com/event/atp-jacquet-sakamot-2026-10-06"
+    },
+    {
+      "signal_id": "nfl-tb-dal-2026-10-09-spread-home-9pt5::Cowboys",
+      "market": "Spread: Cowboys (-9.5)",
+      "slug": "nfl-tb-dal-2026-10-09-spread-home-9pt5",
+      "side": "Cowboys",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.455,
+      "current_price": 0.455,
+      "stake": 100.0,
+      "shares": 219.78022,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6347.78,
+      "traders": [
+        "Herdonia",
+        "GC-P",
+        "NM-P"
+      ],
+      "url": "https://polymarket.com/event/nfl-tb-dal-2026-10-09-spread-home-9pt5"
+    },
+    {
+      "signal_id": "nfl-phi-jax-2026-10-11::Eagles",
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "side": "Eagles",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.265,
+      "current_price": 0.265,
+      "stake": 100.0,
+      "shares": 377.358491,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 3031.96,
+      "traders": [
+        "Herdonia",
+        "NM-P",
+        "GC-P"
+      ],
+      "url": "https://polymarket.com/event/nfl-phi-jax-2026-10-11"
+    },
+    {
+      "signal_id": "unl-che-mac-2026-10-06-btts::Yes",
+      "market": "Switzerland vs. North Macedonia: Both Teams to Score",
+      "slug": "unl-che-mac-2026-10-06-btts",
+      "side": "Yes",
+      "alerted_at": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "entry_price": 0.26,
+      "current_price": 0.26,
+      "stake": 100.0,
+      "shares": 384.615385,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 1026.69,
+      "traders": [
+        "GC-P",
+        "NM-P",
+        "no1dodgersfan"
+      ],
+      "url": "https://polymarket.com/event/unl-che-mac-2026-10-06-btts"
     }
   ],
-  "updated_at": "2026-10-06T03:07:20.256601+00:00"
+  "updated_at": "2026-10-06T10:12:48.903119+00:00"
 }
