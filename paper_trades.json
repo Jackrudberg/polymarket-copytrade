@@ -52185,7 +52185,7 @@
       "current_value": 210.02,
       "paper_pnl": 110.02,
       "return_percent": 110.02,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 35085.33,
       "traders": [
@@ -52193,7 +52193,8 @@
         "Elaran1993",
         "mooseborzoii"
       ],
-      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06"
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06",
+      "consensus_lost_at": "2026-10-06T16:50:28.474851+00:00"
     },
     {
       "signal_id": "mlb-cws-cle-2026-10-05::Cleveland Guardians",
@@ -52406,14 +52407,14 @@
       "slug": "unl-hrv-esp-2026-10-06-esp",
       "side": "No",
       "alerted_at": "2026-10-06T10:12:48.903119+00:00",
-      "last_seen": "2026-10-06T10:12:48.903119+00:00",
+      "last_seen": "2026-10-06T16:50:28.474851+00:00",
       "entry_price": 0.235,
-      "current_price": 0.235,
+      "current_price": 0.215,
       "stake": 100.0,
       "shares": 425.531915,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 91.49,
+      "paper_pnl": -8.51,
+      "return_percent": -8.51,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 13474.3,
@@ -52596,5 +52597,5 @@
       "url": "https://polymarket.com/event/unl-che-mac-2026-10-06-btts"
     }
   ],
-  "updated_at": "2026-10-06T10:12:48.903119+00:00"
+  "updated_at": "2026-10-06T16:50:28.474851+00:00"
 }
