@@ -1,15 +1,66 @@
 {
   "seen_ids": [
-    "mlb-cws-cle-2026-10-05::Chicago White Sox",
-    "nfl-atl-no-2026-10-06::Falcons",
-    "nfl-atl-no-2026-10-06::Saints",
-    "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints",
-    "mlb-cws-cle-2026-10-05::Cleveland Guardians",
-    "nfl-atl-no-2026-10-06-total-48pt5::Under",
-    "nfl-atl-no-2026-10-06-total-47pt5::Under",
-    "nfl-atl-no-2026-10-06-total-47pt5::Over"
+    "nfl-atl-no-2026-10-06::Falcons"
   ],
   "signals": [
+    {
+      "market": "Falcons vs. Saints",
+      "slug": "nfl-atl-no-2026-10-06",
+      "outcome": "Falcons",
+      "num_traders": 7,
+      "total_value": 515833.19,
+      "holders": [
+        {
+          "trader": "gmpm2",
+          "roi": 0.8581,
+          "value": 216537.31,
+          "avg_price": 0.4799,
+          "cur_price": 0.9975
+        },
+        {
+          "trader": "cosmicxbt",
+          "roi": 0.2748,
+          "value": 149625,
+          "avg_price": 0.61,
+          "cur_price": 0.9975
+        },
+        {
+          "trader": "yoyoyoyoer",
+          "roi": 0.1945,
+          "value": 73643.13,
+          "avg_price": 0.7479,
+          "cur_price": 0.998
+        },
+        {
+          "trader": "edge7777",
+          "roi": 0.275,
+          "value": 26946,
+          "avg_price": 0.6099,
+          "cur_price": 0.998
+        },
+        {
+          "trader": "sulumos",
+          "roi": 1.7529,
+          "value": 25336.5,
+          "avg_price": 0.61,
+          "cur_price": 0.9975
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.3815,
+          "value": 20791.65,
+          "avg_price": 0.48,
+          "cur_price": 0.998
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.2033,
+          "value": 2953.6,
+          "avg_price": 0.47,
+          "cur_price": 0.9975
+        }
+      ]
+    },
     {
       "market": "Chicago White Sox vs. Cleveland Guardians",
       "slug": "mlb-cws-cle-2026-10-05",
@@ -58,57 +109,6 @@
           "value": 772.95,
           "avg_price": 0.41,
           "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Falcons vs. Saints",
-      "slug": "nfl-atl-no-2026-10-06",
-      "outcome": "Falcons",
-      "num_traders": 6,
-      "total_value": 85515.3,
-      "holders": [
-        {
-          "trader": "Herdonia",
-          "roi": 0.5536,
-          "value": 41217.97,
-          "avg_price": 0.4712,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3041,
-          "value": 21535.96,
-          "avg_price": 0.4699,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Elaran1993",
-          "roi": 0.4199,
-          "value": 9244.09,
-          "avg_price": 0.47,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.4244,
-          "value": 5375.94,
-          "avg_price": 0.46,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 1.3616,
-          "value": 4734.05,
-          "avg_price": 0.4399,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Donkey14",
-          "roi": 0.6704,
-          "value": 3407.29,
-          "avg_price": 0.47,
-          "cur_price": 0.485
         }
       ]
     },
@@ -407,36 +407,6 @@
           "value": 1544.4,
           "avg_price": 0.3499,
           "cur_price": 0.315
-        }
-      ]
-    },
-    {
-      "market": "China Open: Belinda Bencic vs Ann Li",
-      "slug": "wta-bencic-annli-2026-10-03",
-      "outcome": "Ann Li",
-      "num_traders": 3,
-      "total_value": 29663.82,
-      "holders": [
-        {
-          "trader": "Kkunn",
-          "roi": 0.1773,
-          "value": 23125,
-          "avg_price": 0.3741,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 2.784,
-          "value": 5648.05,
-          "avg_price": 0.2849,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.217,
-          "value": 890.77,
-          "avg_price": 0.3068,
-          "cur_price": 0.925
         }
       ]
     }
@@ -2694,10 +2664,17 @@
     "will-flavio-bolsonaro-win-the-most-votes-in-the-next-brazil-presidential-election-from-federal-district::Yes": 3,
     "nfl-den-sf-2026-10-04-total-47pt5::Over": 3,
     "will-lucas-ribeiro-win-the-governor-of-paraiba-election-20260706173717101::Yes": 3,
-    "wta-bencic-annli-2026-10-03::Ann Li": 2,
-    "cs2-vit-fal2-2026-10-05::Vitality": 1,
-    "cs2-m80-tyloo-2026-10-05::M80": 1,
-    "cs2-aur1-bb3-2026-10-05::BetBoom Team": 1
+    "wta-bencic-annli-2026-10-03::Ann Li": 3,
+    "cs2-vit-fal2-2026-10-05::Vitality": 2,
+    "cs2-m80-tyloo-2026-10-05::M80": 2,
+    "cs2-aur1-bb3-2026-10-05::BetBoom Team": 2,
+    "mlb-cws-cle-2026-10-05::Chicago White Sox": 1,
+    "nfl-atl-no-2026-10-06::Saints": 1,
+    "nfl-atl-no-2026-10-06-spread-home-1pt5::Saints": 1,
+    "mlb-cws-cle-2026-10-05::Cleveland Guardians": 1,
+    "nfl-atl-no-2026-10-06-total-48pt5::Under": 1,
+    "nfl-atl-no-2026-10-06-total-47pt5::Under": 1,
+    "nfl-atl-no-2026-10-06-total-47pt5::Over": 1
   },
-  "updated_at": "2026-10-05T23:16:28.579056+00:00"
+  "updated_at": "2026-10-06T03:07:20.302061+00:00"
 }

@@ -52084,7 +52084,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 30368.79,
       "traders": [
@@ -52093,7 +52093,8 @@
         "JohnLKellyJr",
         "vibing123"
       ],
-      "url": "https://polymarket.com/event/cs2-vit-fal2-2026-10-05"
+      "url": "https://polymarket.com/event/cs2-vit-fal2-2026-10-05",
+      "consensus_lost_at": "2026-10-06T03:07:20.256601+00:00"
     },
     {
       "signal_id": "cs2-m80-tyloo-2026-10-05::M80",
@@ -52109,7 +52110,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 221515.56,
       "traders": [
@@ -52117,7 +52118,8 @@
         "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
         "JohnLKellyJr"
       ],
-      "url": "https://polymarket.com/event/cs2-m80-tyloo-2026-10-05"
+      "url": "https://polymarket.com/event/cs2-m80-tyloo-2026-10-05",
+      "consensus_lost_at": "2026-10-06T03:07:20.256601+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06::Saints",
@@ -52157,7 +52159,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 35600.54,
       "traders": [
@@ -52165,7 +52167,8 @@
         "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
         "0x29b52d98ac9ef9414b04164246c95BC63d7"
       ],
-      "url": "https://polymarket.com/event/cs2-aur1-bb3-2026-10-05"
+      "url": "https://polymarket.com/event/cs2-aur1-bb3-2026-10-05",
+      "consensus_lost_at": "2026-10-06T03:07:20.256601+00:00"
     },
     {
       "signal_id": "nfl-atl-no-2026-10-06::Falcons",
@@ -52173,14 +52176,14 @@
       "slug": "nfl-atl-no-2026-10-06",
       "side": "Falcons",
       "alerted_at": "2026-10-05T17:24:44.576538+00:00",
-      "last_seen": "2026-10-05T23:16:28.555201+00:00",
+      "last_seen": "2026-10-06T03:07:20.256601+00:00",
       "entry_price": 0.475,
-      "current_price": 0.485,
+      "current_price": 0.997618,
       "stake": 100.0,
       "shares": 210.526316,
-      "current_value": 102.11,
-      "paper_pnl": 2.11,
-      "return_percent": 2.11,
+      "current_value": 210.02,
+      "paper_pnl": 110.02,
+      "return_percent": 110.02,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 35085.33,
@@ -52340,5 +52343,5 @@
       "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5"
     }
   ],
-  "updated_at": "2026-10-05T23:16:28.555201+00:00"
+  "updated_at": "2026-10-06T03:07:20.256601+00:00"
 }
