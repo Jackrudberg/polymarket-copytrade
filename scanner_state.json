@@ -1,24 +1,69 @@
 {
   "seen_ids": [
-    "atp-fery-cilic-2026-10-06::Arthur Fery",
-    "lal-bar-get-2026-10-10-bar::Yes",
-    "nfl-tb-dal-2026-10-09::Cowboys",
-    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles",
-    "chi2-fos-gh-2026-10-07-gh::No",
-    "lal-bar-get-2026-10-10-get::No",
-    "nfl-phi-jax-2026-10-11::Eagles",
-    "nfl-tb-dal-2026-10-09::Buccaneers",
-    "wta-annli-svitoli-2026-10-06::Ann Li",
-    "nfl-sf-sea-2026-10-11::49ers",
-    "nfl-chi-gb-2026-10-11::Packers",
-    "chi2-she-gua-2026-10-07-draw::No",
-    "fin1-gni-int-2026-10-07-int::No",
-    "bra-bra-mir-2026-10-07-bra::No",
-    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp",
-    "col2-leo-bar-2026-10-07-leo::Yes",
-    "epl-ars-lee-2026-10-10-ars::No"
+    "will-ethereum-dip-to-2100-in-october-2026::No",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes"
   ],
   "signals": [
+    {
+      "market": "Will Ethereum dip to $2,100 in October?",
+      "slug": "will-ethereum-dip-to-2100-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 45658.68,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.6037,
+          "value": 24291.79,
+          "avg_price": 0.8525,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.8888,
+          "value": 13286.31,
+          "avg_price": 0.849,
+          "cur_price": 0.865
+        },
+        {
+          "trader": "Sharky6999",
+          "roi": 1.2054,
+          "value": 8080.58,
+          "avg_price": 0.8555,
+          "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 17120.09,
+      "holders": [
+        {
+          "trader": "0xE5F0AE9cc9aeF77ae3c2A64c9E69caa3F335dc1d-1773531520731",
+          "roi": 0.7417,
+          "value": 12720.96,
+          "avg_price": 0.5169,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2569,
+          "value": 2237.09,
+          "avg_price": 0.3854,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.3864,
+          "value": 2162.04,
+          "avg_price": 0.5967,
+          "cur_price": 0.645
+        }
+      ]
+    },
     {
       "market": "Shanghai Rolex Masters: Arthur Fery vs Marin Cilic",
       "slug": "atp-fery-cilic-2026-10-06",
@@ -2836,7 +2881,6 @@
     "atp-lehecka-bergs-2026-09-29::Zizou Bergs": 3,
     "wnba-gsv-dal-2026-09-30-spread-away-3pt5::Dallas Wings": 3,
     "gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871::No": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "unl-den-prt-2026-10-01-prt::Yes": 3,
     "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 3,
     "unl-wal-nor-2026-10-01-nor::Yes": 3,
@@ -2997,12 +3041,29 @@
     "nfl-tb-dal-2026-10-09-spread-home-9pt5::Cowboys": 3,
     "unl-che-mac-2026-10-06-btts::Yes": 3,
     "unl-hrv-esp-2026-10-06-esp::No": 3,
-    "atp-maestre-tarvet-2026-10-06::Francesco Maestrelli": 1,
-    "fif-mex-chl-2026-10-05-mex::No": 1,
-    "atp-hurkacz-duckwor-2026-10-06::Hubert Hurkacz": 1,
-    "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova": 1,
-    "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 1,
-    "kbo-nc-ssg-2026-10-07::SSG Landers": 1
+    "atp-maestre-tarvet-2026-10-06::Francesco Maestrelli": 2,
+    "fif-mex-chl-2026-10-05-mex::No": 2,
+    "atp-hurkacz-duckwor-2026-10-06::Hubert Hurkacz": 2,
+    "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova": 2,
+    "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 2,
+    "kbo-nc-ssg-2026-10-07::SSG Landers": 2,
+    "atp-fery-cilic-2026-10-06::Arthur Fery": 1,
+    "lal-bar-get-2026-10-10-bar::Yes": 1,
+    "nfl-tb-dal-2026-10-09::Cowboys": 1,
+    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 1,
+    "chi2-fos-gh-2026-10-07-gh::No": 1,
+    "lal-bar-get-2026-10-10-get::No": 1,
+    "nfl-phi-jax-2026-10-11::Eagles": 1,
+    "nfl-tb-dal-2026-10-09::Buccaneers": 1,
+    "wta-annli-svitoli-2026-10-06::Ann Li": 1,
+    "nfl-sf-sea-2026-10-11::49ers": 1,
+    "nfl-chi-gb-2026-10-11::Packers": 1,
+    "chi2-she-gua-2026-10-07-draw::No": 1,
+    "fin1-gni-int-2026-10-07-int::No": 1,
+    "bra-bra-mir-2026-10-07-bra::No": 1,
+    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 1,
+    "col2-leo-bar-2026-10-07-leo::Yes": 1,
+    "epl-ars-lee-2026-10-10-ars::No": 1
   },
-  "updated_at": "2026-10-07T13:57:15.758701+00:00"
+  "updated_at": "2026-10-07T19:50:14.087534+00:00"
 }
