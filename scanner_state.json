@@ -1,36 +1,192 @@
 {
   "seen_ids": [
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
+    "will-ethereum-reach-3500-by-december-31-2026::No",
     "will-ethereum-dip-to-2100-in-october-2026::No",
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes"
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
+    "will-ethereum-reach-2800-in-october-2026::No",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No"
   ],
   "signals": [
+    {
+      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 494544.32,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 245540.64,
+          "avg_price": 0.3397,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 188381.68,
+          "avg_price": 0.4145,
+          "cur_price": 0.355
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 60622,
+          "avg_price": 0.4462,
+          "cur_price": 0.355
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 99672.15,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 55220.1,
+          "avg_price": 0.635,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 35056.97,
+          "avg_price": 0.7529,
+          "cur_price": 0.805
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 9395.08,
+          "avg_price": 0.5777,
+          "cur_price": 0.805
+        }
+      ]
+    },
     {
       "market": "Will Ethereum dip to $2,100 in October?",
       "slug": "will-ethereum-dip-to-2100-in-october-2026",
       "outcome": "No",
       "num_traders": 3,
-      "total_value": 45658.68,
+      "total_value": 73915.71,
       "holders": [
         {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 36337.61,
+          "avg_price": 0.8717,
+          "cur_price": 0.865
+        },
+        {
           "trader": "Tokor",
-          "roi": 2.6037,
+          "roi": 1.9352,
           "value": 24291.79,
           "avg_price": 0.8525,
           "cur_price": 0.865
         },
         {
           "trader": "getbipped",
-          "roi": 0.8888,
+          "roi": 0.7299,
           "value": 13286.31,
           "avg_price": 0.849,
           "cur_price": 0.865
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 66843.84,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 41940.0,
+          "avg_price": 0.2599,
+          "cur_price": 0.195
         },
         {
-          "trader": "Sharky6999",
-          "roi": 1.2054,
-          "value": 8080.58,
-          "avg_price": 0.8555,
-          "cur_price": 0.865
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 13692.6,
+          "avg_price": 0.243,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 11211.24,
+          "avg_price": 0.3506,
+          "cur_price": 0.195
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 26739.58,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 13879.62,
+          "avg_price": 0.1687,
+          "cur_price": 0.095
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 11452.32,
+          "avg_price": 0.2383,
+          "cur_price": 0.095
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 1407.64,
+          "avg_price": 0.1873,
+          "cur_price": 0.095
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $2,800 in October?",
+      "slug": "will-ethereum-reach-2800-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 17720.65,
+      "holders": [
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 7200.34,
+          "avg_price": 0.2003,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 6419.42,
+          "avg_price": 0.3268,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 4100.89,
+          "avg_price": 0.2368,
+          "cur_price": 0.545
         }
       ]
     },
@@ -43,24 +199,54 @@
       "holders": [
         {
           "trader": "0xE5F0AE9cc9aeF77ae3c2A64c9E69caa3F335dc1d-1773531520731",
-          "roi": 0.7417,
+          "roi": 0.547,
           "value": 12720.96,
           "avg_price": 0.5169,
           "cur_price": 0.645
         },
         {
           "trader": "Zzzz87",
-          "roi": 0.2569,
+          "roi": 0.3179,
           "value": 2237.09,
           "avg_price": 0.3854,
           "cur_price": 0.645
         },
         {
           "trader": "nigiri99",
-          "roi": 0.3864,
+          "roi": 0.2121,
           "value": 2162.04,
           "avg_price": 0.5967,
           "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,000 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 12883.78,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.1546,
+          "value": 9935.57,
+          "avg_price": 0.3282,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "getbipped",
+          "roi": 0.7299,
+          "value": 2594.72,
+          "avg_price": 0.3399,
+          "cur_price": 0.52
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.9352,
+          "value": 353.49,
+          "avg_price": 0.4299,
+          "cur_price": 0.52
         }
       ]
     },
@@ -571,200 +757,6 @@
           "value": 105.64,
           "avg_price": 0.286,
           "cur_price": 0.295
-        }
-      ]
-    },
-    {
-      "market": "Villena: Francesco Maestrelli vs Oliver Tarvet",
-      "slug": "atp-maestre-tarvet-2026-10-06",
-      "outcome": "Francesco Maestrelli",
-      "num_traders": 4,
-      "total_value": 21563.51,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1575,
-          "value": 11958.87,
-          "avg_price": 0.62,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "Mastermoney",
-          "roi": 0.2172,
-          "value": 5158.95,
-          "avg_price": 0.7119,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1875,
-          "value": 2835.14,
-          "avg_price": 0.5124,
-          "cur_price": 0.705
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1621,
-          "value": 1610.55,
-          "avg_price": 0.3187,
-          "cur_price": 0.705
-        }
-      ]
-    },
-    {
-      "market": "Will Mexico win on 2026-10-05?",
-      "slug": "fif-mex-chl-2026-10-05-mex",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 15102.85,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1575,
-          "value": 10313.06,
-          "avg_price": 0.5674,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.202,
-          "value": 2856.38,
-          "avg_price": 0.3792,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 1.1268,
-          "value": 1522.24,
-          "avg_price": 0.3822,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1621,
-          "value": 411.17,
-          "avg_price": 0.3699,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
-      "slug": "atp-hurkacz-duckwor-2026-10-06",
-      "outcome": "Hubert Hurkacz",
-      "num_traders": 3,
-      "total_value": 68560.92,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1575,
-          "value": 33226.15,
-          "avg_price": 0.6699,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1621,
-          "value": 26162.62,
-          "avg_price": 0.6777,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1814,
-          "value": 9172.15,
-          "avg_price": 0.6715,
-          "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Samsun: Cagla Buyukakcay vs Linda Klimovicova",
-      "slug": "wta-buyukak-klimovi-2026-10-05",
-      "outcome": "Linda Klimovicova",
-      "num_traders": 3,
-      "total_value": 50397.93,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1575,
-          "value": 28298.08,
-          "avg_price": 0.4253,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1875,
-          "value": 21184.76,
-          "avg_price": 0.6726,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1621,
-          "value": 915.09,
-          "avg_price": 0.7206,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Suzhou: Tatiana Prozorova vs Kyoka Okamura",
-      "slug": "wta-prozoro-okamura-2026-10-06",
-      "outcome": "Kyoka Okamura",
-      "num_traders": 3,
-      "total_value": 35765.47,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1875,
-          "value": 32511.6,
-          "avg_price": 0.4131,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1575,
-          "value": 2118.38,
-          "avg_price": 0.3792,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 0.1621,
-          "value": 1135.49,
-          "avg_price": 0.2299,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "KBO: NC Dinos vs. SSG Landers",
-      "slug": "kbo-nc-ssg-2026-10-07",
-      "outcome": "SSG Landers",
-      "num_traders": 3,
-      "total_value": 4702.3,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 1.1268,
-          "value": 2643.61,
-          "avg_price": 0.5768,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "no1dodgersfan",
-          "roi": 0.1814,
-          "value": 1361.55,
-          "avg_price": 0.57,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1875,
-          "value": 697.14,
-          "avg_price": 0.5694,
-          "cur_price": 0.585
         }
       ]
     }
@@ -2036,9 +2028,6 @@
     "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664::Yes": 3,
     "mlb-lad-cin-2026-09-14::Cincinnati Reds": 3,
     "fed-rate-hike-by-september-2026-meeting::Yes": 3,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
     "clarity-act-signed-into-law-in-2026::No": 3,
     "mlb-mia-ari-2026-09-15::Arizona Diamondbacks": 3,
     "mlb-mia-ari-2026-09-15::Miami Marlins": 3,
@@ -2110,7 +2099,6 @@
     "dota2-lgd-xtreme-2026-09-21::Xtreme Gaming": 3,
     "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
     "dota2-lgd-xtreme-2026-09-21-game2::Xtreme Gaming": 3,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 3,
     "rou1-fpp-fcm-2026-09-21-fpp::Yes": 3,
     "argpn-tri-atl-2026-09-21-tri::No": 3,
     "wta-samson-basilet-2026-09-21::Noemi Basiletti": 3,
@@ -3041,29 +3029,29 @@
     "nfl-tb-dal-2026-10-09-spread-home-9pt5::Cowboys": 3,
     "unl-che-mac-2026-10-06-btts::Yes": 3,
     "unl-hrv-esp-2026-10-06-esp::No": 3,
-    "atp-maestre-tarvet-2026-10-06::Francesco Maestrelli": 2,
-    "fif-mex-chl-2026-10-05-mex::No": 2,
-    "atp-hurkacz-duckwor-2026-10-06::Hubert Hurkacz": 2,
-    "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova": 2,
-    "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 2,
-    "kbo-nc-ssg-2026-10-07::SSG Landers": 2,
-    "atp-fery-cilic-2026-10-06::Arthur Fery": 1,
-    "lal-bar-get-2026-10-10-bar::Yes": 1,
-    "nfl-tb-dal-2026-10-09::Cowboys": 1,
-    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 1,
-    "chi2-fos-gh-2026-10-07-gh::No": 1,
-    "lal-bar-get-2026-10-10-get::No": 1,
-    "nfl-phi-jax-2026-10-11::Eagles": 1,
-    "nfl-tb-dal-2026-10-09::Buccaneers": 1,
-    "wta-annli-svitoli-2026-10-06::Ann Li": 1,
-    "nfl-sf-sea-2026-10-11::49ers": 1,
-    "nfl-chi-gb-2026-10-11::Packers": 1,
-    "chi2-she-gua-2026-10-07-draw::No": 1,
-    "fin1-gni-int-2026-10-07-int::No": 1,
-    "bra-bra-mir-2026-10-07-bra::No": 1,
-    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 1,
-    "col2-leo-bar-2026-10-07-leo::Yes": 1,
-    "epl-ars-lee-2026-10-10-ars::No": 1
+    "atp-maestre-tarvet-2026-10-06::Francesco Maestrelli": 3,
+    "fif-mex-chl-2026-10-05-mex::No": 3,
+    "atp-hurkacz-duckwor-2026-10-06::Hubert Hurkacz": 3,
+    "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova": 3,
+    "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 3,
+    "kbo-nc-ssg-2026-10-07::SSG Landers": 3,
+    "atp-fery-cilic-2026-10-06::Arthur Fery": 2,
+    "lal-bar-get-2026-10-10-bar::Yes": 2,
+    "nfl-tb-dal-2026-10-09::Cowboys": 2,
+    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 2,
+    "chi2-fos-gh-2026-10-07-gh::No": 2,
+    "lal-bar-get-2026-10-10-get::No": 2,
+    "nfl-phi-jax-2026-10-11::Eagles": 2,
+    "nfl-tb-dal-2026-10-09::Buccaneers": 2,
+    "wta-annli-svitoli-2026-10-06::Ann Li": 2,
+    "nfl-sf-sea-2026-10-11::49ers": 2,
+    "nfl-chi-gb-2026-10-11::Packers": 2,
+    "chi2-she-gua-2026-10-07-draw::No": 2,
+    "fin1-gni-int-2026-10-07-int::No": 2,
+    "bra-bra-mir-2026-10-07-bra::No": 2,
+    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 2,
+    "col2-leo-bar-2026-10-07-leo::Yes": 2,
+    "epl-ars-lee-2026-10-10-ars::No": 2
   },
-  "updated_at": "2026-10-07T19:50:14.087534+00:00"
+  "updated_at": "2026-10-07T23:53:50.615603+00:00"
 }
