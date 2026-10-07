@@ -52417,7 +52417,7 @@
       "current_value": 91.49,
       "paper_pnl": -8.51,
       "return_percent": -8.51,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 13474.3,
       "traders": [
@@ -52426,7 +52426,8 @@
         "NM-P",
         "GC-P"
       ],
-      "url": "https://polymarket.com/event/unl-hrv-esp-2026-10-06-esp"
+      "url": "https://polymarket.com/event/unl-hrv-esp-2026-10-06-esp",
+      "consensus_lost_at": "2026-10-07T00:50:51.530946+00:00"
     },
     {
       "signal_id": "nfl-tb-dal-2026-10-09::Cowboys",
@@ -52606,5 +52607,5 @@
       "consensus_lost_at": "2026-10-06T21:19:54.960865+00:00"
     }
   ],
-  "updated_at": "2026-10-06T21:19:54.960865+00:00"
+  "updated_at": "2026-10-07T00:50:51.530946+00:00"
 }
