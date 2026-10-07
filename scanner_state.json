@@ -1,33 +1,235 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "atp-maestre-tarvet-2026-10-06::Francesco Maestrelli",
+    "fif-mex-chl-2026-10-05-mex::No",
+    "atp-hurkacz-duckwor-2026-10-06::Hubert Hurkacz",
+    "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova",
+    "wta-prozoro-okamura-2026-10-06::Kyoka Okamura",
+    "kbo-nc-ssg-2026-10-07::SSG Landers",
+    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp"
+  ],
   "signals": [
     {
-      "market": "Will Spain win on 2026-10-06?",
-      "slug": "unl-hrv-esp-2026-10-06-esp",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 8678.79,
+      "market": "Villena: Francesco Maestrelli vs Oliver Tarvet",
+      "slug": "atp-maestre-tarvet-2026-10-06",
+      "outcome": "Francesco Maestrelli",
+      "num_traders": 4,
+      "total_value": 21563.51,
       "holders": [
         {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1575,
+          "value": 11958.87,
+          "avg_price": 0.62,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Mastermoney",
+          "roi": 0.2172,
+          "value": 5158.95,
+          "avg_price": 0.7119,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1875,
+          "value": 2835.14,
+          "avg_price": 0.5124,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 1610.55,
+          "avg_price": 0.3187,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Will Mexico win on 2026-10-05?",
+      "slug": "fif-mex-chl-2026-10-05-mex",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 15102.85,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1575,
+          "value": 10313.06,
+          "avg_price": 0.5674,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.202,
+          "value": 2856.38,
+          "avg_price": 0.3792,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 1.1268,
+          "value": 1522.24,
+          "avg_price": 0.3822,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 411.17,
+          "avg_price": 0.3699,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+      "slug": "atp-hurkacz-duckwor-2026-10-06",
+      "outcome": "Hubert Hurkacz",
+      "num_traders": 3,
+      "total_value": 68560.92,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1575,
+          "value": 33226.15,
+          "avg_price": 0.6699,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 26162.62,
+          "avg_price": 0.6777,
+          "cur_price": 0.655
+        },
+        {
           "trader": "no1dodgersfan",
-          "roi": 0.1684,
-          "value": 5805.86,
-          "avg_price": 0.2452,
-          "cur_price": 0.215
+          "roi": 0.1814,
+          "value": 9172.15,
+          "avg_price": 0.6715,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Samsun: Cagla Buyukakcay vs Linda Klimovicova",
+      "slug": "wta-buyukak-klimovi-2026-10-05",
+      "outcome": "Linda Klimovicova",
+      "num_traders": 3,
+      "total_value": 50397.93,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1575,
+          "value": 28298.08,
+          "avg_price": 0.4253,
+          "cur_price": 0.935
         },
         {
-          "trader": "GC-P",
-          "roi": 0.205,
-          "value": 2614.99,
-          "avg_price": 0.2419,
-          "cur_price": 0.215
+          "trader": "HomeRunHazard",
+          "roi": 0.1875,
+          "value": 21184.76,
+          "avg_price": 0.6726,
+          "cur_price": 0.935
         },
         {
-          "trader": "e46m3",
-          "roi": 1.2608,
-          "value": 257.94,
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 915.09,
+          "avg_price": 0.7206,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Suzhou: Tatiana Prozorova vs Kyoka Okamura",
+      "slug": "wta-prozoro-okamura-2026-10-06",
+      "outcome": "Kyoka Okamura",
+      "num_traders": 3,
+      "total_value": 35765.47,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1875,
+          "value": 32511.6,
+          "avg_price": 0.4131,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.1575,
+          "value": 2118.38,
+          "avg_price": 0.3792,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 1135.49,
           "avg_price": 0.2299,
-          "cur_price": 0.215
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "KBO: NC Dinos vs. SSG Landers",
+      "slug": "kbo-nc-ssg-2026-10-07",
+      "outcome": "SSG Landers",
+      "num_traders": 3,
+      "total_value": 4702.3,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 1.1268,
+          "value": 2643.61,
+          "avg_price": 0.5768,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1814,
+          "value": 1361.55,
+          "avg_price": 0.57,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1875,
+          "value": 697.14,
+          "avg_price": 0.5694,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+      "slug": "atp-zandsch-aguilar-2026-10-06",
+      "outcome": "Botic van de Zandschulp",
+      "num_traders": 3,
+      "total_value": 984.36,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 1.1268,
+          "value": 426.8,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1814,
+          "value": 362.04,
+          "avg_price": 0.4679,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1621,
+          "value": 195.52,
+          "avg_price": 0.4899,
+          "cur_price": 0.485
         }
       ]
     }
@@ -2306,7 +2508,7 @@
     "nfl-tb-dal-2026-10-09-spread-home-9pt5::Cowboys": 3,
     "nfl-phi-jax-2026-10-11::Eagles": 3,
     "unl-che-mac-2026-10-06-btts::Yes": 3,
-    "unl-hrv-esp-2026-10-06-esp::No": 2
+    "unl-hrv-esp-2026-10-06-esp::No": 3
   },
-  "updated_at": "2026-10-07T00:50:51.566182+00:00"
+  "updated_at": "2026-10-07T06:39:16.130417+00:00"
 }
