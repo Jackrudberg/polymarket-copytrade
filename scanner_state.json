@@ -1,10 +1,276 @@
 {
   "seen_ids": [
-    "mlb-mil-sd-2026-10-07::San Diego Padres",
-    "mlb-tb-nyy-2026-10-07::Tampa Bay Rays",
-    "mlb-mil-sd-2026-10-07::Milwaukee Brewers"
+    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp",
+    "atp-assche-bu-2026-10-06::Yunchaokete Bu",
+    "lol-navi-jdg-2026-10-08::JD Gaming",
+    "ufc-ilibul-erivis-2026-09-29::Ilias Bulaid",
+    "mls-fcc-dcu-2026-09-05-fcc::No",
+    "wta-alexand-andreev-2026-10-07::Ekaterina Alexandrova",
+    "lal-lev-bil-2026-09-16-bil::Yes",
+    "aze2-sab-kev-2026-10-08-spread-home-1pt5::FK Karvan Yevlakh"
   ],
   "signals": [
+    {
+      "market": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+      "slug": "atp-zandsch-aguilar-2026-10-06",
+      "outcome": "Botic van de Zandschulp",
+      "num_traders": 5,
+      "total_value": 120944.15,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2418,
+          "value": 77008.02,
+          "avg_price": 0.4938,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fastball67",
+          "roi": 0.7126,
+          "value": 19990,
+          "avg_price": 0.4999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Kkunn",
+          "roi": 0.3688,
+          "value": 17990.99,
+          "avg_price": 0.3555,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LightParadox",
+          "roi": 0.1905,
+          "value": 5209.04,
+          "avg_price": 0.57,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.6215,
+          "value": 746.1,
+          "avg_price": 0.4679,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
+      "slug": "atp-assche-bu-2026-10-06",
+      "outcome": "Yunchaokete Bu",
+      "num_traders": 4,
+      "total_value": 34490.61,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2418,
+          "value": 24600,
+          "avg_price": 0.81,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "Kkunn",
+          "roi": 0.3688,
+          "value": 8200,
+          "avg_price": 0.58,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.6002,
+          "value": 846.2,
+          "avg_price": 0.57,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "LightParadox",
+          "roi": 0.1905,
+          "value": 844.41,
+          "avg_price": 0.5825,
+          "cur_price": 0.82
+        }
+      ]
+    },
+    {
+      "market": "LoL: Natus Vincere vs JD Gaming (BO3) - Demacia Cup Global Invitational Group Stage",
+      "slug": "lol-navi-jdg-2026-10-08",
+      "outcome": "JD Gaming",
+      "num_traders": 3,
+      "total_value": 20630.91,
+      "holders": [
+        {
+          "trader": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+          "roi": 0.2912,
+          "value": 12099.97,
+          "avg_price": 0.74,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "fraagen",
+          "roi": 0.4219,
+          "value": 8267.41,
+          "avg_price": 0.7299,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "darkumbreon88",
+          "roi": 0.6002,
+          "value": 263.53,
+          "avg_price": 0.73,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Dana White's Contender Series: Ilias Bulaid vs. Erick Visconde (Featherweight, Main Card)",
+      "slug": "ufc-ilibul-erivis-2026-09-29",
+      "outcome": "Ilias Bulaid",
+      "num_traders": 3,
+      "total_value": 14576.69,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2418,
+          "value": 7431.1,
+          "avg_price": 0.5499,
+          "cur_price": 0.57
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.4731,
+          "value": 3617.09,
+          "avg_price": 0.4982,
+          "cur_price": 0.57
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.6215,
+          "value": 3528.5,
+          "avg_price": 0.5329,
+          "cur_price": 0.57
+        }
+      ]
+    },
+    {
+      "market": "Will FC Cincinnati win on 2026-09-05?",
+      "slug": "mls-fcc-dcu-2026-09-05-fcc",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 9147.88,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3061,
+          "value": 7721.42,
+          "avg_price": 0.3955,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "emacron",
+          "roi": 0.2381,
+          "value": 1150.34,
+          "avg_price": 0.4014,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.4731,
+          "value": 276.12,
+          "avg_price": 0.39,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
+      "slug": "wta-alexand-andreev-2026-10-07",
+      "outcome": "Ekaterina Alexandrova",
+      "num_traders": 3,
+      "total_value": 7799.65,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.3688,
+          "value": 4999.65,
+          "avg_price": 0.2741,
+          "cur_price": 0.175
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.5637,
+          "value": 2625.0,
+          "avg_price": 0.2499,
+          "cur_price": 0.175
+        },
+        {
+          "trader": "KioskJammer",
+          "roi": 0.2062,
+          "value": 175,
+          "avg_price": 0.25,
+          "cur_price": 0.175
+        }
+      ]
+    },
+    {
+      "market": "Will Athletic Club win on 2026-09-16?",
+      "slug": "lal-lev-bil-2026-09-16-bil",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3413.69,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2418,
+          "value": 1691.24,
+          "avg_price": 0.38,
+          "cur_price": 0.43
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2466,
+          "value": 1130.7,
+          "avg_price": 0.4419,
+          "cur_price": 0.43
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.3061,
+          "value": 591.75,
+          "avg_price": 0.4402,
+          "cur_price": 0.43
+        }
+      ]
+    },
+    {
+      "market": "Spread: Sabail FK (-1.5)",
+      "slug": "aze2-sab-kev-2026-10-08-spread-home-1pt5",
+      "outcome": "FK Karvan Yevlakh",
+      "num_traders": 3,
+      "total_value": 899.56,
+      "holders": [
+        {
+          "trader": "emacron",
+          "roi": 0.2381,
+          "value": 653.16,
+          "avg_price": 0.6384,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2466,
+          "value": 136.91,
+          "avg_price": 0.6075,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "LightParadox",
+          "roi": 0.1905,
+          "value": 109.49,
+          "avg_price": 0.6432,
+          "cur_price": 0.655
+        }
+      ]
+    },
     {
       "market": "Milwaukee Brewers vs. San Diego Padres",
       "slug": "mlb-mil-sd-2026-10-07",
@@ -2386,7 +2652,6 @@
     "wta-efremov-kubka-2026-09-28::Ksenia Efremova": 3,
     "nfl-phi-chi-2026-09-29-total-43pt5::Under": 3,
     "unl-bel-fra-2026-09-28-exact-score-0-0::No": 3,
-    "lal-lev-bil-2026-09-16-bil::Yes": 3,
     "unl-nir-hun-2026-09-28-nir::No": 3,
     "unl-bel-fra-2026-09-28-draw::No": 3,
     "unl-tur-ita-2026-09-28-total-2pt5::Over": 3,
@@ -2472,7 +2737,6 @@
     "cs2-faze-nemi1-2026-10-01::FaZe": 3,
     "atp-medvede-busta-2026-09-30::Pablo Carreno Busta": 3,
     "unl-esp-cze-2026-10-03-esp::Yes": 3,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 3,
     "unl-bel-tur-2026-10-02-bel::Yes": 3,
     "unl-ukr-nir-2026-10-02-ukr::Yes": 3,
     "unl-hrv-eng-2026-10-03-eng::No": 3,
@@ -2638,17 +2902,19 @@
     "chi2-she-gua-2026-10-07-draw::No": 3,
     "fin1-gni-int-2026-10-07-int::No": 3,
     "bra-bra-mir-2026-10-07-bra::No": 3,
-    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 3,
     "col2-leo-bar-2026-10-07-leo::Yes": 3,
     "epl-ars-lee-2026-10-10-ars::No": 3,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 1,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 1,
-    "will-ethereum-dip-to-2100-in-october-2026::No": 1,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 1,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 1,
-    "will-ethereum-reach-2800-in-october-2026::No": 1,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
-    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 1
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 2,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 2,
+    "will-ethereum-dip-to-2100-in-october-2026::No": 2,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 2,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 2,
+    "will-ethereum-reach-2800-in-october-2026::No": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 2,
+    "mlb-mil-sd-2026-10-07::San Diego Padres": 1,
+    "mlb-tb-nyy-2026-10-07::Tampa Bay Rays": 1,
+    "mlb-mil-sd-2026-10-07::Milwaukee Brewers": 1
   },
-  "updated_at": "2026-10-08T04:20:55.934238+00:00"
+  "updated_at": "2026-10-08T11:29:53.429955+00:00"
 }
