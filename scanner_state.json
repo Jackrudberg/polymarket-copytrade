@@ -1,15 +1,114 @@
 {
   "seen_ids": [
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
-    "will-ethereum-reach-3500-by-december-31-2026::No",
-    "will-ethereum-dip-to-2100-in-october-2026::No",
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
-    "will-ethereum-reach-2800-in-october-2026::No",
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No"
+    "mlb-mil-sd-2026-10-07::San Diego Padres",
+    "mlb-tb-nyy-2026-10-07::Tampa Bay Rays",
+    "mlb-mil-sd-2026-10-07::Milwaukee Brewers"
   ],
   "signals": [
+    {
+      "market": "Milwaukee Brewers vs. San Diego Padres",
+      "slug": "mlb-mil-sd-2026-10-07",
+      "outcome": "San Diego Padres",
+      "num_traders": 5,
+      "total_value": 31361.85,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.6516,
+          "value": 20485.68,
+          "avg_price": 0.4844,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "kkookkoo",
+          "roi": 0.2531,
+          "value": 6983.32,
+          "avg_price": 0.532,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+          "roi": 0.3985,
+          "value": 2033.04,
+          "avg_price": 0.3181,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "CandleHammerDrums",
+          "roi": 0.2344,
+          "value": 1242.02,
+          "avg_price": 0.2896,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2179,
+          "value": 617.79,
+          "avg_price": 0.5,
+          "cur_price": 0.185
+        }
+      ]
+    },
+    {
+      "market": "Tampa Bay Rays vs. New York Yankees",
+      "slug": "mlb-tb-nyy-2026-10-07",
+      "outcome": "Tampa Bay Rays",
+      "num_traders": 3,
+      "total_value": 93633.46,
+      "holders": [
+        {
+          "trader": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+          "roi": 0.3985,
+          "value": 52314.19,
+          "avg_price": 0.5398,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.2179,
+          "value": 21088.3,
+          "avg_price": 0.6798,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "CandleHammerDrums",
+          "roi": 0.2344,
+          "value": 20230.97,
+          "avg_price": 0.5676,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. San Diego Padres",
+      "slug": "mlb-mil-sd-2026-10-07",
+      "outcome": "Milwaukee Brewers",
+      "num_traders": 3,
+      "total_value": 34492.0,
+      "holders": [
+        {
+          "trader": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+          "roi": 0.3985,
+          "value": 23365.88,
+          "avg_price": 0.6373,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "CandleHammerDrums",
+          "roi": 0.2344,
+          "value": 10793.6,
+          "avg_price": 0.6295,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "curie",
+          "roi": 0.1732,
+          "value": 332.52,
+          "avg_price": 0.8143,
+          "cur_price": 0.815
+        }
+      ]
+    },
     {
       "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
@@ -247,516 +346,6 @@
           "value": 353.49,
           "avg_price": 0.4299,
           "cur_price": 0.52
-        }
-      ]
-    },
-    {
-      "market": "Shanghai Rolex Masters: Arthur Fery vs Marin Cilic",
-      "slug": "atp-fery-cilic-2026-10-06",
-      "outcome": "Arthur Fery",
-      "num_traders": 3,
-      "total_value": 35882.9,
-      "holders": [
-        {
-          "trader": "0x760f1063f9f07d5125de802b16775a967b7f326a",
-          "roi": 0.5911,
-          "value": 33536.45,
-          "avg_price": 0.596,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 2114.42,
-          "avg_price": 0.5978,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 232.03,
-          "avg_price": 0.5795,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will FC Barcelona win on 2026-10-10?",
-      "slug": "lal-bar-get-2026-10-10-bar",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 18109.55,
-      "holders": [
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 8106.77,
-          "avg_price": 0.91,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 6544.08,
-          "avg_price": 0.91,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 3458.7,
-          "avg_price": 0.9288,
-          "cur_price": 0.915
-        }
-      ]
-    },
-    {
-      "market": "Buccaneers vs. Cowboys",
-      "slug": "nfl-tb-dal-2026-10-09",
-      "outcome": "Cowboys",
-      "num_traders": 3,
-      "total_value": 12499.28,
-      "holders": [
-        {
-          "trader": "Soarin22",
-          "roi": 0.45,
-          "value": 8050,
-          "avg_price": 0.81,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 2817.5,
-          "avg_price": 0.8049,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 1631.78,
-          "avg_price": 0.8086,
-          "cur_price": 0.805
-        }
-      ]
-    },
-    {
-      "market": "Spread: Jaguars (-7.5)",
-      "slug": "nfl-phi-jax-2026-10-11-spread-home-7pt5",
-      "outcome": "Eagles",
-      "num_traders": 3,
-      "total_value": 7286.66,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 5050,
-          "avg_price": 0.5099,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 1352.91,
-          "avg_price": 0.5062,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 883.75,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will Guangxi Hengchen FC win on 2026-10-07?",
-      "slug": "chi2-fos-gh-2026-10-07-gh",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 6648.63,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 5573.18,
-          "avg_price": 0.718,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 617.53,
-          "avg_price": 0.3425,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 457.92,
-          "avg_price": 0.33,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Getafe CF win on 2026-10-10?",
-      "slug": "lal-bar-get-2026-10-10-get",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 4083.82,
-      "holders": [
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 1902.48,
-          "avg_price": 0.9669,
-          "cur_price": 0.9675
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 1699.53,
-          "avg_price": 0.9662,
-          "cur_price": 0.9675
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 481.81,
-          "avg_price": 0.9709,
-          "cur_price": 0.9675
-        }
-      ]
-    },
-    {
-      "market": "Eagles vs. Jaguars",
-      "slug": "nfl-phi-jax-2026-10-11",
-      "outcome": "Eagles",
-      "num_traders": 3,
-      "total_value": 3805.25,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 2330.73,
-          "avg_price": 0.3099,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 933.12,
-          "avg_price": 0.29,
-          "cur_price": 0.235
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 541.4,
-          "avg_price": 0.2897,
-          "cur_price": 0.235
-        }
-      ]
-    },
-    {
-      "market": "Buccaneers vs. Cowboys",
-      "slug": "nfl-tb-dal-2026-10-09",
-      "outcome": "Buccaneers",
-      "num_traders": 3,
-      "total_value": 3716.7,
-      "holders": [
-        {
-          "trader": "3648393489047",
-          "roi": 0.1517,
-          "value": 2925,
-          "avg_price": 0.2,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 450.45,
-          "avg_price": 0.2,
-          "cur_price": 0.195
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 341.25,
-          "avg_price": 0.2,
-          "cur_price": 0.195
-        }
-      ]
-    },
-    {
-      "market": "China Open: Ann Li vs Elina Svitolina",
-      "slug": "wta-annli-svitoli-2026-10-06",
-      "outcome": "Ann Li",
-      "num_traders": 3,
-      "total_value": 3687.41,
-      "holders": [
-        {
-          "trader": "Kkunn",
-          "roi": 0.6289,
-          "value": 3244.11,
-          "avg_price": 0.2661,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 323.75,
-          "avg_price": 0.24,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 119.55,
-          "avg_price": 0.24,
-          "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "49ers vs. Seahawks",
-      "slug": "nfl-sf-sea-2026-10-11",
-      "outcome": "49ers",
-      "num_traders": 3,
-      "total_value": 2490.86,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 1354.0,
-          "avg_price": 0.415,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 931.07,
-          "avg_price": 0.4174,
-          "cur_price": 0.395
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 205.79,
-          "avg_price": 0.419,
-          "cur_price": 0.395
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Packers",
-      "slug": "nfl-chi-gb-2026-10-11",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 1977.64,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 1612.69,
-          "avg_price": 0.5199,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 253.55,
-          "avg_price": 0.42,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 111.4,
-          "avg_price": 0.41,
-          "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "Will Shenzhen Juniors FC vs. Guandong GZ-Power FC end in a draw?",
-      "slug": "chi2-she-gua-2026-10-07-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1404.47,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 560.44,
-          "avg_price": 0.7118,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 472.58,
-          "avg_price": 0.71,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 371.45,
-          "avg_price": 0.7174,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will FC Inter Turku win on 2026-10-07?",
-      "slug": "fin1-gni-int-2026-10-07-int",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1362.47,
-      "holders": [
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 515.54,
-          "avg_price": 0.4565,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 511.61,
-          "avg_price": 0.4568,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 335.32,
-          "avg_price": 0.4671,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Will Red Bull Bragantino win on 2026-10-07?",
-      "slug": "bra-bra-mir-2026-10-07-bra",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 1304.17,
-      "holders": [
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 640.08,
-          "avg_price": 0.4253,
-          "cur_price": 0.405
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 460.14,
-          "avg_price": 0.4411,
-          "cur_price": 0.405
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 203.95,
-          "avg_price": 0.44,
-          "cur_price": 0.405
-        }
-      ]
-    },
-    {
-      "market": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
-      "slug": "atp-zandsch-aguilar-2026-10-06",
-      "outcome": "Botic van de Zandschulp",
-      "num_traders": 3,
-      "total_value": 1208.89,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 464.16,
-          "avg_price": 0.4863,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.8603,
-          "value": 435.6,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 309.13,
-          "avg_price": 0.48,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will Itagui Leones FC win on 2026-10-07?",
-      "slug": "col2-leo-bar-2026-10-07-leo",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 999.19,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 629.2,
-          "avg_price": 0.5455,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 191.65,
-          "avg_price": 0.55,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 178.34,
-          "avg_price": 0.57,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will Arsenal FC win on 2026-10-10?",
-      "slug": "epl-ars-lee-2026-10-10-ars",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 726.56,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.2312,
-          "value": 434.15,
-          "avg_price": 0.2899,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "GC-P",
-          "roi": 0.3687,
-          "value": 186.77,
-          "avg_price": 0.2884,
-          "cur_price": 0.295
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.3426,
-          "value": 105.64,
-          "avg_price": 0.286,
-          "cur_price": 0.295
         }
       ]
     }
@@ -3035,23 +2624,31 @@
     "wta-buyukak-klimovi-2026-10-05::Linda Klimovicova": 3,
     "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 3,
     "kbo-nc-ssg-2026-10-07::SSG Landers": 3,
-    "atp-fery-cilic-2026-10-06::Arthur Fery": 2,
-    "lal-bar-get-2026-10-10-bar::Yes": 2,
-    "nfl-tb-dal-2026-10-09::Cowboys": 2,
-    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 2,
-    "chi2-fos-gh-2026-10-07-gh::No": 2,
-    "lal-bar-get-2026-10-10-get::No": 2,
-    "nfl-phi-jax-2026-10-11::Eagles": 2,
-    "nfl-tb-dal-2026-10-09::Buccaneers": 2,
-    "wta-annli-svitoli-2026-10-06::Ann Li": 2,
-    "nfl-sf-sea-2026-10-11::49ers": 2,
-    "nfl-chi-gb-2026-10-11::Packers": 2,
-    "chi2-she-gua-2026-10-07-draw::No": 2,
-    "fin1-gni-int-2026-10-07-int::No": 2,
-    "bra-bra-mir-2026-10-07-bra::No": 2,
-    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 2,
-    "col2-leo-bar-2026-10-07-leo::Yes": 2,
-    "epl-ars-lee-2026-10-10-ars::No": 2
+    "atp-fery-cilic-2026-10-06::Arthur Fery": 3,
+    "lal-bar-get-2026-10-10-bar::Yes": 3,
+    "nfl-tb-dal-2026-10-09::Cowboys": 3,
+    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 3,
+    "chi2-fos-gh-2026-10-07-gh::No": 3,
+    "lal-bar-get-2026-10-10-get::No": 3,
+    "nfl-phi-jax-2026-10-11::Eagles": 3,
+    "nfl-tb-dal-2026-10-09::Buccaneers": 3,
+    "wta-annli-svitoli-2026-10-06::Ann Li": 3,
+    "nfl-sf-sea-2026-10-11::49ers": 3,
+    "nfl-chi-gb-2026-10-11::Packers": 3,
+    "chi2-she-gua-2026-10-07-draw::No": 3,
+    "fin1-gni-int-2026-10-07-int::No": 3,
+    "bra-bra-mir-2026-10-07-bra::No": 3,
+    "atp-zandsch-aguilar-2026-10-06::Botic van de Zandschulp": 3,
+    "col2-leo-bar-2026-10-07-leo::Yes": 3,
+    "epl-ars-lee-2026-10-10-ars::No": 3,
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 1,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 1,
+    "will-ethereum-dip-to-2100-in-october-2026::No": 1,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 1,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 1,
+    "will-ethereum-reach-2800-in-october-2026::No": 1,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 1
   },
-  "updated_at": "2026-10-07T23:53:50.615603+00:00"
+  "updated_at": "2026-10-08T04:20:55.934238+00:00"
 }
