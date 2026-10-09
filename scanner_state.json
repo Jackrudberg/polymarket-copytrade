@@ -1,17 +1,338 @@
 {
   "seen_ids": [
-    "cs2-fal2-ts7-2026-10-09::Team Falcons",
     "nfl-chi-gb-2026-10-11::Bears",
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Broncos",
-    "will-the-us-invade-iran-before-2027::No",
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No",
     "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders",
     "nfl-phi-jax-2026-10-11::Jaguars",
     "will-the-democrats-win-the-iowa-senate-race-in-2026::No",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "nfl-sf-sea-2026-10-11::49ers"
+    "nfl-hou-ten-2026-10-11::Texans",
+    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Browns",
+    "nfl-cin-mia-2026-10-11::Dolphins"
   ],
   "signals": [
+    {
+      "market": "Bears vs. Packers",
+      "slug": "nfl-chi-gb-2026-10-11",
+      "outcome": "Bears",
+      "num_traders": 5,
+      "total_value": 37338.5,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 0.4447,
+          "value": 31499.93,
+          "avg_price": 0.5633,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4285,
+          "value": 2271.31,
+          "avg_price": 0.5477,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 1801.69,
+          "avg_price": 0.5786,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.8411,
+          "value": 1618.7,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 146.87,
+          "avg_price": 0.5743,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Spread: Broncos (-3.5)",
+      "slug": "nfl-den-lac-2026-10-11-spread-away-3pt5",
+      "outcome": "Broncos",
+      "num_traders": 4,
+      "total_value": 21791.53,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.7747,
+          "value": 9699.99,
+          "avg_price": 0.4799,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 7375.48,
+          "avg_price": 0.48,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.4447,
+          "value": 3867.31,
+          "avg_price": 0.4699,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 848.75,
+          "avg_price": 0.48,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1256905.21,
+      "holders": [
+        {
+          "trader": "crispychook99",
+          "roi": 0.2574,
+          "value": 1231226.5,
+          "avg_price": 0.5,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.394,
+          "value": 21605.99,
+          "avg_price": 0.4138,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.0804,
+          "value": 4072.72,
+          "avg_price": 0.3738,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 95401.26,
+      "holders": [
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 1.3526,
+          "value": 82009.55,
+          "avg_price": 0.5151,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.394,
+          "value": 8167.93,
+          "avg_price": 0.6599,
+          "cur_price": 0.845
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.6533,
+          "value": 5223.78,
+          "avg_price": 0.5324,
+          "cur_price": 0.845
+        }
+      ]
+    },
+    {
+      "market": "Spread: Commanders (-3.5)",
+      "slug": "nfl-nyg-was-2026-10-11-spread-home-3pt5",
+      "outcome": "Commanders",
+      "num_traders": 3,
+      "total_value": 43318.65,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 1.7747,
+          "value": 41200,
+          "avg_price": 0.5199,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 1313.18,
+          "avg_price": 0.4853,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 805.47,
+          "avg_price": 0.4867,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "outcome": "Jaguars",
+      "num_traders": 3,
+      "total_value": 31744.87,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 22447.09,
+          "avg_price": 0.7288,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.4447,
+          "value": 5575.21,
+          "avg_price": 0.7199,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 3722.57,
+          "avg_price": 0.7408,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Will the Democrats win the Iowa Senate race in 2026?",
+      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 27146.15,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.6533,
+          "value": 26423.82,
+          "avg_price": 0.5947,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.394,
+          "value": 575.24,
+          "avg_price": 0.51,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.0804,
+          "value": 147.09,
+          "avg_price": 0.5644,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Texans vs. Titans",
+      "slug": "nfl-hou-ten-2026-10-11",
+      "outcome": "Texans",
+      "num_traders": 3,
+      "total_value": 7255.83,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4285,
+          "value": 3721.17,
+          "avg_price": 0.76,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 2416.8,
+          "avg_price": 0.7643,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 1117.86,
+          "avg_price": 0.741,
+          "cur_price": 0.755
+        }
+      ]
+    },
+    {
+      "market": "Spread: Jets (-2.5)",
+      "slug": "nfl-cle-nyj-2026-10-11-spread-home-2pt5",
+      "outcome": "Browns",
+      "num_traders": 3,
+      "total_value": 7233.87,
+      "holders": [
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 4929.64,
+          "avg_price": 0.4832,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 1662.5,
+          "avg_price": 0.4849,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4285,
+          "value": 641.73,
+          "avg_price": 0.48,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Bengals vs. Dolphins",
+      "slug": "nfl-cin-mia-2026-10-11",
+      "outcome": "Dolphins",
+      "num_traders": 3,
+      "total_value": 2199.56,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4285,
+          "value": 1384.03,
+          "avg_price": 0.2499,
+          "cur_price": 0.245
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.163,
+          "value": 428.75,
+          "avg_price": 0.25,
+          "cur_price": 0.245
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.7306,
+          "value": 386.78,
+          "avg_price": 0.2374,
+          "cur_price": 0.245
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
       "slug": "cs2-fal2-ts7-2026-10-09",
@@ -78,87 +399,6 @@
       ]
     },
     {
-      "market": "Bears vs. Packers",
-      "slug": "nfl-chi-gb-2026-10-11",
-      "outcome": "Bears",
-      "num_traders": 5,
-      "total_value": 37109.97,
-      "holders": [
-        {
-          "trader": "bands1",
-          "roi": 1.0717,
-          "value": 31499.93,
-          "avg_price": 0.5633,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 1.2027,
-          "value": 2271.31,
-          "avg_price": 0.5477,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1819,
-          "value": 1801.69,
-          "avg_price": 0.5786,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 2.0539,
-          "value": 1390.17,
-          "avg_price": 0.52,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.7696,
-          "value": 146.87,
-          "avg_price": 0.5743,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Spread: Broncos (-3.5)",
-      "slug": "nfl-den-lac-2026-10-11-spread-away-3pt5",
-      "outcome": "Broncos",
-      "num_traders": 4,
-      "total_value": 21791.53,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 3.0411,
-          "value": 9699.99,
-          "avg_price": 0.4799,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.7696,
-          "value": 7375.48,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "bands1",
-          "roi": 1.0717,
-          "value": 3867.31,
-          "avg_price": 0.4699,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1819,
-          "value": 848.75,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
       "market": "Will the U.S. invade Iran before 2027?",
       "slug": "will-the-us-invade-iran-before-2027",
       "outcome": "No",
@@ -185,126 +425,6 @@
           "value": 20765.78,
           "avg_price": 0.7063,
           "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 95401.26,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.8776,
-          "value": 82009.55,
-          "avg_price": 0.5151,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.6691,
-          "value": 8167.93,
-          "avg_price": 0.6599,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.5953,
-          "value": 5223.78,
-          "avg_price": 0.5324,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Spread: Commanders (-3.5)",
-      "slug": "nfl-nyg-was-2026-10-11-spread-home-3pt5",
-      "outcome": "Commanders",
-      "num_traders": 3,
-      "total_value": 43318.65,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 3.0411,
-          "value": 41200,
-          "avg_price": 0.5199,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.7696,
-          "value": 1313.18,
-          "avg_price": 0.4853,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1819,
-          "value": 805.47,
-          "avg_price": 0.4867,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Eagles vs. Jaguars",
-      "slug": "nfl-phi-jax-2026-10-11",
-      "outcome": "Jaguars",
-      "num_traders": 3,
-      "total_value": 31744.87,
-      "holders": [
-        {
-          "trader": "Herdonia",
-          "roi": 1.7696,
-          "value": 22447.09,
-          "avg_price": 0.7288,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "bands1",
-          "roi": 1.0717,
-          "value": 5575.21,
-          "avg_price": 0.7199,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.1819,
-          "value": 3722.57,
-          "avg_price": 0.7408,
-          "cur_price": 0.765
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Iowa Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 27146.16,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.5953,
-          "value": 26423.82,
-          "avg_price": 0.5947,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.6691,
-          "value": 575.24,
-          "avg_price": 0.51,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "e46m3",
-          "roi": 2.503,
-          "value": 147.1,
-          "avg_price": 0.5629,
-          "cur_price": 0.565
         }
       ]
     },
@@ -2359,7 +2479,6 @@
     "mlb-cws-cle-2026-09-16::Cleveland Guardians": 3,
     "uel-mil1-ben-2026-09-16-mil1::No": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649::Yes": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "mlb-nyy-min-2026-09-16::Minnesota Twins": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
@@ -3384,28 +3503,32 @@
     "will-ethereum-reach-2800-in-october-2026::No": 3,
     "mlb-cle-cws-2026-10-08::Chicago White Sox": 3,
     "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 3,
-    "atp-djokovi-hurkacz-2026-10-09::Hubert Hurkacz": 1,
-    "atp-djokovi-hurkacz-2026-10-09::Novak Djokovic": 1,
-    "lal-lev-bil-2026-09-16-lev::No": 1,
-    "atp-cerundo-safiull-2026-10-09::Francisco Cerundolo": 1,
-    "lal-bar-get-2026-10-10-bar::Yes": 1,
-    "kor-gwo-bch-2026-10-09-total-2pt5::Under": 1,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 1,
-    "atp-cerundo-safiull-2026-10-09::Roman Safiullin": 1,
-    "lal-bar-get-2026-10-10-draw::No": 1,
-    "kor-inc-poh-2026-10-09-total-2pt5::Over": 1,
-    "lal-bar-get-2026-10-10-get::No": 1,
-    "jap-rey-vis-2026-10-09-total-2pt5::Under": 1,
-    "epl-ast-bre-2026-10-10-bre::No": 1,
-    "lal-lev-bil-2026-09-16-draw::Yes": 1,
-    "itf-zhenik1-kovack1-2026-10-09::Alena Kovackova": 1,
-    "bun-dor-wer-2026-10-09-dor::No": 1,
-    "epl-ars-lee-2026-10-10-lee::No": 1,
-    "itsb-ave-sam-2026-10-09-draw::Yes": 1,
-    "epl-liv-mac-2026-10-11-liv::No": 1,
-    "mls-fcc-dcu-2026-09-05-dcu::Yes": 1,
-    "atp-kecmano-mensik-2026-10-09::Miomir Kecmanovic": 1,
-    "atp-shelbay-glinka-2026-10-09::Daniil Glinka": 1
+    "atp-djokovi-hurkacz-2026-10-09::Hubert Hurkacz": 2,
+    "atp-djokovi-hurkacz-2026-10-09::Novak Djokovic": 2,
+    "lal-lev-bil-2026-09-16-lev::No": 2,
+    "atp-cerundo-safiull-2026-10-09::Francisco Cerundolo": 2,
+    "lal-bar-get-2026-10-10-bar::Yes": 2,
+    "kor-gwo-bch-2026-10-09-total-2pt5::Under": 2,
+    "mls-fcc-dcu-2026-09-05-fcc::No": 2,
+    "atp-cerundo-safiull-2026-10-09::Roman Safiullin": 2,
+    "lal-bar-get-2026-10-10-draw::No": 2,
+    "kor-inc-poh-2026-10-09-total-2pt5::Over": 2,
+    "lal-bar-get-2026-10-10-get::No": 2,
+    "jap-rey-vis-2026-10-09-total-2pt5::Under": 2,
+    "epl-ast-bre-2026-10-10-bre::No": 2,
+    "lal-lev-bil-2026-09-16-draw::Yes": 2,
+    "itf-zhenik1-kovack1-2026-10-09::Alena Kovackova": 2,
+    "bun-dor-wer-2026-10-09-dor::No": 2,
+    "epl-ars-lee-2026-10-10-lee::No": 2,
+    "itsb-ave-sam-2026-10-09-draw::Yes": 2,
+    "epl-liv-mac-2026-10-11-liv::No": 2,
+    "mls-fcc-dcu-2026-09-05-dcu::Yes": 2,
+    "atp-kecmano-mensik-2026-10-09::Miomir Kecmanovic": 2,
+    "atp-shelbay-glinka-2026-10-09::Daniil Glinka": 2,
+    "cs2-fal2-ts7-2026-10-09::Team Falcons": 1,
+    "will-the-us-invade-iran-before-2027::No": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "nfl-sf-sea-2026-10-11::49ers": 1
   },
-  "updated_at": "2026-10-09T17:06:51.783737+00:00"
+  "updated_at": "2026-10-09T21:39:46.057979+00:00"
 }
