@@ -1,6 +1,859 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "atp-djokovi-hurkacz-2026-10-09::Hubert Hurkacz",
+    "atp-djokovi-hurkacz-2026-10-09::Novak Djokovic",
+    "nfl-chi-gb-2026-10-11::Bears",
+    "lal-lev-bil-2026-09-16-lev::No",
+    "atp-cerundo-safiull-2026-10-09::Francisco Cerundolo",
+    "nfl-sf-sea-2026-10-11::49ers",
+    "lal-bar-get-2026-10-10-bar::Yes",
+    "kor-gwo-bch-2026-10-09-total-2pt5::Under",
+    "nfl-phi-jax-2026-10-11::Jaguars",
+    "mls-fcc-dcu-2026-09-05-fcc::No",
+    "atp-cerundo-safiull-2026-10-09::Roman Safiullin",
+    "lal-bar-get-2026-10-10-draw::No",
+    "kor-inc-poh-2026-10-09-total-2pt5::Over",
+    "lal-bar-get-2026-10-10-get::No",
+    "jap-rey-vis-2026-10-09-total-2pt5::Under",
+    "epl-ast-bre-2026-10-10-bre::No",
+    "lal-lev-bil-2026-09-16-draw::Yes",
+    "itf-zhenik1-kovack1-2026-10-09::Alena Kovackova",
+    "bun-dor-wer-2026-10-09-dor::No",
+    "epl-ars-lee-2026-10-10-lee::No",
+    "itsb-ave-sam-2026-10-09-draw::Yes",
+    "epl-liv-mac-2026-10-11-liv::No",
+    "mls-fcc-dcu-2026-09-05-dcu::Yes",
+    "atp-kecmano-mensik-2026-10-09::Miomir Kecmanovic",
+    "atp-shelbay-glinka-2026-10-09::Daniil Glinka"
+  ],
   "signals": [
+    {
+      "market": "Shanghai Rolex Masters: Novak Djokovic vs Hubert Hurkacz",
+      "slug": "atp-djokovi-hurkacz-2026-10-09",
+      "outcome": "Hubert Hurkacz",
+      "num_traders": 7,
+      "total_value": 22703.97,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.3185,
+          "value": 11795.28,
+          "avg_price": 0.4188,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.1563,
+          "value": 2555,
+          "avg_price": 0.3799,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 2339.78,
+          "avg_price": 0.4385,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1801.29,
+          "avg_price": 0.3522,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 1505.46,
+          "avg_price": 0.34,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 1412.17,
+          "avg_price": 0.35,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1294.99,
+          "avg_price": 0.3449,
+          "cur_price": 0.37
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Novak Djokovic vs Hubert Hurkacz",
+      "slug": "atp-djokovi-hurkacz-2026-10-09",
+      "outcome": "Novak Djokovic",
+      "num_traders": 5,
+      "total_value": 38992.62,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 22762.75,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.5036,
+          "value": 6833.27,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 4291.26,
+          "avg_price": 0.64,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 3068.48,
+          "avg_price": 0.6427,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 2036.86,
+          "avg_price": 0.6422,
+          "cur_price": 0.63
+        }
+      ]
+    },
+    {
+      "market": "Bears vs. Packers",
+      "slug": "nfl-chi-gb-2026-10-11",
+      "outcome": "Bears",
+      "num_traders": 5,
+      "total_value": 38231.62,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 1.0708,
+          "value": 31499.93,
+          "avg_price": 0.5633,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 2271.31,
+          "avg_price": 0.5477,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1801.69,
+          "avg_price": 0.5786,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1394.99,
+          "avg_price": 0.5755,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 2.0608,
+          "value": 1263.7,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Will Levante UD win on 2026-09-16?",
+      "slug": "lal-lev-bil-2026-09-16-lev",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 12805.05,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 11536.98,
+          "avg_price": 0.72,
+          "cur_price": 0.78
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 600.6,
+          "avg_price": 0.71,
+          "cur_price": 0.78
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 379.54,
+          "avg_price": 0.71,
+          "cur_price": 0.78
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 287.93,
+          "avg_price": 0.71,
+          "cur_price": 0.78
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
+      "slug": "atp-cerundo-safiull-2026-10-09",
+      "outcome": "Francisco Cerundolo",
+      "num_traders": 4,
+      "total_value": 12241.86,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 7764.09,
+          "avg_price": 0.6512,
+          "cur_price": 0.76
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 1937.37,
+          "avg_price": 0.5801,
+          "cur_price": 0.76
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1501.56,
+          "avg_price": 0.4915,
+          "cur_price": 0.755
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1038.84,
+          "avg_price": 0.4956,
+          "cur_price": 0.755
+        }
+      ]
+    },
+    {
+      "market": "49ers vs. Seahawks",
+      "slug": "nfl-sf-sea-2026-10-11",
+      "outcome": "49ers",
+      "num_traders": 4,
+      "total_value": 6032.42,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 3475.34,
+          "avg_price": 0.4199,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1319.73,
+          "avg_price": 0.415,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 950.37,
+          "avg_price": 0.4161,
+          "cur_price": 0.385
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 286.98,
+          "avg_price": 0.38,
+          "cur_price": 0.385
+        }
+      ]
+    },
+    {
+      "market": "Will FC Barcelona win on 2026-10-10?",
+      "slug": "lal-bar-get-2026-10-10-bar",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 15338.61,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 8327.57,
+          "avg_price": 0.9096,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 6472.56,
+          "avg_price": 0.91,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 538.48,
+          "avg_price": 0.91,
+          "cur_price": 0.905
+        }
+      ]
+    },
+    {
+      "market": "Gangwon FC vs. Bucheon FC 1995: O/U 2.5",
+      "slug": "kor-gwo-bch-2026-10-09-total-2pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 13738.6,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 6836.58,
+          "avg_price": 0.58,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 4076.35,
+          "avg_price": 0.5757,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 2825.67,
+          "avg_price": 0.5739,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Eagles vs. Jaguars",
+      "slug": "nfl-phi-jax-2026-10-11",
+      "outcome": "Jaguars",
+      "num_traders": 3,
+      "total_value": 11373.94,
+      "holders": [
+        {
+          "trader": "bands1",
+          "roi": 1.0708,
+          "value": 5575.21,
+          "avg_price": 0.7199,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 3722.57,
+          "avg_price": 0.7408,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 2076.16,
+          "avg_price": 0.7278,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Will FC Cincinnati win on 2026-09-05?",
+      "slug": "mls-fcc-dcu-2026-09-05-fcc",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 11108.9,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 7877.41,
+          "avg_price": 0.3955,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1716.49,
+          "avg_price": 0.3955,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1515,
+          "avg_price": 0.395,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
+      "slug": "atp-cerundo-safiull-2026-10-09",
+      "outcome": "Roman Safiullin",
+      "num_traders": 3,
+      "total_value": 9486.31,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.3185,
+          "value": 7296.91,
+          "avg_price": 0.4104,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 1571.74,
+          "avg_price": 0.3464,
+          "cur_price": 0.24
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 617.66,
+          "avg_price": 0.3107,
+          "cur_price": 0.24
+        }
+      ]
+    },
+    {
+      "market": "Will FC Barcelona vs. Getafe CF end in a draw?",
+      "slug": "lal-bar-get-2026-10-10-draw",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 8109.24,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 4142.1,
+          "avg_price": 0.9407,
+          "cur_price": 0.9375
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 2443.29,
+          "avg_price": 0.9499,
+          "cur_price": 0.9375
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1523.85,
+          "avg_price": 0.9519,
+          "cur_price": 0.9375
+        }
+      ]
+    },
+    {
+      "market": "Incheon United FC vs. Pohang Steelers FC: O/U 2.5",
+      "slug": "kor-inc-poh-2026-10-09-total-2pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 7593.49,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 4747.04,
+          "avg_price": 0.3736,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1560.3,
+          "avg_price": 0.3649,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1286.15,
+          "avg_price": 0.37,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Getafe CF win on 2026-10-10?",
+      "slug": "lal-bar-get-2026-10-10-get",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 6119.38,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 3088.22,
+          "avg_price": 0.9672,
+          "cur_price": 0.969
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 2451.55,
+          "avg_price": 0.9666,
+          "cur_price": 0.969
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 579.61,
+          "avg_price": 0.966,
+          "cur_price": 0.969
+        }
+      ]
+    },
+    {
+      "market": "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 2.5",
+      "slug": "jap-rey-vis-2026-10-09-total-2pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 5016.93,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 2261.55,
+          "avg_price": 0.47,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1386.8,
+          "avg_price": 0.4748,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1368.58,
+          "avg_price": 0.4749,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Will Brentford FC win on 2026-10-10?",
+      "slug": "epl-ast-bre-2026-10-10-bre",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 4446.88,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 2259.38,
+          "avg_price": 0.62,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1093.75,
+          "avg_price": 0.62,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1093.75,
+          "avg_price": 0.62,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will Levante UD vs. Athletic Club end in a draw?",
+      "slug": "lal-lev-bil-2026-09-16-draw",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3949.08,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 3126.58,
+          "avg_price": 0.28,
+          "cur_price": 0.31
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 446.87,
+          "avg_price": 0.27,
+          "cur_price": 0.31
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 375.63,
+          "avg_price": 0.27,
+          "cur_price": 0.31
+        }
+      ]
+    },
+    {
+      "market": "W50 Burgas: Sonja Zhenikhova vs Alena Kovackova",
+      "slug": "itf-zhenik1-kovack1-2026-10-09",
+      "outcome": "Alena Kovackova",
+      "num_traders": 3,
+      "total_value": 3455.6,
+      "holders": [
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 2611.2,
+          "avg_price": 0.7606,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 476.67,
+          "avg_price": 0.78,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 367.73,
+          "avg_price": 0.779,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will BV Borussia 09 Dortmund win on 2026-10-09?",
+      "slug": "bun-dor-wer-2026-10-09-dor",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3302.83,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 1431.78,
+          "avg_price": 0.2641,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 1375.45,
+          "avg_price": 0.2717,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 495.6,
+          "avg_price": 0.2699,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Will Leeds United FC win on 2026-10-10?",
+      "slug": "epl-ars-lee-2026-10-10-lee",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 3061.26,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 1834.64,
+          "avg_price": 0.89,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 744.08,
+          "avg_price": 0.8896,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 482.54,
+          "avg_price": 0.8881,
+          "cur_price": 0.895
+        }
+      ]
+    },
+    {
+      "market": "Will US Avellino 1912 vs. UC Sampdoria end in a draw?",
+      "slug": "itsb-ave-sam-2026-10-09-draw",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2638.82,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 1395.09,
+          "avg_price": 0.3099,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 726.58,
+          "avg_price": 0.3061,
+          "cur_price": 0.315
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 517.15,
+          "avg_price": 0.3,
+          "cur_price": 0.315
+        }
+      ]
+    },
+    {
+      "market": "Will Liverpool FC win on 2026-10-11?",
+      "slug": "epl-liv-mac-2026-10-11-liv",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 1666.9,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 711.45,
+          "avg_price": 0.6254,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 583.77,
+          "avg_price": 0.6237,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 371.68,
+          "avg_price": 0.64,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Will D.C. United SC win on 2026-09-05?",
+      "slug": "mls-fcc-dcu-2026-09-05-dcu",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1457.03,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 796.47,
+          "avg_price": 0.19,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 442.5,
+          "avg_price": 0.19,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 3.5992,
+          "value": 218.06,
+          "avg_price": 0.1899,
+          "cur_price": 0.295
+        }
+      ]
+    },
+    {
+      "market": "Shanghai Rolex Masters: Miomir Kecmanovic vs Jakub Mensik",
+      "slug": "atp-kecmano-mensik-2026-10-09",
+      "outcome": "Miomir Kecmanovic",
+      "num_traders": 3,
+      "total_value": 1189.45,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1642,
+          "value": 837.28,
+          "avg_price": 0.088,
+          "cur_price": 0.0155
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.4778,
+          "value": 228.17,
+          "avg_price": 0.1099,
+          "cur_price": 0.0215
+        },
+        {
+          "trader": "jtwyslljy",
+          "roi": 0.1563,
+          "value": 124.0,
+          "avg_price": 0.1626,
+          "cur_price": 0.0155
+        }
+      ]
+    },
+    {
+      "market": "Villena: Abedallah Shelbayh vs Daniil Glinka",
+      "slug": "atp-shelbay-glinka-2026-10-09",
+      "outcome": "Daniil Glinka",
+      "num_traders": 3,
+      "total_value": 1169.64,
+      "holders": [
+        {
+          "trader": "GC-P",
+          "roi": 0.4037,
+          "value": 523.95,
+          "avg_price": 0.5967,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.397,
+          "value": 513.71,
+          "avg_price": 0.5931,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "no1dodgersfan",
+          "roi": 0.1614,
+          "value": 131.98,
+          "avg_price": 0.5778,
+          "cur_price": 0.585
+        }
+      ]
+    },
     {
       "market": "Buccaneers vs. Cowboys",
       "slug": "nfl-tb-dal-2026-10-09",
@@ -275,36 +1128,6 @@
           "value": 404.47,
           "avg_price": 0.4299,
           "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
-      "slug": "dota2-pari-ty-2026-10-08-game1",
-      "outcome": "PARIVISION",
-      "num_traders": 3,
-      "total_value": 97672.81,
-      "holders": [
-        {
-          "trader": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-          "roi": 0.2861,
-          "value": 64857.27,
-          "avg_price": 0.5612,
-          "cur_price": 0.91
-        },
-        {
-          "trader": "equalsignificance",
-          "roi": 0.2536,
-          "value": 22417.81,
-          "avg_price": 0.5836,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "Medo3D",
-          "roi": 0.1999,
-          "value": 10397.73,
-          "avg_price": 0.5,
-          "cur_price": 0.915
         }
       ]
     }
@@ -2375,7 +3198,6 @@
     "atp-machac-gea-2026-09-28::Arthur Gea": 3,
     "atp-rottger-winter-2026-09-28::Mees Rottgering": 3,
     "wta-kalieva-shi-2026-09-28::Elvina Kalieva": 3,
-    "mls-fcc-dcu-2026-09-05-dcu::Yes": 3,
     "nfl-phi-chi-2026-09-29::Bears": 3,
     "nfl-phi-chi-2026-09-29::Eagles": 3,
     "nfl-phi-chi-2026-09-29-spread-away-3pt5::Bears": 3,
@@ -2441,7 +3263,6 @@
     "unl-kaz-mol-2026-10-02-kaz::No": 3,
     "unl-bih-swe-2026-10-02-bih::No": 3,
     "wta-paolini-snigur-2026-10-01::Daria Snigur": 3,
-    "lal-lev-bil-2026-09-16-lev::No": 3,
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
     "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
     "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 3,
@@ -2568,7 +3389,6 @@
     "nfl-atl-no-2026-10-06-total-47pt5::Over": 3,
     "nfl-atl-no-2026-10-06::Falcons": 3,
     "wta-muchova-osaka-2026-10-05::Karolina Muchova": 3,
-    "nfl-phi-jax-2026-10-11::Jaguars": 3,
     "atp-alcaraz-lehecka-2026-10-06::Jiri Lehecka": 3,
     "unl-lux-bul-2026-10-06-lux::Yes": 3,
     "atp-jacquet-sakamot-2026-10-06::Rei Sakamoto": 3,
@@ -2582,14 +3402,11 @@
     "wta-prozoro-okamura-2026-10-06::Kyoka Okamura": 3,
     "kbo-nc-ssg-2026-10-07::SSG Landers": 3,
     "atp-fery-cilic-2026-10-06::Arthur Fery": 3,
-    "lal-bar-get-2026-10-10-bar::Yes": 3,
     "nfl-tb-dal-2026-10-09::Cowboys": 3,
     "nfl-phi-jax-2026-10-11-spread-home-7pt5::Eagles": 3,
     "chi2-fos-gh-2026-10-07-gh::No": 3,
-    "lal-bar-get-2026-10-10-get::No": 3,
     "nfl-phi-jax-2026-10-11::Eagles": 3,
     "wta-annli-svitoli-2026-10-06::Ann Li": 3,
-    "nfl-sf-sea-2026-10-11::49ers": 3,
     "nfl-chi-gb-2026-10-11::Packers": 3,
     "chi2-she-gua-2026-10-07-draw::No": 3,
     "fin1-gni-int-2026-10-07-int::No": 3,
@@ -2604,20 +3421,19 @@
     "atp-assche-bu-2026-10-06::Yunchaokete Bu": 3,
     "lol-navi-jdg-2026-10-08::JD Gaming": 3,
     "ufc-ilibul-erivis-2026-09-29::Ilias Bulaid": 3,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 3,
     "wta-alexand-andreev-2026-10-07::Ekaterina Alexandrova": 3,
     "lal-lev-bil-2026-09-16-bil::Yes": 3,
     "aze2-sab-kev-2026-10-08-spread-home-1pt5::FK Karvan Yevlakh": 3,
-    "dota2-pari-ty-2026-10-08-game1::PARIVISION": 2,
-    "nfl-tb-dal-2026-10-09::Buccaneers": 1,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 1,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 1,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 1,
-    "will-ethereum-dip-to-2100-in-october-2026::No": 1,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 1,
-    "will-ethereum-reach-2800-in-october-2026::No": 1,
-    "mlb-cle-cws-2026-10-08::Chicago White Sox": 1,
-    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 1
+    "dota2-pari-ty-2026-10-08-game1::PARIVISION": 3,
+    "nfl-tb-dal-2026-10-09::Buccaneers": 2,
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 2,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 2,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 2,
+    "will-ethereum-dip-to-2100-in-october-2026::No": 2,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 2,
+    "will-ethereum-reach-2800-in-october-2026::No": 2,
+    "mlb-cle-cws-2026-10-08::Chicago White Sox": 2,
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 2
   },
-  "updated_at": "2026-10-09T02:58:39.318076+00:00"
+  "updated_at": "2026-10-09T10:22:46.050830+00:00"
 }
