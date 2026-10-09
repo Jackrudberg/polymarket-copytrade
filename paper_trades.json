@@ -53275,7 +53275,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 97672.81,
       "traders": [
@@ -53283,7 +53283,8 @@
         "equalsignificance",
         "Medo3D"
       ],
-      "url": "https://polymarket.com/event/dota2-pari-ty-2026-10-08-game1"
+      "url": "https://polymarket.com/event/dota2-pari-ty-2026-10-08-game1",
+      "consensus_lost_at": "2026-10-09T02:58:39.293560+00:00"
     },
     {
       "signal_id": "mlb-cle-cws-2026-10-08::Chicago White Sox",
@@ -53310,5 +53311,5 @@
       "url": "https://polymarket.com/event/mlb-cle-cws-2026-10-08"
     }
   ],
-  "updated_at": "2026-10-08T23:15:23.512603+00:00"
+  "updated_at": "2026-10-09T02:58:39.293560+00:00"
 }
