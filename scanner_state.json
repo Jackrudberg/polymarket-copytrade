@@ -1,19 +1,69 @@
 {
   "seen_ids": [
-    "nfl-chi-gb-2026-10-11::Bears",
-    "nfl-den-lac-2026-10-11-spread-away-3pt5::Broncos",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No",
-    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders",
-    "nfl-phi-jax-2026-10-11::Jaguars",
-    "will-the-democrats-win-the-iowa-senate-race-in-2026::No",
-    "cfb-iowa-wash-2026-10-09::Iowa",
-    "wnba-atl-nyl-2026-10-09::New York Liberty",
-    "nfl-hou-ten-2026-10-11::Texans",
-    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Browns",
-    "nfl-cin-mia-2026-10-11::Dolphins"
+    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Jets",
+    "cfb-sdst-oregst-2026-10-10-spread-home-15pt5::Oregon State"
   ],
   "signals": [
+    {
+      "market": "Spread: Jets (-2.5)",
+      "slug": "nfl-cle-nyj-2026-10-11-spread-home-2pt5",
+      "outcome": "Jets",
+      "num_traders": 3,
+      "total_value": 39790.16,
+      "holders": [
+        {
+          "trader": "ArielFilipino",
+          "roi": 0.4281,
+          "value": 32512.36,
+          "avg_price": 0.5221,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2131,
+          "value": 6329.35,
+          "avg_price": 0.5,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2656,
+          "value": 948.45,
+          "avg_price": 0.4899,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Spread: Oregon State (-15.5)",
+      "slug": "cfb-sdst-oregst-2026-10-10-spread-home-15pt5",
+      "outcome": "Oregon State",
+      "num_traders": 3,
+      "total_value": 28846.11,
+      "holders": [
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.2181,
+          "value": 14520.98,
+          "avg_price": 0.5141,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "ArielFilipino",
+          "roi": 0.4281,
+          "value": 11728.74,
+          "avg_price": 0.5184,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.2131,
+          "value": 2596.39,
+          "avg_price": 0.5199,
+          "cur_price": 0.515
+        }
+      ]
+    },
     {
       "market": "Bears vs. Packers",
       "slug": "nfl-chi-gb-2026-10-11",
@@ -392,161 +442,6 @@
           "value": 386.78,
           "avg_price": 0.2374,
           "cur_price": 0.245
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-      "slug": "cs2-fal2-ts7-2026-10-09",
-      "outcome": "Team Falcons",
-      "num_traders": 8,
-      "total_value": 230176.83,
-      "holders": [
-        {
-          "trader": "sulumos",
-          "roi": 0.8354,
-          "value": 77746.01,
-          "avg_price": 0.4184,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "juice-fruit",
-          "roi": 0.4095,
-          "value": 54906.45,
-          "avg_price": 0.4199,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "NeverLoseBet",
-          "roi": 0.358,
-          "value": 32065.09,
-          "avg_price": 0.4192,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "Netrol",
-          "roi": 0.3112,
-          "value": 30393.94,
-          "avg_price": 0.4199,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "SharkbetX-com",
-          "roi": 0.4115,
-          "value": 15463.39,
-          "avg_price": 0.4174,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.3682,
-          "value": 9222.15,
-          "avg_price": 0.41,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "Kkunn",
-          "roi": 0.1775,
-          "value": 7491.96,
-          "avg_price": 0.4199,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "FeedTheBigBird",
-          "roi": 0.3835,
-          "value": 2887.84,
-          "avg_price": 0.44,
-          "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "Will the U.S. invade Iran before 2027?",
-      "slug": "will-the-us-invade-iran-before-2027",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 109246.95,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.3682,
-          "value": 65721.56,
-          "avg_price": 0.8457,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 1.8776,
-          "value": 22759.61,
-          "avg_price": 0.8399,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.6691,
-          "value": 20765.78,
-          "avg_price": 0.7063,
-          "cur_price": 0.845
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7834.89,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.3682,
-          "value": 4055.51,
-          "avg_price": 0.36,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.5953,
-          "value": 3499.85,
-          "avg_price": 0.3681,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 1.2027,
-          "value": 279.53,
-          "avg_price": 0.3246,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "49ers vs. Seahawks",
-      "slug": "nfl-sf-sea-2026-10-11",
-      "outcome": "49ers",
-      "num_traders": 3,
-      "total_value": 1883.81,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.1819,
-          "value": 1319.73,
-          "avg_price": 0.415,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 1.2027,
-          "value": 290.71,
-          "avg_price": 0.38,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 1.7696,
-          "value": 273.37,
-          "avg_price": 0.4113,
-          "cur_price": 0.385
         }
       ]
     }
@@ -2871,10 +2766,22 @@
     "mls-fcc-dcu-2026-09-05-dcu::Yes": 3,
     "atp-kecmano-mensik-2026-10-09::Miomir Kecmanovic": 3,
     "atp-shelbay-glinka-2026-10-09::Daniil Glinka": 3,
-    "cs2-fal2-ts7-2026-10-09::Team Falcons": 2,
-    "will-the-us-invade-iran-before-2027::No": 2,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "nfl-sf-sea-2026-10-11::49ers": 2
+    "cs2-fal2-ts7-2026-10-09::Team Falcons": 3,
+    "will-the-us-invade-iran-before-2027::No": 3,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "nfl-sf-sea-2026-10-11::49ers": 3,
+    "nfl-chi-gb-2026-10-11::Bears": 1,
+    "nfl-den-lac-2026-10-11-spread-away-3pt5::Broncos": 1,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 1,
+    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders": 1,
+    "nfl-phi-jax-2026-10-11::Jaguars": 1,
+    "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 1,
+    "cfb-iowa-wash-2026-10-09::Iowa": 1,
+    "wnba-atl-nyl-2026-10-09::New York Liberty": 1,
+    "nfl-hou-ten-2026-10-11::Texans": 1,
+    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Browns": 1,
+    "nfl-cin-mia-2026-10-11::Dolphins": 1
   },
-  "updated_at": "2026-10-10T01:16:44.457135+00:00"
+  "updated_at": "2026-10-10T07:16:31.984025+00:00"
 }
