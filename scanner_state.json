@@ -1,15 +1,76 @@
 {
   "seen_ids": [
-    "cs2-mouz-ts7-2026-10-10::Spirit",
-    "nhl-phi-bos-2026-10-10::Flyers",
-    "epl-che-bou-2026-10-10-che::Yes",
-    "cfb-ind-nebr-2026-10-10::Indiana",
-    "cfb-tulane-army-2026-10-10::Tulane",
-    "cfb-txam-missr-2026-10-10::Missouri",
-    "cfb-wake-ncst-2026-10-10::Wake Forest",
-    "cfb-tx-okl-2026-10-10-spread-away-7pt5::Oklahoma"
+    "cs2-mouz-ts7-2026-10-10::MOUZ",
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+      "slug": "cs2-mouz-ts7-2026-10-10",
+      "outcome": "MOUZ",
+      "num_traders": 4,
+      "total_value": 278068.04,
+      "holders": [
+        {
+          "trader": "qiu3",
+          "roi": 0.1619,
+          "value": 145680.53,
+          "avg_price": 0.42,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "juice-fruit",
+          "roi": 0.2109,
+          "value": 112681.58,
+          "avg_price": 0.4307,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cruzNBA",
+          "roi": 0.3195,
+          "value": 11669.0,
+          "avg_price": 0.4026,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "YEEES-but-why",
+          "roi": 0.5162,
+          "value": 8036.93,
+          "avg_price": 0.38,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 84289.69,
+      "holders": [
+        {
+          "trader": "ndb1",
+          "roi": 0.4612,
+          "value": 32806.86,
+          "avg_price": 0.86,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.1538,
+          "value": 27509.38,
+          "avg_price": 0.9299,
+          "cur_price": 0.905
+        },
+        {
+          "trader": "anoin123",
+          "roi": 1.4257,
+          "value": 23973.45,
+          "avg_price": 0.9,
+          "cur_price": 0.905
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
       "slug": "cs2-mouz-ts7-2026-10-10",
@@ -261,66 +322,6 @@
           "value": 1455,
           "avg_price": 0.5,
           "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Spread: Jets (-2.5)",
-      "slug": "nfl-cle-nyj-2026-10-11-spread-home-2pt5",
-      "outcome": "Jets",
-      "num_traders": 3,
-      "total_value": 39790.16,
-      "holders": [
-        {
-          "trader": "ArielFilipino",
-          "roi": 0.4281,
-          "value": 32512.36,
-          "avg_price": 0.5221,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2131,
-          "value": 6329.35,
-          "avg_price": 0.5,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2656,
-          "value": 948.45,
-          "avg_price": 0.4899,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Spread: Oregon State (-15.5)",
-      "slug": "cfb-sdst-oregst-2026-10-10-spread-home-15pt5",
-      "outcome": "Oregon State",
-      "num_traders": 3,
-      "total_value": 28846.11,
-      "holders": [
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2181,
-          "value": 14520.98,
-          "avg_price": 0.5141,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "ArielFilipino",
-          "roi": 0.4281,
-          "value": 11728.74,
-          "avg_price": 0.5184,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.2131,
-          "value": 2596.39,
-          "avg_price": 0.5199,
-          "cur_price": 0.515
         }
       ]
     }
@@ -1604,7 +1605,6 @@
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 3,
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
@@ -2661,8 +2661,16 @@
     "nfl-hou-ten-2026-10-11::Texans": 3,
     "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Browns": 3,
     "nfl-cin-mia-2026-10-11::Dolphins": 3,
-    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Jets": 2,
-    "cfb-sdst-oregst-2026-10-10-spread-home-15pt5::Oregon State": 2
+    "nfl-cle-nyj-2026-10-11-spread-home-2pt5::Jets": 3,
+    "cfb-sdst-oregst-2026-10-10-spread-home-15pt5::Oregon State": 3,
+    "cs2-mouz-ts7-2026-10-10::Spirit": 1,
+    "nhl-phi-bos-2026-10-10::Flyers": 1,
+    "epl-che-bou-2026-10-10-che::Yes": 1,
+    "cfb-ind-nebr-2026-10-10::Indiana": 1,
+    "cfb-tulane-army-2026-10-10::Tulane": 1,
+    "cfb-txam-missr-2026-10-10::Missouri": 1,
+    "cfb-wake-ncst-2026-10-10::Wake Forest": 1,
+    "cfb-tx-okl-2026-10-10-spread-away-7pt5::Oklahoma": 1
   },
-  "updated_at": "2026-10-10T18:06:58.395875+00:00"
+  "updated_at": "2026-10-10T21:38:39.084459+00:00"
 }
