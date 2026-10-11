@@ -12335,7 +12335,7 @@
       "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
       "side": "Yes",
       "alerted_at": "2026-08-12T05:49:16.657733+00:00",
-      "last_seen": "2026-10-09T17:06:51.737005+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
       "entry_price": 0.485,
       "current_price": 0.365,
       "stake": 100.0,
@@ -12343,7 +12343,7 @@
       "current_value": 75.26,
       "paper_pnl": -24.74,
       "return_percent": -24.74,
-      "status": "CONSENSUS_LOST",
+      "status": "OPEN",
       "num_traders": 4,
       "combined_value": 19726.15,
       "traders": [
@@ -53606,7 +53606,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 278068.04,
       "traders": [
@@ -53615,7 +53615,8 @@
         "cruzNBA",
         "YEEES-but-why"
       ],
-      "url": "https://polymarket.com/event/cs2-mouz-ts7-2026-10-10"
+      "url": "https://polymarket.com/event/cs2-mouz-ts7-2026-10-10",
+      "consensus_lost_at": "2026-10-11T06:20:17.387249+00:00"
     },
     {
       "signal_id": "cfb-usc-pennst-2026-10-10::Penn State",
@@ -53664,7 +53665,178 @@
         "0x53757615de1c42b83f893b79d4241a009dc2aeea"
       ],
       "url": "https://polymarket.com/event/will-the-republicans-win-the-maine-senate-race-in-2026"
+    },
+    {
+      "signal_id": "nfl-sf-sea-2026-10-11-total-46pt5::Under",
+      "market": "49ers vs. Seahawks: O/U 46.5",
+      "slug": "nfl-sf-sea-2026-10-11-total-46pt5",
+      "side": "Under",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.495,
+      "current_price": 0.495,
+      "stake": 100.0,
+      "shares": 202.020202,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 29322.88,
+      "traders": [
+        "monkeymashingkeyboard",
+        "bands1",
+        "HomeRunHazard",
+        "AnonymousUsername",
+        "nigiri99"
+      ],
+      "url": "https://polymarket.com/event/nfl-sf-sea-2026-10-11-total-46pt5"
+    },
+    {
+      "signal_id": "cfb-boise-frest-2026-10-10::Boise State",
+      "market": "Boise State vs. Fresno State",
+      "slug": "cfb-boise-frest-2026-10-10",
+      "side": "Boise State",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 29453.12,
+      "traders": [
+        "HomeRunHazard",
+        "torta.tech",
+        "0x4f2",
+        "nigiri99"
+      ],
+      "url": "https://polymarket.com/event/cfb-boise-frest-2026-10-10"
+    },
+    {
+      "signal_id": "lal-ray-bil-2026-10-10-bil::No",
+      "market": "Will Athletic Club win on 2026-10-10?",
+      "slug": "lal-ray-bil-2026-10-10-bil",
+      "side": "No",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.615,
+      "current_price": 0.615,
+      "stake": 100.0,
+      "shares": 162.601626,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 38593.68,
+      "traders": [
+        "printmon",
+        "AnonymousUsername",
+        "nigiri99"
+      ],
+      "url": "https://polymarket.com/event/lal-ray-bil-2026-10-10-bil"
+    },
+    {
+      "signal_id": "nfl-chi-gb-2026-10-11::Bears",
+      "market": "Bears vs. Packers",
+      "slug": "nfl-chi-gb-2026-10-11",
+      "side": "Bears",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 35829.0,
+      "traders": [
+        "bands1",
+        "AnonymousUsername",
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+      ],
+      "url": "https://polymarket.com/event/nfl-chi-gb-2026-10-11"
+    },
+    {
+      "signal_id": "nfl-det-ari-2026-10-11-total-54pt5::Under",
+      "market": "Lions vs. Cardinals: O/U 54.5",
+      "slug": "nfl-det-ari-2026-10-11-total-54pt5",
+      "side": "Under",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.485,
+      "current_price": 0.485,
+      "stake": 100.0,
+      "shares": 206.185567,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 14060.68,
+      "traders": [
+        "AnonymousUsername",
+        "HomeRunHazard",
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+      ],
+      "url": "https://polymarket.com/event/nfl-det-ari-2026-10-11-total-54pt5"
+    },
+    {
+      "signal_id": "cfb-hawaii-arzst-2026-10-10::Arizona State",
+      "market": "Hawai'i vs. Arizona State",
+      "slug": "cfb-hawaii-arzst-2026-10-10",
+      "side": "Arizona State",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.9945,
+      "current_price": 0.9945,
+      "stake": 100.0,
+      "shares": 100.553042,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9584.91,
+      "traders": [
+        "torta.tech",
+        "0x4f2",
+        "HomeRunHazard"
+      ],
+      "url": "https://polymarket.com/event/cfb-hawaii-arzst-2026-10-10"
+    },
+    {
+      "signal_id": "atp-minaur-sakamot-2026-10-11::Rei Sakamoto",
+      "market": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
+      "slug": "atp-minaur-sakamot-2026-10-11",
+      "side": "Rei Sakamoto",
+      "alerted_at": "2026-10-11T06:20:17.387249+00:00",
+      "last_seen": "2026-10-11T06:20:17.387249+00:00",
+      "entry_price": 0.295,
+      "current_price": 0.295,
+      "stake": 100.0,
+      "shares": 338.983051,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 7477.16,
+      "traders": [
+        "nigiri99",
+        "HomeRunHazard",
+        "berlinskies"
+      ],
+      "url": "https://polymarket.com/event/atp-minaur-sakamot-2026-10-11"
     }
   ],
-  "updated_at": "2026-10-11T00:30:05.674891+00:00"
+  "updated_at": "2026-10-11T06:20:17.387249+00:00"
 }
