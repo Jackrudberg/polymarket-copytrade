@@ -1,12 +1,176 @@
 {
   "seen_ids": [
-    "dota2-ts8-pari-2026-10-11::Team Spirit",
-    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders",
-    "nfl-chi-gb-2026-10-11::Packers",
-    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Jaguars",
-    "nfl-bal-atl-2026-10-12-spread-away-3pt5::Falcons"
+    "cs2-vit-mouz-2026-10-11::Vitality",
+    "nfl-cle-nyj-2026-10-11::Jets",
+    "nfl-lv-ne-2026-10-11::Patriots",
+    "dota2-ty-ts8-2026-10-11::Team Spirit",
+    "dota2-ty-ts8-2026-10-11-game3::Team Spirit"
   ],
   "signals": [
+    {
+      "market": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+      "slug": "cs2-vit-mouz-2026-10-11",
+      "outcome": "Vitality",
+      "num_traders": 4,
+      "total_value": 601767.46,
+      "holders": [
+        {
+          "trader": "Dragon-Evolution",
+          "roi": 0.4638,
+          "value": 211329.87,
+          "avg_price": 0.652,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "S-Works",
+          "roi": 0.342,
+          "value": 193544.91,
+          "avg_price": 0.64,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "juice-fruit",
+          "roi": 0.1543,
+          "value": 186999.83,
+          "avg_price": 0.6499,
+          "cur_price": 0.935
+        },
+        {
+          "trader": "forsenxd",
+          "roi": 0.3025,
+          "value": 9892.85,
+          "avg_price": 0.65,
+          "cur_price": 0.935
+        }
+      ]
+    },
+    {
+      "market": "Browns vs. Jets",
+      "slug": "nfl-cle-nyj-2026-10-11",
+      "outcome": "Jets",
+      "num_traders": 4,
+      "total_value": 67120.33,
+      "holders": [
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.1822,
+          "value": 33900,
+          "avg_price": 0.57,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "KaneAnalytics",
+          "roi": 0.666,
+          "value": 20062.41,
+          "avg_price": 0.5899,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "ethanaz",
+          "roi": 0.7529,
+          "value": 7774.03,
+          "avg_price": 0.5799,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "torta.tech",
+          "roi": 0.2375,
+          "value": 5383.89,
+          "avg_price": 0.6289,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Raiders vs. Patriots",
+      "slug": "nfl-lv-ne-2026-10-11",
+      "outcome": "Patriots",
+      "num_traders": 3,
+      "total_value": 304137.14,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.2676,
+          "value": 294000,
+          "avg_price": 0.63,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "gangmusic",
+          "roi": 0.4141,
+          "value": 5833.33,
+          "avg_price": 0.6299,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.4042,
+          "value": 4303.81,
+          "avg_price": 0.6299,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+      "slug": "dota2-ty-ts8-2026-10-11",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 10753.84,
+      "holders": [
+        {
+          "trader": "NeverLoseBet",
+          "roi": 0.1865,
+          "value": 5830.13,
+          "avg_price": 0.3486,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.3311,
+          "value": 4305,
+          "avg_price": 0.29,
+          "cur_price": 0.205
+        },
+        {
+          "trader": "forsenxd",
+          "roi": 0.3025,
+          "value": 618.71,
+          "avg_price": 0.28,
+          "cur_price": 0.205
+        }
+      ]
+    },
+    {
+      "market": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "slug": "dota2-ty-ts8-2026-10-11-game3",
+      "outcome": "Team Spirit",
+      "num_traders": 3,
+      "total_value": 4992.28,
+      "holders": [
+        {
+          "trader": "NeverLoseBet",
+          "roi": 0.1865,
+          "value": 2709,
+          "avg_price": 0.41,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "sofa88888",
+          "roi": 0.3311,
+          "value": 2017.45,
+          "avg_price": 0.4599,
+          "cur_price": 0.105
+        },
+        {
+          "trader": "forsenxd",
+          "roi": 0.3025,
+          "value": 265.83,
+          "avg_price": 0.37,
+          "cur_price": 0.105
+        }
+      ]
+    },
     {
       "market": "Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs",
       "slug": "dota2-ts8-pari-2026-10-11",
@@ -415,96 +579,6 @@
           "value": 997.62,
           "avg_price": 0.4032,
           "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 84289.69,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.4643,
-          "value": 32806.86,
-          "avg_price": 0.86,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.1605,
-          "value": 27509.38,
-          "avg_price": 0.9299,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.6499,
-          "value": 23973.45,
-          "avg_price": 0.9,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "USC vs. Penn State",
-      "slug": "cfb-usc-pennst-2026-10-10",
-      "outcome": "Penn State",
-      "num_traders": 3,
-      "total_value": 27998.05,
-      "holders": [
-        {
-          "trader": "esportsbetter1",
-          "roi": 0.2805,
-          "value": 20200,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2505,
-          "value": 7252.65,
-          "avg_price": 0.3799,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "takeormake",
-          "roi": 0.205,
-          "value": 545.4,
-          "avg_price": 0.4949,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will the Republicans win the Maine Senate race in 2026?",
-      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7056.9,
-      "holders": [
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.1605,
-          "value": 3850.07,
-          "avg_price": 0.3393,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.6499,
-          "value": 2973.6,
-          "avg_price": 0.3,
-          "cur_price": 0.415
-        },
-        {
-          "trader": "0x53757615de1c42b83f893b79d4241a009dc2aeea",
-          "roi": 0.2799,
-          "value": 233.23,
-          "avg_price": 0.35,
-          "cur_price": 0.415
         }
       ]
     }
@@ -2851,17 +2925,22 @@
     "cfb-wake-ncst-2026-10-10::Wake Forest": 3,
     "cfb-tx-okl-2026-10-10-spread-away-7pt5::Oklahoma": 3,
     "cs2-mouz-ts7-2026-10-10::MOUZ": 3,
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 2,
-    "cfb-usc-pennst-2026-10-10::Penn State": 2,
-    "will-the-republicans-win-the-maine-senate-race-in-2026::Yes": 2,
-    "nfl-sf-sea-2026-10-11-total-46pt5::Under": 1,
-    "cfb-boise-frest-2026-10-10::Boise State": 1,
-    "lal-ray-bil-2026-10-10-bil::No": 1,
-    "nfl-chi-gb-2026-10-11::Bears": 1,
-    "nfl-det-ari-2026-10-11-total-54pt5::Under": 1,
-    "cfb-hawaii-arzst-2026-10-10::Arizona State": 1,
-    "atp-minaur-sakamot-2026-10-11::Rei Sakamoto": 1,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
+    "cfb-usc-pennst-2026-10-10::Penn State": 3,
+    "will-the-republicans-win-the-maine-senate-race-in-2026::Yes": 3,
+    "nfl-sf-sea-2026-10-11-total-46pt5::Under": 2,
+    "cfb-boise-frest-2026-10-10::Boise State": 2,
+    "lal-ray-bil-2026-10-10-bil::No": 2,
+    "nfl-chi-gb-2026-10-11::Bears": 2,
+    "nfl-det-ari-2026-10-11-total-54pt5::Under": 2,
+    "cfb-hawaii-arzst-2026-10-10::Arizona State": 2,
+    "atp-minaur-sakamot-2026-10-11::Rei Sakamoto": 2,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "dota2-ts8-pari-2026-10-11::Team Spirit": 1,
+    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders": 1,
+    "nfl-chi-gb-2026-10-11::Packers": 1,
+    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Jaguars": 1,
+    "nfl-bal-atl-2026-10-12-spread-away-3pt5::Falcons": 1
   },
-  "updated_at": "2026-10-11T13:09:09.951316+00:00"
+  "updated_at": "2026-10-11T18:04:33.963746+00:00"
 }
