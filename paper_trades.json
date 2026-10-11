@@ -7007,7 +7007,7 @@
       "current_value": 105.85,
       "paper_pnl": 5.85,
       "return_percent": 5.85,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 43202.97,
       "traders": [
@@ -7016,7 +7016,7 @@
         "0x8B4bcA1D794779E66e023D44391B2A86C5ab541B-1769764313952"
       ],
       "url": "https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-      "consensus_lost_at": "2026-09-17T06:45:50.235046+00:00"
+      "consensus_lost_at": "2026-10-11T13:09:09.903790+00:00"
     },
     {
       "signal_id": "lol-dnf-bro2-2026-08-02::DN SOOPers",
@@ -52812,15 +52812,15 @@
       "slug": "nfl-chi-gb-2026-10-11",
       "side": "Packers",
       "alerted_at": "2026-10-07T13:57:15.710452+00:00",
-      "last_seen": "2026-10-07T13:57:15.710452+00:00",
+      "last_seen": "2026-10-11T13:09:09.903790+00:00",
       "entry_price": 0.415,
-      "current_price": 0.415,
+      "current_price": 0.475,
       "stake": 100.0,
       "shares": 240.963855,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
-      "status": "CONSENSUS_LOST",
+      "current_value": 114.46,
+      "paper_pnl": 14.46,
+      "return_percent": 14.46,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1977.64,
       "traders": [
@@ -53373,7 +53373,7 @@
       "slug": "nfl-nyg-was-2026-10-11-spread-home-3pt5",
       "side": "Commanders",
       "alerted_at": "2026-10-09T17:06:51.737005+00:00",
-      "last_seen": "2026-10-10T01:16:44.409130+00:00",
+      "last_seen": "2026-10-11T13:09:09.903790+00:00",
       "entry_price": 0.515,
       "current_price": 0.495,
       "stake": 100.0,
@@ -53381,7 +53381,7 @@
       "current_value": 96.12,
       "paper_pnl": -3.88,
       "return_percent": -3.88,
-      "status": "CONSENSUS_LOST",
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 43318.65,
       "traders": [
@@ -53632,7 +53632,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 27998.05,
       "traders": [
@@ -53640,7 +53640,8 @@
         "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
         "takeormake"
       ],
-      "url": "https://polymarket.com/event/cfb-usc-pennst-2026-10-10"
+      "url": "https://polymarket.com/event/cfb-usc-pennst-2026-10-10",
+      "consensus_lost_at": "2026-10-11T13:09:09.903790+00:00"
     },
     {
       "signal_id": "will-the-republicans-win-the-maine-senate-race-in-2026::Yes",
@@ -53656,7 +53657,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7056.9,
       "traders": [
@@ -53664,7 +53665,8 @@
         "anoin123",
         "0x53757615de1c42b83f893b79d4241a009dc2aeea"
       ],
-      "url": "https://polymarket.com/event/will-the-republicans-win-the-maine-senate-race-in-2026"
+      "url": "https://polymarket.com/event/will-the-republicans-win-the-maine-senate-race-in-2026",
+      "consensus_lost_at": "2026-10-11T13:09:09.903790+00:00"
     },
     {
       "signal_id": "nfl-sf-sea-2026-10-11-total-46pt5::Under",
@@ -53836,7 +53838,79 @@
         "berlinskies"
       ],
       "url": "https://polymarket.com/event/atp-minaur-sakamot-2026-10-11"
+    },
+    {
+      "signal_id": "dota2-ts8-pari-2026-10-11::Team Spirit",
+      "market": "Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs",
+      "slug": "dota2-ts8-pari-2026-10-11",
+      "side": "Team Spirit",
+      "alerted_at": "2026-10-11T13:09:09.903790+00:00",
+      "last_seen": "2026-10-11T13:09:09.903790+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 43256.48,
+      "traders": [
+        "Uniform123",
+        "forsenxd",
+        "nigiri99"
+      ],
+      "url": "https://polymarket.com/event/dota2-ts8-pari-2026-10-11"
+    },
+    {
+      "signal_id": "nfl-phi-jax-2026-10-11-spread-home-7pt5::Jaguars",
+      "market": "Spread: Jaguars (-7.5)",
+      "slug": "nfl-phi-jax-2026-10-11-spread-home-7pt5",
+      "side": "Jaguars",
+      "alerted_at": "2026-10-11T13:09:09.903790+00:00",
+      "last_seen": "2026-10-11T13:09:09.903790+00:00",
+      "entry_price": 0.515,
+      "current_price": 0.515,
+      "stake": 100.0,
+      "shares": 194.174757,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9438.41,
+      "traders": [
+        "nigiri99",
+        "gmpm2",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/nfl-phi-jax-2026-10-11-spread-home-7pt5"
+    },
+    {
+      "signal_id": "nfl-bal-atl-2026-10-12-spread-away-3pt5::Falcons",
+      "market": "Spread: Ravens (-3.5)",
+      "slug": "nfl-bal-atl-2026-10-12-spread-away-3pt5",
+      "side": "Falcons",
+      "alerted_at": "2026-10-11T13:09:09.903790+00:00",
+      "last_seen": "2026-10-11T13:09:09.903790+00:00",
+      "entry_price": 0.725,
+      "current_price": 0.725,
+      "stake": 100.0,
+      "shares": 137.931034,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 7977.29,
+      "traders": [
+        "hi774c",
+        "nigiri99",
+        "ic4cream"
+      ],
+      "url": "https://polymarket.com/event/nfl-bal-atl-2026-10-12-spread-away-3pt5"
     }
   ],
-  "updated_at": "2026-10-11T06:20:17.387249+00:00"
+  "updated_at": "2026-10-11T13:09:09.903790+00:00"
 }
