@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming",
-    "lol-fox1-jdg-2026-10-12::BNK FEARX"
+    "mlb-lad-mil-2026-10-12::Milwaukee Brewers"
   ],
   "signals": [
+    {
+      "market": "Los Angeles Dodgers vs. Milwaukee Brewers",
+      "slug": "mlb-lad-mil-2026-10-12",
+      "outcome": "Milwaukee Brewers",
+      "num_traders": 3,
+      "total_value": 131953.7,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 2.3062,
+          "value": 120014.27,
+          "avg_price": 0.4598,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "NS13",
+          "roi": 0.3285,
+          "value": 10903.09,
+          "avg_price": 0.4599,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "scootergene",
+          "roi": 0.8829,
+          "value": 1036.34,
+          "avg_price": 0.6699,
+          "cur_price": 0.475
+        }
+      ]
+    },
     {
       "market": "Game Handicap: BFX (-1.5) vs JD Gaming (+1.5)",
       "slug": "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5",
@@ -2513,8 +2542,10 @@
     "nfl-det-ari-2026-10-11::Lions": 3,
     "bra-cam-san-2026-10-11-san::No": 3,
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Chargers": 3,
-    "atp-lehecka-jodar-2026-10-11::Jiri Lehecka": 1,
-    "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 1
+    "atp-lehecka-jodar-2026-10-11::Jiri Lehecka": 2,
+    "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 2,
+    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 1,
+    "lol-fox1-jdg-2026-10-12::BNK FEARX": 1
   },
-  "updated_at": "2026-10-12T16:17:24.525024+00:00"
+  "updated_at": "2026-10-12T23:04:59.548253+00:00"
 }
