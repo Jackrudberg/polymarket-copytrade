@@ -1,11 +1,5 @@
 {
-  "seen_ids": [
-    "nfl-sf-sea-2026-10-11::49ers",
-    "nfl-sf-sea-2026-10-11::Seahawks",
-    "nfl-det-ari-2026-10-11::Lions",
-    "bra-cam-san-2026-10-11-san::No",
-    "nfl-den-lac-2026-10-11-spread-away-3pt5::Chargers"
-  ],
+  "seen_ids": [],
   "signals": [
     {
       "market": "49ers vs. Seahawks",
@@ -353,156 +347,6 @@
           "value": 265.83,
           "avg_price": 0.37,
           "cur_price": 0.105
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: Team Spirit vs PARIVISION (BO3) - BLAST Slam Playoffs",
-      "slug": "dota2-ts8-pari-2026-10-11",
-      "outcome": "Team Spirit",
-      "num_traders": 3,
-      "total_value": 43256.48,
-      "holders": [
-        {
-          "trader": "Uniform123",
-          "roi": 0.3772,
-          "value": 29985,
-          "avg_price": 0.27,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "forsenxd",
-          "roi": 0.2798,
-          "value": 12427.9,
-          "avg_price": 0.2956,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2019,
-          "value": 843.58,
-          "avg_price": 0.3231,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Commanders (-3.5)",
-      "slug": "nfl-nyg-was-2026-10-11-spread-home-3pt5",
-      "outcome": "Commanders",
-      "num_traders": 3,
-      "total_value": 42429.81,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 2.2848,
-          "value": 39600,
-          "avg_price": 0.5199,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "Nooserac",
-          "roi": 0.1667,
-          "value": 1531.43,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.9094,
-          "value": 1298.38,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Packers",
-      "slug": "nfl-chi-gb-2026-10-11",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 16458.64,
-      "holders": [
-        {
-          "trader": "ic4cream",
-          "roi": 0.9094,
-          "value": 8912.9,
-          "avg_price": 0.4301,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "gmpm2",
-          "roi": 0.2053,
-          "value": 5699.89,
-          "avg_price": 0.4699,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2019,
-          "value": 1845.85,
-          "avg_price": 0.5199,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Spread: Jaguars (-7.5)",
-      "slug": "nfl-phi-jax-2026-10-11-spread-home-7pt5",
-      "outcome": "Jaguars",
-      "num_traders": 3,
-      "total_value": 9438.41,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2019,
-          "value": 6136.23,
-          "avg_price": 0.5099,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "gmpm2",
-          "roi": 0.2053,
-          "value": 2369.0,
-          "avg_price": 0.4899,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.9094,
-          "value": 933.18,
-          "avg_price": 0.4399,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Spread: Ravens (-3.5)",
-      "slug": "nfl-bal-atl-2026-10-12-spread-away-3pt5",
-      "outcome": "Falcons",
-      "num_traders": 3,
-      "total_value": 7977.29,
-      "holders": [
-        {
-          "trader": "hi774c",
-          "roi": 0.7604,
-          "value": 7435.72,
-          "avg_price": 0.73,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2019,
-          "value": 274.77,
-          "avg_price": 0.7236,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.9094,
-          "value": 266.8,
-          "avg_price": 0.7099,
-          "cur_price": 0.725
         }
       ]
     }
@@ -2859,16 +2703,21 @@
     "cfb-hawaii-arzst-2026-10-10::Arizona State": 3,
     "atp-minaur-sakamot-2026-10-11::Rei Sakamoto": 3,
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
-    "dota2-ts8-pari-2026-10-11::Team Spirit": 2,
-    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders": 2,
-    "nfl-chi-gb-2026-10-11::Packers": 2,
-    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Jaguars": 2,
-    "nfl-bal-atl-2026-10-12-spread-away-3pt5::Falcons": 2,
-    "cs2-vit-mouz-2026-10-11::Vitality": 1,
-    "nfl-cle-nyj-2026-10-11::Jets": 1,
-    "nfl-lv-ne-2026-10-11::Patriots": 1,
-    "dota2-ty-ts8-2026-10-11::Team Spirit": 1,
-    "dota2-ty-ts8-2026-10-11-game3::Team Spirit": 1
+    "dota2-ts8-pari-2026-10-11::Team Spirit": 3,
+    "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders": 3,
+    "nfl-chi-gb-2026-10-11::Packers": 3,
+    "nfl-phi-jax-2026-10-11-spread-home-7pt5::Jaguars": 3,
+    "nfl-bal-atl-2026-10-12-spread-away-3pt5::Falcons": 3,
+    "cs2-vit-mouz-2026-10-11::Vitality": 2,
+    "nfl-cle-nyj-2026-10-11::Jets": 2,
+    "nfl-lv-ne-2026-10-11::Patriots": 2,
+    "dota2-ty-ts8-2026-10-11::Team Spirit": 2,
+    "dota2-ty-ts8-2026-10-11-game3::Team Spirit": 2,
+    "nfl-sf-sea-2026-10-11::49ers": 1,
+    "nfl-sf-sea-2026-10-11::Seahawks": 1,
+    "nfl-det-ari-2026-10-11::Lions": 1,
+    "bra-cam-san-2026-10-11-san::No": 1,
+    "nfl-den-lac-2026-10-11-spread-away-3pt5::Chargers": 1
   },
-  "updated_at": "2026-10-11T21:52:19.229288+00:00"
+  "updated_at": "2026-10-12T00:52:57.960500+00:00"
 }
