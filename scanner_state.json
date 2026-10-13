@@ -1,11 +1,138 @@
 {
   "seen_ids": [
-    "nfl-buf-la-2026-10-13::Bills",
-    "nfl-buf-la-2026-10-13::Rams",
-    "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills",
-    "nfl-buf-la-2026-10-13-total-52pt5::Over"
+    "lol-we-fly-2026-10-13::Team WE",
+    "lol-we-fly-2026-10-13-game4::FlyQuest",
+    "lol-we-fly-2026-10-13-game2::Team WE",
+    "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No"
   ],
   "signals": [
+    {
+      "market": "LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs",
+      "slug": "lol-we-fly-2026-10-13",
+      "outcome": "Team WE",
+      "num_traders": 4,
+      "total_value": 19979.17,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.3183,
+          "value": 14383.57,
+          "avg_price": 0.5422,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "-Pain",
+          "roi": 0.3571,
+          "value": 4477.15,
+          "avg_price": 0.6146,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.2542,
+          "value": 568.72,
+          "avg_price": 0.8777,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2525,
+          "value": 549.73,
+          "avg_price": 0.8581,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs FlyQuest - Game 4 Winner",
+      "slug": "lol-we-fly-2026-10-13-game4",
+      "outcome": "FlyQuest",
+      "num_traders": 3,
+      "total_value": 19752.03,
+      "holders": [
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.345,
+          "value": 10666.02,
+          "avg_price": 0.3999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.3334,
+          "value": 6726.7,
+          "avg_price": 0.31,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.2289,
+          "value": 2359.31,
+          "avg_price": 0.4718,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs FlyQuest - Game 2 Winner",
+      "slug": "lol-we-fly-2026-10-13-game2",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 10518.84,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.3183,
+          "value": 8762.29,
+          "avg_price": 0.63,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.2289,
+          "value": 1316.77,
+          "avg_price": 0.4789,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "itsonlyamatteroftime",
+          "roi": 0.2542,
+          "value": 439.78,
+          "avg_price": 0.5588,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Georgia Bulldogs win the 2027 CFP National Championship?",
+      "slug": "will-georgia-bulldogs-win-the-2027-cfp-national-championship",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 9986.47,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.3183,
+          "value": 5523.7,
+          "avg_price": 0.84,
+          "cur_price": 0.8065
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2525,
+          "value": 2720.38,
+          "avg_price": 0.813,
+          "cur_price": 0.8065
+        },
+        {
+          "trader": "milkteaboba",
+          "roi": 0.5589,
+          "value": 1742.39,
+          "avg_price": 0.7917,
+          "cur_price": 0.8065
+        }
+      ]
+    },
     {
       "market": "Bills vs. Rams",
       "slug": "nfl-buf-la-2026-10-13",
@@ -209,87 +336,6 @@
           "value": 1036.34,
           "avg_price": 0.6699,
           "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Game Handicap: BFX (-1.5) vs JD Gaming (+1.5)",
-      "slug": "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5",
-      "outcome": "JD Gaming",
-      "num_traders": 5,
-      "total_value": 205700.49,
-      "holders": [
-        {
-          "trader": "ArturitoFilito",
-          "roi": 0.2398,
-          "value": 95231.29,
-          "avg_price": 0.5034,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "THEHIGHLIFE",
-          "roi": 0.2177,
-          "value": 70527.35,
-          "avg_price": 0.5062,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Gooooooollllllllll",
-          "roi": 0.2007,
-          "value": 24987.5,
-          "avg_price": 0.51,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "qidao001",
-          "roi": 0.1555,
-          "value": 13427.7,
-          "avg_price": 0.5185,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fortnitethegoat667",
-          "roi": 0.3291,
-          "value": 1526.65,
-          "avg_price": 0.5199,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
-      "slug": "lol-fox1-jdg-2026-10-12",
-      "outcome": "BNK FEARX",
-      "num_traders": 4,
-      "total_value": 102146.83,
-      "holders": [
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1806,
-          "value": 54873.95,
-          "avg_price": 0.6094,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "fortnitethegoat667",
-          "roi": 0.3291,
-          "value": 32638.52,
-          "avg_price": 0.8299,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.8354,
-          "value": 9994.92,
-          "avg_price": 0.67,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "enpirugbrpti",
-          "roi": 0.4182,
-          "value": 4639.44,
-          "avg_price": 0.5099,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -2663,9 +2709,13 @@
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Chargers": 3,
     "atp-lehecka-jodar-2026-10-11::Jiri Lehecka": 3,
     "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 3,
-    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 2,
-    "lol-fox1-jdg-2026-10-12::BNK FEARX": 2,
-    "mlb-lad-mil-2026-10-12::Milwaukee Brewers": 1
+    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 3,
+    "lol-fox1-jdg-2026-10-12::BNK FEARX": 3,
+    "mlb-lad-mil-2026-10-12::Milwaukee Brewers": 2,
+    "nfl-buf-la-2026-10-13::Bills": 1,
+    "nfl-buf-la-2026-10-13::Rams": 1,
+    "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills": 1,
+    "nfl-buf-la-2026-10-13-total-52pt5::Over": 1
   },
-  "updated_at": "2026-10-13T03:30:45.046308+00:00"
+  "updated_at": "2026-10-13T11:00:50.492925+00:00"
 }

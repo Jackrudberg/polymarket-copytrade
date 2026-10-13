@@ -54218,7 +54218,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 131953.7,
       "traders": [
@@ -54226,7 +54226,8 @@
         "NS13",
         "scootergene"
       ],
-      "url": "https://polymarket.com/event/mlb-lad-mil-2026-10-12"
+      "url": "https://polymarket.com/event/mlb-lad-mil-2026-10-12",
+      "consensus_lost_at": "2026-10-13T11:00:50.445267+00:00"
     },
     {
       "signal_id": "nfl-buf-la-2026-10-13::Bills",
@@ -54331,7 +54332,104 @@
         "takeormake"
       ],
       "url": "https://polymarket.com/event/nfl-buf-la-2026-10-13-total-52pt5"
+    },
+    {
+      "signal_id": "lol-we-fly-2026-10-13::Team WE",
+      "market": "LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs",
+      "slug": "lol-we-fly-2026-10-13",
+      "side": "Team WE",
+      "alerted_at": "2026-10-13T11:00:50.445267+00:00",
+      "last_seen": "2026-10-13T11:00:50.445267+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 19979.17,
+      "traders": [
+        "Nooserac",
+        "-Pain",
+        "itsonlyamatteroftime",
+        "cigarettes"
+      ],
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13"
+    },
+    {
+      "signal_id": "lol-we-fly-2026-10-13-game4::FlyQuest",
+      "market": "LoL: Team WE vs FlyQuest - Game 4 Winner",
+      "slug": "lol-we-fly-2026-10-13-game4",
+      "side": "FlyQuest",
+      "alerted_at": "2026-10-13T11:00:50.445267+00:00",
+      "last_seen": "2026-10-13T11:00:50.445267+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 19752.03,
+      "traders": [
+        "fkigedgjdgwbg",
+        "Anjun",
+        "takeormake"
+      ],
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13-game4"
+    },
+    {
+      "signal_id": "lol-we-fly-2026-10-13-game2::Team WE",
+      "market": "LoL: Team WE vs FlyQuest - Game 2 Winner",
+      "slug": "lol-we-fly-2026-10-13-game2",
+      "side": "Team WE",
+      "alerted_at": "2026-10-13T11:00:50.445267+00:00",
+      "last_seen": "2026-10-13T11:00:50.445267+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10518.84,
+      "traders": [
+        "Nooserac",
+        "takeormake",
+        "itsonlyamatteroftime"
+      ],
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13-game2"
+    },
+    {
+      "signal_id": "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No",
+      "market": "Will Georgia Bulldogs win the 2027 CFP National Championship?",
+      "slug": "will-georgia-bulldogs-win-the-2027-cfp-national-championship",
+      "side": "No",
+      "alerted_at": "2026-10-13T11:00:50.445267+00:00",
+      "last_seen": "2026-10-13T11:00:50.445267+00:00",
+      "entry_price": 0.8065,
+      "current_price": 0.8065,
+      "stake": 100.0,
+      "shares": 123.99256,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9986.47,
+      "traders": [
+        "Nooserac",
+        "cigarettes",
+        "milkteaboba"
+      ],
+      "url": "https://polymarket.com/event/will-georgia-bulldogs-win-the-2027-cfp-national-championship"
     }
   ],
-  "updated_at": "2026-10-13T03:30:45.018215+00:00"
+  "updated_at": "2026-10-13T11:00:50.445267+00:00"
 }
