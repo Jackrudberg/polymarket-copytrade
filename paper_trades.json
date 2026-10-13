@@ -54165,7 +54165,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 5,
       "combined_value": 205700.49,
       "traders": [
@@ -54175,7 +54175,8 @@
         "qidao001",
         "fortnitethegoat667"
       ],
-      "url": "https://polymarket.com/event/lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5"
+      "url": "https://polymarket.com/event/lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5",
+      "consensus_lost_at": "2026-10-13T03:30:45.018215+00:00"
     },
     {
       "signal_id": "lol-fox1-jdg-2026-10-12::BNK FEARX",
@@ -54191,7 +54192,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 102146.83,
       "traders": [
@@ -54200,7 +54201,8 @@
         "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
         "enpirugbrpti"
       ],
-      "url": "https://polymarket.com/event/lol-fox1-jdg-2026-10-12"
+      "url": "https://polymarket.com/event/lol-fox1-jdg-2026-10-12",
+      "consensus_lost_at": "2026-10-13T03:30:45.018215+00:00"
     },
     {
       "signal_id": "mlb-lad-mil-2026-10-12::Milwaukee Brewers",
@@ -54225,7 +54227,111 @@
         "scootergene"
       ],
       "url": "https://polymarket.com/event/mlb-lad-mil-2026-10-12"
+    },
+    {
+      "signal_id": "nfl-buf-la-2026-10-13::Bills",
+      "market": "Bills vs. Rams",
+      "slug": "nfl-buf-la-2026-10-13",
+      "side": "Bills",
+      "alerted_at": "2026-10-13T03:30:45.018215+00:00",
+      "last_seen": "2026-10-13T03:30:45.018215+00:00",
+      "entry_price": 0.255,
+      "current_price": 0.255,
+      "stake": 100.0,
+      "shares": 392.156863,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 9,
+      "combined_value": 562061.0,
+      "traders": [
+        "BreakTheBank",
+        "mooseborzoii",
+        "Noprajsk",
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "takeormake",
+        "3648393489047",
+        "Nooserac",
+        "TAIWANNUMBERONE",
+        "cigarettes"
+      ],
+      "url": "https://polymarket.com/event/nfl-buf-la-2026-10-13"
+    },
+    {
+      "signal_id": "nfl-buf-la-2026-10-13::Rams",
+      "market": "Bills vs. Rams",
+      "slug": "nfl-buf-la-2026-10-13",
+      "side": "Rams",
+      "alerted_at": "2026-10-13T03:30:45.018215+00:00",
+      "last_seen": "2026-10-13T03:30:45.018215+00:00",
+      "entry_price": 0.745,
+      "current_price": 0.745,
+      "stake": 100.0,
+      "shares": 134.228188,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 884218.56,
+      "traders": [
+        "mooseborzoii",
+        "takeormake",
+        "printmon",
+        "TAIWANNUMBERONE",
+        "Cypya"
+      ],
+      "url": "https://polymarket.com/event/nfl-buf-la-2026-10-13"
+    },
+    {
+      "signal_id": "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills",
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-buf-la-2026-10-13-spread-home-3pt5",
+      "side": "Bills",
+      "alerted_at": "2026-10-13T03:30:45.018215+00:00",
+      "last_seen": "2026-10-13T03:30:45.018215+00:00",
+      "entry_price": 0.834997,
+      "current_price": 0.834997,
+      "stake": 100.0,
+      "shares": 119.760924,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 463933.06,
+      "traders": [
+        "BreakTheBank",
+        "mooseborzoii",
+        "takeormake"
+      ],
+      "url": "https://polymarket.com/event/nfl-buf-la-2026-10-13-spread-home-3pt5"
+    },
+    {
+      "signal_id": "nfl-buf-la-2026-10-13-total-52pt5::Over",
+      "market": "Bills vs. Rams: O/U 52.5",
+      "slug": "nfl-buf-la-2026-10-13-total-52pt5",
+      "side": "Over",
+      "alerted_at": "2026-10-13T03:30:45.018215+00:00",
+      "last_seen": "2026-10-13T03:30:45.018215+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 14303.84,
+      "traders": [
+        "printmon",
+        "Cypya",
+        "takeormake"
+      ],
+      "url": "https://polymarket.com/event/nfl-buf-la-2026-10-13-total-52pt5"
     }
   ],
-  "updated_at": "2026-10-12T23:04:59.500697+00:00"
+  "updated_at": "2026-10-13T03:30:45.018215+00:00"
 }

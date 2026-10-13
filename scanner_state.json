@@ -1,8 +1,187 @@
 {
   "seen_ids": [
-    "mlb-lad-mil-2026-10-12::Milwaukee Brewers"
+    "nfl-buf-la-2026-10-13::Bills",
+    "nfl-buf-la-2026-10-13::Rams",
+    "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills",
+    "nfl-buf-la-2026-10-13-total-52pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Bills vs. Rams",
+      "slug": "nfl-buf-la-2026-10-13",
+      "outcome": "Bills",
+      "num_traders": 9,
+      "total_value": 562061.0,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3454,
+          "value": 314032.94,
+          "avg_price": 0.4777,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.1715,
+          "value": 100988.01,
+          "avg_price": 0.5,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "Noprajsk",
+          "roi": 0.3476,
+          "value": 49596.2,
+          "avg_price": 0.43,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.2538,
+          "value": 29178.39,
+          "avg_price": 0.5031,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.1748,
+          "value": 23435.35,
+          "avg_price": 0.4344,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "3648393489047",
+          "roi": 0.2146,
+          "value": 23138.73,
+          "avg_price": 0.4745,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.2229,
+          "value": 10200,
+          "avg_price": 0.5746,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1986,
+          "value": 8724.63,
+          "avg_price": 0.6821,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "cigarettes",
+          "roi": 0.2739,
+          "value": 2766.75,
+          "avg_price": 0.3978,
+          "cur_price": 0.255
+        }
+      ]
+    },
+    {
+      "market": "Bills vs. Rams",
+      "slug": "nfl-buf-la-2026-10-13",
+      "outcome": "Rams",
+      "num_traders": 5,
+      "total_value": 884218.56,
+      "holders": [
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.1715,
+          "value": 819427.06,
+          "avg_price": 0.4494,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.1748,
+          "value": 37589.27,
+          "avg_price": 0.4423,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "printmon",
+          "roi": 0.28,
+          "value": 18330.72,
+          "avg_price": 0.5735,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.1986,
+          "value": 5891.51,
+          "avg_price": 0.6099,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "Cypya",
+          "roi": 0.3074,
+          "value": 2980,
+          "avg_price": 0.47,
+          "cur_price": 0.745
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rams (-3.5)",
+      "slug": "nfl-buf-la-2026-10-13-spread-home-3pt5",
+      "outcome": "Bills",
+      "num_traders": 3,
+      "total_value": 463933.06,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.3454,
+          "value": 341565.45,
+          "avg_price": 0.5297,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.1715,
+          "value": 122079.6,
+          "avg_price": 0.5199,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.1748,
+          "value": 288.01,
+          "avg_price": 0.5,
+          "cur_price": 0.83
+        }
+      ]
+    },
+    {
+      "market": "Bills vs. Rams: O/U 52.5",
+      "slug": "nfl-buf-la-2026-10-13-total-52pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 14303.84,
+      "holders": [
+        {
+          "trader": "printmon",
+          "roi": 0.28,
+          "value": 10554.72,
+          "avg_price": 0.4012,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Cypya",
+          "roi": 0.3074,
+          "value": 3258.37,
+          "avg_price": 0.41,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "takeormake",
+          "roi": 0.1748,
+          "value": 490.75,
+          "avg_price": 0.3954,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Los Angeles Dodgers vs. Milwaukee Brewers",
       "slug": "mlb-lad-mil-2026-10-12",
@@ -111,66 +290,6 @@
           "value": 4639.44,
           "avg_price": 0.5099,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
-      "slug": "atp-lehecka-jodar-2026-10-11",
-      "outcome": "Jiri Lehecka",
-      "num_traders": 3,
-      "total_value": 7856.28,
-      "holders": [
-        {
-          "trader": "Idontwantausername",
-          "roi": 0.3905,
-          "value": 5183.19,
-          "avg_price": 0.7499,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1978,
-          "value": 2389.95,
-          "avg_price": 0.7858,
-          "cur_price": 0.775
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2867,
-          "value": 283.14,
-          "avg_price": 0.5566,
-          "cur_price": 0.775
-        }
-      ]
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Milwaukee Brewers",
-      "slug": "mlb-lad-mil-2026-10-12",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 3279.14,
-      "holders": [
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1978,
-          "value": 2693.8,
-          "avg_price": 0.54,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2867,
-          "value": 297.08,
-          "avg_price": 0.5275,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.6281,
-          "value": 288.26,
-          "avg_price": 0.5499,
-          "cur_price": 0.555
         }
       ]
     }
@@ -2542,10 +2661,11 @@
     "nfl-det-ari-2026-10-11::Lions": 3,
     "bra-cam-san-2026-10-11-san::No": 3,
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Chargers": 3,
-    "atp-lehecka-jodar-2026-10-11::Jiri Lehecka": 2,
-    "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 2,
-    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 1,
-    "lol-fox1-jdg-2026-10-12::BNK FEARX": 1
+    "atp-lehecka-jodar-2026-10-11::Jiri Lehecka": 3,
+    "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 3,
+    "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 2,
+    "lol-fox1-jdg-2026-10-12::BNK FEARX": 2,
+    "mlb-lad-mil-2026-10-12::Milwaukee Brewers": 1
   },
-  "updated_at": "2026-10-12T23:04:59.548253+00:00"
+  "updated_at": "2026-10-13T03:30:45.046308+00:00"
 }
