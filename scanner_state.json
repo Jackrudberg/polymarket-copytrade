@@ -1,11 +1,176 @@
 {
   "seen_ids": [
-    "lol-we-fly-2026-10-13::Team WE",
-    "lol-we-fly-2026-10-13-game4::FlyQuest",
-    "lol-we-fly-2026-10-13-game2::Team WE",
-    "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No"
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No",
+    "clarity-act-signed-into-law-in-2026::Yes",
+    "will-the-republicans-win-the-maine-senate-race-in-2026::No"
   ],
   "signals": [
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 1244864.89,
+      "holders": [
+        {
+          "trader": "fortnitethegoat667",
+          "roi": 0.4193,
+          "value": 1110362.69,
+          "avg_price": 0.5,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5916,
+          "value": 99103.77,
+          "avg_price": 0.6398,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.152,
+          "value": 21260.3,
+          "avg_price": 0.4138,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.2389,
+          "value": 14138.13,
+          "avg_price": 0.4394,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 36603.42,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.152,
+          "value": 19168.96,
+          "avg_price": 0.4599,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.5916,
+          "value": 10927.11,
+          "avg_price": 0.62,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.172,
+          "value": 5799.31,
+          "avg_price": 0.53,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.1757,
+          "value": 708.04,
+          "avg_price": 0.6259,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Billionaire one-time wealth tax passes in California election 2026?",
+      "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 128374.49,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.152,
+          "value": 107583.11,
+          "avg_price": 0.6289,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.172,
+          "value": 20514.54,
+          "avg_price": 0.5657,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.1757,
+          "value": 276.84,
+          "avg_price": 0.6086,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 36253.25,
+      "holders": [
+        {
+          "trader": "wan123",
+          "roi": 0.152,
+          "value": 32665.78,
+          "avg_price": 0.1108,
+          "cur_price": 0.0605
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.172,
+          "value": 3025.0,
+          "avg_price": 0.15,
+          "cur_price": 0.0605
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.1757,
+          "value": 562.47,
+          "avg_price": 0.2213,
+          "cur_price": 0.0605
+        }
+      ]
+    },
+    {
+      "market": "Will the Republicans win the Maine Senate race in 2026?",
+      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 12289.64,
+      "holders": [
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.172,
+          "value": 11699.99,
+          "avg_price": 0.6799,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "lissartter",
+          "roi": 0.1757,
+          "value": 333.61,
+          "avg_price": 0.582,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "wan123",
+          "roi": 0.152,
+          "value": 256.04,
+          "avg_price": 0.61,
+          "cur_price": 0.585
+        }
+      ]
+    },
     {
       "market": "LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs",
       "slug": "lol-we-fly-2026-10-13",
@@ -306,36 +471,6 @@
           "value": 490.75,
           "avg_price": 0.3954,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Los Angeles Dodgers vs. Milwaukee Brewers",
-      "slug": "mlb-lad-mil-2026-10-12",
-      "outcome": "Milwaukee Brewers",
-      "num_traders": 3,
-      "total_value": 131953.7,
-      "holders": [
-        {
-          "trader": "Sassy-Bucket",
-          "roi": 2.3062,
-          "value": 120014.27,
-          "avg_price": 0.4598,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "NS13",
-          "roi": 0.3285,
-          "value": 10903.09,
-          "avg_price": 0.4599,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "scootergene",
-          "roi": 0.8829,
-          "value": 1036.34,
-          "avg_price": 0.6699,
-          "cur_price": 0.475
         }
       ]
     }
@@ -1535,7 +1670,6 @@
     "mlb-wsh-sd-2026-09-09-total-8pt5::Under": 3,
     "ucl-spo-gal-2026-09-09-spo::No": 3,
     "wta-andreev-gauff-2026-09-08::Mirra Andreeva": 3,
-    "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
     "atp-khachan-blockx-2026-09-09::Alexander Blockx": 3,
     "mlb-stl-sf-2026-09-09-total-8pt5::Under": 3,
     "ucl-nap-ars-2026-09-09-ars::No": 3,
@@ -2474,7 +2608,6 @@
     "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 3,
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
     "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "cs2-lg6-big5-2026-10-02::Luminosity": 3,
     "unl-bel-tur-2026-10-02-total-3pt5::Under": 3,
     "dota2-ts8-ty-2026-10-03::Team Spirit": 3,
@@ -2560,7 +2693,6 @@
     "will-renan-santos-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election::No": 3,
     "will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-183::Yes": 3,
     "nfl-lac-sea-2026-10-04-spread-home-7pt5::Seahawks": 3,
-    "clarity-act-signed-into-law-in-2026::Yes": 3,
     "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 3,
     "nfl-den-sf-2026-10-04::Broncos": 3,
     "bab-el-mandeb-strait-effectively-closed-by-december-31-983-117-222-252::No": 3,
@@ -2661,7 +2793,6 @@
     "cs2-fal2-ts7-2026-10-09::Team Falcons": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Broncos": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 3,
     "nfl-phi-jax-2026-10-11::Jaguars": 3,
     "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 3,
@@ -2711,11 +2842,15 @@
     "mlb-lad-mil-2026-10-12::Los Angeles Dodgers": 3,
     "lol-fox1-jdg-2026-10-12-game-handicap-away-1pt5::JD Gaming": 3,
     "lol-fox1-jdg-2026-10-12::BNK FEARX": 3,
-    "mlb-lad-mil-2026-10-12::Milwaukee Brewers": 2,
-    "nfl-buf-la-2026-10-13::Bills": 1,
-    "nfl-buf-la-2026-10-13::Rams": 1,
-    "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills": 1,
-    "nfl-buf-la-2026-10-13-total-52pt5::Over": 1
+    "mlb-lad-mil-2026-10-12::Milwaukee Brewers": 3,
+    "nfl-buf-la-2026-10-13::Bills": 2,
+    "nfl-buf-la-2026-10-13::Rams": 2,
+    "nfl-buf-la-2026-10-13-spread-home-3pt5::Bills": 2,
+    "nfl-buf-la-2026-10-13-total-52pt5::Over": 2,
+    "lol-we-fly-2026-10-13::Team WE": 1,
+    "lol-we-fly-2026-10-13-game4::FlyQuest": 1,
+    "lol-we-fly-2026-10-13-game2::Team WE": 1,
+    "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No": 1
   },
-  "updated_at": "2026-10-13T11:00:50.492925+00:00"
+  "updated_at": "2026-10-13T18:08:49.964072+00:00"
 }
