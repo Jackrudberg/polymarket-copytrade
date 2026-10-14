@@ -1,13 +1,314 @@
 {
   "seen_ids": [
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
-    "cs2-lgc-prv-2026-10-14::Legacy",
-    "nhl-dal-col-2026-10-14::Avalanche",
-    "clarity-act-signed-into-law-in-2026::Yes"
+    "ucl-rom-rma-2026-10-14-rma::No",
+    "ucl-mnc-psg-2026-10-14-mnc::No",
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No",
+    "ucl-mnc-psg-2026-10-14-total-3pt5::Over",
+    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes",
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "ucl-rom-rma-2026-10-14-rma::Yes",
+    "mlb-mil-lad-2026-10-14::Los Angeles Dodgers",
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos"
   ],
   "signals": [
+    {
+      "market": "Will Real Madrid CF win on 2026-10-14?",
+      "slug": "ucl-rom-rma-2026-10-14-rma",
+      "outcome": "No",
+      "num_traders": 6,
+      "total_value": 221673.68,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 146299.98,
+          "avg_price": 0.4863,
+          "cur_price": 0.133
+        },
+        {
+          "trader": "RJW1",
+          "roi": 0.3994,
+          "value": 44767.5,
+          "avg_price": 0.5092,
+          "cur_price": 0.1315
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.3513,
+          "value": 12651.17,
+          "avg_price": 0.49,
+          "cur_price": 0.127
+        },
+        {
+          "trader": "Jsram",
+          "roi": 0.3234,
+          "value": 11701.25,
+          "avg_price": 0.5062,
+          "cur_price": 0.1265
+        },
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 4304.98,
+          "avg_price": 0.49,
+          "cur_price": 0.123
+        },
+        {
+          "trader": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
+          "roi": 0.3464,
+          "value": 1948.8,
+          "avg_price": 0.4942,
+          "cur_price": 0.116
+        }
+      ]
+    },
+    {
+      "market": "Will Manchester City FC win on 2026-10-14?",
+      "slug": "ucl-mnc-psg-2026-10-14-mnc",
+      "outcome": "No",
+      "num_traders": 4,
+      "total_value": 981127.19,
+      "holders": [
+        {
+          "trader": "Jsram",
+          "roi": 0.3234,
+          "value": 470264.25,
+          "avg_price": 0.5242,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "RJW1",
+          "roi": 0.3994,
+          "value": 281567.36,
+          "avg_price": 0.5414,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.3513,
+          "value": 195979.81,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 33315.77,
+          "avg_price": 0.52,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 678604.04,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 361467.4,
+          "avg_price": 0.7099,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.3513,
+          "value": 297261.64,
+          "avg_price": 0.707,
+          "cur_price": 0.795
+        },
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 19875,
+          "avg_price": 0.78,
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5",
+      "slug": "ucl-mnc-psg-2026-10-14-total-3pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 355513.5,
+      "holders": [
+        {
+          "trader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+          "roi": 0.2226,
+          "value": 338105.11,
+          "avg_price": 0.5075,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
+          "roi": 0.3464,
+          "value": 15704.84,
+          "avg_price": 0.49,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3927,
+          "value": 1703.55,
+          "avg_price": 0.46,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?",
+      "slug": "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 273219.55,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 250000,
+          "avg_price": 0.0308,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 13749.97,
+          "avg_price": 0.59,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.3513,
+          "value": 9469.58,
+          "avg_price": 0.4608,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 134201.18,
+      "holders": [
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 117474.76,
+          "avg_price": 0.6399,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 10927.11,
+          "avg_price": 0.62,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3835,
+          "value": 5799.31,
+          "avg_price": 0.53,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Will Real Madrid CF win on 2026-10-14?",
+      "slug": "ucl-rom-rma-2026-10-14-rma",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 132597.76,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 114026.05,
+          "avg_price": 0.49,
+          "cur_price": 0.867
+        },
+        {
+          "trader": "LinkE5",
+          "roi": 0.286,
+          "value": 12331.4,
+          "avg_price": 0.5,
+          "cur_price": 0.8805
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3927,
+          "value": 6240.31,
+          "avg_price": 0.5,
+          "cur_price": 0.877
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-10-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 68527.39,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.2356,
+          "value": 57475,
+          "avg_price": 0.61,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3835,
+          "value": 9075,
+          "avg_price": 0.61,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3927,
+          "value": 1977.39,
+          "avg_price": 0.61,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Spread: Seahawks (-2.5)",
+      "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
+      "outcome": "Broncos",
+      "num_traders": 3,
+      "total_value": 40323.64,
+      "holders": [
+        {
+          "trader": "Siddhartha1",
+          "roi": 0.2541,
+          "value": 37125,
+          "avg_price": 0.4999,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.1854,
+          "value": 1819.16,
+          "avg_price": 0.4899,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.7265,
+          "value": 1379.48,
+          "avg_price": 0.4799,
+          "cur_price": 0.495
+        }
+      ]
+    },
     {
       "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
@@ -192,36 +493,6 @@
           "value": 428.06,
           "avg_price": 0.1299,
           "cur_price": 0.0635
-        }
-      ]
-    },
-    {
-      "market": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
-      "slug": "cs2-9z-aur1-2026-10-14",
-      "outcome": "9z",
-      "num_traders": 3,
-      "total_value": 11188.83,
-      "holders": [
-        {
-          "trader": "Anjun",
-          "roi": 0.1555,
-          "value": 5888.83,
-          "avg_price": 0.25,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "AppleTiime",
-          "roi": 0.2022,
-          "value": 2650,
-          "avg_price": 0.25,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "Greedo",
-          "roi": 0.1527,
-          "value": 2650,
-          "avg_price": 0.25,
-          "cur_price": 0.265
         }
       ]
     }
@@ -2350,8 +2621,6 @@
     "unl-bih-swe-2026-10-02-bih::No": 3,
     "wta-paolini-snigur-2026-10-01::Daria Snigur": 3,
     "will-marco-rubio-win-the-2028-us-presidential-election::Yes": 3,
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
-    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 3,
     "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes": 3,
     "will-renan-santos-win-the-2026-brazilian-presidential-election::No": 3,
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
@@ -2599,11 +2868,16 @@
     "lol-we-fly-2026-10-13-game4::FlyQuest": 3,
     "lol-we-fly-2026-10-13-game2::Team WE": 3,
     "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No": 3,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
     "will-the-republicans-win-the-maine-senate-race-in-2026::No": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
-    "cs2-9z-aur1-2026-10-14::9z": 2
+    "cs2-9z-aur1-2026-10-14::9z": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
+    "cs2-lgc-prv-2026-10-14::Legacy": 1,
+    "nhl-dal-col-2026-10-14::Avalanche": 1,
+    "clarity-act-signed-into-law-in-2026::Yes": 1
   },
-  "updated_at": "2026-10-14T17:22:20.002223+00:00"
+  "updated_at": "2026-10-14T20:50:44.495369+00:00"
 }
