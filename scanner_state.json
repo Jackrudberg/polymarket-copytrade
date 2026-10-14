@@ -1,6 +1,200 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
+    "cs2-lgc-prv-2026-10-14::Legacy",
+    "nhl-dal-col-2026-10-14::Avalanche",
+    "clarity-act-signed-into-law-in-2026::Yes"
+  ],
   "signals": [
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 682820.27,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2742,
+          "value": 395148.49,
+          "avg_price": 0.3941,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "MysticFind",
+          "roi": 0.1754,
+          "value": 203213.17,
+          "avg_price": 0.2849,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.0056,
+          "value": 72622.55,
+          "avg_price": 0.5062,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "tetrose",
+          "roi": 0.1595,
+          "value": 11836.06,
+          "avg_price": 0.2651,
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 291601.09,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2742,
+          "value": 192344.99,
+          "avg_price": 0.823,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "MysticFind",
+          "roi": 0.1754,
+          "value": 92723.98,
+          "avg_price": 0.535,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "The-Joker",
+          "roi": 1.0435,
+          "value": 6532.12,
+          "avg_price": 0.45,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 88092.85,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2742,
+          "value": 67402.48,
+          "avg_price": 0.3525,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.0056,
+          "value": 11039.97,
+          "avg_price": 0.1806,
+          "cur_price": 0.345
+        },
+        {
+          "trader": "MysticFind",
+          "roi": 0.1754,
+          "value": 9650.4,
+          "avg_price": 0.4031,
+          "cur_price": 0.345
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
+      "slug": "cs2-lgc-prv-2026-10-14",
+      "outcome": "Legacy",
+      "num_traders": 3,
+      "total_value": 54328.06,
+      "holders": [
+        {
+          "trader": "Wiretransferxyz",
+          "roi": 0.1616,
+          "value": 35799.98,
+          "avg_price": 0.56,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+          "roi": 0.2957,
+          "value": 17899.96,
+          "avg_price": 0.5575,
+          "cur_price": 0.895
+        },
+        {
+          "trader": "0x4f2",
+          "roi": 0.1753,
+          "value": 628.12,
+          "avg_price": 0.7708,
+          "cur_price": 0.895
+        }
+      ]
+    },
+    {
+      "market": "Stars vs. Avalanche",
+      "slug": "nhl-dal-col-2026-10-14",
+      "outcome": "Avalanche",
+      "num_traders": 3,
+      "total_value": 46605.01,
+      "holders": [
+        {
+          "trader": "chubbytoro",
+          "roi": 0.7381,
+          "value": 44928.38,
+          "avg_price": 0.575,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "0x4f2",
+          "roi": 0.1753,
+          "value": 991.22,
+          "avg_price": 0.57,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4048,
+          "value": 685.41,
+          "avg_price": 0.5499,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 4173.07,
+      "holders": [
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4048,
+          "value": 3175.0,
+          "avg_price": 0.15,
+          "cur_price": 0.0635
+        },
+        {
+          "trader": "tetrose",
+          "roi": 0.1595,
+          "value": 570.01,
+          "avg_price": 0.0508,
+          "cur_price": 0.0635
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2742,
+          "value": 428.06,
+          "avg_price": 0.1299,
+          "cur_price": 0.0635
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: 9z vs Aurora Gaming (BO3) - Thunderpick World Championship Group A",
       "slug": "cs2-9z-aur1-2026-10-14",
@@ -1308,13 +1502,11 @@
     "mlb-nyy-min-2026-09-16::Minnesota Twins": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::No": 3,
     "will-jd-vance-win-the-2028-us-presidential-election::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 3,
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::No": 3,
     "will-anthropic-ipo-by-december-31-2026-546-128-719::Yes": 3,
     "will-no-fed-rate-cuts-happen-in-2026::Yes": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "mlb-bal-nym-2026-09-16::Baltimore Orioles": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 3,
     "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026::Yes": 3,
     "wta-marista-ribera-2026-09-16::Marina Bassols Ribera": 3,
     "lol-tes-ig1-2026-09-17-game2::Top Esports": 3,
@@ -2162,7 +2354,6 @@
     "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 3,
     "will-jd-vance-win-the-2028-republican-presidential-nomination::Yes": 3,
     "will-renan-santos-win-the-2026-brazilian-presidential-election::No": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 3,
     "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641::Yes": 3,
     "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885::Yes": 3,
     "cs2-lg6-big5-2026-10-02::Luminosity": 3,
@@ -2410,10 +2601,9 @@
     "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No": 3,
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
-    "clarity-act-signed-into-law-in-2026::Yes": 3,
     "will-the-republicans-win-the-maine-senate-race-in-2026::No": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
-    "cs2-9z-aur1-2026-10-14::9z": 1
+    "cs2-9z-aur1-2026-10-14::9z": 2
   },
-  "updated_at": "2026-10-14T12:19:18.819032+00:00"
+  "updated_at": "2026-10-14T17:22:20.002223+00:00"
 }
