@@ -1,16 +1,90 @@
 {
   "seen_ids": [
-    "ucl-rom-rma-2026-10-14-rma::No",
-    "ucl-mnc-psg-2026-10-14-mnc::No",
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No",
-    "ucl-mnc-psg-2026-10-14-total-3pt5::Over",
-    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "ucl-rom-rma-2026-10-14-rma::Yes",
     "mlb-mil-lad-2026-10-14::Los Angeles Dodgers",
-    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos"
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes"
   ],
   "signals": [
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-10-14",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 6,
+      "total_value": 337752.94,
+      "holders": [
+        {
+          "trader": "joseph00677",
+          "roi": 0.2259,
+          "value": 248988.85,
+          "avg_price": 0.6138,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.1824,
+          "value": 58425,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Theshorty",
+          "roi": 0.889,
+          "value": 10081.97,
+          "avg_price": 0.6099,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.3337,
+          "value": 9225,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2536,
+          "value": 9022.05,
+          "avg_price": 0.6099,
+          "cur_price": 0.615
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2446,
+          "value": 2010.07,
+          "avg_price": 0.61,
+          "cur_price": 0.615
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 73808.73,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 0.6817,
+          "value": 59992.54,
+          "avg_price": 0.5062,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "ndb1",
+          "roi": 0.1964,
+          "value": 13669.97,
+          "avg_price": 0.6299,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2536,
+          "value": 146.22,
+          "avg_price": 0.34,
+          "cur_price": 0.285
+        }
+      ]
+    },
     {
       "market": "Will Real Madrid CF win on 2026-10-14?",
       "slug": "ucl-rom-rma-2026-10-14-rma",
@@ -250,36 +324,6 @@
       ]
     },
     {
-      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
-      "slug": "mlb-mil-lad-2026-10-14",
-      "outcome": "Los Angeles Dodgers",
-      "num_traders": 3,
-      "total_value": 68527.39,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2356,
-          "value": 57475,
-          "avg_price": 0.61,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3835,
-          "value": 9075,
-          "avg_price": 0.61,
-          "cur_price": 0.605
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.3927,
-          "value": 1977.39,
-          "avg_price": 0.61,
-          "cur_price": 0.605
-        }
-      ]
-    },
-    {
       "market": "Spread: Seahawks (-2.5)",
       "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
       "outcome": "Broncos",
@@ -306,43 +350,6 @@
           "value": 1379.48,
           "avg_price": 0.4799,
           "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 682820.27,
-      "holders": [
-        {
-          "trader": "Erasmus.",
-          "roi": 0.2742,
-          "value": 395148.49,
-          "avg_price": 0.3941,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "MysticFind",
-          "roi": 0.1754,
-          "value": 203213.17,
-          "avg_price": 0.2849,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 1.0056,
-          "value": 72622.55,
-          "avg_price": 0.5062,
-          "cur_price": 0.345
-        },
-        {
-          "trader": "tetrose",
-          "roi": 0.1595,
-          "value": 11836.06,
-          "avg_price": 0.2651,
-          "cur_price": 0.345
         }
       ]
     },
@@ -2872,12 +2879,19 @@
     "will-the-republicans-win-the-maine-senate-race-in-2026::No": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "cs2-9z-aur1-2026-10-14::9z": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
-    "cs2-lgc-prv-2026-10-14::Legacy": 1,
-    "nhl-dal-col-2026-10-14::Avalanche": 1,
-    "clarity-act-signed-into-law-in-2026::Yes": 1
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 2,
+    "cs2-lgc-prv-2026-10-14::Legacy": 2,
+    "nhl-dal-col-2026-10-14::Avalanche": 2,
+    "clarity-act-signed-into-law-in-2026::Yes": 2,
+    "ucl-rom-rma-2026-10-14-rma::No": 1,
+    "ucl-mnc-psg-2026-10-14-mnc::No": 1,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 1,
+    "ucl-mnc-psg-2026-10-14-total-3pt5::Over": 1,
+    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
+    "ucl-rom-rma-2026-10-14-rma::Yes": 1,
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos": 1
   },
-  "updated_at": "2026-10-14T20:50:44.495369+00:00"
+  "updated_at": "2026-10-14T23:31:35.781558+00:00"
 }
