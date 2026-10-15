@@ -1,6 +1,924 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "wta-svitoli-guo-2026-10-15::Hanyu Guo",
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
+    "uel-lep-lev-2026-10-15-lev::Yes",
+    "col-haj-aja-2026-10-15-aja::Yes",
+    "wta-paolini-kartal-2026-10-14::Sonay Kartal",
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
+    "will-ethereum-reach-3500-by-december-31-2026::No",
+    "will-ethereum-dip-to-2100-in-october-2026::No",
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
+    "will-ethereum-reach-2800-in-october-2026::No",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No",
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
+    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes",
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No",
+    "will-bitcoin-reach-87pt5k-in-october-2026::Yes",
+    "wta-paolini-kartal-2026-10-14::Jasmine Paolini",
+    "uel-rbs-mil1-2026-10-15-mil1::Yes",
+    "lol-we-bro2-2026-10-15::Team WE",
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Seahawks",
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes",
+    "nfl-sea-den-2026-10-16::Seahawks",
+    "nfl-chi-atl-2026-10-18::Bears",
+    "nfl-sea-den-2026-10-16::Broncos"
+  ],
   "signals": [
+    {
+      "market": "Wuhan Tennis Open: Elina Svitolina vs Hanyu Guo",
+      "slug": "wta-svitoli-guo-2026-10-15",
+      "outcome": "Hanyu Guo",
+      "num_traders": 5,
+      "total_value": 1977.96,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.3009,
+          "value": 592.86,
+          "avg_price": 0.1085,
+          "cur_price": 0.0735
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 542.65,
+          "avg_price": 0.1071,
+          "cur_price": 0.0735
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 484.68,
+          "avg_price": 0.123,
+          "cur_price": 0.0615
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 216.49,
+          "avg_price": 0.0981,
+          "cur_price": 0.0735
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2925,
+          "value": 141.28,
+          "avg_price": 0.09,
+          "cur_price": 0.0735
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 516088.46,
+      "holders": [
+        {
+          "trader": "corkmaster420blaezit",
+          "roi": 14.7096,
+          "value": 503417.37,
+          "avg_price": 0.5,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 6533.81,
+          "avg_price": 0.6286,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+          "roi": 0.5443,
+          "value": 5952.38,
+          "avg_price": 0.6299,
+          "cur_price": 0.625
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 184.9,
+          "avg_price": 0.61,
+          "cur_price": 0.625
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 91199.12,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 37535.53,
+          "avg_price": 0.7687,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 37429.54,
+          "avg_price": 0.7115,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 13416.95,
+          "avg_price": 0.6294,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 2817.1,
+          "avg_price": 0.5887,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+      "slug": "uel-lep-lev-2026-10-15-lev",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 43859.74,
+      "holders": [
+        {
+          "trader": "yabanci",
+          "roi": 0.4444,
+          "value": 33881.42,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 4414.9,
+          "avg_price": 0.6,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 4129.99,
+          "avg_price": 0.5924,
+          "cur_price": 0.595
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2925,
+          "value": 1433.43,
+          "avg_price": 0.59,
+          "cur_price": 0.595
+        }
+      ]
+    },
+    {
+      "market": "Will AFC Ajax win on 2026-10-15?",
+      "slug": "col-haj-aja-2026-10-15-aja",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 35934.84,
+      "holders": [
+        {
+          "trader": "yabanci",
+          "roi": 0.4444,
+          "value": 32775,
+          "avg_price": 0.57,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 1897.5,
+          "avg_price": 0.5802,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 1011.64,
+          "avg_price": 0.572,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 250.7,
+          "avg_price": 0.58,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
+      "slug": "wta-paolini-kartal-2026-10-14",
+      "outcome": "Sonay Kartal",
+      "num_traders": 4,
+      "total_value": 7500.45,
+      "holders": [
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.3009,
+          "value": 3830.42,
+          "avg_price": 0.4798,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 1556.31,
+          "avg_price": 0.4596,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 1100.44,
+          "avg_price": 0.4677,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 1013.28,
+          "avg_price": 0.4719,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 984062.42,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 487622.96,
+          "avg_price": 0.3397,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 374110.09,
+          "avg_price": 0.4145,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 122329.37,
+          "avg_price": 0.4488,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 132816.81,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 81729.23,
+          "avg_price": 0.2599,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 28506.14,
+          "avg_price": 0.2433,
+          "cur_price": 0.38
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 22581.44,
+          "avg_price": 0.35,
+          "cur_price": 0.38
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 103386.64,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 57277.99,
+          "avg_price": 0.635,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 36363.44,
+          "avg_price": 0.7529,
+          "cur_price": 0.835
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 9745.21,
+          "avg_price": 0.5777,
+          "cur_price": 0.835
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,100 in October?",
+      "slug": "will-ethereum-dip-to-2100-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 61367.83,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 29616.2,
+          "avg_price": 0.8717,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 20601.17,
+          "avg_price": 0.8466,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 11150.46,
+          "avg_price": 0.8441,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 55338.14,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 28527.02,
+          "avg_price": 0.1686,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 23406.18,
+          "avg_price": 0.2383,
+          "cur_price": 0.195
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 3404.94,
+          "avg_price": 0.176,
+          "cur_price": 0.195
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $2,800 in October?",
+      "slug": "will-ethereum-reach-2800-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 37928.54,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 18901.31,
+          "avg_price": 0.4359,
+          "cur_price": 0.88
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 12345.27,
+          "avg_price": 0.3866,
+          "cur_price": 0.88
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 6681.96,
+          "avg_price": 0.2004,
+          "cur_price": 0.88
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 36418.79,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 25562.31,
+          "avg_price": 0.6168,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 6277.57,
+          "avg_price": 0.6755,
+          "cur_price": 0.715
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 4578.91,
+          "avg_price": 0.6875,
+          "cur_price": 0.715
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 29373.8,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 25042.88,
+          "avg_price": 0.5866,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 2202.4,
+          "avg_price": 0.3854,
+          "cur_price": 0.635
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 2128.52,
+          "avg_price": 0.5967,
+          "cur_price": 0.635
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 24951.57,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 15187.08,
+          "avg_price": 0.1756,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 5841.64,
+          "avg_price": 0.3388,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 3922.85,
+          "avg_price": 0.3838,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Will the Milwaukee Brewers win the 2026 World Series?",
+      "slug": "will-the-milwaukee-brewers-win-the-2026-world-series",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21687.76,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 11581.14,
+          "avg_price": 0.161,
+          "cur_price": 0.569
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 6208.96,
+          "avg_price": 0.0379,
+          "cur_price": 0.569
+        },
+        {
+          "trader": "TAIWANNUMBERONE",
+          "roi": 0.206,
+          "value": 3897.66,
+          "avg_price": 0.44,
+          "cur_price": 0.569
+        }
+      ]
+    },
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 21018.27,
+      "holders": [
+        {
+          "trader": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+          "roi": 0.5443,
+          "value": 11605.1,
+          "avg_price": 0.5864,
+          "cur_price": 0.8295
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 9091.32,
+          "avg_price": 0.6955,
+          "cur_price": 0.8295
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 321.85,
+          "avg_price": 0.402,
+          "cur_price": 0.8295
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 20783.49,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 18052.03,
+          "avg_price": 0.383,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 2585.24,
+          "avg_price": 0.1976,
+          "cur_price": 0.285
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 146.22,
+          "avg_price": 0.34,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,000 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 15034.91,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 12515.0,
+          "avg_price": 0.3282,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "getbipped",
+          "roi": 3.3174,
+          "value": 2074.65,
+          "avg_price": 0.4093,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 445.26,
+          "avg_price": 0.4299,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $87,500 in October?",
+      "slug": "will-bitcoin-reach-87pt5k-in-october-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8574.09,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.4715,
+          "value": 6400.51,
+          "avg_price": 0.8648,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 1987.47,
+          "avg_price": 0.6202,
+          "cur_price": 0.255
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.8777,
+          "value": 186.11,
+          "avg_price": 0.38,
+          "cur_price": 0.255
+        }
+      ]
+    },
+    {
+      "market": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
+      "slug": "wta-paolini-kartal-2026-10-14",
+      "outcome": "Jasmine Paolini",
+      "num_traders": 3,
+      "total_value": 8245.77,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.898,
+          "value": 7042.93,
+          "avg_price": 0.5299,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 1011.96,
+          "avg_price": 0.5376,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.3009,
+          "value": 190.88,
+          "avg_price": 0.5299,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Will AC Milan win on 2026-10-15?",
+      "slug": "uel-rbs-mil1-2026-10-15-mil1",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7124.28,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 3915.41,
+          "avg_price": 0.4775,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 2965.78,
+          "avg_price": 0.4886,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 243.09,
+          "avg_price": 0.45,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+      "slug": "lol-we-bro2-2026-10-15",
+      "outcome": "Team WE",
+      "num_traders": 3,
+      "total_value": 4198.27,
+      "holders": [
+        {
+          "trader": "Zzzz87",
+          "roi": 0.8487,
+          "value": 2131.93,
+          "avg_price": 0.448,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 1878.77,
+          "avg_price": 0.44,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.3009,
+          "value": 187.57,
+          "avg_price": 0.4549,
+          "cur_price": 0.435
+        }
+      ]
+    },
+    {
+      "market": "Spread: Seahawks (-2.5)",
+      "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
+      "outcome": "Seahawks",
+      "num_traders": 3,
+      "total_value": 3893.55,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 1767.5,
+          "avg_price": 0.525,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2925,
+          "value": 1590.75,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 535.3,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 3414.45,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 1865.62,
+          "avg_price": 0.4071,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 1024.95,
+          "avg_price": 0.4032,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.4489,
+          "value": 523.88,
+          "avg_price": 0.3758,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Seahawks vs. Broncos",
+      "slug": "nfl-sea-den-2026-10-16",
+      "outcome": "Seahawks",
+      "num_traders": 3,
+      "total_value": 2628.5,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 1206.12,
+          "avg_price": 0.5974,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 988.67,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.2925,
+          "value": 433.71,
+          "avg_price": 0.56,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Bears vs. Falcons",
+      "slug": "nfl-chi-atl-2026-10-18",
+      "outcome": "Bears",
+      "num_traders": 3,
+      "total_value": 2597.68,
+      "holders": [
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 1515.64,
+          "avg_price": 0.5758,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 1.0394,
+          "value": 815.27,
+          "avg_price": 0.5653,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 266.77,
+          "avg_price": 0.6027,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Seahawks vs. Broncos",
+      "slug": "nfl-sea-den-2026-10-16",
+      "outcome": "Broncos",
+      "num_traders": 3,
+      "total_value": 2305.52,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.3733,
+          "value": 1738.07,
+          "avg_price": 0.4199,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.5023,
+          "value": 364.96,
+          "avg_price": 0.4199,
+          "cur_price": 0.435
+        },
+        {
+          "trader": "NM-P",
+          "roi": 0.3739,
+          "value": 202.49,
+          "avg_price": 0.41,
+          "cur_price": 0.435
+        }
+      ]
+    },
     {
       "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
       "slug": "mlb-mil-lad-2026-10-14",
@@ -49,304 +967,6 @@
           "value": 2010.07,
           "avg_price": 0.61,
           "cur_price": 0.615
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 73808.73,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.6817,
-          "value": 59992.54,
-          "avg_price": 0.5062,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.1964,
-          "value": 13669.97,
-          "avg_price": 0.6299,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2536,
-          "value": 146.22,
-          "avg_price": 0.34,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Will Real Madrid CF win on 2026-10-14?",
-      "slug": "ucl-rom-rma-2026-10-14-rma",
-      "outcome": "No",
-      "num_traders": 6,
-      "total_value": 221673.68,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 146299.98,
-          "avg_price": 0.4863,
-          "cur_price": 0.133
-        },
-        {
-          "trader": "RJW1",
-          "roi": 0.3994,
-          "value": 44767.5,
-          "avg_price": 0.5092,
-          "cur_price": 0.1315
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3513,
-          "value": 12651.17,
-          "avg_price": 0.49,
-          "cur_price": 0.127
-        },
-        {
-          "trader": "Jsram",
-          "roi": 0.3234,
-          "value": 11701.25,
-          "avg_price": 0.5062,
-          "cur_price": 0.1265
-        },
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 4304.98,
-          "avg_price": 0.49,
-          "cur_price": 0.123
-        },
-        {
-          "trader": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
-          "roi": 0.3464,
-          "value": 1948.8,
-          "avg_price": 0.4942,
-          "cur_price": 0.116
-        }
-      ]
-    },
-    {
-      "market": "Will Manchester City FC win on 2026-10-14?",
-      "slug": "ucl-mnc-psg-2026-10-14-mnc",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 981127.19,
-      "holders": [
-        {
-          "trader": "Jsram",
-          "roi": 0.3234,
-          "value": 470264.25,
-          "avg_price": 0.5242,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "RJW1",
-          "roi": 0.3994,
-          "value": 281567.36,
-          "avg_price": 0.5414,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3513,
-          "value": 195979.81,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 33315.77,
-          "avg_price": 0.52,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
-      "slug": "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 678604.04,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 361467.4,
-          "avg_price": 0.7099,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3513,
-          "value": 297261.64,
-          "avg_price": 0.707,
-          "cur_price": 0.795
-        },
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 19875,
-          "avg_price": 0.78,
-          "cur_price": 0.795
-        }
-      ]
-    },
-    {
-      "market": "Manchester City FC vs. Paris Saint-Germain FC: O/U 3.5",
-      "slug": "ucl-mnc-psg-2026-10-14-total-3pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 355513.5,
-      "holders": [
-        {
-          "trader": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-          "roi": 0.2226,
-          "value": 338105.11,
-          "avg_price": 0.5075,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x73bcd24d510Ff4e4D5FEac6aec763C5511E246CE-1767607363396",
-          "roi": 0.3464,
-          "value": 15704.84,
-          "avg_price": 0.49,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.3927,
-          "value": 1703.55,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?",
-      "slug": "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 273219.55,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 250000,
-          "avg_price": 0.0308,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 13749.97,
-          "avg_price": 0.59,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "ndb1",
-          "roi": 0.3513,
-          "value": 9469.58,
-          "avg_price": 0.4608,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 134201.18,
-      "holders": [
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 117474.76,
-          "avg_price": 0.6399,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 10927.11,
-          "avg_price": 0.62,
-          "cur_price": 0.635
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.3835,
-          "value": 5799.31,
-          "avg_price": 0.53,
-          "cur_price": 0.635
-        }
-      ]
-    },
-    {
-      "market": "Will Real Madrid CF win on 2026-10-14?",
-      "slug": "ucl-rom-rma-2026-10-14-rma",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 132597.76,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 114026.05,
-          "avg_price": 0.49,
-          "cur_price": 0.867
-        },
-        {
-          "trader": "LinkE5",
-          "roi": 0.286,
-          "value": 12331.4,
-          "avg_price": 0.5,
-          "cur_price": 0.8805
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.3927,
-          "value": 6240.31,
-          "avg_price": 0.5,
-          "cur_price": 0.877
-        }
-      ]
-    },
-    {
-      "market": "Spread: Seahawks (-2.5)",
-      "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
-      "outcome": "Broncos",
-      "num_traders": 3,
-      "total_value": 40323.64,
-      "holders": [
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.2541,
-          "value": 37125,
-          "avg_price": 0.4999,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.1854,
-          "value": 1819.16,
-          "avg_price": 0.4899,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.7265,
-          "value": 1379.48,
-          "avg_price": 0.4799,
-          "cur_price": 0.495
         }
       ]
     }
@@ -2556,7 +3176,6 @@
     "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election::No": 3,
     "will-flavio-bolsonaro-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election::Yes": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::No": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::Yes": 3,
     "nfl-den-sf-2026-10-04::49ers": 3,
     "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election::No": 3,
@@ -2618,7 +3237,6 @@
     "bra-bra-mir-2026-10-07-bra::No": 3,
     "col2-leo-bar-2026-10-07-leo::Yes": 3,
     "epl-ars-lee-2026-10-10-ars::No": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "mlb-mil-sd-2026-10-07::San Diego Padres": 3,
     "mlb-tb-nyy-2026-10-07::Tampa Bay Rays": 3,
     "mlb-mil-sd-2026-10-07::Milwaukee Brewers": 3,
@@ -2631,14 +3249,7 @@
     "aze2-sab-kev-2026-10-08-spread-home-1pt5::FK Karvan Yevlakh": 3,
     "dota2-pari-ty-2026-10-08-game1::PARIVISION": 3,
     "nfl-tb-dal-2026-10-09::Buccaneers": 3,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 3,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
-    "will-ethereum-dip-to-2100-in-october-2026::No": 3,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
-    "will-ethereum-reach-2800-in-october-2026::No": 3,
     "mlb-cle-cws-2026-10-08::Chicago White Sox": 3,
-    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 3,
     "atp-djokovi-hurkacz-2026-10-09::Hubert Hurkacz": 3,
     "atp-djokovi-hurkacz-2026-10-09::Novak Djokovic": 3,
     "lal-lev-bil-2026-09-16-lev::No": 3,
@@ -2664,7 +3275,6 @@
     "cs2-fal2-ts7-2026-10-09::Team Falcons": 3,
     "will-the-us-invade-iran-before-2027::No": 3,
     "nfl-den-lac-2026-10-11-spread-away-3pt5::Broncos": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 3,
     "nfl-phi-jax-2026-10-11::Jaguars": 3,
     "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 3,
     "cfb-iowa-wash-2026-10-09::Iowa": 3,
@@ -2693,7 +3303,6 @@
     "nfl-det-ari-2026-10-11-total-54pt5::Under": 3,
     "cfb-hawaii-arzst-2026-10-10::Arizona State": 3,
     "atp-minaur-sakamot-2026-10-11::Rei Sakamoto": 3,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
     "dota2-ts8-pari-2026-10-11::Team Spirit": 3,
     "nfl-nyg-was-2026-10-11-spread-home-3pt5::Commanders": 3,
     "nfl-chi-gb-2026-10-11::Packers": 3,
@@ -2724,23 +3333,19 @@
     "will-georgia-bulldogs-win-the-2027-cfp-national-championship::No": 3,
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
     "will-the-republicans-win-the-maine-senate-race-in-2026::No": 3,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "cs2-9z-aur1-2026-10-14::9z": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 3,
     "cs2-lgc-prv-2026-10-14::Legacy": 3,
     "nhl-dal-col-2026-10-14::Avalanche": 3,
     "clarity-act-signed-into-law-in-2026::Yes": 3,
-    "ucl-rom-rma-2026-10-14-rma::No": 2,
-    "ucl-mnc-psg-2026-10-14-mnc::No": 2,
-    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 2,
-    "ucl-mnc-psg-2026-10-14-total-3pt5::Over": 2,
-    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 2,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
-    "ucl-rom-rma-2026-10-14-rma::Yes": 2,
-    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos": 2,
-    "mlb-mil-lad-2026-10-14::Los Angeles Dodgers": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1
+    "ucl-rom-rma-2026-10-14-rma::No": 3,
+    "ucl-mnc-psg-2026-10-14-mnc::No": 3,
+    "will-manchester-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428761::No": 3,
+    "ucl-mnc-psg-2026-10-14-total-3pt5::Over": 3,
+    "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 3,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
+    "ucl-rom-rma-2026-10-14-rma::Yes": 3,
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos": 3,
+    "mlb-mil-lad-2026-10-14::Los Angeles Dodgers": 2
   },
-  "updated_at": "2026-10-15T01:46:08.066490+00:00"
+  "updated_at": "2026-10-15T06:32:42.854488+00:00"
 }
