@@ -1,55 +1,111 @@
 {
   "seen_ids": [
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes",
-    "lol-c9-kc-2026-10-15-game2::Karmine Corp",
-    "lol-c9-kc-2026-10-15::Cloud9",
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No",
-    "uel-olm-oly-2026-10-15-oly::Yes",
+    "lol-c9-kc-2026-10-15-game4::Karmine Corp",
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
-    "uel-lep-lev-2026-10-15-lev::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
-    "cs2-lgc-furia-2026-10-15::Legacy",
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::Yes"
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes"
   ],
   "signals": [
+    {
+      "market": "LoL: Cloud9 vs Karmine Corp - Game 4 Winner",
+      "slug": "lol-c9-kc-2026-10-15-game4",
+      "outcome": "Karmine Corp",
+      "num_traders": 4,
+      "total_value": 109104.53,
+      "holders": [
+        {
+          "trader": "THEHIGHLIFE",
+          "roi": 0.1678,
+          "value": 69964.95,
+          "avg_price": 0.5357,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.2432,
+          "value": 26482.24,
+          "avg_price": 0.5661,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "S-Works",
+          "roi": 0.4588,
+          "value": 11993.96,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LinkE5",
+          "roi": 0.2833,
+          "value": 663.38,
+          "avg_price": 0.53,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 84498.86,
+      "holders": [
+        {
+          "trader": "TheReturnOfDarthMaul",
+          "roi": 1.0738,
+          "value": 57887.54,
+          "avg_price": 0.5062,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1995,
+          "value": 19036.17,
+          "avg_price": 0.3726,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.4763,
+          "value": 7434.06,
+          "avg_price": 0.2265,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2189,
+          "value": 141.09,
+          "avg_price": 0.34,
+          "cur_price": 0.275
+        }
+      ]
+    },
     {
       "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
       "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 259245.01,
+      "num_traders": 3,
+      "total_value": 444165.39,
       "holders": [
         {
+          "trader": "Abkhauae",
+          "roi": 0.1534,
+          "value": 204999.98,
+          "avg_price": 0.3492,
+          "cur_price": 0.205
+        },
+        {
           "trader": "eventalpha26",
-          "roi": 1.1735,
-          "value": 126809.3,
-          "avg_price": 0.1683,
-          "cur_price": 0.215
+          "roi": 0.8596,
+          "value": 121326.05,
+          "avg_price": 0.1709,
+          "cur_price": 0.205
         },
         {
           "trader": "TheReturnOfDarthMaul",
-          "roi": 0.7471,
-          "value": 123587.62,
+          "roi": 1.0738,
+          "value": 117839.36,
           "avg_price": 0.602,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "Greedo",
-          "roi": 0.2026,
-          "value": 5375.0,
-          "avg_price": 0.42,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "Bursted",
-          "roi": 0.1967,
-          "value": 3473.09,
-          "avg_price": 0.3644,
-          "cur_price": 0.215
+          "cur_price": 0.205
         }
       ]
     },
@@ -184,36 +240,6 @@
           "value": 114.77,
           "avg_price": 0.3199,
           "cur_price": 0.615
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 74262.45,
-      "holders": [
-        {
-          "trader": "TheReturnOfDarthMaul",
-          "roi": 0.7471,
-          "value": 55782.54,
-          "avg_price": 0.5062,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2085,
-          "value": 18343.95,
-          "avg_price": 0.3726,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2159,
-          "value": 135.96,
-          "avg_price": 0.34,
-          "cur_price": 0.265
         }
       ]
     },
@@ -484,657 +510,6 @@
           "value": 237.62,
           "avg_price": 0.58,
           "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
-      "slug": "lol-we-bro2-2026-10-15",
-      "outcome": "Team WE",
-      "num_traders": 5,
-      "total_value": 270213.25,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 0.425,
-          "value": 170460.59,
-          "avg_price": 0.4499,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "LinkE5",
-          "roi": 0.399,
-          "value": 49023.44,
-          "avg_price": 0.476,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "one8tyfive",
-          "roi": 0.3712,
-          "value": 43670.72,
-          "avg_price": 0.5501,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2999,
-          "value": 3700.26,
-          "avg_price": 0.448,
-          "cur_price": 0.755
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 3358.24,
-          "avg_price": 0.44,
-          "cur_price": 0.755
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs HANJIN BRION - Game 1 Winner",
-      "slug": "lol-we-bro2-2026-10-15-game1",
-      "outcome": "Team WE",
-      "num_traders": 4,
-      "total_value": 48001.46,
-      "holders": [
-        {
-          "trader": "DemonTimee",
-          "roi": 0.4281,
-          "value": 41088.25,
-          "avg_price": 0.4528,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2999,
-          "value": 5840.08,
-          "avg_price": 0.489,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.2412,
-          "value": 756.29,
-          "avg_price": 0.6099,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 316.84,
-          "avg_price": 0.4813,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
-      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1004999.92,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 497997.92,
-          "avg_price": 0.3397,
-          "cur_price": 0.72
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 382069.88,
-          "avg_price": 0.4145,
-          "cur_price": 0.72
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 124932.12,
-          "avg_price": 0.4488,
-          "cur_price": 0.72
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 131069.23,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 80653.85,
-          "avg_price": 0.2599,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 28131.06,
-          "avg_price": 0.2433,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 22284.32,
-          "avg_price": 0.35,
-          "cur_price": 0.375
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "slug": "will-ethereum-reach-3500-by-december-31-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 105862.97,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 58649.92,
-          "avg_price": 0.635,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 37234.42,
-          "avg_price": 0.7529,
-          "cur_price": 0.855
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 9978.63,
-          "avg_price": 0.5777,
-          "cur_price": 0.855
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $2,100 in October?",
-      "slug": "will-ethereum-dip-to-2100-in-october-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 60497.38,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 29196.12,
-          "avg_price": 0.8717,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 20308.96,
-          "avg_price": 0.8466,
-          "cur_price": 0.695
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 10992.3,
-          "avg_price": 0.8441,
-          "cur_price": 0.695
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs HANJIN BRION - Game 2 Winner",
-      "slug": "lol-we-bro2-2026-10-15-game2",
-      "outcome": "Team WE",
-      "num_traders": 3,
-      "total_value": 59991.19,
-      "holders": [
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.2412,
-          "value": 39524.47,
-          "avg_price": 0.5283,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "DemonTimee",
-          "roi": 0.4281,
-          "value": 19989.96,
-          "avg_price": 0.55,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 476.76,
-          "avg_price": 0.4899,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
-      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 52435.25,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 27064.1,
-          "avg_price": 0.1686,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 22140.83,
-          "avg_price": 0.2383,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 3230.32,
-          "avg_price": 0.176,
-          "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team WE vs HANJIN BRION - Game 4 Winner",
-      "slug": "lol-we-bro2-2026-10-15-game4",
-      "outcome": "HANJIN BRION",
-      "num_traders": 3,
-      "total_value": 42827.04,
-      "holders": [
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.2412,
-          "value": 18338.13,
-          "avg_price": 0.578,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.3543,
-          "value": 17048.99,
-          "avg_price": 0.5944,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "DemonTimee",
-          "roi": 0.4281,
-          "value": 7439.92,
-          "avg_price": 0.5605,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $2,800 in October?",
-      "slug": "will-ethereum-reach-2800-in-october-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 37697.5,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 19223.49,
-          "avg_price": 0.4359,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 11678.15,
-          "avg_price": 0.3866,
-          "cur_price": 0.895
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 6795.86,
-          "avg_price": 0.2004,
-          "cur_price": 0.895
-        }
-      ]
-    },
-    {
-      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 36952.06,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 25919.82,
-          "avg_price": 0.6168,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2993,
-          "value": 6389.29,
-          "avg_price": 0.6758,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2999,
-          "value": 4642.95,
-          "avg_price": 0.6875,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $3,000 by December 31, 2026?",
-      "slug": "will-ethereum-reach-3000-by-december-31-2026-from-june-8",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 15494.0,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 12897.14,
-          "avg_price": 0.3282,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "getbipped",
-          "roi": 3.602,
-          "value": 2138.0,
-          "avg_price": 0.4093,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 458.86,
-          "avg_price": 0.4299,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin reach $87,500 in October?",
-      "slug": "will-bitcoin-reach-87pt5k-in-october-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 9679.17,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.309,
-          "value": 6651.51,
-          "avg_price": 0.8648,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.414,
-          "value": 2065.41,
-          "avg_price": 0.6202,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.2292,
-          "value": 962.25,
-          "avg_price": 0.3029,
-          "cur_price": 0.265
-        }
-      ]
-    },
-    {
-      "market": "Will Juventus FC win on 2026-10-15?",
-      "slug": "uel-cel1-juv-2026-10-15-juv",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 9234.26,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 7642.52,
-          "avg_price": 0.44,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2993,
-          "value": 1141.44,
-          "avg_price": 0.4399,
-          "cur_price": 0.435
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2366,
-          "value": 450.3,
-          "avg_price": 0.43,
-          "cur_price": 0.435
-        }
-      ]
-    },
-    {
-      "market": "Rovereto: Teodora Kostovic vs Martyna Kubka",
-      "slug": "wta-kostovi-kubka-2026-10-15",
-      "outcome": "Martyna Kubka",
-      "num_traders": 3,
-      "total_value": 8365.23,
-      "holders": [
-        {
-          "trader": "kkookkoo",
-          "roi": 0.298,
-          "value": 6953.04,
-          "avg_price": 0.6899,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2485,
-          "value": 893.45,
-          "avg_price": 0.38,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 518.74,
-          "avg_price": 0.38,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-      "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 7895.11,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.2993,
-          "value": 4470.81,
-          "avg_price": 0.3472,
-          "cur_price": 0.2825
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.3543,
-          "value": 2934.66,
-          "avg_price": 0.4484,
-          "cur_price": 0.2825
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2999,
-          "value": 489.64,
-          "avg_price": 0.4051,
-          "cur_price": 0.2825
-        }
-      ]
-    },
-    {
-      "market": "Spread: Seahawks (-2.5)",
-      "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
-      "outcome": "Seahawks",
-      "num_traders": 3,
-      "total_value": 3893.55,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.2366,
-          "value": 1767.5,
-          "avg_price": 0.525,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2485,
-          "value": 1590.75,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.705,
-          "value": 535.3,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Panthers vs. Eagles",
-      "slug": "nfl-car-phi-2026-10-18",
-      "outcome": "Eagles",
-      "num_traders": 3,
-      "total_value": 3742.82,
-      "holders": [
-        {
-          "trader": "WanderingWombat",
-          "roi": 0.5425,
-          "value": 2749.72,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.705,
-          "value": 722.67,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2366,
-          "value": 270.43,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3323.4,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 1815.88,
-          "avg_price": 0.4071,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2993,
-          "value": 997.62,
-          "avg_price": 0.4032,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.414,
-          "value": 509.9,
-          "avg_price": 0.3758,
-          "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Seahawks vs. Broncos",
-      "slug": "nfl-sea-den-2026-10-16",
-      "outcome": "Seahawks",
-      "num_traders": 3,
-      "total_value": 2628.5,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.705,
-          "value": 1206.12,
-          "avg_price": 0.5974,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2366,
-          "value": 988.67,
-          "avg_price": 0.56,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.2485,
-          "value": 433.71,
-          "avg_price": 0.56,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Falcons",
-      "slug": "nfl-chi-atl-2026-10-18",
-      "outcome": "Bears",
-      "num_traders": 3,
-      "total_value": 2597.68,
-      "holders": [
-        {
-          "trader": "NM-P",
-          "roi": 0.2366,
-          "value": 1515.64,
-          "avg_price": 0.5758,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.705,
-          "value": 815.27,
-          "avg_price": 0.5653,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1568,
-          "value": 266.77,
-          "avg_price": 0.6027,
-          "cur_price": 0.515
         }
       ]
     }
@@ -3518,28 +2893,40 @@
     "wta-paolini-kartal-2026-10-14::Jasmine Paolini": 3,
     "uel-rbs-mil1-2026-10-15-mil1::Yes": 3,
     "nfl-sea-den-2026-10-16::Broncos": 3,
-    "lol-we-bro2-2026-10-15::Team WE": 2,
-    "lol-we-bro2-2026-10-15-game1::Team WE": 2,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 2,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 2,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 2,
-    "will-ethereum-dip-to-2100-in-october-2026::No": 2,
-    "lol-we-bro2-2026-10-15-game2::Team WE": 2,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 2,
-    "lol-we-bro2-2026-10-15-game4::HANJIN BRION": 2,
-    "will-ethereum-reach-2800-in-october-2026::No": 2,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 2,
-    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 2,
-    "will-bitcoin-reach-87pt5k-in-october-2026::Yes": 2,
-    "uel-cel1-juv-2026-10-15-juv::Yes": 2,
-    "wta-kostovi-kubka-2026-10-15::Martyna Kubka": 2,
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 2,
-    "nfl-sea-den-2026-10-16-spread-away-2pt5::Seahawks": 2,
-    "nfl-car-phi-2026-10-18::Eagles": 2,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "nfl-sea-den-2026-10-16::Seahawks": 2,
-    "nfl-chi-atl-2026-10-18::Bears": 2,
-    "col-haj-aja-2026-10-15-aja::Yes": 1
+    "lol-we-bro2-2026-10-15::Team WE": 3,
+    "lol-we-bro2-2026-10-15-game1::Team WE": 3,
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 3,
+    "will-ethereum-dip-to-2100-in-october-2026::No": 3,
+    "lol-we-bro2-2026-10-15-game2::Team WE": 3,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
+    "lol-we-bro2-2026-10-15-game4::HANJIN BRION": 3,
+    "will-ethereum-reach-2800-in-october-2026::No": 3,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 3,
+    "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 3,
+    "will-bitcoin-reach-87pt5k-in-october-2026::Yes": 3,
+    "uel-cel1-juv-2026-10-15-juv::Yes": 3,
+    "wta-kostovi-kubka-2026-10-15::Martyna Kubka": 3,
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Seahawks": 3,
+    "nfl-car-phi-2026-10-18::Eagles": 3,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "nfl-sea-den-2026-10-16::Seahawks": 3,
+    "nfl-chi-atl-2026-10-18::Bears": 3,
+    "col-haj-aja-2026-10-15-aja::Yes": 2,
+    "lol-c9-kc-2026-10-15-game2::Karmine Corp": 1,
+    "lol-c9-kc-2026-10-15::Cloud9": 1,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No": 1,
+    "uel-olm-oly-2026-10-15-oly::Yes": 1,
+    "uel-lep-lev-2026-10-15-lev::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 1,
+    "cs2-lgc-furia-2026-10-15::Legacy": 1,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::Yes": 1
   },
-  "updated_at": "2026-10-15T20:09:58.272405+00:00"
+  "updated_at": "2026-10-15T23:04:15.348389+00:00"
 }
