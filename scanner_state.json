@@ -1,10 +1,377 @@
 {
   "seen_ids": [
-    "lol-c9-kc-2026-10-15-game4::Karmine Corp",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes"
+    "lol-fur-mvk-2026-10-15-game2::MVK Esports",
+    "nfl-sea-den-2026-10-16::Broncos",
+    "nfl-sea-den-2026-10-16::Seahawks",
+    "lol-fur-mvk-2026-10-15-game3::FURIA Esports",
+    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos",
+    "lol-fur-mvk-2026-10-15-game1::MVK Esports",
+    "mlb-mil-lad-2026-10-15::Los Angeles Dodgers",
+    "cfb-gas-old-2026-10-15::Georgia Southern",
+    "cfb-gas-old-2026-10-15-spread-away-3pt5::Georgia Southern"
   ],
   "signals": [
+    {
+      "market": "LoL: FURIA Esports vs MVK Esports - Game 2 Winner",
+      "slug": "lol-fur-mvk-2026-10-15-game2",
+      "outcome": "MVK Esports",
+      "num_traders": 8,
+      "total_value": 241011.84,
+      "holders": [
+        {
+          "trader": "Zywoo123",
+          "roi": 0.6903,
+          "value": 64501.49,
+          "avg_price": 0.3091,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.6664,
+          "value": 47976,
+          "avg_price": 0.333,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "dodsterbot",
+          "roi": 0.4753,
+          "value": 24965.55,
+          "avg_price": 0.3098,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Anjun",
+          "roi": 0.2963,
+          "value": 22210.85,
+          "avg_price": 0.29,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.3369,
+          "value": 22210.85,
+          "avg_price": 0.2949,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2669,
+          "value": 20410.75,
+          "avg_price": 0.4976,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "Tokenn",
+          "roi": 0.6676,
+          "value": 19989.97,
+          "avg_price": 0.3199,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.3447,
+          "value": 18746.38,
+          "avg_price": 0.531,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Seahawks vs. Broncos",
+      "slug": "nfl-sea-den-2026-10-16",
+      "outcome": "Broncos",
+      "num_traders": 5,
+      "total_value": 1356772.44,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2435,
+          "value": 1280001.72,
+          "avg_price": 0.4335,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "Soarin22",
+          "roi": 0.2061,
+          "value": 51449.82,
+          "avg_price": 0.43,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.9359,
+          "value": 12665.26,
+          "avg_price": 0.5499,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 8688.84,
+          "avg_price": 0.5665,
+          "cur_price": 0.735
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 0.163,
+          "value": 3966.8,
+          "avg_price": 0.4099,
+          "cur_price": 0.735
+        }
+      ]
+    },
+    {
+      "market": "Seahawks vs. Broncos",
+      "slug": "nfl-sea-den-2026-10-16",
+      "outcome": "Seahawks",
+      "num_traders": 5,
+      "total_value": 32166.55,
+      "holders": [
+        {
+          "trader": "Soarin22",
+          "roi": 0.2061,
+          "value": 21199.99,
+          "avg_price": 0.56,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "ethanaz",
+          "roi": 0.1725,
+          "value": 9298.39,
+          "avg_price": 0.4199,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 1089.15,
+          "avg_price": 0.415,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1893,
+          "value": 314.02,
+          "avg_price": 0.56,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2669,
+          "value": 265,
+          "avg_price": 0.56,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "LoL: FURIA Esports vs MVK Esports - Game 3 Winner",
+      "slug": "lol-fur-mvk-2026-10-15-game3",
+      "outcome": "FURIA Esports",
+      "num_traders": 5,
+      "total_value": 5600.6,
+      "holders": [
+        {
+          "trader": "ColdBlooded",
+          "roi": 0.3633,
+          "value": 3530.0,
+          "avg_price": 0.5699,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "dodsterbot",
+          "roi": 0.4753,
+          "value": 1000.64,
+          "avg_price": 0.5547,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.3369,
+          "value": 551.01,
+          "avg_price": 0.19,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2669,
+          "value": 319.51,
+          "avg_price": 0.2305,
+          "cur_price": 0.1
+        },
+        {
+          "trader": "minji",
+          "roi": 0.3447,
+          "value": 199.44,
+          "avg_price": 0.2227,
+          "cur_price": 0.1
+        }
+      ]
+    },
+    {
+      "market": "Spread: Seahawks (-2.5)",
+      "slug": "nfl-sea-den-2026-10-16-spread-away-2pt5",
+      "outcome": "Broncos",
+      "num_traders": 4,
+      "total_value": 134611.81,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2435,
+          "value": 128101.4,
+          "avg_price": 0.4899,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 3211.6,
+          "avg_price": 0.57,
+          "cur_price": 0.775
+        },
+        {
+          "trader": "ethanaz",
+          "roi": 0.1725,
+          "value": 2674.69,
+          "avg_price": 0.4999,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.9359,
+          "value": 624.12,
+          "avg_price": 0.4953,
+          "cur_price": 0.775
+        }
+      ]
+    },
+    {
+      "market": "LoL: FURIA Esports vs MVK Esports - Game 1 Winner",
+      "slug": "lol-fur-mvk-2026-10-15-game1",
+      "outcome": "MVK Esports",
+      "num_traders": 4,
+      "total_value": 90227.63,
+      "holders": [
+        {
+          "trader": "Sunshine.Smile",
+          "roi": 0.6664,
+          "value": 35981.38,
+          "avg_price": 0.4211,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0xheavy888",
+          "roi": 0.2669,
+          "value": 28394.17,
+          "avg_price": 0.2591,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "minji",
+          "roi": 0.3447,
+          "value": 23743.5,
+          "avg_price": 0.2884,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "fkigedgjdgwbg",
+          "roi": 0.3369,
+          "value": 2108.58,
+          "avg_price": 0.152,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Milwaukee Brewers vs. Los Angeles Dodgers",
+      "slug": "mlb-mil-lad-2026-10-15",
+      "outcome": "Los Angeles Dodgers",
+      "num_traders": 3,
+      "total_value": 61783.06,
+      "holders": [
+        {
+          "trader": "Soarin22",
+          "roi": 0.2061,
+          "value": 59679.47,
+          "avg_price": 0.58,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 1867.76,
+          "avg_price": 0.8812,
+          "cur_price": 0.745
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.9359,
+          "value": 235.83,
+          "avg_price": 0.6199,
+          "cur_price": 0.745
+        }
+      ]
+    },
+    {
+      "market": "Georgia Southern vs. Old Dominion",
+      "slug": "cfb-gas-old-2026-10-15",
+      "outcome": "Georgia Southern",
+      "num_traders": 3,
+      "total_value": 37811.71,
+      "holders": [
+        {
+          "trader": "ethanaz",
+          "roi": 0.1725,
+          "value": 30938.39,
+          "avg_price": 0.6399,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 5902.5,
+          "avg_price": 0.7679,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.9359,
+          "value": 970.82,
+          "avg_price": 0.6648,
+          "cur_price": 0.815
+        }
+      ]
+    },
+    {
+      "market": "Spread: Georgia Southern (-3.5)",
+      "slug": "cfb-gas-old-2026-10-15-spread-away-3pt5",
+      "outcome": "Georgia Southern",
+      "num_traders": 3,
+      "total_value": 19003.74,
+      "holders": [
+        {
+          "trader": "UpTheBlues",
+          "roi": 0.1893,
+          "value": 18153.04,
+          "avg_price": 0.4699,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.9359,
+          "value": 709.7,
+          "avg_price": 0.5573,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "RN1",
+          "roi": 0.1527,
+          "value": 141,
+          "avg_price": 0.46,
+          "cur_price": 0.705
+        }
+      ]
+    },
     {
       "market": "LoL: Cloud9 vs Karmine Corp - Game 4 Winner",
       "slug": "lol-c9-kc-2026-10-15-game4",
@@ -480,36 +847,6 @@
           "value": 431.11,
           "avg_price": 0.5174,
           "cur_price": 0.56
-        }
-      ]
-    },
-    {
-      "market": "Will AFC Ajax win on 2026-10-15?",
-      "slug": "col-haj-aja-2026-10-15-aja",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 32861.17,
-      "holders": [
-        {
-          "trader": "yabanci",
-          "roi": 0.4951,
-          "value": 31635,
-          "avg_price": 0.57,
-          "cur_price": 0.555
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.1644,
-          "value": 988.55,
-          "avg_price": 0.56,
-          "cur_price": 0.575
-        },
-        {
-          "trader": "Zzzz87",
-          "roi": 0.2885,
-          "value": 237.62,
-          "avg_price": 0.58,
-          "cur_price": 0.545
         }
       ]
     }
@@ -2884,7 +3221,6 @@
     "ucl-mnc-psg-2026-10-14-total-3pt5::Over": 3,
     "will-arsenal-win-the-2026-27-english-premier-league-epl-championship-20260701200428750::Yes": 3,
     "ucl-rom-rma-2026-10-14-rma::Yes": 3,
-    "nfl-sea-den-2026-10-16-spread-away-2pt5::Broncos": 3,
     "mlb-mil-lad-2026-10-14::Los Angeles Dodgers": 3,
     "wta-svitoli-guo-2026-10-15::Hanyu Guo": 3,
     "wta-paolini-kartal-2026-10-14::Sonay Kartal": 3,
@@ -2892,7 +3228,6 @@
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "wta-paolini-kartal-2026-10-14::Jasmine Paolini": 3,
     "uel-rbs-mil1-2026-10-15-mil1::Yes": 3,
-    "nfl-sea-den-2026-10-16::Broncos": 3,
     "lol-we-bro2-2026-10-15::Team WE": 3,
     "lol-we-bro2-2026-10-15-game1::Team WE": 3,
     "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
@@ -2912,21 +3247,23 @@
     "nfl-sea-den-2026-10-16-spread-away-2pt5::Seahawks": 3,
     "nfl-car-phi-2026-10-18::Eagles": 3,
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
-    "nfl-sea-den-2026-10-16::Seahawks": 3,
     "nfl-chi-atl-2026-10-18::Bears": 3,
-    "col-haj-aja-2026-10-15-aja::Yes": 2,
-    "lol-c9-kc-2026-10-15-game2::Karmine Corp": 1,
-    "lol-c9-kc-2026-10-15::Cloud9": 1,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No": 1,
-    "uel-olm-oly-2026-10-15-oly::Yes": 1,
-    "uel-lep-lev-2026-10-15-lev::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 1,
-    "cs2-lgc-furia-2026-10-15::Legacy": 1,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
-    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::Yes": 1
+    "col-haj-aja-2026-10-15-aja::Yes": 3,
+    "lol-c9-kc-2026-10-15-game2::Karmine Corp": 2,
+    "lol-c9-kc-2026-10-15::Cloud9": 2,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No": 2,
+    "uel-olm-oly-2026-10-15-oly::Yes": 2,
+    "uel-lep-lev-2026-10-15-lev::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 2,
+    "cs2-lgc-furia-2026-10-15::Legacy": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 2,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
+    "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876::Yes": 2,
+    "lol-c9-kc-2026-10-15-game4::Karmine Corp": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 1
   },
-  "updated_at": "2026-10-15T23:04:15.348389+00:00"
+  "updated_at": "2026-10-16T01:15:41.450320+00:00"
 }
