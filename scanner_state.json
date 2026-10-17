@@ -1,59 +1,134 @@
 {
   "seen_ids": [
     "mlb-tb-cle-2026-10-16-total-6pt5::Under",
-    "lol-fox1-we-2026-10-17-game2::BNK FEARX",
-    "lol-fox1-we-2026-10-17::BNK FEARX",
-    "mlb-tb-cle-2026-10-16::Cleveland Guardians",
-    "lol-fox1-we-2026-10-17-game3::Team WE",
-    "lol-fox1-we-2026-10-17-game1::BNK FEARX",
-    "dota2-dawnbu-lynx-2026-10-17-game2::Dawn Bulls",
-    "dota2-tr7-xtreme-2026-10-17-game1::Xtreme Gaming",
-    "lol-mvk-fur-2026-10-17::FURIA Esports",
-    "nfl-chi-atl-2026-10-18::Falcons",
-    "cfb-utah-col-2026-10-17-spread-away-15pt5::Utah",
-    "dota2-rb1-xe-2026-10-17-game4::Xipto Esports"
+    "cfb-nw-mst-2026-10-17-total-49pt5::Over",
+    "cs2-fal2-bb3-2026-10-17::BetBoom Team",
+    "nfl-chi-atl-2026-10-18::Falcons"
   ],
   "signals": [
     {
       "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
       "slug": "mlb-tb-cle-2026-10-16-total-6pt5",
       "outcome": "Under",
-      "num_traders": 5,
-      "total_value": 36221.66,
+      "num_traders": 4,
+      "total_value": 13561.59,
       "holders": [
         {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.1938,
-          "value": 22660.07,
-          "avg_price": 0.4799,
-          "cur_price": 0.495
-        },
-        {
           "trader": "hi774c",
-          "roi": 0.5502,
+          "roi": 0.1685,
           "value": 8013.29,
           "avg_price": 0.49,
           "cur_price": 0.495
         },
         {
           "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2461,
+          "roi": 0.201,
           "value": 1961.56,
           "avg_price": 0.51,
           "cur_price": 0.495
         },
         {
           "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2492,
+          "roi": 0.2325,
           "value": 1830.98,
           "avg_price": 0.49,
           "cur_price": 0.495
         },
         {
           "trader": "Forecastication2",
-          "roi": 0.298,
+          "roi": 0.3014,
           "value": 1755.76,
           "avg_price": 0.4899,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Northwestern vs. Michigan State: O/U 49.5",
+      "slug": "cfb-nw-mst-2026-10-17-total-49pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 18582.62,
+      "holders": [
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.2325,
+          "value": 17532.6,
+          "avg_price": 0.5199,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.4371,
+          "value": 715.16,
+          "avg_price": 0.5099,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Forecastication2",
+          "roi": 0.3014,
+          "value": 334.86,
+          "avg_price": 0.4906,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Team Falcons vs BetBoom Team (BO3) - Thunderpick World Championship Playoffs",
+      "slug": "cs2-fal2-bb3-2026-10-17",
+      "outcome": "BetBoom Team",
+      "num_traders": 3,
+      "total_value": 12771.64,
+      "holders": [
+        {
+          "trader": "0xb4bFC90A6f76A9cD2A7BBb12D5a7BF439729fa41-1788881896364",
+          "roi": 0.1621,
+          "value": 10600,
+          "avg_price": 0.27,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "justaluckydude",
+          "roi": 0.1973,
+          "value": 1892.86,
+          "avg_price": 0.2099,
+          "cur_price": 0.265
+        },
+        {
+          "trader": "MeiGuNiuBi",
+          "roi": 0.2449,
+          "value": 278.78,
+          "avg_price": 0.26,
+          "cur_price": 0.265
+        }
+      ]
+    },
+    {
+      "market": "Bears vs. Falcons",
+      "slug": "nfl-chi-atl-2026-10-18",
+      "outcome": "Falcons",
+      "num_traders": 3,
+      "total_value": 8858.7,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.201,
+          "value": 6704.71,
+          "avg_price": 0.49,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.2325,
+          "value": 1396.34,
+          "avg_price": 0.4299,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.1685,
+          "value": 757.65,
+          "avg_price": 0.49,
           "cur_price": 0.495
         }
       ]
@@ -295,36 +370,6 @@
           "value": 109.46,
           "avg_price": 0.6099,
           "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Falcons",
-      "slug": "nfl-chi-atl-2026-10-18",
-      "outcome": "Falcons",
-      "num_traders": 3,
-      "total_value": 8598.48,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.2461,
-          "value": 6444.49,
-          "avg_price": 0.49,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2492,
-          "value": 1396.34,
-          "avg_price": 0.4299,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.5502,
-          "value": 757.65,
-          "avg_price": 0.49,
-          "cur_price": 0.495
         }
       ]
     },
@@ -1487,117 +1532,6 @@
           "value": 245.6,
           "avg_price": 0.19,
           "cur_price": 0.255
-        }
-      ]
-    },
-    {
-      "market": "Trail Blazers vs. Warriors",
-      "slug": "nba-por-gsw-2026-10-16",
-      "outcome": "Warriors",
-      "num_traders": 4,
-      "total_value": 42331.31,
-      "holders": [
-        {
-          "trader": "www511zwin",
-          "roi": 0.1913,
-          "value": 34999.97,
-          "avg_price": 0.5065,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.2529,
-          "value": 3379.52,
-          "avg_price": 0.5079,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1785,
-          "value": 3277.57,
-          "avg_price": 0.4638,
-          "cur_price": 0.875
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1993,
-          "value": 674.25,
-          "avg_price": 0.5301,
-          "cur_price": 0.875
-        }
-      ]
-    },
-    {
-      "market": "Nuggets vs. Lakers",
-      "slug": "nba-den-lal-2026-10-16",
-      "outcome": "Lakers",
-      "num_traders": 4,
-      "total_value": 7176.64,
-      "holders": [
-        {
-          "trader": "askilika",
-          "roi": 0.4859,
-          "value": 5990.3,
-          "avg_price": 0.5841,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.98,
-          "value": 450,
-          "avg_price": 0.63,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1785,
-          "value": 421.19,
-          "avg_price": 0.5625,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1993,
-          "value": 315.15,
-          "avg_price": 0.3299,
-          "cur_price": 0.225
-        }
-      ]
-    },
-    {
-      "market": "Jazz vs. Suns",
-      "slug": "nba-uta-phx-2026-10-16",
-      "outcome": "Suns",
-      "num_traders": 4,
-      "total_value": 4272.64,
-      "holders": [
-        {
-          "trader": "askilika",
-          "roi": 0.4859,
-          "value": 1951.24,
-          "avg_price": 0.6209,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-          "roi": 0.1993,
-          "value": 1459.19,
-          "avg_price": 0.545,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.2204,
-          "value": 474.29,
-          "avg_price": 0.61,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.1785,
-          "value": 387.92,
-          "avg_price": 0.6224,
-          "cur_price": 0.31
         }
       ]
     }
@@ -4052,42 +3986,52 @@
     "nba-tor-det-2026-10-16::Pistons": 3,
     "cfb-wash-pur-2026-10-16::Washington": 3,
     "nba-bos-phi-2026-10-16-spread-home-5pt5::76ers": 3,
-    "nba-por-gsw-2026-10-16::Warriors": 2,
-    "nba-den-lal-2026-10-16::Lakers": 2,
-    "nba-uta-phx-2026-10-16::Suns": 2,
-    "nfl-was-sf-2026-10-20-total-50pt5::Over": 1,
-    "nfl-car-phi-2026-10-18::Eagles": 1,
-    "cfb-rutger-mary-2026-10-17-total-57pt5::Over": 1,
-    "cfb-vir-smu-2026-10-17-spread-home-9pt5::Virginia": 1,
-    "cfb-rutger-mary-2026-10-17-total-55pt5::Over": 1,
-    "nfl-no-nyg-2026-10-18::Giants": 1,
-    "epl-mac-ips-2026-10-17-total-3pt5::Under": 1,
-    "epl-eve-che-2026-10-17-che::Yes": 1,
-    "cfb-rutger-mary-2026-10-17-spread-home-5pt5::Rutgers": 1,
-    "nfl-dal-gb-2026-10-19-spread-home-1pt5::Packers": 1,
-    "cfb-unlv-airf-2026-10-17::Air Force": 1,
-    "cfb-gast-jmad-2026-10-17-spread-home-12pt5::Georgia State": 1,
-    "val-vit-100t1-2026-10-17::Team Vitality": 1,
-    "epl-eve-che-2026-10-17-eve::No": 1,
-    "lal-bet-bar-2026-10-17-bar::Yes": 1,
-    "cfb-nd-byu-2026-10-17-spread-away-10pt5::Notre Dame": 1,
-    "nfl-was-sf-2026-10-20-total-50pt5::Under": 1,
-    "nfl-ten-ind-2026-10-18-spread-home-7pt5::Colts": 1,
-    "nfl-dal-gb-2026-10-19::Cowboys": 1,
-    "sea-ven-nap-2026-10-17-nap::Yes": 1,
-    "nfl-ten-ind-2026-10-18::Colts": 1,
-    "nfl-lac-kc-2026-10-18::Chiefs": 1,
-    "nfl-chi-atl-2026-10-18::Bears": 1,
-    "bra-cam-cor-2026-10-17-cam::Yes": 1,
-    "cfb-tcu-bayl-2026-10-17-spread-home-5pt5::TCU": 1,
-    "nfl-buf-lv-2026-10-18::Bills": 1,
-    "mls-fcc-dcu-2026-09-05-fcc::No": 1,
-    "nfl-bal-cle-2026-10-18-spread-away-4pt5::Ravens": 1,
-    "cfb-rutger-mary-2026-10-17-total-57pt5::Under": 1,
-    "cfb-umass-buf-2026-10-17-total-41pt5::Under": 1,
-    "atp-jodar-medvede-2026-10-17::Rafael Jodar": 1,
-    "cfb-mspst-lsu-2026-10-17::Mississippi State": 1,
-    "mls-fcc-dcu-2026-09-05-dcu::Yes": 1
+    "nba-por-gsw-2026-10-16::Warriors": 3,
+    "nba-den-lal-2026-10-16::Lakers": 3,
+    "nba-uta-phx-2026-10-16::Suns": 3,
+    "nfl-was-sf-2026-10-20-total-50pt5::Over": 2,
+    "nfl-car-phi-2026-10-18::Eagles": 2,
+    "cfb-rutger-mary-2026-10-17-total-57pt5::Over": 2,
+    "cfb-vir-smu-2026-10-17-spread-home-9pt5::Virginia": 2,
+    "cfb-rutger-mary-2026-10-17-total-55pt5::Over": 2,
+    "nfl-no-nyg-2026-10-18::Giants": 2,
+    "epl-mac-ips-2026-10-17-total-3pt5::Under": 2,
+    "epl-eve-che-2026-10-17-che::Yes": 2,
+    "cfb-rutger-mary-2026-10-17-spread-home-5pt5::Rutgers": 2,
+    "nfl-dal-gb-2026-10-19-spread-home-1pt5::Packers": 2,
+    "cfb-unlv-airf-2026-10-17::Air Force": 2,
+    "cfb-gast-jmad-2026-10-17-spread-home-12pt5::Georgia State": 2,
+    "val-vit-100t1-2026-10-17::Team Vitality": 2,
+    "epl-eve-che-2026-10-17-eve::No": 2,
+    "lal-bet-bar-2026-10-17-bar::Yes": 2,
+    "cfb-nd-byu-2026-10-17-spread-away-10pt5::Notre Dame": 2,
+    "nfl-was-sf-2026-10-20-total-50pt5::Under": 2,
+    "nfl-ten-ind-2026-10-18-spread-home-7pt5::Colts": 2,
+    "nfl-dal-gb-2026-10-19::Cowboys": 2,
+    "sea-ven-nap-2026-10-17-nap::Yes": 2,
+    "nfl-ten-ind-2026-10-18::Colts": 2,
+    "nfl-lac-kc-2026-10-18::Chiefs": 2,
+    "nfl-chi-atl-2026-10-18::Bears": 2,
+    "bra-cam-cor-2026-10-17-cam::Yes": 2,
+    "cfb-tcu-bayl-2026-10-17-spread-home-5pt5::TCU": 2,
+    "nfl-buf-lv-2026-10-18::Bills": 2,
+    "mls-fcc-dcu-2026-09-05-fcc::No": 2,
+    "nfl-bal-cle-2026-10-18-spread-away-4pt5::Ravens": 2,
+    "cfb-rutger-mary-2026-10-17-total-57pt5::Under": 2,
+    "cfb-umass-buf-2026-10-17-total-41pt5::Under": 2,
+    "atp-jodar-medvede-2026-10-17::Rafael Jodar": 2,
+    "cfb-mspst-lsu-2026-10-17::Mississippi State": 2,
+    "mls-fcc-dcu-2026-09-05-dcu::Yes": 2,
+    "lol-fox1-we-2026-10-17-game2::BNK FEARX": 1,
+    "lol-fox1-we-2026-10-17::BNK FEARX": 1,
+    "mlb-tb-cle-2026-10-16::Cleveland Guardians": 1,
+    "lol-fox1-we-2026-10-17-game3::Team WE": 1,
+    "lol-fox1-we-2026-10-17-game1::BNK FEARX": 1,
+    "dota2-dawnbu-lynx-2026-10-17-game2::Dawn Bulls": 1,
+    "dota2-tr7-xtreme-2026-10-17-game1::Xtreme Gaming": 1,
+    "lol-mvk-fur-2026-10-17::FURIA Esports": 1,
+    "cfb-utah-col-2026-10-17-spread-away-15pt5::Utah": 1,
+    "dota2-rb1-xe-2026-10-17-game4::Xipto Esports": 1
   },
-  "updated_at": "2026-10-17T12:23:45.486108+00:00"
+  "updated_at": "2026-10-17T15:48:19.645914+00:00"
 }
