@@ -5585,7 +5585,7 @@
       "current_value": 112.53,
       "paper_pnl": 12.53,
       "return_percent": 12.53,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 1621.02,
       "traders": [
@@ -5594,7 +5594,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-lamine-yamal-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-10-15T20:09:58.222606+00:00"
+      "consensus_lost_at": "2026-10-17T04:11:56.104686+00:00"
     },
     {
       "signal_id": "mlb-cle-cin-2026-07-27::Cleveland Guardians",
@@ -17531,7 +17531,7 @@
       "current_value": 134.41,
       "paper_pnl": 34.41,
       "return_percent": 34.41,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4837288.44,
       "traders": [
@@ -17540,7 +17540,7 @@
         "LlamaLoco0000"
       ],
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
-      "consensus_lost_at": "2026-10-16T01:15:41.401857+00:00"
+      "consensus_lost_at": "2026-10-17T04:11:56.104686+00:00"
     },
     {
       "signal_id": "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
@@ -56250,7 +56250,82 @@
         "Zzzz87"
       ],
       "url": "https://polymarket.com/event/nba-bos-phi-2026-10-16-spread-home-5pt5"
+    },
+    {
+      "signal_id": "nba-por-gsw-2026-10-16::Warriors",
+      "market": "Trail Blazers vs. Warriors",
+      "slug": "nba-por-gsw-2026-10-16",
+      "side": "Warriors",
+      "alerted_at": "2026-10-17T04:11:56.104686+00:00",
+      "last_seen": "2026-10-17T04:11:56.104686+00:00",
+      "entry_price": 0.875,
+      "current_price": 0.875,
+      "stake": 100.0,
+      "shares": 114.285714,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 42331.31,
+      "traders": [
+        "www511zwin",
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+        "alpheclabs",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/nba-por-gsw-2026-10-16"
+    },
+    {
+      "signal_id": "nba-den-lal-2026-10-16::Lakers",
+      "market": "Nuggets vs. Lakers",
+      "slug": "nba-den-lal-2026-10-16",
+      "side": "Lakers",
+      "alerted_at": "2026-10-17T04:11:56.104686+00:00",
+      "last_seen": "2026-10-17T04:11:56.104686+00:00",
+      "entry_price": 0.216066,
+      "current_price": 0.216066,
+      "stake": 100.0,
+      "shares": 462.821187,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 7176.64,
+      "traders": [
+        "askilika",
+        "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+        "alpheclabs",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
+      ],
+      "url": "https://polymarket.com/event/nba-den-lal-2026-10-16"
+    },
+    {
+      "signal_id": "nba-uta-phx-2026-10-16::Suns",
+      "market": "Jazz vs. Suns",
+      "slug": "nba-uta-phx-2026-10-16",
+      "side": "Suns",
+      "alerted_at": "2026-10-17T04:11:56.104686+00:00",
+      "last_seen": "2026-10-17T04:11:56.104686+00:00",
+      "entry_price": 0.28727,
+      "current_price": 0.28727,
+      "stake": 100.0,
+      "shares": 348.104824,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 4272.64,
+      "traders": [
+        "askilika",
+        "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        "monkeymashingkeyboard",
+        "alpheclabs"
+      ],
+      "url": "https://polymarket.com/event/nba-uta-phx-2026-10-16"
     }
   ],
-  "updated_at": "2026-10-17T00:00:05.877555+00:00"
+  "updated_at": "2026-10-17T04:11:56.104686+00:00"
 }
