@@ -55414,7 +55414,7 @@
       "slug": "nfl-chi-atl-2026-10-18",
       "side": "Falcons",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-17T08:36:00.869888+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
       "entry_price": 0.495,
       "current_price": 0.495,
       "stake": 100.0,
@@ -55514,14 +55514,14 @@
       "slug": "mlb-tb-cle-2026-10-16",
       "side": "Cleveland Guardians",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-17T08:36:00.869888+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
       "entry_price": 0.495,
-      "current_price": 0.505,
+      "current_price": 0.495,
       "stake": 100.0,
       "shares": 202.020202,
-      "current_value": 102.02,
-      "paper_pnl": 2.02,
-      "return_percent": 2.02,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
       "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1844.06,
@@ -56039,7 +56039,7 @@
       "slug": "mlb-tb-cle-2026-10-16-total-6pt5",
       "side": "Under",
       "alerted_at": "2026-10-16T18:51:40.006388+00:00",
-      "last_seen": "2026-10-17T08:36:00.869888+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
       "entry_price": 0.495,
       "current_price": 0.495,
       "stake": 100.0,
@@ -56273,7 +56273,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 42331.31,
       "traders": [
@@ -56282,7 +56282,8 @@
         "alpheclabs",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/nba-por-gsw-2026-10-16"
+      "url": "https://polymarket.com/event/nba-por-gsw-2026-10-16",
+      "consensus_lost_at": "2026-10-17T12:23:45.435791+00:00"
     },
     {
       "signal_id": "nba-den-lal-2026-10-16::Lakers",
@@ -56298,7 +56299,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 7176.64,
       "traders": [
@@ -56307,7 +56308,8 @@
         "alpheclabs",
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
-      "url": "https://polymarket.com/event/nba-den-lal-2026-10-16"
+      "url": "https://polymarket.com/event/nba-den-lal-2026-10-16",
+      "consensus_lost_at": "2026-10-17T12:23:45.435791+00:00"
     },
     {
       "signal_id": "nba-uta-phx-2026-10-16::Suns",
@@ -56323,7 +56325,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 4272.64,
       "traders": [
@@ -56332,7 +56334,8 @@
         "monkeymashingkeyboard",
         "alpheclabs"
       ],
-      "url": "https://polymarket.com/event/nba-uta-phx-2026-10-16"
+      "url": "https://polymarket.com/event/nba-uta-phx-2026-10-16",
+      "consensus_lost_at": "2026-10-17T12:23:45.435791+00:00"
     },
     {
       "signal_id": "cfb-vir-smu-2026-10-17-spread-home-9pt5::Virginia",
@@ -56392,14 +56395,14 @@
       "slug": "cfb-utah-col-2026-10-17-spread-away-15pt5",
       "side": "Utah",
       "alerted_at": "2026-10-17T08:36:00.869888+00:00",
-      "last_seen": "2026-10-17T08:36:00.869888+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
       "entry_price": 0.475,
-      "current_price": 0.475,
+      "current_price": 0.495,
       "stake": 100.0,
       "shares": 210.526316,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 104.21,
+      "paper_pnl": 4.21,
+      "return_percent": 4.21,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 12860.29,
@@ -56869,7 +56872,199 @@
         "6512395314597884"
       ],
       "url": "https://polymarket.com/event/cfb-mspst-lsu-2026-10-17"
+    },
+    {
+      "signal_id": "lol-fox1-we-2026-10-17-game2::BNK FEARX",
+      "market": "LoL: BNK FEARX vs Team WE - Game 2 Winner",
+      "slug": "lol-fox1-we-2026-10-17-game2",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 138746.43,
+      "traders": [
+        "PEYZ-BIGGEST-FAN",
+        "zb8",
+        "ArturitoFilito"
+      ],
+      "url": "https://polymarket.com/event/lol-fox1-we-2026-10-17-game2"
+    },
+    {
+      "signal_id": "lol-fox1-we-2026-10-17::BNK FEARX",
+      "market": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+      "slug": "lol-fox1-we-2026-10-17",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 78585.88,
+      "traders": [
+        "TAIWANNUMBERONE",
+        "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+        "vibing123"
+      ],
+      "url": "https://polymarket.com/event/lol-fox1-we-2026-10-17"
+    },
+    {
+      "signal_id": "lol-fox1-we-2026-10-17-game3::Team WE",
+      "market": "LoL: BNK FEARX vs Team WE - Game 3 Winner",
+      "slug": "lol-fox1-we-2026-10-17-game3",
+      "side": "Team WE",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 65173.64,
+      "traders": [
+        "PEYZ-BIGGEST-FAN",
+        "ArturitoFilito",
+        "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542"
+      ],
+      "url": "https://polymarket.com/event/lol-fox1-we-2026-10-17-game3"
+    },
+    {
+      "signal_id": "lol-fox1-we-2026-10-17-game1::BNK FEARX",
+      "market": "LoL: BNK FEARX vs Team WE - Game 1 Winner",
+      "slug": "lol-fox1-we-2026-10-17-game1",
+      "side": "BNK FEARX",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 53409.78,
+      "traders": [
+        "TAIWANNUMBERONE",
+        "PEYZ-BIGGEST-FAN",
+        "MeiGuNiuBi"
+      ],
+      "url": "https://polymarket.com/event/lol-fox1-we-2026-10-17-game1"
+    },
+    {
+      "signal_id": "dota2-dawnbu-lynx-2026-10-17-game2::Dawn Bulls",
+      "market": "Dota 2: Dawn Bulls vs Team Lynx - Game 2 Winner",
+      "slug": "dota2-dawnbu-lynx-2026-10-17-game2",
+      "side": "Dawn Bulls",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.695967,
+      "current_price": 0.695967,
+      "stake": 100.0,
+      "shares": 143.684939,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 23816.4,
+      "traders": [
+        "Medo3D",
+        "Skritopoolniy",
+        "RandomVibecoder"
+      ],
+      "url": "https://polymarket.com/event/dota2-dawnbu-lynx-2026-10-17-game2"
+    },
+    {
+      "signal_id": "dota2-tr7-xtreme-2026-10-17-game1::Xtreme Gaming",
+      "market": "Dota 2: Team Resilience vs Xtreme Gaming - Game 1 Winner",
+      "slug": "dota2-tr7-xtreme-2026-10-17-game1",
+      "side": "Xtreme Gaming",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.785,
+      "current_price": 0.785,
+      "stake": 100.0,
+      "shares": 127.388535,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 15414.19,
+      "traders": [
+        "Medo3D",
+        "Skritopoolniy",
+        "RandomVibecoder"
+      ],
+      "url": "https://polymarket.com/event/dota2-tr7-xtreme-2026-10-17-game1"
+    },
+    {
+      "signal_id": "lol-mvk-fur-2026-10-17::FURIA Esports",
+      "market": "LoL: MVK Esports vs FURIA Esports (BO5) - Worlds Play-In",
+      "slug": "lol-mvk-fur-2026-10-17",
+      "side": "FURIA Esports",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.625,
+      "current_price": 0.625,
+      "stake": 100.0,
+      "shares": 160.0,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9714.91,
+      "traders": [
+        "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+        "vibing123",
+        "MeiGuNiuBi"
+      ],
+      "url": "https://polymarket.com/event/lol-mvk-fur-2026-10-17"
+    },
+    {
+      "signal_id": "dota2-rb1-xe-2026-10-17-game4::Xipto Esports",
+      "market": "Dota 2: Royal Bear vs Xipto Esports - Game 4 Winner",
+      "slug": "dota2-rb1-xe-2026-10-17-game4",
+      "side": "Xipto Esports",
+      "alerted_at": "2026-10-17T12:23:45.435791+00:00",
+      "last_seen": "2026-10-17T12:23:45.435791+00:00",
+      "entry_price": 0.315,
+      "current_price": 0.315,
+      "stake": 100.0,
+      "shares": 317.460317,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4455.92,
+      "traders": [
+        "Medo3D",
+        "RandomVibecoder",
+        "Skritopoolniy"
+      ],
+      "url": "https://polymarket.com/event/dota2-rb1-xe-2026-10-17-game4"
     }
   ],
-  "updated_at": "2026-10-17T08:36:00.869888+00:00"
+  "updated_at": "2026-10-17T12:23:45.435791+00:00"
 }
