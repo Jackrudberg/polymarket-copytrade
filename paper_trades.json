@@ -54807,7 +54807,7 @@
       "current_value": 79.8,
       "paper_pnl": -20.2,
       "return_percent": -20.2,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3742.82,
       "traders": [
@@ -54816,7 +54816,7 @@
         "NM-P"
       ],
       "url": "https://polymarket.com/event/nfl-car-phi-2026-10-18",
-      "consensus_lost_at": "2026-10-17T15:48:19.595566+00:00"
+      "consensus_lost_at": "2026-10-18T13:18:02.686921+00:00"
     },
     {
       "signal_id": "lol-c9-kc-2026-10-15-game2::Karmine Corp",
@@ -55272,7 +55272,7 @@
       "current_value": 93.41,
       "paper_pnl": -6.59,
       "return_percent": -6.59,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 16843.08,
       "traders": [
@@ -55281,7 +55281,7 @@
         "GC-P"
       ],
       "url": "https://polymarket.com/event/nfl-was-sf-2026-10-20-total-50pt5",
-      "consensus_lost_at": "2026-10-17T15:48:19.595566+00:00"
+      "consensus_lost_at": "2026-10-18T13:18:02.686921+00:00"
     },
     {
       "signal_id": "val-100t1-g21-2026-10-16::100 Thieves",
@@ -55389,7 +55389,7 @@
       "slug": "nfl-no-nyg-2026-10-18",
       "side": "Giants",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-18T09:10:01.182528+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
       "entry_price": 0.485,
       "current_price": 0.495,
       "stake": 100.0,
@@ -55414,7 +55414,7 @@
       "slug": "nfl-chi-atl-2026-10-18",
       "side": "Falcons",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-18T09:10:01.182528+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
       "entry_price": 0.495,
       "current_price": 0.485,
       "stake": 100.0,
@@ -55439,7 +55439,7 @@
       "slug": "nfl-chi-atl-2026-10-18",
       "side": "Bears",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-18T09:10:01.182528+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
       "entry_price": 0.505,
       "current_price": 0.515,
       "stake": 100.0,
@@ -55539,7 +55539,7 @@
       "slug": "nfl-bal-cle-2026-10-18",
       "side": "Browns",
       "alerted_at": "2026-10-16T05:56:01.956199+00:00",
-      "last_seen": "2026-10-18T09:10:01.182528+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
       "entry_price": 0.335,
       "current_price": 0.385,
       "stake": 100.0,
@@ -56406,7 +56406,7 @@
       "current_value": 42.35,
       "paper_pnl": -57.65,
       "return_percent": -57.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 12860.29,
       "traders": [
@@ -56416,7 +56416,7 @@
         "GC-P"
       ],
       "url": "https://polymarket.com/event/cfb-utah-col-2026-10-17-spread-away-15pt5",
-      "consensus_lost_at": "2026-10-17T17:59:21.860795+00:00"
+      "consensus_lost_at": "2026-10-18T13:18:02.686921+00:00"
     },
     {
       "signal_id": "epl-mac-ips-2026-10-17-total-3pt5::Under",
@@ -57374,7 +57374,7 @@
       "slug": "nfl-ten-ind-2026-10-18-spread-home-6pt5",
       "side": "Titans",
       "alerted_at": "2026-10-18T09:10:01.182528+00:00",
-      "last_seen": "2026-10-18T09:10:01.182528+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
       "entry_price": 0.495,
       "current_price": 0.495,
       "stake": 100.0,
@@ -57559,7 +57559,128 @@
         "GC-P"
       ],
       "url": "https://polymarket.com/event/epl-lee-mun-2026-10-18-lee"
+    },
+    {
+      "signal_id": "nfl-ten-ind-2026-10-18-total-44pt5::Over",
+      "market": "Titans vs. Colts: O/U 44.5",
+      "slug": "nfl-ten-ind-2026-10-18-total-44pt5",
+      "side": "Over",
+      "alerted_at": "2026-10-18T13:18:02.686921+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
+      "entry_price": 0.485,
+      "current_price": 0.485,
+      "stake": 100.0,
+      "shares": 206.185567,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 41480.6,
+      "traders": [
+        "hi774c",
+        "ArielFilipino",
+        "HomeRunHazard",
+        "0xheavy888"
+      ],
+      "url": "https://polymarket.com/event/nfl-ten-ind-2026-10-18-total-44pt5"
+    },
+    {
+      "signal_id": "ere-zwo-goa-2026-10-18-zwo::Yes",
+      "market": "Will PEC Zwolle win on 2026-10-18?",
+      "slug": "ere-zwo-goa-2026-10-18-zwo",
+      "side": "Yes",
+      "alerted_at": "2026-10-18T13:18:02.686921+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 71974.86,
+      "traders": [
+        "plonker2026",
+        "0x4f2",
+        "0xheavy888"
+      ],
+      "url": "https://polymarket.com/event/ere-zwo-goa-2026-10-18-zwo"
+    },
+    {
+      "signal_id": "nfl-hou-jax-2026-10-18-total-42pt5::Under",
+      "market": "Texans vs. Jaguars: O/U 42.5",
+      "slug": "nfl-hou-jax-2026-10-18-total-42pt5",
+      "side": "Under",
+      "alerted_at": "2026-10-18T13:18:02.686921+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 65081.57,
+      "traders": [
+        "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+        "chubbytoro",
+        "monkeymashingkeyboard"
+      ],
+      "url": "https://polymarket.com/event/nfl-hou-jax-2026-10-18-total-42pt5"
+    },
+    {
+      "signal_id": "sea-fio-com-2026-10-18-com::Yes",
+      "market": "Will Como 1907 win on 2026-10-18?",
+      "slug": "sea-fio-com-2026-10-18-com",
+      "side": "Yes",
+      "alerted_at": "2026-10-18T13:18:02.686921+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
+      "entry_price": 0.405,
+      "current_price": 0.405,
+      "stake": 100.0,
+      "shares": 246.91358,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 22695.1,
+      "traders": [
+        "Woaifacai",
+        "LuckyLoo",
+        "hi774c"
+      ],
+      "url": "https://polymarket.com/event/sea-fio-com-2026-10-18-com"
+    },
+    {
+      "signal_id": "nfl-ten-ind-2026-10-18::Titans",
+      "market": "Titans vs. Colts",
+      "slug": "nfl-ten-ind-2026-10-18",
+      "side": "Titans",
+      "alerted_at": "2026-10-18T13:18:02.686921+00:00",
+      "last_seen": "2026-10-18T13:18:02.686921+00:00",
+      "entry_price": 0.265,
+      "current_price": 0.265,
+      "stake": 100.0,
+      "shares": 377.358491,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10661.13,
+      "traders": [
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+        "monkeymashingkeyboard",
+        "0x16bb9951a36fce71e2ef57890b786145e0ba8492"
+      ],
+      "url": "https://polymarket.com/event/nfl-ten-ind-2026-10-18"
     }
   ],
-  "updated_at": "2026-10-18T09:10:01.182528+00:00"
+  "updated_at": "2026-10-18T13:18:02.686921+00:00"
 }
