@@ -1,12 +1,38 @@
 {
   "seen_ids": [
-    "will-lamine-yamal-win-the-2026-ballon-dor::Yes",
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under",
-    "ucl-psg-fcb-2026-10-20-psg::No",
-    "wta-mertens-fernand-2026-10-18::Elise Mertens",
-    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes"
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+      "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 20930.55,
+      "holders": [
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 0.7036,
+          "value": 9995,
+          "avg_price": 0.51,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+          "roi": 0.2016,
+          "value": 7823.51,
+          "avg_price": 0.5936,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "sinasinner",
+          "roi": 0.4859,
+          "value": 3112.04,
+          "avg_price": 0.4931,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Lamine Yamal win the 2026 Ballon d'Or?",
       "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
@@ -34,36 +60,6 @@
           "value": 1135.67,
           "avg_price": 0.0112,
           "cur_price": 0.2625
-        }
-      ]
-    },
-    {
-      "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-      "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 20930.55,
-      "holders": [
-        {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.709,
-          "value": 9995,
-          "avg_price": 0.51,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
-          "roi": 0.2016,
-          "value": 7823.51,
-          "avg_price": 0.5936,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "sinasinner",
-          "roi": 0.4859,
-          "value": 3112.04,
-          "avg_price": 0.4931,
-          "cur_price": 0.9995
         }
       ]
     },
@@ -408,73 +404,6 @@
           "value": 955.16,
           "avg_price": 0.2438,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Chiefs (-7.5)",
-      "slug": "nfl-lac-kc-2026-10-18-spread-home-7pt5",
-      "outcome": "Chiefs",
-      "num_traders": 4,
-      "total_value": 70225.81,
-      "holders": [
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.65,
-          "value": 43790.87,
-          "avg_price": 0.4899,
-          "cur_price": 0.974
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1995,
-          "value": 15391.42,
-          "avg_price": 0.4786,
-          "cur_price": 0.99
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.3299,
-          "value": 8140.91,
-          "avg_price": 0.49,
-          "cur_price": 0.974
-        },
-        {
-          "trader": "Donkey14",
-          "roi": 0.3388,
-          "value": 2902.61,
-          "avg_price": 0.47,
-          "cur_price": 0.9745
-        }
-      ]
-    },
-    {
-      "market": "Tampa Bay Rays vs. Cleveland Guardians",
-      "slug": "mlb-tb-cle-2026-10-17",
-      "outcome": "Cleveland Guardians",
-      "num_traders": 3,
-      "total_value": 13619.17,
-      "holders": [
-        {
-          "trader": "Zzzz87",
-          "roi": 0.1655,
-          "value": 5804.19,
-          "avg_price": 0.4614,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
-          "roi": 0.3187,
-          "value": 5351.95,
-          "avg_price": 0.4152,
-          "cur_price": 0.105
-        },
-        {
-          "trader": "Donkey14",
-          "roi": 0.3388,
-          "value": 2463.03,
-          "avg_price": 0.46,
-          "cur_price": 0.105
         }
       ]
     }
@@ -3043,16 +2972,20 @@
     "cs2-furia-bb3-2026-10-18::FURIA": 3,
     "mls-fcc-clb-2026-10-18-clb::No": 3,
     "nfl-buf-lv-2026-10-18-spread-away-4pt5::Raiders": 3,
-    "nfl-lac-kc-2026-10-18-spread-home-7pt5::Chiefs": 2,
-    "mlb-tb-cle-2026-10-17::Cleveland Guardians": 2,
-    "nfl-dal-gb-2026-10-19::Packers": 1,
-    "bra-cre-bra-2026-10-18-bra::No": 1,
-    "arg-bel-riv-2026-10-18-riv::Yes": 1,
-    "bra-bah-fla-2026-10-18-fla::Yes": 1,
-    "bra-cre-bra-2026-10-18-draw::Yes": 1,
-    "arg-bel-riv-2026-10-18-bel::No": 1,
-    "bra-cre-bra-2026-10-18-cre::No": 1,
-    "bra2-vln-nov-2026-10-18-vln::No": 1
+    "nfl-lac-kc-2026-10-18-spread-home-7pt5::Chiefs": 3,
+    "mlb-tb-cle-2026-10-17::Cleveland Guardians": 3,
+    "nfl-dal-gb-2026-10-19::Packers": 2,
+    "bra-cre-bra-2026-10-18-bra::No": 2,
+    "arg-bel-riv-2026-10-18-riv::Yes": 2,
+    "bra-bah-fla-2026-10-18-fla::Yes": 2,
+    "bra-cre-bra-2026-10-18-draw::Yes": 2,
+    "arg-bel-riv-2026-10-18-bel::No": 2,
+    "bra-cre-bra-2026-10-18-cre::No": 2,
+    "bra2-vln-nov-2026-10-18-vln::No": 2,
+    "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 1,
+    "ucl-psg-fcb-2026-10-20-psg::No": 1,
+    "wta-mertens-fernand-2026-10-18::Elise Mertens": 1,
+    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 1
   },
-  "updated_at": "2026-10-19T06:43:30.984190+00:00"
+  "updated_at": "2026-10-19T14:01:43.431329+00:00"
 }
