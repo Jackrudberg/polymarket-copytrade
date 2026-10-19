@@ -1,9 +1,269 @@
 {
   "seen_ids": [
-    "nfl-lac-kc-2026-10-18-spread-home-7pt5::Chiefs",
-    "mlb-tb-cle-2026-10-17::Cleveland Guardians"
+    "nfl-dal-gb-2026-10-19::Packers",
+    "bra-cre-bra-2026-10-18-bra::No",
+    "arg-bel-riv-2026-10-18-riv::Yes",
+    "bra-bah-fla-2026-10-18-fla::Yes",
+    "bra-cre-bra-2026-10-18-draw::Yes",
+    "arg-bel-riv-2026-10-18-bel::No",
+    "bra-cre-bra-2026-10-18-cre::No",
+    "bra2-vln-nov-2026-10-18-vln::No"
   ],
   "signals": [
+    {
+      "market": "Cowboys vs. Packers",
+      "slug": "nfl-dal-gb-2026-10-19",
+      "outcome": "Packers",
+      "num_traders": 5,
+      "total_value": 398874.75,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.389,
+          "value": 251027.41,
+          "avg_price": 0.4857,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.6794,
+          "value": 66261.25,
+          "avg_price": 0.4873,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 0.2355,
+          "value": 43500,
+          "avg_price": 0.52,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "surfandturf",
+          "roi": 0.1766,
+          "value": 36249.84,
+          "avg_price": 0.48,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "alwaysfade",
+          "roi": 0.4082,
+          "value": 1836.25,
+          "avg_price": 0.51,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Will Red Bull Bragantino win on 2026-10-18?",
+      "slug": "bra-cre-bra-2026-10-18-bra",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 26589.84,
+      "holders": [
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 12996.01,
+          "avg_price": 0.4472,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 12554.65,
+          "avg_price": 0.6488,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 1039.18,
+          "avg_price": 0.3435,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will CA River Plate win on 2026-10-18?",
+      "slug": "arg-bel-riv-2026-10-18-riv",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 25812.83,
+      "holders": [
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 14020.84,
+          "avg_price": 0.5482,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 10898.45,
+          "avg_price": 0.4845,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 893.54,
+          "avg_price": 0.8599,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will CR Flamengo win on 2026-10-18?",
+      "slug": "bra-bah-fla-2026-10-18-fla",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 24767.5,
+      "holders": [
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 16804.4,
+          "avg_price": 0.6177,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 7466.07,
+          "avg_price": 0.6887,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 497.03,
+          "avg_price": 0.8635,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Clube do Remo vs. Red Bull Bragantino end in a draw?",
+      "slug": "bra-cre-bra-2026-10-18-draw",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 12291.21,
+      "holders": [
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 6910.49,
+          "avg_price": 0.7122,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 3944.14,
+          "avg_price": 0.6756,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 1436.58,
+          "avg_price": 0.6449,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will CA Belgrano win on 2026-10-18?",
+      "slug": "arg-bel-riv-2026-10-18-bel",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 9605.5,
+      "holders": [
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 6087.8,
+          "avg_price": 0.8008,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 2507.17,
+          "avg_price": 0.758,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 1010.53,
+          "avg_price": 0.7392,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Clube do Remo win on 2026-10-18?",
+      "slug": "bra-cre-bra-2026-10-18-cre",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 8679.29,
+      "holders": [
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 4647.89,
+          "avg_price": 0.7285,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 3911.66,
+          "avg_price": 0.8426,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 119.74,
+          "avg_price": 0.9,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Will Vila Nova FC win on 2026-10-18?",
+      "slug": "bra2-vln-nov-2026-10-18-vln",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 4408.94,
+      "holders": [
+        {
+          "trader": "GoalLineGhost",
+          "roi": 0.2115,
+          "value": 1965.69,
+          "avg_price": 0.91,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "oieshfn345",
+          "roi": 0.1882,
+          "value": 1488.09,
+          "avg_price": 0.3968,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1723,
+          "value": 955.16,
+          "avg_price": 0.2438,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Spread: Chiefs (-7.5)",
       "slug": "nfl-lac-kc-2026-10-18-spread-home-7pt5",
@@ -188,140 +448,6 @@
           "value": 586.59,
           "avg_price": 0.4899,
           "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Saints vs. Giants",
-      "slug": "nfl-no-nyg-2026-10-18",
-      "outcome": "Giants",
-      "num_traders": 5,
-      "total_value": 221050.75,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.1829,
-          "value": 77869.8,
-          "avg_price": 0.4813,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "justwins",
-          "roi": 0.5562,
-          "value": 72913.39,
-          "avg_price": 0.4899,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "Weaseloftheweek",
-          "roi": 0.1745,
-          "value": 56017.56,
-          "avg_price": 0.4599,
-          "cur_price": 0.265
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.2185,
-          "value": 8550,
-          "avg_price": 0.5,
-          "cur_price": 0.285
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3627,
-          "value": 5700,
-          "avg_price": 0.48,
-          "cur_price": 0.285
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Falcons",
-      "slug": "nfl-chi-atl-2026-10-18",
-      "outcome": "Bears",
-      "num_traders": 3,
-      "total_value": 111128.37,
-      "holders": [
-        {
-          "trader": "ArielFilipino",
-          "roi": 0.903,
-          "value": 58036.34,
-          "avg_price": 0.5124,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.1829,
-          "value": 46870.03,
-          "avg_price": 0.8491,
-          "cur_price": 0.915
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3627,
-          "value": 6222,
-          "avg_price": 0.51,
-          "cur_price": 0.915
-        }
-      ]
-    },
-    {
-      "market": "Bears vs. Falcons",
-      "slug": "nfl-chi-atl-2026-10-18",
-      "outcome": "Falcons",
-      "num_traders": 3,
-      "total_value": 38500.35,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.1829,
-          "value": 32125.35,
-          "avg_price": 0.4207,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.4915,
-          "value": 5100.0,
-          "avg_price": 0.48,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "Pwaddler",
-          "roi": 0.2691,
-          "value": 1275,
-          "avg_price": 0.48,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
-      "market": "Titans vs. Colts",
-      "slug": "nfl-ten-ind-2026-10-18",
-      "outcome": "Titans",
-      "num_traders": 3,
-      "total_value": 2492.44,
-      "holders": [
-        {
-          "trader": "Pwaddler",
-          "roi": 0.2691,
-          "value": 1000.13,
-          "avg_price": 0.2599,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3627,
-          "value": 840.64,
-          "avg_price": 0.2599,
-          "cur_price": 0.065
-        },
-        {
-          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-          "roi": 0.4915,
-          "value": 651.67,
-          "avg_price": 0.2599,
-          "cur_price": 0.065
         }
       ]
     }
@@ -2884,14 +3010,16 @@
     "nfl-ten-ind-2026-10-18-total-44pt5::Over": 3,
     "epl-not-ars-2026-10-18-total-2pt5::Under": 3,
     "lal-mala-rso-2026-10-18-mala::Yes": 3,
-    "nfl-no-nyg-2026-10-18::Giants": 2,
-    "nfl-chi-atl-2026-10-18::Bears": 2,
-    "nfl-chi-atl-2026-10-18::Falcons": 2,
-    "nfl-ten-ind-2026-10-18::Titans": 2,
-    "lal-rea-sev-2026-10-18-spread-home-2pt5::Real Madrid CF": 1,
-    "cs2-furia-bb3-2026-10-18::FURIA": 1,
-    "mls-fcc-clb-2026-10-18-clb::No": 1,
-    "nfl-buf-lv-2026-10-18-spread-away-4pt5::Raiders": 1
+    "nfl-no-nyg-2026-10-18::Giants": 3,
+    "nfl-chi-atl-2026-10-18::Bears": 3,
+    "nfl-chi-atl-2026-10-18::Falcons": 3,
+    "nfl-ten-ind-2026-10-18::Titans": 3,
+    "lal-rea-sev-2026-10-18-spread-home-2pt5::Real Madrid CF": 2,
+    "cs2-furia-bb3-2026-10-18::FURIA": 2,
+    "mls-fcc-clb-2026-10-18-clb::No": 2,
+    "nfl-buf-lv-2026-10-18-spread-away-4pt5::Raiders": 2,
+    "nfl-lac-kc-2026-10-18-spread-home-7pt5::Chiefs": 1,
+    "mlb-tb-cle-2026-10-17::Cleveland Guardians": 1
   },
-  "updated_at": "2026-10-18T23:23:33.607334+00:00"
+  "updated_at": "2026-10-19T01:29:06.711825+00:00"
 }

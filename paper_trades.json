@@ -57765,7 +57765,7 @@
       "current_value": 95.09,
       "paper_pnl": -4.91,
       "return_percent": -4.91,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 174863.35,
       "traders": [
@@ -57773,7 +57773,8 @@
         "Dragon-Evolution",
         "CORGII"
       ],
-      "url": "https://polymarket.com/event/cs2-furia-bb3-2026-10-18"
+      "url": "https://polymarket.com/event/cs2-furia-bb3-2026-10-18",
+      "consensus_lost_at": "2026-10-19T01:29:06.659943+00:00"
     },
     {
       "signal_id": "epl-not-ars-2026-10-18-total-2pt5::Under",
@@ -57864,7 +57865,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 425117.14,
       "traders": [
@@ -57872,7 +57873,8 @@
         "Zzzz87",
         "www511zwin"
       ],
-      "url": "https://polymarket.com/event/lal-rea-sev-2026-10-18-spread-home-2pt5"
+      "url": "https://polymarket.com/event/lal-rea-sev-2026-10-18-spread-home-2pt5",
+      "consensus_lost_at": "2026-10-19T01:29:06.659943+00:00"
     },
     {
       "signal_id": "mls-fcc-clb-2026-10-18-clb::No",
@@ -57888,7 +57890,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 111286.13,
       "traders": [
@@ -57896,7 +57898,8 @@
         "Zzzz87",
         "hi774c"
       ],
-      "url": "https://polymarket.com/event/mls-fcc-clb-2026-10-18-clb"
+      "url": "https://polymarket.com/event/mls-fcc-clb-2026-10-18-clb",
+      "consensus_lost_at": "2026-10-19T01:29:06.659943+00:00"
     },
     {
       "signal_id": "mlb-tb-cle-2026-10-17::Cleveland Guardians",
@@ -57936,7 +57939,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7237.98,
       "traders": [
@@ -57944,8 +57947,203 @@
         "takeormake",
         "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186"
       ],
-      "url": "https://polymarket.com/event/nfl-buf-lv-2026-10-18-spread-away-4pt5"
+      "url": "https://polymarket.com/event/nfl-buf-lv-2026-10-18-spread-away-4pt5",
+      "consensus_lost_at": "2026-10-19T01:29:06.659943+00:00"
+    },
+    {
+      "signal_id": "nfl-dal-gb-2026-10-19::Packers",
+      "market": "Cowboys vs. Packers",
+      "slug": "nfl-dal-gb-2026-10-19",
+      "side": "Packers",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.725,
+      "current_price": 0.725,
+      "stake": 100.0,
+      "shares": 137.931034,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 5,
+      "combined_value": 398874.75,
+      "traders": [
+        "Sassy-Bucket",
+        "AnonymousUsername",
+        "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+        "surfandturf",
+        "alwaysfade"
+      ],
+      "url": "https://polymarket.com/event/nfl-dal-gb-2026-10-19"
+    },
+    {
+      "signal_id": "bra-cre-bra-2026-10-18-bra::No",
+      "market": "Will Red Bull Bragantino win on 2026-10-18?",
+      "slug": "bra-cre-bra-2026-10-18-bra",
+      "side": "No",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 26589.84,
+      "traders": [
+        "GoalLineGhost",
+        "oieshfn345",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/bra-cre-bra-2026-10-18-bra"
+    },
+    {
+      "signal_id": "arg-bel-riv-2026-10-18-riv::Yes",
+      "market": "Will CA River Plate win on 2026-10-18?",
+      "slug": "arg-bel-riv-2026-10-18-riv",
+      "side": "Yes",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 25812.83,
+      "traders": [
+        "oieshfn345",
+        "GoalLineGhost",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/arg-bel-riv-2026-10-18-riv"
+    },
+    {
+      "signal_id": "bra-bah-fla-2026-10-18-fla::Yes",
+      "market": "Will CR Flamengo win on 2026-10-18?",
+      "slug": "bra-bah-fla-2026-10-18-fla",
+      "side": "Yes",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 24767.5,
+      "traders": [
+        "GoalLineGhost",
+        "oieshfn345",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/bra-bah-fla-2026-10-18-fla"
+    },
+    {
+      "signal_id": "bra-cre-bra-2026-10-18-draw::Yes",
+      "market": "Will Clube do Remo vs. Red Bull Bragantino end in a draw?",
+      "slug": "bra-cre-bra-2026-10-18-draw",
+      "side": "Yes",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12291.21,
+      "traders": [
+        "oieshfn345",
+        "GoalLineGhost",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/bra-cre-bra-2026-10-18-draw"
+    },
+    {
+      "signal_id": "arg-bel-riv-2026-10-18-bel::No",
+      "market": "Will CA Belgrano win on 2026-10-18?",
+      "slug": "arg-bel-riv-2026-10-18-bel",
+      "side": "No",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 9605.5,
+      "traders": [
+        "oieshfn345",
+        "GoalLineGhost",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/arg-bel-riv-2026-10-18-bel"
+    },
+    {
+      "signal_id": "bra-cre-bra-2026-10-18-cre::No",
+      "market": "Will Clube do Remo win on 2026-10-18?",
+      "slug": "bra-cre-bra-2026-10-18-cre",
+      "side": "No",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8679.29,
+      "traders": [
+        "GoalLineGhost",
+        "oieshfn345",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/bra-cre-bra-2026-10-18-cre"
+    },
+    {
+      "signal_id": "bra2-vln-nov-2026-10-18-vln::No",
+      "market": "Will Vila Nova FC win on 2026-10-18?",
+      "slug": "bra2-vln-nov-2026-10-18-vln",
+      "side": "No",
+      "alerted_at": "2026-10-19T01:29:06.659943+00:00",
+      "last_seen": "2026-10-19T01:29:06.659943+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4408.94,
+      "traders": [
+        "GoalLineGhost",
+        "oieshfn345",
+        "LuckyLoo"
+      ],
+      "url": "https://polymarket.com/event/bra2-vln-nov-2026-10-18-vln"
     }
   ],
-  "updated_at": "2026-10-18T23:23:33.556493+00:00"
+  "updated_at": "2026-10-19T01:29:06.659943+00:00"
 }
