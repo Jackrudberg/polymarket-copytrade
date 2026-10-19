@@ -5577,15 +5577,15 @@
       "slug": "will-lamine-yamal-win-the-2026-ballon-dor",
       "side": "Yes",
       "alerted_at": "2026-07-28T14:31:52.433427+00:00",
-      "last_seen": "2026-10-16T21:50:16.278223+00:00",
+      "last_seen": "2026-10-19T06:43:30.948575+00:00",
       "entry_price": 0.2475,
-      "current_price": 0.2785,
+      "current_price": 0.2625,
       "stake": 100.0,
       "shares": 404.040404,
-      "current_value": 112.53,
-      "paper_pnl": 12.53,
-      "return_percent": 12.53,
-      "status": "CONSENSUS_LOST",
+      "current_value": 106.06,
+      "paper_pnl": 6.06,
+      "return_percent": 6.06,
+      "status": "OPEN",
       "num_traders": 3,
       "combined_value": 1621.02,
       "traders": [
@@ -57840,7 +57840,7 @@
       "current_value": 176.13,
       "paper_pnl": 76.13,
       "return_percent": 76.13,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 39873.14,
       "traders": [
@@ -57849,7 +57849,8 @@
         "hi774c",
         "Donkey14"
       ],
-      "url": "https://polymarket.com/event/nfl-lac-kc-2026-10-18-spread-home-7pt5"
+      "url": "https://polymarket.com/event/nfl-lac-kc-2026-10-18-spread-home-7pt5",
+      "consensus_lost_at": "2026-10-19T06:43:30.948575+00:00"
     },
     {
       "signal_id": "lal-rea-sev-2026-10-18-spread-home-2pt5::Real Madrid CF",
@@ -57915,7 +57916,7 @@
       "current_value": 31.14,
       "paper_pnl": -68.86,
       "return_percent": -68.86,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 43728.02,
       "traders": [
@@ -57923,7 +57924,8 @@
         "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
         "Donkey14"
       ],
-      "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-17"
+      "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-17",
+      "consensus_lost_at": "2026-10-19T06:43:30.948575+00:00"
     },
     {
       "signal_id": "nfl-buf-lv-2026-10-18-spread-away-4pt5::Raiders",
@@ -58143,7 +58145,103 @@
         "LuckyLoo"
       ],
       "url": "https://polymarket.com/event/bra2-vln-nov-2026-10-18-vln"
+    },
+    {
+      "signal_id": "mlb-tb-cle-2026-10-17-total-6pt5::Under",
+      "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
+      "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
+      "side": "Under",
+      "alerted_at": "2026-10-19T06:43:30.948575+00:00",
+      "last_seen": "2026-10-19T06:43:30.948575+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 20930.55,
+      "traders": [
+        "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+        "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+        "sinasinner"
+      ],
+      "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-17-total-6pt5"
+    },
+    {
+      "signal_id": "ucl-psg-fcb-2026-10-20-psg::No",
+      "market": "Will Paris Saint-Germain FC win on 2026-10-20?",
+      "slug": "ucl-psg-fcb-2026-10-20-psg",
+      "side": "No",
+      "alerted_at": "2026-10-19T06:43:30.948575+00:00",
+      "last_seen": "2026-10-19T06:43:30.948575+00:00",
+      "entry_price": 0.605,
+      "current_price": 0.605,
+      "stake": 100.0,
+      "shares": 165.289256,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 18229.58,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "AnonymousUsername",
+        "donthackme"
+      ],
+      "url": "https://polymarket.com/event/ucl-psg-fcb-2026-10-20-psg"
+    },
+    {
+      "signal_id": "wta-mertens-fernand-2026-10-18::Elise Mertens",
+      "market": "Ningbo Open: Elise Mertens vs Leylah Fernandez",
+      "slug": "wta-mertens-fernand-2026-10-18",
+      "side": "Elise Mertens",
+      "alerted_at": "2026-10-19T06:43:30.948575+00:00",
+      "last_seen": "2026-10-19T06:43:30.948575+00:00",
+      "entry_price": 0.685,
+      "current_price": 0.685,
+      "stake": 100.0,
+      "shares": 145.985401,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 17101.74,
+      "traders": [
+        "HomeRunHazard",
+        "Salad1",
+        "Israel10"
+      ],
+      "url": "https://polymarket.com/event/wta-mertens-fernand-2026-10-18"
+    },
+    {
+      "signal_id": "will-the-milwaukee-brewers-win-the-2026-world-series::Yes",
+      "market": "Will the Milwaukee Brewers win the 2026 World Series?",
+      "slug": "will-the-milwaukee-brewers-win-the-2026-world-series",
+      "side": "Yes",
+      "alerted_at": "2026-10-19T06:43:30.948575+00:00",
+      "last_seen": "2026-10-19T06:43:30.948575+00:00",
+      "entry_price": 0.624,
+      "current_price": 0.624,
+      "stake": 100.0,
+      "shares": 160.25641,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 11487.18,
+      "traders": [
+        "AnonymousUsername",
+        "TAIWANNUMBERONE",
+        "donthackme"
+      ],
+      "url": "https://polymarket.com/event/will-the-milwaukee-brewers-win-the-2026-world-series"
     }
   ],
-  "updated_at": "2026-10-19T01:29:06.659943+00:00"
+  "updated_at": "2026-10-19T06:43:30.948575+00:00"
 }
