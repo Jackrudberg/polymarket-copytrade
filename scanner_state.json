@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under"
+    "nfl-was-sf-2026-10-20-total-52pt5::Over"
   ],
   "signals": [
+    {
+      "market": "Commanders vs. 49ers: O/U 52.5",
+      "slug": "nfl-was-sf-2026-10-20-total-52pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 7360.53,
+      "holders": [
+        {
+          "trader": "LuckyLoo",
+          "roi": 0.1896,
+          "value": 3358.65,
+          "avg_price": 0.46,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "sulumos",
+          "roi": 0.1866,
+          "value": 3087.74,
+          "avg_price": 0.46,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.152,
+          "value": 914.14,
+          "avg_price": 0.4699,
+          "cur_price": 0.305
+        }
+      ]
+    },
     {
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "2026-balance-of-power-d-senate-d-house-949",
@@ -2641,7 +2670,9 @@
     "will-lamine-yamal-win-the-2026-ballon-dor::Yes": 3,
     "ucl-psg-fcb-2026-10-20-psg::No": 3,
     "wta-mertens-fernand-2026-10-18::Elise Mertens": 3,
-    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 3
+    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 3,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 1
   },
-  "updated_at": "2026-10-19T23:09:14.729420+00:00"
+  "updated_at": "2026-10-20T01:49:17.245056+00:00"
 }
