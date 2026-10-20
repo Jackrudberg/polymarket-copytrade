@@ -1,8 +1,39 @@
 {
   "seen_ids": [
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
     "mlb-tb-cle-2026-10-17-total-6pt5::Under"
   ],
   "signals": [
+    {
+      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 588272.39,
+      "holders": [
+        {
+          "trader": "Votei14Voude22",
+          "roi": 1.3954,
+          "value": 480768.46,
+          "avg_price": 0.6472,
+          "cur_price": 0.797
+        },
+        {
+          "trader": "gopfan2",
+          "roi": 1.7344,
+          "value": 63028,
+          "avg_price": 0.2589,
+          "cur_price": 0.797
+        },
+        {
+          "trader": "balthazar",
+          "roi": 0.2483,
+          "value": 44475.93,
+          "avg_price": 0.8259,
+          "cur_price": 0.797
+        }
+      ]
+    },
     {
       "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
       "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
@@ -12,14 +43,14 @@
       "holders": [
         {
           "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.4171,
+          "roi": 0.5126,
           "value": 33235.07,
           "avg_price": 0.51,
           "cur_price": 0.9995
         },
         {
           "trader": "Talvez10",
-          "roi": 2.1753,
+          "roi": 2.1853,
           "value": 4271.31,
           "avg_price": 0.5099,
           "cur_price": 0.9995
@@ -2399,7 +2430,6 @@
     "mlb-mil-lad-2026-10-14::Los Angeles Dodgers": 3,
     "wta-svitoli-guo-2026-10-15::Hanyu Guo": 3,
     "wta-paolini-kartal-2026-10-14::Sonay Kartal": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "wta-paolini-kartal-2026-10-14::Jasmine Paolini": 3,
     "uel-rbs-mil1-2026-10-15-mil1::Yes": 3,
     "lol-we-bro2-2026-10-15::Team WE": 3,
@@ -2624,5 +2654,5 @@
     "ucl-sf-bvb-2026-10-20-bvb::No": 3,
     "lal-ray-bil-2026-10-10-ray::Yes": 3
   },
-  "updated_at": "2026-10-20T20:45:02.822799+00:00"
+  "updated_at": "2026-10-20T23:28:13.664373+00:00"
 }
