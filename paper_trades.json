@@ -58267,7 +58267,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7360.53,
       "traders": [
@@ -58275,7 +58275,8 @@
         "sulumos",
         "purplegatto"
       ],
-      "url": "https://polymarket.com/event/nfl-was-sf-2026-10-20-total-52pt5"
+      "url": "https://polymarket.com/event/nfl-was-sf-2026-10-20-total-52pt5",
+      "consensus_lost_at": "2026-10-20T12:18:39.987258+00:00"
     },
     {
       "signal_id": "ucl-nap-bog-2026-10-20-nap::Yes",
@@ -58519,5 +58520,5 @@
       "url": "https://polymarket.com/event/lal-ray-bil-2026-10-10-ray"
     }
   ],
-  "updated_at": "2026-10-20T06:44:34.557010+00:00"
+  "updated_at": "2026-10-20T12:18:39.987258+00:00"
 }
