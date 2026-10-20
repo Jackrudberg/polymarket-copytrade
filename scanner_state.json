@@ -1,92 +1,27 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under"
+  ],
   "signals": [
-    {
-      "market": "Will SSC Napoli win on 2026-10-20?",
-      "slug": "ucl-nap-bog-2026-10-20-nap",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 22988.57,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 18978.74,
-          "avg_price": 0.557,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 2668.58,
-          "avg_price": 0.5456,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 1226.25,
-          "avg_price": 0.5722,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 115.0,
-          "avg_price": 0.58,
-          "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Will AEK win on 2026-10-20?",
-      "slug": "ucl-mnc-aek1-2026-10-20-aek1",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 66210.93,
-      "holders": [
-        {
-          "trader": "0F62",
-          "roi": 0.1661,
-          "value": 60112.83,
-          "avg_price": 0.9674,
-          "cur_price": 0.9645
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 4434.34,
-          "avg_price": 0.9655,
-          "cur_price": 0.9645
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 1663.76,
-          "avg_price": 0.96,
-          "cur_price": 0.9645
-        }
-      ]
-    },
     {
       "market": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
       "slug": "mlb-tb-cle-2026-10-17-total-6pt5",
       "outcome": "Under",
       "num_traders": 3,
-      "total_value": 29853.97,
+      "total_value": 40618.42,
       "holders": [
         {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 16746.93,
-          "avg_price": 0.5186,
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.4171,
+          "value": 33235.07,
+          "avg_price": 0.51,
           "cur_price": 0.9995
         },
         {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.4945,
-          "value": 9995,
-          "avg_price": 0.51,
+          "trader": "Talvez10",
+          "roi": 2.1753,
+          "value": 4271.31,
+          "avg_price": 0.5099,
           "cur_price": 0.9995
         },
         {
@@ -95,336 +30,6 @@
           "value": 3112.04,
           "avg_price": 0.4931,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Paris Saint-Germain FC vs. FC Barcelona: Both Teams to Score",
-      "slug": "ucl-psg-fcb-2026-10-20-btts",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 28982.75,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 24606.05,
-          "avg_price": 0.8085,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 3370.45,
-          "avg_price": 0.802,
-          "cur_price": 0.805
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 1006.25,
-          "avg_price": 0.8,
-          "cur_price": 0.805
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: R Senate, R House",
-      "slug": "2026-balance-of-power-r-senate-r-house-537",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 24943.89,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2863,
-          "value": 23456.36,
-          "avg_price": 0.0798,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 1376.69,
-          "avg_price": 0.2021,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 110.84,
-          "avg_price": 0.1079,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
-      "market": "Will Athletic Club win on 2026-10-10?",
-      "slug": "lal-ray-bil-2026-10-10-bil",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 17780.29,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 11141.25,
-          "avg_price": 0.6222,
-          "cur_price": 0.54
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 5244.44,
-          "avg_price": 0.614,
-          "cur_price": 0.54
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 1394.6,
-          "avg_price": 0.6191,
-          "cur_price": 0.54
-        }
-      ]
-    },
-    {
-      "market": "Will Paris Saint-Germain FC win on 2026-10-20?",
-      "slug": "ucl-psg-fcb-2026-10-20-psg",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 10095.38,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 4981.84,
-          "avg_price": 0.5992,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 3167.86,
-          "avg_price": 0.6099,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 1945.68,
-          "avg_price": 0.6,
-          "cur_price": 0.615
-        }
-      ]
-    },
-    {
-      "market": "Will FC Barcelona win on 2026-10-20?",
-      "slug": "ucl-psg-fcb-2026-10-20-fcb",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 9005.6,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 6109.56,
-          "avg_price": 0.5943,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 2377.2,
-          "avg_price": 0.5991,
-          "cur_price": 0.595
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 518.84,
-          "avg_price": 0.6,
-          "cur_price": 0.595
-        }
-      ]
-    },
-    {
-      "market": "Paris Saint-Germain FC vs. FC Barcelona: O/U 4.5",
-      "slug": "ucl-psg-fcb-2026-10-20-total-4pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 6033.64,
-      "holders": [
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 2660.43,
-          "avg_price": 0.4456,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 2073.56,
-          "avg_price": 0.4439,
-          "cur_price": 0.425
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 1299.65,
-          "avg_price": 0.4301,
-          "cur_price": 0.425
-        }
-      ]
-    },
-    {
-      "market": "Spread: AS Roma (-2.5)",
-      "slug": "ucl-rom-sba-2026-10-20-spread-home-2pt5",
-      "outcome": "\u0160K Slovan Bratislava",
-      "num_traders": 3,
-      "total_value": 6005.09,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 3580.46,
-          "avg_price": 0.5012,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 2260.7,
-          "avg_price": 0.4899,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 163.93,
-          "avg_price": 0.53,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 5353.35,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 2473.76,
-          "avg_price": 0.0995,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 1880.43,
-          "avg_price": 0.0396,
-          "cur_price": 0.085
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2863,
-          "value": 999.16,
-          "avg_price": 0.09,
-          "cur_price": 0.085
-        }
-      ]
-    },
-    {
-      "market": "Will Paris Saint-Germain FC vs. FC Barcelona end in a draw?",
-      "slug": "ucl-psg-fcb-2026-10-20-draw",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 5266.81,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 2780.17,
-          "avg_price": 0.7851,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 1916.18,
-          "avg_price": 0.8069,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 570.46,
-          "avg_price": 0.78,
-          "cur_price": 0.785
-        }
-      ]
-    },
-    {
-      "market": "Will BV Borussia 09 Dortmund win on 2026-10-20?",
-      "slug": "ucl-sf-bvb-2026-10-20-bvb",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 2070.23,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 1398.95,
-          "avg_price": 0.249,
-          "cur_price": 0.245
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 528.69,
-          "avg_price": 0.25,
-          "cur_price": 0.245
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.2045,
-          "value": 142.59,
-          "avg_price": 0.3894,
-          "cur_price": 0.245
-        }
-      ]
-    },
-    {
-      "market": "Will Rayo Vallecano de Madrid win on 2026-10-10?",
-      "slug": "lal-ray-bil-2026-10-10-ray",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1608.01,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.1536,
-          "value": 673.27,
-          "avg_price": 0.33,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "GoalLineGhost",
-          "roi": 0.1631,
-          "value": 644.85,
-          "avg_price": 0.33,
-          "cur_price": 0.32
-        },
-        {
-          "trader": "NM-P",
-          "roi": 0.2566,
-          "value": 289.89,
-          "avg_price": 0.33,
-          "cur_price": 0.32
         }
       ]
     }
@@ -3005,20 +2610,19 @@
     "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 3,
     "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
     "nfl-was-sf-2026-10-20-total-52pt5::Over": 3,
-    "ucl-nap-bog-2026-10-20-nap::Yes": 2,
-    "ucl-mnc-aek1-2026-10-20-aek1::No": 2,
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 2,
-    "ucl-psg-fcb-2026-10-20-btts::Yes": 2,
-    "2026-balance-of-power-r-senate-r-house-537::Yes": 2,
-    "lal-ray-bil-2026-10-10-bil::No": 2,
-    "ucl-psg-fcb-2026-10-20-psg::No": 2,
-    "ucl-psg-fcb-2026-10-20-fcb::No": 2,
-    "ucl-psg-fcb-2026-10-20-total-4pt5::Over": 2,
-    "ucl-rom-sba-2026-10-20-spread-home-2pt5::\u0160K Slovan Bratislava": 2,
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 2,
-    "ucl-psg-fcb-2026-10-20-draw::No": 2,
-    "ucl-sf-bvb-2026-10-20-bvb::No": 2,
-    "lal-ray-bil-2026-10-10-ray::Yes": 2
+    "ucl-nap-bog-2026-10-20-nap::Yes": 3,
+    "ucl-mnc-aek1-2026-10-20-aek1::No": 3,
+    "ucl-psg-fcb-2026-10-20-btts::Yes": 3,
+    "2026-balance-of-power-r-senate-r-house-537::Yes": 3,
+    "lal-ray-bil-2026-10-10-bil::No": 3,
+    "ucl-psg-fcb-2026-10-20-psg::No": 3,
+    "ucl-psg-fcb-2026-10-20-fcb::No": 3,
+    "ucl-psg-fcb-2026-10-20-total-4pt5::Over": 3,
+    "ucl-rom-sba-2026-10-20-spread-home-2pt5::\u0160K Slovan Bratislava": 3,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
+    "ucl-psg-fcb-2026-10-20-draw::No": 3,
+    "ucl-sf-bvb-2026-10-20-bvb::No": 3,
+    "lal-ray-bil-2026-10-10-ray::Yes": 3
   },
-  "updated_at": "2026-10-20T17:21:22.695306+00:00"
+  "updated_at": "2026-10-20T20:45:02.822799+00:00"
 }
