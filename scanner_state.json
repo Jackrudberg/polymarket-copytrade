@@ -1,9 +1,107 @@
 {
   "seen_ids": [
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes",
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under"
+    "nba-phi-nyk-2026-10-20::Knicks",
+    "nba-okc-sas-2026-10-20::Thunder",
+    "nhl-tor-cbj-2026-10-20::Maple Leafs"
   ],
   "signals": [
+    {
+      "market": "76ers vs. Knicks",
+      "slug": "nba-phi-nyk-2026-10-20",
+      "outcome": "Knicks",
+      "num_traders": 4,
+      "total_value": 44482.26,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.869,
+          "value": 22920.55,
+          "avg_price": 0.3993,
+          "cur_price": 0.095
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.6299,
+          "value": 16149.95,
+          "avg_price": 0.6185,
+          "cur_price": 0.095
+        },
+        {
+          "trader": "Woaifacai",
+          "roi": 0.241,
+          "value": 4749.99,
+          "avg_price": 0.55,
+          "cur_price": 0.095
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5074,
+          "value": 661.77,
+          "avg_price": 0.5887,
+          "cur_price": 0.095
+        }
+      ]
+    },
+    {
+      "market": "Thunder vs. Spurs",
+      "slug": "nba-okc-sas-2026-10-20",
+      "outcome": "Thunder",
+      "num_traders": 3,
+      "total_value": 83926.45,
+      "holders": [
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.869,
+          "value": 53810.17,
+          "avg_price": 0.4893,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.6299,
+          "value": 19216.28,
+          "avg_price": 0.4996,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Nooserac",
+          "roi": 0.5074,
+          "value": 10900,
+          "avg_price": 0.5,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Maple Leafs vs. Blue Jackets",
+      "slug": "nhl-tor-cbj-2026-10-20",
+      "outcome": "Maple Leafs",
+      "num_traders": 3,
+      "total_value": 19925.3,
+      "holders": [
+        {
+          "trader": "Nooserac",
+          "roi": 0.5074,
+          "value": 17491.25,
+          "avg_price": 0.4,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "yabanci",
+          "roi": 0.8469,
+          "value": 1624.53,
+          "avg_price": 0.5187,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+          "roi": 0.869,
+          "value": 809.52,
+          "avg_price": 0.2724,
+          "cur_price": 0.9995
+        }
+      ]
+    },
     {
       "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
       "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
@@ -2652,7 +2750,9 @@
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
     "ucl-psg-fcb-2026-10-20-draw::No": 3,
     "ucl-sf-bvb-2026-10-20-bvb::No": 3,
-    "lal-ray-bil-2026-10-10-ray::Yes": 3
+    "lal-ray-bil-2026-10-10-ray::Yes": 3,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 1
   },
-  "updated_at": "2026-10-20T23:28:13.664373+00:00"
+  "updated_at": "2026-10-21T01:55:35.589007+00:00"
 }
