@@ -1,10 +1,386 @@
 {
   "seen_ids": [
-    "nba-phi-nyk-2026-10-20::Knicks",
-    "nba-okc-sas-2026-10-20::Thunder",
-    "nhl-tor-cbj-2026-10-20::Maple Leafs"
+    "nba-min-mia-2026-10-21-total-243pt5::Under",
+    "nba-atl-orl-2026-10-21::Magic",
+    "wta-boulter-golubic-2026-10-21::Katie Boulter",
+    "nba-min-mia-2026-10-21::Heat",
+    "nba-cha-bkn-2026-10-21::Nets",
+    "nfl-pit-no-2026-10-25-spread-away-2pt5::Steelers",
+    "nba-min-mia-2026-10-21::Timberwolves",
+    "nba-chi-tor-2026-10-21::Raptors",
+    "nba-dal-hou-2026-10-21-spread-home-8pt5::Rockets",
+    "nba-mil-was-2026-10-21-total-238pt5::Over",
+    "nba-mil-was-2026-10-21::Bucks",
+    "nba-cha-bkn-2026-10-21::Hornets"
   ],
   "signals": [
+    {
+      "market": "Timberwolves vs. Heat: O/U 243.5",
+      "slug": "nba-min-mia-2026-10-21-total-243pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 9828.81,
+      "holders": [
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2333,
+          "value": 7930.52,
+          "avg_price": 0.53,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 1320.9,
+          "avg_price": 0.5062,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2217,
+          "value": 475.87,
+          "avg_price": 0.52,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 101.52,
+          "avg_price": 0.5199,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Hawks vs. Magic",
+      "slug": "nba-atl-orl-2026-10-21",
+      "outcome": "Magic",
+      "num_traders": 3,
+      "total_value": 19941.34,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 16772.55,
+          "avg_price": 0.5599,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "scootergene",
+          "roi": 0.2756,
+          "value": 2399.45,
+          "avg_price": 0.5699,
+          "cur_price": 0.575
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 769.34,
+          "avg_price": 0.5797,
+          "cur_price": 0.575
+        }
+      ]
+    },
+    {
+      "market": "Japan Women's Open: Katie Boulter vs Viktorija Golubic",
+      "slug": "wta-boulter-golubic-2026-10-21",
+      "outcome": "Katie Boulter",
+      "num_traders": 3,
+      "total_value": 19749.75,
+      "holders": [
+        {
+          "trader": "Kkunn",
+          "roi": 0.1857,
+          "value": 14992.5,
+          "avg_price": 0.5999,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 4538.96,
+          "avg_price": 0.6213,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 0.1915,
+          "value": 218.29,
+          "avg_price": 0.8,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "outcome": "Heat",
+      "num_traders": 3,
+      "total_value": 16107.42,
+      "holders": [
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2333,
+          "value": 12875,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 2475.35,
+          "avg_price": 0.5199,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 757.07,
+          "avg_price": 0.5023,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Hornets vs. Nets",
+      "slug": "nba-cha-bkn-2026-10-21",
+      "outcome": "Nets",
+      "num_traders": 3,
+      "total_value": 12818.12,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 9954.36,
+          "avg_price": 0.5251,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 1869.62,
+          "avg_price": 0.5391,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2217,
+          "value": 994.14,
+          "avg_price": 0.52,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Spread: Steelers (-2.5)",
+      "slug": "nfl-pit-no-2026-10-25-spread-away-2pt5",
+      "outcome": "Steelers",
+      "num_traders": 3,
+      "total_value": 10997.62,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 1.7175,
+          "value": 7884.42,
+          "avg_price": 0.5399,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.3164,
+          "value": 2991.68,
+          "avg_price": 0.5399,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 121.52,
+          "avg_price": 0.5224,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "outcome": "Timberwolves",
+      "num_traders": 3,
+      "total_value": 8799.49,
+      "holders": [
+        {
+          "trader": "Forecastication2",
+          "roi": 0.978,
+          "value": 6467.2,
+          "avg_price": 0.48,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 1189.93,
+          "avg_price": 0.4893,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 1142.36,
+          "avg_price": 0.4899,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Bulls vs. Raptors",
+      "slug": "nba-chi-tor-2026-10-21",
+      "outcome": "Raptors",
+      "num_traders": 3,
+      "total_value": 6072.03,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 2189.73,
+          "avg_price": 0.7592,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "mooseborzoii",
+          "roi": 0.2217,
+          "value": 2071.29,
+          "avg_price": 0.78,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 1811.01,
+          "avg_price": 0.7799,
+          "cur_price": 0.785
+        }
+      ]
+    },
+    {
+      "market": "Spread: Rockets (-8.5)",
+      "slug": "nba-dal-hou-2026-10-21-spread-home-8pt5",
+      "outcome": "Rockets",
+      "num_traders": 3,
+      "total_value": 4568.66,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 2515.8,
+          "avg_price": 0.5,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2333,
+          "value": 1572.23,
+          "avg_price": 0.5153,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 480.63,
+          "avg_price": 0.5195,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Bucks vs. Wizards: O/U 238.5",
+      "slug": "nba-mil-was-2026-10-21-total-238pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 2777.22,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 2199.1,
+          "avg_price": 0.5075,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 1.3164,
+          "value": 474.64,
+          "avg_price": 0.52,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 103.48,
+          "avg_price": 0.521,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Bucks vs. Wizards",
+      "slug": "nba-mil-was-2026-10-21",
+      "outcome": "Bucks",
+      "num_traders": 3,
+      "total_value": 2583.26,
+      "holders": [
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2333,
+          "value": 2079.0,
+          "avg_price": 0.38,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 362.36,
+          "avg_price": 0.3599,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 141.9,
+          "avg_price": 0.3752,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Hornets vs. Nets",
+      "slug": "nba-cha-bkn-2026-10-21",
+      "outcome": "Hornets",
+      "num_traders": 3,
+      "total_value": 2176.07,
+      "holders": [
+        {
+          "trader": "HomeRunHazard",
+          "roi": 0.1969,
+          "value": 1339.61,
+          "avg_price": 0.43,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "Herdonia",
+          "roi": 0.8392,
+          "value": 725.36,
+          "avg_price": 0.4384,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "AgriasOaks",
+          "roi": 0.4878,
+          "value": 111.1,
+          "avg_price": 0.45,
+          "cur_price": 0.455
+        }
+      ]
+    },
     {
       "market": "76ers vs. Knicks",
       "slug": "nba-phi-nyk-2026-10-20",
@@ -2751,8 +3127,11 @@
     "ucl-psg-fcb-2026-10-20-draw::No": 3,
     "ucl-sf-bvb-2026-10-20-bvb::No": 3,
     "lal-ray-bil-2026-10-10-ray::Yes": 3,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 1,
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 1
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 2,
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 2,
+    "nba-phi-nyk-2026-10-20::Knicks": 1,
+    "nba-okc-sas-2026-10-20::Thunder": 1,
+    "nhl-tor-cbj-2026-10-20::Maple Leafs": 1
   },
-  "updated_at": "2026-10-21T01:55:35.589007+00:00"
+  "updated_at": "2026-10-21T07:12:53.356912+00:00"
 }

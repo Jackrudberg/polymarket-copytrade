@@ -5635,7 +5635,7 @@
       "current_value": 334.17,
       "paper_pnl": 234.17,
       "return_percent": 234.17,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 23156.43,
       "traders": [
@@ -5644,7 +5644,7 @@
         "donthackme"
       ],
       "url": "https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "consensus_lost_at": "2026-10-15T16:52:45.865571+00:00"
+      "consensus_lost_at": "2026-10-21T07:12:53.307292+00:00"
     },
     {
       "signal_id": "israel-x-iran-ceasefire-continues-through-july-25-20260716224448967-454::Yes",
@@ -58168,7 +58168,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20930.55,
       "traders": [
@@ -58177,7 +58177,7 @@
         "sinasinner"
       ],
       "url": "https://polymarket.com/event/mlb-tb-cle-2026-10-17-total-6pt5",
-      "consensus_lost_at": "2026-10-20T17:21:22.646363+00:00"
+      "consensus_lost_at": "2026-10-21T07:12:53.307292+00:00"
     },
     {
       "signal_id": "ucl-psg-fcb-2026-10-20-psg::No",
@@ -58602,7 +58602,296 @@
         "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465"
       ],
       "url": "https://polymarket.com/event/nhl-tor-cbj-2026-10-20"
+    },
+    {
+      "signal_id": "nba-min-mia-2026-10-21-total-243pt5::Under",
+      "market": "Timberwolves vs. Heat: O/U 243.5",
+      "slug": "nba-min-mia-2026-10-21-total-243pt5",
+      "side": "Under",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.535,
+      "current_price": 0.535,
+      "stake": 100.0,
+      "shares": 186.915888,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 9828.81,
+      "traders": [
+        "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+        "HomeRunHazard",
+        "mooseborzoii",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-min-mia-2026-10-21-total-243pt5"
+    },
+    {
+      "signal_id": "nba-atl-orl-2026-10-21::Magic",
+      "market": "Hawks vs. Magic",
+      "slug": "nba-atl-orl-2026-10-21",
+      "side": "Magic",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.575,
+      "current_price": 0.575,
+      "stake": 100.0,
+      "shares": 173.913043,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 19941.34,
+      "traders": [
+        "HomeRunHazard",
+        "scootergene",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-atl-orl-2026-10-21"
+    },
+    {
+      "signal_id": "wta-boulter-golubic-2026-10-21::Katie Boulter",
+      "market": "Japan Women's Open: Katie Boulter vs Viktorija Golubic",
+      "slug": "wta-boulter-golubic-2026-10-21",
+      "side": "Katie Boulter",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 19749.75,
+      "traders": [
+        "Kkunn",
+        "HomeRunHazard",
+        "omnibus-076daa"
+      ],
+      "url": "https://polymarket.com/event/wta-boulter-golubic-2026-10-21"
+    },
+    {
+      "signal_id": "nba-min-mia-2026-10-21::Heat",
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "side": "Heat",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.515,
+      "current_price": 0.515,
+      "stake": 100.0,
+      "shares": 194.174757,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 16107.42,
+      "traders": [
+        "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+        "Herdonia",
+        "HomeRunHazard"
+      ],
+      "url": "https://polymarket.com/event/nba-min-mia-2026-10-21"
+    },
+    {
+      "signal_id": "nba-cha-bkn-2026-10-21::Nets",
+      "market": "Hornets vs. Nets",
+      "slug": "nba-cha-bkn-2026-10-21",
+      "side": "Nets",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.545,
+      "current_price": 0.545,
+      "stake": 100.0,
+      "shares": 183.486239,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 12818.12,
+      "traders": [
+        "HomeRunHazard",
+        "Herdonia",
+        "mooseborzoii"
+      ],
+      "url": "https://polymarket.com/event/nba-cha-bkn-2026-10-21"
+    },
+    {
+      "signal_id": "nfl-pit-no-2026-10-25-spread-away-2pt5::Steelers",
+      "market": "Spread: Steelers (-2.5)",
+      "slug": "nfl-pit-no-2026-10-25-spread-away-2pt5",
+      "side": "Steelers",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.565,
+      "current_price": 0.565,
+      "stake": 100.0,
+      "shares": 176.99115,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 10997.62,
+      "traders": [
+        "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+        "ic4cream",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nfl-pit-no-2026-10-25-spread-away-2pt5"
+    },
+    {
+      "signal_id": "nba-min-mia-2026-10-21::Timberwolves",
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "side": "Timberwolves",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.485,
+      "current_price": 0.485,
+      "stake": 100.0,
+      "shares": 206.185567,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8799.49,
+      "traders": [
+        "Forecastication2",
+        "Herdonia",
+        "HomeRunHazard"
+      ],
+      "url": "https://polymarket.com/event/nba-min-mia-2026-10-21"
+    },
+    {
+      "signal_id": "nba-chi-tor-2026-10-21::Raptors",
+      "market": "Bulls vs. Raptors",
+      "slug": "nba-chi-tor-2026-10-21",
+      "side": "Raptors",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.785,
+      "current_price": 0.785,
+      "stake": 100.0,
+      "shares": 127.388535,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 6072.03,
+      "traders": [
+        "HomeRunHazard",
+        "mooseborzoii",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-chi-tor-2026-10-21"
+    },
+    {
+      "signal_id": "nba-dal-hou-2026-10-21-spread-home-8pt5::Rockets",
+      "market": "Spread: Rockets (-8.5)",
+      "slug": "nba-dal-hou-2026-10-21-spread-home-8pt5",
+      "side": "Rockets",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 4568.66,
+      "traders": [
+        "HomeRunHazard",
+        "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-dal-hou-2026-10-21-spread-home-8pt5"
+    },
+    {
+      "signal_id": "nba-mil-was-2026-10-21-total-238pt5::Over",
+      "market": "Bucks vs. Wizards: O/U 238.5",
+      "slug": "nba-mil-was-2026-10-21-total-238pt5",
+      "side": "Over",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.525,
+      "current_price": 0.525,
+      "stake": 100.0,
+      "shares": 190.47619,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2777.22,
+      "traders": [
+        "HomeRunHazard",
+        "ic4cream",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-mil-was-2026-10-21-total-238pt5"
+    },
+    {
+      "signal_id": "nba-mil-was-2026-10-21::Bucks",
+      "market": "Bucks vs. Wizards",
+      "slug": "nba-mil-was-2026-10-21",
+      "side": "Bucks",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.375,
+      "current_price": 0.375,
+      "stake": 100.0,
+      "shares": 266.666667,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2583.26,
+      "traders": [
+        "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+        "HomeRunHazard",
+        "Herdonia"
+      ],
+      "url": "https://polymarket.com/event/nba-mil-was-2026-10-21"
+    },
+    {
+      "signal_id": "nba-cha-bkn-2026-10-21::Hornets",
+      "market": "Hornets vs. Nets",
+      "slug": "nba-cha-bkn-2026-10-21",
+      "side": "Hornets",
+      "alerted_at": "2026-10-21T07:12:53.307292+00:00",
+      "last_seen": "2026-10-21T07:12:53.307292+00:00",
+      "entry_price": 0.455,
+      "current_price": 0.455,
+      "stake": 100.0,
+      "shares": 219.78022,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 2176.07,
+      "traders": [
+        "HomeRunHazard",
+        "Herdonia",
+        "AgriasOaks"
+      ],
+      "url": "https://polymarket.com/event/nba-cha-bkn-2026-10-21"
     }
   ],
-  "updated_at": "2026-10-21T01:55:35.541062+00:00"
+  "updated_at": "2026-10-21T07:12:53.307292+00:00"
 }
