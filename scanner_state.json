@@ -1,45 +1,298 @@
 {
   "seen_ids": [
     "nba-atl-orl-2026-10-21::Hawks",
+    "nhl-fla-ott-2026-10-21::Senators",
+    "nba-mil-was-2026-10-21::Bucks",
+    "nba-mil-was-2026-10-21-spread-home-4pt5::Bucks",
+    "nba-mil-was-2026-10-21::Wizards",
+    "nba-uta-mem-2026-10-21::Jazz",
+    "nba-ind-nop-2026-10-21::Pacers",
     "nba-cha-bkn-2026-10-21::Nets",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
-    "nba-cha-bkn-2026-10-21-spread-away-1pt5::Hornets"
+    "nba-ind-nop-2026-10-21-spread-away-3pt5::Pelicans",
+    "nba-min-mia-2026-10-21-spread-home-1pt5::Heat",
+    "nba-mil-was-2026-10-21-spread-home-4pt5::Wizards",
+    "nba-min-mia-2026-10-21::Timberwolves",
+    "nba-chi-tor-2026-10-21-spread-home-10pt5::Bulls",
+    "nba-min-mia-2026-10-21::Heat"
   ],
   "signals": [
     {
       "market": "Hawks vs. Magic",
       "slug": "nba-atl-orl-2026-10-21",
       "outcome": "Hawks",
-      "num_traders": 4,
-      "total_value": 97040.02,
+      "num_traders": 7,
+      "total_value": 144889.62,
       "holders": [
         {
           "trader": "EdZachary",
-          "roi": 0.5111,
-          "value": 44499.9,
+          "roi": 0.1606,
+          "value": 67499.85,
           "avg_price": 0.4449,
-          "cur_price": 0.445
+          "cur_price": 0.675
         },
         {
-          "trader": "Donkey14",
-          "roi": 2.2705,
-          "value": 20227.27,
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3534,
+          "value": 44999.49,
           "avg_price": 0.44,
-          "cur_price": 0.445
-        },
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.1656,
-          "value": 18962.85,
-          "avg_price": 0.44,
-          "cur_price": 0.445
+          "cur_price": 0.675
         },
         {
           "trader": "Soarin22",
-          "roi": 0.5115,
-          "value": 13350,
+          "roi": 0.2903,
+          "value": 19950,
           "avg_price": 0.44,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 7556.81,
+          "avg_price": 0.44,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 4017.76,
+          "avg_price": 0.3881,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2754,
+          "value": 525.15,
+          "avg_price": 0.45,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "betdge",
+          "roi": 0.3875,
+          "value": 340.56,
+          "avg_price": 0.33,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Panthers vs. Senators",
+      "slug": "nhl-fla-ott-2026-10-21",
+      "outcome": "Senators",
+      "num_traders": 5,
+      "total_value": 33551.07,
+      "holders": [
+        {
+          "trader": "taylorsversion",
+          "roi": 1.2924,
+          "value": 14283.26,
+          "avg_price": 0.4999,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "BrotherObama",
+          "roi": 0.5287,
+          "value": 13137.25,
+          "avg_price": 0.5099,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 3350,
+          "avg_price": 0.5,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2754,
+          "value": 1608.06,
+          "avg_price": 0.5039,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x20D6436849F930584892730C7F96eBB2Ac763856-1768642056357",
+          "roi": 0.412,
+          "value": 1172.5,
+          "avg_price": 0.5,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Bucks vs. Wizards",
+      "slug": "nba-mil-was-2026-10-21",
+      "outcome": "Bucks",
+      "num_traders": 5,
+      "total_value": 20764.78,
+      "holders": [
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 7508.82,
+          "avg_price": 0.3765,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 6088.08,
+          "avg_price": 0.39,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "betdge",
+          "roi": 0.3875,
+          "value": 5937.5,
+          "avg_price": 0.42,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.8314,
+          "value": 1057.83,
+          "avg_price": 0.4,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3534,
+          "value": 172.55,
+          "avg_price": 0.39,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Spread: Wizards (-4.5)",
+      "slug": "nba-mil-was-2026-10-21-spread-home-4pt5",
+      "outcome": "Bucks",
+      "num_traders": 4,
+      "total_value": 53082.01,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3534,
+          "value": 35099.97,
+          "avg_price": 0.51,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 11949.68,
+          "avg_price": 0.4608,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "Soarin22",
+          "roi": 0.2903,
+          "value": 4480.35,
+          "avg_price": 0.4991,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.8314,
+          "value": 1552.01,
+          "avg_price": 0.49,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Bucks vs. Wizards",
+      "slug": "nba-mil-was-2026-10-21",
+      "outcome": "Wizards",
+      "num_traders": 4,
+      "total_value": 26743.64,
+      "holders": [
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 13228.82,
+          "avg_price": 0.5972,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 6730.77,
+          "avg_price": 0.61,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+          "roi": 0.2129,
+          "value": 5250,
+          "avg_price": 0.61,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.2754,
+          "value": 1534.05,
+          "avg_price": 0.62,
+          "cur_price": 0.525
+        }
+      ]
+    },
+    {
+      "market": "Jazz vs. Grizzlies",
+      "slug": "nba-uta-mem-2026-10-21",
+      "outcome": "Jazz",
+      "num_traders": 3,
+      "total_value": 50464.5,
+      "holders": [
+        {
+          "trader": "EdZachary",
+          "roi": 0.1606,
+          "value": 44499.92,
+          "avg_price": 0.4749,
           "cur_price": 0.445
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 4836.95,
+          "avg_price": 0.46,
+          "cur_price": 0.445
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.8314,
+          "value": 1127.63,
+          "avg_price": 0.45,
+          "cur_price": 0.445
+        }
+      ]
+    },
+    {
+      "market": "Pacers vs. Pelicans",
+      "slug": "nba-ind-nop-2026-10-21",
+      "outcome": "Pacers",
+      "num_traders": 3,
+      "total_value": 44123.46,
+      "holders": [
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 37045.6,
+          "avg_price": 0.557,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 6453.48,
+          "avg_price": 0.57,
+          "cur_price": 0.555
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.8314,
+          "value": 624.38,
+          "avg_price": 0.5702,
+          "cur_price": 0.555
         }
       ]
     },
@@ -48,28 +301,208 @@
       "slug": "nba-cha-bkn-2026-10-21",
       "outcome": "Nets",
       "num_traders": 3,
-      "total_value": 61719.17,
+      "total_value": 36909.12,
       "holders": [
         {
           "trader": "EdZachary",
-          "roi": 0.5111,
-          "value": 32973.67,
+          "roi": 0.1606,
+          "value": 26154.4,
           "avg_price": 0.47,
-          "cur_price": 0.475
+          "cur_price": 0.375
         },
         {
-          "trader": "Donkey14",
-          "roi": 2.2705,
-          "value": 20212.76,
-          "avg_price": 0.47,
-          "cur_price": 0.475
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 7940.35,
+          "avg_price": 0.4745,
+          "cur_price": 0.375
         },
         {
-          "trader": "mooseborzoii",
-          "roi": 0.1656,
-          "value": 8532.74,
-          "avg_price": 0.484,
-          "cur_price": 0.475
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 2814.37,
+          "avg_price": 0.47,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Spread: Pacers (-3.5)",
+      "slug": "nba-ind-nop-2026-10-21-spread-away-3pt5",
+      "outcome": "Pelicans",
+      "num_traders": 3,
+      "total_value": 33311.32,
+      "holders": [
+        {
+          "trader": "www511zwin",
+          "roi": 0.2445,
+          "value": 22434.3,
+          "avg_price": 0.5344,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "EdZachary",
+          "roi": 0.1606,
+          "value": 10212.66,
+          "avg_price": 0.52,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.8314,
+          "value": 664.36,
+          "avg_price": 0.51,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Spread: Heat (-1.5)",
+      "slug": "nba-min-mia-2026-10-21-spread-home-1pt5",
+      "outcome": "Heat",
+      "num_traders": 3,
+      "total_value": 28281.34,
+      "holders": [
+        {
+          "trader": "www511zwin",
+          "roi": 0.2445,
+          "value": 16159.62,
+          "avg_price": 0.5105,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.3534,
+          "value": 11489.93,
+          "avg_price": 0.51,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 631.79,
+          "avg_price": 0.4866,
+          "cur_price": 0.375
+        }
+      ]
+    },
+    {
+      "market": "Spread: Wizards (-4.5)",
+      "slug": "nba-mil-was-2026-10-21-spread-home-4pt5",
+      "outcome": "Wizards",
+      "num_traders": 3,
+      "total_value": 21544.99,
+      "holders": [
+        {
+          "trader": "www511zwin",
+          "roi": 0.2445,
+          "value": 17600,
+          "avg_price": 0.5,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "betdge",
+          "roi": 0.3875,
+          "value": 2305.84,
+          "avg_price": 0.5243,
+          "cur_price": 0.4
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 1639.15,
+          "avg_price": 0.4812,
+          "cur_price": 0.415
+        }
+      ]
+    },
+    {
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "outcome": "Timberwolves",
+      "num_traders": 3,
+      "total_value": 18172.83,
+      "holders": [
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 6436.17,
+          "avg_price": 0.47,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "Soarin22",
+          "roi": 0.2903,
+          "value": 6050,
+          "avg_price": 0.47,
+          "cur_price": 0.605
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 5686.66,
+          "avg_price": 0.5878,
+          "cur_price": 0.605
+        }
+      ]
+    },
+    {
+      "market": "Spread: Raptors (-10.5)",
+      "slug": "nba-chi-tor-2026-10-21-spread-home-10pt5",
+      "outcome": "Bulls",
+      "num_traders": 3,
+      "total_value": 15918.1,
+      "holders": [
+        {
+          "trader": "www511zwin",
+          "roi": 0.2445,
+          "value": 12760,
+          "avg_price": 0.5,
+          "cur_price": 0.29
+        },
+        {
+          "trader": "Bozos14",
+          "roi": 0.2489,
+          "value": 2950,
+          "avg_price": 0.5,
+          "cur_price": 0.295
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 208.1,
+          "avg_price": 0.4553,
+          "cur_price": 0.285
+        }
+      ]
+    },
+    {
+      "market": "Timberwolves vs. Heat",
+      "slug": "nba-min-mia-2026-10-21",
+      "outcome": "Heat",
+      "num_traders": 3,
+      "total_value": 15251.2,
+      "holders": [
+        {
+          "trader": "BrotherObama",
+          "roi": 0.5287,
+          "value": 10917.7,
+          "avg_price": 0.5426,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "keeptheblueflagflyinghigh",
+          "roi": 6.2786,
+          "value": 3735.3,
+          "avg_price": 0.4292,
+          "cur_price": 0.395
+        },
+        {
+          "trader": "Soarin22",
+          "roi": 0.2903,
+          "value": 598.2,
+          "avg_price": 0.53,
+          "cur_price": 0.395
         }
       ]
     },
@@ -197,36 +630,6 @@
           "value": 5210.89,
           "avg_price": 0.33,
           "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Spread: Pacers (-3.5)",
-      "slug": "nba-ind-nop-2026-10-21-spread-away-3pt5",
-      "outcome": "Pelicans",
-      "num_traders": 3,
-      "total_value": 21013.16,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.1918,
-          "value": 16359.5,
-          "avg_price": 0.5,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "vibing123",
-          "roi": 0.1661,
-          "value": 4039.98,
-          "avg_price": 0.51,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.1664,
-          "value": 613.68,
-          "avg_price": 0.5024,
-          "cur_price": 0.505
         }
       ]
     },
@@ -527,126 +930,6 @@
           "value": 413.08,
           "avg_price": 0.49,
           "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Will the Iranian regime fall before 2027?",
-      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 144270.98,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.2546,
-          "value": 82195.06,
-          "avg_price": 0.4131,
-          "cur_price": 0.955
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.5792,
-          "value": 57341.32,
-          "avg_price": 0.836,
-          "cur_price": 0.955
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.581,
-          "value": 4734.6,
-          "avg_price": 0.8099,
-          "cur_price": 0.955
-        }
-      ]
-    },
-    {
-      "market": "Spread: Clippers (-4.5)",
-      "slug": "nba-sac-lac-2026-10-21-spread-home-4pt5",
-      "outcome": "Clippers",
-      "num_traders": 3,
-      "total_value": 58614.3,
-      "holders": [
-        {
-          "trader": "mooseborzoii",
-          "roi": 0.2108,
-          "value": 50066.52,
-          "avg_price": 0.5356,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.4208,
-          "value": 8237.77,
-          "avg_price": 0.53,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.4352,
-          "value": 310.01,
-          "avg_price": 0.5351,
-          "cur_price": 0.525
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Iowa Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 27866.85,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.1588,
-          "value": 27125.34,
-          "avg_price": 0.5947,
-          "cur_price": 0.58
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.2546,
-          "value": 590.51,
-          "avg_price": 0.51,
-          "cur_price": 0.58
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.4582,
-          "value": 151.0,
-          "avg_price": 0.5699,
-          "cur_price": 0.58
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 26151.14,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.2546,
-          "value": 10414.97,
-          "avg_price": 0.4599,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.581,
-          "value": 8569.57,
-          "avg_price": 0.5,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "Anjun",
-          "roi": 0.5792,
-          "value": 7166.6,
-          "avg_price": 0.6299,
-          "cur_price": 0.645
         }
       ]
     }
@@ -3241,29 +3524,27 @@
     "nhl-tor-cbj-2026-10-20::Maple Leafs": 3,
     "nba-atl-orl-2026-10-21::Magic": 3,
     "wta-boulter-golubic-2026-10-21::Katie Boulter": 3,
-    "nba-min-mia-2026-10-21::Heat": 3,
     "nfl-pit-no-2026-10-25-spread-away-2pt5::Steelers": 3,
-    "nba-min-mia-2026-10-21::Timberwolves": 3,
     "nba-chi-tor-2026-10-21::Raptors": 3,
-    "nba-mil-was-2026-10-21::Bucks": 3,
     "nba-cha-bkn-2026-10-21::Hornets": 3,
-    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 2,
-    "nba-sac-lac-2026-10-21-spread-home-4pt5::Clippers": 2,
-    "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 2,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "nba-uta-mem-2026-10-21-total-239pt5::Over": 1,
-    "cs2-mglz-priv-2026-10-21::PRIVATE": 1,
-    "nba-ind-nop-2026-10-21-spread-away-3pt5::Pelicans": 1,
-    "nba-min-mia-2026-10-21-total-243pt5::Under": 1,
-    "nba-uta-mem-2026-10-21-spread-home-1pt5::Jazz": 1,
-    "nba-cha-bkn-2026-10-21-total-218pt5::Over": 1,
-    "nba-atl-orl-2026-10-21-spread-home-2pt5::Hawks": 1,
-    "nba-dal-hou-2026-10-21-spread-home-8pt5::Rockets": 1,
-    "nba-dal-hou-2026-10-21-spread-home-8pt5::Mavericks": 1,
-    "nba-mil-was-2026-10-21-total-239pt5::Under": 1,
-    "clarity-act-signed-into-law-in-2026::Yes": 1,
-    "nba-mil-was-2026-10-21-total-238pt5::Over": 1,
-    "nba-cha-bkn-2026-10-21-total-219pt5::Over": 1
+    "will-the-iranian-regime-fall-by-the-end-of-2026::No": 3,
+    "nba-sac-lac-2026-10-21-spread-home-4pt5::Clippers": 3,
+    "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 3,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "nba-uta-mem-2026-10-21-total-239pt5::Over": 2,
+    "cs2-mglz-priv-2026-10-21::PRIVATE": 2,
+    "nba-min-mia-2026-10-21-total-243pt5::Under": 2,
+    "nba-uta-mem-2026-10-21-spread-home-1pt5::Jazz": 2,
+    "nba-cha-bkn-2026-10-21-total-218pt5::Over": 2,
+    "nba-atl-orl-2026-10-21-spread-home-2pt5::Hawks": 2,
+    "nba-dal-hou-2026-10-21-spread-home-8pt5::Rockets": 2,
+    "nba-dal-hou-2026-10-21-spread-home-8pt5::Mavericks": 2,
+    "nba-mil-was-2026-10-21-total-239pt5::Under": 2,
+    "clarity-act-signed-into-law-in-2026::Yes": 2,
+    "nba-mil-was-2026-10-21-total-238pt5::Over": 2,
+    "nba-cha-bkn-2026-10-21-total-219pt5::Over": 2,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 1,
+    "nba-cha-bkn-2026-10-21-spread-away-1pt5::Hornets": 1
   },
-  "updated_at": "2026-10-21T21:32:28.259747+00:00"
+  "updated_at": "2026-10-22T00:09:47.313645+00:00"
 }
