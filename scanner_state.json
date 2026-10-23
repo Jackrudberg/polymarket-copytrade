@@ -1,30 +1,293 @@
 {
   "seen_ids": [
-    "nba-por-sac-2026-10-23::Trail Blazers",
-    "nba-tor-was-2026-10-23::Wizards",
-    "nba-det-mia-2026-10-23-total-237pt5::Over",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "mlb-tb-mil-2026-10-23::Milwaukee Brewers",
-    "nba-nop-uta-2026-10-23::Jazz",
-    "nba-atl-cha-2026-10-23::Hawks",
-    "nba-chi-mil-2026-10-23-total-238pt5::Under",
-    "nba-tor-was-2026-10-23::Raptors",
+    "nba-chi-mil-2026-10-23::Bulls",
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::No",
+    "nba-det-mia-2026-10-23::Heat",
+    "sea-tor-mon-2026-10-23-total-2pt5::Under",
+    "will-the-republicans-win-the-texas-senate-race-in-2026::Yes",
+    "nba-min-orl-2026-10-23::Timberwolves",
     "will-the-democrats-win-the-texas-senate-race-in-2026::No",
     "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes",
-    "nba-nyk-bos-2026-10-23::Celtics",
-    "nba-nop-uta-2026-10-23::Pelicans",
-    "nba-tor-was-2026-10-23-spread-away-5pt5::Raptors",
-    "nba-atl-cha-2026-10-23-spread-away-2pt5::Hawks",
-    "nba-det-mia-2026-10-23::Pistons",
-    "nba-atl-cha-2026-10-23-spread-away-2pt5::Hornets",
-    "2026-balance-of-power-r-senate-r-house-537::Yes",
-    "nba-chi-mil-2026-10-23::Bucks",
-    "nba-det-mia-2026-10-23-total-236pt5::Under",
-    "nba-chi-mil-2026-10-23-total-238pt5::Over",
-    "nba-nyk-bos-2026-10-23-spread-home-2pt5::Celtics",
-    "nba-chi-mil-2026-10-23-total-237pt5::Under"
+    "2026-balance-of-power-r-senate-r-house-537::Yes"
   ],
   "signals": [
+    {
+      "market": "Bulls vs. Bucks",
+      "slug": "nba-chi-mil-2026-10-23",
+      "outcome": "Bulls",
+      "num_traders": 4,
+      "total_value": 29489.58,
+      "holders": [
+        {
+          "trader": "Donkey14",
+          "roi": 2.2769,
+          "value": 9895.83,
+          "avg_price": 0.48,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 9618.75,
+          "avg_price": 0.4924,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "FeedTheBigBird",
+          "roi": 0.5902,
+          "value": 9500,
+          "avg_price": 0.5,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3176,
+          "value": 475,
+          "avg_price": 0.48,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 107404.08,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.411,
+          "value": 103844.59,
+          "avg_price": 0.0845,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 2911.5,
+          "avg_price": 0.0859,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.4566,
+          "value": 647.99,
+          "avg_price": 0.1146,
+          "cur_price": 0.075
+        }
+      ]
+    },
+    {
+      "market": "Pistons vs. Heat",
+      "slug": "nba-det-mia-2026-10-23",
+      "outcome": "Heat",
+      "num_traders": 3,
+      "total_value": 49821.96,
+      "holders": [
+        {
+          "trader": "RJW1",
+          "roi": 0.3774,
+          "value": 46500,
+          "avg_price": 0.48,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 2403.12,
+          "avg_price": 0.47,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3176,
+          "value": 918.84,
+          "avg_price": 0.4801,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Torino FC vs. AC Monza: O/U 2.5",
+      "slug": "sea-tor-mon-2026-10-23-total-2pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 48664.7,
+      "holders": [
+        {
+          "trader": "rabbitfoot1",
+          "roi": 0.3837,
+          "value": 46603.76,
+          "avg_price": 0.4802,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3176,
+          "value": 1391.67,
+          "avg_price": 0.4852,
+          "cur_price": 0.475
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2802,
+          "value": 669.27,
+          "avg_price": 0.4828,
+          "cur_price": 0.475
+        }
+      ]
+    },
+    {
+      "market": "Will the Republicans win the Texas Senate race in 2026?",
+      "slug": "will-the-republicans-win-the-texas-senate-race-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 37765.56,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 26824.46,
+          "avg_price": 0.3562,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 1.6757,
+          "value": 9752.9,
+          "avg_price": 0.3814,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.411,
+          "value": 1188.2,
+          "avg_price": 0.31,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Timberwolves vs. Magic",
+      "slug": "nba-min-orl-2026-10-23",
+      "outcome": "Timberwolves",
+      "num_traders": 3,
+      "total_value": 31335.31,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 28255.1,
+          "avg_price": 0.5256,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "Donkey14",
+          "roi": 2.2769,
+          "value": 1952.89,
+          "avg_price": 0.49,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.3176,
+          "value": 1127.32,
+          "avg_price": 0.5219,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will the Democrats win the Texas Senate race in 2026?",
+      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 25416.77,
+      "holders": [
+        {
+          "trader": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+          "roi": 1.6757,
+          "value": 17613.53,
+          "avg_price": 0.382,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 6245.4,
+          "avg_price": 0.3757,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.411,
+          "value": 1557.84,
+          "avg_price": 0.31,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 8860.13,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.411,
+          "value": 4112.42,
+          "avg_price": 0.0821,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 3088.5,
+          "avg_price": 0.0955,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2802,
+          "value": 1659.21,
+          "avg_price": 0.0396,
+          "cur_price": 0.075
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: R Senate, R House",
+      "slug": "2026-balance-of-power-r-senate-r-house-537",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2859.36,
+      "holders": [
+        {
+          "trader": "nigiri99",
+          "roi": 0.1873,
+          "value": 1485.6,
+          "avg_price": 0.0818,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.2802,
+          "value": 1214.73,
+          "avg_price": 0.2021,
+          "cur_price": 0.075
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.411,
+          "value": 159.03,
+          "avg_price": 0.0797,
+          "cur_price": 0.075
+        }
+      ]
+    },
     {
       "market": "Trail Blazers vs. Kings",
       "slug": "nba-por-sac-2026-10-23",
@@ -317,66 +580,6 @@
       ]
     },
     {
-      "market": "Will the Democrats win the Texas Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 8864.18,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.3581,
-          "value": 6245.4,
-          "avg_price": 0.3757,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.9805,
-          "value": 1557.84,
-          "avg_price": 0.31,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.7123,
-          "value": 1060.94,
-          "avg_price": 0.3762,
-          "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 8860.13,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.9805,
-          "value": 4112.42,
-          "avg_price": 0.0821,
-          "cur_price": 0.075
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.3581,
-          "value": 3088.5,
-          "avg_price": 0.0955,
-          "cur_price": 0.075
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3787,
-          "value": 1659.21,
-          "avg_price": 0.0396,
-          "cur_price": 0.075
-        }
-      ]
-    },
-    {
       "market": "Knicks vs. Celtics",
       "slug": "nba-nyk-bos-2026-10-23",
       "outcome": "Celtics",
@@ -557,36 +760,6 @@
       ]
     },
     {
-      "market": "2026 Balance of Power: R Senate, R House",
-      "slug": "2026-balance-of-power-r-senate-r-house-537",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 2810.09,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.3581,
-          "value": 1436.33,
-          "avg_price": 0.0818,
-          "cur_price": 0.075
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.3787,
-          "value": 1214.73,
-          "avg_price": 0.2021,
-          "cur_price": 0.075
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 3.9805,
-          "value": 159.03,
-          "avg_price": 0.0797,
-          "cur_price": 0.075
-        }
-      ]
-    },
-    {
       "market": "Bulls vs. Bucks",
       "slug": "nba-chi-mil-2026-10-23",
       "outcome": "Bucks",
@@ -737,43 +910,6 @@
       ]
     },
     {
-      "market": "Timberwolves vs. Magic",
-      "slug": "nba-min-orl-2026-10-23",
-      "outcome": "Timberwolves",
-      "num_traders": 4,
-      "total_value": 15410.54,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.4982,
-          "value": 12743.7,
-          "avg_price": 0.5398,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.6212,
-          "value": 1223.8,
-          "avg_price": 0.5338,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "HomeRunHazard",
-          "roi": 0.1996,
-          "value": 1100.1,
-          "avg_price": 0.53,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.6293,
-          "value": 342.94,
-          "avg_price": 0.5552,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
       "market": "Knicks vs. Celtics",
       "slug": "nba-nyk-bos-2026-10-23",
       "outcome": "Knicks",
@@ -904,36 +1040,6 @@
           "value": 1320,
           "avg_price": 0.52,
           "cur_price": 0.528
-        }
-      ]
-    },
-    {
-      "market": "Bulls vs. Bucks",
-      "slug": "nba-chi-mil-2026-10-23",
-      "outcome": "Bulls",
-      "num_traders": 3,
-      "total_value": 9987.83,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.4982,
-          "value": 6031.22,
-          "avg_price": 0.4995,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Herdonia",
-          "roi": 0.6212,
-          "value": 3829.35,
-          "avg_price": 0.498,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Forecastication2",
-          "roi": 0.6293,
-          "value": 127.26,
-          "avg_price": 0.5167,
-          "cur_price": 0.505
         }
       ]
     },
@@ -3772,7 +3878,6 @@
     "bknbl-ill-syd-2026-10-22::Sydney Kings": 3,
     "idn1-pke-sle-2026-10-22-total-3pt5::Under": 3,
     "nba-den-okc-2026-10-22::Nuggets": 3,
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::No": 3,
     "nhl-lak-nyi-2026-10-22::Kings": 3,
     "uel-bou-mil1-2026-10-22-total-2pt5::Over": 3,
     "will-the-republicans-win-the-ohio-senate-race-in-2026::No": 3,
@@ -3817,18 +3922,36 @@
     "nhl-sj-ott-2026-10-22::Sharks": 3,
     "nba-cle-phi-2026-10-22-spread-home-3pt5::76ers": 3,
     "nhl-fla-pit-2026-10-22::Panthers": 3,
-    "nba-min-orl-2026-10-23::Timberwolves": 1,
-    "nba-nyk-bos-2026-10-23::Knicks": 1,
-    "nba-hou-sas-2026-10-23::Rockets": 1,
-    "nfl-cin-bal-2026-10-25-spread-home-1pt5::Ravens": 1,
-    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 1,
-    "nba-chi-mil-2026-10-23::Bulls": 1,
-    "nfl-la-lv-2026-10-25::Raiders": 1,
-    "nfl-tb-car-2026-10-25::Buccaneers": 1,
-    "nfl-kc-sea-2026-10-26::Seahawks": 1,
-    "cfb-ncst-stan-2026-10-23-spread-away-6pt5::Stanford": 1,
-    "nba-det-mia-2026-10-23-spread-home-2pt5::Pistons": 1,
-    "nba-mem-gsw-2026-10-23::Grizzlies": 1
+    "nba-nyk-bos-2026-10-23::Knicks": 2,
+    "nba-hou-sas-2026-10-23::Rockets": 2,
+    "nfl-cin-bal-2026-10-25-spread-home-1pt5::Ravens": 2,
+    "mlb-tb-cle-2026-10-17-total-6pt5::Under": 2,
+    "nfl-la-lv-2026-10-25::Raiders": 2,
+    "nfl-tb-car-2026-10-25::Buccaneers": 2,
+    "nfl-kc-sea-2026-10-26::Seahawks": 2,
+    "cfb-ncst-stan-2026-10-23-spread-away-6pt5::Stanford": 2,
+    "nba-det-mia-2026-10-23-spread-home-2pt5::Pistons": 2,
+    "nba-mem-gsw-2026-10-23::Grizzlies": 2,
+    "nba-por-sac-2026-10-23::Trail Blazers": 1,
+    "nba-tor-was-2026-10-23::Wizards": 1,
+    "nba-det-mia-2026-10-23-total-237pt5::Over": 1,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "mlb-tb-mil-2026-10-23::Milwaukee Brewers": 1,
+    "nba-nop-uta-2026-10-23::Jazz": 1,
+    "nba-atl-cha-2026-10-23::Hawks": 1,
+    "nba-chi-mil-2026-10-23-total-238pt5::Under": 1,
+    "nba-tor-was-2026-10-23::Raptors": 1,
+    "nba-nyk-bos-2026-10-23::Celtics": 1,
+    "nba-nop-uta-2026-10-23::Pelicans": 1,
+    "nba-tor-was-2026-10-23-spread-away-5pt5::Raptors": 1,
+    "nba-atl-cha-2026-10-23-spread-away-2pt5::Hawks": 1,
+    "nba-det-mia-2026-10-23::Pistons": 1,
+    "nba-atl-cha-2026-10-23-spread-away-2pt5::Hornets": 1,
+    "nba-chi-mil-2026-10-23::Bucks": 1,
+    "nba-det-mia-2026-10-23-total-236pt5::Under": 1,
+    "nba-chi-mil-2026-10-23-total-238pt5::Over": 1,
+    "nba-nyk-bos-2026-10-23-spread-home-2pt5::Celtics": 1,
+    "nba-chi-mil-2026-10-23-total-237pt5::Under": 1
   },
-  "updated_at": "2026-10-23T10:14:37.329627+00:00"
+  "updated_at": "2026-10-23T15:10:50.533799+00:00"
 }
