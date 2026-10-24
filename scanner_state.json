@@ -1,14 +1,424 @@
 {
   "seen_ids": [
-    "epl-ast-mac-2026-10-24-mac::No",
-    "epl-ars-eve-2026-10-24-ars::No",
+    "epl-che-tot-2026-10-24-che::No",
+    "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "2026-balance-of-power-r-senate-r-house-537::No",
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
+    "will-ethereum-reach-3500-by-december-31-2026::No",
+    "will-ethereum-dip-to-2100-in-october-2026::No",
+    "will-bitcoin-reach-90k-in-october-2026::No",
     "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "sea-com-sas-2026-10-24-com::No",
-    "bun-koe-s04-2026-10-24-koe::No"
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
+    "will-ethereum-reach-2800-in-october-2026::No",
+    "will-bitcoin-reach-92pt5k-in-october-2026::No",
+    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes",
+    "will-ethereum-reach-3000-in-october-2026::No"
   ],
   "signals": [
+    {
+      "market": "Will Chelsea FC win on 2026-10-24?",
+      "slug": "epl-che-tot-2026-10-24-che",
+      "outcome": "No",
+      "num_traders": 5,
+      "total_value": 229592.61,
+      "holders": [
+        {
+          "trader": "justwins",
+          "roi": 0.8654,
+          "value": 111177.65,
+          "avg_price": 0.4652,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.3691,
+          "value": 59533.75,
+          "avg_price": 0.4899,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "bands1",
+          "roi": 0.2295,
+          "value": 42799.91,
+          "avg_price": 0.4849,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "bomber",
+          "roi": 0.1845,
+          "value": 12845.35,
+          "avg_price": 0.48,
+          "cur_price": 0.535
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.256,
+          "value": 3235.95,
+          "avg_price": 0.48,
+          "cur_price": 0.535
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1148990.96,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 567984.28,
+          "avg_price": 0.3403,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 435135.14,
+          "avg_price": 0.4145,
+          "cur_price": 0.82
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 145871.54,
+          "avg_price": 0.4552,
+          "cur_price": 0.82
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 276148.89,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.256,
+          "value": 268564.53,
+          "avg_price": 0.6585,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.436,
+          "value": 5350.73,
+          "avg_price": 0.409,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.2459,
+          "value": 2233.63,
+          "avg_price": 0.6373,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 130966.29,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 79929.26,
+          "avg_price": 0.2602,
+          "cur_price": 0.37
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 28613.95,
+          "avg_price": 0.2464,
+          "cur_price": 0.37
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 22423.08,
+          "avg_price": 0.3497,
+          "cur_price": 0.37
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 108869.46,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 60707.81,
+          "avg_price": 0.635,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 37832.89,
+          "avg_price": 0.7529,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 10328.76,
+          "avg_price": 0.5777,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,100 in October?",
+      "slug": "will-ethereum-dip-to-2100-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 72372.07,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 37535.4,
+          "avg_price": 0.8658,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 22275.12,
+          "avg_price": 0.8466,
+          "cur_price": 0.765
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 12561.55,
+          "avg_price": 0.837,
+          "cur_price": 0.765
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $90,000 in October?",
+      "slug": "will-bitcoin-reach-90k-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 61286.89,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 51551.55,
+          "avg_price": 0.7793,
+          "cur_price": 0.963
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.2459,
+          "value": 7971.71,
+          "avg_price": 0.6484,
+          "cur_price": 0.963
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 1763.63,
+          "avg_price": 0.7554,
+          "cur_price": 0.963
+        }
+      ]
+    },
+    {
+      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 51603.48,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.256,
+          "value": 36857.14,
+          "avg_price": 0.6542,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.436,
+          "value": 8608.57,
+          "avg_price": 0.6738,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.2459,
+          "value": 6137.77,
+          "avg_price": 0.4914,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 47632.52,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 27138.06,
+          "avg_price": 0.1679,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 18406.82,
+          "avg_price": 0.2377,
+          "cur_price": 0.185
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 2087.64,
+          "avg_price": 0.1745,
+          "cur_price": 0.185
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $2,800 in October?",
+      "slug": "will-ethereum-reach-2800-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 41287.15,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 21192.79,
+          "avg_price": 0.4642,
+          "cur_price": 0.9735
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 12702.44,
+          "avg_price": 0.3866,
+          "cur_price": 0.9735
+        },
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 7391.92,
+          "avg_price": 0.2004,
+          "cur_price": 0.9735
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin reach $92,500 in October?",
+      "slug": "will-bitcoin-reach-92pt5k-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 40961.75,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 33041.47,
+          "avg_price": 0.8441,
+          "cur_price": 0.98
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.2459,
+          "value": 7398.02,
+          "avg_price": 0.7781,
+          "cur_price": 0.98
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 522.26,
+          "avg_price": 0.8625,
+          "cur_price": 0.98
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $77,500 in October?",
+      "slug": "will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 29248.76,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 22046.38,
+          "avg_price": 0.3426,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 5856.97,
+          "avg_price": 0.4657,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.2459,
+          "value": 1345.41,
+          "avg_price": 0.2202,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,000 in October?",
+      "slug": "will-ethereum-reach-3000-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 16544.35,
+      "holders": [
+        {
+          "trader": "getbipped",
+          "roi": 2.236,
+          "value": 13894.97,
+          "avg_price": 0.5396,
+          "cur_price": 0.9885
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.6765,
+          "value": 2510.26,
+          "avg_price": 0.8315,
+          "cur_price": 0.9885
+        },
+        {
+          "trader": "Tokor",
+          "roi": 2.1068,
+          "value": 139.12,
+          "avg_price": 0.93,
+          "cur_price": 0.9885
+        }
+      ]
+    },
     {
       "market": "Will Manchester City FC win on 2026-10-24?",
       "slug": "epl-ast-mac-2026-10-24-mac",
@@ -126,36 +536,6 @@
       ]
     },
     {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 276148.89,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2515,
-          "value": 268564.53,
-          "avg_price": 0.6585,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.422,
-          "value": 5350.73,
-          "avg_price": 0.409,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.6074,
-          "value": 2233.63,
-          "avg_price": 0.6373,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
       "market": "2026 Balance of Power: R Senate, R House",
       "slug": "2026-balance-of-power-r-senate-r-house-537",
       "outcome": "No",
@@ -182,36 +562,6 @@
           "value": 132.38,
           "avg_price": 0.929,
           "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 51603.48,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2515,
-          "value": 36857.14,
-          "avg_price": 0.6542,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.422,
-          "value": 8608.57,
-          "avg_price": 0.6738,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.6074,
-          "value": 6137.77,
-          "avg_price": 0.4914,
-          "cur_price": 0.675
         }
       ]
     },
@@ -302,163 +652,6 @@
           "value": 1029.39,
           "avg_price": 0.3496,
           "cur_price": 0.365
-        }
-      ]
-    },
-    {
-      "market": "Grizzlies vs. Warriors",
-      "slug": "nba-mem-gsw-2026-10-23",
-      "outcome": "Grizzlies",
-      "num_traders": 4,
-      "total_value": 110705.29,
-      "holders": [
-        {
-          "trader": "ethanaz",
-          "roi": 0.4506,
-          "value": 52938.44,
-          "avg_price": 0.4462,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SadSquid54333",
-          "roi": 0.2097,
-          "value": 28613.13,
-          "avg_price": 0.4451,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "JustADonk",
-          "roi": 0.4212,
-          "value": 19795.1,
-          "avg_price": 0.1535,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "KaneAnalytics",
-          "roi": 0.2506,
-          "value": 9358.62,
-          "avg_price": 0.4483,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Spread: Warriors (-2.5)",
-      "slug": "nba-mem-gsw-2026-10-23-spread-home-2pt5",
-      "outcome": "Grizzlies",
-      "num_traders": 3,
-      "total_value": 31951.07,
-      "holders": [
-        {
-          "trader": "nigiri99",
-          "roi": 0.1605,
-          "value": 12088.95,
-          "avg_price": 0.435,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.5035,
-          "value": 11298.11,
-          "avg_price": 0.4449,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.3744,
-          "value": 8564.01,
-          "avg_price": 0.46,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Chelsea FC win on 2026-10-24?",
-      "slug": "epl-che-tot-2026-10-24-che",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 12813.47,
-      "holders": [
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3391,
-          "value": 8111.25,
-          "avg_price": 0.5195,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1605,
-          "value": 4378.02,
-          "avg_price": 0.5229,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
-          "roi": 0.3744,
-          "value": 324.2,
-          "avg_price": 0.51,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "LoL: Top Esports vs Anyone's Legend (BO1) - Worlds Group Stage",
-      "slug": "lol-tes-al-2026-10-24",
-      "outcome": "Anyone's Legend",
-      "num_traders": 3,
-      "total_value": 7435.76,
-      "holders": [
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3391,
-          "value": 4515,
-          "avg_price": 0.65,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1605,
-          "value": 1951.12,
-          "avg_price": 0.6501,
-          "cur_price": 0.645
-        },
-        {
-          "trader": "JustADonk",
-          "roi": 0.4212,
-          "value": 969.64,
-          "avg_price": 0.64,
-          "cur_price": 0.645
-        }
-      ]
-    },
-    {
-      "market": "Grizzlies vs. Warriors: O/U 235.5",
-      "slug": "nba-mem-gsw-2026-10-23-total-235pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 6122.91,
-      "holders": [
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.3391,
-          "value": 2998.5,
-          "avg_price": 0.5,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "nigiri99",
-          "roi": 0.1605,
-          "value": 2089.95,
-          "avg_price": 0.4699,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "SadSquid54333",
-          "roi": 0.2097,
-          "value": 1034.46,
-          "avg_price": 0.5691,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -2826,14 +3019,8 @@
     "uel-rbs-mil1-2026-10-15-mil1::Yes": 3,
     "lol-we-bro2-2026-10-15::Team WE": 3,
     "lol-we-bro2-2026-10-15-game1::Team WE": 3,
-    "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
-    "will-ethereum-reach-3500-by-december-31-2026::No": 3,
-    "will-ethereum-dip-to-2100-in-october-2026::No": 3,
     "lol-we-bro2-2026-10-15-game2::Team WE": 3,
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 3,
     "lol-we-bro2-2026-10-15-game4::HANJIN BRION": 3,
-    "will-ethereum-reach-2800-in-october-2026::No": 3,
     "will-ethereum-reach-3000-by-december-31-2026-from-june-8::No": 3,
     "will-bitcoin-reach-87pt5k-in-october-2026::Yes": 3,
     "uel-cel1-juv-2026-10-15-juv::Yes": 3,
@@ -3128,11 +3315,8 @@
     "uel-bou-mil1-2026-10-22-bou::No": 3,
     "uel-hof-lyo-2026-10-22-hof::No": 3,
     "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 3,
-    "will-bitcoin-reach-90k-in-october-2026::No": 3,
-    "will-bitcoin-reach-92pt5k-in-october-2026::No": 3,
     "nfl-ne-chi-2026-10-23-total-50pt5::Under": 3,
     "cfb-librty-kenest-2026-10-22-spread-away-8pt5::Liberty": 3,
-    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes": 3,
     "nba-cle-phi-2026-10-22::76ers": 3,
     "uel-hof-lyo-2026-10-22-hof::Yes": 3,
     "nfl-ne-chi-2026-10-23-spread-home-2pt5::Bears": 3,
@@ -3202,12 +3386,17 @@
     "nba-det-mia-2026-10-23::Heat": 3,
     "nba-atl-cha-2026-10-23-spread-away-2pt5::Hornets": 3,
     "nba-por-sac-2026-10-23-spread-away-8pt5::Kings": 3,
-    "nba-mem-gsw-2026-10-23::Grizzlies": 2,
-    "nba-mem-gsw-2026-10-23-spread-home-2pt5::Grizzlies": 2,
-    "epl-che-tot-2026-10-24-che::Yes": 2,
-    "lol-tes-al-2026-10-24::Anyone's Legend": 2,
-    "nba-mem-gsw-2026-10-23-total-235pt5::Under": 2,
-    "will-the-democrats-win-the-texas-senate-race-in-2026::No": 1
+    "nba-mem-gsw-2026-10-23::Grizzlies": 3,
+    "nba-mem-gsw-2026-10-23-spread-home-2pt5::Grizzlies": 3,
+    "epl-che-tot-2026-10-24-che::Yes": 3,
+    "lol-tes-al-2026-10-24::Anyone's Legend": 3,
+    "nba-mem-gsw-2026-10-23-total-235pt5::Under": 3,
+    "will-the-democrats-win-the-texas-senate-race-in-2026::No": 2,
+    "epl-ast-mac-2026-10-24-mac::No": 1,
+    "epl-ars-eve-2026-10-24-ars::No": 1,
+    "2026-balance-of-power-r-senate-r-house-537::No": 1,
+    "sea-com-sas-2026-10-24-com::No": 1,
+    "bun-koe-s04-2026-10-24-koe::No": 1
   },
-  "updated_at": "2026-10-24T13:33:42.951571+00:00"
+  "updated_at": "2026-10-24T16:55:27.470719+00:00"
 }
