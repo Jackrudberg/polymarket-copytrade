@@ -2,16 +2,12 @@
   "seen_ids": [
     "epl-che-tot-2026-10-24-che::No",
     "will-ethereum-dip-to-2250-by-december-31-2026::Yes",
-    "2026-balance-of-power-d-senate-d-house-949::Yes",
     "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
     "will-ethereum-reach-3500-by-december-31-2026::No",
+    "nfl-tb-car-2026-10-25-spread-home-3pt5::Buccaneers",
     "will-ethereum-dip-to-2100-in-october-2026::No",
-    "will-bitcoin-reach-90k-in-october-2026::No",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
     "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
     "will-ethereum-reach-2800-in-october-2026::No",
-    "will-bitcoin-reach-92pt5k-in-october-2026::No",
-    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes",
     "will-ethereum-reach-3000-in-october-2026::No"
   ],
   "signals": [
@@ -19,43 +15,57 @@
       "market": "Will Chelsea FC win on 2026-10-24?",
       "slug": "epl-che-tot-2026-10-24-che",
       "outcome": "No",
-      "num_traders": 5,
-      "total_value": 229592.61,
+      "num_traders": 7,
+      "total_value": 3094135.31,
       "holders": [
         {
+          "trader": "raybanman",
+          "roi": 0.1829,
+          "value": 1596494.99,
+          "avg_price": 0.4899,
+          "cur_price": 1
+        },
+        {
+          "trader": "juice-fruit",
+          "roi": 0.215,
+          "value": 631423.55,
+          "avg_price": 0.4899,
+          "cur_price": 1
+        },
+        {
+          "trader": "plonker2026",
+          "roi": 0.2181,
+          "value": 431321.04,
+          "avg_price": 0.4916,
+          "cur_price": 1
+        },
+        {
           "trader": "justwins",
-          "roi": 0.8654,
-          "value": 111177.65,
+          "roi": 1.2633,
+          "value": 207808.69,
           "avg_price": 0.4652,
-          "cur_price": 0.535
+          "cur_price": 1
         },
         {
           "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
-          "roi": 0.3691,
-          "value": 59533.75,
+          "roi": 0.3028,
+          "value": 111278.04,
           "avg_price": 0.4899,
-          "cur_price": 0.535
+          "cur_price": 1
         },
         {
-          "trader": "bands1",
-          "roi": 0.2295,
-          "value": 42799.91,
-          "avg_price": 0.4849,
-          "cur_price": 0.535
+          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
+          "roi": 0.4832,
+          "value": 91799,
+          "avg_price": 0.48,
+          "cur_price": 1
         },
         {
           "trader": "bomber",
-          "roi": 0.1845,
-          "value": 12845.35,
+          "roi": 0.1988,
+          "value": 24010,
           "avg_price": 0.48,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.256,
-          "value": 3235.95,
-          "avg_price": 0.48,
-          "cur_price": 0.535
+          "cur_price": 1
         }
       ]
     },
@@ -64,28 +74,238 @@
       "slug": "will-ethereum-dip-to-2250-by-december-31-2026",
       "outcome": "Yes",
       "num_traders": 3,
-      "total_value": 1148990.96,
+      "total_value": 1113960.76,
       "holders": [
         {
           "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 567984.28,
+          "roi": 1.1935,
+          "value": 550667.69,
           "avg_price": 0.3403,
-          "cur_price": 0.82
+          "cur_price": 0.795
         },
         {
           "trader": "getbipped",
-          "roi": 2.236,
-          "value": 435135.14,
+          "roi": 1.9645,
+          "value": 421868.83,
           "avg_price": 0.4145,
-          "cur_price": 0.82
+          "cur_price": 0.795
         },
         {
           "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 145871.54,
+          "roi": 0.3519,
+          "value": 141424.24,
           "avg_price": 0.4552,
-          "cur_price": 0.82
+          "cur_price": 0.795
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 118577.58,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 72368.38,
+          "avg_price": 0.2602,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 25907.22,
+          "avg_price": 0.2464,
+          "cur_price": 0.335
+        },
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 20301.98,
+          "avg_price": 0.3497,
+          "cur_price": 0.335
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "slug": "will-ethereum-reach-3500-by-december-31-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 108869.46,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 60707.81,
+          "avg_price": 0.635,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 37832.89,
+          "avg_price": 0.7529,
+          "cur_price": 0.885
+        },
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 10328.76,
+          "avg_price": 0.5777,
+          "cur_price": 0.885
+        }
+      ]
+    },
+    {
+      "market": "Spread: Panthers (-3.5)",
+      "slug": "nfl-tb-car-2026-10-25-spread-home-3pt5",
+      "outcome": "Buccaneers",
+      "num_traders": 3,
+      "total_value": 88457.0,
+      "holders": [
+        {
+          "trader": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+          "roi": 0.3028,
+          "value": 61723.79,
+          "avg_price": 0.5799,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "ArielFilipino",
+          "roi": 0.4107,
+          "value": 22815,
+          "avg_price": 0.59,
+          "cur_price": 0.585
+        },
+        {
+          "trader": "scootergene",
+          "roi": 0.6065,
+          "value": 3918.21,
+          "avg_price": 0.5499,
+          "cur_price": 0.585
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $2,100 in October?",
+      "slug": "will-ethereum-dip-to-2100-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 77102.26,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 39988.69,
+          "avg_price": 0.8658,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 23731.01,
+          "avg_price": 0.8466,
+          "cur_price": 0.815
+        },
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 13382.56,
+          "avg_price": 0.837,
+          "cur_price": 0.815
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 42483.06,
+      "holders": [
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 24204.22,
+          "avg_price": 0.1679,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 16416.89,
+          "avg_price": 0.2377,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 1861.95,
+          "avg_price": 0.1745,
+          "cur_price": 0.165
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $2,800 in October?",
+      "slug": "will-ethereum-reach-2800-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 40990.27,
+      "holders": [
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 21040.4,
+          "avg_price": 0.4642,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 12611.1,
+          "avg_price": 0.3866,
+          "cur_price": 0.9665
+        },
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 7338.77,
+          "avg_price": 0.2004,
+          "cur_price": 0.9665
+        }
+      ]
+    },
+    {
+      "market": "Will Ethereum reach $3,000 in October?",
+      "slug": "will-ethereum-reach-3000-in-october-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 16544.35,
+      "holders": [
+        {
+          "trader": "getbipped",
+          "roi": 1.9645,
+          "value": 13894.97,
+          "avg_price": 0.5396,
+          "cur_price": 0.9885
+        },
+        {
+          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+          "roi": 0.3519,
+          "value": 2510.26,
+          "avg_price": 0.8315,
+          "cur_price": 0.9885
+        },
+        {
+          "trader": "Tokor",
+          "roi": 1.1935,
+          "value": 139.12,
+          "avg_price": 0.93,
+          "cur_price": 0.9885
         }
       ]
     },
@@ -116,96 +336,6 @@
           "value": 2233.63,
           "avg_price": 0.6373,
           "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "slug": "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 130966.29,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 79929.26,
-          "avg_price": 0.2602,
-          "cur_price": 0.37
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 28613.95,
-          "avg_price": 0.2464,
-          "cur_price": 0.37
-        },
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 22423.08,
-          "avg_price": 0.3497,
-          "cur_price": 0.37
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "slug": "will-ethereum-reach-3500-by-december-31-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 108869.46,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 60707.81,
-          "avg_price": 0.635,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 37832.89,
-          "avg_price": 0.7529,
-          "cur_price": 0.885
-        },
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 10328.76,
-          "avg_price": 0.5777,
-          "cur_price": 0.885
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum dip to $2,100 in October?",
-      "slug": "will-ethereum-dip-to-2100-in-october-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 72372.07,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 37535.4,
-          "avg_price": 0.8658,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 22275.12,
-          "avg_price": 0.8466,
-          "cur_price": 0.765
-        },
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 12561.55,
-          "avg_price": 0.837,
-          "cur_price": 0.765
         }
       ]
     },
@@ -270,66 +400,6 @@
       ]
     },
     {
-      "market": "Will Ethereum dip to $1,750 by December 31, 2026?",
-      "slug": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 47632.52,
-      "holders": [
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 27138.06,
-          "avg_price": 0.1679,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 18406.82,
-          "avg_price": 0.2377,
-          "cur_price": 0.185
-        },
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 2087.64,
-          "avg_price": 0.1745,
-          "cur_price": 0.185
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $2,800 in October?",
-      "slug": "will-ethereum-reach-2800-in-october-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 41287.15,
-      "holders": [
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 21192.79,
-          "avg_price": 0.4642,
-          "cur_price": 0.9735
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 12702.44,
-          "avg_price": 0.3866,
-          "cur_price": 0.9735
-        },
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 7391.92,
-          "avg_price": 0.2004,
-          "cur_price": 0.9735
-        }
-      ]
-    },
-    {
       "market": "Will Bitcoin reach $92,500 in October?",
       "slug": "will-bitcoin-reach-92pt5k-in-october-2026",
       "outcome": "No",
@@ -386,36 +456,6 @@
           "value": 1345.41,
           "avg_price": 0.2202,
           "cur_price": 0.495
-        }
-      ]
-    },
-    {
-      "market": "Will Ethereum reach $3,000 in October?",
-      "slug": "will-ethereum-reach-3000-in-october-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 16544.35,
-      "holders": [
-        {
-          "trader": "getbipped",
-          "roi": 2.236,
-          "value": 13894.97,
-          "avg_price": 0.5396,
-          "cur_price": 0.9885
-        },
-        {
-          "trader": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-          "roi": 0.6765,
-          "value": 2510.26,
-          "avg_price": 0.8315,
-          "cur_price": 0.9885
-        },
-        {
-          "trader": "Tokor",
-          "roi": 2.1068,
-          "value": 139.12,
-          "avg_price": 0.93,
-          "cur_price": 0.9885
         }
       ]
     },
@@ -622,36 +662,6 @@
           "value": 115,
           "avg_price": 0.53,
           "cur_price": 0.575
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Texas Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 3882.69,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.2478,
-          "value": 1697.35,
-          "avg_price": 0.31,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.8269,
-          "value": 1155.95,
-          "avg_price": 0.3762,
-          "cur_price": 0.365
-        },
-        {
-          "trader": "lissartter",
-          "roi": 1.4111,
-          "value": 1029.39,
-          "avg_price": 0.3496,
-          "cur_price": 0.365
         }
       ]
     }
@@ -3391,12 +3401,17 @@
     "epl-che-tot-2026-10-24-che::Yes": 3,
     "lol-tes-al-2026-10-24::Anyone's Legend": 3,
     "nba-mem-gsw-2026-10-23-total-235pt5::Under": 3,
-    "will-the-democrats-win-the-texas-senate-race-in-2026::No": 2,
-    "epl-ast-mac-2026-10-24-mac::No": 1,
-    "epl-ars-eve-2026-10-24-ars::No": 1,
-    "2026-balance-of-power-r-senate-r-house-537::No": 1,
-    "sea-com-sas-2026-10-24-com::No": 1,
-    "bun-koe-s04-2026-10-24-koe::No": 1
+    "will-the-democrats-win-the-texas-senate-race-in-2026::No": 3,
+    "epl-ast-mac-2026-10-24-mac::No": 2,
+    "epl-ars-eve-2026-10-24-ars::No": 2,
+    "2026-balance-of-power-r-senate-r-house-537::No": 2,
+    "sea-com-sas-2026-10-24-com::No": 2,
+    "bun-koe-s04-2026-10-24-koe::No": 2,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
+    "will-bitcoin-reach-90k-in-october-2026::No": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
+    "will-bitcoin-reach-92pt5k-in-october-2026::No": 1,
+    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes": 1
   },
-  "updated_at": "2026-10-24T16:55:27.470719+00:00"
+  "updated_at": "2026-10-24T19:16:57.230082+00:00"
 }
