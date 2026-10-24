@@ -17531,7 +17531,7 @@
       "current_value": 143.01,
       "paper_pnl": 43.01,
       "return_percent": 43.01,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 4837288.44,
       "traders": [
@@ -17540,7 +17540,7 @@
         "LlamaLoco0000"
       ],
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
-      "consensus_lost_at": "2026-10-23T19:14:35.580118+00:00"
+      "consensus_lost_at": "2026-10-24T21:41:07.931709+00:00"
     },
     {
       "signal_id": "atp-nakashi-medvede-2026-08-18::Daniil Medvedev",
@@ -50155,7 +50155,7 @@
       "current_value": 104.65,
       "paper_pnl": 4.65,
       "return_percent": 4.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 18398.13,
       "traders": [
@@ -50164,7 +50164,7 @@
         "Zzzz87"
       ],
       "url": "https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "consensus_lost_at": "2026-10-24T00:49:38.796977+00:00"
+      "consensus_lost_at": "2026-10-24T21:41:07.931709+00:00"
     },
     {
       "signal_id": "cs2-lg6-big5-2026-10-02::Luminosity",
@@ -60889,7 +60889,7 @@
       "current_value": 106.41,
       "paper_pnl": 6.41,
       "return_percent": 6.41,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 70096.44,
       "traders": [
@@ -60898,7 +60898,7 @@
         "Tokor"
       ],
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "consensus_lost_at": "2026-10-23T00:33:33.032519+00:00"
+      "consensus_lost_at": "2026-10-24T21:41:07.931709+00:00"
     },
     {
       "signal_id": "will-bitcoin-reach-92pt5k-in-october-2026::No",
@@ -60914,7 +60914,7 @@
       "current_value": 102.67,
       "paper_pnl": 2.67,
       "return_percent": 2.67,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 42964.63,
       "traders": [
@@ -60923,7 +60923,7 @@
         "Tokor"
       ],
       "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-october-2026",
-      "consensus_lost_at": "2026-10-23T00:33:33.032519+00:00"
+      "consensus_lost_at": "2026-10-24T21:41:07.931709+00:00"
     },
     {
       "signal_id": "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes",
@@ -60939,7 +60939,7 @@
       "current_value": 157.14,
       "paper_pnl": 57.14,
       "return_percent": 57.14,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 20943.53,
       "traders": [
@@ -60948,7 +60948,7 @@
         "SunlineTicker"
       ],
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "consensus_lost_at": "2026-10-23T00:33:33.032519+00:00"
+      "consensus_lost_at": "2026-10-24T21:41:07.931709+00:00"
     },
     {
       "signal_id": "cfb-librty-kenest-2026-10-22-spread-away-10pt5::Liberty",
@@ -62179,7 +62179,7 @@
       "slug": "nfl-tb-car-2026-10-25-spread-home-3pt5",
       "side": "Buccaneers",
       "alerted_at": "2026-10-24T19:16:57.173530+00:00",
-      "last_seen": "2026-10-24T19:16:57.173530+00:00",
+      "last_seen": "2026-10-24T21:41:07.931709+00:00",
       "entry_price": 0.585,
       "current_price": 0.585,
       "stake": 100.0,
@@ -62196,7 +62196,56 @@
         "scootergene"
       ],
       "url": "https://polymarket.com/event/nfl-tb-car-2026-10-25-spread-home-3pt5"
+    },
+    {
+      "signal_id": "cfb-byu-ucf-2026-10-24-spread-away-7pt5::UCF",
+      "market": "Spread: BYU (-7.5)",
+      "slug": "cfb-byu-ucf-2026-10-24-spread-away-7pt5",
+      "side": "UCF",
+      "alerted_at": "2026-10-24T21:41:07.931709+00:00",
+      "last_seen": "2026-10-24T21:41:07.931709+00:00",
+      "entry_price": 0.719376,
+      "current_price": 0.719376,
+      "stake": 100.0,
+      "shares": 139.009393,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 65596.84,
+      "traders": [
+        "bands1",
+        "ArielFilipino",
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+        "BoggsFromShawshank"
+      ],
+      "url": "https://polymarket.com/event/cfb-byu-ucf-2026-10-24-spread-away-7pt5"
+    },
+    {
+      "signal_id": "cfb-tenn-sc-2026-10-24::South Carolina",
+      "market": "Tennessee vs. South Carolina",
+      "slug": "cfb-tenn-sc-2026-10-24",
+      "side": "South Carolina",
+      "alerted_at": "2026-10-24T21:41:07.931709+00:00",
+      "last_seen": "2026-10-24T21:41:07.931709+00:00",
+      "entry_price": 0.335,
+      "current_price": 0.335,
+      "stake": 100.0,
+      "shares": 298.507463,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 25521.77,
+      "traders": [
+        "BoggsFromShawshank",
+        "bands1",
+        "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186"
+      ],
+      "url": "https://polymarket.com/event/cfb-tenn-sc-2026-10-24"
     }
   ],
-  "updated_at": "2026-10-24T19:16:57.173530+00:00"
+  "updated_at": "2026-10-24T21:41:07.931709+00:00"
 }
