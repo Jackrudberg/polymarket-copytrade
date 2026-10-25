@@ -1,6 +1,207 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "2026-balance-of-power-d-senate-d-house-949::Yes",
+    "nfl-pit-no-2026-10-25::Steelers",
+    "nfl-cle-ten-2026-10-25::Browns",
+    "epl-sun-lee-2026-10-25-lee::Yes",
+    "nfl-tb-car-2026-10-25-spread-home-2pt5::Buccaneers",
+    "bun-fre-bay-2026-10-25-spread-away-1pt5::SC Freiburg"
+  ],
   "signals": [
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 4,
+      "total_value": 1283861.84,
+      "holders": [
+        {
+          "trader": "YYYYY999",
+          "roi": 0.4052,
+          "value": 982500,
+          "avg_price": 0.5,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2981,
+          "value": 264525.96,
+          "avg_price": 0.6585,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+          "roi": 0.7194,
+          "value": 31565.62,
+          "avg_price": 0.6553,
+          "cur_price": 0.655
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.5963,
+          "value": 5270.26,
+          "avg_price": 0.409,
+          "cur_price": 0.655
+        }
+      ]
+    },
+    {
+      "market": "Steelers vs. Saints",
+      "slug": "nfl-pit-no-2026-10-25",
+      "outcome": "Steelers",
+      "num_traders": 4,
+      "total_value": 602850.68,
+      "holders": [
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.402,
+          "value": 506172.43,
+          "avg_price": 0.6366,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "juice-fruit",
+          "roi": 0.6706,
+          "value": 83990.17,
+          "avg_price": 0.6272,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "big8betz",
+          "roi": 0.1892,
+          "value": 7932.54,
+          "avg_price": 0.6299,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2981,
+          "value": 4755.54,
+          "avg_price": 0.59,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Browns vs. Titans",
+      "slug": "nfl-cle-ten-2026-10-25",
+      "outcome": "Browns",
+      "num_traders": 3,
+      "total_value": 1190090.9,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2981,
+          "value": 1015183.02,
+          "avg_price": 0.5461,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Sassy-Bucket",
+          "roi": 0.402,
+          "value": 163499.93,
+          "avg_price": 0.55,
+          "cur_price": 0.545
+        },
+        {
+          "trader": "Mooseborzoiii",
+          "roi": 2.4128,
+          "value": 11407.95,
+          "avg_price": 0.54,
+          "cur_price": 0.545
+        }
+      ]
+    },
+    {
+      "market": "Will Leeds United FC win on 2026-10-25?",
+      "slug": "epl-sun-lee-2026-10-25-lee",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 573458.26,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2981,
+          "value": 529905.64,
+          "avg_price": 0.3358,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "Kyn008",
+          "roi": 0.24,
+          "value": 43364.65,
+          "avg_price": 0.33,
+          "cur_price": 0.365
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4794,
+          "value": 187.97,
+          "avg_price": 0.3699,
+          "cur_price": 0.365
+        }
+      ]
+    },
+    {
+      "market": "Spread: Panthers (-2.5)",
+      "slug": "nfl-tb-car-2026-10-25-spread-home-2pt5",
+      "outcome": "Buccaneers",
+      "num_traders": 3,
+      "total_value": 348139.54,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.2981,
+          "value": 302249.95,
+          "avg_price": 0.46,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "Mooseborzoiii",
+          "roi": 2.4128,
+          "value": 32520.84,
+          "avg_price": 0.4599,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "ArielFilipino",
+          "roi": 4.2937,
+          "value": 13368.75,
+          "avg_price": 0.4799,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Spread: FC Bayern M\u00fcnchen (-1.5)",
+      "slug": "bun-fre-bay-2026-10-25-spread-away-1pt5",
+      "outcome": "SC Freiburg",
+      "num_traders": 3,
+      "total_value": 46375.16,
+      "holders": [
+        {
+          "trader": "rabbitfoot1",
+          "roi": 0.1866,
+          "value": 35369.4,
+          "avg_price": 0.5535,
+          "cur_price": 0.525
+        },
+        {
+          "trader": "leungchihang",
+          "roi": 0.5715,
+          "value": 10099.99,
+          "avg_price": 0.54,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.4794,
+          "value": 905.77,
+          "avg_price": 0.5485,
+          "cur_price": 0.53
+        }
+      ]
+    },
     {
       "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
       "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
@@ -34,36 +235,6 @@
           "roi": 2.2235,
           "value": 2036.46,
           "avg_price": 0.4165,
-          "cur_price": 0.665
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1505996.3,
-      "holders": [
-        {
-          "trader": "YYYYY999",
-          "roi": 3.1582,
-          "value": 1463000,
-          "avg_price": 0.5,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
-          "roi": 0.865,
-          "value": 32047.54,
-          "avg_price": 0.6553,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2723,
-          "value": 10948.76,
-          "avg_price": 0.6487,
           "cur_price": 0.665
         }
       ]
@@ -155,73 +326,6 @@
           "value": 701.96,
           "avg_price": 0.05,
           "cur_price": 0.045
-        }
-      ]
-    },
-    {
-      "market": "Rockets vs. Hawks",
-      "slug": "nba-hou-atl-2026-10-24",
-      "outcome": "Hawks",
-      "num_traders": 4,
-      "total_value": 20414.42,
-      "holders": [
-        {
-          "trader": "BrotherObama",
-          "roi": 1.7019,
-          "value": 9951.92,
-          "avg_price": 0.5199,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "betdge",
-          "roi": 0.1723,
-          "value": 4500,
-          "avg_price": 0.43,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "Elaran1993",
-          "roi": 0.7398,
-          "value": 3262.5,
-          "avg_price": 0.51,
-          "cur_price": 0.225
-        },
-        {
-          "trader": "sofa88888",
-          "roi": 0.208,
-          "value": 2700,
-          "avg_price": 0.5,
-          "cur_price": 0.225
-        }
-      ]
-    },
-    {
-      "market": "LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage",
-      "slug": "lol-tl2-blg-2026-10-24",
-      "outcome": "Bilibili Gaming",
-      "num_traders": 3,
-      "total_value": 110111.87,
-      "holders": [
-        {
-          "trader": "zb8",
-          "roi": 0.4332,
-          "value": 58586.4,
-          "avg_price": 0.747,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Woaifacai",
-          "roi": 0.1936,
-          "value": 31535.47,
-          "avg_price": 0.9104,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "ShadowRealms",
-          "roi": 0.7556,
-          "value": 19990,
-          "avg_price": 0.75,
-          "cur_price": 0.9995
         }
       ]
     }
@@ -2981,13 +3085,12 @@
     "lol-dk-t1-2026-10-24::T1": 3,
     "lol-hle1-gen-2026-10-24::Gen.G": 3,
     "lal-ray-bil-2026-10-10-bil::No": 3,
-    "nba-hou-atl-2026-10-24::Hawks": 2,
-    "lol-tl2-blg-2026-10-24::Bilibili Gaming": 2,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 1,
-    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 1,
-    "nfl-pit-no-2026-10-25-total-44pt5::Over": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1
+    "nba-hou-atl-2026-10-24::Hawks": 3,
+    "lol-tl2-blg-2026-10-24::Bilibili Gaming": 3,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "will-the-milwaukee-brewers-win-the-2026-world-series::Yes": 2,
+    "nfl-pit-no-2026-10-25-total-44pt5::Over": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 2
   },
-  "updated_at": "2026-10-25T12:29:31.365003+00:00"
+  "updated_at": "2026-10-25T16:44:51.804781+00:00"
 }
