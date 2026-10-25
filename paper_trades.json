@@ -62189,7 +62189,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 88457.0,
       "traders": [
@@ -62197,7 +62197,8 @@
         "ArielFilipino",
         "scootergene"
       ],
-      "url": "https://polymarket.com/event/nfl-tb-car-2026-10-25-spread-home-3pt5"
+      "url": "https://polymarket.com/event/nfl-tb-car-2026-10-25-spread-home-3pt5",
+      "consensus_lost_at": "2026-10-25T01:45:25.759097+00:00"
     },
     {
       "signal_id": "cfb-byu-ucf-2026-10-24-spread-away-7pt5::UCF",
@@ -62213,7 +62214,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 4,
       "combined_value": 65596.84,
       "traders": [
@@ -62222,7 +62223,8 @@
         "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
         "BoggsFromShawshank"
       ],
-      "url": "https://polymarket.com/event/cfb-byu-ucf-2026-10-24-spread-away-7pt5"
+      "url": "https://polymarket.com/event/cfb-byu-ucf-2026-10-24-spread-away-7pt5",
+      "consensus_lost_at": "2026-10-25T01:45:25.759097+00:00"
     },
     {
       "signal_id": "cfb-tenn-sc-2026-10-24::South Carolina",
@@ -62238,7 +62240,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 25521.77,
       "traders": [
@@ -62246,7 +62248,8 @@
         "bands1",
         "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186"
       ],
-      "url": "https://polymarket.com/event/cfb-tenn-sc-2026-10-24"
+      "url": "https://polymarket.com/event/cfb-tenn-sc-2026-10-24",
+      "consensus_lost_at": "2026-10-25T01:45:25.759097+00:00"
     },
     {
       "signal_id": "lol-dk-t1-2026-10-24::T1",
@@ -62297,7 +62300,56 @@
         "para-Vision"
       ],
       "url": "https://polymarket.com/event/lol-hle1-gen-2026-10-24"
+    },
+    {
+      "signal_id": "nba-hou-atl-2026-10-24::Hawks",
+      "market": "Rockets vs. Hawks",
+      "slug": "nba-hou-atl-2026-10-24",
+      "side": "Hawks",
+      "alerted_at": "2026-10-25T01:45:25.759097+00:00",
+      "last_seen": "2026-10-25T01:45:25.759097+00:00",
+      "entry_price": 0.225,
+      "current_price": 0.225,
+      "stake": 100.0,
+      "shares": 444.444444,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 4,
+      "combined_value": 20414.42,
+      "traders": [
+        "BrotherObama",
+        "betdge",
+        "Elaran1993",
+        "sofa88888"
+      ],
+      "url": "https://polymarket.com/event/nba-hou-atl-2026-10-24"
+    },
+    {
+      "signal_id": "lol-tl2-blg-2026-10-24::Bilibili Gaming",
+      "market": "LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage",
+      "slug": "lol-tl2-blg-2026-10-24",
+      "side": "Bilibili Gaming",
+      "alerted_at": "2026-10-25T01:45:25.759097+00:00",
+      "last_seen": "2026-10-25T01:45:25.759097+00:00",
+      "entry_price": 0.9995,
+      "current_price": 0.9995,
+      "stake": 100.0,
+      "shares": 100.050025,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 110111.87,
+      "traders": [
+        "zb8",
+        "Woaifacai",
+        "ShadowRealms"
+      ],
+      "url": "https://polymarket.com/event/lol-tl2-blg-2026-10-24"
     }
   ],
-  "updated_at": "2026-10-24T23:45:22.022990+00:00"
+  "updated_at": "2026-10-25T01:45:25.759097+00:00"
 }
