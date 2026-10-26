@@ -1,6 +1,138 @@
 {
-  "seen_ids": [],
+  "seen_ids": [
+    "cs2-tl1-lgc-2026-10-26::Liquid",
+    "cs2-ts7-furia-2026-10-26::Spirit",
+    "will-harry-kane-win-the-2026-ballon-dor::No",
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes"
+  ],
   "signals": [
+    {
+      "market": "Counter-Strike: Liquid vs Legacy (BO3) - PGL Masters Bucharest Group Stage",
+      "slug": "cs2-tl1-lgc-2026-10-26",
+      "outcome": "Liquid",
+      "num_traders": 4,
+      "total_value": 80569.56,
+      "holders": [
+        {
+          "trader": "CORGII",
+          "roi": 0.1629,
+          "value": 40744.78,
+          "avg_price": 0.3,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "shark142",
+          "roi": 0.1836,
+          "value": 29753.8,
+          "avg_price": 0.6534,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "acorp",
+          "roi": 0.504,
+          "value": 9868.45,
+          "avg_price": 0.3199,
+          "cur_price": 0.645
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.9947,
+          "value": 202.53,
+          "avg_price": 0.3,
+          "cur_price": 0.645
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: Spirit vs FURIA (BO3) - PGL Masters Bucharest Group Stage",
+      "slug": "cs2-ts7-furia-2026-10-26",
+      "outcome": "Spirit",
+      "num_traders": 3,
+      "total_value": 110876.53,
+      "holders": [
+        {
+          "trader": "jakepaulthegoat2008",
+          "roi": 0.3333,
+          "value": 100819.36,
+          "avg_price": 0.6451,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2214,
+          "value": 9634.61,
+          "avg_price": 0.63,
+          "cur_price": 0.695
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.9947,
+          "value": 422.56,
+          "avg_price": 0.64,
+          "cur_price": 0.695
+        }
+      ]
+    },
+    {
+      "market": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 15034.13,
+      "holders": [
+        {
+          "trader": "norrisfan",
+          "roi": 0.2378,
+          "value": 12735.49,
+          "avg_price": 0.3469,
+          "cur_price": 0.3465
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.9947,
+          "value": 1836.08,
+          "avg_price": 0.4667,
+          "cur_price": 0.3465
+        },
+        {
+          "trader": "0x1F85EB9C455c5BDEF5D96C2739076678c7157B02-1778811447702",
+          "roi": 1.6436,
+          "value": 462.56,
+          "avg_price": 0.3683,
+          "cur_price": 0.3465
+        }
+      ]
+    },
+    {
+      "market": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+      "slug": "will-kylian-mbapp-win-the-2026-ballon-dor",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 7698.2,
+      "holders": [
+        {
+          "trader": "norrisfan",
+          "roi": 0.2378,
+          "value": 6054.98,
+          "avg_price": 0.0112,
+          "cur_price": 0.284
+        },
+        {
+          "trader": "Zzzz87",
+          "roi": 0.9947,
+          "value": 1380.64,
+          "avg_price": 0.0708,
+          "cur_price": 0.2835
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.5547,
+          "value": 262.58,
+          "avg_price": 0.0112,
+          "cur_price": 0.2825
+        }
+      ]
+    },
     {
       "market": "Chiefs vs. Seahawks",
       "slug": "nfl-kc-sea-2026-10-26",
@@ -352,507 +484,6 @@
           "value": 726.64,
           "avg_price": 0.6099,
           "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "slug": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 2132415.78,
-      "holders": [
-        {
-          "trader": "Abkhauae",
-          "roi": 2.1828,
-          "value": 1343842.32,
-          "avg_price": 0.4368,
-          "cur_price": 0.9845
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 575429.97,
-          "avg_price": 0.2484,
-          "cur_price": 0.9845
-        },
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 207530.86,
-          "avg_price": 0.1587,
-          "cur_price": 0.9845
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 5612.63,
-          "avg_price": 0.6949,
-          "cur_price": 0.9845
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 868500.52,
-      "holders": [
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 0.2818,
-          "value": 818750,
-          "avg_price": 0.5,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 32750,
-          "avg_price": 0.64,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 11730.26,
-          "avg_price": 0.6497,
-          "cur_price": 0.655
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5142,
-          "value": 5270.26,
-          "avg_price": 0.409,
-          "cur_price": 0.655
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
-      "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 159471.32,
-      "holders": [
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 89288.19,
-          "avg_price": 0.4564,
-          "cur_price": 0.93
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 61255.01,
-          "avg_price": 0.2244,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 6697.88,
-          "avg_price": 0.18,
-          "cur_price": 0.93
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5142,
-          "value": 2230.24,
-          "avg_price": 0.1282,
-          "cur_price": 0.93
-        }
-      ]
-    },
-    {
-      "market": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
-      "slug": "lol-gen-ly-2026-10-25",
-      "outcome": "Gen.G",
-      "num_traders": 3,
-      "total_value": 838666.11,
-      "holders": [
-        {
-          "trader": "Mooseborzoiii",
-          "roi": 0.6097,
-          "value": 799268.93,
-          "avg_price": 0.8242,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 0.2818,
-          "value": 26588.96,
-          "avg_price": 0.8999,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.1708,
-          "value": 12808.22,
-          "avg_price": 0.6066,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "slug": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 748087.68,
-      "holders": [
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 372226.33,
-          "avg_price": 0.7294,
-          "cur_price": 0.989
-        },
-        {
-          "trader": "Abkhauae",
-          "roi": 2.1828,
-          "value": 367150.42,
-          "avg_price": 0.5874,
-          "cur_price": 0.989
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 8710.93,
-          "avg_price": 0.5966,
-          "cur_price": 0.9895
-        }
-      ]
-    },
-    {
-      "market": "Lakers vs. Jazz",
-      "slug": "nba-lal-uta-2026-10-25",
-      "outcome": "Lakers",
-      "num_traders": 3,
-      "total_value": 163000.6,
-      "holders": [
-        {
-          "trader": "Woaifacai",
-          "roi": 0.16,
-          "value": 78096.41,
-          "avg_price": 0.7219,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 0.2818,
-          "value": 59970,
-          "avg_price": 0.6825,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "BrotherObama",
-          "roi": 0.1767,
-          "value": 24934.19,
-          "avg_price": 0.4008,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Will Lula win the most votes in the second round of the Brazil presidential election from Amap\u00e1?",
-      "slug": "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 91383.16,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 67778.06,
-          "avg_price": 0.2994,
-          "cur_price": 0.9765
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 23394.94,
-          "avg_price": 0.3036,
-          "cur_price": 0.9765
-        },
-        {
-          "trader": "graynotebook19",
-          "roi": 1.6295,
-          "value": 210.16,
-          "avg_price": 0.1234,
-          "cur_price": 0.9765
-        }
-      ]
-    },
-    {
-      "market": "Spread: Knicks (-7.5)",
-      "slug": "nba-orl-nyk-2026-10-25-spread-home-7pt5",
-      "outcome": "Magic",
-      "num_traders": 3,
-      "total_value": 60015.35,
-      "holders": [
-        {
-          "trader": "Elaran1993",
-          "roi": 1.0908,
-          "value": 26342.3,
-          "avg_price": 0.51,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 0.2818,
-          "value": 23073.42,
-          "avg_price": 0.51,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "gmpm2",
-          "roi": 0.2595,
-          "value": 10599.63,
-          "avg_price": 0.52,
-          "cur_price": 0.475
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Texas Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 52109.9,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 26474.54,
-          "avg_price": 0.647,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 19167.93,
-          "avg_price": 0.6216,
-          "cur_price": 0.625
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 6467.43,
-          "avg_price": 0.5496,
-          "cur_price": 0.625
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the South Carolina Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-south-carolina-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 34066.53,
-      "holders": [
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 17637.69,
-          "avg_price": 0.8269,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 11625.96,
-          "avg_price": 0.8641,
-          "cur_price": 0.815
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 4802.88,
-          "avg_price": 0.8382,
-          "cur_price": 0.815
-        }
-      ]
-    },
-    {
-      "market": "Spread: Thunder (-16.5)",
-      "slug": "nba-lac-okc-2026-10-25-spread-home-16pt5",
-      "outcome": "Thunder",
-      "num_traders": 3,
-      "total_value": 33263.96,
-      "holders": [
-        {
-          "trader": "gmpm2",
-          "roi": 0.2595,
-          "value": 17841.34,
-          "avg_price": 0.4712,
-          "cur_price": 0.215
-        },
-        {
-          "trader": "Mooseborzoiii",
-          "roi": 0.6097,
-          "value": 12791.53,
-          "avg_price": 0.48,
-          "cur_price": 0.2
-        },
-        {
-          "trader": "0xd4aa6f8e91cfea29b66a48ebff52814",
-          "roi": 0.5557,
-          "value": 2631.09,
-          "avg_price": 0.4701,
-          "cur_price": 0.21
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Iowa Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 29909.29,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 27359.18,
-          "avg_price": 0.5947,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 2397.8,
-          "avg_price": 0.5421,
-          "cur_price": 0.585
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5142,
-          "value": 152.31,
-          "avg_price": 0.563,
-          "cur_price": 0.585
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Ohio Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-ohio-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 28914.93,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 24376.82,
-          "avg_price": 0.4346,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 3684.97,
-          "avg_price": 0.4109,
-          "cur_price": 0.335
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 853.14,
-          "avg_price": 0.3656,
-          "cur_price": 0.335
-        }
-      ]
-    },
-    {
-      "market": "Will the Republicans win the Nebraska Senate race in 2026?",
-      "slug": "will-the-republicans-win-the-nebraska-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 12019.34,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 1.6167,
-          "value": 6097.68,
-          "avg_price": 0.6867,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 5360.8,
-          "avg_price": 0.7113,
-          "cur_price": 0.735
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 560.86,
-          "avg_price": 0.7,
-          "cur_price": 0.735
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6431.92,
-      "holders": [
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 5252.87,
-          "avg_price": 0.0046,
-          "cur_price": 0.0525
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4889,
-          "value": 1030.0,
-          "avg_price": 0.0059,
-          "cur_price": 0.0515
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5142,
-          "value": 149.05,
-          "avg_price": 0.1111,
-          "cur_price": 0.053
-        }
-      ]
-    },
-    {
-      "market": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by 2\u20134%?",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-2-4-specific",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 934.27,
-      "holders": [
-        {
-          "trader": "0x448861155279dbf833d041b963e3ac854599e319",
-          "roi": 0.6075,
-          "value": 448.12,
-          "avg_price": 0.01,
-          "cur_price": 0.9375
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5142,
-          "value": 247.89,
-          "avg_price": 0.0479,
-          "cur_price": 0.9375
-        },
-        {
-          "trader": "graynotebook19",
-          "roi": 1.6295,
-          "value": 238.26,
-          "avg_price": 0.0616,
-          "cur_price": 0.933
         }
       ]
     }
@@ -2036,7 +1667,6 @@
     "ucl-lil-bet-2026-09-08-lil::No": 3,
     "atp-tiafoe-michels-2026-09-08::Alex Michelsen": 3,
     "ucl-bvb-vil-2026-09-08-bvb::No": 3,
-    "will-harry-kane-win-the-2026-ballon-dor::No": 3,
     "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831::No": 3,
     "will-chinas-2026-annual-gdp-growth-yy-be-between-4pt0-and-5pt0::Yes": 3,
     "atp-shelton-alcaraz-2026-09-08::Ben Shelton": 3,
@@ -2091,7 +1721,6 @@
     "mlb-col-nyy-2026-09-10-spread-home-2pt5::Colorado Rockies": 3,
     "nfl-sf-la-2026-09-11-spread-home-3pt5::49ers": 3,
     "nfl-sf-la-2026-09-11-total-47pt5::Under": 3,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
     "cs2-furia-g2-2026-09-11::FURIA": 3,
     "cs2-furia-g2-2026-09-11::G2": 3,
     "cs2-1win-nemi1-2026-09-11::Nemiga": 3,
@@ -3628,31 +3257,31 @@
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4::Yes": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 3,
-    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 2,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
-    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4::Yes": 2,
-    "lol-gen-ly-2026-10-25::Gen.G": 2,
-    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No": 2,
-    "nba-lal-uta-2026-10-25::Lakers": 2,
-    "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa::Yes": 2,
-    "nba-orl-nyk-2026-10-25-spread-home-7pt5::Magic": 2,
-    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes": 2,
-    "will-the-democrats-win-the-south-carolina-senate-race-in-2026::No": 2,
-    "nba-lac-okc-2026-10-25-spread-home-16pt5::Thunder": 2,
-    "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 2,
-    "will-the-democrats-win-the-ohio-senate-race-in-2026::No": 2,
-    "will-the-republicans-win-the-nebraska-senate-race-in-2026::Yes": 2,
-    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48::Yes": 2,
-    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-2-4-specific::Yes": 2,
-    "nfl-kc-sea-2026-10-26::Seahawks": 1,
-    "nfl-kc-sea-2026-10-26-spread-home-2pt5::Seahawks": 1,
-    "nba-mem-sac-2026-10-25::Kings": 1,
-    "nba-mem-sac-2026-10-25-spread-away-3pt5::Kings": 1,
-    "nfl-kc-sea-2026-10-26-spread-away-3pt5::Seahawks": 1,
-    "nba-mem-sac-2026-10-25::Grizzlies": 1,
-    "nfl-kc-sea-2026-10-26-spread-home-3pt5::Seahawks": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
-    "mex-atl-pue-2026-10-25-atl::Yes": 1
+    "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
+    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4::Yes": 3,
+    "lol-gen-ly-2026-10-25::Gen.G": 3,
+    "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::No": 3,
+    "nba-lal-uta-2026-10-25::Lakers": 3,
+    "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa::Yes": 3,
+    "nba-orl-nyk-2026-10-25-spread-home-7pt5::Magic": 3,
+    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes": 3,
+    "will-the-democrats-win-the-south-carolina-senate-race-in-2026::No": 3,
+    "nba-lac-okc-2026-10-25-spread-home-16pt5::Thunder": 3,
+    "will-the-democrats-win-the-iowa-senate-race-in-2026::No": 3,
+    "will-the-democrats-win-the-ohio-senate-race-in-2026::No": 3,
+    "will-the-republicans-win-the-nebraska-senate-race-in-2026::Yes": 3,
+    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48::Yes": 3,
+    "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-2-4-specific::Yes": 3,
+    "nfl-kc-sea-2026-10-26::Seahawks": 2,
+    "nfl-kc-sea-2026-10-26-spread-home-2pt5::Seahawks": 2,
+    "nba-mem-sac-2026-10-25::Kings": 2,
+    "nba-mem-sac-2026-10-25-spread-away-3pt5::Kings": 2,
+    "nfl-kc-sea-2026-10-26-spread-away-3pt5::Seahawks": 2,
+    "nba-mem-sac-2026-10-25::Grizzlies": 2,
+    "nfl-kc-sea-2026-10-26-spread-home-3pt5::Seahawks": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 2,
+    "mex-atl-pue-2026-10-25-atl::Yes": 2
   },
-  "updated_at": "2026-10-26T08:20:36.943842+00:00"
+  "updated_at": "2026-10-26T15:19:33.511947+00:00"
 }
