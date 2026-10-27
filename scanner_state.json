@@ -1,9 +1,38 @@
 {
   "seen_ids": [
-    "lol-los-tsw-2026-10-26-game1::LOS",
-    "dota2-bb4-legion1-2026-10-26-game1::LEGION"
+    "nba-ind-mil-2026-10-26::Bucks"
   ],
   "signals": [
+    {
+      "market": "Pacers vs. Bucks",
+      "slug": "nba-ind-mil-2026-10-26",
+      "outcome": "Bucks",
+      "num_traders": 3,
+      "total_value": 395539.84,
+      "holders": [
+        {
+          "trader": "googleplay",
+          "roi": 0.3027,
+          "value": 231614.89,
+          "avg_price": 0.4197,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "dhgreg",
+          "roi": 0.1677,
+          "value": 82999.98,
+          "avg_price": 0.41,
+          "cur_price": 0.415
+        },
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.1944,
+          "value": 80924.97,
+          "avg_price": 0.3979,
+          "cur_price": 0.415
+        }
+      ]
+    },
     {
       "market": "LoL: LOS vs Team Secret Whales - Game 1 Winner",
       "slug": "lol-los-tsw-2026-10-26-game1",
@@ -2986,10 +3015,12 @@
     "nfl-kc-sea-2026-10-26-spread-home-3pt5::Seahawks": 3,
     "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 3,
     "mex-atl-pue-2026-10-25-atl::Yes": 3,
-    "cs2-tl1-lgc-2026-10-26::Liquid": 1,
-    "cs2-ts7-furia-2026-10-26::Spirit": 1,
-    "will-harry-kane-win-the-2026-ballon-dor::No": 1,
-    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 1
+    "cs2-tl1-lgc-2026-10-26::Liquid": 2,
+    "cs2-ts7-furia-2026-10-26::Spirit": 2,
+    "will-harry-kane-win-the-2026-ballon-dor::No": 2,
+    "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 2,
+    "lol-los-tsw-2026-10-26-game1::LOS": 1,
+    "dota2-bb4-legion1-2026-10-26-game1::LEGION": 1
   },
-  "updated_at": "2026-10-26T20:37:52.734780+00:00"
+  "updated_at": "2026-10-27T00:04:50.765312+00:00"
 }

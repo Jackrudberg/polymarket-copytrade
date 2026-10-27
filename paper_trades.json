@@ -11088,7 +11088,7 @@
       "current_value": 352.62,
       "paper_pnl": 252.62,
       "return_percent": 252.62,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 9704.03,
       "traders": [
@@ -11097,7 +11097,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/will-kylian-mbapp-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-09-11T13:49:17.394557+00:00"
+      "consensus_lost_at": "2026-10-27T00:04:50.711836+00:00"
     },
     {
       "signal_id": "bra-pal-int-2026-08-09-pal::No",
@@ -28318,7 +28318,7 @@
       "current_value": 93.52,
       "paper_pnl": -6.48,
       "return_percent": -6.48,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 26695.05,
       "traders": [
@@ -28327,7 +28327,7 @@
         "norrisfan"
       ],
       "url": "https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor",
-      "consensus_lost_at": "2026-09-09T09:57:20.584373+00:00"
+      "consensus_lost_at": "2026-10-27T00:04:50.711836+00:00"
     },
     {
       "signal_id": "atp-shelton-alcaraz-2026-09-08::Ben Shelton",
@@ -63187,7 +63187,31 @@
         "CORGII"
       ],
       "url": "https://polymarket.com/event/dota2-bb4-legion1-2026-10-26-game1"
+    },
+    {
+      "signal_id": "nba-ind-mil-2026-10-26::Bucks",
+      "market": "Pacers vs. Bucks",
+      "slug": "nba-ind-mil-2026-10-26",
+      "side": "Bucks",
+      "alerted_at": "2026-10-27T00:04:50.711836+00:00",
+      "last_seen": "2026-10-27T00:04:50.711836+00:00",
+      "entry_price": 0.415,
+      "current_price": 0.415,
+      "stake": 100.0,
+      "shares": 240.963855,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 395539.84,
+      "traders": [
+        "googleplay",
+        "dhgreg",
+        "monkeymashingkeyboard"
+      ],
+      "url": "https://polymarket.com/event/nba-ind-mil-2026-10-26"
     }
   ],
-  "updated_at": "2026-10-26T20:37:52.704696+00:00"
+  "updated_at": "2026-10-27T00:04:50.711836+00:00"
 }
