@@ -1,33 +1,43 @@
 {
   "seen_ids": [
     "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No"
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No",
+    "cs2-b8-k271-2026-10-27::K27",
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
+    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes"
   ],
   "signals": [
     {
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "2026-balance-of-power-d-senate-d-house-949",
       "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 1282062.01,
+      "num_traders": 4,
+      "total_value": 1287332.27,
       "holders": [
         {
           "trader": "jakepaulthegoat2008",
-          "roi": 6.3743,
+          "roi": 0.4481,
           "value": 1015336.01,
           "avg_price": 0.5,
           "cur_price": 0.655
         },
         {
           "trader": "BreakTheBank",
-          "roi": 0.7127,
+          "roi": 0.6934,
           "value": 264525.96,
           "avg_price": 0.6585,
           "cur_price": 0.655
         },
         {
+          "trader": "e46m3",
+          "roi": 1.1451,
+          "value": 5270.26,
+          "avg_price": 0.409,
+          "cur_price": 0.655
+        },
+        {
           "trader": "SunlineTicker",
-          "roi": 2.2637,
+          "roi": 0.8408,
           "value": 2200.04,
           "avg_price": 0.6373,
           "cur_price": 0.655
@@ -38,29 +48,126 @@
       "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
       "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
       "outcome": "No",
-      "num_traders": 3,
-      "total_value": 166046.72,
+      "num_traders": 4,
+      "total_value": 174527.75,
       "holders": [
         {
           "trader": "Siddhartha1",
-          "roi": 0.497,
+          "roi": 0.5145,
           "value": 123024.75,
           "avg_price": 0.6399,
           "cur_price": 0.665
         },
         {
           "trader": "BreakTheBank",
-          "roi": 0.7127,
+          "roi": 0.6934,
           "value": 36975.13,
           "avg_price": 0.6541,
           "cur_price": 0.665
         },
         {
+          "trader": "e46m3",
+          "roi": 1.1451,
+          "value": 8481.03,
+          "avg_price": 0.6712,
+          "cur_price": 0.665
+        },
+        {
           "trader": "SunlineTicker",
-          "roi": 2.2637,
+          "roi": 0.8408,
           "value": 6046.84,
           "avg_price": 0.4914,
           "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A",
+      "slug": "cs2-b8-k271-2026-10-27",
+      "outcome": "K27",
+      "num_traders": 3,
+      "total_value": 23619.53,
+      "holders": [
+        {
+          "trader": "jakepaulthegoat2008",
+          "roi": 0.4481,
+          "value": 19183.97,
+          "avg_price": 0.3799,
+          "cur_price": 0.4735
+        },
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2112,
+          "value": 2703.31,
+          "avg_price": 0.3599,
+          "cur_price": 0.4805
+        },
+        {
+          "trader": "FeedTheBigBird",
+          "roi": 0.7603,
+          "value": 1732.25,
+          "avg_price": 0.36,
+          "cur_price": 0.4705
+        }
+      ]
+    },
+    {
+      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 17036.85,
+      "holders": [
+        {
+          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
+          "roi": 0.2112,
+          "value": 13535.25,
+          "avg_price": 0.1917,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.6934,
+          "value": 3117.61,
+          "avg_price": 0.17,
+          "cur_price": 0.165
+        },
+        {
+          "trader": "e46m3",
+          "roi": 1.1451,
+          "value": 383.99,
+          "avg_price": 0.0277,
+          "cur_price": 0.165
+        }
+      ]
+    },
+    {
+      "market": "Will Bitcoin dip to $77,500 in October?",
+      "slug": "will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 2621.57,
+      "holders": [
+        {
+          "trader": "SunlineTicker",
+          "roi": 0.8408,
+          "value": 1326.78,
+          "avg_price": 0.2351,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "Tokor",
+          "roi": 0.9755,
+          "value": 1193.68,
+          "avg_price": 0.3968,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "stringXX",
+          "roi": 0.2418,
+          "value": 101.11,
+          "avg_price": 0.4499,
+          "cur_price": 0.455
         }
       ]
     },
@@ -91,66 +198,6 @@
           "value": 80924.97,
           "avg_price": 0.3979,
           "cur_price": 0.415
-        }
-      ]
-    },
-    {
-      "market": "LoL: LOS vs Team Secret Whales - Game 1 Winner",
-      "slug": "lol-los-tsw-2026-10-26-game1",
-      "outcome": "LOS",
-      "num_traders": 3,
-      "total_value": 122559.97,
-      "holders": [
-        {
-          "trader": "meoooow",
-          "roi": 0.2679,
-          "value": 61200.33,
-          "avg_price": 0.3714,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "Zywoo123",
-          "roi": 0.2814,
-          "value": 52655.66,
-          "avg_price": 0.3499,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "GAMBLINGISCANCER69",
-          "roi": 0.2464,
-          "value": 8703.98,
-          "avg_price": 0.399,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Dota 2: BetBoom Team vs LEGION - Game 1 Winner",
-      "slug": "dota2-bb4-legion1-2026-10-26-game1",
-      "outcome": "LEGION",
-      "num_traders": 3,
-      "total_value": 20079.43,
-      "holders": [
-        {
-          "trader": "0x6453Db824e2bFa4eAcE63b16F716ba663cf66a16-1740178698115",
-          "roi": 0.2821,
-          "value": 7499.85,
-          "avg_price": 0.4463,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "CyberScore.live",
-          "roi": 0.1873,
-          "value": 6426.6,
-          "avg_price": 0.438,
-          "cur_price": 0.375
-        },
-        {
-          "trader": "CORGII",
-          "roi": 0.1654,
-          "value": 6152.98,
-          "avg_price": 0.5199,
-          "cur_price": 0.39
         }
       ]
     }
@@ -1150,7 +1197,6 @@
     "lol-navi-fnc-2026-08-24-game1::Natus Vincere": 3,
     "lol-navi-fnc-2026-08-24-game2::Natus Vincere": 3,
     "lol-gx-g2-2026-08-24-game1::G2 Esports": 3,
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3,
     "epl-ful-che-2026-08-24-che::Yes": 3,
     "lol-gx-g2-2026-08-24::GIANTX": 3,
     "will-the-republicans-win-the-iowa-governor-race-in-2026::No": 3,
@@ -2885,7 +2931,6 @@
     "bun-koe-s04-2026-10-24-koe::No": 3,
     "will-bitcoin-reach-90k-in-october-2026::No": 3,
     "will-bitcoin-reach-92pt5k-in-october-2026::No": 3,
-    "will-bitcoin-dip-to-77pt5k-in-october-2026::Yes": 3,
     "epl-che-tot-2026-10-24-che::No": 3,
     "will-ethereum-dip-to-2250-by-december-31-2026::Yes": 3,
     "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 3,
@@ -2951,9 +2996,9 @@
     "cs2-ts7-furia-2026-10-26::Spirit": 3,
     "will-harry-kane-win-the-2026-ballon-dor::No": 3,
     "will-kylian-mbapp-win-the-2026-ballon-dor::Yes": 3,
-    "lol-los-tsw-2026-10-26-game1::LOS": 2,
-    "dota2-bb4-legion1-2026-10-26-game1::LEGION": 2,
-    "nba-ind-mil-2026-10-26::Bucks": 1
+    "lol-los-tsw-2026-10-26-game1::LOS": 3,
+    "dota2-bb4-legion1-2026-10-26-game1::LEGION": 3,
+    "nba-ind-mil-2026-10-26::Bucks": 2
   },
-  "updated_at": "2026-10-27T04:56:18.269243+00:00"
+  "updated_at": "2026-10-27T10:16:11.746410+00:00"
 }
