@@ -1,58 +1,159 @@
 {
   "seen_ids": [
     "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "2026-balance-of-power-d-senate-d-house-949::No",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes",
-    "will-the-republicans-win-the-iowa-senate-race-in-2026::Yes",
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes",
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No",
     "will-the-democrats-win-the-iowa-senate-race-in-2026::No",
-    "will-the-democrats-win-the-ohio-senate-race-in-2026::No",
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes",
-    "will-the-republicans-win-the-nebraska-senate-race-in-2026::Yes",
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No",
-    "nba-cha-det-2026-10-28-spread-home-6pt5::Pistons",
-    "nba-phi-ind-2026-10-28::76ers",
-    "nba-lal-lac-2026-10-28::Lakers",
-    "will-the-republicans-win-the-nevada-governor-race-in-2026::Yes",
-    "nba-okc-dal-2026-10-28-total-230pt5::Under",
-    "nba-sas-uta-2026-10-28-spread-away-11pt5::Jazz",
-    "nba-hou-mil-2026-10-28-spread-away-8pt5::Rockets"
+    "efl-mnc-bha-2026-10-28-mnc::No"
   ],
   "signals": [
     {
       "market": "2026 Balance of Power: D Senate, D House",
       "slug": "2026-balance-of-power-d-senate-d-house-949",
       "outcome": "Yes",
-      "num_traders": 4,
-      "total_value": 805286.57,
+      "num_traders": 3,
+      "total_value": 815347.4,
       "holders": [
         {
           "trader": "jakepaulthegoat2008",
-          "roi": 0.2276,
-          "value": 786086.01,
+          "roi": 0.3013,
+          "value": 798087.32,
           "avg_price": 0.5,
-          "cur_price": 0.655
+          "cur_price": 0.665
         },
         {
           "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 11730.26,
+          "roi": 0.1725,
+          "value": 11909.35,
           "avg_price": 0.6497,
-          "cur_price": 0.655
+          "cur_price": 0.665
         },
         {
           "trader": "e46m3",
-          "roi": 0.3968,
-          "value": 5270.26,
+          "roi": 0.3516,
+          "value": 5350.73,
           "avg_price": 0.409,
-          "cur_price": 0.655
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 380460.64,
+      "holders": [
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2426,
+          "value": 326759.91,
+          "avg_price": 0.8107,
+          "cur_price": 0.9525
         },
         {
-          "trader": "SunlineTicker",
-          "roi": 0.8972,
-          "value": 2200.04,
-          "avg_price": 0.6373,
-          "cur_price": 0.655
+          "trader": "purplegatto",
+          "roi": 0.1725,
+          "value": 48938.24,
+          "avg_price": 0.8387,
+          "cur_price": 0.9525
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.3516,
+          "value": 4762.49,
+          "avg_price": 0.953,
+          "cur_price": 0.9525
+        }
+      ]
+    },
+    {
+      "market": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 66260.35,
+      "holders": [
+        {
+          "trader": "purplegatto",
+          "roi": 0.1725,
+          "value": 36978.81,
+          "avg_price": 0.95,
+          "cur_price": 0.9555
+        },
+        {
+          "trader": "Erasmus.",
+          "roi": 0.2426,
+          "value": 23361.27,
+          "avg_price": 0.8199,
+          "cur_price": 0.9545
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.2879,
+          "value": 5920.27,
+          "avg_price": 0.6448,
+          "cur_price": 0.9555
+        }
+      ]
+    },
+    {
+      "market": "Will the Democrats win the Iowa Senate race in 2026?",
+      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 29227.95,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.2879,
+          "value": 26423.82,
+          "avg_price": 0.5947,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.1725,
+          "value": 2657.03,
+          "avg_price": 0.5504,
+          "cur_price": 0.565
+        },
+        {
+          "trader": "e46m3",
+          "roi": 0.3516,
+          "value": 147.1,
+          "avg_price": 0.563,
+          "cur_price": 0.565
+        }
+      ]
+    },
+    {
+      "market": "Will Manchester City FC win on 2026-10-28?",
+      "slug": "efl-mnc-bha-2026-10-28-mnc",
+      "outcome": "No",
+      "num_traders": 3,
+      "total_value": 19659.46,
+      "holders": [
+        {
+          "trader": "sulumos",
+          "roi": 0.3437,
+          "value": 12281.24,
+          "avg_price": 0.39,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "justwins",
+          "roi": 2.292,
+          "value": 3786.92,
+          "avg_price": 0.4299,
+          "cur_price": 0.375
+        },
+        {
+          "trader": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+          "roi": 0.6062,
+          "value": 3591.3,
+          "avg_price": 0.41,
+          "cur_price": 0.375
         }
       ]
     },
@@ -172,36 +273,6 @@
           "roi": 0.2399,
           "value": 1804.9,
           "avg_price": 0.5799,
-          "cur_price": 0.565
-        }
-      ]
-    },
-    {
-      "market": "Will the Democrats win the Iowa Senate race in 2026?",
-      "slug": "will-the-democrats-win-the-iowa-senate-race-in-2026",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 29227.95,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.4486,
-          "value": 26423.82,
-          "avg_price": 0.5947,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2399,
-          "value": 2657.03,
-          "avg_price": 0.5504,
-          "cur_price": 0.565
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.3968,
-          "value": 147.1,
-          "avg_price": 0.563,
           "cur_price": 0.565
         }
       ]
@@ -787,468 +858,6 @@
           "value": 159.03,
           "avg_price": 0.0797,
           "cur_price": 0.075
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 5,
-      "total_value": 197528.68,
-      "holders": [
-        {
-          "trader": "Siddhartha1",
-          "roi": 0.4987,
-          "value": 124874.74,
-          "avg_price": 0.6399,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6739,
-          "value": 37531.15,
-          "avg_price": 0.6541,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "wan123",
-          "roi": 0.2888,
-          "value": 20376.45,
-          "avg_price": 0.4599,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5149,
-          "value": 8608.57,
-          "avg_price": 0.6712,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 6137.77,
-          "avg_price": 0.4914,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Spread: Celtics (-12.5)",
-      "slug": "nba-bkn-bos-2026-10-27-spread-home-12pt5",
-      "outcome": "Nets",
-      "num_traders": 5,
-      "total_value": 98872.56,
-      "holders": [
-        {
-          "trader": "justwins",
-          "roi": 0.2039,
-          "value": 35066.71,
-          "avg_price": 0.49,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "chongchong37",
-          "roi": 0.8224,
-          "value": 32380.49,
-          "avg_price": 0.4751,
-          "cur_price": 0.525
-        },
-        {
-          "trader": "ArielFilipino",
-          "roi": 0.2951,
-          "value": 19419.43,
-          "avg_price": 0.5357,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "ianf2026",
-          "roi": 0.4547,
-          "value": 11315.25,
-          "avg_price": 0.47,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 690.68,
-          "avg_price": 0.48,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Nets vs. Celtics: O/U 222.5",
-      "slug": "nba-bkn-bos-2026-10-27-total-222pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 218914.58,
-      "holders": [
-        {
-          "trader": "justwins",
-          "roi": 0.2039,
-          "value": 105999.86,
-          "avg_price": 0.4949,
-          "cur_price": 0.53
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.366,
-          "value": 68087.98,
-          "avg_price": 0.4985,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "Talvez10",
-          "roi": 1.1018,
-          "value": 38731.74,
-          "avg_price": 0.502,
-          "cur_price": 0.53
-        },
-        {
-          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
-          "roi": 0.1812,
-          "value": 6095,
-          "avg_price": 0.51,
-          "cur_price": 0.53
-        }
-      ]
-    },
-    {
-      "market": "Spread: Celtics (-12.5)",
-      "slug": "nba-bkn-bos-2026-10-27-spread-home-12pt5",
-      "outcome": "Celtics",
-      "num_traders": 4,
-      "total_value": 121940.84,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6739,
-          "value": 103941.11,
-          "avg_price": 0.5284,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "chongchong37",
-          "roi": 0.8224,
-          "value": 14250,
-          "avg_price": 0.51,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 1889.77,
-          "avg_price": 0.46,
-          "cur_price": 0.465
-        },
-        {
-          "trader": "ubetteruuuu",
-          "roi": 0.5818,
-          "value": 1859.96,
-          "avg_price": 0.52,
-          "cur_price": 0.465
-        }
-      ]
-    },
-    {
-      "market": "Nets vs. Celtics: O/U 223.5",
-      "slug": "nba-bkn-bos-2026-10-27-total-223pt5",
-      "outcome": "Over",
-      "num_traders": 3,
-      "total_value": 272801.19,
-      "holders": [
-        {
-          "trader": "googleplay",
-          "roi": 0.6444,
-          "value": 257163.96,
-          "avg_price": 0.506,
-          "cur_price": 0.47
-        },
-        {
-          "trader": "ianf2026",
-          "roi": 0.4547,
-          "value": 8078.8,
-          "avg_price": 0.48,
-          "cur_price": 0.475
-        },
-        {
-          "trader": "chongchong37",
-          "roi": 0.8224,
-          "value": 7558.43,
-          "avg_price": 0.49,
-          "cur_price": 0.445
-        }
-      ]
-    },
-    {
-      "market": "Nets vs. Celtics",
-      "slug": "nba-bkn-bos-2026-10-27",
-      "outcome": "Celtics",
-      "num_traders": 3,
-      "total_value": 262958.27,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6739,
-          "value": 184375.11,
-          "avg_price": 0.8543,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.366,
-          "value": 62283.16,
-          "avg_price": 0.85,
-          "cur_price": 0.845
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.446,
-          "value": 16300.0,
-          "avg_price": 0.84,
-          "cur_price": 0.815
-        }
-      ]
-    },
-    {
-      "market": "Pistons vs. Knicks",
-      "slug": "nba-det-nyk-2026-10-27",
-      "outcome": "Knicks",
-      "num_traders": 3,
-      "total_value": 181899.84,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.366,
-          "value": 164751.19,
-          "avg_price": 0.6068,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.446,
-          "value": 10454.99,
-          "avg_price": 0.6,
-          "cur_price": 0.615
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 6693.66,
-          "avg_price": 0.606,
-          "cur_price": 0.615
-        }
-      ]
-    },
-    {
-      "market": "Pistons vs. Knicks",
-      "slug": "nba-det-nyk-2026-10-27",
-      "outcome": "Pistons",
-      "num_traders": 3,
-      "total_value": 175035.68,
-      "holders": [
-        {
-          "trader": "RJW1",
-          "roi": 0.8883,
-          "value": 136184.87,
-          "avg_price": 0.3956,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.366,
-          "value": 31150.81,
-          "avg_price": 0.39,
-          "cur_price": 0.385
-        },
-        {
-          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
-          "roi": 0.1812,
-          "value": 7700,
-          "avg_price": 0.39,
-          "cur_price": 0.385
-        }
-      ]
-    },
-    {
-      "market": "Spread: Celtics (-10.5)",
-      "slug": "nba-bkn-bos-2026-10-27-spread-home-10pt5",
-      "outcome": "Celtics",
-      "num_traders": 3,
-      "total_value": 157525.85,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6739,
-          "value": 154208.14,
-          "avg_price": 0.6,
-          "cur_price": 0.57
-        },
-        {
-          "trader": "ubetteruuuu",
-          "roi": 0.5818,
-          "value": 2674.64,
-          "avg_price": 0.5817,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 643.07,
-          "avg_price": 0.59,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "Spread: Spurs (-18.5)",
-      "slug": "nba-sac-sas-2026-10-27-spread-home-18pt5",
-      "outcome": "Kings",
-      "num_traders": 3,
-      "total_value": 67485.17,
-      "holders": [
-        {
-          "trader": "justwins",
-          "roi": 0.2039,
-          "value": 48500,
-          "avg_price": 0.5,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "bands1",
-          "roi": 0.5815,
-          "value": 15455.34,
-          "avg_price": 0.4929,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ianf2026",
-          "roi": 0.4547,
-          "value": 3529.83,
-          "avg_price": 0.5,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: R Senate, D House",
-      "slug": "2026-balance-of-power-r-senate-d-house-444",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 31552.38,
-      "holders": [
-        {
-          "trader": "wan123",
-          "roi": 0.2888,
-          "value": 27499.98,
-          "avg_price": 0.2799,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5149,
-          "value": 2321.09,
-          "avg_price": 0.2701,
-          "cur_price": 0.275
-        },
-        {
-          "trader": "flawfence",
-          "roi": 0.4216,
-          "value": 1731.31,
-          "avg_price": 0.3,
-          "cur_price": 0.275
-        }
-      ]
-    },
-    {
-      "market": "Spread: Knicks (-4.5)",
-      "slug": "nba-det-nyk-2026-10-27-spread-home-4pt5",
-      "outcome": "Knicks",
-      "num_traders": 3,
-      "total_value": 24758.8,
-      "holders": [
-        {
-          "trader": "chongchong37",
-          "roi": 0.8224,
-          "value": 14550.0,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ianf2026",
-          "roi": 0.4547,
-          "value": 6874.38,
-          "avg_price": 0.48,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 3334.42,
-          "avg_price": 0.4741,
-          "cur_price": 0.485
-        }
-      ]
-    },
-    {
-      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 24747.8,
-      "holders": [
-        {
-          "trader": "0xA0b86991c6218b36c1d19D4a29Eb0cE3606eB4",
-          "roi": 0.1812,
-          "value": 14355.57,
-          "avg_price": 0.1917,
-          "cur_price": 0.175
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6739,
-          "value": 9975.8,
-          "avg_price": 0.1598,
-          "cur_price": 0.175
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.5149,
-          "value": 416.43,
-          "avg_price": 0.0277,
-          "cur_price": 0.175
-        }
-      ]
-    },
-    {
-      "market": "Spread: Celtics (-11.5)",
-      "slug": "nba-bkn-bos-2026-10-27-spread-home-11pt5",
-      "outcome": "Nets",
-      "num_traders": 3,
-      "total_value": 19339.5,
-      "holders": [
-        {
-          "trader": "ArielFilipino",
-          "roi": 0.2951,
-          "value": 13500,
-          "avg_price": 0.51,
-          "cur_price": 0.5
-        },
-        {
-          "trader": "ianf2026",
-          "roi": 0.4547,
-          "value": 3697.5,
-          "avg_price": 0.5,
-          "cur_price": 0.5
-        },
-        {
-          "trader": "SunlineTicker",
-          "roi": 0.4395,
-          "value": 2142,
-          "avg_price": 0.4735,
-          "cur_price": 0.5
         }
       ]
     }
@@ -3895,7 +3504,6 @@
     "uel-cel-cel1-2026-10-22-total-2pt5::Under": 3,
     "uel-bou-mil1-2026-10-22-bou::No": 3,
     "uel-hof-lyo-2026-10-22-hof::No": 3,
-    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::Yes": 3,
     "nfl-ne-chi-2026-10-23-total-50pt5::Under": 3,
     "cfb-librty-kenest-2026-10-22-spread-away-8pt5::Liberty": 3,
     "nba-cle-phi-2026-10-22::76ers": 3,
@@ -4009,7 +3617,6 @@
     "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election::Yes": 3,
     "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4::Yes": 3,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::No": 3,
     "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election::Yes": 3,
     "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4::Yes": 3,
     "lol-gen-ly-2026-10-25::Gen.G": 3,
@@ -4043,28 +3650,43 @@
     "billionaire-one-time-wealth-tax-passes-in-california-election-2026::No": 3,
     "will-magdalena-andersson-be-the-next-prime-minister-of-sweden::Yes": 3,
     "nba-por-lal-2026-10-27-spread-home-3pt5::Lakers": 3,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
-    "nba-bkn-bos-2026-10-27-spread-home-12pt5::Nets": 2,
-    "nba-bkn-bos-2026-10-27-total-222pt5::Under": 2,
-    "nba-bkn-bos-2026-10-27-spread-home-12pt5::Celtics": 2,
-    "nba-bkn-bos-2026-10-27-total-223pt5::Over": 2,
-    "nba-bkn-bos-2026-10-27::Celtics": 2,
-    "nba-det-nyk-2026-10-27::Knicks": 2,
-    "nba-det-nyk-2026-10-27::Pistons": 2,
-    "nba-bkn-bos-2026-10-27-spread-home-10pt5::Celtics": 2,
-    "nba-sac-sas-2026-10-27-spread-home-18pt5::Kings": 2,
-    "2026-balance-of-power-r-senate-d-house-444::Yes": 2,
-    "nba-det-nyk-2026-10-27-spread-home-4pt5::Knicks": 2,
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 2,
-    "nba-bkn-bos-2026-10-27-spread-home-11pt5::Nets": 2,
-    "nba-por-lal-2026-10-27::Lakers": 1,
-    "nba-por-lal-2026-10-27-spread-home-2pt5::Trail Blazers": 1,
-    "nba-por-lal-2026-10-27-spread-home-2pt5::Lakers": 1,
-    "nba-por-lal-2026-10-27::Trail Blazers": 1,
-    "nba-por-lal-2026-10-27-spread-home-1pt5::Trail Blazers": 1,
-    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 1,
-    "will-the-republicans-win-the-iowa-senate-race-in-2026::No": 1,
-    "2026-balance-of-power-r-senate-r-house-537::Yes": 1
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
+    "nba-bkn-bos-2026-10-27-spread-home-12pt5::Nets": 3,
+    "nba-bkn-bos-2026-10-27-total-222pt5::Under": 3,
+    "nba-bkn-bos-2026-10-27-spread-home-12pt5::Celtics": 3,
+    "nba-bkn-bos-2026-10-27-total-223pt5::Over": 3,
+    "nba-bkn-bos-2026-10-27::Celtics": 3,
+    "nba-det-nyk-2026-10-27::Knicks": 3,
+    "nba-det-nyk-2026-10-27::Pistons": 3,
+    "nba-bkn-bos-2026-10-27-spread-home-10pt5::Celtics": 3,
+    "nba-sac-sas-2026-10-27-spread-home-18pt5::Kings": 3,
+    "2026-balance-of-power-r-senate-d-house-444::Yes": 3,
+    "nba-det-nyk-2026-10-27-spread-home-4pt5::Knicks": 3,
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3,
+    "nba-bkn-bos-2026-10-27-spread-home-11pt5::Nets": 3,
+    "nba-por-lal-2026-10-27::Lakers": 2,
+    "nba-por-lal-2026-10-27-spread-home-2pt5::Trail Blazers": 2,
+    "nba-por-lal-2026-10-27-spread-home-2pt5::Lakers": 2,
+    "nba-por-lal-2026-10-27::Trail Blazers": 2,
+    "nba-por-lal-2026-10-27-spread-home-1pt5::Trail Blazers": 2,
+    "will-the-republican-party-control-the-house-after-the-2026-midterm-elections::Yes": 2,
+    "will-the-republicans-win-the-iowa-senate-race-in-2026::No": 2,
+    "2026-balance-of-power-r-senate-r-house-537::Yes": 2,
+    "2026-balance-of-power-d-senate-d-house-949::No": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes": 1,
+    "will-the-republicans-win-the-iowa-senate-race-in-2026::Yes": 1,
+    "will-the-democrats-win-the-ohio-senate-race-in-2026::No": 1,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032::Yes": 1,
+    "will-the-republicans-win-the-nebraska-senate-race-in-2026::Yes": 1,
+    "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031::No": 1,
+    "nba-cha-det-2026-10-28-spread-home-6pt5::Pistons": 1,
+    "nba-phi-ind-2026-10-28::76ers": 1,
+    "nba-lal-lac-2026-10-28::Lakers": 1,
+    "will-the-republicans-win-the-nevada-governor-race-in-2026::Yes": 1,
+    "nba-okc-dal-2026-10-28-total-230pt5::Under": 1,
+    "nba-sas-uta-2026-10-28-spread-away-11pt5::Jazz": 1,
+    "nba-hou-mil-2026-10-28-spread-away-8pt5::Rockets": 1
   },
-  "updated_at": "2026-10-28T10:51:33.668383+00:00"
+  "updated_at": "2026-10-28T16:53:00.488259+00:00"
 }
