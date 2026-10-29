@@ -12698,7 +12698,7 @@
       "current_value": 119.67,
       "paper_pnl": 19.67,
       "return_percent": 19.67,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3599.6,
       "traders": [
@@ -12707,7 +12707,7 @@
         "0xa0f21e"
       ],
       "url": "https://polymarket.com/event/will-the-democrats-win-the-maine-senate-race-in-2026",
-      "consensus_lost_at": "2026-08-12T12:28:49.197120+00:00"
+      "consensus_lost_at": "2026-10-29T19:43:05.084483+00:00"
     },
     {
       "signal_id": "lol-dnf-ns-2026-08-12::Nongshim Red Force",
@@ -17523,7 +17523,7 @@
       "slug": "2026-balance-of-power-d-senate-d-house-949",
       "side": "Yes",
       "alerted_at": "2026-08-18T19:01:19.287117+00:00",
-      "last_seen": "2026-10-29T14:15:11.086976+00:00",
+      "last_seen": "2026-10-29T19:43:05.084483+00:00",
       "entry_price": 0.465,
       "current_price": 0.665,
       "stake": 100.0,
@@ -51759,7 +51759,7 @@
       "current_value": 100.0,
       "paper_pnl": 0.0,
       "return_percent": 0.0,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 70759.74,
       "traders": [
@@ -51768,7 +51768,7 @@
         "cigarettes"
       ],
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
-      "consensus_lost_at": "2026-10-28T21:29:07.100568+00:00"
+      "consensus_lost_at": "2026-10-29T19:43:05.084483+00:00"
     },
     {
       "signal_id": "will-philadelphia-76ers-win-the-2027-nba-finals::No",
@@ -53657,7 +53657,7 @@
       "current_value": 87.95,
       "paper_pnl": -12.05,
       "return_percent": -12.05,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 7056.9,
       "traders": [
@@ -53666,7 +53666,7 @@
         "0x53757615de1c42b83f893b79d4241a009dc2aeea"
       ],
       "url": "https://polymarket.com/event/will-the-republicans-win-the-maine-senate-race-in-2026",
-      "consensus_lost_at": "2026-10-11T13:09:09.903790+00:00"
+      "consensus_lost_at": "2026-10-29T19:43:05.084483+00:00"
     },
     {
       "signal_id": "nfl-sf-sea-2026-10-11-total-46pt5::Under",
@@ -60255,7 +60255,7 @@
       "current_value": 104.65,
       "paper_pnl": 4.65,
       "return_percent": 4.65,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 3532.16,
       "traders": [
@@ -60264,7 +60264,7 @@
         "nigiri99"
       ],
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "consensus_lost_at": "2026-10-22T14:41:30.726726+00:00"
+      "consensus_lost_at": "2026-10-29T19:43:05.084483+00:00"
     },
     {
       "signal_id": "uel-cel-cel1-2026-10-22-total-2pt5::Under",
@@ -62819,7 +62819,7 @@
       "current_value": 109.6,
       "paper_pnl": 9.6,
       "return_percent": 9.6,
-      "status": "OPEN",
+      "status": "CONSENSUS_LOST",
       "num_traders": 3,
       "combined_value": 52109.9,
       "traders": [
@@ -62828,7 +62828,7 @@
         "flawfence"
       ],
       "url": "https://polymarket.com/event/will-the-democrats-win-the-texas-senate-race-in-2026",
-      "consensus_lost_at": "2026-10-28T21:29:07.100568+00:00"
+      "consensus_lost_at": "2026-10-29T19:43:05.084483+00:00"
     },
     {
       "signal_id": "will-the-democrats-win-the-south-carolina-senate-race-in-2026::No",
@@ -64052,14 +64052,14 @@
       "slug": "nba-mem-por-2026-10-29-total-233pt5",
       "side": "Under",
       "alerted_at": "2026-10-29T14:15:11.086976+00:00",
-      "last_seen": "2026-10-29T14:15:11.086976+00:00",
+      "last_seen": "2026-10-29T19:43:05.084483+00:00",
       "entry_price": 0.535,
-      "current_price": 0.535,
+      "current_price": 0.515,
       "stake": 100.0,
       "shares": 186.915888,
-      "current_value": 100.0,
-      "paper_pnl": 0.0,
-      "return_percent": 0.0,
+      "current_value": 96.26,
+      "paper_pnl": -3.74,
+      "return_percent": -3.74,
       "status": "OPEN",
       "num_traders": 4,
       "combined_value": 7848.33,
@@ -64070,7 +64070,79 @@
         "BullishBarb"
       ],
       "url": "https://polymarket.com/event/nba-mem-por-2026-10-29-total-233pt5"
+    },
+    {
+      "signal_id": "nba-mem-por-2026-10-29-spread-home-7pt5::Grizzlies",
+      "market": "Spread: Trail Blazers (-7.5)",
+      "slug": "nba-mem-por-2026-10-29-spread-home-7pt5",
+      "side": "Grizzlies",
+      "alerted_at": "2026-10-29T19:43:05.084483+00:00",
+      "last_seen": "2026-10-29T19:43:05.084483+00:00",
+      "entry_price": 0.495,
+      "current_price": 0.495,
+      "stake": 100.0,
+      "shares": 202.020202,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 92129.21,
+      "traders": [
+        "monkeymashingkeyboard",
+        "ComingBack",
+        "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542"
+      ],
+      "url": "https://polymarket.com/event/nba-mem-por-2026-10-29-spread-home-7pt5"
+    },
+    {
+      "signal_id": "nba-mem-por-2026-10-29::Grizzlies",
+      "market": "Grizzlies vs. Trail Blazers",
+      "slug": "nba-mem-por-2026-10-29",
+      "side": "Grizzlies",
+      "alerted_at": "2026-10-29T19:43:05.084483+00:00",
+      "last_seen": "2026-10-29T19:43:05.084483+00:00",
+      "entry_price": 0.275,
+      "current_price": 0.275,
+      "stake": 100.0,
+      "shares": 363.636364,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 47853.81,
+      "traders": [
+        "monkeymashingkeyboard",
+        "purplegatto",
+        "BullishBarb"
+      ],
+      "url": "https://polymarket.com/event/nba-mem-por-2026-10-29"
+    },
+    {
+      "signal_id": "nba-mem-por-2026-10-29-total-233pt5::Over",
+      "market": "Grizzlies vs. Trail Blazers: O/U 233.5",
+      "slug": "nba-mem-por-2026-10-29-total-233pt5",
+      "side": "Over",
+      "alerted_at": "2026-10-29T19:43:05.084483+00:00",
+      "last_seen": "2026-10-29T19:43:05.084483+00:00",
+      "entry_price": 0.485,
+      "current_price": 0.485,
+      "stake": 100.0,
+      "shares": 206.185567,
+      "current_value": 100.0,
+      "paper_pnl": 0.0,
+      "return_percent": 0.0,
+      "status": "OPEN",
+      "num_traders": 3,
+      "combined_value": 8758.38,
+      "traders": [
+        "ComingBack",
+        "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+        "BullishBarb"
+      ],
+      "url": "https://polymarket.com/event/nba-mem-por-2026-10-29-total-233pt5"
     }
   ],
-  "updated_at": "2026-10-29T14:15:11.086976+00:00"
+  "updated_at": "2026-10-29T19:43:05.084483+00:00"
 }

@@ -1,16 +1,231 @@
 {
   "seen_ids": [
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No",
-    "nba-mem-por-2026-10-29::Trail Blazers",
     "nba-mem-por-2026-10-29-total-233pt5::Under",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes",
-    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No",
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes",
-    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No",
+    "nba-mem-por-2026-10-29-spread-home-7pt5::Grizzlies",
+    "nba-mem-por-2026-10-29::Grizzlies",
+    "nba-mem-por-2026-10-29::Trail Blazers",
+    "nba-mem-por-2026-10-29-total-233pt5::Over",
     "nba-sac-nop-2026-10-29::Pelicans"
   ],
   "signals": [
+    {
+      "market": "Grizzlies vs. Trail Blazers: O/U 233.5",
+      "slug": "nba-mem-por-2026-10-29-total-233pt5",
+      "outcome": "Under",
+      "num_traders": 4,
+      "total_value": 5124.07,
+      "holders": [
+        {
+          "trader": "JoeyAroyyOO",
+          "roi": 1.1712,
+          "value": 2575,
+          "avg_price": 0.5,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.285,
+          "value": 1591.35,
+          "avg_price": 0.5073,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "BullishBarb",
+          "roi": 0.2018,
+          "value": 625.1,
+          "avg_price": 0.5015,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.6068,
+          "value": 332.62,
+          "avg_price": 0.5104,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 1076225.68,
+      "holders": [
+        {
+          "trader": "jakepaulthegoat2008",
+          "roi": 0.3373,
+          "value": 1064000,
+          "avg_price": 0.5,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.285,
+          "value": 11909.35,
+          "avg_price": 0.6497,
+          "cur_price": 0.665
+        },
+        {
+          "trader": "xtxpleasecallme",
+          "roi": 0.2699,
+          "value": 316.33,
+          "avg_price": 0.6613,
+          "cur_price": 0.665
+        }
+      ]
+    },
+    {
+      "market": "Spread: Trail Blazers (-7.5)",
+      "slug": "nba-mem-por-2026-10-29-spread-home-7pt5",
+      "outcome": "Grizzlies",
+      "num_traders": 3,
+      "total_value": 92129.21,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.501,
+          "value": 84383.98,
+          "avg_price": 0.5016,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "ComingBack",
+          "roi": 0.5432,
+          "value": 4775.23,
+          "avg_price": 0.4899,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.1792,
+          "value": 2970,
+          "avg_price": 0.48,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Grizzlies vs. Trail Blazers",
+      "slug": "nba-mem-por-2026-10-29",
+      "outcome": "Grizzlies",
+      "num_traders": 3,
+      "total_value": 47853.81,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.501,
+          "value": 45799.63,
+          "avg_price": 0.2862,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "purplegatto",
+          "roi": 0.285,
+          "value": 1408.83,
+          "avg_price": 0.2802,
+          "cur_price": 0.275
+        },
+        {
+          "trader": "BullishBarb",
+          "roi": 0.2018,
+          "value": 645.35,
+          "avg_price": 0.2829,
+          "cur_price": 0.275
+        }
+      ]
+    },
+    {
+      "market": "Grizzlies vs. Trail Blazers",
+      "slug": "nba-mem-por-2026-10-29",
+      "outcome": "Trail Blazers",
+      "num_traders": 3,
+      "total_value": 12719.35,
+      "holders": [
+        {
+          "trader": "ic4cream",
+          "roi": 0.6068,
+          "value": 6095.07,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.1792,
+          "value": 4350,
+          "avg_price": 0.71,
+          "cur_price": 0.725
+        },
+        {
+          "trader": "BullishBarb",
+          "roi": 0.2018,
+          "value": 2274.28,
+          "avg_price": 0.7167,
+          "cur_price": 0.725
+        }
+      ]
+    },
+    {
+      "market": "Grizzlies vs. Trail Blazers: O/U 233.5",
+      "slug": "nba-mem-por-2026-10-29-total-233pt5",
+      "outcome": "Over",
+      "num_traders": 3,
+      "total_value": 8758.38,
+      "holders": [
+        {
+          "trader": "ComingBack",
+          "roi": 0.5432,
+          "value": 4679.27,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
+          "roi": 0.1792,
+          "value": 2448.34,
+          "avg_price": 0.49,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "BullishBarb",
+          "roi": 0.2018,
+          "value": 1630.77,
+          "avg_price": 0.4873,
+          "cur_price": 0.485
+        }
+      ]
+    },
+    {
+      "market": "Kings vs. Pelicans",
+      "slug": "nba-sac-nop-2026-10-29",
+      "outcome": "Pelicans",
+      "num_traders": 3,
+      "total_value": 3281.1,
+      "holders": [
+        {
+          "trader": "BullishBarb",
+          "roi": 0.2018,
+          "value": 2566.01,
+          "avg_price": 0.6578,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "ic4cream",
+          "roi": 0.6068,
+          "value": 417.26,
+          "avg_price": 0.65,
+          "cur_price": 0.685
+        },
+        {
+          "trader": "ComingBack",
+          "roi": 0.5432,
+          "value": 297.83,
+          "avg_price": 0.6899,
+          "cur_price": 0.685
+        }
+      ]
+    },
     {
       "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
       "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
@@ -45,110 +260,6 @@
           "value": 2048.09,
           "avg_price": 0.3396,
           "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "Grizzlies vs. Trail Blazers",
-      "slug": "nba-mem-por-2026-10-29",
-      "outcome": "Trail Blazers",
-      "num_traders": 4,
-      "total_value": 48522.0,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4374,
-          "value": 35978.08,
-          "avg_price": 0.7156,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.7146,
-          "value": 6011.01,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "0xfB07F48542d2b655e9D0Bf1cC92a8a6Feee8e2cC-1782415802542",
-          "roi": 0.4593,
-          "value": 4290,
-          "avg_price": 0.71,
-          "cur_price": 0.715
-        },
-        {
-          "trader": "BullishBarb",
-          "roi": 0.2105,
-          "value": 2242.91,
-          "avg_price": 0.7167,
-          "cur_price": 0.715
-        }
-      ]
-    },
-    {
-      "market": "Grizzlies vs. Trail Blazers: O/U 233.5",
-      "slug": "nba-mem-por-2026-10-29-total-233pt5",
-      "outcome": "Under",
-      "num_traders": 4,
-      "total_value": 7848.33,
-      "holders": [
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4374,
-          "value": 4160.69,
-          "avg_price": 0.5124,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "JoeyAroyyOO",
-          "roi": 1.56,
-          "value": 2675,
-          "avg_price": 0.5,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 783.24,
-          "avg_price": 0.5083,
-          "cur_price": 0.535
-        },
-        {
-          "trader": "BullishBarb",
-          "roi": 0.2105,
-          "value": 229.4,
-          "avg_price": 0.4862,
-          "cur_price": 0.535
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 3063189.92,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.2208,
-          "value": 1854280.57,
-          "avg_price": 0.2758,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 1.0893,
-          "value": 1197000,
-          "avg_price": 0.5,
-          "cur_price": 0.665
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 11909.35,
-          "avg_price": 0.6497,
-          "cur_price": 0.665
         }
       ]
     },
@@ -269,36 +380,6 @@
           "value": 3568.16,
           "avg_price": 0.5483,
           "cur_price": 0.545
-        }
-      ]
-    },
-    {
-      "market": "Kings vs. Pelicans",
-      "slug": "nba-sac-nop-2026-10-29",
-      "outcome": "Pelicans",
-      "num_traders": 3,
-      "total_value": 5126.02,
-      "holders": [
-        {
-          "trader": "BullishBarb",
-          "roi": 0.2105,
-          "value": 2528.55,
-          "avg_price": 0.6578,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4374,
-          "value": 2186.3,
-          "avg_price": 0.6654,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "ic4cream",
-          "roi": 0.7146,
-          "value": 411.17,
-          "avg_price": 0.65,
-          "cur_price": 0.675
         }
       ]
     },
@@ -3366,14 +3447,19 @@
     "efl-mnc-bha-2026-10-28-mnc::No": 3,
     "nba-mia-atl-2026-10-28-spread-home-2pt5::Heat": 3,
     "nba-sas-uta-2026-10-28-spread-away-13pt5::Spurs": 3,
-    "2026-balance-of-power-d-senate-d-house-949::No": 1,
-    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes": 1,
-    "nfl-car-gb-2026-10-30-total-46pt5::Under": 1,
-    "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636::No": 1,
-    "will-the-republicans-win-the-maine-senate-race-in-2026::Yes": 1,
-    "will-the-democrats-win-the-maine-senate-race-in-2026::No": 1,
-    "nba-lal-gsw-2026-10-30::Lakers": 1,
-    "nba-cha-was-2026-10-30::Wizards": 1
+    "2026-balance-of-power-d-senate-d-house-949::No": 2,
+    "will-the-democrats-win-the-texas-senate-race-in-2026::Yes": 2,
+    "nfl-car-gb-2026-10-30-total-46pt5::Under": 2,
+    "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636::No": 2,
+    "will-the-republicans-win-the-maine-senate-race-in-2026::Yes": 2,
+    "will-the-democrats-win-the-maine-senate-race-in-2026::No": 2,
+    "nba-lal-gsw-2026-10-30::Lakers": 2,
+    "nba-cha-was-2026-10-30::Wizards": 2,
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 1,
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 1,
+    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 1,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
+    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 1
   },
-  "updated_at": "2026-10-29T14:15:11.134347+00:00"
+  "updated_at": "2026-10-29T19:43:05.138499+00:00"
 }
