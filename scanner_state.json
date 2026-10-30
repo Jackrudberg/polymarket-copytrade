@@ -1,25 +1,338 @@
 {
   "seen_ids": [
-    "nba-sac-nop-2026-10-29::Pelicans",
+    "nfl-car-gb-2026-10-30::Packers",
+    "nfl-car-gb-2026-10-30-total-46pt5::Over",
+    "nfl-car-gb-2026-10-30-spread-home-3pt5::Packers",
     "2026-balance-of-power-d-senate-d-house-949::Yes",
-    "lol-tes-blg-2026-10-28-game1::Bilibili Gaming",
-    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes",
-    "will-ethereum-dip-to-1250-by-december-31-2026-from-june-8::No",
-    "nba-mem-por-2026-10-29-spread-home-7pt5::Grizzlies",
-    "will-ethereum-reach-3500-by-december-31-2026::No",
-    "nba-cle-atl-2026-10-29-total-237pt5::Over",
-    "will-ethereum-reach-2800-in-october-2026::No",
-    "will-ethereum-dip-to-2100-in-october-2026::No",
-    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes",
-    "nba-mem-por-2026-10-29::Grizzlies",
-    "will-ethereum-reach-2600-in-october-2026::No",
-    "will-ethereum-reach-3000-in-october-2026::No",
-    "nba-mem-por-2026-10-29-total-233pt5::Over",
-    "will-ethereum-reach-2400-october-26-november-1-2026::No",
-    "nba-mem-por-2026-10-29-total-233pt5::Under",
-    "will-ethereum-dip-to-2100-october-26-november-1-2026::Yes"
+    "bra-vas-fla-2026-10-29-fla::Yes",
+    "nfl-car-gb-2026-10-30-total-48pt5::Under",
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes",
+    "nhl-ott-lak-2026-10-29::Kings",
+    "atp-shimabu-wong-2026-10-29::Coleman Wong",
+    "cfb-flatl-ntx-2026-10-29-spread-home-5pt5::Florida Atlantic"
   ],
   "signals": [
+    {
+      "market": "Panthers vs. Packers",
+      "slug": "nfl-car-gb-2026-10-30",
+      "outcome": "Packers",
+      "num_traders": 5,
+      "total_value": 112281.52,
+      "holders": [
+        {
+          "trader": "Meatballsubs",
+          "roi": 0.3017,
+          "value": 45058.5,
+          "avg_price": 0.6,
+          "cur_price": 0.969
+        },
+        {
+          "trader": "milkteaboba",
+          "roi": 0.3332,
+          "value": 42565.65,
+          "avg_price": 0.5699,
+          "cur_price": 0.969
+        },
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.4278,
+          "value": 17998.4,
+          "avg_price": 0.63,
+          "cur_price": 0.966
+        },
+        {
+          "trader": "primm",
+          "roi": 0.1899,
+          "value": 5235.13,
+          "avg_price": 0.63,
+          "cur_price": 0.9685
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 1423.84,
+          "avg_price": 0.665,
+          "cur_price": 0.966
+        }
+      ]
+    },
+    {
+      "market": "Panthers vs. Packers: O/U 46.5",
+      "slug": "nfl-car-gb-2026-10-30-total-46pt5",
+      "outcome": "Over",
+      "num_traders": 4,
+      "total_value": 43813.66,
+      "holders": [
+        {
+          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+          "roi": 0.497,
+          "value": 26640.45,
+          "avg_price": 0.52,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.6799,
+          "value": 11132.76,
+          "avg_price": 0.5355,
+          "cur_price": 0.515
+        },
+        {
+          "trader": "primm",
+          "roi": 0.1899,
+          "value": 5333.37,
+          "avg_price": 0.6077,
+          "cur_price": 0.5
+        },
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1544,
+          "value": 707.08,
+          "avg_price": 0.55,
+          "cur_price": 0.515
+        }
+      ]
+    },
+    {
+      "market": "Spread: Packers (-3.5)",
+      "slug": "nfl-car-gb-2026-10-30-spread-home-3pt5",
+      "outcome": "Packers",
+      "num_traders": 3,
+      "total_value": 467710.08,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.4278,
+          "value": 462500,
+          "avg_price": 0.5,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 2991.93,
+          "avg_price": 0.4976,
+          "cur_price": 0.925
+        },
+        {
+          "trader": "primm",
+          "roi": 0.1899,
+          "value": 2218.15,
+          "avg_price": 0.4408,
+          "cur_price": 0.925
+        }
+      ]
+    },
+    {
+      "market": "2026 Balance of Power: D Senate, D House",
+      "slug": "2026-balance-of-power-d-senate-d-house-949",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 223745.48,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.4278,
+          "value": 204452.43,
+          "avg_price": 0.6585,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "zb8",
+          "roi": 0.6799,
+          "value": 15517.46,
+          "avg_price": 0.4394,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "Edu12345",
+          "roi": 0.5293,
+          "value": 3775.59,
+          "avg_price": 0.6799,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will CR Flamengo win on 2026-10-29?",
+      "slug": "bra-vas-fla-2026-10-29-fla",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 119031.74,
+      "holders": [
+        {
+          "trader": "theowalcott",
+          "roi": 0.4122,
+          "value": 116077.37,
+          "avg_price": 0.5749,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "alpheclabs",
+          "roi": 0.8195,
+          "value": 2137.56,
+          "avg_price": 0.7389,
+          "cur_price": 0.9995
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 2.5372,
+          "value": 816.81,
+          "avg_price": 0.4709,
+          "cur_price": 0.9995
+        }
+      ]
+    },
+    {
+      "market": "Panthers vs. Packers: O/U 48.5",
+      "slug": "nfl-car-gb-2026-10-30-total-48pt5",
+      "outcome": "Under",
+      "num_traders": 3,
+      "total_value": 98100.36,
+      "holders": [
+        {
+          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+          "roi": 0.1544,
+          "value": 96199.92,
+          "avg_price": 0.56,
+          "cur_price": 0.74
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 1755.57,
+          "avg_price": 0.4129,
+          "cur_price": 0.74
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 2.5372,
+          "value": 144.87,
+          "avg_price": 0.5299,
+          "cur_price": 0.74
+        }
+      ]
+    },
+    {
+      "market": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 23695.16,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 1.4278,
+          "value": 11963.01,
+          "avg_price": 0.162,
+          "cur_price": 0.175
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.4684,
+          "value": 11431.46,
+          "avg_price": 0.216,
+          "cur_price": 0.175
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 2.5372,
+          "value": 300.69,
+          "avg_price": 0.1716,
+          "cur_price": 0.175
+        }
+      ]
+    },
+    {
+      "market": "Senators vs. Kings",
+      "slug": "nhl-ott-lak-2026-10-29",
+      "outcome": "Kings",
+      "num_traders": 3,
+      "total_value": 18038.75,
+      "holders": [
+        {
+          "trader": "zb8",
+          "roi": 0.6799,
+          "value": 9977.09,
+          "avg_price": 0.4679,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 7958.45,
+          "avg_price": 0.4699,
+          "cur_price": 0.455
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 2.5372,
+          "value": 103.21,
+          "avg_price": 0.4761,
+          "cur_price": 0.455
+        }
+      ]
+    },
+    {
+      "market": "Seoul: Sho Shimabukuro vs Coleman Wong",
+      "slug": "atp-shimabu-wong-2026-10-29",
+      "outcome": "Coleman Wong",
+      "num_traders": 3,
+      "total_value": 4941.82,
+      "holders": [
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 3525.59,
+          "avg_price": 0.522,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "alpheclabs",
+          "roi": 0.8195,
+          "value": 993.54,
+          "avg_price": 0.6287,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "omnibus-076daa",
+          "roi": 2.5372,
+          "value": 422.69,
+          "avg_price": 0.8,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "Spread: North Texas (-5.5)",
+      "slug": "cfb-flatl-ntx-2026-10-29-spread-home-5pt5",
+      "outcome": "Florida Atlantic",
+      "num_traders": 3,
+      "total_value": 4575.41,
+      "holders": [
+        {
+          "trader": "primm",
+          "roi": 0.1899,
+          "value": 2378.38,
+          "avg_price": 0.37,
+          "cur_price": 0.44
+        },
+        {
+          "trader": "alpheclabs",
+          "roi": 0.8195,
+          "value": 1478.28,
+          "avg_price": 0.3187,
+          "cur_price": 0.485
+        },
+        {
+          "trader": "ferrariChampions2026",
+          "roi": 0.2434,
+          "value": 718.75,
+          "avg_price": 0.3444,
+          "cur_price": 0.37
+        }
+      ]
+    },
     {
       "market": "Kings vs. Pelicans",
       "slug": "nba-sac-nop-2026-10-29",
@@ -61,36 +374,6 @@
           "value": 297.83,
           "avg_price": 0.6899,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 895019.63,
-      "holders": [
-        {
-          "trader": "jakepaulthegoat2008",
-          "roi": 0.2185,
-          "value": 877500,
-          "avg_price": 0.5,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.2402,
-          "value": 12088.44,
-          "avg_price": 0.6497,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "e46m3",
-          "roi": 0.3998,
-          "value": 5431.19,
-          "avg_price": 0.409,
-          "cur_price": 0.675
         }
       ]
     },
@@ -601,163 +884,6 @@
           "value": 2274.28,
           "avg_price": 0.7167,
           "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "No",
-      "num_traders": 4,
-      "total_value": 75159.01,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.2208,
-          "value": 60238.69,
-          "avg_price": 0.4613,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4374,
-          "value": 9844.58,
-          "avg_price": 0.5108,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.211,
-          "value": 3027.65,
-          "avg_price": 0.3356,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 2048.09,
-          "avg_price": 0.3396,
-          "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 196462.99,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.2208,
-          "value": 166733.14,
-          "avg_price": 0.9099,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 23721.7,
-          "avg_price": 0.9257,
-          "cur_price": 0.935
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.211,
-          "value": 6008.15,
-          "avg_price": 0.9286,
-          "cur_price": 0.935
-        }
-      ]
-    },
-    {
-      "market": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "slug": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 80922.31,
-      "holders": [
-        {
-          "trader": "floatingraft",
-          "roi": 1.3924,
-          "value": 45249.85,
-          "avg_price": 0.8254,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "Tokor",
-          "roi": 1.405,
-          "value": 35267.55,
-          "avg_price": 0.7552,
-          "cur_price": 0.905
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.211,
-          "value": 404.91,
-          "avg_price": 0.4706,
-          "cur_price": 0.905
-        }
-      ]
-    },
-    {
-      "market": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 60057.23,
-      "holders": [
-        {
-          "trader": "ndb1",
-          "roi": 0.2208,
-          "value": 49552.41,
-          "avg_price": 0.32,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "mooseborzoi",
-          "roi": 0.4374,
-          "value": 9682.34,
-          "avg_price": 0.525,
-          "cur_price": 0.325
-        },
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 822.48,
-          "avg_price": 0.3486,
-          "cur_price": 0.325
-        }
-      ]
-    },
-    {
-      "market": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
-      "outcome": "No",
-      "num_traders": 3,
-      "total_value": 24656.91,
-      "holders": [
-        {
-          "trader": "purplegatto",
-          "roi": 0.4834,
-          "value": 12913.77,
-          "avg_price": 0.6669,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "TAIWANNUMBERONE",
-          "roi": 0.6367,
-          "value": 8174.98,
-          "avg_price": 0.72,
-          "cur_price": 0.545
-        },
-        {
-          "trader": "lissartter",
-          "roi": 0.211,
-          "value": 3568.16,
-          "avg_price": 0.5483,
-          "cur_price": 0.545
         }
       ]
     }
@@ -3549,7 +3675,6 @@
     "nba-sac-sas-2026-10-27-spread-home-18pt5::Kings": 3,
     "2026-balance-of-power-r-senate-d-house-444::Yes": 3,
     "nba-det-nyk-2026-10-27-spread-home-4pt5::Knicks": 3,
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 3,
     "nba-bkn-bos-2026-10-27-spread-home-11pt5::Nets": 3,
     "nba-por-lal-2026-10-27::Lakers": 3,
     "nba-por-lal-2026-10-27-spread-home-2pt5::Trail Blazers": 3,
@@ -3587,12 +3712,29 @@
     "will-the-democrats-win-the-maine-senate-race-in-2026::No": 3,
     "nba-lal-gsw-2026-10-30::Lakers": 3,
     "nba-cha-was-2026-10-30::Wizards": 3,
-    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 2,
-    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 2,
-    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 2,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
-    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 2,
-    "nba-mem-por-2026-10-29::Trail Blazers": 1
+    "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::No": 3,
+    "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections::Yes": 3,
+    "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516::No": 3,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 3,
+    "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel::No": 3,
+    "nba-mem-por-2026-10-29::Trail Blazers": 2,
+    "nba-sac-nop-2026-10-29::Pelicans": 1,
+    "lol-tes-blg-2026-10-28-game1::Bilibili Gaming": 1,
+    "will-ethereum-dip-to-2000-by-december-31-2026-from-august-24::Yes": 1,
+    "will-ethereum-dip-to-1250-by-december-31-2026-from-june-8::No": 1,
+    "nba-mem-por-2026-10-29-spread-home-7pt5::Grizzlies": 1,
+    "will-ethereum-reach-3500-by-december-31-2026::No": 1,
+    "nba-cle-atl-2026-10-29-total-237pt5::Over": 1,
+    "will-ethereum-reach-2800-in-october-2026::No": 1,
+    "will-ethereum-dip-to-2100-in-october-2026::No": 1,
+    "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889::Yes": 1,
+    "nba-mem-por-2026-10-29::Grizzlies": 1,
+    "will-ethereum-reach-2600-in-october-2026::No": 1,
+    "will-ethereum-reach-3000-in-october-2026::No": 1,
+    "nba-mem-por-2026-10-29-total-233pt5::Over": 1,
+    "will-ethereum-reach-2400-october-26-november-1-2026::No": 1,
+    "nba-mem-por-2026-10-29-total-233pt5::Under": 1,
+    "will-ethereum-dip-to-2100-october-26-november-1-2026::Yes": 1
   },
-  "updated_at": "2026-10-29T23:37:58.573929+00:00"
+  "updated_at": "2026-10-30T02:57:42.520753+00:00"
 }
