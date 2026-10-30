@@ -1,16 +1,276 @@
 {
   "seen_ids": [
-    "cs2-mouz-furia-2026-10-30::FURIA",
+    "nba-cha-was-2026-10-30::Wizards",
+    "nba-cha-was-2026-10-30::Hornets",
+    "lol-tl2-los-2026-10-30-game1::LOS",
     "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections::Yes",
     "lol-hle1-g2-2026-10-30::Hanwha Life Esports",
-    "dota2-liquid-og-2026-10-30-game2::Team Liquid",
     "will-the-republicans-win-the-nebraska-senate-race-in-2026::Yes",
-    "nba-cha-was-2026-10-30::Wizards",
-    "will-the-democrats-win-the-maine-senate-race-in-2026::Yes",
     "will-the-republicans-win-the-kansas-senate-race-in-2026::Yes",
     "will-the-republicans-win-the-maine-senate-race-in-2026::Yes"
   ],
   "signals": [
+    {
+      "market": "Hornets vs. Wizards",
+      "slug": "nba-cha-was-2026-10-30",
+      "outcome": "Wizards",
+      "num_traders": 4,
+      "total_value": 97932.65,
+      "holders": [
+        {
+          "trader": "monkeymashingkeyboard",
+          "roi": 0.3619,
+          "value": 57552.23,
+          "avg_price": 0.5196,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.4017,
+          "value": 39600,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2125,
+          "value": 615.57,
+          "avg_price": 0.5171,
+          "cur_price": 0.495
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.5098,
+          "value": 164.85,
+          "avg_price": 0.5,
+          "cur_price": 0.495
+        }
+      ]
+    },
+    {
+      "market": "Hornets vs. Wizards",
+      "slug": "nba-cha-was-2026-10-30",
+      "outcome": "Hornets",
+      "num_traders": 4,
+      "total_value": 97088.98,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.6333,
+          "value": 81666.16,
+          "avg_price": 0.5,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "JoeyAroyyOO",
+          "roi": 0.6309,
+          "value": 13202.61,
+          "avg_price": 0.51,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "hi774c",
+          "roi": 0.5098,
+          "value": 1143.27,
+          "avg_price": 0.48,
+          "cur_price": 0.505
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4707,
+          "value": 1076.94,
+          "avg_price": 0.4999,
+          "cur_price": 0.505
+        }
+      ]
+    },
+    {
+      "market": "LoL: Team Liquid vs LOS - Game 1 Winner",
+      "slug": "lol-tl2-los-2026-10-30-game1",
+      "outcome": "LOS",
+      "num_traders": 4,
+      "total_value": 21155.46,
+      "holders": [
+        {
+          "trader": "luckycat888888",
+          "roi": 0.737,
+          "value": 8427.11,
+          "avg_price": 0.36,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.6056,
+          "value": 4517.59,
+          "avg_price": 0.2899,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "GeorgeRe",
+          "roi": 0.2668,
+          "value": 4420.29,
+          "avg_price": 0.4,
+          "cur_price": 0.995
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2125,
+          "value": 3790.47,
+          "avg_price": 0.5,
+          "cur_price": 0.995
+        }
+      ]
+    },
+    {
+      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 271739.92,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.6333,
+          "value": 266639.4,
+          "avg_price": 0.67,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4707,
+          "value": 4847.47,
+          "avg_price": 0.6599,
+          "cur_price": 0.705
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2125,
+          "value": 253.05,
+          "avg_price": 0.6678,
+          "cur_price": 0.705
+        }
+      ]
+    },
+    {
+      "market": "LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage",
+      "slug": "lol-hle1-g2-2026-10-30",
+      "outcome": "Hanwha Life Esports",
+      "num_traders": 3,
+      "total_value": 139154.57,
+      "holders": [
+        {
+          "trader": "Mooseborzoiii",
+          "roi": 0.1998,
+          "value": 99252.96,
+          "avg_price": 0.78,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "lllllllIlll",
+          "roi": 0.3337,
+          "value": 39250,
+          "avg_price": 0.79,
+          "cur_price": 0.785
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2125,
+          "value": 651.61,
+          "avg_price": 0.7908,
+          "cur_price": 0.785
+        }
+      ]
+    },
+    {
+      "market": "Will the Republicans win the Nebraska Senate race in 2026?",
+      "slug": "will-the-republicans-win-the-nebraska-senate-race-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 94726.97,
+      "holders": [
+        {
+          "trader": "BreakTheBank",
+          "roi": 0.6333,
+          "value": 70332.72,
+          "avg_price": 0.6914,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4707,
+          "value": 18794.34,
+          "avg_price": 0.7138,
+          "cur_price": 0.675
+        },
+        {
+          "trader": "anoin123",
+          "roi": 0.5196,
+          "value": 5599.91,
+          "avg_price": 0.6867,
+          "cur_price": 0.675
+        }
+      ]
+    },
+    {
+      "market": "Will the Republicans win the Kansas Senate race in 2026?",
+      "slug": "will-the-republicans-win-the-kansas-senate-race-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 14439.85,
+      "holders": [
+        {
+          "trader": "anoin123",
+          "roi": 0.5196,
+          "value": 10374.03,
+          "avg_price": 0.7258,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "PEYZ-BIGGEST-FAN",
+          "roi": 0.6056,
+          "value": 2141.72,
+          "avg_price": 0.62,
+          "cur_price": 0.465
+        },
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4707,
+          "value": 1924.1,
+          "avg_price": 0.49,
+          "cur_price": 0.465
+        }
+      ]
+    },
+    {
+      "market": "Will the Republicans win the Maine Senate race in 2026?",
+      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+      "outcome": "Yes",
+      "num_traders": 3,
+      "total_value": 6179.31,
+      "holders": [
+        {
+          "trader": "AnonymousUsername",
+          "roi": 0.4707,
+          "value": 2981.99,
+          "avg_price": 0.38,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
+          "roi": 0.4017,
+          "value": 2829.57,
+          "avg_price": 0.3393,
+          "cur_price": 0.305
+        },
+        {
+          "trader": "suntori",
+          "roi": 0.2125,
+          "value": 367.75,
+          "avg_price": 0.3689,
+          "cur_price": 0.305
+        }
+      ]
+    },
     {
       "market": "Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
       "slug": "cs2-mouz-furia-2026-10-30",
@@ -49,66 +309,6 @@
       ]
     },
     {
-      "market": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 279416.43,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6333,
-          "value": 274203.63,
-          "avg_price": 0.67,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4707,
-          "value": 4984.99,
-          "avg_price": 0.6599,
-          "cur_price": 0.725
-        },
-        {
-          "trader": "suntori",
-          "roi": 0.2125,
-          "value": 227.81,
-          "avg_price": 0.6604,
-          "cur_price": 0.725
-        }
-      ]
-    },
-    {
-      "market": "LoL: Hanwha Life Esports vs G2 Esports (BO3) - Worlds Group Stage",
-      "slug": "lol-hle1-g2-2026-10-30",
-      "outcome": "Hanwha Life Esports",
-      "num_traders": 3,
-      "total_value": 107038.8,
-      "holders": [
-        {
-          "trader": "Mooseborzoiii",
-          "roi": 0.1998,
-          "value": 86871.76,
-          "avg_price": 0.78,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "lllllllIlll",
-          "roi": 0.3337,
-          "value": 19625,
-          "avg_price": 0.79,
-          "cur_price": 0.785
-        },
-        {
-          "trader": "suntori",
-          "roi": 0.2125,
-          "value": 542.04,
-          "avg_price": 0.7909,
-          "cur_price": 0.785
-        }
-      ]
-    },
-    {
       "market": "Dota 2: Team Liquid vs OG - Game 2 Winner",
       "slug": "dota2-liquid-og-2026-10-30-game2",
       "outcome": "Team Liquid",
@@ -139,66 +339,6 @@
       ]
     },
     {
-      "market": "Will the Republicans win the Nebraska Senate race in 2026?",
-      "slug": "will-the-republicans-win-the-nebraska-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 94726.97,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 0.6333,
-          "value": 70332.72,
-          "avg_price": 0.6914,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4707,
-          "value": 18794.34,
-          "avg_price": 0.7138,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "anoin123",
-          "roi": 0.5196,
-          "value": 5599.91,
-          "avg_price": 0.6867,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Hornets vs. Wizards",
-      "slug": "nba-cha-was-2026-10-30",
-      "outcome": "Wizards",
-      "num_traders": 3,
-      "total_value": 58108.83,
-      "holders": [
-        {
-          "trader": "monkeymashingkeyboard",
-          "roi": 0.3619,
-          "value": 57552.23,
-          "avg_price": 0.5196,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "suntori",
-          "roi": 0.2125,
-          "value": 391.75,
-          "avg_price": 0.5284,
-          "cur_price": 0.495
-        },
-        {
-          "trader": "hi774c",
-          "roi": 0.5098,
-          "value": 164.85,
-          "avg_price": 0.5,
-          "cur_price": 0.495
-        }
-      ]
-    },
-    {
       "market": "Will the Democrats win the Maine Senate race in 2026?",
       "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
       "outcome": "Yes",
@@ -225,66 +365,6 @@
           "value": 232.27,
           "avg_price": 0.6627,
           "cur_price": 0.685
-        }
-      ]
-    },
-    {
-      "market": "Will the Republicans win the Kansas Senate race in 2026?",
-      "slug": "will-the-republicans-win-the-kansas-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 14129.32,
-      "holders": [
-        {
-          "trader": "anoin123",
-          "roi": 0.5196,
-          "value": 10150.94,
-          "avg_price": 0.7258,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "PEYZ-BIGGEST-FAN",
-          "roi": 0.6056,
-          "value": 2095.66,
-          "avg_price": 0.62,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4707,
-          "value": 1882.72,
-          "avg_price": 0.49,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Will the Republicans win the Maine Senate race in 2026?",
-      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 6368.85,
-      "holders": [
-        {
-          "trader": "AnonymousUsername",
-          "roi": 0.4707,
-          "value": 3079.76,
-          "avg_price": 0.38,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "0xf5592765133941c40C77e52Bc56bbe7EC167F462-1755612447740",
-          "roi": 0.4017,
-          "value": 2922.34,
-          "avg_price": 0.3393,
-          "cur_price": 0.315
-        },
-        {
-          "trader": "suntori",
-          "roi": 0.2125,
-          "value": 366.75,
-          "avg_price": 0.371,
-          "cur_price": 0.315
         }
       ]
     },
@@ -516,297 +596,6 @@
           "value": 215.66,
           "avg_price": 0.573,
           "cur_price": 0.5895
-        }
-      ]
-    },
-    {
-      "market": "Panthers vs. Packers",
-      "slug": "nfl-car-gb-2026-10-30",
-      "outcome": "Packers",
-      "num_traders": 5,
-      "total_value": 112281.52,
-      "holders": [
-        {
-          "trader": "Meatballsubs",
-          "roi": 0.3017,
-          "value": 45058.5,
-          "avg_price": 0.6,
-          "cur_price": 0.969
-        },
-        {
-          "trader": "milkteaboba",
-          "roi": 0.3332,
-          "value": 42565.65,
-          "avg_price": 0.5699,
-          "cur_price": 0.969
-        },
-        {
-          "trader": "BreakTheBank",
-          "roi": 1.4278,
-          "value": 17998.4,
-          "avg_price": 0.63,
-          "cur_price": 0.966
-        },
-        {
-          "trader": "primm",
-          "roi": 0.1899,
-          "value": 5235.13,
-          "avg_price": 0.63,
-          "cur_price": 0.9685
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 1423.84,
-          "avg_price": 0.665,
-          "cur_price": 0.966
-        }
-      ]
-    },
-    {
-      "market": "Panthers vs. Packers: O/U 46.5",
-      "slug": "nfl-car-gb-2026-10-30-total-46pt5",
-      "outcome": "Over",
-      "num_traders": 4,
-      "total_value": 43813.66,
-      "holders": [
-        {
-          "trader": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
-          "roi": 0.497,
-          "value": 26640.45,
-          "avg_price": 0.52,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.6799,
-          "value": 11132.76,
-          "avg_price": 0.5355,
-          "cur_price": 0.515
-        },
-        {
-          "trader": "primm",
-          "roi": 0.1899,
-          "value": 5333.37,
-          "avg_price": 0.6077,
-          "cur_price": 0.5
-        },
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1544,
-          "value": 707.08,
-          "avg_price": 0.55,
-          "cur_price": 0.515
-        }
-      ]
-    },
-    {
-      "market": "Spread: Packers (-3.5)",
-      "slug": "nfl-car-gb-2026-10-30-spread-home-3pt5",
-      "outcome": "Packers",
-      "num_traders": 3,
-      "total_value": 467710.08,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 1.4278,
-          "value": 462500,
-          "avg_price": 0.5,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 2991.93,
-          "avg_price": 0.4976,
-          "cur_price": 0.925
-        },
-        {
-          "trader": "primm",
-          "roi": 0.1899,
-          "value": 2218.15,
-          "avg_price": 0.4408,
-          "cur_price": 0.925
-        }
-      ]
-    },
-    {
-      "market": "2026 Balance of Power: D Senate, D House",
-      "slug": "2026-balance-of-power-d-senate-d-house-949",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 223745.48,
-      "holders": [
-        {
-          "trader": "BreakTheBank",
-          "roi": 1.4278,
-          "value": 204452.43,
-          "avg_price": 0.6585,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "zb8",
-          "roi": 0.6799,
-          "value": 15517.46,
-          "avg_price": 0.4394,
-          "cur_price": 0.675
-        },
-        {
-          "trader": "Edu12345",
-          "roi": 0.5293,
-          "value": 3775.59,
-          "avg_price": 0.6799,
-          "cur_price": 0.675
-        }
-      ]
-    },
-    {
-      "market": "Will CR Flamengo win on 2026-10-29?",
-      "slug": "bra-vas-fla-2026-10-29-fla",
-      "outcome": "Yes",
-      "num_traders": 3,
-      "total_value": 119031.74,
-      "holders": [
-        {
-          "trader": "theowalcott",
-          "roi": 0.4122,
-          "value": 116077.37,
-          "avg_price": 0.5749,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.8195,
-          "value": 2137.56,
-          "avg_price": 0.7389,
-          "cur_price": 0.9995
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 2.5372,
-          "value": 816.81,
-          "avg_price": 0.4709,
-          "cur_price": 0.9995
-        }
-      ]
-    },
-    {
-      "market": "Panthers vs. Packers: O/U 48.5",
-      "slug": "nfl-car-gb-2026-10-30-total-48pt5",
-      "outcome": "Under",
-      "num_traders": 3,
-      "total_value": 98100.36,
-      "holders": [
-        {
-          "trader": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-          "roi": 0.1544,
-          "value": 96199.92,
-          "avg_price": 0.56,
-          "cur_price": 0.74
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 1755.57,
-          "avg_price": 0.4129,
-          "cur_price": 0.74
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 2.5372,
-          "value": 144.87,
-          "avg_price": 0.5299,
-          "cur_price": 0.74
-        }
-      ]
-    },
-    {
-      "market": "Senators vs. Kings",
-      "slug": "nhl-ott-lak-2026-10-29",
-      "outcome": "Kings",
-      "num_traders": 3,
-      "total_value": 18038.75,
-      "holders": [
-        {
-          "trader": "zb8",
-          "roi": 0.6799,
-          "value": 9977.09,
-          "avg_price": 0.4679,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 7958.45,
-          "avg_price": 0.4699,
-          "cur_price": 0.455
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 2.5372,
-          "value": 103.21,
-          "avg_price": 0.4761,
-          "cur_price": 0.455
-        }
-      ]
-    },
-    {
-      "market": "Seoul: Sho Shimabukuro vs Coleman Wong",
-      "slug": "atp-shimabu-wong-2026-10-29",
-      "outcome": "Coleman Wong",
-      "num_traders": 3,
-      "total_value": 4941.82,
-      "holders": [
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 3525.59,
-          "avg_price": 0.522,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.8195,
-          "value": 993.54,
-          "avg_price": 0.6287,
-          "cur_price": 0.505
-        },
-        {
-          "trader": "omnibus-076daa",
-          "roi": 2.5372,
-          "value": 422.69,
-          "avg_price": 0.8,
-          "cur_price": 0.505
-        }
-      ]
-    },
-    {
-      "market": "Spread: North Texas (-5.5)",
-      "slug": "cfb-flatl-ntx-2026-10-29-spread-home-5pt5",
-      "outcome": "Florida Atlantic",
-      "num_traders": 3,
-      "total_value": 4575.41,
-      "holders": [
-        {
-          "trader": "primm",
-          "roi": 0.1899,
-          "value": 2378.38,
-          "avg_price": 0.37,
-          "cur_price": 0.44
-        },
-        {
-          "trader": "alpheclabs",
-          "roi": 0.8195,
-          "value": 1478.28,
-          "avg_price": 0.3187,
-          "cur_price": 0.485
-        },
-        {
-          "trader": "ferrariChampions2026",
-          "roi": 0.2434,
-          "value": 718.75,
-          "avg_price": 0.3444,
-          "cur_price": 0.37
         }
       ]
     }
@@ -3653,22 +3442,25 @@
     "will-ethereum-reach-2400-october-26-november-1-2026::No": 3,
     "nba-mem-por-2026-10-29-total-233pt5::Under": 3,
     "will-ethereum-dip-to-2100-october-26-november-1-2026::Yes": 3,
-    "nfl-car-gb-2026-10-30::Packers": 2,
-    "nfl-car-gb-2026-10-30-total-46pt5::Over": 2,
-    "nfl-car-gb-2026-10-30-spread-home-3pt5::Packers": 2,
-    "2026-balance-of-power-d-senate-d-house-949::Yes": 2,
-    "bra-vas-fla-2026-10-29-fla::Yes": 2,
-    "nfl-car-gb-2026-10-30-total-48pt5::Under": 2,
-    "nhl-ott-lak-2026-10-29::Kings": 2,
-    "atp-shimabu-wong-2026-10-29::Coleman Wong": 2,
-    "cfb-flatl-ntx-2026-10-29-spread-home-5pt5::Florida Atlantic": 2,
-    "wta-eala-shnaide-2026-10-29::Alexandra Eala": 1,
-    "wta-su-liu-2026-10-29::Xinran Sun": 1,
-    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 1,
-    "wta-quevedo-teichma-2026-10-30::Kaitlin Quevedo": 1,
-    "cfb-oregst-frest-2026-10-31-spread-away-6pt5::Fresno State": 1,
-    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 1,
-    "atp-camacho-silv-2026-10-29::Emilio Camacho": 1
+    "nfl-car-gb-2026-10-30::Packers": 3,
+    "nfl-car-gb-2026-10-30-total-46pt5::Over": 3,
+    "nfl-car-gb-2026-10-30-spread-home-3pt5::Packers": 3,
+    "2026-balance-of-power-d-senate-d-house-949::Yes": 3,
+    "bra-vas-fla-2026-10-29-fla::Yes": 3,
+    "nfl-car-gb-2026-10-30-total-48pt5::Under": 3,
+    "nhl-ott-lak-2026-10-29::Kings": 3,
+    "atp-shimabu-wong-2026-10-29::Coleman Wong": 3,
+    "cfb-flatl-ntx-2026-10-29-spread-home-5pt5::Florida Atlantic": 3,
+    "wta-eala-shnaide-2026-10-29::Alexandra Eala": 2,
+    "wta-su-liu-2026-10-29::Xinran Sun": 2,
+    "will-oklahoma-city-thunder-win-the-2027-nba-finals::Yes": 2,
+    "wta-quevedo-teichma-2026-10-30::Kaitlin Quevedo": 2,
+    "cfb-oregst-frest-2026-10-31-spread-away-6pt5::Fresno State": 2,
+    "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections::Yes": 2,
+    "atp-camacho-silv-2026-10-29::Emilio Camacho": 2,
+    "cs2-mouz-furia-2026-10-30::FURIA": 1,
+    "dota2-liquid-og-2026-10-30-game2::Team Liquid": 1,
+    "will-the-democrats-win-the-maine-senate-race-in-2026::Yes": 1
   },
-  "updated_at": "2026-10-30T16:18:56.132045+00:00"
+  "updated_at": "2026-10-30T20:54:21.318601+00:00"
 }
